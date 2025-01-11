@@ -1,0 +1,62 @@
+{
+    "info": {
+        "id": "digimon-adventure-02-movie-18562",
+        "anilistId": 137310,
+        "malId": 49523,
+        "name": "Digimon Adventure 02 Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ca4978eb929f6cb449d3455540c51b.jpg",
+        "description": "Two years after the battle against Eosmon, Davis Motomiya, Ken Ichijouji, Yolei Inoue, Cody Hida, T.K. Takaishi, and Kari Kamiya meet a boy named Rui Owada, who is found with a depowered Digivice and claims to be the first Digidestined ever. In addition, a Digimon named Ukkomon appears in the real world, who wants every person in the world to have their own Digimon partner.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "20m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "デジモンアドベンチャー02 THE BEGINNING",
+        "synonyms": "Digimon Adventure 02 Movie",
+        "aired": "Oct 27, 2023",
+        "premiered": "Fall 2023",
+        "duration": "1h 20m",
+        "status": "Finished Airing",
+        "malscore": "6.76",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "studios": "Yumeta Company",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "digimon-adventure-02-movie-18562?ep=124776",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/153f6e5b3d8e81263aeff7127d85ff5569320cddede997d4152f37b910b06fd6e335c5f27512070c81c011c7917de767930d62b487ba1d52bf5026457c0fe31aa1b7a7170ee249864422287e99ddf62e9977245dc74bef305fde67c5820eff0ce73bbafb949bb10b6137ee3a57b77edf1404a02b81934614a95c3b4541a37f98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65902e2b35e5e9c5e2b011f375eaa24c/65902e2b35e5e9c5e2b011f375eaa24c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/153f6e5b3d8e81263aeff7127d85ff5569320cddede997d4152f37b910b06fd6e335c5f27512070c81c011c7917de767f07c9d5a6ec7201bcd3af8eace962d346576c0822e7dd98aea68560af6a2770bb1088093ce2c05b06b5e83cc680d329178a9f122adb6e7307f483806852056460adad44c07bf06515a9572f657a84606857b6c36390760e813648355bf6a82ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65902e2b35e5e9c5e2b011f375eaa24c/65902e2b35e5e9c5e2b011f375eaa24c.vtt"
+                }
+            ]
+        }
+    ]
+}

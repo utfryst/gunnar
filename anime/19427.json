@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "ssssdynazenon-movie-19427",
+        "anilistId": 0,
+        "malId": 53851,
+        "name": "SSSS.Dynazenon Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049f94ac8dda02ae66f84ae917053d01.jpg",
+        "description": "Compilation film of .",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "2h"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "SSSS.DYNAZENON 劇場総集編",
+        "synonyms": "SSSS.Dynazenon Recap",
+        "aired": "Mar 10, 2023",
+        "premiered": "Winter 2023",
+        "duration": "2h",
+        "status": "Finished Airing",
+        "malscore": "6.75",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Trigger",
+        "producers": [
+            "Pony Canyon"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "ssssdynazenon-movie-19427?ep=130060",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/864ce1364e9eeff47c090863eb00284ac2a88f34774c0a38b2d2011f6109993fbf214fe9f7deaca7531f8a12b269595d5a9021ab83a0104e37c1cc9c259fa69fb59697fea464153602ff232ffbde13c1126e316c4cd985136f2bf5e162372e25a222f694a1098dcdfbe8f0e387773ae15e7aa3fe44a7fb97029e68b133f11851/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/096caf8712555e3d099b4f5d321760ea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/864ce1364e9eeff47c090863eb00284ac2a88f34774c0a38b2d2011f6109993fbf214fe9f7deaca7531f8a12b269595d1ce26482ac54eac09d74e19fad0d7e2f6afc3bca9f09f29ce8f4c06ddc091011df244b141485f972b22a50fcdf4d1d87573f590f6840eb8e4656dfc86bf6e94faa9060009ad1ed3a47800f46881d99998e909ef23bc9ab84de3d71426e5a5b59/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/096caf8712555e3d099b4f5d321760ea/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

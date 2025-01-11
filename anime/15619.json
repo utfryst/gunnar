@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "yuru-camp-movie-15619",
+        "anilistId": 0,
+        "malId": 38475,
+        "name": "Yuru Camp△ Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a0bf9db0e9d58d1f3c9585b1709d68f.jpg",
+        "description": "The anime film will feature the familiar characters from the franchise now grown up, and reuniting to construct a campsite.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "2h"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "映画 ゆるキャン△",
+        "synonyms": "Eiga Yuru Camp",
+        "aired": "Jul 1, 2022",
+        "premiered": "Summer 2022",
+        "duration": "2h",
+        "status": "Finished Airing",
+        "malscore": "8.27",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "studios": "C-Station",
+        "producers": [
+            "DeNA",
+            "C-Station"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "yuru-camp-movie-15619?ep=95429",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9fef47712183331c4a554264870cf9a072006b661c1b8caedbc4303dbbeb9c0e653d18bf48cb94467ba2b1300b563c94e7c4d5a297b4679b9f516c1ff4b828e59e472e2165585d48238e1de5cf40a598db0223937f3e00dfd95a11ba1b2e45919f64157511e0f2d280b321e1ca66f1272d4df8c2cb4e9c308d14f67ab9e1bbc7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/879a2ef51244100b1b6ad0f3a4e04eb5/879a2ef51244100b1b6ad0f3a4e04eb5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9fef47712183331c4a554264870cf9a072006b661c1b8caedbc4303dbbeb9c0e653d18bf48cb94467ba2b1300b563c944184149a9a45af8c974bb7ddef8102aa0c5995620861edb131d8a6e9ef3fef2d9f2e7ed135771efd3c2c22143f7228f1401124111827902d9597852df745215059683b8af0d87161ba89592b157d193829416453492e4fa8edd6bdd790a97ecd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/879a2ef51244100b1b6ad0f3a4e04eb5/879a2ef51244100b1b6ad0f3a4e04eb5.vtt"
+                }
+            ]
+        }
+    ]
+}

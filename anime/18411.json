@@ -1,0 +1,55 @@
+{
+    "info": {
+        "id": "tsurune-movie-hajimari-no-issha-18411",
+        "anilistId": 0,
+        "malId": 0,
+        "name": "Tsurune Movie: Hajimari no Issha",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f40cf1a43b0d1eb573720c36cb57e3ad.jpg",
+        "description": "Movie adaptation of Tsurune: Kazemai Koukou Kyuudoubu.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "42m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "劇場版ツルネ －はじまりの一射",
+        "aired": "Aug 19, 2022",
+        "premiered": "Summer 2022",
+        "duration": "1h 42m",
+        "status": "Finished Airing",
+        "malscore": "7.01",
+        "genres": [
+            "School",
+            "Sports"
+        ],
+        "studios": "Kyoto Animation"
+    },
+    "episodes": [
+        {
+            "title": "HD-1080p",
+            "episodeId": "tsurune-movie-hajimari-no-issha-18411?ep=102123",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2a8daf2b88bc621227be758896a678e242280aa41bc8cdd38f987014113400034cdfc27d8256a65d4f34dc83db04f81049f80b35ff24d30136f8a90ba305ab1656fedbdab9adfec26fa5bf598c118382a9cee93f7b385396f72caa511cf19ba17d56eed0fa97fbe23513586401bb4a337a0ce662b2f023b7b2b2bbe65c80b78f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76378aa88c2e373dfbe8b527fd8a7ab7/76378aa88c2e373dfbe8b527fd8a7ab7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2a8daf2b88bc621227be758896a678e242280aa41bc8cdd38f987014113400034cdfc27d8256a65d4f34dc83db04f8101a2a60f475ad0798e4b7e2c8788c850edde474f57481f593c549df7acae539e1da28f9d4c908d365e4a280500aac460a9e57ba73398f76cb9ba480de18ce3e70d21221b13ba3111871efb2ee5f2d1f3856e4793042b8aebc33199ce5b6c91297/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76378aa88c2e373dfbe8b527fd8a7ab7/76378aa88c2e373dfbe8b527fd8a7ab7.vtt"
+                }
+            ]
+        }
+    ]
+}

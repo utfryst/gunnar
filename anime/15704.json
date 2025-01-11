@@ -1,0 +1,62 @@
+{
+    "info": {
+        "id": "fatekaleid-liner-prismaillya-movie-15704",
+        "anilistId": 0,
+        "malId": 42030,
+        "name": "Fate/kaleid liner Prisma☆Illya Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/332643cd7bcd06075a3f06f555d24384.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "35m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Ea5amBL5qVo",
+                "thumbnail": "https://i.ytimg.com/vi/Ea5amBL5qVo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "劇場版 Fate/kaleid liner プリズマ☆イリヤ",
+        "synonyms": "Fate/kaleid liner Prisma☆Illya Movie: Licht Namae no Nai Shoujo",
+        "aired": "Aug 27, 2021",
+        "premiered": "Summer 2021",
+        "duration": "1h 35m",
+        "status": "Finished Airing",
+        "malscore": "7.22",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Magic"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "fatekaleid-liner-prismaillya-movie-15704?ep=90744",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bea86f29de0e16b6e805043b115d5d1d7b6fe7f1ed015785b25039e22262b3af598a04b0181ed28dc2f44883a1afd6dd475155500b03ed70ee00bfd5927daf03529d1ed8dcda4448a4b950d9e3b0d951d2df209dc03bf379fdd098d53592d343ad33866b3014f77a39779b926015ca4501556229cec6a2025a1f3f7001707486/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90ece2993f89bb657bfead0ded22cc3f/90ece2993f89bb657bfead0ded22cc3f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bea86f29de0e16b6e805043b115d5d1d7b6fe7f1ed015785b25039e22262b3af598a04b0181ed28dc2f44883a1afd6dd44c656f8c737f9f44e94e2085db559d0cce3e1a07cb677a3cca6f466c152bff78c681d1bc68046ef1dd91a9bf03c202d697b212e9508e6edbb5aba2a542bbc076910a5ad8834620b816616086f626dbce420818b33c71639796d46c403079666/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90ece2993f89bb657bfead0ded22cc3f/90ece2993f89bb657bfead0ded22cc3f.vtt"
+                }
+            ]
+        }
+    ]
+}

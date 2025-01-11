@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "death-hall-19178",
+        "anilistId": 0,
+        "malId": 50993,
+        "name": "Death Hall",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a557386a14c128196614d18d80b37ad.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "ONA",
+            "duration": "11m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "死役所",
+        "aired": "Feb 9, 2022",
+        "premiered": "Winter 2022",
+        "duration": "11m",
+        "status": "Finished Airing",
+        "malscore": "6.54",
+        "genres": [
+            "Slice of Life",
+            "Seinen"
+        ],
+        "studios": "Typhoon Graphics",
+        "producers": [
+            "Shinchosha",
+            "Frontier Works",
+            "Stay Luck"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "FULL",
+            "episodeId": "death-hall-19178?ep=124945",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f6f7357d4b604ba6905d9af65f670f6203b8e0cdfd715ff6df8b28eeaedcb865f8e2e48aa7c26c38a2b0a613db780f6b45b1a7f1ef7f82c2e041980abdb58fb599a92c4e51bc2316cabd597af5b81b7d9eb4a2894941c93dee2fab3087482fa5c3da2824b7a04a6e403e63a11435e05ef2f84cc6052bcc9719c694392ee84d90/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e43028c9ac04c19752264f47a0df0df/6e43028c9ac04c19752264f47a0df0df.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f6f7357d4b604ba6905d9af65f670f6203b8e0cdfd715ff6df8b28eeaedcb865f8e2e48aa7c26c38a2b0a613db780f6bab2d137205293261626919595f13edb8c1418be5a3cf99324c08e798d64978748ba3e172c88bbd7975c782b9f0a6205cf1072bfd8ab36f81d90e4d4335db8725d12e33c8a22f771fb85c06e4003d6589f3f5330fca6764e1c56601585b6108fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e43028c9ac04c19752264f47a0df0df/6e43028c9ac04c19752264f47a0df0df.vtt"
+                }
+            ]
+        }
+    ]
+}

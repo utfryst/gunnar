@@ -1,0 +1,56 @@
+{
+    "info": {
+        "id": "tokyo-24-ku-reversal-film-18019",
+        "anilistId": 0,
+        "malId": 51296,
+        "name": "Tokyo 24-ku: Reversal Film",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6dbb0fab275d42ba317aa626a5dfc42.jpg",
+        "description": "Recap of the first 9 episodes.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "東京24区 第9.5話「Reversal film」",
+        "synonyms": "Tokyo 24-ku Episode 9.5, Tokyo 24-ku Recap, Tokyo 24th Ward Recap",
+        "aired": "Mar 17, 2022",
+        "premiered": "Winter 2022",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "studios": "CloverWorks"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "tokyo-24-ku-reversal-film-18019?ep=88420",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d47f62bc67d1bd58a37a0cfec416c2e304d03ada77a208914323e6de34e582e097fe67ee97ccd7c7dd62dcb96e84127ef1ab01b11567f9d9fdc11428a03c5c3485c23da3d061d5e89c7a35d461b684cea7b71664204bb5624a872e7a0f1e4d3364cd60dbde7004eda0b5177d925aa6e2d26ec8b15a322dbc694b48928a6e89a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b00e1b10ee6fd3b02dd80a41094a425/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d47f62bc67d1bd58a37a0cfec416c2e304d03ada77a208914323e6de34e582e097fe67ee97ccd7c7dd62dcb96e84127e074994cc95f1ab70cd992f903c23f98e2f00dd4506b7d1c8a169f132304c262b1fde9f3e54f83d174652079f7b6634ab7fff851a667e271198bd2efa82958a2530bd789e6d09b4dea64257ae76f27da200716d00e70b71fbc1bd58e26e73d5d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b00e1b10ee6fd3b02dd80a41094a425/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

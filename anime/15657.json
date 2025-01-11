@@ -1,0 +1,113 @@
+{
+    "info": {
+        "id": "bean-bandit-15657",
+        "anilistId": 0,
+        "malId": 37483,
+        "name": "Bean Bandit",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdcbc8e7659200320523589045c5f7d5.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "OVA",
+            "duration": "11m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "bean-bandit-6143",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf294ccbb90731fd7f13a6b5b9743bb3.jpg",
+                    "name": "Bandit, Bean",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hidenori-takahashi-3197",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0bce6940af04385bb3430cc0e12f2a25.jpg",
+                    "name": "Takahashi, Hidenori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "may-hopkins-7679",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ff5558e3dc03d0df3bb0efe477df7598.jpg",
+                    "name": "Hopkins, May",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiromi-igarashi-570",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/289e110843d0bcc1ffe66342802a9ab6.jpg",
+                    "name": "Igarashi, Hiromi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "irene-vincent-2988",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/059236233cff17cb63f4b8cc7edcc6fb.jpg",
+                    "name": "Vincent, Irene",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayaka-asai-1385",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dedebe8d9cabaa4b2d8635bc7774d0ea.jpg",
+                    "name": "Asai, Ayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "becky-farrah-19354",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d6242224cdddcd8fb20995b2f3ce060.jpg",
+                    "name": "Farrah, Becky",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "eri-kitamura-69",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb6266b14443e96793d946122a4c9529.jpg",
+                    "name": "Kitamura, Eri",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "BEAN BANDIT",
+        "aired": "Jan 19, 2021",
+        "premiered": "Winter 2021",
+        "duration": "11m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Police",
+            "Seinen"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "bean-bandit-15657?ep=91922",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cb710f7abc21e31ca6f3280d4821332990c1f7fa0e9d13f9066026c073e0b54391cdbd38f2755020b4f24742d5f5777d90ba3309d8f2dfc5891d4d3f6dfec6ccc200f65ef4e78174d2b76e0ec5fe1c5f1f52374f2d5db0f2863d04adc1aa16a0654dc5f4317cc5d47b2541e3f2cb6cdf32b4ee58d799d8b92d5858c215d420db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46fdd9a83d71a1bbdad0c58e64224355/46fdd9a83d71a1bbdad0c58e64224355.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cb710f7abc21e31ca6f3280d4821332990c1f7fa0e9d13f9066026c073e0b54391cdbd38f2755020b4f24742d5f5777dc1a6f71c3975f2ac517c4113cd5e948d7370e13c00836b98fa32caba0ec8620bd2bbfe7c612b58385c0b7f677efec3b7fd9a35ebbe0c582a3331350c6710196bf103e648ad02dd74825b921e657458706e1e8d1463c6d4c67032a50f740d8fc9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46fdd9a83d71a1bbdad0c58e64224355/46fdd9a83d71a1bbdad0c58e64224355.vtt"
+                }
+            ]
+        }
+    ]
+}

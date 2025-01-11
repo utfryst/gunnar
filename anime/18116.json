@@ -1,0 +1,77 @@
+{
+    "info": {
+        "id": "bang-dream-morfonication-18116",
+        "anilistId": 146501,
+        "malId": 51989,
+        "name": "BanG Dream! Morfonication",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13b54a793d89ed527723a77765e486b2.jpg",
+        "description": "Two special episodes featuring a violin rock band, Morfonica.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "BanG Dream! Morfonication",
+        "aired": "Jul 28, 2022 to Jul 29, 2022",
+        "premiered": "Summer 2022",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Music"
+        ],
+        "studios": "SANZIGEN",
+        "producers": [
+            "HoriPro International",
+            "Good Smile Company",
+            "Ultra Super Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Monica`s Summer Plan",
+            "episodeId": "bang-dream-morfonication-18116?ep=93054",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/94d08b4f28e8590379496dd228ee4a7828a7be29c4347c862f1605f6888c603a336f2902eaabd07872ecfd0d744d7141598d68943a8cad16d039e9465a6582ea62226c39099d61bcac67183a9a457f0fc34d3eb5698c8e7e3de5f0ca92bbf5323e202f2aff2b674dbb079aa52945c2d38e1f20d4cac9e2380c52f8095ff0943e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42259ec89794909393a10f985bc7ab15/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/94d08b4f28e8590379496dd228ee4a7828a7be29c4347c862f1605f6888c603a336f2902eaabd07872ecfd0d744d71410195816a784e6cec80c9d1e938b7938512e5313e46b9b078448b8bf73343fee271692029cfb5e12b0ce5a4e76e1fb34700f036f244aa4316b56e226d3ae8e614b84e12efb1b152621c3d8813f4ee4cc3fd23b24290baf694a8735de06842a1d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42259ec89794909393a10f985bc7ab15/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shining Days",
+            "episodeId": "bang-dream-morfonication-18116?ep=93055",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f05dafeae61c43f44dc72b3ab8b30fa3efc4f43ee57e850c449eeb43cf991d374d1be27d20fa41a4e2c31cd8e13d9c24f551e23120f1133c7c5c4c6a91bb8411a6b28c4ae0281396cdf7d672b2e3793f3ab33880eb6f8d9f12ff0a6e2e62d05ccee32c574ec729a672366e557515d3eec2dfe21bc5f3c621dd37c5f692558a72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f111f5969e717d7ad89da9c2249538ee/f111f5969e717d7ad89da9c2249538ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f05dafeae61c43f44dc72b3ab8b30fa3efc4f43ee57e850c449eeb43cf991d374d1be27d20fa41a4e2c31cd8e13d9c245c6299102625af041d5435f716f047915339767860b9041d3ccbc3e5e9f8c2131f2a1d56598180e5a1b247455f0e93d3dd3a86df102c99745b50e7cd9482a5853e245118e3bb5e3b98e74d05a38df718e722ee936605f13ad1f43041aa9e0cbd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f111f5969e717d7ad89da9c2249538ee/f111f5969e717d7ad89da9c2249538ee.vtt"
+                }
+            ]
+        }
+    ]
+}

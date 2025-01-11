@@ -1,0 +1,61 @@
+{
+    "info": {
+        "id": "toy-dad-18551",
+        "anilistId": 0,
+        "malId": 56446,
+        "name": "Toy Dad",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cf05041ab15b426fcbc9d3ae1f3af7d.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "4m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "ぬいぐるパパ",
+        "aired": "Nov 3, 2017 to Nov 26, 2017",
+        "premiered": "Summer 2017",
+        "duration": "4m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "Kate Arrow"
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "toy-dad-18551?ep=106435",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3584737ec910f8fc8ce661b9f84ef92f62633b449db83424cdb4e38a39eb2f06a87b9162b6b307d50d0913c9e1775227a4f7d7717a92b9261c2ef68d20ad64cdd1471598111da2c0ec9942473ed17536563f7488a81583042cb789cc5588583780f4edeadb94bb87d3fc965555eed0e63ee2f72203e774c16095f869f1858685/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a482c7caebe81db2411db218c04dd047/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3584737ec910f8fc8ce661b9f84ef92f62633b449db83424cdb4e38a39eb2f06a87b9162b6b307d50d0913c9e1775227466c95d6c6bc8ca93b5edc27b4c62afbd609af22eeacaa1089f8596f7261cb6934ff8385aa907de1e953d2c407e17b3f8a082bb41080493ae152a668fe9feda88f69cd97ebbbeeb2fc78e7b6d1b895d9fff81890bfcce3e06ac28a26925e45d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a482c7caebe81db2411db218c04dd047/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "toy-dad-18551?ep=106436",
+            "number": 2,
+            "isFiller": false,
+            "servers": []
+        }
+    ]
+}

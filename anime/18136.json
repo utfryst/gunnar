@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "my-hero-academia-ona-18136",
+        "anilistId": 0,
+        "malId": 51781,
+        "name": "My Hero Academia ONA",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd05c8c5b679ade2100781114e974160.jpg",
+        "description": "Episode 1: HLB  HLB stands for \"Hero League of Baseball\"—it is a baseball league founded by pro-heroes who love baseball!  It's game day! The last game of HLB championship is between Gang Orca and Shishido's two rival agencies. They form a team (\"Orcas\" and \"Lionels\") to compete. In the world of HLB, there is no rule—using their Quirks is of course accepted; however, just when the game is about to finish, they are interrupted by a villain. Who will be the winner of HLB?!   Episode 2: Laugh! As if you are in hell  Deku, Bakugo, and Todoroki participate in an internship under the No.1 hero, Endeavor's agency. One of their tasks these days is to find a villain (\"Smiley\") who draws doodles in the city; however, since the urgency is so low, they let other pro-heroes solve this case.  One day, Smiley draws a doodle on Endeavor's house! Being furious, Endeavor himself and the 1-A trio go out to get the villain' however, Smiley's Quirk turns out to be something ridiculous but powerful... It is to make anyone who looks into his eyes laugh hysterically!  Can the team capture the villain and stop laughing?!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": 2
+            },
+            "type": "ONA",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "僕のヒーローアカデミア",
+        "synonyms": "Boku no Hero Academia HLA, Heroes League Baseball, Boku no Hero Academia: Warae! Jigoku no You ni",
+        "aired": "Jun 16, 2022",
+        "premiered": "Spring 2022",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.72",
+        "genres": [
+            "School",
+            "Shounen",
+            "Sports",
+            "Super Power"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Hero League Baseball",
+            "episodeId": "my-hero-academia-ona-18136?ep=93136",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3e3cd6a0f2cc2ce681657239aa3a6b2449c3621f99ed33c3be01890923c66c2c79f79f6a557c84102721c67feda168b9605c7096fb233305a74e8ebef39c75fc3471bd0418543bf80d28869eb552b0698aa6c4f1723a57a86de91f62d4ab73693b28505d616bdd61bebb67625ce73e508ae88d71aea4feb052d6021d80be86a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fdbe8b2b9b160e958d4564988be27205/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3e3cd6a0f2cc2ce681657239aa3a6b2449c3621f99ed33c3be01890923c66c2c79f79f6a557c84102721c67feda168b94f65bec6d9a1734cd0206d18b86762904dca06ef009f285daee03584ab81a176a37a6af128d239f62e679f6abd525c98e1699d0dc698ab4dc4cdae20027d2935a6b6ea7fbc3c4c70e6ff365b28b694242ad9c49f11ae693a0ecbd8e5a14960a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fdbe8b2b9b160e958d4564988be27205/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Laugh! As If You Are in Hell",
+            "episodeId": "my-hero-academia-ona-18136?ep=93137",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ac47d94bbe4ae84d0932c59eec2d1bbe1f31163bccfe14d3e0981839fc41541e37ac8a26e420903e9a86cf3f8a74abd1965771eb29f05b8cf7fe2da1a26c4aae45959a6f5dfb34f4d4edec86fda2349b1a271e64de292d682601f19dc72b7a68bda1b1af93357735ccfb871108e1bc51cad018e08ceffa9a513a18ff661dab3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76ecbab0c507f00c5f654f278f6e5a37/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ac47d94bbe4ae84d0932c59eec2d1bbe1f31163bccfe14d3e0981839fc41541e37ac8a26e420903e9a86cf3f8a74abd1c4af3760485223a69c9a98bf49f2305b0115cf4fe4b72d09a1a53b845e89a9462cfbb6662bf78e62108814ac32ea7f0a59d080973dc143d65efe3ce2b3db6380534d336c2a68c07f34e8f20e8304a3c7b1832d22f70461f7a77d1840b3c3ec8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76ecbab0c507f00c5f654f278f6e5a37/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

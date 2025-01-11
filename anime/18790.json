@@ -1,0 +1,57 @@
+{
+    "info": {
+        "id": "keio-flying-squadron-18790",
+        "anilistId": 0,
+        "malId": 55971,
+        "name": "Keio Flying Squadron",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7cd95e9c95afe4100d4faac02736531.jpg",
+        "description": "Rami Nana-Hikari's adventures continue as the keeper of the Secret Treasure. A year has passed since the apocalyptic disaster which left a great crater in the center of Edo City. The destruction wrought major economic consequences and while much investment was poured into the public works for the new Edo Castle, the citizens were all feeling the pinch of the recession.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "9m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "慶応遊撃隊活劇編",
+        "aired": "?",
+        "premiered": "",
+        "duration": "9m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "studios": "Pierrot"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "keio-flying-squadron-18790?ep=113716",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9e2ccc8e367769bde5165e73a9019a549a5fd553d1babecf4481fb4f704349244b6042c996514f2640aadc3c534a4a3592db772253ff8e0e511c65e1936ddefab9f93ff0eb6ae2744ee47224b2c1e6ab3324bbc5ae8b0e8d0fb899156ca904de535b0cc37366d9ba8ab05f14a49ccdf1d52b83d9937ab2bdf13e2bf7abd90f49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c12fa453a662754fdba9889fe98b731c/c12fa453a662754fdba9889fe98b731c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9e2ccc8e367769bde5165e73a9019a549a5fd553d1babecf4481fb4f704349244b6042c996514f2640aadc3c534a4a35862250dac2332853691f07ed5be69fc64264794c8ac8cbdffe0a9afa5df540b8c5d0ec51db16e67556031cab9c9528587013ce53fc0d0c12170a2c367a0075939cbb75bd04e2a86e0c18d18134a56c3d3e0ac1470023366f14c6902cebcd249c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c12fa453a662754fdba9889fe98b731c/c12fa453a662754fdba9889fe98b731c.vtt"
+                }
+            ]
+        }
+    ]
+}

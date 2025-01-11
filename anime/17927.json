@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "the-faraway-paladin-special-the-path-taken-17927",
+        "anilistId": 0,
+        "malId": 0,
+        "name": "The Faraway Paladin (Special): The Path Taken",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d507f5414847541c47c6281d3ff033f9.jpg",
+        "description": "A Recap Episode",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "22m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "最果てのパラディン",
+        "synonyms": "The Faraway Paladin 7.5, Paladin of the End, Ultimate Paladin, The Faraway Paladin",
+        "aired": "Nov 28, 2021",
+        "premiered": "Fall 2021",
+        "duration": "22m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "studios": "Children's Playground Entertainment",
+        "producers": [
+            "DAX Production",
+            "NTT Docomo"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Recap Episode The Path Taken",
+            "episodeId": "the-faraway-paladin-special-the-path-taken-17927?ep=84797",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/beab535d3cba510b105eb9a5eb0c52b95094015feb06a97d4ba35425957dda31d59aad0c25928e404c9084960ea5566685d482c6e64dbdca0f23d11a8b6c859ddd756873cc03d13f6fd78e1b2262227d3e98a0932b3a8cdb992b86a3f42c1fa79e986963a984dce0ebc956d5afc6a417f7b745c61ed388d5aedf3c338c8dca8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feaf5fa802c6eab8bc5f92236435a0f0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/beab535d3cba510b105eb9a5eb0c52b95094015feb06a97d4ba35425957dda31d59aad0c25928e404c9084960ea556664e94e716a3179a256871d703e1414ddb027d1339fe7c72d4d1d350b8af74d358b642be3560b178ec52546dada1228eda8163d4ca596fe295a187c23cb0efedb29b288f4cb3678b9f52dd3e2e5c75ae885538eb28005cf233203f8994b48fc6cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feaf5fa802c6eab8bc5f92236435a0f0/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

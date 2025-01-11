@@ -1,0 +1,61 @@
+{
+    "info": {
+        "id": "blue-lock-episode-nagi-19085",
+        "anilistId": 163147,
+        "malId": 54866,
+        "name": "Blue Lock: Episode Nagi",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97a276237c3dce81b62af1565488fd37.jpg",
+        "description": "A spin-off series of focusing on Seishirou Nagi.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "ブルーロック-EPISODE 凪-",
+        "aired": "Apr 19, 2024 to ?",
+        "premiered": "Spring 2024",
+        "duration": "1h 30m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "8bit",
+        "producers": [
+            "Chiptune",
+            "Bit grooove promotion",
+            "Kodansha",
+            "Bandai Namco Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "blue-lock-episode-nagi-19085?ep=128666",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cbb8166cfe70d5ca3949ea4c87b45d9adad74d4c483eb24ca07b2eff2fb8bd036e58cea7f6e6bb8aa9dd54da67721085bcab580626c584ee8c203e17fa2c0d34cfc1fecbf80279ad1a494647fb67fc89bf523313e94240d6be14324ee1e36673f02bbbd0b35b4b6d27278e8384e2f185a460678fb60e5be80d845d541e20d175/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/446f2bd5e77f26914ee7f6abeba8541e/446f2bd5e77f26914ee7f6abeba8541e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cbb8166cfe70d5ca3949ea4c87b45d9adad74d4c483eb24ca07b2eff2fb8bd036e58cea7f6e6bb8aa9dd54da67721085e70719e13943516df37a885a15601b3e9d1c18a0dcccdfef5ac9b96009e7805f196ba8a3ed851b3f7e5c4518cfd6e5565f103335c73c7ad055d991831dcc9264f823a28a0623d654a4919c4a7692b724647e5c3fd2e1499017fbdd3a9e8db019/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/446f2bd5e77f26914ee7f6abeba8541e/446f2bd5e77f26914ee7f6abeba8541e.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "info": {
+        "id": "luoyang-movie-18658",
+        "anilistId": 0,
+        "malId": 57219,
+        "name": "Luoyang Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc895668090d3d60ce7f9ce534efbd4.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "6m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "风起洛阳之双子追凶",
+        "aired": "Nov 16, 2023",
+        "premiered": "Fall 2023",
+        "duration": "1h 6m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "luoyang-movie-18658?ep=112108",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/649cdf54182421b66b8ff74e322270bdb97b1b514858910a34506ff6d4339c2ac1f0358bac69a4d39a6e9f7e0196c46a924226c7d562786e0d098ea7e42c449b9f1630d6ec72dcecb7fcba94b1f3ab7a39142035253099f0eaad777f574598ca047d31d31a9dad298cd34a88dc6dbb029b6123263b091f74c0a1ed895ddd4a24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17eac9bc2a94a29d16726aabffffcf36/17eac9bc2a94a29d16726aabffffcf36.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/649cdf54182421b66b8ff74e322270bdb97b1b514858910a34506ff6d4339c2ac1f0358bac69a4d39a6e9f7e0196c46aa1cf2b18ccb727fb3196abdb713086de4def8e33187ebc3469fe3ee1b84fcde1544533f0355abd71bc23778c68a5062be4d7a458c36e81d753c4eaaf966e7d40d2ff93cd5d0e94b89f1ccc934b92ef820d6eea850e1a09c1b24f38b08e65f209/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17eac9bc2a94a29d16726aabffffcf36/17eac9bc2a94a29d16726aabffffcf36.vtt"
+                }
+            ]
+        }
+    ]
+}

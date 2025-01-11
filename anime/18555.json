@@ -1,0 +1,55 @@
+{
+    "info": {
+        "id": "i-am-what-i-am-18555",
+        "anilistId": 0,
+        "malId": 52769,
+        "name": "I Am What I Am",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1caf6775f27fd0cd8c0b7957bee4d0c5.jpg",
+        "description": "A young Cantonese village boy must overcome self-doubt, ridicule and classism to realise his dream of competing in the Guangzhou Lion Dancing championship.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "44m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "雄狮少年",
+        "aired": "Dec 17, 2021",
+        "premiered": "Fall 2021",
+        "duration": "1h 44m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "i-am-what-i-am-18555?ep=107183",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e561490531f02a39e6312e8cd65330722b0786475c8485bb8672eda266264e2e032b2c4568c63a090739e3c39923f1af05eff09dc2d7d2c5a3d9ff15997cdd29f6c68920e138162cb92dd217507f7e83f99c5e92b2548318be30cccb656561e22e9f6b9d7645d3f192776ab2a67f3eba62861631a318ff2fd31998a63f57c6af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d2defe0d5c8526d3f9ac05169d057f7/7d2defe0d5c8526d3f9ac05169d057f7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e561490531f02a39e6312e8cd65330722b0786475c8485bb8672eda266264e2e032b2c4568c63a090739e3c39923f1af6b3b72d9f851c1d4ccffb8f882a37f8cf83bc15c0ee07a5db7d8f424c1462227bd0fce6151c321377987a90d4599c2cb6255d787bf2a176ed5f8d8634dddbb10a3cf53ca1fb15e4bd1f7cbc487de26825581e76e28e85d436d33be26755d564a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d2defe0d5c8526d3f9ac05169d057f7/7d2defe0d5c8526d3f9ac05169d057f7.vtt"
+                }
+            ]
+        }
+    ]
+}

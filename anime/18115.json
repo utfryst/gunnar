@@ -1,0 +1,58 @@
+{
+    "info": {
+        "id": "d4dj-double-mix-18115",
+        "anilistId": 0,
+        "malId": 51251,
+        "name": "D4DJ: Double Mix",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7c090b1200ee58212fea273308f016b.jpg",
+        "description": "A special episode focusing on the story of Merm4id and Rondo, including a new, joint performance by the two groups.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "D4DJ Double Mix",
+        "synonyms": "Dig Delight Direct Drive DJ",
+        "aired": "Aug 19, 2022",
+        "premiered": "Summer 2022",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Music"
+        ],
+        "studios": "SANZIGEN",
+        "producers": [
+            "Bushiroad"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "TV Special 1",
+            "episodeId": "d4dj-double-mix-18115?ep=97059",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/130e8a2cd6c3ee19ed70487f0a938349bfea236cd7c323a05684fdc27744a736f8c601788b043b56a9ac01a40233faadb31d7fb3d1d665cacfcce2d80195842465b2610b3703c4fba5c0d131154537760a9f4b9af224adb47f99aad772685084a18fbfc1ed73b807342d7f7ed23eab57624129365ed116a1f120d6b54c865a2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0df2194b887cb5420c044a725ae288db/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/130e8a2cd6c3ee19ed70487f0a938349bfea236cd7c323a05684fdc27744a736f8c601788b043b56a9ac01a40233faad7b90e3471e09115080c0398a7266846b3c17a7adb28accf5a0d29bff8168f7f75c084c76af85890b7a777d588ce9f5a6c148fb5101524672ff7446e1aead564db208ac7127d075f1256e9a3efaf75595d9184e4601f242088059ed8f96e960bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0df2194b887cb5420c044a725ae288db/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

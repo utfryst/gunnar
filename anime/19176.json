@@ -1,0 +1,76 @@
+{
+    "info": {
+        "id": "idolish7-movie-live-4bit-beyond-the-period-19176",
+        "anilistId": 0,
+        "malId": 54118,
+        "name": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da7db51aaf278283e526632d29fe1ee5.jpg",
+        "description": "A live performance by IDOLiSH7, TRIGGER, Re:vale, and ŹOOĻ , 4 groups with different charms, will meet in one place, and the grand live entertainment will begin!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+        "aired": "May 20, 2023",
+        "premiered": "Spring 2023",
+        "duration": "1h 30m",
+        "status": "Finished Airing",
+        "malscore": "7.8",
+        "genres": [
+            "Game",
+            "Music"
+        ],
+        "studios": "Orange",
+        "producers": [
+            "Lantis"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "idolish7-movie-live-4bit-beyond-the-period-19176?ep=124917",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9dbcd6960d31695f497133b6b481593b959f46ea7387a3947e01280f83d6998165aab7ce16eaabf243f3057482955f28e9832d7391f5cc0e515698695da3952a4777ccb4ae028aab72d03eb13ae8946c37ee6be4759070abb41fdfcd7eff86be8298d1692b2fba153ef8db27283a7e747064dcd557deaef8a03d1f7582c48670/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d35aa0463624430731c93027991dd38/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9dbcd6960d31695f497133b6b481593b959f46ea7387a3947e01280f83d6998165aab7ce16eaabf243f3057482955f284af2edfc4dd6a47032a29c205228aecc4926a21642f28d70fa8381a5b20cbc735873b855e2cb5643441fdcc091b6963c5cf921441aebd81bd9ed490077a2a707c782e2009a3dc3b6d09d2bd7c84cd38714ae545919b8d231f67fa2eb8a116d06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d35aa0463624430731c93027991dd38/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "idolish7-movie-live-4bit-beyond-the-period-19176?ep=124918",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/95dd10c276a1d353ccbefa7170c26a41ceb2a64c4a787fe7fa3ff4aa5a3a6ea57725a49479aafa3eda5d3fc7d13f8bad5962d7ffccb5c74b75cf1ecc4b3ffac0ca6a6e7f4fdee3b799559e2fa575183abd5ea6ea5a9a0207189936a99e8dd78899c709de7730cd99da4a56c39a14d5495b8aaa793e4dac2d5149b2779f0cf608/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c85afa2b894dce0f7121296f4d4ee3c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/95dd10c276a1d353ccbefa7170c26a41ceb2a64c4a787fe7fa3ff4aa5a3a6ea57725a49479aafa3eda5d3fc7d13f8bad9c389f3152e2e482a65899908f348248b5e9cde6ad459ed4be949ec4b4a78ab915f953ebdfb052c839173f75aca1e8cc358869b72737b332d97147f48fc24c2b981292650b1135b661c8ff8cc40d8ee3be4f03d00baca3830963179d196bbe35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c85afa2b894dce0f7121296f4d4ee3c/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

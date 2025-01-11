@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "bang-dream-film-live-2nd-stage-15651",
+        "anilistId": 0,
+        "malId": 41462,
+        "name": "BanG Dream! Film Live 2nd Stage",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/645d2b864415bfab7fb4874b2ec551a1.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/FUdLBBCX4ro",
+                "thumbnail": "https://i.ytimg.com/vi/FUdLBBCX4ro/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "BanG Dream! FILM LIVE 2nd Stage",
+        "aired": "Aug 20, 2021",
+        "premiered": "Summer 2021",
+        "duration": "1h 24m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Music"
+        ],
+        "studios": "SANZIGEN"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "bang-dream-film-live-2nd-stage-15651?ep=93181",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8f66941654f7f2dabcb0ba948f40f68c2d05494c4a595a405ff904416a46ca12e7c2144fc94762fd2b9e1f486b8ca0435d58255ff58a004bc449df290723e8eb1a4b639f445b11b8afb9609193e0f953b7a86b895668a63ec70f4e271d2c3cd404ef939699833b1df7c61cf057afe593e43d5b3a14fb4d89cf56c7477ae36d6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b739442c953c56917d5ecbad16f636c4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8f66941654f7f2dabcb0ba948f40f68c2d05494c4a595a405ff904416a46ca12e7c2144fc94762fd2b9e1f486b8ca043a49a6b7f214f073e2246dc04c0068bbc878223f1e765c4f9d584a5d4e0397c26c9b639e4dbdc43bf60dd5de1c7b8be246b9910a821bb7e25b1da18ba005995173996963d79201b1656bcc48ccc4c5473dc55c0bf3ad025270f334f337d87ac6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b739442c953c56917d5ecbad16f636c4/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "my-star-specials-18408",
+        "anilistId": 0,
+        "malId": 0,
+        "name": "My Star: Specials",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb53270c806fa4aadac63604ebe59f01.jpg",
+        "description": "Special 001: Episode 7.5: Join Aqua and Ruby’s voice actors in an exclusive, behind-the-scenes interview through the story so far!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "【推しの子】",
+        "aired": "May 31, 2023",
+        "premiered": "Spring 2023",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Drama",
+            "Music",
+            "Supernatural"
+        ],
+        "studios": "Doga Kobo",
+        "producers": [
+            "Kadokawa",
+            "Suiseisha"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Specials 1: Episode 7.5",
+            "episodeId": "my-star-specials-18408?ep=101665",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3c3c78a668343ec444002ba98a8df75195a4d7b7c87448086b2010abbfa16059337560893966112a4cdff115782fab4f4933fbdc3ba5beeb51db4def46d31e67bb856ef94cd0abc68f35e6bc0d2387337673b99e7058772603980eab0082cd5e2af14bdc15f903e4168cf7c892f3179105d03f31a53db84ac41a4dd0460bc767/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd49dabc391925a55b70d1229e2c625a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3c3c78a668343ec444002ba98a8df75195a4d7b7c87448086b2010abbfa16059337560893966112a4cdff115782fab4fbbebf4357a50da51bdad4a7cfae1a9f7f3b7d4d5381abd3ad8b78ea283c0a7f05e883b1d4280b6fc22a14936c06afd9654139d6050954d21b221980b9fc2b490b6de3b1fe378eabfe8eb318228cf04a5685994602fcb09014b80d0552cf88aa1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd49dabc391925a55b70d1229e2c625a/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Bibliotek</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --background-color: #1a1a1a;
+            --card-background: #262626;
+            --text-color: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .filter-container {
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        
+        .search-box {
+            flex: 1;
+        }
+        
+        .search-input {
+            width: 100%;
+            background: var(--card-background);
+            color: var(--text-color);
+            padding: 0.75rem;
+            border: 1px solid #404040;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+        
+        .category-select {
+            background: var(--card-background);
+            color: var(--text-color);
+            padding: 0.75rem;
+            border: 1px solid #404040;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            width: 200px;
+            cursor: pointer;
+        }
+        
+        .category-select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+        
+        .category-select option {
+            background: var(--card-background);
+            color: var(--text-color);
+            padding: 0.5rem;
+        }
+        
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .video-card {
+            background: var(--card-background);
+            border-radius: 0.5rem;
+            overflow: hidden;
+            transition: transform 0.2s;
+            cursor: pointer;
+        }
+
+        .video-card:hover {
+            transform: translateY(-4px);
+            z-index: 2;
+        }
+
+        .tooltip {
+            position: fixed;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.85));
+            color: white;
+            padding: 1rem;
+            border-radius: 1rem;
+            font-size: 0.875rem;
+            width: 300px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            pointer-events: none;
+            z-index: 1000;
+            transition: opacity 0.15s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .tooltip-title {
+            font-weight: 600;
+            font-size: 1.25rem;
+            margin-bottom: 0.75rem;
+            color: white;
+        }
+
+        .tooltip-stats {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+            align-items: center;
+        }
+
+        .tooltip-rating {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            color: #fcd34d;
+        }
+
+        .tooltip-quality {
+            background: rgba(255,255,255,0.2);
+            padding: 0.1rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+        }
+
+        .tooltip-episodes {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            background: rgba(255,255,255,0.1);
+            padding: 0.1rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+        }
+
+        .tooltip-type {
+            background: rgba(244,114,182,0.2);
+            color: #f472b6;
+            padding: 0.1rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+        }
+
+        .tooltip-description {
+            font-size: 0.875rem;
+            color: #9ca3af;
+            margin-bottom: 0.75rem;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 3;
+            overflow: hidden;
+        }
+
+        .tooltip-info {
+            font-size: 0.875rem;
+            color: #9ca3af;
+        }
+
+        .tooltip-info-row {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .tooltip-info-label {
+            color: #d1d5db;
+        }
+
+        .tooltip-genres {
+            display: flex;
+            gap: 0.5rem;
+            color: #9ca3af;
+        }
+
+        .thumbnail-container {
+            position: relative;
+            padding-top: 147.06%;
+        }
+
+        .thumbnail {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .video-info {
+            padding: 1rem;
+        }
+
+        .video-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .video-meta {
+            font-size: 0.875rem;
+            color: #9ca3af;
+            margin-bottom: 0.5rem;
+        }
+
+        .genre-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .genre-tag {
+            background: var(--primary-color);
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 1000;
+        }
+
+        .modal-content {
+            position: relative;
+            width: 90%;
+            max-width: 1200px;
+            margin: 2rem auto;
+            background: var(--card-background);
+            border-radius: 0.5rem;
+            overflow: hidden;
+        }
+
+        .close-modal {
+            position: absolute;
+            right: 1rem;
+            top: 1rem;
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 1.5rem;
+            cursor: pointer;
+            z-index: 1001;
+        }
+
+        .video-player {
+            width: 100%;
+            aspect-ratio: 16/9;
+            background: black;
+        }
+
+        .episode-list {
+            padding: 1rem;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .episode-item {
+            display: flex;
+            align-items: center;
+            padding: 0.5rem;
+            cursor: pointer;
+            border-radius: 0.25rem;
+            color: var(--text-color);
+        }
+
+        .episode-item:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            margin-top: 2rem;
+        }
+
+        .pagination button {
+            background: var(--card-background);
+            border: none;
+            color: var(--text-color);
+            padding: 0.5rem 1rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+        }
+
+        .pagination button.active {
+            background: var(--primary-color);
+        }
+
+        video::cue {
+            background: transparent;
+            text-shadow: 
+                -2px -2px 0 black,  
+                 2px -2px 0 black,
+                -2px  2px 0 black,
+                 2px  2px 0 black;
+        }
+
+        @media (max-width: 1400px) {
+            .video-grid { grid-template-columns: repeat(4, 1fr); }
+        }
+
+        @media (max-width: 1100px) {
+            .video-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+
+        @media (max-width: 800px) {
+            .video-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        @media (max-width: 500px) {
+            .video-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="filter-container">
+            <div class="search-box">
+                <input type="text" id="searchInput" class="search-input" placeholder="Sök anime...">
+            </div>
+            <select id="categoryFilter" class="category-select">
+                <option value="all">Alla kategorier</option>
+            </select>
+        </div>
+        <div class="video-grid" id="videoGrid"></div>
+        <div class="pagination" id="pagination"></div>
+    </div>
+
+    <div class="modal" id="videoModal">
+        <div class="modal-content">
+            <button class="close-modal" onclick="closeModal()">×</button>
+            <video id="videoPlayer" class="video-player" controls crossorigin="anonymous" playsinline></video>
+            <div class="episode-list" id="episodeList"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let series = [];
+            let tooltip = null;
+            let filteredSeries = [];
+            let currentPage = 1;
+            let currentSeriesData = null;
+            const seriesPerPage = 50;
+            let searchQuery = '';
+            let currentPlayer = null;
+
+            // Create tooltip element
+            function createTooltip() {
+                const div = document.createElement('div');
+                div.className = 'tooltip';
+                div.style.opacity = '0';
+                document.body.appendChild(div);
+                return div;
+            }
+
+            // Position tooltip near cursor
+            function positionTooltip(e, tooltip) {
+                const padding = 15;
+                let x = e.clientX + padding;
+                let y = e.clientY + padding;
+                
+                const bounds = tooltip.getBoundingClientRect();
+                const windowWidth = window.innerWidth;
+                const windowHeight = window.innerHeight;
+
+                // Check right edge
+                if (x + bounds.width > windowWidth - padding) {
+                    x = e.clientX - bounds.width - padding;
+                }
+
+                // Check bottom edge
+                if (y + bounds.height > windowHeight - padding) {
+                    y = e.clientY - bounds.height - padding;
+                }
+
+                tooltip.style.left = x + 'px';
+                tooltip.style.top = y + 'px';
+            }
+
+            // Ladda kategorier
+            async function loadCategories() {
+                try {
+                    const response = await fetch('anime_categories.json');
+                    const categories = await response.json();
+                    
+                    const categorySelect = document.getElementById('categoryFilter');
+                    categories.forEach(category => {
+                        const option = document.createElement('option');
+                        option.value = category;
+                        option.textContent = category;
+                        categorySelect.appendChild(option);
+                    });
+                } catch (error) {
+                    console.error('Error loading categories:', error);
+                }
+            }
+            
+            async function loadSeriesIndex() {
+                try {
+                    const response = await fetch('anime_index.json');
+                    series = await response.json();
+                    filterSeries();
+                } catch (error) {
+                    console.error('Error loading index:', error);
+                }
+            }
+            
+            function filterSeries() {
+                const selectedCategory = document.getElementById('categoryFilter').value;
+                
+                filteredSeries = series.filter(series => {
+                    const matchesSearch = searchQuery === '' || 
+                        series.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                        series.genres.some(genre => 
+                            genre.toLowerCase().includes(searchQuery.toLowerCase())
+                        );
+                    
+                    const matchesCategory = selectedCategory === 'all' || 
+                        series.genres.includes(selectedCategory);
+                    
+                    return matchesSearch && matchesCategory;
+                });
+                
+                renderPage(1);
+                setupPagination();
+            }
+
+            function renderPage(page) {
+                const grid = document.getElementById('videoGrid');
+                grid.innerHTML = '';
+                
+                const startIndex = (page - 1) * seriesPerPage;
+                const endIndex = startIndex + seriesPerPage;
+                const pageSeries = filteredSeries.slice(startIndex, endIndex);
+
+                pageSeries.forEach(series => {
+                    const card = document.createElement('div');
+                    card.className = 'video-card';
+                    card.onclick = () => loadAndOpenSeries(series);
+                    
+                    // Tooltip handling
+                    card.addEventListener('mouseenter', async (e) => {
+                        if (!tooltip) {
+                            tooltip = createTooltip();
+                        }
+                        
+                        try {
+                            const response = await fetch(series.file);
+                            const seriesData = await response.json();
+                            
+                            tooltip.innerHTML = `
+                                <div class="tooltip-title">${seriesData.info.name}</div>
+                                <div class="tooltip-stats">
+                                    <div class="tooltip-rating">⭐ ${seriesData.info.stats.rating || 'N/A'}</div>
+                                    <div class="tooltip-quality">${seriesData.info.stats.quality}</div>
+                                    <div class="tooltip-episodes">
+                                        <span class="episode-icon">📺</span>
+                                        ${seriesData.info.stats.episodes.sub}
+                                    </div>
+                                    <div class="tooltip-type">${seriesData.info.stats.type}</div>
+                                </div>
+                                <div class="tooltip-description">${seriesData.info.description}</div>
+                                <div class="tooltip-info">
+                                    <div class="tooltip-info-row">
+                                        <span class="tooltip-info-label">Japanese:</span>
+                                        <span>${seriesData.moreInfo.japanese}</span>
+                                    </div>
+                                    <div class="tooltip-info-row">
+                                        <span class="tooltip-info-label">Aired:</span>
+                                        <span>${seriesData.moreInfo.aired}</span>
+                                    </div>
+                                    <div class="tooltip-info-row">
+                                        <span class="tooltip-info-label">Status:</span>
+                                        <span>${seriesData.moreInfo.status}</span>
+                                    </div>
+                                    <div class="tooltip-info-row">
+                                        <span class="tooltip-info-label">Genres:</span>
+                                        <span>${seriesData.moreInfo.genres.join(', ')}</span>
+                                    </div>
+                                </div>
+                            `;
+                            tooltip.style.opacity = '1';
+                            positionTooltip(e, tooltip);
+                        } catch (error) {
+                            console.error('Error loading series data for tooltip:', error);
+                        }
+                    });
+
+                    card.addEventListener('mousemove', (e) => {
+                        if (tooltip) {
+                            positionTooltip(e, tooltip);
+                        }
+                    });
+
+                    card.addEventListener('mouseleave', () => {
+                        if (tooltip) {
+                            tooltip.style.opacity = '0';
+                        }
+                    });
+
+                    card.innerHTML = `
+                        <div class="thumbnail-container">
+                            <img class="thumbnail" src="${series.poster}" alt="${series.name}">
+                        </div>
+                        <div class="video-info">
+                            <div class="video-title">${series.name}</div>
+                            <div class="video-meta">
+                                <div>${series.status}</div>
+                                <div>${series.aired}</div>
+                            </div>
+                            <div class="genre-tags">
+                                ${series.genres.slice(0, 3).map(genre => 
+                                    `<span class="genre-tag">${genre}</span>`
+                                ).join('')}
+                            </div>
+                        </div>
+                    `;
+
+                    grid.appendChild(card);
+                });
+            }
+
+            async function loadAndOpenSeries(seriesIndex) {
+                try {
+                    const response = await fetch(seriesIndex.file);
+                    const seriesData = await response.json();
+                    currentSeriesData = seriesData;
+                    openSeries(seriesData);
+                } catch (error) {
+                    console.error('Error loading series data:', error);
+                }
+            }
+
+            function setupPagination() {
+                const totalPages = Math.ceil(filteredSeries.length / seriesPerPage);
+                const pagination = document.getElementById('pagination');
+                pagination.innerHTML = '';
+
+                for (let i = 1; i <= totalPages; i++) {
+                    const button = document.createElement('button');
+                    button.innerText = i;
+                    button.classList.toggle('active', i === currentPage);
+                    button.onclick = () => {
+                        currentPage = i;
+                        renderPage(i);
+                        setupPagination();
+                    };
+                    pagination.appendChild(button);
+                }
+            }
+
+            function openSeries(seriesData) {
+                const modal = document.getElementById('videoModal');
+                const episodeList = document.getElementById('episodeList');
+                
+                modal.style.display = 'block';
+                episodeList.innerHTML = '';
+
+                if (seriesData.episodes && seriesData.episodes.length > 0) {
+                    const sortedEpisodes = [...seriesData.episodes].sort((a, b) => a.number - b.number);
+                    sortedEpisodes.forEach(episode => {
+                        const episodeItem = document.createElement('div');
+                        episodeItem.className = 'episode-item';
+                        episodeItem.innerHTML = `Episode ${episode.number}: ${episode.title}`;
+                        episodeItem.onclick = () => {
+                            if (episode.servers && episode.servers.length > 0) {
+                                const server = episode.servers[0];
+                                playVideo(server.streamingLink, server.englishSubtitle || null);
+                            }
+                        };
+                        episodeList.appendChild(episodeItem);
+                    });
+
+                    // Play first episode automatically
+                    if (sortedEpisodes[0].servers && sortedEpisodes[0].servers.length > 0) {
+                        const firstServer = sortedEpisodes[0].servers[0];
+                        playVideo(firstServer.streamingLink, firstServer.englishSubtitle || null);
+                    }
+                }
+            }
+
+            function playVideo(videoSrc, subtitleUrl) {
+                const video = document.getElementById('videoPlayer');
+                
+                // Stop and clear existing video
+                video.pause();
+                video.innerHTML = '';
+            
+                // Destroy previous HLS instance if it exists
+                if (currentPlayer) {
+                    currentPlayer.destroy();
+                    currentPlayer = null;
+                }
+            
+                if (subtitleUrl) {
+                    const track = document.createElement('track');
+                    track.src = subtitleUrl;
+                    track.kind = 'subtitles';
+                    track.srclang = 'en';
+                    track.label = 'English';
+                    track.default = true;
+                    video.appendChild(track);
+                    
+                    video.onloadedmetadata = () => {
+                        if (video.textTracks[0]) {
+                            video.textTracks[0].mode = 'showing';
+                        }
+                    };
+                }
+            
+                if (Hls.isSupported()) {
+                    const hls = new Hls();
+                    hls.loadSource(videoSrc);
+                    hls.attachMedia(video);
+                    hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                        video.play();
+                    });
+                    currentPlayer = hls;
+                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                    video.src = videoSrc;
+                    video.addEventListener('loadedmetadata', () => {
+                        video.play();
+                    });
+                }
+            }
+
+            window.closeModal = function() {
+                const modal = document.getElementById('videoModal');
+                const video = document.getElementById('videoPlayer');
+                modal.style.display = 'none';
+                video.pause();
+                if (currentPlayer) {
+                    currentPlayer.destroy();
+                    currentPlayer = null;
+                }
+            }
+
+            // Event listeners
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                searchQuery = e.target.value;
+                filterSeries();
+            });
+
+            document.getElementById('categoryFilter').addEventListener('change', () => {
+                filterSeries();
+            });
+
+            // Initialize the app
+            loadCategories();
+            loadSeriesIndex();
+        });
+    </script>
+</body>
+</html>

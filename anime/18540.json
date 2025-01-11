@@ -1,0 +1,62 @@
+{
+    "info": {
+        "id": "the-westward-the-fantasy-cave-18540",
+        "anilistId": 0,
+        "malId": 51834,
+        "name": "The Westward: The Fantasy Cave",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5106986266eed91ea17063f090acb6db.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "17m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "西行纪之穷奇地洞",
+        "synonyms": "Journey to the West, Westbound, Westbound Discipline",
+        "aired": "Aug 19, 2022",
+        "premiered": "Summer 2022",
+        "duration": "1h 17m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Historical",
+            "Martial Arts"
+        ],
+        "studios": "BYMENT",
+        "producers": [
+            "Tencent Penguin Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "the-westward-the-fantasy-cave-18540?ep=105227",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1069e5963376454a87c11bcdab86917a8aab88f19e868956786ecbd125d9bd9fcb096da875e340398966f8dd77790c36967bdf45c78b71c67441dd29c558a13bbf0b8014bea97fe1766331deda1aed40ddb9d4ba4f341b94ac6eb86feb543d7abcbd0ab846d08a3cd92923552ec561ae275b4c4a51d81441f4facf21c08bc79f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce6eee1b682ee8154e338618cb8a012d/ce6eee1b682ee8154e338618cb8a012d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1069e5963376454a87c11bcdab86917a8aab88f19e868956786ecbd125d9bd9fcb096da875e340398966f8dd77790c36158c20dd35ef0640cff1b4e1f4994ec76d80b9bbac8ea22360870f44b1d9402bcbfbd6550e76e771d16e4520f0c352bac878cb1472ae1b0402ffd4d150dd93ef9f11709887062ba72b76460baebdcd1816c908174112173463e4a8072dc478d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce6eee1b682ee8154e338618cb8a012d/ce6eee1b682ee8154e338618cb8a012d.vtt"
+                }
+            ]
+        }
+    ]
+}

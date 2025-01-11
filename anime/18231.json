@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": "hanako-18231",
+        "anilistId": 0,
+        "malId": 50740,
+        "name": "Hanako",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e218eacea3adb9617e2c29086374f39.jpg",
+        "description": "is an independent short anime made by Mitsuru Sasaki.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "4m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "花子",
+        "aired": "?",
+        "premiered": "",
+        "duration": "4m",
+        "status": "Finished Airing",
+        "malscore": "5.92",
+        "genres": [
+            "School",
+            "Supernatural"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "hanako-18231?ep=96003",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/24257632579c1af92f17288f195d63c19dac4daf043d875f920f9831de5e9e53429a2516eaa55149e3fc3fd936ad3425215d495830c8ae05fdf08a6b8e4776f280ebb3a58e55c058745220dfaacdd4b1103da14aa1f131f89c208179cb4a15f909b09ffb47d3390a3d11770b9186c35dc56a2c5daf732ed8ba020073b7457232/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba3e5577538450e81e0c7f4b5024758f/ba3e5577538450e81e0c7f4b5024758f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/24257632579c1af92f17288f195d63c19dac4daf043d875f920f9831de5e9e53429a2516eaa55149e3fc3fd936ad3425bd054d7ed93ee366de62df71c97b7485b7fa42f95e36fa65c1ef4edf89c99acad4c0d7591c1b5a5d7fb71587ab3ff01a64d94d5adc20f389aff780c78636fef176093ffd625179df912a332403bc60778aa090c32b09c67a3e570f05027028e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba3e5577538450e81e0c7f4b5024758f/ba3e5577538450e81e0c7f4b5024758f.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "info": {
+        "id": "odd-taxi-movie-in-the-woods-18011",
+        "anilistId": 0,
+        "malId": 50653,
+        "name": "Odd Taxi Movie: In the Woods",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b09f74620d15cc427dc19918595fca0.jpg",
+        "description": "Film which \"reconstructs\" the Odd Taxi TV anime and also depicts what happens after the TV anime's finale.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "2h",
+            "duration": "8m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "映画 ODD TAXI イン・ザ・ウッズ",
+        "aired": "Apr 1, 2022",
+        "premiered": "Spring 2022",
+        "duration": "2h 8m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "OLM, P.I.C.S.",
+        "producers": [
+            "Pony Canyon",
+            "Pony Canyon Enterprise"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "odd-taxi-movie-in-the-woods-18011?ep=93914",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c2dc650efdc009386f85ce4386eec88b0e229d3d86cbf26aee27b63b582f065802fd1d2439285b0a1c2adcd3fa8ad6ec586c54aaa602d1c6fd1c38614494880292b5d442a1cbac8484f7620cbe1eb5ecdda0cee2c0d7d490ecc774f8bd1aec005319f0da500b63dbc7d8fa59ed4c12a32faa5d76a1921d39fb886f70fb5494ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f20ccfcdeaab7975a2a3df32ceb74ae3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c2dc650efdc009386f85ce4386eec88b0e229d3d86cbf26aee27b63b582f065802fd1d2439285b0a1c2adcd3fa8ad6ec58b32dc8cbeafb350dedc7190f51b08115099c2cf3ecdf559e3df126d1b91daf66f531719dd0e4093a6e742abe923a08284533d3d5a88fdfd81e7fe41c5a7fca3626f419a28345ce53d24d3f1db896b81b8aec23a8b596e74e26601199d44a1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f20ccfcdeaab7975a2a3df32ceb74ae3/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

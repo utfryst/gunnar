@@ -1,0 +1,116 @@
+{
+    "info": {
+        "id": "untitled-17805",
+        "anilistId": 0,
+        "malId": 48614,
+        "name": "Wonder Egg Priority Special",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c906c8f42c12c44254ddae5a67f4918.jpg",
+        "description": "Special episode serving as the conclusion to the anime series.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "46m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "neiru-aonuma-129479",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/31ea4a062fafcfe065d0d7f8e6c2f98b.jpg",
+                    "name": "Aonuma, Neiru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "rika-kawai-129481",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/60c18c4b7bbd5be64abce8f136d50baa.jpg",
+                    "name": "Kawai, Rika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "ai-ooto-129480",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19f123e4a3c6c0fefa54e8188f4cf1e6.jpg",
+                    "name": "Ooto, Ai",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "momoe-sawaki-129482",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/899c00a0d0b1c1a5a49d0c8b46190732.jpg",
+                    "name": "Sawaki, Momoe",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ワンダーエッグ・プライオリティ 特別編",
+        "synonyms": "Wonder Egg Priority Tokubetsu-hen",
+        "aired": "Jun 30, 2021",
+        "premiered": "Summer 2021",
+        "duration": "46m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Psychological"
+        ],
+        "producers": [
+            "CloverWorks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "untitled-17805?ep=82355",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4da11cf9e4889237c167fd67a752148d6c9188f001ed8608478df9f945f605829b010929cf131b55019e171a2b391acb1ee2c94d236e9afee4b40b8fb0cbaabfacdf4b222f212abd8ca028720ba91af50d4e360731e6a0989203a18eb202330580e9e6d3641b2f4eec655716777ad9852ddad0e5711c9a63b6923ea7cc7a4414/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4423f9788d322d4e451aa5623625ae5/d4423f9788d322d4e451aa5623625ae5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4da11cf9e4889237c167fd67a752148d6c9188f001ed8608478df9f945f605829b010929cf131b55019e171a2b391acb01d2151ae724b43981099d92ed488c93dc6cbd62da364047364498529639f3bd6c4bf2c9861a80c524e6a3ec9ba67b16190a83d32997d699360543d09569ae6a8b7d765272776814cc2c9b52085e7aaa564707b1219a3f2101ff9166c60c9056/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4423f9788d322d4e451aa5623625ae5/d4423f9788d322d4e451aa5623625ae5.vtt"
+                }
+            ]
+        }
+    ]
+}

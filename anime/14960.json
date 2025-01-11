@@ -1,0 +1,76 @@
+{
+    "info": {
+        "id": "little-polar-bear-shirokuma-kun-doko-e-14960",
+        "anilistId": 0,
+        "malId": 25027,
+        "name": "Little Polar Bear: Shirokuma-kun, Doko e?",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06ee85e4f88c5c989c34d5028608f77d.jpg",
+        "description": "Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "lars-54348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd73e1a0b06e31eade0b0cd101ca8003.jpg",
+                    "name": "Lars",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "リトルポーラベア しろくまくん, どこへ?",
+        "aired": "Apr 28, 1990",
+        "premiered": "Spring 1990",
+        "duration": "30m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Kids"
+        ],
+        "studios": "Production I.G,animate Film",
+        "producers": [
+            "Movic",
+            "Production I.G",
+            "animate Film"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "little-polar-bear-shirokuma-kun-doko-e-14960?ep=104867",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/730fb4aea5269c1b507b103528bb42c48a78a1cb13adcf50c115b5916852418ae51fc8f966246aff5a9e093e7b42ea59e7928ef68be0d79c555e3c231f6852ba6d8b904c55d31d28750e14c1d095c510afc9f4cd5335fde54cf79c5d1cf8ff5a6d886d6539bb9b0cbc8f6d83be4c6e08d41183ef154b483541b5f9c85e55624a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/808693ecac51af60a30737c4ecdcf871/808693ecac51af60a30737c4ecdcf871.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/730fb4aea5269c1b507b103528bb42c48a78a1cb13adcf50c115b5916852418ae51fc8f966246aff5a9e093e7b42ea5946d4b18341df00680ae6131587ca92bd228134553f2808c879a6565ac91791f7119c9eaa0b20a935b2c2437bcc92212662c0b7db83db0dd8599ffcde6055c45387e6d0f8b68a91f3e7fe1e73442be4162bfea09fc805da90e998fefc832ddec4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/808693ecac51af60a30737c4ecdcf871/808693ecac51af60a30737c4ecdcf871.vtt"
+                }
+            ]
+        }
+    ]
+}

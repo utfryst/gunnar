@@ -1,0 +1,58 @@
+{
+    "info": {
+        "id": "the-journey-17743",
+        "anilistId": 0,
+        "malId": 48612,
+        "name": "The Journey",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3e5b0c7b67345d3154fee6fe9cea8ea.jpg",
+        "description": "The Journey is a Japanese–Saudi Arabian animated film co-produced by Toei Animation and Manga Productions directed by Shizuno Koubun. The film revolves around a potter named Aws who joins a battle to defend his home city.\n\n(Source: Wikipedia)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "49m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "",
+        "aired": "Jan 1, 2021",
+        "premiered": "",
+        "duration": "1h 49m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "producers": [
+            "Toei Animation",
+            "Yokohama Animation Lab"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "the-journey-17743?ep=85145",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8b1cb6e0d18f795490675c2e88c6819867bd6e399c6111f8a518d708c62bbcdbabf19effd104dce326fa1782133cf2bef27c5ddf6c840cbca49decc8d3906c4d1c57973efa8d666fcbea0766a74b19aa0266e8adeee4b0fde17d66011f8443aeb39aedd558db357367ab3bffc167a392d1382ba942fbc6d5d926012e0b094cbc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/927651e42834ec076e342e61af321d9f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8b1cb6e0d18f795490675c2e88c6819867bd6e399c6111f8a518d708c62bbcdbabf19effd104dce326fa1782133cf2be5d52b7cc347db2893e2d6404ac8fa625867ad3478bd337ebaf033dc10d41b5ba88b12d8a7a859876a905219db2ed3679ff06e417d49728c8c7f615d0c8d2098e8931f8777feadb37c66789047d3330a18e375a9535ba7c5e29fb4dd51260e331/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/927651e42834ec076e342e61af321d9f/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

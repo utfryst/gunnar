@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": "kdrop-18073",
+        "anilistId": 0,
+        "malId": 48508,
+        "name": "K×Drop!!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3243178b0b4278ed102cc1d98aec50cd.jpg",
+        "description": "Endou, a night guard, was patrolling the mall as usual. But this night was going to be different from usual...",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "5m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "K×Drop!!",
+        "aired": "Mar 29, 2017",
+        "premiered": "Winter 2017",
+        "duration": "5m",
+        "status": "Finished Airing",
+        "malscore": "6.08",
+        "genres": [
+            "Comedy",
+            "Thriller"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "kdrop-18073?ep=91918",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/036cab4b0ccd86483c0899628511d4ff687c0990914075700b00b0daff96164524e89b73ca563659e12f348c492d374d2ad8439a56b24047747f494187cc0e7a609c4d87de7deb7a3a2e381472095b5428825aea28a5bc8dc9fad4ecf1ba4e51f2945dfd8a99997a778614668f35de32445cde47dfaf7f1332e52502b6da6370/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92ee12b75931313a4e495d2e3d0ee809/92ee12b75931313a4e495d2e3d0ee809.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/036cab4b0ccd86483c0899628511d4ff687c0990914075700b00b0daff96164524e89b73ca563659e12f348c492d374d5422e55bd9ca43c5b453d1130d3286932ded363ae6b103ad76a6a2e36c028fc4a4ad2d5a0450008cf31faa21e6f329d04b48ece092278bfdce5d295b87b15f206ba0c2679b8bfc3f8a4f23c8e84c93deab3e308841c85c70135d706be3491c5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92ee12b75931313a4e495d2e3d0ee809/92ee12b75931313a4e495d2e3d0ee809.vtt"
+                }
+            ]
+        }
+    ]
+}
