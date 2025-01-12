@@ -1,0 +1,286 @@
+{
+    "info": {
+        "id": "hentatsu-tv-10052",
+        "anilistId": 0,
+        "malId": 40995,
+        "name": "Hentatsu (TV)",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23d6a2bd3537b06a2bed9808d11188f8.jpg",
+        "description": "Hentatsu follows two girls exploring a seemingly abandoned version of Nakano Broadway, a Tokyo shopping mall known for Mandarake and other shops catering to fans of anime and other forms of pop culture.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "1m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "neko-95779",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd0e01d3e96160bac13e19fee209795b.jpg",
+                    "name": "Neko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-kadowaki-526",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb3e6a2552ffe34a7cf154518ef4d1b4.jpg",
+                    "name": "Kadowaki, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "oni-46874",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd630b397476ee08fd8bdad2a2f77acc.jpg",
+                    "name": "Oni",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaoru-takasugi-12489",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/95aed7323e161a9904869630962f3568.jpg",
+                    "name": "Takasugi, Kaoru",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "へんたつ",
+        "synonyms": "Oni to Neko to o-Cha to ka.",
+        "aired": "Jan 4, 2020 to Mar 21, 2020",
+        "premiered": "Winter 2020",
+        "duration": "1m",
+        "status": "Finished Airing",
+        "malscore": "5.16",
+        "genres": [
+            "Adventure",
+            "Mystery"
+        ],
+        "studios": "Yaoyorozu",
+        "producers": [
+            "Yaoyorozu"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "hentatsu-tv-10052?ep=97060",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0c4cc49132e08d822e9859b917e76a54bceef0df80b4cc8ad8b0ac00bd10c077ca6a6dda7740ebe70ba01383efd2a67cf1703a97804ea57b986a24353c4ec40c089f170180df8a38f31452ea7dc0a55513f5be9ca2a93c0d8ffab8419d1b3d9bf35fdb9f08573536cdf72e53057d57527729bd441c72547853efa2598545427c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24a02ff22cbee526854aa13288a05a6b/24a02ff22cbee526854aa13288a05a6b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0c4cc49132e08d822e9859b917e76a54bceef0df80b4cc8ad8b0ac00bd10c077ca6a6dda7740ebe70ba01383efd2a67ca0402d3ce90a8a3a8e42674e12abd178a7b7355482d439a31bdf36ef44ad3d0b7ea765da2d5cce7ba0eecb8284af0f0f3845bb5b651a24d7107fe2f0995d7a8dbbc948ce4f60f09540a80b1a10eca85164865613d8e0525ba58ef5556be9173a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24a02ff22cbee526854aa13288a05a6b/24a02ff22cbee526854aa13288a05a6b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "hentatsu-tv-10052?ep=97061",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/288b4a88ed9ba9697a8d1aa27539411b36dea03d5dc15a75572770a86df4d6af1d75b6491dfb4dc8a12964cf40803de158afa1b8c5e4d5234662284763c69a5eb1a3755a38a3fc666d3d6d2bc9ed97aeb150224914652668a6439ecbe5aba3618788999e50af122daa5ef2c2516eaf5e515cc493b33c6318e0e4b8b9c67f793d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13b4e8cb49acbe3e64a9cd7284d098ee/13b4e8cb49acbe3e64a9cd7284d098ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/288b4a88ed9ba9697a8d1aa27539411b36dea03d5dc15a75572770a86df4d6af1d75b6491dfb4dc8a12964cf40803de1c1fc7856ee0f339016b7dd260a8770573a8c77746820a70dba23fbb3d83b51e90bc93d32da4a097027907d7b910f23e30368918467c04b47a03b6e367c4edff2af9ae360332e284c07fe1e7646fc383245c2fb592112a1e32c13fe003fc2015c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13b4e8cb49acbe3e64a9cd7284d098ee/13b4e8cb49acbe3e64a9cd7284d098ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "hentatsu-tv-10052?ep=97062",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/158b99aef2667b66890ec8f6620cef5b799dca46a303b6a7711470327ac383715fa35dd809abb2e07a5205bf6fab269d82dc40e6e9f2276de6c744acc820c37978765812eea8fadbd98190fe125bfc796ec53f1995a03d018e4f8c591516e6684343ccf3609083a29e1b22d868968c0c6a4806ba66913fac01dc8dcbff35da2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e735b642d9d83cfda71b4f28137bffd/3e735b642d9d83cfda71b4f28137bffd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/158b99aef2667b66890ec8f6620cef5b799dca46a303b6a7711470327ac383715fa35dd809abb2e07a5205bf6fab269dc3ce692ae0be303f78a04ca9e1972227ac8f546a711b6f97b39b69f2337cf612bd4bc60ed2cec0316ae801a247ced06367f654002a7341b130e8b8543b1afb419a9aa584e90cab9166b7f4251f5b5ca9b20b78e2cff409dc5462c3ca3cb03875/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e735b642d9d83cfda71b4f28137bffd/3e735b642d9d83cfda71b4f28137bffd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "hentatsu-tv-10052?ep=97063",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/31805cac1ee3f59d2accd9ec14243f20551c25143feebd5b57e94ec3056fa484d9f8ba6f3cdc58ab9dcc0ebff5fcbe6a6e21ff8bfb19b39c507e8ec36c2e5c11a1887fd3d446f584abf5cbed9d58f4bb0edc62b918759af949edd6e7eae41e56ddd8192663e27386f9d756368391c1b426d03c08e4ab552ed865000edb3b2e9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa5a4f9e1cc31546567a25db226445bb/fa5a4f9e1cc31546567a25db226445bb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/31805cac1ee3f59d2accd9ec14243f20551c25143feebd5b57e94ec3056fa484d9f8ba6f3cdc58ab9dcc0ebff5fcbe6aa7aff423d418e7b578cca5bf68fda6661d5a32d3ee5d3e4106dc7385bea345d76c80fd31c79ed88d61331d14f8acf7409f7ae636b5195b05389fad4ff650807ecacf37c167aff8ecb4a644d612e432fb834b017a9c6a578f54192771ecd14c24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa5a4f9e1cc31546567a25db226445bb/fa5a4f9e1cc31546567a25db226445bb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "hentatsu-tv-10052?ep=97064",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ec25d0c8d187bc1c14852db9e6132fc6094d51702d2cb05b868a6c9c8850a4f21dac01cc2e08fa4bb31d36a97f377e86f3621b8f9c753f64ac397c3a8c1c33e4a5f6f15d33cfc53c77520ca5f01c547ca66b8613aab21d37b357fa4eab8e57659703d3945a1723d1d828e19caac4e17a52229ea988d7da1580d5aa9547c13de4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26b26d62f9991b60e036b3f53d734dc0/26b26d62f9991b60e036b3f53d734dc0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ec25d0c8d187bc1c14852db9e6132fc6094d51702d2cb05b868a6c9c8850a4f21dac01cc2e08fa4bb31d36a97f377e867aa6fbf2bf7da486bc421b9eb21d3c571431c65b6f134815494b16923bb9f3398f1b4d82a083448a53f5ad312c6da38c92f71d6bd101d735319d1974ed29f3ee234dc509a2345731d0c0f81a35ca7b63735cb278a895ed7a59c1e8f80a3876d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26b26d62f9991b60e036b3f53d734dc0/26b26d62f9991b60e036b3f53d734dc0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "hentatsu-tv-10052?ep=97065",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a5b9b9933290c36c22efaa6a73fc5591ad1dc64710f407f474d65344d11c5ba51ab3465559a2f10a64767c79284fb29257fb719e6ebba0b5bef88973aa6164b58cf4f2108a44536bf4d7d3f2b479ea8481abf981bdcc58c7bcf8aad1fafe7063709d071f19269b2f50f4b82b504b8aee9cd05688d4cf2804ed20489718794ba7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5d15c03ffe0aedf1529269eaf44a87/0f5d15c03ffe0aedf1529269eaf44a87.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a5b9b9933290c36c22efaa6a73fc5591ad1dc64710f407f474d65344d11c5ba51ab3465559a2f10a64767c79284fb292f12e17d00029769c7f05432f444ee25c6e609301bb61c39d38683d2d3bc1e014fa220b964e4a4e3d90856e6be578152c8576030bd11a1e0ff1df91d7e77e942f20c78e3b05489b0607603344669f1096e2ff3fc861c9dfcc969cbae68a1c7bf9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5d15c03ffe0aedf1529269eaf44a87/0f5d15c03ffe0aedf1529269eaf44a87.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "hentatsu-tv-10052?ep=97066",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/10a50ffa150081009eeebd39b6adf1a70c6dcbc2735e89c389c30a9a2905e75148ce7f26c9468e6720743a52d8ec7414acf57c073e7fcbdd4fa63a0409fac23ae420e37bba9a261585ab926a0867f883abf740f5a172c08029615c673569bd0f6a201385ffee2c41688288b98259e4c627a7cb3afc1948809af7ad8f748861fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a63119df12fb576ab8b1f0c91b8cb2e/3a63119df12fb576ab8b1f0c91b8cb2e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/10a50ffa150081009eeebd39b6adf1a70c6dcbc2735e89c389c30a9a2905e75148ce7f26c9468e6720743a52d8ec74147404b6e2c80ee9da87f567bd9a36494bedabdc021521206687ba4a36e0149c6b910ddd1da0548c908a2d81f50861db3c7852665509a477e26ebf19c771085d57edc069c1676a1412bf72ff200c533df61830972a2ff8d82900ba17d706893011/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a63119df12fb576ab8b1f0c91b8cb2e/3a63119df12fb576ab8b1f0c91b8cb2e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "hentatsu-tv-10052?ep=97067",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/94100489d4bf89a6c3f2dc0e2c2ebb94017539984a1827dd06d3de15b5f84df35dc5877b02b925e63072392fb26fb7faf319b1257e750035b83604fbffd478013acad05b88eff9f09f74b811afffb1d56ff1060b0e3ec926c6917cd3bd36be16c55e4aaef6a58394d2104efd30a4cefd12f0d3f59ada8da3659dc0cf431c1a8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a41a809b6d51dde72430882a6c1e826/9a41a809b6d51dde72430882a6c1e826.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/94100489d4bf89a6c3f2dc0e2c2ebb94017539984a1827dd06d3de15b5f84df35dc5877b02b925e63072392fb26fb7fac84b7cebebfbb5c8e275df19f49a81a39c79ebc0191fe990484de59f240c4f99086f3c49739a2d24c77d41f18dade360149573ac0668c63fb62eb1f5b4cd3a7498b59c95cbaf13f7a5f26d4a315b3839afcaf43c66aa54e4a53852dfb58b3fec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a41a809b6d51dde72430882a6c1e826/9a41a809b6d51dde72430882a6c1e826.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "hentatsu-tv-10052?ep=97068",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c404c95dc68b676cf97e97826fc336312c23c6c7aa5513c84faeccae051464ab485e5728f566a7554ff06c012861057ca406a883f6e756513f98475fd9a948df8ca2206c1971bc5c46b5bcaeb0eb903c5a458681ae753963583f8f2832474a93c804be5389eded606c4e71c5731b9bd3f1da01df90aafb6f745e84d2cd60039b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e305caa97c918e1d5e75d5eb89555755/e305caa97c918e1d5e75d5eb89555755.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c404c95dc68b676cf97e97826fc336312c23c6c7aa5513c84faeccae051464ab485e5728f566a7554ff06c012861057cb0d878716935fb9d5a93488ad11027660b4b7a75b8120e30d3fd470e590be1952d15457080190e998029250048038d3075a86860b35a36014a903af33c7bc2e6b150dae65937336e07f09bee438e3351ed3fd630fcc5bfc41f279964b8e17daf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e305caa97c918e1d5e75d5eb89555755/e305caa97c918e1d5e75d5eb89555755.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "hentatsu-tv-10052?ep=97069",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5cea38665c4dfdd8f469225dad528cc86c416485ee6758d5dd038da8219e0529c6b76827573b5510504d0ee0c47d9d927580d998dfb3f35fd0083bfbcbf5318fc475d53bbc3b05f5998c073c09713d0753b750cff92e0d871600c2612aee96dccab6b98f5bd34274318b0aa64500f15291e47de55d18bcf4ec4282a9e966b5b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef39ad61e44f6d404f2434797864a274/ef39ad61e44f6d404f2434797864a274.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5cea38665c4dfdd8f469225dad528cc86c416485ee6758d5dd038da8219e0529c6b76827573b5510504d0ee0c47d9d925ff2f8c967650585a05fc036be227a2495b0f1c26a89aabf41ca6b7312f95d5c0f04fa82801aa5e87c52cf8cd138c699f3e5cda56a418e27a2463dbb454865e011c09ed403d6b0ec205b3a0df0fab1a0244c8d3486ee243eb3144e2cf4002030/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef39ad61e44f6d404f2434797864a274/ef39ad61e44f6d404f2434797864a274.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "hentatsu-tv-10052?ep=97070",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0e28153f40d6a0e7c8baabf4b0a3b98900f61bb3a11c3d2bc237a79dfad616c7709f4059ea796ae40266ffeaf2bcfcd4697b98fe34f4f262acbca972e44667d27bdd15fd571d67a5c940a9b3ee05986ab6c21440fc412f66a2d84e7dd0a52e20938af3faf1b1928dc30b349c9444eb9403dd534f1bf09527bf8648100aca34af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85b7e2d408e0941150a2625d7cb81178/85b7e2d408e0941150a2625d7cb81178.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0e28153f40d6a0e7c8baabf4b0a3b98900f61bb3a11c3d2bc237a79dfad616c7709f4059ea796ae40266ffeaf2bcfcd4236c680b3eb85e65c3ebdbccda7c9cd92a8f6f60de1bd14cce7a0dd971db6cd7ac76468a96dc16de32f6e2d8e8c9196ed50afed607ba00d215a7918e94a4a0a6002c6501c53c50f42c68114a957da43ac8684e34dfcf6246624f2cda3f714d1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85b7e2d408e0941150a2625d7cb81178/85b7e2d408e0941150a2625d7cb81178.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "hentatsu-tv-10052?ep=97071",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/52183054c0dfc7cc5d99091166870c97d35091c9376ac00d7a240e1620720646ebc5197f269b5f4286d39f4f3a68d964412608ae399c3f4192b9484a18bc4029dca91664a69c1757d10c8266cdf8cf21c3103c82869d3bbfd27472c8305ee424ce5265d36eb7cff67d6c09ec8df5ddb062d5fd6fe955d41a4b5742461e9d8d57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/738b1b49268a8e13d47b4caf64ac760b/738b1b49268a8e13d47b4caf64ac760b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/52183054c0dfc7cc5d99091166870c97d35091c9376ac00d7a240e1620720646ebc5197f269b5f4286d39f4f3a68d964c6bb8bda68796406a52b0f4f415549a09553f995ef2edfea3398ff254555ba2e222027e1f6ab8bfddb5722ff801b9fd26083a58522e8ee00ed402915b33d11c8d721b8d8ffe388caa2fc1facad45e321b9a0828cdd1881d39959a31d724fe3e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/738b1b49268a8e13d47b4caf64ac760b/738b1b49268a8e13d47b4caf64ac760b.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,996 @@
+{
+    "info": {
+        "id": "naked-wolves-8436",
+        "anilistId": 7247,
+        "malId": 7247,
+        "name": "Naked Wolves",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/929666acf46c1fddb2e97b91949a98f1.jpg",
+        "description": "In the Flash-animated television comedy series, a sumo wrestler named Mikoshiarashi travels around the world to train to become the Yokozuna, the Grand Sumo Champion. He meets colorful characters along the way as he is determined to meet his goals.",
+        "stats": {
+            "rating": "PG",
+            "quality": "SD",
+            "episodes": {
+                "sub": 52,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "5m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "russ-nicholls-31251",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/108aa48bf9692f54b1e07e03dbfed378.jpg",
+                    "name": "Nicholls, Russ",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuya-nakai-37",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3eaa00f6c293df5146813f869deb0a20.jpg",
+                    "name": "Nakai, Kazuya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ネイキッドウルブズ",
+        "synonyms": "Hadaka no Ookami",
+        "aired": "Apr 6, 2009 to Mar 28, 2010",
+        "premiered": "Spring 2009",
+        "duration": "5m",
+        "status": "Finished Airing",
+        "malscore": "5.86",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Kids",
+            "Sports"
+        ],
+        "studios": "Kate Arrow",
+        "producers": [
+            "Pony Canyon",
+            "Kyotoma",
+            "Kate Arrow"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "New Year's Tournament",
+            "episodeId": "naked-wolves-8436?ep=47697",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0cd5a8e1f11d15f23b0c4a6141d64e8cc6aaf5227f5e82582b3cca7ee1f611ec7afda2eef206fcf1c73b1d9d7ed18dcb48e50f2b17946061e9ddb5bdbe313c32d91adf5c9c272c5db17f5aee0691381158a077c409529a92478446d6b20b9014cd0a6713bbcd2e6499aed92f5d0ad240/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c365a0ea35b09d53b2c2b608bf23a188/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0cd5a8e1f11d15f23b0c4a6141d64e8cc6aaf5227f5e82582b3cca7ee1f611ec7aafbab9873a4e7cf218dd54b2fc3ae7587486fcf706045e187041bdb25abbb1ec725e66abee4ae0c5864189210022383689bba6653e0c06e3de8bd0329f89809db80299d493c34ac2d6047c34458ea5bac4b064cda627c5099167e37e2b8bc9691443e13acf1e7241d1fd6182218bef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c365a0ea35b09d53b2c2b608bf23a188/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "L.A. Tournament",
+            "episodeId": "naked-wolves-8436?ep=47698",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/467841d6b873a35e8f1f7b4fcdbd24c9b7efd609a4dc5568ab74890d07206d406c6fda0ead8e46a8e0c6f37a4d364bcb28ee8062378ca0e1a32b04233be4fc97562d6920e89381192811c55e9ac08b907dec2dc2a3e6defd12cf2e75f2e2008ec63cd819d8ff01631c8ebc0e361f997b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6790a55d810c3204bdef80556972ee8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/467841d6b873a35e8f1f7b4fcdbd24c9b7efd609a4dc5568ab74890d07206d40c11b6981bd13cea702771cf304a8e496f64c9f99ce7347ee9717eeb3423b9bb9e457d8cda9935f7e6fb5864b80f628296541655cacd6b1e30345ff79cf701cfe4cb115670dae88d7a526750c875189dc2cfd258484940f5e8793d5ddf73e19c963dd980d79a48920181ced39d85f73db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6790a55d810c3204bdef80556972ee8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Montreal Tournament",
+            "episodeId": "naked-wolves-8436?ep=47699",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f7f9f89f0c70afc3cb6b5b636fbf642e3de51c07e87ff903799db952a14d2a9dbc814094b87e71aeb86223491d4c115ae50238d2ece9a996519da5af45ef6e42859f0149c8ac80ded3b3ec68e8e04b6d488116acb26d5e4d67e984d3e95f90987c55590a151f7a6d0f863bc10dbb1b6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2862b5bd39b82db15f38cc724965270b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f7f9f89f0c70afc3cb6b5b636fbf642e3de51c07e87ff903799db952a14d2a9db1ba22a0799d824f992c80cf9ae87b70098c7365685dfd46540d74b9695ff9ebbd40c75f9c718ba5f268d403db3940d35dd0ac886554889250a0716e401ecaa46b6b2a6ba8636f052b39a0267ffca6cb71cbd740f10b0a61176ffa4b08da6657b5a589f0d03e28d50bd18455e709d721/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2862b5bd39b82db15f38cc724965270b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "New York Tournament",
+            "episodeId": "naked-wolves-8436?ep=47700",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b911fbe4ec01f41a42278b0359110a97ec94797713422eec332098fa34ab6846ad577e55a186d646c613af28308d05fdf4b94af66ca08cd11f289c4292427479b5f56cb8ead2cd52c3eb70ffeefdabe313e093974e57a88148a96aa024ac30df54115e68a94977fff1a73c4fe761e632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ce6ee300ec2fdaf7331f13ea0c74ac4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b911fbe4ec01f41a42278b0359110a97ec94797713422eec332098fa34ab68463b09fe5488f45e8b2b760cfd5cd07015b37a63fdfe0d4e79b40e6c74e7b58b0b46ee31da828acb0416d88996ba4b094ec998a17ca7832eb3457b4b5f26fda5f2ffbfa641042a7787ab806e7123c44b6666b60f14ea6a77ff790e952c089a79328dd4c6047bf50cf29055e6ccfab9a21d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ce6ee300ec2fdaf7331f13ea0c74ac4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cleveland Tournament",
+            "episodeId": "naked-wolves-8436?ep=47701",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/db7a4c816f737341562deb98af875ee8104711234d2b9f327f0ee4845f8a8531178a50ccc37d2220c71208b55f9dc3bf9f15636815dcc53c21282f56103776cab2a84fba1cf3e460717f1cb76ba0e573c38c44f05a1d707a8ff63f9bfc32e1152179147d398af401f94222fc944882a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b31e098939bcfee11c59459772e273c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/db7a4c816f737341562deb98af875ee8104711234d2b9f327f0ee4845f8a8531295b742a4536de2f313bd567581a3aff1b77b7b495a84eb41c6e1f488ffb22dd7bbc7eeefa1d93a554c52c36160c4c8d04142f6d63369a509a518747cdf4ac85956721c6241cd985a131558ce8b7a91259b1d9b1b9475edf33df9a7a63a4eedcb9b696440a87c1b6ae4b22c5fc863970/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b31e098939bcfee11c59459772e273c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "D.C. Tournament",
+            "episodeId": "naked-wolves-8436?ep=47702",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c29b27815410c8b5bc4ac6ab061756ac4a306176c9a571a2d657515ade72c358614fd506e8f30ce8f274efa0de8287afd815808e6950b77c904d642d698bd6b2146045bbbb2429c9895394ca70b317e464c6f4b22d02f7340e5222737fd696fef64306c0ac2fb6e3cc690ca077a0c6d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c75ec909b0156c37cdebd90774d06ce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c29b27815410c8b5bc4ac6ab061756ac4a306176c9a571a2d657515ade72c35863e4ba24980e6fe928bb09eaacbcce3a324bb6c60c538cf1b8f062b34c26f0ddbea02b6a1d69f7a3e788bea49589b5fa3d88cf8dde5c2c13102f2c277a09603ed91cc710b272e83c000de004883bb4114a8fcfcbde24d04ab49a729a48b926e7ad04b90c452b4a17f19e7dfa8b907642/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c75ec909b0156c37cdebd90774d06ce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mexico Tournament",
+            "episodeId": "naked-wolves-8436?ep=47703",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/76eb50b17a480b864fa964f7a94cbb4afed5d6986227da322f3186444f5f5d6e769ae455aaa33bf3015e95da581d48386f04fc733464975594db25e9aea5393946d955cfb98aa3fa28e2d46aac28cd234f6abbe65aba8f3485876282f1ed769d83e8d7c6d01394235d31c2f0e980ba27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f274bacec1ec1f45fe0b8d5dd2eec914/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/76eb50b17a480b864fa964f7a94cbb4afed5d6986227da322f3186444f5f5d6eca016c4d8cb5f59d2548e1d98c2fb7fd84ac15f09f38489160bcf0a5688152d65cd0fdefd9af712cbe2e7bb39657946f89a31721bf6e88cc765bed032597fce6bcb2aa92b3efe8ed5fee38d4b23e01e7826548081b534c5110d7ece511dbe4e27f566cb3abc3c9a3873526212c1240c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f274bacec1ec1f45fe0b8d5dd2eec914/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cuba Tournament",
+            "episodeId": "naked-wolves-8436?ep=47704",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/76eb0a727aa8a171f81d3bd1d2ee6c8d8e369a3cc467d4d645a6dbe8dc72c5ce60ce0806998e5f2ecdf1a5e21d194013c5e60b57909a10c46c79c180a642444c814132c48c56baa997860b1a455f22d697e4acf6f99727c45870ae0b21b10a3c03a36c7cabaa630246da2d65b3e4263f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98fb3a4eb5bc4a310172647bdef937ef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/76eb0a727aa8a171f81d3bd1d2ee6c8d8e369a3cc467d4d645a6dbe8dc72c5ce77addd5bda09489cfa20375fb25b355de0ffb65dbb0d3c4b546f5a02ebc5c20c0bb9568dd38a1a4109b79413cadfc950416bcea4bbd33adbd5b0c1be7f5ecf1963c8660c54afb8d9b3cda4a354a303a5d9ade0addd3c4061ad722ccb30fa42c503a78602b8d1dc4a37246a0fed21d79a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98fb3a4eb5bc4a310172647bdef937ef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jamaica Tournament",
+            "episodeId": "naked-wolves-8436?ep=47705",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f67cba2c899ab796fb67d8d88e9812cce6483a739ef1d807db9385036bf79d0d077cfe58bf41c0c446ea5c2fa4346057f14be0834afdc8b37ba43415806d89d398f7faaaebb64fafb5e2afdfa78173931073b8ecfd08d146cc86d6e2b4d7dea98150524757235a2a0e6b40f82f252a69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39f77c94d26544af8d534bb005818ebf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f67cba2c899ab796fb67d8d88e9812cce6483a739ef1d807db9385036bf79d0dc35deb96cecf90caea0c6d29d0b73e94e790f218ad047e0187d6ff6fda69c59c089b10166478b587e5c9aa2aeb27ae80fef039115f697f26a49445a2648ef830143fb0a50b3beeacc5cbaddf04a5d17eddfca4e685fc012e933876b07ed4eb8f7d348cdaca1e0a12bc7184f024b03c63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39f77c94d26544af8d534bb005818ebf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rio de Janeiro Tournament",
+            "episodeId": "naked-wolves-8436?ep=47706",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bcda1c7c11366046fbe76f29d50f9bc2a51009a682c52979f2619a456114d0ad43bb847b599344986b31a5addc89a3ff614ddbed195ab2b1982c4b1aa69fa9d9609f892c2eab96fa626c29e931c3c7095601fbf237877fe0de2101f5ede0f18404b299471f91b17ba252f0ee178e1ecb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f5701ac56ed9d125149c5a0a4200b8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bcda1c7c11366046fbe76f29d50f9bc2a51009a682c52979f2619a456114d0ad46ac5bf4940b2fc68762539cfb9ea1994d311981db41707e4b3513aafba2c31332c48a5cda906ed5581c43f943490619d75a44436748542af316345c367e0ac92f23e2150fa422c4f69c538e22bb29ceff653bc6d5dbea82809f1d98d1386502ec6962282185cf98fb591ef5713bd44c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f5701ac56ed9d125149c5a0a4200b8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Tournament",
+            "episodeId": "naked-wolves-8436?ep=47707",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4277f9e76d57dd95530a4b50998469e3b46b95bb04b22cc70137c174620fc85e48a30c64d44dff45c54d550059200df1684cf0ec75ba85e88dab2f29bc33130916dc9864f829623ea0f7c4d1115be8fdaa1153a7f885b9ae6df795cd781222b6f72bc62313f90ab08f3a16c2b524eca6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff2b53afac2c8155925532a3c3dbe98e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4277f9e76d57dd95530a4b50998469e3b46b95bb04b22cc70137c174620fc85ea99223310d094c31dfcef85379971183ae9c93c4c584e45216facfeb2b925ef8a8e5e7412df68041da29e248f7832353b243b04b3910981adbcb22e9351c05669c147db77ab1205a589e04b4d930d5512fadcd0df7b8076aebd0f81df5d72ce206165219d385af71162554a34b581a1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff2b53afac2c8155925532a3c3dbe98e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Columbia Tournament",
+            "episodeId": "naked-wolves-8436?ep=47708",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/10d746e3d00a4f5fdad92d841df37af1f529b458da022d1036d8dd75f857630cc4a4d429c5457d6967ac7559424a9ba7006725fac055cb8aeaaaeec6b0807672943fb57fbe7b70849d6f0cac1af375e0411612f05a8493533184ed32878137864b98cc08e66baae099c9b34de4e6d2d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bf1b6caca96aa0fe3477ed150bf75da/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/10d746e3d00a4f5fdad92d841df37af1f529b458da022d1036d8dd75f857630ca22544273e7606df93788008c9af887b336728891804a6428b80b0f38cf0d5d146c5f2aa921c2225d4ff2d18964c37f2bb4cf316dfe9078686731cbc441369fc3778f901f4b4426db167ba76974bf845d4ddad95a2db200a63a62d8d76e36f51861c60474ab42a0a286ba8a025285487/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bf1b6caca96aa0fe3477ed150bf75da/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Argentina Tournament",
+            "episodeId": "naked-wolves-8436?ep=47709",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d4cfb2d2fb35785e3214b5e360e191dce3a9fdc4721a51ee73f44e592530d8430c49a641ee50b5b36d0c435bea8c1f45d6f6bfc1f4d086d6e20714e7b19352e4980e7b582195da07ca11af835506033ba76bf7ed16c072c3e3a5921c67a94c97e478811504f58c7af8b5536ceb939dda/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67be122e6be85953d78a0eed69010826/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d4cfb2d2fb35785e3214b5e360e191dce3a9fdc4721a51ee73f44e592530d843f82324535c3e190edd421ebf6f042587c80e782eeb400212e562a97a48765fa3b9116cf2f0a128cd8951ffbf811fb7a213f6bcfb0dd77a9f41b96d54859f0b000fa0a23384546b10ca6fc8e4d9a0a5e8069b003ab5f8e8809ddf095c8864bcecbd7cef3ec5c4dbf32ca172a4338c987c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67be122e6be85953d78a0eed69010826/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Caribbean Sea Tournament",
+            "episodeId": "naked-wolves-8436?ep=47710",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7951fd0399ab4c9059ab6246dbd94173f65856c2f4472bd2d9726d7c326a8338c9b6bd09f324fcb8fc3895e8b306411a36825b1a46ae4aa88f32dd7fc40b02ff61941ad88159dfd0bd8c2cd37353139b2b0124ea96e26a5bc8737462367d62de899301de56bce06cf924e2f4c4d51e16/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9874c7ef47af0436375e18d70a19231f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7951fd0399ab4c9059ab6246dbd94173f65856c2f4472bd2d9726d7c326a833868a5a3b4f830086d58aec5b61a5a04741ee512a4757eca034517daec2cd5b521c5f721b536ba7a76c33f8ed2dc6c040517d89b9d0f0cf34ab98c8d8f05bd138c0760ac9a4de3afa501a6dd964467302c684e7b44ef8908e116ae29458a1720679cc58093b6a01c5083fa410ddf08ca6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9874c7ef47af0436375e18d70a19231f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Atlantic Ocean Tournament",
+            "episodeId": "naked-wolves-8436?ep=47711",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/de204808fa0f278caf0ceb244d77125d5a273e97735440db44177e70ec6d6839f3a3252f56872319ca9f17ad3a472fdd423585c323f176098b9adb939b62be69c86f061c8dac0678aa8a6cc30345497edb6905fe5fa38b07d8cf9f674d2953ba66776fd470e3d7071aab3d68e73a462d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad2be05f746ef3fbea766dff8d0cad57/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/de204808fa0f278caf0ceb244d77125d5a273e97735440db44177e70ec6d6839d9ba31b1bd3b3aadc3e0819685f181856a3c97c1fca9dfd437a7fc80537095eedcacafa07ad659bb368353c110c5201dfafc0e5ce8c106581117224fecdd9efa2ff1b2a91c2c042172fa071cea35336dfdec16f675d116ba31bb9fdd4bbfebbf9cd58ec6b3428219d202eaaf3151c6d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad2be05f746ef3fbea766dff8d0cad57/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pamplona Tournament",
+            "episodeId": "naked-wolves-8436?ep=47712",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d402299633db4b699ee7c62285dad5f9121ae3534ccb4500259f2b2da19f29012ad6135e147cba6f057f510fbe59e08e38ef4349e5acdd1d75026041d69cb69c3b071924af0e79b6e314869fe6aea0b3fd4f660b57055e8c757b4b36ccaa62f7de3f13695cc6ed8786ee5af1348c6ee3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0c1e79d59a1216100585de35dc708f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d402299633db4b699ee7c62285dad5f9121ae3534ccb4500259f2b2da19f2901cb1d6d8214fb62eef852e14ea53bba00ab9f310c62720e324fcd2a8e3ed29381efce0291747ea139627831f32a76647976d9401c975aa3ad03d5e68b4bbca7ce48225729f23588717132a713dd6a9feb1fc797b2bc08c6890a9856758366485fb15da246973e5a24c4cf032e624c56df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0c1e79d59a1216100585de35dc708f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Barcelona Tournament",
+            "episodeId": "naked-wolves-8436?ep=47713",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0e278a71c5151ce19fb66eed5d21077732a5e06c6c4d110adac82d15d27dd9f67a0286ac6cf2810f8adca25ef46db2295ed8855d5f89afaa262f5af13d9e3d0b355e8d9678e7c45ed674a530c96b7066d727b6c2a5f726ab75fa9e0c426e86a4d1b901c72d68a74c3ccd4ee0010f7f84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d98f4f9d867aafd9848b5e18fca08ea2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0e278a71c5151ce19fb66eed5d21077732a5e06c6c4d110adac82d15d27dd9f6ce875315cd2ecd52a431dc0bfdf2321cc8daefaf7fe5eeaa3aa21200269e62ac0d935cf72bb074f0212a93046770645e9749e1a3d6f576501130d4d23522a4f05dea08f232ce65e3ccd9b084622ab6129cb67edf65fedfc71b7be5c8e08f325c053737e24b340b33903d0fe14add6af1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d98f4f9d867aafd9848b5e18fca08ea2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Paris Tournament",
+            "episodeId": "naked-wolves-8436?ep=47714",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7fce88ee11ad5a787bc23e8122d12b3674fef52441b39fbd42833852b8066644f88e5f70714d6f935cb4dae7122459af879d2807d575ff603a09b58140107b6957ea3ac31ec0a2021096ac3c149874699632b0ea85c2979cf4f85d359f0536c6478803c5c7faf059502199e2e08662cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe2dd3f1be0b2f3493f68fd93eb36e8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7fce88ee11ad5a787bc23e8122d12b3674fef52441b39fbd42833852b80666447f014f8101b2f190e022aa4e9b5043f4f8c56ef0f6ac979a3e4f85bc79a70f54497d663d0bcd843f5ce0f4833fd3b7244f0e093653fe5baa6815b9ec374aae0b5d954c2499accf4e80dcaa0edbe92bd76a96faa2a0c6073370da2a164702ec791ff434c00e220878402359c5fdcb14fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe2dd3f1be0b2f3493f68fd93eb36e8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Paris Collection Tournament",
+            "episodeId": "naked-wolves-8436?ep=47715",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/92afec4fe24783932f19ddbfd5299b53b397d2c1a2c6e700dec53b84f4ef47e3830384af28eeb522c1f36c1913aecd9a81dde4efa26e68e6165bec1a52e5f286366b7dae8b68d88199f34db453d5df5b95a0538998abee3d3a3b9bae75af3c7f90ee344dacd1ece0e40aff641f36da6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45ab4789d42891ea27dddf7834a626dd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/92afec4fe24783932f19ddbfd5299b53b397d2c1a2c6e700dec53b84f4ef47e32c3eecea63a5ed9087673c6596ab347067b10d9c3eb6d6cd15bb73f9a8beb0754b5a6944a33a9fd9e6c06f5667c77316ddb6e25987617b0da52252dfa16c38eb17c10130c4153b1fa097cb41c0f9b26eb43e69ba356101294f6fbc6afb5a3b29289face9df21b48a8e5680d9175506a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45ab4789d42891ea27dddf7834a626dd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bourgogne Tournament",
+            "episodeId": "naked-wolves-8436?ep=47716",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b88976c5447c2763fa0f69922de0e32d7506202ae672f2e4880bb71742f34d9f2d39040754271a83a6e895de653e2e5b27c3de194622c8c51d70de448b21a1acb247e21247705b27f1fd89f2d0db367d1c0d4506483f62c70a014f1c9fa631fde2436fc7dfc43a350378215a6bfec8ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5d716c2e26bda155b675828144825c4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b88976c5447c2763fa0f69922de0e32d7506202ae672f2e4880bb71742f34d9f195347f2a90d15e4668371b4a14cf964dfcd0dea520036d5b5f093ac2e243086d575d477fb6d8dd65a0e8630cd9c89a67654b9c65d213570268ac6edf1ba17777006cc47c28a073ff9355b1b7bdbe9e61d504826c46d73ffec80b5e536c9d293df05abd2f8470636272cc6fbbd33394f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5d716c2e26bda155b675828144825c4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "London Tournament",
+            "episodeId": "naked-wolves-8436?ep=47717",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cd814d61d1e8e4cb4e4b743ee4cf3f0b41d78ab0b0075edf9ae6755d0ee8177952b418321418d89044d61e5ce754ebda2c030ee6828b415e4eddd04b96b3d39161cf62785be06f21c2337671c232a05c7230b3640a1196480c44b6a9331208e2b8810cded5b27548fca51fb8192cd1d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/37272267da4ae46600d5da7ff5661b99/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cd814d61d1e8e4cb4e4b743ee4cf3f0b41d78ab0b0075edf9ae6755d0ee817794109cc63abb9644d369ea331b21f4bdc8fa247a4cf9f51fa797802762310292ab8981d76d80373c57caf7938b3fef44d68b94361c41a06d5d8a1ff380ec8752a995f79fa58c68544cbe0fd38cc43aa89832e644e1b8b96e1757ef090b9e21a41b505480e2823d6d46b2aa228e9603614/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/37272267da4ae46600d5da7ff5661b99/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Scotland Tournament",
+            "episodeId": "naked-wolves-8436?ep=47718",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3845d2cbeea1a549ae2484cee6a1274e770ad52beb91ff661e051383f2a2a06be65f99f0021bf92016cbfdbdc58db3f7917e4433569e8792191549481b01d94d01de2f9de45e1e55c015670bd3d56add5ce0c1103ee6525e421af74b271db6684b14167b3960c63a41273b9cf8f4e855/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1524bf778b8e4e7f1a05cfd4b9bee57/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3845d2cbeea1a549ae2484cee6a1274e770ad52beb91ff661e051383f2a2a06bc16eebe7e8eb42ab367e27a02edec6c1fc5920c75a699c1fa57069bd944e51cd2e87847acd918f8ca583c75f9d3be082cf1daa4381240e626b34259759b03eb94553579f1b9faaa354e0f192b196716ce3a47c2e1854427a367899fc688657eee55166120bfec6d86531b1cd4194d136/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1524bf778b8e4e7f1a05cfd4b9bee57/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stuttgart Tournament",
+            "episodeId": "naked-wolves-8436?ep=47719",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1c17af4be12bfc489c265a105ba31af942bfb5cc88ae40da63957599c726ff5438f5143a47c16f029606d8ff7e8bde5c675f9d798224adf8709c902f8061c3541e20b4d102ebd17e38100f3cd232adcd96cdc862eeea127a63bbf801b9abef37fa944049f5c8321fc67efacbcca1d642/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70f55ace8d6d0dcbe94407e6d0089ed6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1c17af4be12bfc489c265a105ba31af942bfb5cc88ae40da63957599c726ff54c262fd3bfde069ce79cea7e815ae551d4f47d5776fbc6be427c6be171739bc3fdfba33ed96f9536a8a3c9eff79846b4d31218e88c5e2b09dd45ac667b000c7db5ef11091ba1f6b08f2d60d5ec262e0f1d28660486830247a08dc6b1845b3232a318f6b1e24ad0dfff00f01eb30ca23d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70f55ace8d6d0dcbe94407e6d0089ed6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hesse Tournament",
+            "episodeId": "naked-wolves-8436?ep=47720",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/848af0d4049dba0fd830f32f791f2b958068ef54771862025aef87e6f683288aaa650f825c206bc93313dc711f2088cf5909dd86f3c0705cbe8d2016c3c1ec01232e2f6c6fa2403411ef8f95c91aa0df28f390b7fde134a315f901a94447f8f93c054fe4e80e8bec7f263fc60aa67462/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f80dce95ff64f913edd908db3bad10c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/848af0d4049dba0fd830f32f791f2b958068ef54771862025aef87e6f683288a1715bbc3aa05401e090e88d4450c64601b2f6e30f8aa830f795bd80d491f0cb90da011dc390890fa7c36c4d809e243b4ab41d862973cf7e70191b9ebb4df6641281c164f5a5dae0f0bce95a5baffbd57368e628feeac7da109db259cf7f2592eb70b5d32723707a1ea768349b0e3f24e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f80dce95ff64f913edd908db3bad10c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Alps Tournament",
+            "episodeId": "naked-wolves-8436?ep=47721",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7e24b952d42079b528e8439627fa73278c419bdd966eccf41e958377b9bd75a3b8f62d9931239d56fe2fed4de33100b8752124a6762f1ce2280eac859cebe2b7377df2ee6397158d0fcf12a3f06e8fea18468b310550dfd65d3ea54c72471ec2044a30f4178af732b32f816ae2bd7389/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/409144bfb154dc7fdbb0c6ba32bf71ff/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7e24b952d42079b528e8439627fa73278c419bdd966eccf41e958377b9bd75a326cb7ba3f965ed1a682bc3f2fddafd77f6f5e2a0ebc9bd4578975605f675e20f139dc6e4e5c4f4567746d648da122e30e0954d869574a4fa48f629c8704efa036641e6ac94961141e19f110e43c0a042eaa8b1cfd5558e5117c80ddf68a86f0b89327fcd2d01eb986f75e2c4a3d0a371/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/409144bfb154dc7fdbb0c6ba32bf71ff/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Switzerland Tournament",
+            "episodeId": "naked-wolves-8436?ep=47722",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0d0307ed35c63ff7a57e41b269058a138301f97f39439b7e7073da17a76aa54877da3aee676ff5855493d53ab416987220da2844f05b975d8239d09097198b4d2927cd858678aa0fdab546bf83bb99264eb66af3a6893e87d291e5405bbcaa38fea0579f0f056943c6212ed6905795ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/218edd9ad3c585ebc49574a23cacf27c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0d0307ed35c63ff7a57e41b269058a138301f97f39439b7e7073da17a76aa548a7a9791be1392cc7efc835493931dae03ea683f32a63faecda38f064d6407a580da1c2083e19b83a7b646e42a16cbbd35b58a6fe8102c871a67cf98a70a257d9cc982d9fd6e144eb043c9025cb3c977f02586ae014eee9094d248904fb53d1e4b4bfc09c50923477c3f5a35d5dad9b52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/218edd9ad3c585ebc49574a23cacf27c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Tournament",
+            "episodeId": "naked-wolves-8436?ep=47723",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d189f769da13afe1d22db3d476f57f3322a877e0b69d006dc4b5a1fcfc9c8a0c23ca4dc4d57a03a925f0d66dfd687db11e466d8231caf27b369dce581670e4180581742c14977d277ebf97e64e6c2d0c251420d764c49eeb4aeac40eb5d07d104243e9f2646aee82e9c80d75db8fa6cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ba2c8a4e0937c8de0d9799c15ea9047/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d189f769da13afe1d22db3d476f57f3322a877e0b69d006dc4b5a1fcfc9c8a0c965eddfac3958a443d3b7918add3bb03f570139d406b79a42bcb46b025431189337f63a3798a8f27b67dd7dbac5f2c2fc6be4f93038524ef8eb9ddb6096e88e7b5c27e18efda260d6952326d807be5da49282650088d86d086866630d8ddd06206407646ef9203222d0795f9784a948b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ba2c8a4e0937c8de0d9799c15ea9047/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Champion's Tournament - Preliminaries",
+            "episodeId": "naked-wolves-8436?ep=47724",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aa34fa6bc46a9238025426658e1fd3ab27ac511b9969d5447926a89a63ad3545b59a4f6a7bbd5a37a79949da6c9314c0858a942cd04cbade8fdd910c79972829a22624ce1d505960252b3a54d2ee58bde42e1bea9d302eef786c8d5a553f5f01cd61ac00d089e9b45bbf3d553612e52e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbc28fd4bcb2affa9719efc8e9fa4b69/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aa34fa6bc46a9238025426658e1fd3ab27ac511b9969d5447926a89a63ad354541ac895933270750008ed7f69bf90f38e30e0ed2ac4427ff89a75abf612bdc34386aba2120a89d2303b7304ffd8133aee5288588665ea94b6bd7677adfb74a962348e8d8cf73c7978a1d28c6da4858f58b700d5ad51959f1034c29674970ea1fc5f79d6f5ad626ec14389a2e42942498/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbc28fd4bcb2affa9719efc8e9fa4b69/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Champion's Tournament - Finals",
+            "episodeId": "naked-wolves-8436?ep=47725",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9b9fe5183cea8aa3543f43a06f854900da198a90b13c036f0bd86de88ca3c5f1c73ab565f1cbcca25319e014e069467c3ec771e2cb4db1e38c7e04600ff2f39492940d12c39fe9a0607454addb7d20318b0f88f9809a4ebcfb241b4f75796b6e175bc22668fcf8c98aa61126952ba1db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e93907392a50645dff1478dca5beac/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9b9fe5183cea8aa3543f43a06f854900da198a90b13c036f0bd86de88ca3c5f195243c8b74dab149914eef6142b2fe537d36bd1c218a19b190428fc4212b4c171d419948afd8e5237b0278049a6a8144494dd1fc93fd040084577d64a904c4dd28f21649de5e07edeb6579e4500c66ba22fc017f3f5c9d1923d04bbcef07920b8afa7a500def0dedeef69f22490c1fd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e93907392a50645dff1478dca5beac/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Champion's Tournament - Conclusion",
+            "episodeId": "naked-wolves-8436?ep=47726",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cb723cbfd602edc75b73eff457055851f5f1a655f67ba59fd7c019441fb9f69e70d13e794abb1209c1466589bf2a2a5b70a12c4c1ab75c7ced0f687695b6ba35c9c165e9d21ab4f4f4194861b34ae3cc459370dd3c640607b1d1dcb88c6ea6917616243b80746033afab93b357433709/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0b750225133656791c35326fd9d27ab/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cb723cbfd602edc75b73eff457055851f5f1a655f67ba59fd7c019441fb9f69eb1c25e63529b452b270f4c1d738e49445aa4052160103e46f46d79f8b0e38ab46b9f31d77047aa3d84f12e7ea43166a01f514842f7d2b6d7d713a858a90ad3f3c1f0572b2d9ba1bb0a76bbc614c3d7305fb9d15ce9d2c9e88dd7cef87dd25511b3dcf379eb56d52cfe7413724cdc2faf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0b750225133656791c35326fd9d27ab/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Austria Tournament",
+            "episodeId": "naked-wolves-8436?ep=47727",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/90d529d21b3118bc44ace9b4c9c244f06e7543857b7b4975f9eabca1c24f4b734960a7add7414971ace43a5d19d8c948dfa5df04d3166a99d121b84792d61e6cc173d234cacc3a0a5b1dbae634cc2f8e5e6510ee739c2866aaad2c6788ea80dd275ab08813a2b48347453c28de6e35e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5b8a3e68c1a164e2e60f3bfe7a799fc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/90d529d21b3118bc44ace9b4c9c244f06e7543857b7b4975f9eabca1c24f4b7368be54140989581f419bbed4130f42d2f2f134956b610b31e9037232670dabce8bed07f94c95a4644a33184d097d462bb176cc2ae1febbfe66099b2814406b9f3aec51bf6d052935b5f67049631efad305cca5547a9599e7af86634b0c9d35a0913c7062b205564cd1e72f431c824805/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5b8a3e68c1a164e2e60f3bfe7a799fc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sweden Tournament",
+            "episodeId": "naked-wolves-8436?ep=47728",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/942a720d019970cf9550bbf2f1967ff222da1f3e4089f6584f1b9d9f56857602ce0ce7bdc5de9d36a213cd7e022064606474f6a348cf1d8bf81e454b664ace6e630f55711830924baea87dc37a4f1cae3ddca1bada7af0f5d94442552ca3338bbef90a6c433e68f5f0dedb79ae5d2a00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57dfc2d09e4eab85d8bb3e1c6893ec4c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/942a720d019970cf9550bbf2f1967ff222da1f3e4089f6584f1b9d9f56857602174d99697b406d9b98bc64a01acce0f30bbc5357d9183887bd0adad8d3a42209d6d0b91aa221980ba9a6d5ca97e100349139b75d5bd0f048a466f9622c526e34e874c3377a2700f4c356410e8f592107d9acfa715a4debbf87baa2ad57a4983d322232e55d43533d336caa4b22499b4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57dfc2d09e4eab85d8bb3e1c6893ec4c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Finland Tournament",
+            "episodeId": "naked-wolves-8436?ep=47729",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ac0d7c182f438a50b49c4f24424766cdc4a93c070620bf5f734a03196b4ee9d36b3824173f0d463547280cb655ac3e0fce3b90d018cf2bcd2a91ce068317f9c77ecee48b305667ef8ccfe8458ea3811eb7f98567462e2bf42bcc9ada21adc2590af3d2265f79e98235990f8b29a2b6fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a690a404c1fc81fbac7f92340ebba20/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ac0d7c182f438a50b49c4f24424766cdc4a93c070620bf5f734a03196b4ee9d38bbcebcb62b523e8db39c3faaef210c7a103d923ee6502c3c22e6bd2cf5594f76ee61e16b5b4f5227680466e97e58980428f54f3fb3586b0080768dc9dcd37f8706cce493282a52e8b8d28735dc7f47ad97921323ecde3dbe6dbefbf149642f2f7f8bd9378fa6c6d53d06d0dae82a910/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a690a404c1fc81fbac7f92340ebba20/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Russia Tournament",
+            "episodeId": "naked-wolves-8436?ep=47730",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3a5884487695ee48be5abddcd27336c8d149900f7bf9da11bb836f712549e93a6b9f50947731d0fcf0572086d86621a3a55b4eef2b92020c2802ba78f05157fa7041cd83209aa3ce88828b831b09faebfafbe05ba76b65bb6e627954e8f1b726ef7c25414ec5172b619e7faa87d524c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c4fa02cf004ca11d38a377b92f44bfe/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3a5884487695ee48be5abddcd27336c8d149900f7bf9da11bb836f712549e93a40954d3b2e0ff579e7f655ae3c722da33cfd9f2dd5f866079604dbff13e6f4898c9b566afe61285c4268cbc1a5cd38e2f89e3c0c9fd7eaead18e4d08f85bc5f91b1b5d958c0d9e32b5ce5acf0b300e7ef55ef193d62e7d76bb278593a3bf08f5603d085f44929e02f6d2e5e92423dfe8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c4fa02cf004ca11d38a377b92f44bfe/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Romania Tournament",
+            "episodeId": "naked-wolves-8436?ep=47731",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/aa77b070c23e9fd0d50d282b9e6edfaa58315ef951b3acaf3186b041868ce9cb823c630dddbb3fa6d928919a2ca928d8b1f4b0bdc3dde75fad33c2e96e345dd0cad666a58e8900633fb684aa3a5b62cf2eb6408ff349fe5a79fdaabe21733155ab02b340d07de1568a71f2c3228b9463/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b690a2dbc117604b4f550f153e93a264/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/aa77b070c23e9fd0d50d282b9e6edfaa58315ef951b3acaf3186b041868ce9cbd4044c58db12ac777dd625b3d74f810bae99719d59f7b2cc4c572c3d080df461686040581ae0540ba9a94ca4711abaf34f3325ff8f5ae5ae7cd8c6c5192261fc5afce6aca7b9c7c3378fda6639e34a6146db27ff90ee316b7b7bb72b7312f241baac86a4dc89594adb7e7d3744ff6fde/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b690a2dbc117604b4f550f153e93a264/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Greece Tournament",
+            "episodeId": "naked-wolves-8436?ep=47732",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c6162b68cdf6bb0292214d73c9279092cae1f9a7903a021c50dc9bc7a367a49e45f8b140b4ed590dd57719f3b1c6088bf20e229047fb3b7860f3c334bdca509191ff50ece4822fa4c3fb4cd64077fa90c5f27f0678b554887e36bd2c6d36f2637db7f66c4afcd39cfb0ad2b1d7f3ff17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06bb27b882f02eb8b82d3ed67a6d7699/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c6162b68cdf6bb0292214d73c9279092cae1f9a7903a021c50dc9bc7a367a49e907e79e266489f72023083243c9df23623c0403c19d14db576ffbd56c87b845e845b691b96fc603c1fbab2bd4770166a4282bf0147882c80c00b75b7ac80218843eaeedf86b5ca23310a6b2ed4a02c05d4759a2be4cbd98be1e5da487d2da9ef11854ab8c1a23222c54f895cd188c50f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06bb27b882f02eb8b82d3ed67a6d7699/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Turkey Tournament",
+            "episodeId": "naked-wolves-8436?ep=47733",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7981261b9e07059707d19e487f5f8b66afb8b4e7d9a1fc7ba3fa665639e59f30915d804701b3a988d1c3ee408b7c0ade8003452e33f420cc74cbd3b500b7d55329839abe43eea648c86d48963693181f1a200dc0ba9f55534d4e267854d2cf1def178a87ad1a18a3d6e5adec99fc8c5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7338a7a73d1c12faa537ebb77b7ba77d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7981261b9e07059707d19e487f5f8b66afb8b4e7d9a1fc7ba3fa665639e59f305dbcbcf4131d02246fa15daf4b75489c6488340421b9ba55e6683b641d2665054560ea24ad8cf6e1fd7f1aa550135ce06ae7d5d8ac8bb9a62bd3bde8ea560216b1f68f520f9b38dd1507b1ce8179bdb6a6762d4f1cd0bc7347c2b6fa76e5270f209cb33bd964d6db100941f1934edf7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7338a7a73d1c12faa537ebb77b7ba77d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Egypt Tournament",
+            "episodeId": "naked-wolves-8436?ep=47734",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/18901380a03ddb32981fbae0004ee2eb508a3ab58cab6c0b04c213fb03f7def7118eab8a991e31a94b08fb7aacec0a787d1cbc257b6e57b4f5700e7914a822517345b05e3e44051205d91510e72dba18de3a40e00456f661686737dcfbf1186039bd37d58d1dd81db96c13641f26af05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d9378c78d16d499d15d005fb4ad45d1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/18901380a03ddb32981fbae0004ee2eb508a3ab58cab6c0b04c213fb03f7def7bdc801bad8997321cf68475021dceedee914e71daeed0b358ab883ef08f3681d1da2efbdd21d1a40cc1acc507d87f7ffcd7a30092a446672c3801281431690961d2a624a4415c8a3a5e4c1c9428883624ea33ca598e7d881705d5ccb0167d74c659fd18926c9f90fba10bff1ec9d8cd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d9378c78d16d499d15d005fb4ad45d1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kenya Tournament",
+            "episodeId": "naked-wolves-8436?ep=47735",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5b7eb312f2fc46f8b87a95ff805b296085ed78496dea3d47395b576e54a983d057f3b9ba5b294156d718d685c1f2ea1563e1bfc3687a8840c010a6ffa5233199ad07ed6832c80d4729ec2f480d9d3adf9fe7e0b6f3f78741fdc58322bfbf17b342c6823dd0d6a2686df28afd68c4e143/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf4f5a2aabbc8309f52fbb383e045a56/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5b7eb312f2fc46f8b87a95ff805b296085ed78496dea3d47395b576e54a983d0dd186045a991f94b2ce159db22a3b3b90584da63093ac21aacb94a07eb58c4f9cd61b19e982f03b1fa6d120ab55ce1a1e01007a986e13e6b7a47db044d7b67605cc4849fb48c23476a686507ba51d140d32efc212761905f50ad1022f823ad9574805e728676e979a650c383743d7a5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf4f5a2aabbc8309f52fbb383e045a56/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "South Africa Tournament",
+            "episodeId": "naked-wolves-8436?ep=47736",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/37a19c67b1f0f79f67c126796d96a11c94793a77947bbd021985abc09c780f16ce5816efa5580b4aee1b451c28b09e28e61c8d8eaf844769a1241fd9899e1cd15b060ff6fd306d6b8c5ddcf75e31520e1c0cf97506d466740a8784c3bb91accdeb7f57cff89893652312019a8651f53f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f767e3aa182f671de5dd3357d80bb46a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/37a19c67b1f0f79f67c126796d96a11c94793a77947bbd021985abc09c780f16e7b9ef9c3069b441c3dbdf81864a3f44866803c08e9bb6b158f3cafbc0de994282611f0c640a708d1635410f15c0bca14781bca3cfe2f4cf6c5a9c1cadf8995ff0f2d18d66ad2f6c214c08ecec326525a4b6bb1c52cef50835a4c4329701b92e5cc2dc6969b5ccf80d8850c963fe3bda/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f767e3aa182f671de5dd3357d80bb46a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Abu Dhabi Tournament",
+            "episodeId": "naked-wolves-8436?ep=47737",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3b0294755bb7d67de4299796b61fb51b3cde912cf5b28f98148078205234c6c0f4084ceb0a7a9b48f875d5b05003362153d109c0ee3d88f5de816359488888df41e6963763ce4078a783deb587dd603e4b47ced33156d8b2fcb6608227870ae0bbdca183e672232d8548b04470a1aa29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cc45788c1536d1a768a33e433f79c43/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3b0294755bb7d67de4299796b61fb51b3cde912cf5b28f98148078205234c6c0409c3c14c6cf6125afe617ccbee136ce57179c7201760924f9ff7a20e688304c2a9e10fde99a0cd12cab5dbd823fc041a762fd99a1bef5d455a39d29b2cbdee1420fc41b6ea1c861d9b02de09838a702f55efe973d4efb2c7c007f2d6b3b147b9a90ff4d28514418257da70853beeda7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cc45788c1536d1a768a33e433f79c43/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "India Tournament",
+            "episodeId": "naked-wolves-8436?ep=47738",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0b5cad818ac0fd992082017577c00962a737c2512b3c90d9507af628c389c42eb081342a73a65a1acf339aea3949f3333b9a86d7c53e787257153340927e8b5f94badb4f752401759b1e500212747f7711b03abf1e0c7f5f3afae466df0c0300a71cecdf9f71ffe2e5c74ae6a858fa4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/204ca9faf814090b59895ab0d3f91b5d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0b5cad818ac0fd992082017577c00962a737c2512b3c90d9507af628c389c42e3a3dee0b5582f03e8b3f97c6466d7cbdf3d2a5627f256a75900a1a8bcaef8da37c21cced4ca2c741aa06c86090b366cde13ac22e6d624956ddc3fe8386d6b626096bea39e08aa03c328da0407229e306e4576e18110735b7df9d7b6fe0264312666bfb825d546a5bb737ac55b14591a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/204ca9faf814090b59895ab0d3f91b5d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Thailand Tournament",
+            "episodeId": "naked-wolves-8436?ep=47739",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/24eecd4f12461e396da3e946ef3bc665bc205bd57ec15300d3e0ca704081329f33453f248e39491737b1eebdf8546f4b42b33cd408f9dd89c62cb3ac9eca7f3ea743b761abe6f3e66e1c5b5a26b8fe6cbc0a31047d69e896d9a3fa57c5489d7480a9dae2e9a873cc60d6dd25f4179776/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85bd41680a132b259efae1b943faf532/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/24eecd4f12461e396da3e946ef3bc665bc205bd57ec15300d3e0ca704081329fb09a06703d7e2f1d8cda11e298b0986011f7aa1ff92a8af8db1ef4f6ec75d393dd954b39e52a02cd7ca440a29f363a7239a88062de9ef7e5f3306f494099e1f9269860dbb208d0a183a5d31ce6de1b4a5cd3d7937492f1d13d3332abe5b584d038355faee57721d99a8e9fc1f484b1ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85bd41680a132b259efae1b943faf532/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mongolia Tournament",
+            "episodeId": "naked-wolves-8436?ep=47740",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/41ad98f94c9f904e42271fbe0022a3f7255ddb1b4c90a752b8ad1247a9be97ed8c74a24826b5ac435152bdffda2973d264283b02eaee6c58c819acfaf43328ce439cbb1c223bfa032bbff849d4c48de9fb6340a8cc0b5a0d40fdd76d79591b0d5ff2fad07e27630fcb4cbe38853a0f62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c90840bd8229900412c761e6f941fe7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/41ad98f94c9f904e42271fbe0022a3f7255ddb1b4c90a752b8ad1247a9be97edc1245483889bdad1379fff11f3f599530b9d2ad70804596cfa376cd4084f6125e855e6f1c2b120562607c21765e267c5d2ea58e92d49675b97887b9c04564f6a2526875df4c363055b92f40eb5cf93f1a3d2c5a6da100ed4d504c9bd8dcce1c6aab4b68ecaf246059d01011211654862/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c90840bd8229900412c761e6f941fe7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Korea Tournament",
+            "episodeId": "naked-wolves-8436?ep=47741",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/29ba54a0d5650f6b261b754fc87835202c5044a9ef60cab91c6feec46c2bbcb5ea0a0316ec9208cc35f612841d50bdadbb6b0b7ca1b02835bb01c6842e07e8b63c0b63f8b4ab70e798000b1081365005f2ed7dc898bd903596aaa7f78ce120719fd6961da264aa7dea2b693f45eaf73a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed1ebc4d11f4d71d350589c31842ad27/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/29ba54a0d5650f6b261b754fc87835202c5044a9ef60cab91c6feec46c2bbcb501854bede4a956a40d822faedfcdda8dd680076587f067fea90e746ec5e4c95c75979e7d5acbe284d756c5b8df0cd9fb0b0057d07b829bbd50d4299dc1def490993715c7d3520c38092e6d2c6990d04ff88efe4c86412cbaf3f4e11dbaaeefa447c897dfdb36428b9304968d8926e0a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed1ebc4d11f4d71d350589c31842ad27/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "China Tournament",
+            "episodeId": "naked-wolves-8436?ep=47742",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/aa039ca77efbdde96b8f13b3b197b4d32120ec8fbd15088912bc4f71ac8a9c18b12b342ac3d350b2907f1ef71d12916d592efe5025fcc460b5af62be0a927b59a22a059393fd377fd0b85022e03284641eca45058be4fa6f6f974bef8dd2a246d3bc87660ab933f649a4a246d292c512/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44075653d3e1c64d36ddad5496abd1f8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aa039ca77efbdde96b8f13b3b197b4d32120ec8fbd15088912bc4f71ac8a9c1898a2f998fff76396cda9021a392c513c9fa3c2971b1a01dbd584fd8efeb4eec89660b9c77d91673b677d688a058d8c076be6dc5a1858a74c23d2a7f4f1bb143986f79e584aee6991f4c46d1869847111b6ec61acffd8f08bf3921693e7ad72424243f4a6b5cd9bcd3b96bef7a135881a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44075653d3e1c64d36ddad5496abd1f8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Macao Tournament",
+            "episodeId": "naked-wolves-8436?ep=47743",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ac10ce12c7ee16e432cb80250f231ae4492beb35d00c48cb909e9830f86e3166b11fd728c96cb90645162a4553bbe054b0e998c8d406db728abc5f21a4e7f290c428a8b6c71f94390bf7e1dcb27c38bebbd7564a7ae23df3944ba83b105fff1cb8d0d6cb1704f7b36a5a216fe7b6985e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aee1db0371a562edea2068fee4a3ee0a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ac10ce12c7ee16e432cb80250f231ae4492beb35d00c48cb909e9830f86e31663b9888068f058a27b0f894446b0181b7a1b67306041d2e281a88920aa1f89d7ec616905c32632dbadca1344c79afc0eaff266bd7823c36e7949c4110c7c1acc88eefe3852b848a90b38879824739886a5fc6732c64040f5ce895fad94cbb8f2cad7137095000ce5882b431ab5dfdf45b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aee1db0371a562edea2068fee4a3ee0a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Australia Tournament",
+            "episodeId": "naked-wolves-8436?ep=47744",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3bbee0f484b5217e29aaae22199da6bfe9ef684c0c9e4149087d40f580cb10b1710d44ade4446072ac9e538b93fbc11c7088983584aa1e6f552a6996bd1bde46f1e16d98bc8ea5f49d5b0558c3db356886e5b4cdbbc2001af3ab61b544edddde57277db397680cc97992bb9575ea88fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b8d8e108940f030b2569761128c522f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3bbee0f484b5217e29aaae22199da6bfe9ef684c0c9e4149087d40f580cb10b12b46affaaf7eb09cff0bf3207c6037ce48486a4410c78868f9b01e831415b6794d1cc4aa501084988c144f23e70616496ca872f9aa37a052a69e8ebf464a1863dd994af9b26666c276de0bdc3971bb730391d5531971f3d55a103bed6304e2c6b5eb9d82ec637f720db15c90b38350ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b8d8e108940f030b2569761128c522f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hawaii Tournament",
+            "episodeId": "naked-wolves-8436?ep=47745",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/30074fabd1ac49a13d7c78b6a222a82325764cd83219377132d9248ba543e431da5f26903dc53519c4adeb8bfec05ea762108fe5d86829ba59312b922ddebb2fd019299f1be901b6bea869280cd977c33c29acb4d0089df9cd3c990e3ee95eae4813fcb42b6ecb9e40686a7194df6fe6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7295e2b91bcea0f8833466ad417d57d0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/30074fabd1ac49a13d7c78b6a222a82325764cd83219377132d9248ba543e43159cc713882e0867b75f7d36634a9bde202fdda2fba121b5fa56172067676c7a01c145a89783db18329def3180490e6fdfcd6c3961711aba8ed181a92343b4bc282648e79cedff3fa87717f480591ee77f974adfbba65249603df4f797769a45c2ffc2a79eb451ad2686ab8e8b957af57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7295e2b91bcea0f8833466ad417d57d0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tokyo Tournament",
+            "episodeId": "naked-wolves-8436?ep=47746",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/dd63a95934daeb302369d2806bfae6e316a2721d86c99205afb1b73fcb1b325b58d29c21894fd0d5e0e7334a02aa5cc194171dc270eb68b100361bb014a574f069897378ab9fe11c06b4673112c4f1628aaacb8d6353704e7af6a899018bdcda281c9acb2e5c51d679939bedd8de4a83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aac7489a93434d35c6c3c8b33bfb0b33/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dd63a95934daeb302369d2806bfae6e316a2721d86c99205afb1b73fcb1b325b3c7c1dcb90d5416adea720ec3ff0c1b2cbc25d814b85c977ab40648519aea65980f76614f0ed3687d44cc02fba9b346bd829a5fd619fbe5f344eb099e79120a0dfedf3643d5e7e72a021fbc2e77c6cd653c2e02694d715d60d9b159a39232112ce47a8673b5b3c7357cf7201ec8a4ab1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aac7489a93434d35c6c3c8b33bfb0b33/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Final Tournament - Part 1",
+            "episodeId": "naked-wolves-8436?ep=47747",
+            "number": 51,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4c3c3bdb0179bc693eb6a25cacd85b1031096d5a9b7ac545561176dd3ac1c1978d86c302eca15904c4f228e354631cdf18dc00fef19b292a0be235c9e3ae09f801bf2620de5f8569caadd2231a98293c4ace008ac1c3df351dac8984587e9cc10786c0bafa581753ae9a20be24d9c534/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/675ed855dae243dbfaba681f5bf242bf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4c3c3bdb0179bc693eb6a25cacd85b1031096d5a9b7ac545561176dd3ac1c197e6579d1131b3677ccbcc1068a48f47b4e371acec28669b0c11e6234dadaebb281bd4101be4823768fa8281bc4218ad27e8771fef9664bde956a99407ebcb7995c8a9760c81426e75fa75cd8becb0499cbb8d415de4f419383c01e95546dce79d4aef85d8451e093f977053fcd71cdde2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/675ed855dae243dbfaba681f5bf242bf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Final Tournament - Part 2",
+            "episodeId": "naked-wolves-8436?ep=47748",
+            "number": 52,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/24bcf16d52c85e7f565ad5e478a856534bc6d9196b5b4f4d62ececa8aea0b49848ccc055c6798fede3cf50d59dd87530fab62fb2c2394471dd15a13c446019da97453d0aee132172f202619128126af83ab53c9698060ebcbf85777ae2f0b17d860713f00f492ad7ef373d9bfc9d5c22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e32760d7e4030b200f1b03a8488ccfd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/24bcf16d52c85e7f565ad5e478a856534bc6d9196b5b4f4d62ececa8aea0b498a871861293e1e07870741dbc53c9ebe8294fb82a7c9e8575d9e0b0bf4466787e100d3a4e7a6696ce97f19cec0e99fefd87cfea10b0171966f844536211f1df64dce62b116ddbf6847172cd560f74eb8c44ce79b7cbf490c3c1669af1aac48151f780f4ced5357d6a3d239669c8eba1da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e32760d7e4030b200f1b03a8488ccfd/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

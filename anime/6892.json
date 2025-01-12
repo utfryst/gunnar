@@ -1,0 +1,367 @@
+{
+    "info": {
+        "id": "aria-the-scarlet-ammo-aa-6892",
+        "anilistId": 20991,
+        "malId": 28883,
+        "name": "Aria the Scarlet Ammo AA",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94813c50c595719d051a17b268619a6.jpg",
+        "description": "Akari Mamiya, a first-year student from Tokyo Butei High, idolizes the S-rank Butei Aria Holmes Kanzaki and wishes to follow in her footsteps. Despite only being an inept E-rank Butei, Akari's resolve to improve remains strong. After the idea of having an Amica contract (a senior-student mentorship program) with Aria is brought up, Akari submits a request form attempting to establish said contract. Her classmates and friends do not expect Aria to accept Akari's request, mainly because of the girl's strict selection process, but to everyone's surprise, Aria gives Akari a chance through a test, which Akari miraculously passes! However, Aria will not officially make Akari her Amica until Akari meets her standards.\n\nTraining under Aria will be no easy feat, as she has to concurrently manage her relationships with her friends. Will Akari have what it takes to walk down the same path as her idol?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/cHrYgUsZPsE",
+                "thumbnail": "https://i.ytimg.com/vi/cHrYgUsZPsE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/eal1b3JztN4",
+                "thumbnail": "https://i.ytimg.com/vi/eal1b3JztN4/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 2",
+                "source": "https://www.youtube.com/embed/zl-rAivd0e4",
+                "thumbnail": "https://i.ytimg.com/vi/zl-rAivd0e4/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 1",
+                "source": "https://www.youtube.com/embed/LNUjdAPpkBA",
+                "thumbnail": "https://i.ytimg.com/vi/LNUjdAPpkBA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "aria-holmes-kanzaki-1677",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/368925b0fb11c7186c38e5a03726ebec.jpg",
+                    "name": "Kanzaki, Aria Holmes",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akari-mamiya-12464",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/627096f92bf62f7cb29bc8f229c3be56.jpg",
+                    "name": "Mamiya, Akari",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yaya-aizawa-76659",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/710e41f536744dc613cb249dc19bd147.jpg",
+                    "name": "Aizawa, Yaya",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "chinami-hashimoto-3104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d73a9d1a621fa5cfa95d56f690865a85.jpg",
+                    "name": "Hashimoto, Chinami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuyu-aizawa-76447",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/54b8c274d1996b44d8a668ac6b2f0096.jpg",
+                    "name": "Aizawa, Yuyu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "momo-asakura-804",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/66412484eef08fcde32610580a66c913.jpg",
+                    "name": "Asakura, Momo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hina-fuuma-24737",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dc309b408488bb59ef22caf399725647.jpg",
+                    "name": "Fuuma, Hina",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ayaka-imamura-1800",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d7ce266b9cd2487d733dd35ad21a9c5f.jpg",
+                    "name": "Imamura, Ayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "raika-hino-35581",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b3dc5cd2b36eeb49ebefd1f7bd01013d.jpg",
+                    "name": "Hino, Raika",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mao-ichimichi-249",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68623c432335a61f4ac977a968c5b558.jpg",
+                    "name": "Ichimichi, Mao",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "緋弾のアリアAA（ダブルエー）",
+        "synonyms": "Hidan no Aria Double A",
+        "aired": "Oct 6, 2015 to Dec 22, 2015",
+        "premiered": "Fall 2015",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.27",
+        "genres": [
+            "Action",
+            "School",
+            "Shoujo Ai"
+        ],
+        "studios": "Doga Kobo",
+        "producers": [
+            "flying DOG",
+            "Fujishouji",
+            "Doga Kobo",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Another A",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45189",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e182b91306065b35cc99c5b64dfc70cc3a7e5299c6fd5ec8e8bb52c88e0b0c5ca37e662020d6c74385f4f0073dc04c9824cb3d4c0d7c562b94c4b3ab3a5ba72ef8868d3611126ccd517b6cdef77955628a39820e8053f629f94875e6613259a8ae2db1fae9e41eb039dde267b8430998bf4f00f862cccf40816203524b707a7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fdaa7ea6d7c25471c9983f52615ba2c9/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e182b91306065b35cc99c5b64dfc70cc3a7e5299c6fd5ec8e8bb52c88e0b0c5ca37e662020d6c74385f4f0073dc04c981303b63f36f2eb0215f15d5900beecd3aca070929ba08cec4f2ff0449f759964edf433ef4f3425dccb1c422b6dd7b1fb4ed1a33feec7b002e34e95cc3ea4d88f8b396bf09203008a9f66d67ed434d5519e21c00ebc8d6521008f3405c595a95e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fdaa7ea6d7c25471c9983f52615ba2c9/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dangerous Relationship",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45190",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cdcc22b0c826b578bb4d81ec2fb02041149e07e5f9bdc29e3feb27cfafb1f7915c794db4eb30eeb2771bf69f3b873e595aeb19e42a5fc6916cf874b1d78e7b9b9bd7f8c6fd94e229dc3f23c4b9d6448075fdaf2ec6432f863a789c1c95d4f493964d8747654fc754f6007efa944656c3fbf3a81539dd1c2993eea78732bfe107/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46bcc387326c96e044cac80db764a2e0/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cdcc22b0c826b578bb4d81ec2fb02041149e07e5f9bdc29e3feb27cfafb1f7915c794db4eb30eeb2771bf69f3b873e596c33cb38db0e7eb3f308e893717c2152046ae22daaedca587046f281290ad562f3921e5dfafc0a080c0216edbdbdbf6fcf5e0f05b6383177210249cb598b42177e935cd275e31a76c541cc149de4afcc8ec6cd76a6ff6015f5e047e3bbe1c8ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46bcc387326c96e044cac80db764a2e0/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Applying to be an Amica",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45191",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ccc9076c5c3b7ddce14dbb1018fbf6ea9c3ade1d3f6e73686161aed9a6e223412565592f0cddaa63c45c292147e8a9178324714e36adc42d0d692a29c20a8a775403fbebd677813951a158fdc963f5c1d2a24a3870f92736f3da540baa2a425e95964b5510c14a89d63e9de5d51eee585b98c712c6171d0760fa649806d35ae0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fab8ef42ddd5fc4e721d6e9ddf7b7be8/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ccc9076c5c3b7ddce14dbb1018fbf6ea9c3ade1d3f6e73686161aed9a6e223412565592f0cddaa63c45c292147e8a917096e1a4af96bf83b23250ffc8a98722254e0d452e055591148d99313d51c57143844f710f75afc1f8aa39e12d26099df0395fdaaf25045ddc4fb488f0b4ddd107d93595e48905f755bdf241b68fd7074c0b0a368e74aebc171b97a952f3b666a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fab8ef42ddd5fc4e721d6e9ddf7b7be8/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Quartet, Part 1",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45192",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/e06b9c69826cb8381bff2ea9899e430cbd5b69bdbbc6ee15476864b5f3d72513a2113cf6cceb569ee95285d5002c725421fdb607c153ae3cb0d5aa6d6de4cc8a5231f5f089025ad6ea7bc05c000a0557f3dae92b827411b1389a903883e8a6548ea71e75ebdae1e941c674367f42589ee5dcdec00f0d7e33c225b292bb0a806a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d021f6e27b832450e576d9cb2b79553a/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e06b9c69826cb8381bff2ea9899e430cbd5b69bdbbc6ee15476864b5f3d72513a2113cf6cceb569ee95285d5002c725451b7af2388a766b1a7c31502861a59a4d6ebf1aa254facf3c390c845f3dbc17bf308aa7ad493dd786e366938edb558d212e1d751212dbf24833eac716ea266b38f212ca70855c9d7a4861340a9b1efd36fd7be40f6dad57e919683be16725667/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d021f6e27b832450e576d9cb2b79553a/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Quartet, Part 2",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45193",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e76b69748cd244f6bb9afbaec536dcbfb7c35898ac2a5ea1d9a4307963cb5e3595db3872e82586054f9a3bd1250a84d13eb02ec35763a51e8281df9c34a605d1852e062d80dde791c549379dc816d5f2e3f5ec1c41e3d44293342aa77ace976c5e790434918bbc078f599c6bba7ea57bb9588969be5f82d1962526d0b990fad0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cee3c8611b5e19726851ae0276926d4e/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e76b69748cd244f6bb9afbaec536dcbfb7c35898ac2a5ea1d9a4307963cb5e3595db3872e82586054f9a3bd1250a84d1578d9857b5efd4a5a08be0e0339c0dae8f120c90212b45b3aedad60a4550ce23f0a4a2e8b71aaa584d1f748f4558c487e0183b7f49c4cd5ccbf8387b08e0ac55c6a67b90d935f428f441a607ae3d28d07b03f27ad7b203d8425ac183454ca9ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cee3c8611b5e19726851ae0276926d4e/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Little Devils' Request",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45194",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/7723eefff29fb6306774304fdd038de2982e0366c51271fe3e3f404c9449dec9ca8151520e7cdf8a2aee9bcc06236d2a0bae187e562699a84fcaa1903d105dd532ffedff9c0271a20fb93dfc059c346a57865af5efbd0651b844a26ddfd2146216edeb6cc2bcd93c34e090f48e88891cc8356e6d7716b1f9f4bde4410d287c96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d272f39baeb8b7571f73be680524967/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7723eefff29fb6306774304fdd038de2982e0366c51271fe3e3f404c9449dec9ca8151520e7cdf8a2aee9bcc06236d2a1af23043234abd765467d9363776f34ab65ecb94706ee04f29431f57648ad65694bc132c6841b9a1dc88e2e55006a1605a23abb5877bd09791ca2244f89f6ed0e0d05bd39edfc389685787add5f8a62674b7c7d17c3693ad3ceaed0d80c42869/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d272f39baeb8b7571f73be680524967/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Struggle over Akari",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45195",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ccd7a92b2214e8bdc1f6fb554dcc94bc4958664d37e482dfd25cb95fed2b65edb243ce0b4d38afb1aa7417845f93ea5195ecdc6d3f0f3f6af499bc8e76dfea02c5606ab83d280b3b1c6be75d2ddb56b18f9482821a8be1f734a27cb45304a64c8131d47a761377603c2943c372aa6372016dfa3a3ef058fe9f6bf237e577e9e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9835fccb4977713b08ce18a925357711/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ccd7a92b2214e8bdc1f6fb554dcc94bc4958664d37e482dfd25cb95fed2b65edb243ce0b4d38afb1aa7417845f93ea5188cd32dbcbb2eaf0f14cf52752153ffd3c0aea796faa9864f4a2b230e60ab77267242ed4b37f19621ead68de8f9d1ab812becd7d5c3e0b2be0489950750d79ae4d2900a48e3ff0c57ee0a5fac6d43b8f80357d2f96dd9757b3c052636ac18cb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9835fccb4977713b08ce18a925357711/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pool Trap",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45196",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4771e9107911650496a2a1de415eb349ff34b61d805507a852f8995f66a0eccfdb058fa30d28f0c482369ad94b49f2e37a693b0f5e69502b7ae60d7b9eebb66a0ce5e11e2de1629ae1ee8d54fe2cbbc49fc7cae58549f244619e464f0abcd01c3541d83ca6b4f892ca293aef95d86dde8ab8a0f29751c661b4215f6be03c0230/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1ca796b07d6ae8e8581eb25be25b4c5/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4771e9107911650496a2a1de415eb349ff34b61d805507a852f8995f66a0eccfdb058fa30d28f0c482369ad94b49f2e3c2736a8d969cc26154fec9ac3c3648f5d8487209da5a21928a8a2bce9b61492f844809287b2a78deceaf9217738fdfedd7c45fa502212526cf304b851829082bcb48d8d28ebb2d86863bf46767355ddb4449565530bb9c7469c4a31682c56815/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1ca796b07d6ae8e8581eb25be25b4c5/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Home Visit",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45197",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3be7fbadbdffddcad1ad09303647b59cf692199880cbaffcaeec1869a523555a33afe3b845b6d901843dfcec30e6a292f204c329b9ebdc84bbd9813bac4a0e53a45aace6ed37fd91702f35620fc83a3c5a9cb941f6476da2688fcd859f02c831ff771d6fdb2aafc4dee5f141836823d393d4fb256fe2a4593f86df6d053de1b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2a9b2f45457e2a4293b85b7fa32a7d9/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3be7fbadbdffddcad1ad09303647b59cf692199880cbaffcaeec1869a523555a33afe3b845b6d901843dfcec30e6a29272d234b665a209b5f5346a50222f785262a9c603a6631cb9c59a513cb2557a0b1ef580057aa111609db82677f2ef21744a4ceb0565459fbd600cc8db643f459803458e9a03976d3c40936581ce089239e9f14d719d116f7b32a1476d60cbb7e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2a9b2f45457e2a4293b85b7fa32a7d9/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First Mission",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45198",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/40275329a3b25760fbc4cc1da7f21cdb02231b69bdc351278c8bb78ce4dc23bc98ab525fa52e41b6c1b30fb646eaceb3d74140babd843d52cd846696a0d8f7fd418eace46568f60adf182cc0af5c4ac28712fadaf24569904cb8e141d15cca62b8658c49c4ab398941eb03ddcab55a34aac573e44159157cc75cf7b2cfbb60cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77ec5ec295b3901277bb09cbf9c59310/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/40275329a3b25760fbc4cc1da7f21cdb02231b69bdc351278c8bb78ce4dc23bc98ab525fa52e41b6c1b30fb646eaceb37a82381410344946f819bca9ef0ea41133f333d98d2e23f4caeb214132addfd533dde8d7aed87f2bd75adf567376a3700ea7f457e0b881ef8620b3faa608775d86d2334cb4144a8b0796bae3a5fbfb690dd1b70d64303abf6cde37194e4a90a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77ec5ec295b3901277bb09cbf9c59310/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Showdown",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45199",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1f4fa361ffbcae64f2bd883a78bb278b3ca9444d40aa86f79f5cf32ad709126ce3b7d45f8ebfab5d75a54b849789e7bb50c74943c687b2ec4a61f865ba06102306db86a8acfc6df044d6b47e165eb0a76f90d50cd55f9f90b6c9dc141f669b095241fb8ca1bbae0681a9f954389a8010e3367850acbe11adba09ca9cde4bfd91/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b63806603dfb559698e8e996fdb2435/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1f4fa361ffbcae64f2bd883a78bb278b3ca9444d40aa86f79f5cf32ad709126ce3b7d45f8ebfab5d75a54b849789e7bbd24f5f8f5a37c77ab8f1c1095f4e6d3ff3b8f55ac1aacc76dff87e6230a3ef49b203743d742a191e780e6f7f08e0908dbd2b4baa64fce2fe867b39cbab0dfbff9d8fe4c9fff2955b5ff633cce9d98d643892b0bab76a8d3a0dd9e3bf612a5722/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b63806603dfb559698e8e996fdb2435/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Pair of As",
+            "episodeId": "aria-the-scarlet-ammo-aa-6892?ep=45200",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d8d6b12aacf67a9f079246386fd6b343984aaddd49266836d0b4659d962747aab5ccc903aedb9efdea5309d18d988d24d4eaea7bba56114f08a101fbae092fe8bba345722e34b5933fe6361942c4db6fa155fd0568956022b73d9cf4854f12e26497ada6f82f420570f16216ec49fd885badd96ad31ec72591b145464b8bca1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6414f28c274b0820ed6e1035bffe80b4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d8d6b12aacf67a9f079246386fd6b343984aaddd49266836d0b4659d962747aab5ccc903aedb9efdea5309d18d988d2485a940ee11ac434f9e4ed83c83de74f06e02d70a99ed7dd648fe861a013a3e07a5a4adc03377ca2e44eaff0e0104299064912c2b1f8f9b1dea6807cd536ff9793265d62a56ac152d923150ceae63a7c5f40e32b43fd3976316b488425a69d5f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6414f28c274b0820ed6e1035bffe80b4/eng-0.vtt"
+                }
+            ]
+        }
+    ]
+}

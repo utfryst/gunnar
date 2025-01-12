@@ -1,0 +1,74 @@
+{
+    "info": {
+        "id": "dallos-special-9311",
+        "anilistId": 0,
+        "malId": 10313,
+        "name": "Dallos Special",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6f4229fc2ded5912a4aa5097c975736.jpg",
+        "description": "An edited compendium of the four OVAs were spliced together to create a movie which aired in theaters. Included within the was also a prologue, which used 50 extra shots that introduced the world of Dallos before the opening credits.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "doc-mccoy-57500",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb9321da21a88f201738e5565ae891ad.jpg",
+                    "name": "McCoy, Doc",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tessyo-genda-1142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a90a12976000af414436486e3c7a6123.jpg",
+                    "name": "Genda, Tessyo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ダロス Special",
+        "aired": "May 8, 1985",
+        "premiered": "Spring 1985",
+        "duration": "1h 25m",
+        "status": "Finished Airing",
+        "malscore": "5.54",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Studio Pierrot",
+        "producers": [
+            "Studio Pierrot"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "dallos-special-9311?ep=92133",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/abe1b23d92fd7db5b29f7062f474ff65466ba66fc43b6671fcfac91899c4b665927b9392e3480982aff6b1aa24e542dfed3b2b2f8784e8092ff45b1faee47ae5c877a1909229df5337c90846f4788673d7a553606ae293bc036ecace7c5f474371aee167c84e55d1517791d67fe53931422b476f0b9702322a16a9621a02446e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bd104ea5d62f716bc473231514840fe/1bd104ea5d62f716bc473231514840fe.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/abe1b23d92fd7db5b29f7062f474ff65466ba66fc43b6671fcfac91899c4b665927b9392e3480982aff6b1aa24e542df4cc733970331e6ee6a8e549c1d7a04bf173eec50aa46df27b878a9ed6f70147fc34dbcb274c4e0283e6e80664caaf7bd4879507ef5b1f707505f0eaff4639140f86969c797ebedb9c3908c1beb427589f0aac86ce7abfced8d85ea7e26bf4bbd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bd104ea5d62f716bc473231514840fe/1bd104ea5d62f716bc473231514840fe.vtt"
+                }
+            ]
+        }
+    ]
+}

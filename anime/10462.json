@@ -1,0 +1,89 @@
+{
+    "info": {
+        "id": "canary-10462",
+        "anilistId": 0,
+        "malId": 2146,
+        "name": "Canary",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21a9a0af1703f999696d83c719f79a65.jpg",
+        "description": "Mika Katagiri wants her band to perform at the upcoming local festival. However, complications arise. Their keyboardist, Jun, refuses to play, and their stage has been cancelled. Refusing to give up, Mika and her band strive to find a way to play at the festival, using any means necessary.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "26m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mai-hoshino-42898",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8d4b00998cf3c4bdb99140e127da461f.jpg",
+                    "name": "Hoshino, Mai",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "chiwa-saito-54",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+                    "name": "Saito, Chiwa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "madoka-otogawa-106827",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30e7ee9e8739ee5cb2ebbab580fca27f.jpg",
+                    "name": "Otogawa, Madoka",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "カナリア",
+        "aired": "Mar 22, 2002",
+        "premiered": "Winter 2002",
+        "duration": "26m",
+        "status": "Finished Airing",
+        "malscore": "4.7",
+        "genres": [
+            "Fantasy",
+            "Music",
+            "Romance",
+            "School"
+        ],
+        "studios": "SOEISHINSHA",
+        "producers": [
+            "SOEISHINSHA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "canary-10462?ep=91671",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b4dcbf5d130c652cf5568ddf0509c5c501d62c3b08a2a9c1494c1d410632039cacd237584931b8bc8a558166618b5b79d63bf438848e2e94402a8ec8107a640e5a44c9ff15a4ca5a0f2f1dfc84f99c829da0c4982022894de62d4375ebf67ace31a51d6a716cfb4cb44852cc60ad3e9ab9b9e2d0a1e774fdd234378f90e4cf5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b9bc9d826e09411c67bb3d66f3889d2/2b9bc9d826e09411c67bb3d66f3889d2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b4dcbf5d130c652cf5568ddf0509c5c501d62c3b08a2a9c1494c1d410632039cacd237584931b8bc8a558166618b5b79c0f26ff6aa976afe09d6ba64b5983ed2118a3939a18df72875f14f4c789dfaad0f2113520269cc24afe79f5bcf9263099db44eee2648fb00d7cdcad233d29a1d1ccf8fea5c7dbe8c9e604825d1ab95379340b76fa00bc2ba97fdc2846483c077/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b9bc9d826e09411c67bb3d66f3889d2/2b9bc9d826e09411c67bb3d66f3889d2.vtt"
+                }
+            ]
+        }
+    ]
+}

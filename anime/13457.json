@@ -1,0 +1,69 @@
+{
+    "info": {
+        "id": "dorami-chan-hello-kyouryuu-kids-13457",
+        "anilistId": 0,
+        "malId": 2639,
+        "name": "Dorami-chan: Hello Kyouryuu Kids!!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b2367f758d807a16c46dbc6d6e18865.jpg",
+        "description": "No synopsis has been added for this series yet.\n\nClick here to update this information.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "40m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "dorami-17096",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02a3f5f715c2b08955f8907f75047763.jpg",
+                    "name": "Dorami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ドラミちゃん ハロー恐竜キッズ!!",
+        "synonyms": "Dorami-chan: Hello, Dynosis Kids!!",
+        "aired": "Mar 6, 1993",
+        "premiered": "",
+        "duration": "40m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Fantasy"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "dorami-chan-hello-kyouryuu-kids-13457?ep=127701",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/47253dafd21a004aa12c75e85aeb441206d4c71acb428eb515ba43da6d2742be4b7948e352cf5af6fb6dfe3058d2049a4ca97e5ca92eb2c28dc45d2866379e671bef90cbcb34b09964393f43aba894f7bcfbdfcbb1ed101ab54ced56153cc16bef5088f3b0aca0290d2109be0c2a778884958fe93db32a3d88ba705f949205b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca1f6fe8be3639678d24d7d926240acb/ca1f6fe8be3639678d24d7d926240acb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/47253dafd21a004aa12c75e85aeb441206d4c71acb428eb515ba43da6d2742be4b7948e352cf5af6fb6dfe3058d2049a17d02f92732d8d062107f8fe41c42ec1d4c62305641c65a6875862ab039ee6a9db5fc192c82327b93f60082904eec32b4009904c13b074d6c7bc9b36db0c3bb6a6567040b602831ac500b7c66d1d17df702cafbaf18c61b33d20c5dd1734d7f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca1f6fe8be3639678d24d7d926240acb/ca1f6fe8be3639678d24d7d926240acb.vtt"
+                }
+            ]
+        }
+    ]
+}

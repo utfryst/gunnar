@@ -1,0 +1,93 @@
+{
+    "info": {
+        "id": "chogattai-majutsu-robot-ginguiser-specials-13265",
+        "anilistId": 0,
+        "malId": 16041,
+        "name": "Chogattai Majutsu Robot Ginguiser Specials",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f60e5c5861489f15fe3941d5d2e307.jpg",
+        "description": "Additional episodes from the DVD-BOX.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "goro-shirogane-95926",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9ed94cf4f25f1be5e49b06dab969cba9.jpg",
+                    "name": "Shirogane, Goro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuhiko-inoue-163",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f491720775bd33ffbd32617ba1a8bb2f.jpg",
+                    "name": "Inoue, Kazuhiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "超合体魔術ロボ_ギンガイザー",
+        "synonyms": "Ultra-Transforming Magic Robot Ginguiser Specials",
+        "aired": "Mar 27, 2009",
+        "premiered": "Winter 2009",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Nippon Animation",
+        "producers": [
+            "Nippon Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "chogattai-majutsu-robot-ginguiser-specials-13265?ep=101917",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1b6ea8bc82fcbb338119d0ce9f56a0b893ce236d2256808c47e459c20a2017e6d16507df426054eaeaa907f94fb5595033cac2129e80ee0fabdbb2daddb0fd7a81dabfdc256b1fbf5092a92177866cec29cb10d437b99293d1de0e3eeb43ea28a5bc62f1964e1955824a224cddb509d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a42fb6ccd9d3515c65d337cc8c8a045/3a42fb6ccd9d3515c65d337cc8c8a045.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1b6ea8bc82fcbb338119d0ce9f56a0b893ce236d2256808c47e459c20a2017e6e98c2d0806cb86a7b9b58668415f4491ffe5a4e696077267243b09b97b60194ddad69f1dee64ee1a443af248b919483324c09f74f41e369833c1c98ae92b29ead6cc28c83ebaed152d8640fb972723f7a7d4dcd173cfc8713b590dc2bff48d4f57168dfb51a246c533c2cef3990852e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a42fb6ccd9d3515c65d337cc8c8a045/3a42fb6ccd9d3515c65d337cc8c8a045.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "chogattai-majutsu-robot-ginguiser-specials-13265?ep=101918",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6dd4f987d87908b5d24562a1d056f864c94e9bc11ae57f19ee4f30c9e37f07d7d6068d5b02db8a24e599c8cf500894b6508e866020a3cc975eceedbe8d752d0278d536b75e8a997fb499a778e5c5918076d5dba99054ac95c080670fd1a31675360119e5920315e0c8a76d77701b1684/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c73e9cb85b0a9fc6a60c95569a4f2a9/6c73e9cb85b0a9fc6a60c95569a4f2a9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6dd4f987d87908b5d24562a1d056f864c94e9bc11ae57f19ee4f30c9e37f07d7e0d6f5d329639c28eabf6d97f69272612e063a95fb263caefe4f2e0f4015e8ef2d906f9d903d02d0bc08fbab2489bf8ec977f2e7ec707838621b70ca61df717a775e8e6fe401e8c8e5541246b90c0465e071bac6e70f1e52a9b2f820f8d2f9308f67bc5cadf33125895635531bf38412/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c73e9cb85b0a9fc6a60c95569a4f2a9/6c73e9cb85b0a9fc6a60c95569a4f2a9.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "info": {
+        "id": "bernard-jou-iwaku-ofuro-dokusho-8846",
+        "anilistId": 0,
+        "malId": 37000,
+        "name": "Bernard-jou Iwaku.: Ofuro Dokusho",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/becd25ebb88635fd7d864cdfa23eacf7.jpg",
+        "description": "Special episode included with BD/DVD release.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shiori-kanbayashi-27251",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bdb263e77cec3922a5b3dc17ba699fe7.jpg",
+                    "name": "Kanbayashi, Shiori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mikako-komatsu-229",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecfc7c5c031a8f1c17e4aad34c69166d.jpg",
+                    "name": "Komatsu, Mikako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sawako-machida-16842",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ed1a8518364e32372d66213d064d1ce3.jpg",
+                    "name": "Machida, Sawako",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "eri-kitamura-69",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb6266b14443e96793d946122a4c9529.jpg",
+                    "name": "Kitamura, Eri",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "バーナード嬢曰く。おふろ読書",
+        "synonyms": "Bernard-jou Iwaku. Episode 13, Bernard-jou Iwaku. Special",
+        "aired": "Jan 20, 2017",
+        "premiered": "Winter 2017",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.72",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "Creators in Pack",
+        "producers": [
+            "Creators in Pack"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 13",
+            "episodeId": "bernard-jou-iwaku-ofuro-dokusho-8846?ep=124435",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2f13664d95bd226e5c1b6c503ab7c5af10aa87442605bc24ff77e58568503431bec8042ec2c028fccd62b6fb88ec3e75c52b30d79558c019e28bff0ac734254ef4d82744162ef13adb65a061baadce1d94a8efb425a37592277e78d73655af6680d89c821c663804d1d255e5474e67a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71643bc399946ce3a16ba82ae262b6dd/71643bc399946ce3a16ba82ae262b6dd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2f13664d95bd226e5c1b6c503ab7c5af10aa87442605bc24ff77e58568503431cf9ccd8ba9b6c5560ec86031ef66635a6bf034aae4952654074c8c9e277d1a425a1dd8c7c2c2702b86d447cf77b864fff2a8489e42c601a0f3a7b53f8f9c2e7c0effce049dda970470753d761d522d42127e05093c00d2b7ad2538cb3530d8e47e04ecbd6cdd1bc30bba1bb5af8fc29e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71643bc399946ce3a16ba82ae262b6dd/71643bc399946ce3a16ba82ae262b6dd.vtt"
+                }
+            ]
+        }
+    ]
+}

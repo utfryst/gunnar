@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "shadowverse-tv-recaps-8809",
+        "anilistId": 0,
+        "malId": 42486,
+        "name": "Shadowverse (TV) Recaps",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf5d253a3ef9222fe5e0f87c4ace7e6a.jpg",
+        "description": "Recap episodes of Shadowverse (TV).",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "シャドウバース特別編",
+        "synonyms": "Shadowverse Tokubetsu-hen",
+        "aired": "Jun 30, 2020 to Mar 30, 2021",
+        "premiered": "",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.77",
+        "genres": [
+            "Fantasy",
+            "Game"
+        ],
+        "studios": "Zexcs",
+        "producers": [
+            "TV Tokyo",
+            "Sonilude",
+            "Zexcs"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Special 01",
+            "episodeId": "shadowverse-tv-recaps-8809?ep=54674",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/31120e698ce50c060876eec44bf9f122eb74aa29ada4d0bb1249953379d192f859d196aacedecc29150ee74da6fe415fa54cd039df1500f41cc4996012356559c857f48d463a103f59f29006ed3a32428fadef878d61d8e6c2ad7ed79fff3f2724ec66ff075bac0ab13970a7986e27192bb5aff0146a08f6164f05207827eb4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2139981d508dade2aefce49f03f116fd/eng-6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/31120e698ce50c060876eec44bf9f122eb74aa29ada4d0bb1249953379d192f859d196aacedecc29150ee74da6fe415f7c3b97f978906903e72a30ee75dfe6acfeec20302cf9242078b1998314ac8383141f755142a2d62687d5664dcfd225935a5d0e2d434b93b7ed77956470f21374fef3462505a58ecbb5fec04c1596081a50b083c41952826cc2078c4f74407028/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2139981d508dade2aefce49f03f116fd/eng-6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Special 02",
+            "episodeId": "shadowverse-tv-recaps-8809?ep=64416",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/665e76bfa0d816c5213224eb5435e46005743d3915fde84f0d107f0678c357e3ffec2b7c53b46a84c72d7f0c0cc2754681dee7b98fa589d4d89eb59d48c24e65579cc3a2a14b3f4202d19dc67d1b5a6a3bc789af63d017e6f1c9a9440e79f221a943a3241b21d9239940948f115a89aaf53989d25ddd37d9a69cd19470acd040/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e0684d1c436ff6a97e5430dadfe6afe/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/665e76bfa0d816c5213224eb5435e46005743d3915fde84f0d107f0678c357e3ffec2b7c53b46a84c72d7f0c0cc275463bf2ffc4ba814370d6bfe79bc93ca88e6e1e36abc40061bf42a0da084b3dc764ac6f977cc6dcd2e30db2a069be41233b8dcc82e0ef44c42a3e8467d14430775ab9b5e9858ab7db84e82af7cf1f4d8e2d7057919f65feafc3f97ae7827794ac3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e0684d1c436ff6a97e5430dadfe6afe/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

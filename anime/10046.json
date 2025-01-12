@@ -1,0 +1,96 @@
+{
+    "info": {
+        "id": "ark-nine-10046",
+        "anilistId": 0,
+        "malId": 17395,
+        "name": "Ark Nine",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85c78fc69e826b99fe89c9c00d8b1091.jpg",
+        "description": "The world has been divided into two halves by a giant wall to prevent the epidemic of \"Dark mist\". In order to shelter the refugees, artificial cities called \"Arks\" were built. Shido Enishi is a private detective, who works at the ninth Ark. One day, he is asked to capture a burglar. The seemingly simple case leads him to a great conspiracy.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "11m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/xqZde5wWzSg",
+                "thumbnail": "https://i.ytimg.com/vi/xqZde5wWzSg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/JVyy7Hd3veQ",
+                "thumbnail": "https://i.ytimg.com/vi/JVyy7Hd3veQ/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "rebecca-ross-53353",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b8db2d5838651a931c1401f6ac6c74c.jpg",
+                    "name": "Ross, Rebecca",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hisako-kanemoto-331",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/53379cb9f3fe6b197ea347e0f05cb859.jpg",
+                    "name": "Kanemoto, Hisako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "enishi-shido-123783",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9416c82fed84743840c45e497906ab3.jpg",
+                    "name": "Shido, Enishi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuki-ono-306",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56bac21abcb5b1eb0f1d8de71a210154.jpg",
+                    "name": "Ono, Yuuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アークIX",
+        "aired": "Jul 2, 2013",
+        "premiered": "Summer 2013",
+        "duration": "11m",
+        "status": "Finished Airing",
+        "malscore": "5.17",
+        "genres": [
+            "Action"
+        ],
+        "producers": [
+            "Hoods Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "ark-nine-10046?ep=91078",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8febbcfb1053b39e7cb0f9d592939af3a7382db8dc0e7a0bd1d3fe01057a0a1803e588cbfc0c2b7cb43a304d63d843f77926fe366641c5b3b511a8c9a1c8071bc5199dabb9bb9a5cc447e37009a1c82865793df5abd813d8851c2832929f8e4340f07fd31476aca5575c9f8ebbe77d7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4dda92a8cbd7e201566f036d4f9bb7fe/4dda92a8cbd7e201566f036d4f9bb7fe.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8febbcfb1053b39e7cb0f9d592939af3a7382db8dc0e7a0bd1d3fe01057a0a18184025c053a2bdd4027e0def9bcccc7e35a8638c2f82cd303124adcb35b64f3649151df719c94a1e313ea014906add6d1d33aba8239cfa9c400a600193d06244e0f173725bfc87073bdf070095381c268191a70328397f453e510b5620517f784a0e66d69f31022fc29d0f47c11b7361/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4dda92a8cbd7e201566f036d4f9bb7fe/4dda92a8cbd7e201566f036d4f9bb7fe.vtt"
+                }
+            ]
+        }
+    ]
+}

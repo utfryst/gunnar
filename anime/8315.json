@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": "hotaru-kagayaku-8315",
+        "anilistId": 0,
+        "malId": 18747,
+        "name": "Hotaru Kagayaku",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/950593d7bd0c35ccf453ded27de8881e.jpg",
+        "description": "Chisato's journey home from Manchuria after the war.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "ホタルかがやく",
+        "aired": "Apr 23, 1991",
+        "premiered": "Spring 1991",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "5.9",
+        "genres": [
+            "Drama",
+            "Kids"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "hotaru-kagayaku-8315?ep=98185",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7fdd03d5efdbe05bfbb9d77cb39446cf90b131f48b5c74ad3574170d3504cf0a16db666772494be6090dc900b44ba7937d65da15d170795b628ac79de398232711d2811d1615b69c16a1a9d04721e179429325c3cb15ed5a54c044cfccbac64107bac4b5bf9aa329a0128e36e0d92494ab002e60cdf58bcfbc9cfc3aea9819f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10e938c6b36d5664c01450ced314ac9b/10e938c6b36d5664c01450ced314ac9b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7fdd03d5efdbe05bfbb9d77cb39446cf90b131f48b5c74ad3574170d3504cf0a16db666772494be6090dc900b44ba7939945e1a7b015619dafe27f56644c51f9a7d56817884d3e739c6f0d09cf325a8f8c5efe8645a7a0de9c24417a231e955fcc6b5bc6aa8604f0486cc161920e6a32a38e1722ab6aa2aa716de587e80107c3ed0d6056ac50882b67d30f9bc93e366f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10e938c6b36d5664c01450ced314ac9b/10e938c6b36d5664c01450ced314ac9b.vtt"
+                }
+            ]
+        }
+    ]
+}

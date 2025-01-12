@@ -1,0 +1,87 @@
+{
+    "info": {
+        "id": "panzer-dragoon-10672",
+        "anilistId": 0,
+        "malId": 2792,
+        "name": "Panzer Dragoon",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f68e611e580ebafabd55de3755bf78.jpg",
+        "description": "Legends speak of a Dark Tower with a race of dragons that awaits the command to arise and wreak havoc. At least Kyle used to believe they were only legends until his lady, Alita, is stolen by the Black Dragon! \n\nNow Kyle must form an alliance with Blau, a blue dragon, in order to rescue her before she becomes the catalyst for the Dark Tower's final program: the complete destruction of the world!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "OVA",
+            "duration": "27m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "alita-57603",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d5cd888c76593662190b87c2631cacda.jpg",
+                    "name": "Alita",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuri-shiratori-2856",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52949cae8284561b17e1225514c4f76b.jpg",
+                    "name": "Shiratori, Yuri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyle-38268",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f541364e2521284db2c7664213180087.jpg",
+                    "name": "Kyle",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masaya-onosaka-501",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6151099fae840184c18e1465b4451ad8.jpg",
+                    "name": "Onosaka, Masaya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "パンツァードラグーン",
+        "aired": "Oct 25, 1996",
+        "premiered": "Fall 1996",
+        "duration": "27m",
+        "status": "Finished Airing",
+        "malscore": "3.31",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Production I.G"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "panzer-dragoon-10672?ep=99439",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ea697a9eb0faa50f0e8d55707f5daf5e9e689675c49d49e94ba440a490c8a80402d7ab11fa46c0e6dff5b0fd15d0415725b54066bc696bc4e369d39797868469584d8ca7c9f63f743813f7e062bd6b623db96b2e4ae7feec1cd5d7b59b0d00f301f4570723a056d065aaf761fa384dcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36240c90e780ac7b9fe729ada2285c88/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ea697a9eb0faa50f0e8d55707f5daf5e9e689675c49d49e94ba440a490c8a8041828b07246ff8eaeed767d0db91ba0c33288398ead1975577d15fb557a5416adf798862e6e4cd76135b6129be8efa1418a1a94060e1070c79add94a0dd5e28f829dd72677faa7ac8d0e0b6f1be842155515336e1245352af0b59fe61f9f5cedf0b53db8fbe6b52afeab4cddc96235467/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36240c90e780ac7b9fe729ada2285c88/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

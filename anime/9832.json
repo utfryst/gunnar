@@ -1,0 +1,72 @@
+{
+    "info": {
+        "id": "kaitou-reinya-pilot-9832",
+        "anilistId": 0,
+        "malId": 18375,
+        "name": "Kaitou Reinya Pilot",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4de58dc1e10c1c696d313ef953882564.jpg",
+        "description": "Pilot episode included as a bonus on the DVD.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "reinya-37248",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a5fa729487c4d9f3146a4c677beceedd.jpg",
+                    "name": "Reinya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "「怪盗レーニャ」パイロット版",
+        "aired": "Jun 25, 2010",
+        "premiered": "Spring 2010",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.29",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "Stingray",
+        "producers": [
+            "Stingray"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "kaitou-reinya-pilot-9832?ep=99599",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1ac7651a6b94bff64155641bb365a5725c609f6f0e10906b2f6f6e64a5c67f370ca81d972bed0cdb471e963215719bc2bec1e809ea9125f1cde455877703f9ed25ecada9466a5e28eaf4fade75637dd334c6efd0a3ca48eebe1aed621653cd38e6ca7c22f08c50a489604f862b4433a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b612801970f7d0ecc97caa64b05105c/7b612801970f7d0ecc97caa64b05105c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1ac7651a6b94bff64155641bb365a5725c609f6f0e10906b2f6f6e64a5c67f37f0e59294b5cffaa7bb4df8f20185b66e5690cb8eac5ba8ea2fa1348cbec92c36f6855dfd24cd85cf0af380fe44dff5cc506eb0a10ebcc8025d08374b66ba118c49f07d96ff21226bde09eb528396858146e49001d7788edd101d5e7524e348b6fd3d4b4fc062d9549c587e978e8643e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b612801970f7d0ecc97caa64b05105c/7b612801970f7d0ecc97caa64b05105c.vtt"
+                }
+            ]
+        }
+    ]
+}

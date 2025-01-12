@@ -1,0 +1,102 @@
+{
+    "info": {
+        "id": "neko-hiki-no-oruorane-6750",
+        "anilistId": 0,
+        "malId": 5925,
+        "name": "Neko Hiki no Oruorane",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/247206ce98117568245ee566bc15c70b.jpg",
+        "description": "During the holiday season, a young man encounters a drunken cat belonging to an old man in an alley. The old man has trained his three cats to sing.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "iruinedo-124527",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/77a77a1e99af49bf5272534e0c2ceae2.jpg",
+                    "name": "Iruinedo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-hayashibara-75",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/918e4af5599beca9553be12c05819a20.jpg",
+                    "name": "Hayashibara, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "protagonist-86952",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/93a818a243ed0d847b13d223a2feba15.jpg",
+                    "name": "Protagonist",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toshihiko-seki-589",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9b64010e0644ed8914fa159b318cffbc.jpg",
+                    "name": "Seki, Toshihiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "oruorane-87267",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5cc484f8b4b46028f67fc13722a40115.jpg",
+                    "name": "Oruorane",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "banjou-ginga-1137",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9e490886cd2cc7b7a5c32ba3fcd5ba0b.jpg",
+                    "name": "Ginga, Banjou",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ねこひきのオルオラネ",
+        "synonyms": "Orurorane the Cat Player",
+        "aired": "Nov 26, 1992",
+        "premiered": "Fall 1992",
+        "duration": "30m",
+        "status": "Finished Airing",
+        "malscore": "6.29",
+        "genres": [
+            "Fantasy",
+            "Music"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "J.C.Staff"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "neko-hiki-no-oruorane-6750?ep=130492",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ad2d9f83e1c458e1e42f1ffa896a5d3fcd4c456f477f1da86c7096157bacd58fe0caeea01bae506c8fdb7e56beb8ad7827801423751471eff398babe47284e5ae33b66a1b21765e71f18538dd1442bfa910ae2422421303f1346c5755526c7a1498d4ca9f817b2dfcb2761d451f4ebcd54796c003252544a7e0237276438c8e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55b8047cc1a21d240be57b6a60a35fc9/55b8047cc1a21d240be57b6a60a35fc9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ad2d9f83e1c458e1e42f1ffa896a5d3fcd4c456f477f1da86c7096157bacd58fe0caeea01bae506c8fdb7e56beb8ad78400229135392b524c3c5c8a4f91417c8a0b8c78b25f2c564428209c5ea297ca53ecaa963e513b46a4e64a3cdaf3280dff5e3f7e41148a2402334dda92d31cc92afb3847da6943ec68e5e1579b53341dc7f05ba811094c756a11984ed1dcc4735/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55b8047cc1a21d240be57b6a60a35fc9/55b8047cc1a21d240be57b6a60a35fc9.vtt"
+                }
+            ]
+        }
+    ]
+}

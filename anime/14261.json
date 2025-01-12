@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "ishii-hisaichi-no-nanda-kanda-gekijou-14261",
+        "anilistId": 0,
+        "malId": 28021,
+        "name": "Ishii Hisaichi no Nanda Kanda Gekijou",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad09e217cf9040190dbfd0a9de4f27e9.jpg",
+        "description": "The Underground People desire to leave their overcrowded cavern and seize control of the surface world, but they never quite succeed. A second episode, Christmas Aid, soon followed, in which the brainless Undergrounders' second futile escape attempt is set to music by the popular group Yukadan. The first volume also included two unrelated stories by Ishii: 101 Ninja and Ken-chan's Space Exploration Adventure.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "いしいひさいちのナンダカンダ劇場",
+        "synonyms": "The Fabled Underground People, Kore ga Uwasa no Chiteijin Tonikaku Ue ga Waruin'ya!!, Chiteijin II Christmas wa Eedo",
+        "aired": "Jul 25, 1989 to Nov 25, 1989",
+        "premiered": "Summer 1989",
+        "duration": "30m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Comedy",
+            "Martial Arts",
+            "Sci-Fi",
+            "Space"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "ishii-hisaichi-no-nanda-kanda-gekijou-14261?ep=130065",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6f062bb437d89d049aa3b6fd60baabbdba6de0fae94f97fa78f03e1301498e4d1d7f8213c678be1df650613ecae02de0671a9de9abf1f0b40bda59933aaab80c5e747c34795264a260974dbc3c2018079c4c0958a7b2132d38e8a842d6b406d3555731fb06eb33e1e5f7684e1ebee64f433082f98b0e097727c2f2aa9dae655d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9d5b508452a081d6977f86834eb3755/d9d5b508452a081d6977f86834eb3755.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6f062bb437d89d049aa3b6fd60baabbdba6de0fae94f97fa78f03e1301498e4d1d7f8213c678be1df650613ecae02de011f86983add608c579febf8ca74eef02239ba92f6ba10266a80207bc6df21564d935145fcd61b25e4d236e3a4425719522ff9b31b5c466b5ba6da889b0afd896d2f32889096a4977c85ccdc78a588ac0da22750d3b5faaf672647c6cdf944ed5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9d5b508452a081d6977f86834eb3755/d9d5b508452a081d6977f86834eb3755.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "ishii-hisaichi-no-nanda-kanda-gekijou-14261?ep=130066",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/03c709f12c9feb725ef2f73f554504d7a3da496e201f54810240ed54f9748a3acf656d9a2072aa3297c4873f5c0c3a4086137f7a7524227b8f8fbafa7c33b5e27edc23140ce55faea2c9c724fae21d6e42b59534bc4a0721210512180534b393b94cb3ffaf0f4154c301f887692d62e8ecf7eda3bc07f88fde935d185f69bc45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd13c2d7221522c7da0fd6fb9977b06/8bd13c2d7221522c7da0fd6fb9977b06.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/03c709f12c9feb725ef2f73f554504d7a3da496e201f54810240ed54f9748a3acf656d9a2072aa3297c4873f5c0c3a4064062916260da38c5baf19b67b2a14e0346474f18910298348b1dbaf882eeb002cd750e2e65653f10944d12b04f0598ff58f717d62e60613858acdfdfdbd375652201f5f3ee087903e7419b4208914ae9a3a6916e988545bca39cd08e6973153/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd13c2d7221522c7da0fd6fb9977b06/8bd13c2d7221522c7da0fd6fb9977b06.vtt"
+                }
+            ]
+        }
+    ]
+}

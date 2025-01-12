@@ -1,0 +1,149 @@
+{
+    "info": {
+        "id": "space-cat-the-adventures-of-mardock-12271",
+        "anilistId": 0,
+        "malId": 33086,
+        "name": "Space Cat: The Adventures of Mardock",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/879317ab2f18b6670592ac430d22821e.jpg",
+        "description": "Mardock and his friend Chewy traverse the universe and solve problems from planet to planet.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 4,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "2m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/NljcQGEcK0E",
+                "thumbnail": "https://i.ytimg.com/vi/NljcQGEcK0E/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "chewy-100244",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1a461c9dcffe4196d999f61a803d7071.jpg",
+                    "name": "Chewy",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mardock-99872",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e758abab1d747fdcf9bc2b0985d878d2.jpg",
+                    "name": "Mardock",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "keiji-fujiwara-127",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9390866d50f9a2d806a54ed416273212.jpg",
+                    "name": "Fujiwara, Keiji",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "宇宙ネコ マードックの冒険",
+        "aired": "Mar 29, 2016 to Jul 21, 2016",
+        "premiered": "Winter 2016",
+        "duration": "2m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Space"
+        ],
+        "studios": "Asura Film",
+        "producers": [
+            "Craftar Studios",
+            "Asura Film"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "space-cat-the-adventures-of-mardock-12271?ep=113602",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2bfe835a0849bf6361a1c6e5c0f91c1cd3a39686211e6c3e21da9ec484a02aa484119d29b35c2906ec1b93f36ed34c7c36ef7f70120b5c2cf0857ca1b7092b2fe54f0b2a3429eae91ab790359635f8a100e13b8f676e426450b5b6fd12b7de659f6b187d2b7f83882599eacbc875c615fd14ae9beb88b7c7c9f0d667063c40b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acda0fd7c114318435380b872724d38a/acda0fd7c114318435380b872724d38a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2bfe835a0849bf6361a1c6e5c0f91c1cd3a39686211e6c3e21da9ec484a02aa484119d29b35c2906ec1b93f36ed34c7c33f2d30eac8fd521e417b5f8e08aca8e8fc6c512b50fb4da468f043395f06d8789d9571c895688ac963ddecdfd33b8479a041b4027fa4558ec0ed94680403932ca5ef4021628bd33e2128c30f81a24892dec639563ffa12eeb210ec97011e6aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acda0fd7c114318435380b872724d38a/acda0fd7c114318435380b872724d38a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "space-cat-the-adventures-of-mardock-12271?ep=113605",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/816b1eafa3988728c20a4e5b4653107773b733e2acbda3682c37ce8bb7e566a931e504834aede5f8773616bf66ef537892d011a6581544d8e68b0d0907baf8cf14bf920b4356486e8af4c62fa89a962fd46538368349e7fd41a6ede07bb3964ac18b7a928815df18adfc94cf1055e7d096fa737a681b4811f934219f660d2230/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66dd93a8af988da3ac6c40394ed44b1f/66dd93a8af988da3ac6c40394ed44b1f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/816b1eafa3988728c20a4e5b4653107773b733e2acbda3682c37ce8bb7e566a931e504834aede5f8773616bf66ef5378c546fd15a91583f0ebed2190544fcb5f40df82ed82fda4752aecec6ad3c63118df85e34936ab5299ee97366fc4bf0fca94f0712e2a663b55de485f2962fa18ed604aae4d6b5e2083423286002bdd9236841c921d4082103b6bbb91b86358e04b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66dd93a8af988da3ac6c40394ed44b1f/66dd93a8af988da3ac6c40394ed44b1f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "space-cat-the-adventures-of-mardock-12271?ep=113608",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c5786bb73bd4ab7c1c702037a274ba845b8ff4c81c796751bfb27a22e26f099b447084a22f12d42fa83b7b561af68a3376497cce9f1715ff3ad80cb7d5b57ca16da71f2f37d651ba8d92fe72e3b7142114fad3ab9e3098f8d030433c4d02aec369a20a25efe54aa2feee8dd3dd868115735c6ed80133c2514cf1062c89689522/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9569f6bfeaa2113d441f62ecb2e7d075/9569f6bfeaa2113d441f62ecb2e7d075.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c5786bb73bd4ab7c1c702037a274ba845b8ff4c81c796751bfb27a22e26f099b447084a22f12d42fa83b7b561af68a33bbf16aed45f90dff80c20218459657d5cee6b7b92bc9275696905db566980a0c71bd572ef40c4a3ff4f51163a363e083bb1a1039b802608d09fd3600b3b359925c1763c5fbe69fd8ceab94317cccf338334901a2a67862701a3c3125b88aecf2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9569f6bfeaa2113d441f62ecb2e7d075/9569f6bfeaa2113d441f62ecb2e7d075.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "space-cat-the-adventures-of-mardock-12271?ep=113611",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/45569839a82c0f8488c9dce017d2506595bd9e1a1facfcc1336f3fdd2f49735ca2cccfe2c2bc40f151d20dd34fc8558688c51e0b96db6552918f6f84ab0b1e78edc5393979bd2ebc35914b56d3772be91ef2adb9f2132c034de32447e42df5545abfecdf89c282a1a92dbdc44cd3349244bdf74cbd494c9daddc35a68b41aaf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4cd7670d8c87c7e814c764badfbb26e3/4cd7670d8c87c7e814c764badfbb26e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/45569839a82c0f8488c9dce017d2506595bd9e1a1facfcc1336f3fdd2f49735ca2cccfe2c2bc40f151d20dd34fc85586bde6cd7ba83758ce632ae50a42d2165b385db85cc02a35ab2d46219a8bbb62325b0e0132d48e28cd9ea02a35320b4998b79ca4d7e190ad722ff19517079bcdfeaa993b9c7c09870e3cc26a3100834a95348b68d85453f5e2ab91a39e2edc1c3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4cd7670d8c87c7e814c764badfbb26e3/4cd7670d8c87c7e814c764badfbb26e3.vtt"
+                }
+            ]
+        }
+    ]
+}

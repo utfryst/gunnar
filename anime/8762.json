@@ -1,0 +1,621 @@
+{
+    "info": {
+        "id": "aquarion-logos-8762",
+        "anilistId": 21115,
+        "malId": 30382,
+        "name": "Aquarion Logos",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b97f48f6682cb87d039e08a519a6e79.jpg",
+        "description": "For thousands of years after its development, mankind used the written word for communication between people and generations. As millenia passed and technology became more prevalent, writing - and thus, communication as a whole - diminished, until it could only be found on cell phones and computer screens. Seeing an opportunity, the sorcerer Sogan Kenzaki starts infecting words with the Nesta Virus, which brings them to life and turns them into monsters called MJBK (Menace of Japanese with Biological Kinetic energy).\n\nTo counter this attack against humanity, an organization known as DEAVA (Division of EArth Verbalism Ability) assembles a group of youths with the ability of \"Verbalism\". They have to pilot the vector machines, which are used to form the mechas dubbed \"Aquarions\". The one wild card in the situation is the self-dubbed \"savior\", a young man who is the direct relative of a famous calligrapher, named Akira Kaibuki.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/flcYx70r4aE",
+                "thumbnail": "https://i.ytimg.com/vi/flcYx70r4aE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/szjAot0GEQM",
+                "thumbnail": "https://i.ytimg.com/vi/szjAot0GEQM/hqdefault.jpg"
+            },
+            {
+                "title": "CM (30-sec version)",
+                "source": "https://www.youtube.com/embed/iBnm1sjQDog",
+                "thumbnail": "https://i.ytimg.com/vi/iBnm1sjQDog/hqdefault.jpg"
+            },
+            {
+                "title": "CM (15-sec version)",
+                "source": "https://www.youtube.com/embed/7K0qsGpm8ss",
+                "thumbnail": "https://i.ytimg.com/vi/7K0qsGpm8ss/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "akira-kaibuki-36989",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/66e25eec757e92edd873f662e4431204.jpg",
+                    "name": "Kaibuki, Akira",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobunaga-shimazaki-97",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/984994a4b5742004f546c5a612c49d61.jpg",
+                    "name": "Shimazaki, Nobunaga",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "maia-tsukigane-22126",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a8df3bc23b69e6d6b90e348afac51cb5.jpg",
+                    "name": "Tsukigane, Maia",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsutomu-domon-57494",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/24483c6de19f0741c47b5f57ad9fa465.jpg",
+                    "name": "Domon, Tsutomu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takayuki-asai-8948",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a78bb63c9368ebaec9d9aa9c1db53a30.jpg",
+                    "name": "Asai, Takayuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mao-hayashi-70267",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ac8657e95a0afc215049ce7f990ba8ee.jpg",
+                    "name": "Hayashi, Mao",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "marina-inoue-82",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a590ff6d2287e40ca7eae56252c5efa6.jpg",
+                    "name": "Inoue, Marina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shintarou-hayashi-70631",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e2ea0e9b4e2283c16e8d95d8173a7a70.jpg",
+                    "name": "Hayashi, Shintarou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takayuki-kondou-2939",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7c064e7fa7f15fbcc4f9fd11dc5626a.jpg",
+                    "name": "Kondou, Takayuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shouko-iwagami-101026",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e0e2ffd5a496b61cd80d94aaa7d6edc.jpg",
+                    "name": "Iwagami, Shouko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saima-nakano-8226",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9919f0804ed5dfc4fd65858c57fc53a6.jpg",
+                    "name": "Nakano, Saima",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アクエリオンロゴス",
+        "aired": "Jul 3, 2015 to Dec 25, 2015",
+        "premiered": "Summer 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.75",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "studios": "Satelight",
+        "producers": [
+            "C2C",
+            "Satelight",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Shout! Sousei Gattai!",
+            "episodeId": "aquarion-logos-8762?ep=48159",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/742d260400f2ff966505f8d2977bbfc30549f23e882a98c9804a382fa57252a1037d6b19e99db242c448d0f80bdd91bdc5f8723937b55f33fc54800951c86edc7a7098bd6e9bf11a8098e9ebcf7860af80e8745d66a85bad8470b7b541d0e0358e2552905ed1452587f9f3099e44aaaa20c6a683c3c273801bf09e00c6ff2e9d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a68568957de79916f0f2e757701484c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/742d260400f2ff966505f8d2977bbfc30549f23e882a98c9804a382fa57252a1037d6b19e99db242c448d0f80bdd91bda8b32e5b17fd92eeb5719330e605b41ba422b9fa294f281df2468a3dfaa91327808c7659cd9e29f56110f82d1ec5cb15980b1d2d8961592effb8455c00a2ec93cba330ade704e6d0f0daae20b8d72c40a501363ec43b23cfc55370565c9d6066/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a68568957de79916f0f2e757701484c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shine! Light of Thought",
+            "episodeId": "aquarion-logos-8762?ep=48160",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bd228a46190899800dd1df751f610c7a6eacff94971a9ad168fa01a393d59443849872095e8a99cd748a66106907a77d2ebb778015dbfdfe2ecd5da35ac54beeeeb1c0ffa9d1d7c8928adc20f7d8ec559514028834db05dfb2fa719ef6742bb5c822f01d30dc8baafb76057eb95898834b8bafdb7654e88208f8f76305e36f83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42e38a83c13c5cda8524d5ae80cc1ead/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bd228a46190899800dd1df751f610c7a6eacff94971a9ad168fa01a393d59443849872095e8a99cd748a66106907a77d0907561c0e9f11c00034d6034102aef283257cbaa532f05292103cdb3c605dbe0dfcf83b3e528119b4ad588225ad7adbb874a56c1bfd74b460d35b77ee954c4650b32b98db57d8f312a69bb6c9d9b3fd9086506757d9f93774507a1665f6c40d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42e38a83c13c5cda8524d5ae80cc1ead/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resound! A Dream for Me Alone",
+            "episodeId": "aquarion-logos-8762?ep=48161",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e45cd40a2803dc14b633d5df72e4cbfac0c7bdaaff41bf4c8284208d476bd7ef3e2d69541712ccf9affca8b69d8c9dd6bb44eaab713cdcd57b03b2fd2c7d967a5b97c045d5cae653dc17e2542d04a75cc035d7dbc9d119a7547622e0a39fa0ea588878a6fc864cc68b7211673e5e27274559bedcf39172b4836acc6b1e149511/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/190dfe596fd2f617ed6aff7df3843faa/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e45cd40a2803dc14b633d5df72e4cbfac0c7bdaaff41bf4c8284208d476bd7ef3e2d69541712ccf9affca8b69d8c9dd631346bc0b9bcbd1c7492bc6602c305c5350c0d2351ad2c8e04e09525f06edb0a49db94f431c86ec445afee9250ed1e1a05bfc5dcd7732880af2e5cf39fc59ce0025a035fc0e1065b471fb9291ade3ac1beb9e1961be8e4c3c0a6b82f5530ae77/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/190dfe596fd2f617ed6aff7df3843faa/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let Fly! An Arrow that Pierces the Heart",
+            "episodeId": "aquarion-logos-8762?ep=48162",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/04abb3bd36bebde82a54db0ccc0e09642a4eefba2673a4125bceda443a5f5c69232f67a63aa15ae6122c039a0b748a722179a30daf272c75ebe567077b6c95517fc49226a4a9939a227dea668257fa51294e41703dbe7575d1b6e7a379c9fbf140d819831cd4aa6133196aa495b95e9f220c1598c0d139b1c93089aa76dac62d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90d66bdc92a0699b1cf1d9b4319c02c9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/04abb3bd36bebde82a54db0ccc0e09642a4eefba2673a4125bceda443a5f5c69232f67a63aa15ae6122c039a0b748a7235605b1ec48b145949ab06745a7bd938708079b2c48305b2ccf9728477ab07867c87e27a1553bd915474c1b1344b1ece8c168b7b80c124727eec4f5b1d72a3cbf0a745036fb11878c3df87a5254c82fc0e53995273f6f4b54dfa3ad98b2f13e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90d66bdc92a0699b1cf1d9b4319c02c9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Take it Back! Our Summer",
+            "episodeId": "aquarion-logos-8762?ep=48163",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5c24dfd179635f41fed18b3f87680c359e6ec62b9b00e9f18c04854dd548d4fb409822b120843614e74f935ec21425a47baac3110346cf0bca25a80fd2f8ab70065eb885ef3dcc90d3b53b481fd1436e8a6cfb77aa63279578ded8a37f8501f43e0fc6db37d4ffe20125597bb857f616c31e40875d35bbc803bd49f2324fd697/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c86294fe55c1da3cea280e0b65230be/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5c24dfd179635f41fed18b3f87680c359e6ec62b9b00e9f18c04854dd548d4fb409822b120843614e74f935ec21425a4f938cd3b2be2f9f3540807b95972286186bd082d510398dd143dc267d05188cd0f23861a8e4b05ffb8ee4988ab5cae2ce8d9a955589741d2631eacfc7d17dcbdd0afd4e1fd639b31dff82228f6e2c074a180f9813e203260ef79fde523b8ccf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c86294fe55c1da3cea280e0b65230be/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Light Up! Your Strength",
+            "episodeId": "aquarion-logos-8762?ep=48164",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1b05ba9247241348df462fedcf99b33815cbaaf06a010da8c24360c9751972d97bf5bd4ac4be8206245dd8ca8dff3f1554797a4a5923e71269a91c8a1b9c5838658a2455c1ce891937ff6000a48bc30ebf59cb7431ecae69a3901c91b63d9f761b12df2cf8d306d527dad328edda6d7460aad52a24e4afcc47297fb503d0f9f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3ace74eea082668824803a06b781788/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b05ba9247241348df462fedcf99b33815cbaaf06a010da8c24360c9751972d97bf5bd4ac4be8206245dd8ca8dff3f15b8868857263c10758569c01300181566b4997a36c2f69c2b85fc6911b5f59caa389ecdf8ec003f197035afeab3b0878db4c8febc0dbd20627c378ce73bda89a8e1c4b41d0dd27e6159195ac61a60e63b827e140f5b6f699f664fddf0e04c97aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3ace74eea082668824803a06b781788/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Burn It! The Savior's Flames!",
+            "episodeId": "aquarion-logos-8762?ep=48165",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/eb03563e488090b2ab16940d4001ca3000bb9124078e27b89cbfae8b20731c697ce411586808588f262bff92f928fb5c76708a25b9f8d702a2935ff53b0cd9c4b252415ac2e9508434c32c776cbd61aa69ed0d34e8cbadea010b2493456a3acdda783d0237258158cd8c74abafd2c13d75c52e83ba17bfed5bcf205d1ce27153/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3eb834bbc750b827bbcd742f6c76fff0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/eb03563e488090b2ab16940d4001ca3000bb9124078e27b89cbfae8b20731c697ce411586808588f262bff92f928fb5cf057f647efb3d0dab3e7cec19e16a940753ed397f6b782eea1674d0c464db317c83f4010c5124fe5c3037ca9eb1a44a39a5e891992e0d2b691c1341a2e1903d19b1bb28243e397a7c10c1f49de57b30ed14758f349ba5c3d968e884ba4bedcdc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3eb834bbc750b827bbcd742f6c76fff0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pierce It! The Insect Part",
+            "episodeId": "aquarion-logos-8762?ep=48166",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/57a547e9e55117b9ddd74c04bb4e711051e276a0842ce780754a151f8986cd45f16d0d0408eee99353565f20546b8cf58afdf33d659864b5ee3f6178348820a9b0b1d171298a7f8d1441180d0998d76d46c10db22cc0526b6646a78445916bc08a3b3d2815453941087938804cc9e5f5f9bd83d81d0f123bdd7a3e0cc0a758a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a54f070ab0ef6aa085589ead2a740af3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/57a547e9e55117b9ddd74c04bb4e711051e276a0842ce780754a151f8986cd45f16d0d0408eee99353565f20546b8cf53373511b8a9ca46a3d7c7ca1a9f7aac545532454b077a742a259411769ce5d0f415b64a166d37b35c2b4a0325a145e32adbd1355f9ce2a273aa01f822acdbbf1cb841ea4058499c130737595dd79a10bdfbf712a8de01dbd0762bd50b5aa55b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a54f070ab0ef6aa085589ead2a740af3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Clear Them! The Inviting Shadows",
+            "episodeId": "aquarion-logos-8762?ep=48167",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b5a2b0e6733e278f4660a0495516b4e4e5e84c8f8aecfc84025c82b58e14b28f3e65b54438cca970a2e8b722454b13c326bf6916c3a655fcb6c4808f29e230eb1bf51c1be9981faeb799513c2a8324d8624c01bd04508ca06999178fa7b29e20b1b04f5f3ff961a0baadea8a91617b515ec44dd185af251cd6fe190025f1f5f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c64bee33587932f4b9ab1c824701fab/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b5a2b0e6733e278f4660a0495516b4e4e5e84c8f8aecfc84025c82b58e14b28f3e65b54438cca970a2e8b722454b13c33c7fc190dea58a07ca833a3fba96d8bb47cab113fe273ee808725c0d57b1d2c946f88347cee68b0528cc969f65c487701f4d51c58fc69b50064e6d3b2abcda92b2419c886aa658eb83f8fbe254e9e0a63d260a90903bca146e43567fcf853aa7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c64bee33587932f4b9ab1c824701fab/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reach Them! My True Voice",
+            "episodeId": "aquarion-logos-8762?ep=48168",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/30b26482f1aaf10c759e0f5dc0f0d1031004b84be97693b8a69f297a444903b482c82aa3dc771e5dea20ca8906666a57d0f3ad1756e63ab317192dfc61c4c5e96ecae740169a99a212debf95579f087334b1b846226ae63966927295007e871c17a5d7670105c08ce2f762340e328e40fcd82d8fb9c2ad59c60829cf47367391/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96b604dee6ea5cf84e81e0a7fcc04f46/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/30b26482f1aaf10c759e0f5dc0f0d1031004b84be97693b8a69f297a444903b482c82aa3dc771e5dea20ca8906666a5742090321ccd68e33d4c96c1eb9fb21c857424069aec180332d0c7fbd4d28740eeccfdf65a6148b35a90b22f970276f918968b36fdb708150156243a93d688148f47328f8b406f236713f20fe9582024ed3cda4c91e7431753f79721ba9b4c483/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96b604dee6ea5cf84e81e0a7fcc04f46/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Flap! Bound Wings",
+            "episodeId": "aquarion-logos-8762?ep=48169",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/df0d530835035e958c7b9b1609abde9a322b0554bc8a513c0c4cd2f309ba29a48a6d96d136afdc86119bf2dad2601f816a292b49bb849570d985498038ed99b4775346155d9f943d89555791df8d94720cf4178cd067a3145fdc248e60b440b003cde50a71f3208b2ccb9645406caa6d6ef33aad11400672930ee5a7d7dac4d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86548b6c08839e15afbb70504299c999/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/df0d530835035e958c7b9b1609abde9a322b0554bc8a513c0c4cd2f309ba29a48a6d96d136afdc86119bf2dad2601f81067f1c17977a099d4f1d361b88d6ee99ffda9d41878d9d6083995c76e1b50b2a8cd16ed9bdc9c54b2ae719a6b9ba4be7843d3d6b8d105700e8fd5e143f4935db03ce04d06e23da39c7b8de631501f58b5f8898caea07f01c1de389cf78d26270/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86548b6c08839e15afbb70504299c999/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bring Them Together! Heart and Heart",
+            "episodeId": "aquarion-logos-8762?ep=48170",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/26329a9a458ea6e08d88b00d351b1a74c3cc2622646f2904d88e5dafb85f444083562c5bd1115c76880333f6baedeca4ebbe37f9a0de8a148525df76dcec9a7dc77a67f3125cbed7c7d62c69eb607812421e2f935b47ad0eadb097811411a4d5ed3098a5a240921236deb48355d7831d6f29ee21157b38c4b16e71402b06b637/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5701894d9df7622f8842ecf7ac4a35d6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/26329a9a458ea6e08d88b00d351b1a74c3cc2622646f2904d88e5dafb85f444083562c5bd1115c76880333f6baedeca465824f0614837b550aae9912cfa05232ec75840adace00480c59f982ff12d5420090733e84874ba1bd3ea2ef54aecd2215a79a4f7b3732a9c72ec1da769b34f2f1c79c8a3451a7c6d9ff844e52e9f2b2339ca4c845ed2c7cf682ef73b43159e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5701894d9df7622f8842ecf7ac4a35d6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Great Victory! We Are the Saviors",
+            "episodeId": "aquarion-logos-8762?ep=48171",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bbdb63f01aeab7f782f63795bbf99ee26ca2eb3bf932a3bf430dc23656630c2cdc9cc9e4501f206fa48fdc3f7d5109b2474fea1cba1abdfbb0777b4670781a6294489e7f54181b07481a5718ac185823d4c328e1b23ccc645061624ee07dda8b0d22357d1ccfe5fb098bd42669609a899b06091f0a51da36068afd3084471888/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/910b59901eda717b768d04dc640f8f0d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bbdb63f01aeab7f782f63795bbf99ee26ca2eb3bf932a3bf430dc23656630c2cdc9cc9e4501f206fa48fdc3f7d5109b24df224f5357a052f0dd4e6ee12f7dbab966fc6c0f9fa61f5ace9a57130ae0c1fc6f0ef4b859825d2e6aeb793c2e72fc2b2d73e00f1ba340de834b69c1707c4e176584ecfc93711829f4418ca5a33fe960625f82cde960d45fd1de803b880a6d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/910b59901eda717b768d04dc640f8f0d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Show It! You at Your Worst",
+            "episodeId": "aquarion-logos-8762?ep=48172",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3f3ed7e3669449790510a68b74cc43b4675dead760e3abf0903e0153cfcfbe3e4252c2221dc89aeeacffabcecf349daead4ed579a04e4bca871e678b5de9425314331dd782d4606919f137727cbc60f035e6371ba336d8e089707ab2c208d1f87dbe414ce546fdff6cf3cec354f446b1a84bd8d1e5e56cce52cda440a242ba22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93ee7a4e03c63226caa61a0b3a2a2e86/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3f3ed7e3669449790510a68b74cc43b4675dead760e3abf0903e0153cfcfbe3e4252c2221dc89aeeacffabcecf349dae14bf70d8ada205d2e6fd8a82f0ff328647f16316c371b8b931fe0db0a7f86155b1a8d27d02349dac5cfc01b003e84be54a043f7770fde1eafd6347781277f376ccf6362f82936029202778a73db8085ceab1f8597d90fe31d6f3c4f3bc687e0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93ee7a4e03c63226caa61a0b3a2a2e86/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ah! Days of Our Youth",
+            "episodeId": "aquarion-logos-8762?ep=48173",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/bd6816f43394ebd40ef515129d54625dd357d5062d8006f845f754a07aae4e5368a5c47a2c4d5092c6bdbe70ccfed8852c33609da065e00605eb98799126fb2a8907f9f54b36191125bb79169d9a0b1ed122f3c0772b13e0fb56d911bacc22a10d8a7c5f9c5430db736c3bcf68326c4d711f9ed1b36683702945461e609982ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bf458f687f54178c1908807f29524ee/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bd6816f43394ebd40ef515129d54625dd357d5062d8006f845f754a07aae4e5368a5c47a2c4d5092c6bdbe70ccfed8852bd51618521be7e6242778cfd9e11aed9fcaef2c83583d560348ec5656232a219b3415a092a97dbd26395064171690e4fe1dabb14943e10cadf760cfcdbec57819c5e818209ec5e27e56ce1f4c55c2b1a943f47bf2ce519def4f20e92eedb6ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bf458f687f54178c1908807f29524ee/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Carve Them In! The Scars of Destiny",
+            "episodeId": "aquarion-logos-8762?ep=48174",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f6774f9472ce3b908aacb9aa085af7cd13dcef4fb03706d04db52aee797bab187058fde9fa426151059667091cbbea90830f5089352bf953c5742572507a44fa86ca0360858abaf6d2ff39293aa199ee6b1a8154201cbe9934c180d7e6883b5a0bcfed2a13642e70a2de0715ab9b51d5f1eb7bdc191a7aaf619003a2b9268a83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6427d25344fa815f7d97470c79282c8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f6774f9472ce3b908aacb9aa085af7cd13dcef4fb03706d04db52aee797bab187058fde9fa426151059667091cbbea90a95607eedc0e9b5536f348c6291c29f036274123afbb84798d81d2f89adfaea8077eccadc365e65f906d9b27bfedc6638d085b8e7eb4bf9c1d3efb186f3f82fbaf61131dd1f46c5cd19113ea228f4615e1487a98c7fe6001b32eedad9322e6db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6427d25344fa815f7d97470c79282c8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shatter! The One I Must Strike Down",
+            "episodeId": "aquarion-logos-8762?ep=48175",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/45515f780639d01455e83f09ab22306716f2211d27f2d4e354d3f3525dcf3b21bc59d466885624c1dfb978e76b504f81ac9f0d6b360ee828393b3e13bc5b2fdc61357a66ebe8d92a8383948497dabd9594fa8566c858e1257588c10afcb9e227ca5d4b971fb1bf763eaf89a8a4b04ec02c3b614bc03cfd0c7d46fb1930ae4ed3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4dac04dec896ee2649cf2cfe2e3778e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/45515f780639d01455e83f09ab22306716f2211d27f2d4e354d3f3525dcf3b21bc59d466885624c1dfb978e76b504f811f95224ea5552c7c2f9d201a3bb4ee16401c5678c83318824a05f36ce7007a23a591864abe207a5aa4733d3edf28ff7361bef06e145cbdb0a409e631bc5348c602f67d3e063b5c8e4e2d3b048b65052c2fccdbe727306f961b85f52587ca2bdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4dac04dec896ee2649cf2cfe2e3778e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Howl! An Honest Beaten Dog",
+            "episodeId": "aquarion-logos-8762?ep=48176",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bc0fba1ed7caac054f111190221e7e75c9c00b688c4130872c6a763b9a9a42fea92ddbf2d14323d7de0dd2e7588f31aa8d99b68ef5c8e109946e65fc47c40cac1ab7eedaf33e52e51f43916e8d02739ceda70edc9e06f73ac9571e75a93d0d88486884d7b206d45969801117e681a4a99cdeeb9afc0d9b4d777a47b3142e5f7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7cfd194d523ebb9f435a93e03f32574/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bc0fba1ed7caac054f111190221e7e75c9c00b688c4130872c6a763b9a9a42fea92ddbf2d14323d7de0dd2e7588f31aa100b6619b64b06b767fda4e375f6fd05d3b787a70c35e27106170d89195f56b9f0ce018e5b30ca1ee837c43784999e51c599367042957a4875cb2911eddc25dc68396fd54d4350f19e0c6ba5e441042b2368bbea6f18c130799541e88e80e81d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7cfd194d523ebb9f435a93e03f32574/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fall in Love! Asagaya",
+            "episodeId": "aquarion-logos-8762?ep=48177",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9d476771633592a4fb15aba1050075dd503cbd1cd3854965858b0c81133c7980d62e924b6b311b2dad3ef267e7599fdeaf0747d2d686d98d00825f6c80292daf716a8121b8603fcef6553c6bd025169b2ef1f9695df76388fdb0d07fc5c5768b386fd181e23ae9d80eb4a606cfd9a8bac33cf3536156331c631bd8a6c8221649/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cc4336a838ea083b7103de185ccdf6b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9d476771633592a4fb15aba1050075dd503cbd1cd3854965858b0c81133c7980d62e924b6b311b2dad3ef267e7599fdea94178ba3f37a76d62d5fa41cfaeddd1ae64c74dfbdbacd194aa3aca1050132e3e05223906d316d653d5068ab1380f9d5faf1c78ad231dc47bf69d7c2520bdfd1efee2ae5d942a74e3748fd05fc4aa9b11ddda3bf71d747f04c90d9b4df0c12a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cc4336a838ea083b7103de185ccdf6b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Know It! The Reason You Were Born",
+            "episodeId": "aquarion-logos-8762?ep=48178",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/29292a5ebf8bfdabe4b5b8a8e78840981b003a4cf915aa824312a7cacaa56f540bb1217530b5d3e7699ae1f89295f257b8ecf6ed300ac82094d05dcd82f789b308f94dd1f7d71b50f1f24423fc587f198be33dfa25eddd931866a09f619c734379d94c3648acee5dc9e0373fb6c9f25571e082aa17a23893b72745369581feb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/090387c4b859ef26a1dbe0376143934b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/29292a5ebf8bfdabe4b5b8a8e78840981b003a4cf915aa824312a7cacaa56f540bb1217530b5d3e7699ae1f89295f25762d2aefa7a4bfda939527aaac5e673b581caa5a241912de7c2d8c2173a4df0abe64b4599f27ed61fe574dba3aea6aff3f03e16d92d19942355f3d14be3de3e65edf897cbde7fe5acecc95e72b8536f3a1cde47d2a4b3cae2ae230cffaaa4aaf8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/090387c4b859ef26a1dbe0376143934b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tragic! An Immoral Gattai",
+            "episodeId": "aquarion-logos-8762?ep=48179",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/07a8f4be85808d47cb8202f50030bb5b965ac8d3840873a0307a236f250ce04fac9281fdff2d56be645cab96007411acece2d03ef440b23a4b72152b746664f5cd86e15c277532c87a77164c2594f4e3808a502781f205c7b01cc8dc3e97d2b6bfcf876575961a5cf57e8070626f57285ca6f4a42cf7253fc63ad1ca61af54a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/741d857c1f8c9d3ee706d2d6579a1929/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/07a8f4be85808d47cb8202f50030bb5b965ac8d3840873a0307a236f250ce04fac9281fdff2d56be645cab96007411ac4a4e46414bed09db939f14a2ad91139fe262e98de360e33cc8275596867df7e0e0ea323ad8f1eeefea482a0a0cf4eed48eb5676150fdec5d0385c0ae39a59422034ac71dc64e84750925a501f2d4cbae638b56c77054ed3dc1429c56d96c72e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/741d857c1f8c9d3ee706d2d6579a1929/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Listen! The Voice Calling out to You",
+            "episodeId": "aquarion-logos-8762?ep=48180",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bee60ed3a46053c2e932f2b50e7ec266f656224bc6217ea48113dbef41a4b5ea112c648f470e2e2b8b81a4e93eb8bea79071ca6285ab284c6d4106a9c90f817a999b9852d2cf81bc9b6e8ea2bb569a2789a7497d43a17b89e1cb003e01e8efee169bed8654cc64656afa0483d8f26ece8cf3015dc3a44b5c3f9c38ffc49627a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/081e67c5b8562693de45a18699906594/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bee60ed3a46053c2e932f2b50e7ec266f656224bc6217ea48113dbef41a4b5ea112c648f470e2e2b8b81a4e93eb8bea7509719eac6754301ac63b255d81ecbd50437566cfd6366a6da91511ffb56847a5ab08de36e880fe6bb72f6532bfe9607ac546a56ecbda840f77081266d37dfc5d1f4a1ea0262c38ff6b31cc66bf5c2494a2fcd66fd772d28d486e848ace25c24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/081e67c5b8562693de45a18699906594/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Revive! The Vow Beneath the Moonlight",
+            "episodeId": "aquarion-logos-8762?ep=48181",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2ed2f79676edaa9cb61ce0b6d6dad2732a68715a3c720fea7a3fa64bc59421fe80b2a818607bf9905b0eaf59a4622689ac5c65e1b2b0ebaddb89b6825883ea8d8f86674da58a93fc1e742333b16c7b0017bd6f5cc82bacf2845cfcacd1e4869a2fd2416e600877e0ae3a3efe97b2e2da6f247342a682f38330c4102c52aa31e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f59b94de69341bf15d2e5079f1eef253/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2ed2f79676edaa9cb61ce0b6d6dad2732a68715a3c720fea7a3fa64bc59421fe80b2a818607bf9905b0eaf59a462268967074ae7fad5047c7042238bc63858626e979df7800cfe503afe94c0faa640db44ca917c3dbe66213e44751cefd7d47d48c79828da8e88fcec0b5f1a70bf60fcdc44a9253ed8224d13d12bf42295d48ecfb134721b48ee103affa628087d9727/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f59b94de69341bf15d2e5079f1eef253/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To Battle! With My Existence on the Line",
+            "episodeId": "aquarion-logos-8762?ep=48182",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/91d1345b3094410b6664e7bae8acb2ed93eead8ff38354cdd03b3a8173f10c2713128ea086ccb9280b55e496f5d3e5d7866e00f2357a40055e18b12e30827cb8ac1368145e5388cf55f08826c42ffb93ec80041835da98190baca4bac0c2bc1a982332adcb61d00e43bdcdbbb18150c101016200e5c43ec05e2c7ab179cca447/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abd0d73799a1b7c1177fe0801341c032/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/91d1345b3094410b6664e7bae8acb2ed93eead8ff38354cdd03b3a8173f10c2713128ea086ccb9280b55e496f5d3e5d7317045c882f3555e0c5d39122ebebab4d3c274aa6dad004eef33a08658ebc5b3e6884ecc6161a82b0d1487b6a0bc7dea8cbc3492b6a1a075bebaca275a19cbdb0d179d0430e92a88b462e361e81d899854f6330ada614b44fb2e876159d2d1f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abd0d73799a1b7c1177fe0801341c032/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gather! Voices for Tomorrow",
+            "episodeId": "aquarion-logos-8762?ep=48183",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3e629d8355c720df3ac26c9aa0e5b81c69fd73ff125f25f4316f74098481c77a647d83f6b7e15639a8ed12587d1934dbf3e649cf94ff988c48337b65e3a576bcde447554ca7c571164c19b17890cf49460deb88672996ee08c3a91141b839e670b718e33bdddd821a36c030c7b70c399bc8ce47f2c07de8e87a728d0df563e2b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20981697e6fd9c20cbcb450d727ece7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3e629d8355c720df3ac26c9aa0e5b81c69fd73ff125f25f4316f74098481c77a647d83f6b7e15639a8ed12587d1934db169f081b2dd161f25f3611a220309090274116f78b999d3d068673e31337681e303cf456df373dcf6bd40a246530e200832aa4e8bcdf87b7e36e82a9ad90e8457f88109d1c6080a445a3684a247c985f003092499d2e3487343cf31b4339e9dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20981697e6fd9c20cbcb450d727ece7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It Will Not End! Aquarion Logos",
+            "episodeId": "aquarion-logos-8762?ep=48184",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/28f2ece6ec8fe06af2d6f78176e836105e6ae11d3f3867b8940c533ef0bd86572980096af63e354ad4725207c5d5bfcb931e7fcb3568555bebfc6d244afa6bf6e779ba505358e070bf64795e5f55ddbc68198ed0464ad689ea99a94e269af2b538c895124073438f8fa091dfb9a32cba1ba5fa0a93c7198094ef74e388aad97a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2aa42fdd6918fdc638532eab47bc7a9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/28f2ece6ec8fe06af2d6f78176e836105e6ae11d3f3867b8940c533ef0bd86572980096af63e354ad4725207c5d5bfcbc8fb250ea2cc0ea6fea2c599af28c6cbc9257f99aedee4264eb7e87eaa54dcbcd7ce063edd951e75798f13d7b156e28e949aee27dc30877be77170940a1b8ac47ec3714d3f12e5701cbd1ea9ca663694fdaa7b812c8d77aa45e33c9817eaf35d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2aa42fdd6918fdc638532eab47bc7a9/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

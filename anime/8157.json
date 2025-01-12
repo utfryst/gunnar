@@ -1,0 +1,70 @@
+{
+    "info": {
+        "id": "keifuku-san-8157",
+        "anilistId": 0,
+        "malId": 36156,
+        "name": "Keifuku-san",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2034f7ed1240b68926af084a908073c.jpg",
+        "description": "Incorporating the earlier two parts and adding additional footage as an epilogue, Keifuku-san features the adventures of a young girl in a railway conductor uniform and a floating manta ray as they explore an otherworldly space. The video features direction by Tatsuki, animation by Hirayasu, and art by Yukko (all members of animation studio irodori), as well as the voice talents of Yumiri Hanamori.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "5m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "keifuku-san-57964",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2491397c1449c7af139ec6582c14ba80.jpg",
+                    "name": "Keifuku-san",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumiri-hanamori-314",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4add1452cee83566e6e8edd6363fd0b8.jpg",
+                    "name": "Hanamori, Yumiri",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "傾福さん",
+        "synonyms": "Keifukusan",
+        "aired": "Dec 28, 2017",
+        "premiered": "Fall 2017",
+        "duration": "5m",
+        "status": "Finished Airing",
+        "malscore": "5.95",
+        "genres": [
+            "Fantasy"
+        ],
+        "studios": "Yaoyorozu"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "keifuku-san-8157?ep=100051",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/20bd5d62bda2d22dcc5401a4575e94e5e5f12885ae38cada1f20339abe276bfdd1abe2b4573c61e557772a82de9926159e0158b9bbd177996da630c9887ecc6990c255a3a0b22fe32c63e9dab46f6561b53ae1b2bb91cae9e11c1a7adc24baebed7a1fc5b5e4c397f4ff7c4a5f187499d866bd61a5d2dced770953a7bea5a353/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e6080f7eafe0ce1f9049e82dbb1bd1c/5e6080f7eafe0ce1f9049e82dbb1bd1c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/20bd5d62bda2d22dcc5401a4575e94e5e5f12885ae38cada1f20339abe276bfdd1abe2b4573c61e557772a82de9926158088c5e121b50d4942f75423f32b458cd877656c37ae120c8563cf8ca247c6ad66fabd858e0b556a2772c2c2712c0afcfde7b3d07283062dd30fce6545afbaafaaf9fec84871f40c883e133c72ecf8a184c55ce89695f8e11044c27d5b14efa8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e6080f7eafe0ce1f9049e82dbb1bd1c/5e6080f7eafe0ce1f9049e82dbb1bd1c.vtt"
+                }
+            ]
+        }
+    ]
+}

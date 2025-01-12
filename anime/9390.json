@@ -1,0 +1,1784 @@
+{
+    "info": {
+        "id": "yugioh-sevens-9390",
+        "anilistId": 114072,
+        "malId": 40145,
+        "name": "Yu☆Gi☆Oh!: Sevens",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eda25afbd8e3baf78d17e31b7a5506b1.jpg",
+        "description": "In the ever-growing world of Duel Monsters, as duelists improve their skills and rise up the ranks, duels become increasingly complex. By adhering to strict rules, in addition to using and learning proven strategies, one can develop into a strong duelist. However, as a boy who loves inventions and discovering new possibilities, elementary school student Yuuga Oudou finds the current way of dueling predictable and rigid—in other words, boring.\n\nThus, he aims to craft a new path in dueling with his exhilarating new invention: Rush Duels. His ambition soon catches the attention of Tatsuhisa Kamijou, a fellow elementary school student, who brings him to a mysterious place in an attempt to discover the potential of the new system. \n\nWhile Yuuga aims to implement Rush Duels as the new dueling standard and overthrow the conventions of the game, he opens the door to his ultimate goal—to make dueling exciting again.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 92,
+                "dub": 92
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tatsuhisa-kamijou-18664",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d0ad0019d93175a7f96a90009f0ae01b.jpg",
+                    "name": "Kamijou, Tatsuhisa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "taku-yashiro-1749",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c635cd4cada196dd028f805ca39d5a51.jpg",
+                    "name": "Yashiro, Taku",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuuga-oudou-16931",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/185ba90795462b99e6cdcf915cb1e7ef.jpg",
+                    "name": "Oudou, Yuuga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiiro-ishibashi-8190",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8c899838c1240c83b1367bba575d9e40.jpg",
+                    "name": "Ishibashi, Hiiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sougetsu-gakuto-22683",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/26d22ab57d68bc46d092e28764381150.jpg",
+                    "name": "Gakuto, Sougetsu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hologram-man-92318",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f4b7673137f4fa0f87d6dfab8c975e43.jpg",
+                    "name": "Hologram Man",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "daisuke-namikawa-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99bd324a9350d978a0f2d10b871944e1.jpg",
+                    "name": "Namikawa, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaizo-92901",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/743873900a2aa27baf93aa12e8c2a1b9.jpg",
+                    "name": "Kaizo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuusuke-kobayashi-155",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d7f5abc18a38b38a7516fa04b0386b73.jpg",
+                    "name": "Kobayashi, Yuusuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "romin-kirishima-14081",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a37d70fbec4b5f5348264f73c68d6cf.jpg",
+                    "name": "Kirishima, Romin",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomori-kusunoki-655",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7b5f5c6d0707cc177fe1beefd93907d8.jpg",
+                    "name": "Kusunoki, Tomori",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "遊☆戯☆王SEVENS",
+        "synonyms": "Yuu Gi Ou!, Yu-Gi-Oh! Sevens",
+        "aired": "Apr 4, 2020 to Mar 27, 2022",
+        "premiered": "Spring 2020",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.51",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Game",
+            "Shounen"
+        ],
+        "studios": "Bridge",
+        "producers": [
+            "Bridge"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "yugioh-sevens-9390?ep=70641",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2d915fff87fd2e3ee4c60b9dccb95357428bbd8b5ee003b84f864144642d5766044adaa5afb41891b342ed065ae1c339c375f8aa45c6964b6557c53685da6b0ff5066fba37a5be15c9b067ccecc4e4b98233b8d5ac15f2ea40fe424033882cc31594dfe7c7a91f4c196c4e2ee2095ac5dcecccf8bae2c2c2180819ff36475593/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b239469f5ce521323d2e49894443571/0b239469f5ce521323d2e49894443571.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2d915fff87fd2e3ee4c60b9dccb95357428bbd8b5ee003b84f864144642d5766044adaa5afb41891b342ed065ae1c339b356ff35d71dfa6b3b0845acae17f7ba300350db3c16075f1a44750de7a29f176f70d5908f8e07fe122736d9a35c9a710f6bca1139efca6229d04b8bbb21cc9599db535e0a86604127bde17dd81089fdbf5c7399f5953f6ea54d3d4f35aeb491/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b239469f5ce521323d2e49894443571/0b239469f5ce521323d2e49894443571.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "yugioh-sevens-9390?ep=70642",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a7feb09ef0e3f62c0253da74d0b342fc5360d553635787ac33ba65842cc631a62ba6a7463455ac8f83c46608a24c2aab1c8eaf15acaf3284ada116c2aaf04c3fb3b22504e20235867048955cf93b3b02b7c655e5e56d17c10ceeb625d82ede5069604990f2beb2a018cf835366d2a87971b10c5d696f566e31dde6b4feafddb1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c460b743d9993f1b4f025e883112cb36/c460b743d9993f1b4f025e883112cb36.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a7feb09ef0e3f62c0253da74d0b342fc5360d553635787ac33ba65842cc631a62ba6a7463455ac8f83c46608a24c2aabf2c83e18096b7e6c6be19389d1534254daf51bd432f1ae7d8bca2bc65dad1453eedd096cfcbb122e197581acf88e14d6aeb09b4eb86c8aee28138bc5de717da9ef2e0373468a2e66e24b03bf8b5e726a2d628fc3741d99a3f8b61352c36a2e36/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c460b743d9993f1b4f025e883112cb36/c460b743d9993f1b4f025e883112cb36.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "yugioh-sevens-9390?ep=70643",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ea56cbe8ebbae2dbf0fc1bc0e3fd4437ec48b528bdf5177fe1914838b7ed118c8e7c7d69647129d312bedcb5bf0871322f5c52c30bb468426f9a8fac9a6a17c4bc40869a80928787ed0d6394f1cf9e2040ce42e0fa2b3ab59ac50a2ad047102cf100454adfbf913e8a4594a08671cd7af072e733dbfc1d908da58a2ee2ee9e41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7650d24f96b43c1c4e0a94bf11d236c/e7650d24f96b43c1c4e0a94bf11d236c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ea56cbe8ebbae2dbf0fc1bc0e3fd4437ec48b528bdf5177fe1914838b7ed118c8e7c7d69647129d312bedcb5bf087132996f16a237865244549411e49a29f8a4366331b9e8aa736a6c053f8958d25e07e4300b9a9ddcdd4298637b269e6fbbe15de1b2c82a6007cd1ddf7a2710448192049a44313516558f328f2329fff41e05f0c3ea3de897035f21b24423ba0c0c7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7650d24f96b43c1c4e0a94bf11d236c/e7650d24f96b43c1c4e0a94bf11d236c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "yugioh-sevens-9390?ep=70644",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/991c7332909d91877e4681f4f264fcefd36a4b17e14d7f19d4ad4b9d1af6033a64ac511dc5c41126755fc38759954419c203299994fb5819e49d304553ab1c59fb3d25ffaf22a450b6ee8c5656b2bf31798bdf6e6c462914171102482bd8c7bfe7078d274eb3bd7ef2aa012a0f2c84953eaa5bce9c8a5a06d9fa7f25925bcba5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30eb8e3e731dee0e37071c20edc384b4/30eb8e3e731dee0e37071c20edc384b4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/991c7332909d91877e4681f4f264fcefd36a4b17e14d7f19d4ad4b9d1af6033a64ac511dc5c41126755fc387599544196850ac56a0af92eb1dc149360f18fcd79c64508a4aace885e7a06050e9c98f925dab39a1eadfd702dbb5a087f0d345ea374097079a14a4f69b1b03fdd51b04d286949db5dcaef1f8ebc0094bf182bffff5499f417a979d670ae7d1d1ea1b52ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30eb8e3e731dee0e37071c20edc384b4/30eb8e3e731dee0e37071c20edc384b4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "yugioh-sevens-9390?ep=70645",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/94567aafbb0a5228bfab4ce007c1f2194806a48ffcccbc23ddabfb9a7cf45c8b422e57b6e8755f27801269ca1fa7fa0152a8d3735f849f63a2cbf3ecf47312da7a852f3d267ed5a836b60c5172c97bdb8df50c32c3e598484046cd12de6d20056fa634da5f0d9d9223c928008577fa4a42c1b642c6c2dcb2b199c8bb0d7361a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ede2766bfb3bd9aff81c3c63a0a2a90e/ede2766bfb3bd9aff81c3c63a0a2a90e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/94567aafbb0a5228bfab4ce007c1f2194806a48ffcccbc23ddabfb9a7cf45c8b422e57b6e8755f27801269ca1fa7fa016addc2c07d6ff73660e1f1b0a4b532534182627040b42625bb6d9ee4cfd1a683d8f0c545bbad424d545810748f41a57389deb2aa3f28ba64005d64bda530bb62e57273f27531ce419fe644ee8cfb25abf1363c32a5b59552ab6df7602249b3b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ede2766bfb3bd9aff81c3c63a0a2a90e/ede2766bfb3bd9aff81c3c63a0a2a90e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "yugioh-sevens-9390?ep=70646",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/53055130657dfde947c5b576328fb93ae3f5a941010e149ba860f7654ae5165fac7e089d2542167aa6e9c1cf167f70e0a6acb2e9fa270aa4200d799c1eb5aaa858e60a05653d42b11da801d13a72af91c0d42c3d87ffb0eb32e005fde2f86750180809db9c44da606163ba4cccaa0e03d5126f803cd41868c85d08b51fa8a47a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83acf58d2a920d3c3def56913079e72d/83acf58d2a920d3c3def56913079e72d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/53055130657dfde947c5b576328fb93ae3f5a941010e149ba860f7654ae5165fac7e089d2542167aa6e9c1cf167f70e094309581beb64ec48c370d7b45f671e1309ab6931abff1acd99d4d4abd4882e198be2212d21f50ca58765bc988d1df47771911cadbdf4d15827b1d318505ac37c03c50d3be14062e587b1d884a634ce3d3d707f3b435d2ff23003fadbe581d8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83acf58d2a920d3c3def56913079e72d/83acf58d2a920d3c3def56913079e72d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "yugioh-sevens-9390?ep=70647",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1bba81a7b30873300a820c2286755cf02ff78762dc1c8cad1ae62e5a1b6860ddf9ff9de6fc67cd37b55f045630047282c6a70c5db96d8ea6a0b6075fcb00334248420f713f292cdf79f492a00d329e5a7f98df586603b206dae3e97903352770d2853743125e69c3425fa126bb451638e28c62a07ced8c41f5e8f920b4c80fc9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f9c488520129ce33c92482d772e176/a3f9c488520129ce33c92482d772e176.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1bba81a7b30873300a820c2286755cf02ff78762dc1c8cad1ae62e5a1b6860ddf9ff9de6fc67cd37b55f04563004728207bf4150b45850bab021615455eb1cca9c20b4f2fab6f3a546494e5b52e4967b959d70ca8d4b63930d602a90fccfbcb65138ed9313808cd0883479b9716d56e4268fed8b42d1338facfd4bf41d1f1ae68904a8d5f9c17d0cc093aa6fa19ba75b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f9c488520129ce33c92482d772e176/a3f9c488520129ce33c92482d772e176.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "yugioh-sevens-9390?ep=70648",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/632c1714cea88d7f777b77e66a7352fbfe1e61a45098a2bc3d0019140e184ecf0bdc61fe02921dab59569bdabcace5231102866476a0b862ea223c2b9cb9286b63eadefd486164d886c090a2a8defe21b65938906bab93d540bbf75f283ecf5b5d6e97f3b6c295ac9d7d3fd4b78111996f3ec86cba75baa28467b77f2becf74a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b4ea9ec4c87dcdf8b8f2ce847f0d21f/5b4ea9ec4c87dcdf8b8f2ce847f0d21f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/632c1714cea88d7f777b77e66a7352fbfe1e61a45098a2bc3d0019140e184ecf0bdc61fe02921dab59569bdabcace523d15233ced7072559c84ff7c7da6d056757bf5407b406dbbbc7ee55268729c8a2b7555983e5343f9fff15494442b5eda4754d1cd86f0c2717be4a2b3ff145cbb9f96bd9b0fb56df6ea269181acfe511f8c7bf2fb52e2f6aca09325e2b055dcd42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b4ea9ec4c87dcdf8b8f2ce847f0d21f/5b4ea9ec4c87dcdf8b8f2ce847f0d21f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "yugioh-sevens-9390?ep=70649",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/72a040eb898c8e41acc4ddf58c06f6c28f6207a6ab2ec7ab511b6cb4e3bbdc2d0dba28078c903d3a3cea42dcd2bb6f47f88b604f76b3562762d7788cbaac11d35f4df85d45e141402e8d309a95156ae272025145cb3063d9c46832aac6e99a00443d30a329ce725d7c77e80a9aa349c9b450480a37af78581f9047a2c9c8d8bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01d4398bf6b4bbdb15e1177b534704f7/01d4398bf6b4bbdb15e1177b534704f7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/72a040eb898c8e41acc4ddf58c06f6c28f6207a6ab2ec7ab511b6cb4e3bbdc2d0dba28078c903d3a3cea42dcd2bb6f4735f7f31bff5a5bcf1dc168ba6a435cb062a153a1ad5f470d54c336bc59ff17d236b4a6717215feeb4298e8a16e8d0b90c687dcf776d47d22e36fc1637c76e11a3f4f377721681bc7aca038f5a9b5a477371151bc79676d1cccff823ede179717/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01d4398bf6b4bbdb15e1177b534704f7/01d4398bf6b4bbdb15e1177b534704f7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "yugioh-sevens-9390?ep=70650",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/eb7f9229d5f710f6527d99be7094bdc1ee114d128b2200c81c51b197f89b8b1cca5117133af26778ccc05adc63ca7852678573fb6cff3544efff215d96b350ddc9449744bfc0af70cd4de4c3f7e556824287d66158110611f39140b10b6eff49703ee93457036fec1e4032c67144cbc04835664f1d972804b1e4607cec6359f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22efdecb61e9014eef95cc473d0b91cb/22efdecb61e9014eef95cc473d0b91cb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/eb7f9229d5f710f6527d99be7094bdc1ee114d128b2200c81c51b197f89b8b1cca5117133af26778ccc05adc63ca7852f0131f6429b43914641b92912e3627818757500700186bed84d24f4f03b153cd0fe2d482de7f4174450d80edb2084ae2504f0cc22cc375237f7986b307d838e01bc1da5ef0a0be72e41a5ac86bc5102afebe677dfc349f71787cea843bb0d092/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22efdecb61e9014eef95cc473d0b91cb/22efdecb61e9014eef95cc473d0b91cb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "yugioh-sevens-9390?ep=70651",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/012d5a1394e03a19fb1a82576617ea96e374cbe006fe8f378cff09b0f6af72c18269166793b43bfa515debb650ebf25739757e818e37dcfa311f4a000babd05c21a264af6350cf127a71adc794ea940739e16d583a843dad682e9d904ed2e4b6957a19d89b6e6271522dd36296b96b7d4b72fdf71b37ec5e04c83f4ddaf8dabe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e127f3acfe52c364d3fbe077459105a5/e127f3acfe52c364d3fbe077459105a5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/012d5a1394e03a19fb1a82576617ea96e374cbe006fe8f378cff09b0f6af72c18269166793b43bfa515debb650ebf2574e4bebd483bf2b15e199d868a9918b76ca059d82d01c4c4b79cb7c13dacf12560504ff1ae94e15ce80743be05dbc409e8af3f6fcd6b275b3da759a88fbdf22c68ec42c8d0c58caa77ea585bef5f5363c20f8ee88440e45293fae8c6b3b241aa4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e127f3acfe52c364d3fbe077459105a5/e127f3acfe52c364d3fbe077459105a5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "yugioh-sevens-9390?ep=70652",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c1f3ec80f392d3682af6473e3e0b82baabb965fc574c80be2cfc560cf3c778f92f674440cfd8ed6debabeff7e96696a068c4676d845a7c3c08d8b423858c509637118c085777f554b9b296d186b5405bec54e78e50948bf7d09a71aafad5de7ca101474cafd756c2cd65163ba98ab4c505f876237296c58d1d8658f659a9d2b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9a063b857fabc31a3f4137344c8a300/c9a063b857fabc31a3f4137344c8a300.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c1f3ec80f392d3682af6473e3e0b82baabb965fc574c80be2cfc560cf3c778f92f674440cfd8ed6debabeff7e96696a08c47f27310b755ef0099b925e3a1247c35820310417858ab8845025a63064800480d9e1b7ba9cd15420ef519e402f2e0cfb80961a172a0944adef720b100b5c33343ef59b9e2612cd23602c4e0e0653ad649baa2229220c527ee203eee625716/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9a063b857fabc31a3f4137344c8a300/c9a063b857fabc31a3f4137344c8a300.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "yugioh-sevens-9390?ep=70653",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/cfecd2590f46f4a29e60de857db4e501c8ffc6463dc4984d32cea728d64ea2664152883321de64dc5fbf5cbfd5dac9f0c0500581d38cf9a469e5d33822654ff980d1e80c49370322205f9ecefd00c5f41ef6b213b6d21fee7468237016fa0d8f751de0ee7458e7311a71b7d3582c667a0691d8647835ab56078d3ab73466d8e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9adab1bff6859be42f7e7a943a5db28e/9adab1bff6859be42f7e7a943a5db28e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cfecd2590f46f4a29e60de857db4e501c8ffc6463dc4984d32cea728d64ea2664152883321de64dc5fbf5cbfd5dac9f038b0916e01c5d85108134335242d9cede7de60df6f8e3393965a72d984a56d7d30fcf9e533d0b0f3c1c8fd234ef3059241291561e806ef8aa6f98fc3229e2526032bd5bfa2d0bb073dcda64c3780af0030286cd2bdcecc49a6d79abe19dfe6fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9adab1bff6859be42f7e7a943a5db28e/9adab1bff6859be42f7e7a943a5db28e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "yugioh-sevens-9390?ep=70654",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0798411b0c7d5f6a6146fa6b2fcfa577b10137caecf6814390e0e9fa295a82b1797d3730306ad8b620e1a25fed581f7dae7290fe9efb7d2d2344a074230bb982b72f60768b41e95283e2b2d4a5f3c5bf49ab1caee85dbb8879e6373943ad5bd9c47b2172d817260af4b2cda19308c6e16f2b2c99fb1232b6e767e949dd23f735/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5eb756b18505afb53c172b61621efe/0f5eb756b18505afb53c172b61621efe.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0798411b0c7d5f6a6146fa6b2fcfa577b10137caecf6814390e0e9fa295a82b1797d3730306ad8b620e1a25fed581f7d3bb533a27572d801e12ac8ac96278fada88df451798c3aed7f36fcde2235917e411427ba66ed3f8c117606d6f6c88de30128f0ce331761508600274395dd4eaf6c3735049aa3c67993ba77a25e323619c2bd850cc054c20918e0d43908986fae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5eb756b18505afb53c172b61621efe/0f5eb756b18505afb53c172b61621efe.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "yugioh-sevens-9390?ep=70655",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/45e381510629ae242fd49861ed906f88b9c3c87b763c3ec2e4739c67d6d47e40adced6219420bf6bfc8375a4bed74bd0636f21d300efa1d476ce1b42b8f58b777c8c60b424ef42c0cdf2753b6aa69ba9072836394c21c25fab59660fe5889c2fd1761fec08a7f9a14f4fb8e4ca21f5a812c2ef5c587803477bdb7efdbb8634ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5a0ce5e1a94c34e8ebfcf669d42dd37/b5a0ce5e1a94c34e8ebfcf669d42dd37.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/45e381510629ae242fd49861ed906f88b9c3c87b763c3ec2e4739c67d6d47e40adced6219420bf6bfc8375a4bed74bd0df18c14abac8afd7bdaef184abb6c25401162604eef6c55c189388c7655b2ca24099b5a6ec33642a199317b749a63cc3363e4bffed1f6fa1b0b1b043f946b349f34be270423cd2817d0b0d7c771b0b5aeced1f3ee4cb4fa77cc83b7396ded712/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5a0ce5e1a94c34e8ebfcf669d42dd37/b5a0ce5e1a94c34e8ebfcf669d42dd37.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "yugioh-sevens-9390?ep=70656",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d58c2090e0a28437a1ef30ce2ac86e393588bb8c175b461cc04c4f89b6885150adf6a9edb701b337868ef5a314c6d272a432a098e16b93b04cb3f15e7442cfb8ca703fc1437f3fe45b4f5612790d3b2dab0784276d589b49045540268ff86515f39eac3a175ec103a41e3231738f87bb50234ba32135824aff8044e43cd96103/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e72611efe7ce62dbadf0fe3b3e2013d/9e72611efe7ce62dbadf0fe3b3e2013d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d58c2090e0a28437a1ef30ce2ac86e393588bb8c175b461cc04c4f89b6885150adf6a9edb701b337868ef5a314c6d272f6f1040f3f8712676dafde5cdff592dca07e53f14ff06f87535b8a0d725e8ae73928568a7c9477b49d42a6986f1d07cb3c51a91d71b3379cdc42a096a5d573c44fe443901dac7ecf692b2c9e3c73adc4b93348ebc8c0c742068ead9dcccd3889/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e72611efe7ce62dbadf0fe3b3e2013d/9e72611efe7ce62dbadf0fe3b3e2013d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "yugioh-sevens-9390?ep=70657",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/845c76511f5103a67036e987a01e0726865849c4abb76a5bce061f3d48be2973556243ddc705673c7f831f2ce0c91360bac2074c49954ff821a8037130702d23e8d56b0ab003569b9b24c8abae934940ac7374cfc2c6c236ce1a6660adef01ed74eaa32955e04e0299580911a0a3c62a5275994df72f1a8f8d1840d105e6af8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/841e30e69472127184b1250e69d6cc3a/841e30e69472127184b1250e69d6cc3a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/845c76511f5103a67036e987a01e0726865849c4abb76a5bce061f3d48be2973556243ddc705673c7f831f2ce0c9136035de5a5e5535bd83dc90e058b5e6f8e923500a091aca7ae35ef9336116baf7ae243d435278352a12c5bbcd0d410676de7bb5daeca741e82ec6fa1d6ddc8bd9f9e9fadd4b703754637ec24776e4c93c2308a89ff4553e788ea16d63aaffd080a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/841e30e69472127184b1250e69d6cc3a/841e30e69472127184b1250e69d6cc3a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "yugioh-sevens-9390?ep=70658",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3a3072035df46f4888aac713ca7a5576f3bcd6fe2e60a55bb96082a03e17d3a34d7adc6490518c37779241b8d4faeaef7bb56a7cdb5a40c0e5b8cdb6265b280321ab883028b6984bd9f2a5b1ee38ffc958547382d43fcc3b4955adceb8109769412f38ba41948f1b177bbc065bbf01510e505553c3e3b6ffe7bdf206c95136c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473d7e7c56f047899640c8b08146e887/473d7e7c56f047899640c8b08146e887.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3a3072035df46f4888aac713ca7a5576f3bcd6fe2e60a55bb96082a03e17d3a34d7adc6490518c37779241b8d4faeaef3481a70292122fc584e1058d60eba008a5190f2124ba2999c046a069d1f5c58a0b9cedd82b347de2a8408341ef7dfddc5d9bc45a726820b0ec6779707866ebc728c791fe4e439aecea10c43fc311fc342b034ffa6e10417e38ccf2a0ef4ec919/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473d7e7c56f047899640c8b08146e887/473d7e7c56f047899640c8b08146e887.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "yugioh-sevens-9390?ep=70659",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8cd963159aaa81acd74a27a8a872233287aa23273cbc48b479b6ef3f37d3460e5b2911a90c916437a64325ab184297f5e477af5f4f91fbf5b92677c64fdfe9bd463c7ca424da593f3fad87359193919cce982847ec085e5273ee96d15b5c455b9bee14fff2eddcd0761580ed133bf418f12ffafed38460bfac7b2541b6b5bf6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ba0d39daa9a3d11d1dcec1221ba9548/7ba0d39daa9a3d11d1dcec1221ba9548.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8cd963159aaa81acd74a27a8a872233287aa23273cbc48b479b6ef3f37d3460e5b2911a90c916437a64325ab184297f522283944830b5a03945326fc9340f7b9788b1e897373469fac323dd400ddeebab1783283ae1d24d2ea3a41f2208b38df8e647df34adc1b8e2e1632c26cec6bc7c4b7664f4121746fdeb13ede0742bee0c947a489ddd1a511d1b932fdc8c9c392/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ba0d39daa9a3d11d1dcec1221ba9548/7ba0d39daa9a3d11d1dcec1221ba9548.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "yugioh-sevens-9390?ep=70660",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/468b20b14d6a4c89823c0cd4dd24efe80ab9345be19be1fcb40e0e9be86f2851542f048fc2ab9addeecfe56d5a2b8ab901776c70bc69792f8959c5b91ee7abfdd32e40c8465a6b11573bf37d37f4fe1e31f6ed486011ccd4d1e53b03fa6ed5f5b54448f3a4cdd1aae4a5485386cdfe43b778a589bff4ef108f6196a8c89f806a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a00588485903984aa4b667e48d185a72/a00588485903984aa4b667e48d185a72.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/468b20b14d6a4c89823c0cd4dd24efe80ab9345be19be1fcb40e0e9be86f2851542f048fc2ab9addeecfe56d5a2b8ab9fa4dce09f6b3c8fb2295b48cd96d73d9ae0003a0d9385a14fd1c72f53d79ded155d4fd60012eeaa18c133dc70f2c4b4e3349a05a70692770e84e9a8f2b55a44934647348f94b6f7b58736044ebdaf4fd781e4896477ac2a7f061991c0b758bbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a00588485903984aa4b667e48d185a72/a00588485903984aa4b667e48d185a72.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "yugioh-sevens-9390?ep=70661",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0479aee03f6486bdfbd4f8be580e792f9c6f4ce542aab580c1015c74060524290c8ac2a633f78b7fbb1aceaef9a67f1416a605aeedb3c76d47425d65b4c8f96bf4e23878f5b2f68278f148f29c556676c399eb8b56d4606f5e37f505a355a6d8fb29eab0d0341a710c417703eb3898c7a2cc0ea151b7240923a6b757d2927d01/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cd165bf321a432481b318636e67de16/3cd165bf321a432481b318636e67de16.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0479aee03f6486bdfbd4f8be580e792f9c6f4ce542aab580c1015c74060524290c8ac2a633f78b7fbb1aceaef9a67f14be069120d8ecce49e84ce9c574b5406357c526a5710406f557f8798128aefe6beb397c8021312988a5b18b7b67d1cce193371088a91256f4df180b3809a60ac4f235c82fa750f6905e279c73083cbea5897049af175858bccefdc753f4c9267b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cd165bf321a432481b318636e67de16/3cd165bf321a432481b318636e67de16.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "yugioh-sevens-9390?ep=70662",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/fb3ff16c3b49cf012556dc17e7b096e3a1d810dfb7e506b3972d9f43cd51fed9222a59488a6d263f66066c11caa0829c90e8735e43343f882a068ac1abf6f68f8fa84f8a4dd3848f687a4575cf4ff00e33f621f3efb508ca427f71c0fa697b0f748d56f211304a86ada6c7086352e042710d6dfccbedae7bb4c2433fe9bdf5ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89061491a40456307299694f23ed3484/89061491a40456307299694f23ed3484.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fb3ff16c3b49cf012556dc17e7b096e3a1d810dfb7e506b3972d9f43cd51fed9222a59488a6d263f66066c11caa0829c9dbb487296a8fb5d8868d0eb9f935572a729b19283b86d33a139f5e2466a5d5d18f0b35e7fd58efaae18de89b01d44620261cfa7c61ce2962c9cb3f8769c723835b9993ec81f05bbbc8efbc26e7466f9b55b0bb45aed22f7f5f61f9e2a2da82a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89061491a40456307299694f23ed3484/89061491a40456307299694f23ed3484.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "yugioh-sevens-9390?ep=70663",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/82850e0d594e2d328a475f1bbfbdf8aa7c0fc8fc791e815821a4618183e5fa99ac158360ae950b463c507c8b17f5737828d0939f2cac085097e5895346e82b4ef09009848e0d06b1e1d384b28db7e4a087e65784b03092d1e8206114cd0cc719922a8bb23bb6fa46a7c0f2d1eba7e05642f5dbd1626c3edb4873accc8e736acf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17756137385f0c44bd799c3c71a795f7/17756137385f0c44bd799c3c71a795f7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/82850e0d594e2d328a475f1bbfbdf8aa7c0fc8fc791e815821a4618183e5fa99ac158360ae950b463c507c8b17f57378f8c7587890a6f65fcd6062884a04120d7cb73d29a11aacae0ba802ad023b9fb9e4d6de0619ef54d462d4581549275a7bf940bf02ff9ebab3c9f801274ea66f1a6b2366e05ff71b4a554841199fd5a51de9f0ab693fbe2c57339bf40c17ed2195/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17756137385f0c44bd799c3c71a795f7/17756137385f0c44bd799c3c71a795f7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "yugioh-sevens-9390?ep=70664",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/79682a1ca5c9ab098db5e730e75a7da6201f25a81870c2194258da99768ba0d2f84b864089668c0fa7758d7b8488470f111136ad32a42dfd2bf094226aed8905ddeb840f9b2612c6f58a1079cd756b6275b88585b75c1ca2bdbcb0413c2d49d0d4ca86e16138cae9eb864668e676c305faf9a62d8d4557cb108b964d56338fea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/176adc3c7de51f6da9c6e0c6d00ea8ef/176adc3c7de51f6da9c6e0c6d00ea8ef.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/79682a1ca5c9ab098db5e730e75a7da6201f25a81870c2194258da99768ba0d2f84b864089668c0fa7758d7b8488470f814cf378cef057a4afd3ad0342ab99c1287af9ac2272c09e0476dbfb473f376184ba59a8a6ea50f4cf525a2c795b2a9ec1125f723f4e8a8d172e45deaa6583272004e35e3d34abcd1f527d1c48cc6dbf0d09781da7db79fd11e6c37a76022ffb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/176adc3c7de51f6da9c6e0c6d00ea8ef/176adc3c7de51f6da9c6e0c6d00ea8ef.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "yugioh-sevens-9390?ep=70665",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/93492aa19ba92e844f48504eee1278aa414fa622c7bc1825c637fde9b3024563c09255e2eb0f6165a380b0b7f42651fc61f744c2e24a3b8c691158d1e8d7007a0d9105d20da56252d94c993d375c10c726537bd686adb21c69378513023c6fc48c8a3c1fe386ad727fa12f959ab9b8650c65fc3fb641bcab64dace56a1e0b570/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef9c813ad159840cee02871d6cb1131c/ef9c813ad159840cee02871d6cb1131c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/93492aa19ba92e844f48504eee1278aa414fa622c7bc1825c637fde9b3024563c09255e2eb0f6165a380b0b7f42651fc6e5decf7376f90939198e58bc76cf4b4e9d5f81163dc18d89bd92668f33aeadf0eedd71d16730260e72911bfd8ec08b279489a1d0b8e9d0c717a0b262c6d974435aa857ba07cc60f992b2c2ba23bc689aa27fbaf3dd938b4c6df5c36ba7c4ed2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef9c813ad159840cee02871d6cb1131c/ef9c813ad159840cee02871d6cb1131c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "yugioh-sevens-9390?ep=70666",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/57c5c4c7856df85f2190201199f01b3e84878bd2c99e3607275d60ab6fe1e314a469bb45a848f49e8fbfae1f7e802ee274512a0ccd1f4e27ae78b8b01499fe18803c5ca1e643ae312fc8b2b9f89f7a589abc39bb591df504aee15c84161330ef6cff51cdf425d04ec87f7819b3ef05ea96a06297e2c62325cedaf5cacd05a154/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/488f37a88134eb463e556866f69532fe/488f37a88134eb463e556866f69532fe.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/57c5c4c7856df85f2190201199f01b3e84878bd2c99e3607275d60ab6fe1e314a469bb45a848f49e8fbfae1f7e802ee28617fd7bc6feb7f66d60fedbf81ea3c5215c49ba6d3f05f00e31f1b363a2e9b5a17d3f0eb73fcb7b807900419c7df2386b11b9d2305c66fcba3438cc18e4de6573ab86159caf154ee37d68c0ee5db566188d06db41032685f85313b21fa2f4db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/488f37a88134eb463e556866f69532fe/488f37a88134eb463e556866f69532fe.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "yugioh-sevens-9390?ep=70667",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/81b013934a446d1b6f1ce8c28871b1a3f8c444cc47ad3ed55411d56fc27500f9cfd0e71011f26cf156245c70d4073b68b0c69befef4fe4d8d91afad50da893e8b0d464890b6afcb36e22a20e0e1bf5963fcdd40edb22cc7e047a28940b336ffd3b28108c0ab4e4b0f05dd06a8ae144438f1c18b45a8c27f52e41125f8f2050c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fadfec67170b0a349cf8be5948aba958/fadfec67170b0a349cf8be5948aba958.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/81b013934a446d1b6f1ce8c28871b1a3f8c444cc47ad3ed55411d56fc27500f9cfd0e71011f26cf156245c70d4073b68662313345f69d088349c803af5f9d00e58fe4d22c8c21bffbea228e2e577dc1b889f8873e9ee8b7bde26df1291ab957658c61a49d5528467d89b00cb3b5e6b62160eadde7f4f2f4dc94bf19be5302f2494484283d7cc90237ca270e0d4bc0ba2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fadfec67170b0a349cf8be5948aba958/fadfec67170b0a349cf8be5948aba958.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "yugioh-sevens-9390?ep=70668",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9179b1b539c71bad264e69052f36e28ad4173fa8951e7b70a2f821f1bb28b08e448709beaa17ab22f6d2ffeeab0ba517202e914c95b9e634634f2be90c45e1dcf7b105a0e8c2f73f69ad85bb8955d8ee2317eeef27092074cdb5d3414639aa3eba2d3cbaae79d032ab1c3b3942272340b5d9a5a0cb9a4aebbc031b9b0a415a71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/842f5f2df24f9d673f467aeeb23ddc49/842f5f2df24f9d673f467aeeb23ddc49.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9179b1b539c71bad264e69052f36e28ad4173fa8951e7b70a2f821f1bb28b08e448709beaa17ab22f6d2ffeeab0ba517696a8767eed60729104f4155cb7252e75c24a0f643efb0866517c6b193700b7ad838e535628f4cd24f15afdc4fad10a731875162952f9353d488a6e2e9e71f20f2c29b1bfc9e03a497cb8ad8d165f9e820505267dedd768124c3dbfd7f3bf86c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/842f5f2df24f9d673f467aeeb23ddc49/842f5f2df24f9d673f467aeeb23ddc49.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "yugioh-sevens-9390?ep=70669",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cc5a9d963e614e4709780611526a55d0ba562975f8b95c8462720364cb2b9f628fb54e4fbe7d5023f47882d4ed18e3e0731216a2e780abb5529eae8be3cea185f9b870560da63c534650383f537e292128d48284c0bf89c0adfdb095c758a8e2d637e8117ddb15159fbe61fb383fd269fcb972a788ad77d17fa6b532219c2412/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d753c21e85603d5b181dad2bd0595ec9/d753c21e85603d5b181dad2bd0595ec9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cc5a9d963e614e4709780611526a55d0ba562975f8b95c8462720364cb2b9f628fb54e4fbe7d5023f47882d4ed18e3e0c9ab92d077503148998bfce2bb22ba11ec6c78102f738ebc5b56d04a4a9af8e99124b542c61c01db3e2d99ad7b30328fc206d1957d34fe3c647d5105cd2e3697f2c1c1a8f8806700cce5ae3e0e355e965f5276f9cdee5bb55d19362a73ea14ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d753c21e85603d5b181dad2bd0595ec9/d753c21e85603d5b181dad2bd0595ec9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "yugioh-sevens-9390?ep=70670",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b5428430be4d90a31382cfcb620406792b7331716b1ccc63620de0b850954c9bf2b1aa92e7728b543aba70f16a594104d6e5abfe87e245dedb720789c1b663efa8ebe5df389244124198255b4fedd9d590046d3f0f318684880edaa50ddcf1000b565c57ee2af64cca9d7009db89515987ae60612f3659d1fbaa4b5a8bf4edd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d79c1d2725a4c44f8a885334d53fa34a/d79c1d2725a4c44f8a885334d53fa34a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b5428430be4d90a31382cfcb620406792b7331716b1ccc63620de0b850954c9bf2b1aa92e7728b543aba70f16a594104b1de93a8aeb8c16784d25eb6eeddd9c63e7cfa5135c9b623390088d308d2a488f8eef65031d7e44aa61730c44db9c2152cb280d9406bba20a9ad76c972a49ab9ddeff4fc63368a3e254ed33d83628f0b705711c367fa876eda78014a39b43d6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d79c1d2725a4c44f8a885334d53fa34a/d79c1d2725a4c44f8a885334d53fa34a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "yugioh-sevens-9390?ep=70671",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dc366d27d69e3db3d966db6e3645692d6ca1c9c131fd9c2a0f3d3c25d4efd5d3941b08e2e1d5964b05b8da87fa317824b9335d5085f39e65fa163bee4d7dda85e9167e9006f8dfd6398192a00eff674bbcab458eda39d053c10d27547b5764ab3ef51585f26344178ff6e087b92778786156009ad33ca748d141b147a49d1d7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f5f7b8af9a578291fb82513da0a2300/9f5f7b8af9a578291fb82513da0a2300.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dc366d27d69e3db3d966db6e3645692d6ca1c9c131fd9c2a0f3d3c25d4efd5d3941b08e2e1d5964b05b8da87fa317824206c183a26ac317bd750eabd671e4570b932f39f0189afed6e16a336ab9d980f3b13ecf1a1f191b6557832ad5f23c38828304e7758ab1e29ea7d3d446bc43df71f70a7d0ad74e07afb36750c00359ebc0d5afb4904fed26a2748e4a0a85e9a1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f5f7b8af9a578291fb82513da0a2300/9f5f7b8af9a578291fb82513da0a2300.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "yugioh-sevens-9390?ep=70672",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/88191deefe1279cdcf684ed4f5a81807a719f0d60b887aa449d0cbdaf5bc3b17f78c8518d7a2111a73d0b6a75476a3535699ff51f1d917b653af2b0baf24419803d4379422aec0e6eb3fde4c7c9268a573f9f6d984db6ca2de542f58c15a5662db738c12a11eeb39729a890e794a1f1356e77d45d9eb16a629096c47d73454db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68bb8836582ba23c963cc61875ce423e/68bb8836582ba23c963cc61875ce423e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/88191deefe1279cdcf684ed4f5a81807a719f0d60b887aa449d0cbdaf5bc3b17f78c8518d7a2111a73d0b6a75476a3530a64d269c04005e8a3a5bebcbe57a9c773e47c0eb422c272dcdd3c41ba06346dbdaa912759802f303eef96058dc6bf6a3bd7183efcc54b068c3c0ffc1d6c67778ce4823f999c1f9adcb7d7507fee1b6f88b0cbd95f7088740a8bd292c4e36644/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68bb8836582ba23c963cc61875ce423e/68bb8836582ba23c963cc61875ce423e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "yugioh-sevens-9390?ep=70673",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0a0692e1f01905a51e7c191016fcc9582071e5d780a14a35b80436f1d45ede3491fb973203748db04721ac1311e2f30c25583964c39339c55eb98a1283f88b6a98fafb816f2c534af3bc67562c400dbe76e3592782a84e5f08e51e7fd9c8b4a7b871def6812b6022f244805601870ce66dad0c0c4c0aad14b14982c1ae85131c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/651e75866ce640b8c996c0123bdf227b/651e75866ce640b8c996c0123bdf227b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0a0692e1f01905a51e7c191016fcc9582071e5d780a14a35b80436f1d45ede3491fb973203748db04721ac1311e2f30c2f57c8f8ef7322c96cacf35faea9e1cd1272bb0037e79883b5797c00afc4b2af14ddf84cd253ff94888aa49c601c79d0a36b3b8a83db3bed3f9d36293e4476f76e16a5207aaa98fe1703a1dd22f7e7386b18b04c5b3f34502eaca2b6384f2af8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/651e75866ce640b8c996c0123bdf227b/651e75866ce640b8c996c0123bdf227b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "yugioh-sevens-9390?ep=70674",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7ef6e64608c8d78fd8f3287067ea365c6ba35327c8dfe46365b04a7f2a4c38b35f3379521c619d0bd1fb5b022db011a9545936ddc07125cbd96887a06d169616d7ea4b024c3a4c6281ee22ff5c8731235d7a65005e5f02d187f98cf429ed29094b82aaf36c2d7b26943e3c4579dd8d9db16bb7878b2eba88fd8b326e4efb591b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9afea937723963f94e403952fed3a1b8/9afea937723963f94e403952fed3a1b8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7ef6e64608c8d78fd8f3287067ea365c6ba35327c8dfe46365b04a7f2a4c38b35f3379521c619d0bd1fb5b022db011a922881c04f6aea92d60e2f1d65c7b624095566e4b7ef6c59a646636ef943c252f1eaa397501fbffa227ff67bfb5987d7907d47737e9aebab3f0c4416a398f16887c29192555e4bb552617ffe98ac61ad51bf818e89bb81baf85007dab3d180e4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9afea937723963f94e403952fed3a1b8/9afea937723963f94e403952fed3a1b8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "yugioh-sevens-9390?ep=70675",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d8dc5a282bbb47647c1f2456a15d30578bbb6caf0e1398b1b1885b66e14f3aa389a44c58f0f80912d5fa1df8bae2466cad0471fbfd3255569f97983fe4ba494e98ab1c1d6bace35a25566945698ff22e6a1063a97f320ddbbc3fe55f7e091a642753e14368f94da5e64fbed6ace9a3809a332d853db4939bd150d6fc7ece437a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b733a10c45b76ecf32bed621c930eb03/b733a10c45b76ecf32bed621c930eb03.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d8dc5a282bbb47647c1f2456a15d30578bbb6caf0e1398b1b1885b66e14f3aa389a44c58f0f80912d5fa1df8bae2466c8d74eb44f6c3b0ecf3ab5e71af916dbd0b51f0052794eec664b24eb38fe98a6de115da41e8590a1a746ea45d536511de918fcfc6aecb1bb2b6742b138d1cf8d1528997f20eab31f0d5b2f20dc598ab1e1c3c7b871ed572d30938bb1e8adb96f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b733a10c45b76ecf32bed621c930eb03/b733a10c45b76ecf32bed621c930eb03.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "yugioh-sevens-9390?ep=70676",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6195bdc86ebda188dcfb646c82bc3d89c848d9970fea99b9d44dce915f9e95312a1bda081d62c60c912a15038a6e9d49545ace8167740b5b0b98ce6663fc4f388cda20f1be0093f6ab663c64dc32ca48bad32c92c672b609c4514eed7c1ef2542c2d245b2b2a832f0a876c38c3f84a9a76e05d1c08268c472b8f9d5e79f4deb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d169293eac34ef689fafe05adc4962/39d169293eac34ef689fafe05adc4962.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6195bdc86ebda188dcfb646c82bc3d89c848d9970fea99b9d44dce915f9e95312a1bda081d62c60c912a15038a6e9d49dd9653aec62c9317cd1132a915902b13bf7624126b9419747d003e5260aec7272cb045f5eea4e7bc2e5d3df41d8005f2f01e2de68f07eadbe09a333a016fdbb0e10743760ad9dc8df55987a285b786524a64211610825d9702fb2385272fb7c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d169293eac34ef689fafe05adc4962/39d169293eac34ef689fafe05adc4962.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "yugioh-sevens-9390?ep=70677",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/64856026c0ed82e43cc57169cc83e286bbd07d70ca115a6d9a380a3599a568ed3eb55ace4b884c624b5b83fb382c2828bff1dd944c4179695b7a24e3ac25d68aafdc1e24451f31c7a2eb6f1e9b070f04838ca3781fc966be82bdf5e86d6b4522f01dd5a2426e823cb9df3a7d4bbed8ef8a833cb0a105b9274fb606d776cbf73b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aeb28047c37385ce44c5cb908c095c1/2aeb28047c37385ce44c5cb908c095c1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/64856026c0ed82e43cc57169cc83e286bbd07d70ca115a6d9a380a3599a568ed3eb55ace4b884c624b5b83fb382c28287012c456bc35aa88c8b549e91a4b65e4bc4f79854ced1e95311c164cb4a0c93822be5c00740329bcf90257aac9cbf41dea2331568fa6145f04eb5b3106700ec541dc811a596d91680187145f615586c09fa1ecbd42eb3ec3cd82490568fc5db1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aeb28047c37385ce44c5cb908c095c1/2aeb28047c37385ce44c5cb908c095c1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "yugioh-sevens-9390?ep=70678",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f561801624298390d27b8ea1f0c2e93da855c5149e486028dff19d7b43705c794143720155506e39ba07696a41570d81e58b93a3359ad1978255b625e4c1bdbf3452cb4c66fdf7c958364d2edfeb3106098adf7ee00302eaf3d66394743ffed81aecdc9407505600ec1697350496bc7442cb0fafe8935ef0c82add48334bab8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abf4e69cded166160142fff6fea217e3/abf4e69cded166160142fff6fea217e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f561801624298390d27b8ea1f0c2e93da855c5149e486028dff19d7b43705c794143720155506e39ba07696a41570d8181a471dee837b2de34ec3e630661fa707a76906d0cd658cf1ab125cc68e820313d1a36df997bb51b73396abf651fb37604c37333829c44e2a16f7e70ea1dbffb0853549607e72d83bf37df7b5e3af2b215f1fa9391f4f30eb8e23bad5262d631/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abf4e69cded166160142fff6fea217e3/abf4e69cded166160142fff6fea217e3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "yugioh-sevens-9390?ep=70679",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c81e5f59832906647009ea728dc3838c655497b623841faf020033327475da26ecc024cf89df1deeb90ffbbeb49aef14945001aa6e046d3192f19508a612830d167d34cef1a0df744cf33d464604d55542cc38e9f853882e043639baf6fcd50fd02ee2a7a113a3c635a61a3d9d139ff30496093b5f017120abe8d62bc5353c7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a99bbc789e6b7a21b256b3b4be03c95/3a99bbc789e6b7a21b256b3b4be03c95.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c81e5f59832906647009ea728dc3838c655497b623841faf020033327475da26ecc024cf89df1deeb90ffbbeb49aef1475cd1d76d2fa1fb0c74b76f333292201792ac2d0ba9f9c1a0c6a90cc7a7baefda6f9e04e28333154ef1eecd6f80617a95831faa0e7415dd9922f4956990bb1a057917450caf87d6b1b7f14944a9e8175ae2a60d28878b970dc2dfcbd3fd962bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a99bbc789e6b7a21b256b3b4be03c95/3a99bbc789e6b7a21b256b3b4be03c95.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 40",
+            "episodeId": "yugioh-sevens-9390?ep=70680",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/04ef2d04d69f4908b15ec4707309050143a42997481249b7b2617791a5646e79379a742301399876997a586c5ed4f2fc367681b8346452cf38f3cfc6b06e92e40a953923c00015186a21f1bc71f049c1846c459d1f9bfffbfba286f03bb059cb47935816c422c490efea094d508303c4eff4b9d14f2763e8b36a385e9a3b7223/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/105637dc5617471a203289bc0ffec1cf/105637dc5617471a203289bc0ffec1cf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/04ef2d04d69f4908b15ec4707309050143a42997481249b7b2617791a5646e79379a742301399876997a586c5ed4f2fcb8d8e34bf288adf1af59666113435a33fd88e260a213c655f5f79f34c84d6492004154d732edd3b52a5f13dfd8477f1be06f0f7d86e1b0e26489090e467decf7af6d9fd6ccdfa072083d5873e45ebc0fde59eb2202f9bc1d7f34c4ced2150323/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/105637dc5617471a203289bc0ffec1cf/105637dc5617471a203289bc0ffec1cf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 41",
+            "episodeId": "yugioh-sevens-9390?ep=70681",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e9330e99566af34d713ab30f5707ba1edc6b4e3ccaa31eb6c690ebf9c4c969c476dd2f829c101a6f5bf1301138c16c8f192c377e23ec46e8b54bf01d829af0731cb4abc822a1c4317c849b88a0be48b89dc1a57d3bee846654a937fc9383bf0304e4a4fad868a25cf7deca05a777975b63b993ce2fdac82a7462bf77eb0c3d81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7798d00bff64f4199b4a3460e890d470/7798d00bff64f4199b4a3460e890d470.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e9330e99566af34d713ab30f5707ba1edc6b4e3ccaa31eb6c690ebf9c4c969c476dd2f829c101a6f5bf1301138c16c8f1bfb0e5404276b02d83e2de7a803d9a8efd255cef31553a1429b7606ca7ce3bd12dab065031b077163658fdb81cbde5b41a96c8a6d58e427e102500c43840116e575a666a82291b7226b5e1f514397460c4df1fc27974b0ba4e8afda384746ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7798d00bff64f4199b4a3460e890d470/7798d00bff64f4199b4a3460e890d470.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 42",
+            "episodeId": "yugioh-sevens-9390?ep=70682",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8d28e67fd437232e78705daaddfb612053827db3e5abcbf551220cf820bcf7f421043782f2639447a8815338af32cbe28eee0eadc220ff4862c1a887593d615c4f97624a75629050e96841ac481bfa5a9d490d644eeb53f132499f8b878e819c52ff27f323377d8255bba209f8deb56cfa55dec230787a5f642efc6b58e4a041/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce05e0ae1504e5be2b9056d773b983a5/ce05e0ae1504e5be2b9056d773b983a5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8d28e67fd437232e78705daaddfb612053827db3e5abcbf551220cf820bcf7f421043782f2639447a8815338af32cbe21f419c558ef92fab4fa12c560883b992bda455e7e706a8ff39e1d743e6806fc2450bb4ba45879ecc81cdb6e6c57a08d8a292aa090ec60f33273d1afd7077bff5e824d656f43105b40566f84ad968a00c4e51bf8a43657b0a3deaf4166e99b175/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce05e0ae1504e5be2b9056d773b983a5/ce05e0ae1504e5be2b9056d773b983a5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 43",
+            "episodeId": "yugioh-sevens-9390?ep=70683",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/be3fc2f80e69d0324865edfb6000d39b2bae6cc63898ec909b897da4d1ee1d2e3aa3088b16f9cf43e48831c887ae3292e904d63ce0b882ef9b42e78548f358ba562239f669748c4029137a2d8430119e1b144026cb137974420780080b7fa514906b05da9cbe1e3fc84373e60db54e50d9b6a0e5f5712146f4697efd57cdc004/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b761c0e158180b4c1ac41c9496234bf/0b761c0e158180b4c1ac41c9496234bf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/be3fc2f80e69d0324865edfb6000d39b2bae6cc63898ec909b897da4d1ee1d2e3aa3088b16f9cf43e48831c887ae3292549efcf1f013a80c45fe9af4719b3e417fb7c0c0941576a8932052bbe9b4c10c77bb8bf50ca950249a5807d908fd0328b01f5446dae73ae272eb848e4fb717c8838e768d99ab418f354e33cefca73ec8bd095855d86333489390c219df0f8812/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b761c0e158180b4c1ac41c9496234bf/0b761c0e158180b4c1ac41c9496234bf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 44",
+            "episodeId": "yugioh-sevens-9390?ep=70684",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cb27a1d3b8a2fc5e16edf75c3a541d3102e08422df33c0231f8a2c796d0812eea08c25894a5fb4df7415b562a75b5f8938f68d62384f7d9135cfc5b3b4955fa6a8dab57cb54a61b7603dfba272166d77761f60197791ca2a904d7044608c2f73edcb1880358e55b1e30046b888dc01e0b6cbb872499692d6e8b3bed5b3b678d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b66e9d3a89231fb4523aadab4a6aff09/b66e9d3a89231fb4523aadab4a6aff09.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cb27a1d3b8a2fc5e16edf75c3a541d3102e08422df33c0231f8a2c796d0812eea08c25894a5fb4df7415b562a75b5f897c8520e5c2492103b307e2ef434fcd7c5404d1fd15b18d64e70c3794bcc93e24bbf47a68877915fb6e975001b8cfeb519da4b6fae99a1e23e7cd7c56af88423022d204439dc87222b4a425efdc3929d7d9df655f4dd0aa2074ed67266a9b4052/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b66e9d3a89231fb4523aadab4a6aff09/b66e9d3a89231fb4523aadab4a6aff09.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 45",
+            "episodeId": "yugioh-sevens-9390?ep=70685",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c63b33603fe428495abc46692d7e3f9e1b709555feca73b45e9ff275703617fd4850e0c38f6f66dc3a4c60112d285bc0d9aec3ac29cc6b4cecddbab7e8b591be2acdb5a8f8b3a00df6ab3dc31544ffb5e11e711e28484cc4fed9745bd1956a1c5a740950c644854340e6ecb59ef1c30b8baaee1e0172d9ad272a4e3cee678e12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/49e6848fb0b5674fc3d673e94bbc02d8/49e6848fb0b5674fc3d673e94bbc02d8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c63b33603fe428495abc46692d7e3f9e1b709555feca73b45e9ff275703617fd4850e0c38f6f66dc3a4c60112d285bc0fa3725fe81aa690e80429ce729fc2f87e9d942f689f4a475dcb96bc8e6cf0ff557ee6a64879fb84abe737404cac1dbbb37b323a1e90d16227c6063fd680ec91de2b8747d8c7fd53c2ed4827ce70fc34d624fde5907d94542d2463e59e0c967aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/49e6848fb0b5674fc3d673e94bbc02d8/49e6848fb0b5674fc3d673e94bbc02d8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 46",
+            "episodeId": "yugioh-sevens-9390?ep=70686",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/376592b7555ae913998eaf172dbfa92a3148128ec5d37502c1eedd0814a8136a6692253acc14fc0511d02d8910e39cf4086da15880f2a82e836ceca55deef6c6cc65366ca2689887709fd2ddac3806b6308e1027a70779f1914a1ac68bf823aff8fd9baaeea01db17b8b932b8b92f1e847cf639d5c4f33aadff8c4122242d67a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbdd1b5c4924b498accba0b9626d1302/dbdd1b5c4924b498accba0b9626d1302.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/376592b7555ae913998eaf172dbfa92a3148128ec5d37502c1eedd0814a8136a6692253acc14fc0511d02d8910e39cf4ec72ceed5b0cd263507c25b6234ee4f003909a40581c33c14214f659e7bf0e4019f2bb59dc7e879c7b98fa4f086e083455619f1c7eaf02a8c06e7a77354098839000ccaf2960d881ee1b0283daf8ff4db441a64ef31c0ed914758eff14d8536b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbdd1b5c4924b498accba0b9626d1302/dbdd1b5c4924b498accba0b9626d1302.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 47",
+            "episodeId": "yugioh-sevens-9390?ep=70687",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/001f658e0bba0b409325f87cdee579d51f34c0f1fe607bd4639dfda8ac2073b432f433b401956c5d5a61b60192cdf3f25783f09ecf6a84606f02390f8f6c76f9de25e832b20a1d5b9ddd9f98d69a8dea69ca1121ab2cbabbcbbfaffd04100352ac82aa273d0e957c975c3a17ebcb5013f9eefcead3db5144c539b7e67ae1c2a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58a13bd8059950311ec40442c19e83a3/58a13bd8059950311ec40442c19e83a3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/001f658e0bba0b409325f87cdee579d51f34c0f1fe607bd4639dfda8ac2073b432f433b401956c5d5a61b60192cdf3f220e85a3e7c13135b25529a4ca39f33ff2f005bf08cd51abef967f08bca7132abe0720abd537df0c24ef8ff5aedafff8ba170b055c608dca350735cc37a17748b2e1c888f2c685c0482574864242256dd19cf93f39f9b91558c95730007741f28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58a13bd8059950311ec40442c19e83a3/58a13bd8059950311ec40442c19e83a3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 48",
+            "episodeId": "yugioh-sevens-9390?ep=74059",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/334d5cdddc176813b4ad8538d298489ff0ad19a37e9d877d8d4e4f032fdd3716013e03a3d3c17bf979bd041e2e27fb4338c9ccd62c1cb2637b1b55ef34b15d9c31ff3870d2820941dc9edbb3bb1c4f2fbe821f61596b42ba83a1d1ebed50a98ad102ec27f7c2b75ed11ea72fb33741192c9416a3d42163a415b56a5cccc18da1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35049423e9531d00497a30d25e495545/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/334d5cdddc176813b4ad8538d298489ff0ad19a37e9d877d8d4e4f032fdd3716013e03a3d3c17bf979bd041e2e27fb43d63f363030b92e72241d07595ce91b67f7a8b7e59bbc040f1ebe788f06f5b90661924fab7f8eb7be8f0ddffeb23b49678d557fee61155c637aea06720ee13a60217a3620c41821e46926f318b98f9654d2a3f327f07b69f915b4650de7aa7f87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35049423e9531d00497a30d25e495545/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 49",
+            "episodeId": "yugioh-sevens-9390?ep=74060",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/74ab0bd588f170d2e8710313c301da7d80efcc40880e2380c4af6ee1ff2a62f84aa926c66443ece66f96306eb3789db5a6df749fab4af9c25dadf9e34c53fa1ec0fdef5a2cad916cae00531020b78d247509297acd4ecc027ab54f88639a93257656bbcfe6d78b7e54b7a06f97a5aa87573c83d3e79ad40b31e3f4f61b7e190d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18ccf555a1b932a70392be318f3d6829/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/74ab0bd588f170d2e8710313c301da7d80efcc40880e2380c4af6ee1ff2a62f84aa926c66443ece66f96306eb3789db5dee61f01e90e4740a54fbcccc22bf8912227bc702a428f7300fe014955daa304af00abd56c45ac797a0608622fd014afb708ec1c84f98b9aa9358b42b2246db982ca3a0ec945a9508d927fb63ea89df4c7659304fb7b40ad9fe0c225f6cd1b72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18ccf555a1b932a70392be318f3d6829/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 50",
+            "episodeId": "yugioh-sevens-9390?ep=74061",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c231d6c044de3f22816b5868e29b4b09791f32c65f4fe1c56ec1baf6cbd7ca16c14ed5a68f63ec6cfa157d4f1335be0330c47cd55a6bb96937927c615319a4952d8fe3bca1d4ec264a0c5ecb9b33fd6f94f0a3428963e43a9c12c5cf3488204dc11c897236dc4fd156af21381300e363de9408dbcf439301fa62b9345f4e49c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb635288fc6c792ec78e4377afd3b929/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c231d6c044de3f22816b5868e29b4b09791f32c65f4fe1c56ec1baf6cbd7ca16c14ed5a68f63ec6cfa157d4f1335be033a41e06e413aec6f684a0064aa4903ef7202e6633df54bc0b33ad3760eaf1c3da15c3934a397f4fc38d804797305686eaeeff6139c73f6f52b9b61959186a8a57c64d3870353526ed32b3c3b2b78ee0549d81794354a87a4f707e9b1e66e6ff9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb635288fc6c792ec78e4377afd3b929/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 51",
+            "episodeId": "yugioh-sevens-9390?ep=74062",
+            "number": 51,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1e066a584b0349d3b5f01187e0f6d0fe5a5360637616db01431c5699755214c236725ffd4f00876564fb764ebb54fff5f612c0e9ef517c8c60b2d5ca78501317bf4efdb3caa381aa578bc421d86cf350313f12dbcd002ecb8a68d48abf37009802d1558eba2e086d8fb6dbf688f084951f492d5f3d99454916dc03c3031a7e73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b8dd117c15782c37d4b7bacbec866ab/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1e066a584b0349d3b5f01187e0f6d0fe5a5360637616db01431c5699755214c236725ffd4f00876564fb764ebb54fff58ce8688f9b8724a9ad3bd15a9008359069bcacd36296d3852246d0f1d260a8e1c20f0830cfc6557da42e65709d163cc211a3527eec077586881ecdb09a9c56369f24afb184d7321b8b2f98c07cad8938c09fe37b0be7bb57ba1558e49c368b57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b8dd117c15782c37d4b7bacbec866ab/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 52",
+            "episodeId": "yugioh-sevens-9390?ep=74947",
+            "number": 52,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e407d05a9ec713d6bc610a05883e2fc155c2914731c073eb5a02ef09ab92c4401476a60d5eef0249aab8476a260c5af3994c5ab42b257874d21b3431a04b9050ac8dd5e0ed9e5cdf234bdc3b02d94aea39e7ca5a873be87ba57dae05d948b1c9e43e695f98bf8d601ba1c6656dde54d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f940cfd68d54a0c8b3f61d5431282eb4/f940cfd68d54a0c8b3f61d5431282eb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e407d05a9ec713d6bc610a05883e2fc155c2914731c073eb5a02ef09ab92c4404400bd3e8ca541b95039999838585f02608fedc484d878de4afb5eef737dd2e4304660179a36b60ff9c6cba7cd8d0b6f8d459d2a0480adc49aaf05cadda1a3c7798d61512efe1230151e4076e04cb15c7d0886626b1cf497a7c16544a59c0292d1822bcb362a249175071f286338d911/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f940cfd68d54a0c8b3f61d5431282eb4/f940cfd68d54a0c8b3f61d5431282eb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 53",
+            "episodeId": "yugioh-sevens-9390?ep=75982",
+            "number": 53,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f2b6864cec37bae0412c05294d608f60ac1bfe120b21635128a5a2f2889ab98e83dc2c013c84e31ff6ade776f5807e5b92643542be52f8118d839ee1c292130cb586786f2de20ea6979da70b169211ac00fdd5c80a9d85b09359dab6658eefa0da0ec7786e099dc3fbf342a923e99df5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d42993069ae9acdf298141aeca8d2de1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f2b6864cec37bae0412c05294d608f60ac1bfe120b21635128a5a2f2889ab98ead92426693fc8ef8cde265b7fcef68c0228da0cc9f79c0a840bc27c5613d27310f2573bba5ae178fbc4f6c21a2a2ba648d77de466bfd1ba21c6c6474d3433b4d2803da164fbee8120559edc3398f6af6e2ada7116081b9b233c01ca90893019e494e4ce554ab315eca2667237d56eed4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d42993069ae9acdf298141aeca8d2de1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 54",
+            "episodeId": "yugioh-sevens-9390?ep=76999",
+            "number": 54,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9900e28023fc32ac49b13fc850f16f34a1f4f6158efd61423d4e39fe62a505ad9a4cba3bf5f69723de83b19dc0b0088ff5b85e3cfb69f0ff17934ff2829fbf55d6fb369004b6aa6515d05adf58fd902faae8f73c2b500a508679dd61f2f3b66c0aa9e1abd4066f0671c174e6f37db89e65a76609dce43d61e34e5f7db16d1574/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d48746610e3562d46e6e39922eef6e0/6d48746610e3562d46e6e39922eef6e0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9900e28023fc32ac49b13fc850f16f34a1f4f6158efd61423d4e39fe62a505ad9a4cba3bf5f69723de83b19dc0b0088f41772a7f8252e38c95f204f21241b06e862d2c4a3f3f3e2ce38f761b84fa7b0b1c46ba3c6454efc48c2645e2b34d43c2857f8800d1b8012467ad67b2652746fa14441ab26a92e32dd049189762d5392a0dba259d46337411e79872c03ed9c0d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d48746610e3562d46e6e39922eef6e0/6d48746610e3562d46e6e39922eef6e0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 55",
+            "episodeId": "yugioh-sevens-9390?ep=78725",
+            "number": 55,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/29c954eacb8bc9b424456e785b7819a0a97906b4266d43121aeb2d9a042f8b6adeb58ffd136aa6ec61a88cff6fd989c28609f179084b28e25c6355856111be333f2338a9da2d8314a38a4e349d8491154a31e376bcd13100627e959c8d80c6c7e67bb8bca02db0144b659b13c1dded4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7758b9a9c2b7785debfeb4aea98a8fb8/7758b9a9c2b7785debfeb4aea98a8fb8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/29c954eacb8bc9b424456e785b7819a0a97906b4266d43121aeb2d9a042f8b6ac76ce4d9d4c14d1a7d7ba8ca8c5d4d1af3a5148084a3de6cafdeb594de4e7cbb50dc5f1dbeaefd436c4356c8fc9d291c7c9b5cfdbb86b6e1b6f99092fa46df1ff18dc2f20e7564a91e182a45947a283f6e3dc711f24a4ce50dc36e54545eab38118837aa89d7356ed3dd5affe2acc9e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7758b9a9c2b7785debfeb4aea98a8fb8/7758b9a9c2b7785debfeb4aea98a8fb8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 56",
+            "episodeId": "yugioh-sevens-9390?ep=78954",
+            "number": 56,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cd8e50e22613340b4b245c9a82f0e4422d155a7d015aed3f70e2321af9f0df99b92c4bf8b837bd0445dfa057551d1e93ef92191368f29f1e52f39a75b0e3ed1a458b096add9b70c16100b45c8bd3372c4ca946682590717c3fda96b1e52f146ac814a5b6d90b7c30b40bfdc34895145f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff0e43e5b62c8a84e58a1e78539b8234/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cd8e50e22613340b4b245c9a82f0e4422d155a7d015aed3f70e2321af9f0df991904a58267fd506853bda925a7e9d27e7ffd258d478e9abbbfc00e4f4c66d2a9f72e820a952b4343a9d5dde3eb3d9e1d407cd850b47bd8a92142c5d698f53033e6bcbe8db72806f936c37185f5f811c7ff23829329bdf52097fce3a20403add0e1837362614d62479dbb5ad056b4b287/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff0e43e5b62c8a84e58a1e78539b8234/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 57",
+            "episodeId": "yugioh-sevens-9390?ep=79796",
+            "number": 57,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8cac0feb140fc8592d73b00843380d4b961615f6f7a7617eb7e52deda01bdc99ca3c3a8cbb70d97f7a453fc9c5d34a152f87bcba8b0e50e77e0984d816e2c7fb1b3fbbb41a0fdd5f7d0a56f269e6a88d2f06a4ea5c1fcd33818da375bf757d16d1b49326c5ed9e10fe58050955f2a9e7f8999d9985d8ffcfd8f4a209e681ce83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9f62c0faf2d511aff27f36c16562e1f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8cac0feb140fc8592d73b00843380d4b961615f6f7a7617eb7e52deda01bdc99ca3c3a8cbb70d97f7a453fc9c5d34a15124b587baf3f98c6dbf815c0f0678ed3a97e9e5a7b6fd5c8b613c0b9a6b8ce77208fdb2b4c31a11c7d5e397897fc2eaf9dc0095fb5905ea2f8408e0ef0d0fc837c68e87580b681febacdca21e714beed27fc36c0435c7499b8b9d57715b81bbd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9f62c0faf2d511aff27f36c16562e1f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 58",
+            "episodeId": "yugioh-sevens-9390?ep=80046",
+            "number": 58,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8dc7ed5789e29ff9bc2ad1e7431fb7ccaa04d8d6aa7c29aa8bde517f4d5ce0735f28697ef57a7012f861a3b665ebcbbb3c48e6a9db0d677ea48722d1cffdc2d6c4a3918f930ce23cd2fdbc03a07c3f08f8e98c60b62969a6ddb02cb44ac80843bf6e3b2948f255f160107e22146c03fe01286303b6f12d5b25276a7d43f87d14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3ce85d55961b9b404849165ca2c6cc1/a3ce85d55961b9b404849165ca2c6cc1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8dc7ed5789e29ff9bc2ad1e7431fb7ccaa04d8d6aa7c29aa8bde517f4d5ce0735f28697ef57a7012f861a3b665ebcbbbea9b7d12b8ff450d2d14f42ff194ec33ff4e2505dea4e1df6f81b507321367c85b6c14a7090ddc50b32812aa5900bef095682e632e257d0321fb78c75fee0daaa4a686568396465bee0ea5b6ef5a8f5310725d361ae6ba4e20b14b9782b76877/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3ce85d55961b9b404849165ca2c6cc1/a3ce85d55961b9b404849165ca2c6cc1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 59",
+            "episodeId": "yugioh-sevens-9390?ep=81768",
+            "number": 59,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7ce9fcbc5d8f4c2a094d91ba69ce8ec4344ae27ec54857685ed08792b4992026e80473e39ede23d0dc9d068eaa627a3e2782b58797de3eec22e8b199b34a5468c58ba213144f63279b056603f85bba8835944d1b9e62be2debf4746080b4201480b556db6ea0c8dfcedb62883e37304189102d76847446706c4fa4ab7dccf187/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/707c86ff69f11fdcb6f651303ae46fdc/707c86ff69f11fdcb6f651303ae46fdc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7ce9fcbc5d8f4c2a094d91ba69ce8ec4344ae27ec54857685ed08792b4992026e80473e39ede23d0dc9d068eaa627a3e1601b80d5dd5aa17fca79e7fda5082e04eb21fc2ad52cca6f2f356cff98b8d9737a34abffc9e46fc7d75b24f4a2e767f656e87df3634e5e28c59cf1de4676fe24d41ad2f66a13929241ee19e941e70ff9374f917f23d969d709177f6a9e065f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/707c86ff69f11fdcb6f651303ae46fdc/707c86ff69f11fdcb6f651303ae46fdc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 60",
+            "episodeId": "yugioh-sevens-9390?ep=82434",
+            "number": 60,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d526476381622af6a770d81b584d091148c4e72535db67c6137bb3582864ff57120a4424a1dd42ce963d7ba0f6c7036600c6532e64f6a1d60a45cc739b219fc99a763b47d23e963c3b64fcf8dab5fab6ff34548d1100892d37f17540e4f0bf0c92d15fe3552603f73b23987180470c83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e3548a49346e93820c25e408262be63/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d526476381622af6a770d81b584d091148c4e72535db67c6137bb3582864ff57e963ff2f41c951a7afaa4d005458a27571f35fd41053abb5594e125e6937a70910af7b967599dfc006c8761bf7abcd964cdd6b71acc577a00f8688a1b3a6ce6ef2b4dfd71e4a8d3650a4179f7088f536415e463758bc7a10dc8a0ae0fa77a82b5a69ac220b7c978b95bb2b9c461d3570/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e3548a49346e93820c25e408262be63/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 61",
+            "episodeId": "yugioh-sevens-9390?ep=82460",
+            "number": 61,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bf1d8793d21698979ef43aa43a90b7633b395f3e81a87e2eca8eadb2d38c7a53f77cee798d0a26ffe41ed089179bec8dd633e9c044c1726f550305110eaf5b3819ea33f30e0cfeb06ca1db159f2748f43e06547466b84997118440f35410bc110f380ad494d1113c0d3f50f9ccb30937/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe4026015a1c4716b154b63995cafab/dbe4026015a1c4716b154b63995cafab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bf1d8793d21698979ef43aa43a90b7633b395f3e81a87e2eca8eadb2d38c7a53c081d9d1d2f7c4f4358297973b8a91435f5ac98d54d9bf5167b7cff09404a4d271a35fec4c759177ddf42759b2040be1717e398e0cf30b744ddad2678434bb175748e69fc2a5da42c8355d552a3b809551831dbb78bedad134e9a9867b271881f61adbf5ef85225408ba95e5b0fc29d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe4026015a1c4716b154b63995cafab/dbe4026015a1c4716b154b63995cafab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 62",
+            "episodeId": "yugioh-sevens-9390?ep=82708",
+            "number": 62,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1dde5502d8bb76f97cf7afbefbfa004776c988a1c3de524188ecc4096992918d90bb56743c54db13b6455dc8cf0b888adce3a35a1e59d0321714d8af7986715e3da4da9ffa76484a77605f99938529daa424560dad10e7821b39abb9c38684e4adeea9832c0d01208edbf50cd2e2c1ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc74df972374486331b7615b44045408/dc74df972374486331b7615b44045408.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1dde5502d8bb76f97cf7afbefbfa004776c988a1c3de524188ecc4096992918def45f123750963050e821aada575f19d6349d48e7b11e5f721d16ed7aeca22314f04443c68010f378548365240235e2a83d389323b463637570273f147a4d5f8691e267b91ea885284cae189f6705ee7d9d4246816d921b99d81b5470936aaf490d2bba4520deeaf1e1372645a7d3f13/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc74df972374486331b7615b44045408/dc74df972374486331b7615b44045408.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 63",
+            "episodeId": "yugioh-sevens-9390?ep=83045",
+            "number": 63,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ef10da3f736f2ae166a029b1d8294ded642114dac9c8583b1ed006918ceb732cb616d688ab0e36d164b9e634f6a472bab0961bcbc7958c903c36c1f7846fd85f6c6c7a8c0206b86109d5e57bac49fc6fa1e217ed54caf82eecbf65b08a7fdd9e3a2db87c85d35d9cf054431b2b408141/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19486dc1b055ff4fb92858beb6b5e0a1/19486dc1b055ff4fb92858beb6b5e0a1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ef10da3f736f2ae166a029b1d8294ded642114dac9c8583b1ed006918ceb732cf6574a356ee55c6ff960ddd332579bac60d9ef2e7dac3f4665dcc96eac549ce039be24b6fe0abcb8cf5fec0edd4c42a7c827f10bcc1b94cbc48874d051ebecfc76408ec9261540436fde17efe155d12a74bde16605803729a55c602b677671b0d755ec3b13aa0238c2e286a2daefcd52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19486dc1b055ff4fb92858beb6b5e0a1/19486dc1b055ff4fb92858beb6b5e0a1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 64",
+            "episodeId": "yugioh-sevens-9390?ep=83138",
+            "number": 64,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b7702017f0db7859fd34ed3dabe40f3ec35b2f694ba34107b2903c23cbd9fd65ccc5fb11dbefd80471c3deee0e2bf3d1fd41735e032618b9d0fe4e6147c640c75f1fc1c4372f885d384855da82499cbd2f52ca9646ac671e3c0d626798c0fd108070584b038c15019208d00fb1acd517/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0cf3554cd9f977a0a22954d2f14b3992/0cf3554cd9f977a0a22954d2f14b3992.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b7702017f0db7859fd34ed3dabe40f3ec35b2f694ba34107b2903c23cbd9fd656609b7f9b5ca0a3fbc0c51a9ad1a864ec8ec18ed0a9e408e13b6e4da534ac2fd5a65391b387b52e6708d0e4e1290383d9da698c281eff78b88cd05d2d6f374293db636c7b88c5432c9a9dcccaa76549570f096e33c6a3f767502ad365b5436f6e590ec4cf6bd27c969ad53576f099dcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0cf3554cd9f977a0a22954d2f14b3992/0cf3554cd9f977a0a22954d2f14b3992.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 65",
+            "episodeId": "yugioh-sevens-9390?ep=83215",
+            "number": 65,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c5084fdcb0dac59c43032e64ad43361002c9c7ce5e1d2ae863f3942391d91e26bbdf3a13f783b8fb71974fab5b5fcfe4848183ec9572e536fcbdeef2c1847838f6919513d9c4def3e1baccad3fa9d7fc246f15f0f9976fa4045a046ccf9348011303f9b85ed909fcb020875fe5cd57d0e1308119dc506261909035f6e45bc940/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc3104f859abf79994fd67d6873923af/cc3104f859abf79994fd67d6873923af.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c5084fdcb0dac59c43032e64ad43361002c9c7ce5e1d2ae863f3942391d91e26bbdf3a13f783b8fb71974fab5b5fcfe4a572b17ab9201a8056a72e6828c12bcc006940aba703e872dd9505c1e1bc7dd7e70505dbc92ded418ec11d7e1adeccd270dbc684b64a1a1cc21dbb16f39056669794242cda788f58fd5b629c1c2095e766d0d88ab3aa11f83dcf9c44dbb547b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc3104f859abf79994fd67d6873923af/cc3104f859abf79994fd67d6873923af.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 66",
+            "episodeId": "yugioh-sevens-9390?ep=83257",
+            "number": 66,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/52c13c3a93538644f26d54cd86b815a6543c0ca02bf7baa211e1a04e5484827aa454b9589b75bf7a7d0869e3a4e78a99acdeab1f27f1aa90693947c17d8ca55b955d25e73a7daec25bdd93dce12e54c61bc8a29d51e507a30918c92f61ef8707ed1f44bd0582c95d79c4dfbdccb355fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42968f21fa6586cf9b5df206ee307d13/42968f21fa6586cf9b5df206ee307d13.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/52c13c3a93538644f26d54cd86b815a6543c0ca02bf7baa211e1a04e5484827af12783294898505d2f950e53b7ce6dd0adaf78f3c9b1bf21488f6aa718f70960708bb5e1278c09e6914c9d6f2fc631e869bc56302c874e73ce3fc1d728d052cdf379a4e518170d154fa5baeb30648330005b1707bff3156ecdfc2314f677978492ead9d89bb50191b244a84d37b810f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42968f21fa6586cf9b5df206ee307d13/42968f21fa6586cf9b5df206ee307d13.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 67",
+            "episodeId": "yugioh-sevens-9390?ep=83341",
+            "number": 67,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/681de8571e5d54f11ed5ba304f6fce0baf521f77e30b9f88cb56b96e7fe247a3197b8286a900d21c48bb8b0420b645d47a6bf57e6edb7a7c0b0cc13807e573fbbedc5e6886aaccabb9a9cf3f7c98cfc8607532ca8bb4af8473291970d65aad2f65882bb9b594d70672600de65151cb74/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/358bed5c1831e156083b87fdcf56f481/358bed5c1831e156083b87fdcf56f481.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/681de8571e5d54f11ed5ba304f6fce0baf521f77e30b9f88cb56b96e7fe247a353d6dd7101b55905b5cc678d5bc806b19a3f5cfb3fa576bf50c3b1d6b36d1fd30f4f2cfa82cf1d37b56721296268d9104756397c2af81257a9979e839f10d87ff47ca84babd9a6611db4eaccfb5331359c5f47f92a64c120cbd5d76f0261898de062dfb734dfd217fb169dcad6f57967/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/358bed5c1831e156083b87fdcf56f481/358bed5c1831e156083b87fdcf56f481.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 68",
+            "episodeId": "yugioh-sevens-9390?ep=83543",
+            "number": 68,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/daf44a61d4fef06d4c613cf3990c0adae3acc89879b018121d62f53bef39e39840be244ac23339f253d844bf6f76a0c93bd80700f031c0b7917612bfc3707e49faa9bed5bd47d493bab5d76e1b39bcab70bbd681cdadef355de53057655699549278b4f2097676dde84ce11d5f63ca66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1684701d7b11596eadb3f4afb6cde604/1684701d7b11596eadb3f4afb6cde604.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/daf44a61d4fef06d4c613cf3990c0adae3acc89879b018121d62f53bef39e39886d97f6e3f7fe8b13148cb47839026f0c99ec1eb27e9dd21c98d3d4e09a823b0466a1098589819e2c6ecd6b06b037c21c9a54b0465838115c26744e7526326287627c4ae9a0c0567a3a91612bda0096dc17f35820bd56cd182ad27c492c2028301a4f576db4fc8246fd55c80d1a2fd2b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1684701d7b11596eadb3f4afb6cde604/1684701d7b11596eadb3f4afb6cde604.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 69",
+            "episodeId": "yugioh-sevens-9390?ep=83559",
+            "number": 69,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1691ef20de7ee16d8a73f57483cc11f8f5931d324b8c2986d520d568bc6871694bf59cbe802be466543111de1886974dbbcba836c36acb6e3c7b68657b81160286b77be17217586abf1c2e478648b95d145477cd4fcbc4b8e8bab3a2f84d025e71b25c6f7c96663669af1bc29dee0e9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f60e07cf5f16a1f4ee9316da10011aeb/f60e07cf5f16a1f4ee9316da10011aeb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1691ef20de7ee16d8a73f57483cc11f8f5931d324b8c2986d520d568bc6871692fe6abe897e4ba1776beec6ed5efd29940fe54fafe4dd40113af9d2d3881664691a4cf9379653d8bc7a5d177089ed5987c565150a701db0b2037b606ba5e634aaf882f37e46e823e789ee99cc370974d4a3de1f7c2aa8e5d65d5a2d0f3b0f88a12aac7f57dd920e3706b7f8974897e18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f60e07cf5f16a1f4ee9316da10011aeb/f60e07cf5f16a1f4ee9316da10011aeb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 70",
+            "episodeId": "yugioh-sevens-9390?ep=83560",
+            "number": 70,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/806349a35f16ddc8ae1b7a57ef6ea6f5104bff2e80793e33579cbb3ef96f85685e9b5186f6468dd0396d2868ca11aa3f2902207317949beeeb798b39d8191e4e500a394d183494661873c152e74e822c7b8756104c06e1fb422717ecb45a035f755243550ae53315b65b51084d679c5e9e69623e930ef0f4977bb2cda3b6f3c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1919804d00bb48f3b5a0a9bcc00f23b0/1919804d00bb48f3b5a0a9bcc00f23b0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/806349a35f16ddc8ae1b7a57ef6ea6f5104bff2e80793e33579cbb3ef96f85685e9b5186f6468dd0396d2868ca11aa3f4b249792477fd6dcf7237966c20c3185c0167e7acb1a01384ef28682e8f05a519e9f52dbc84a9d678b0df937c1a98085416302c5935502a083ffb40a9793afcb5640291ba82205516dee492cb00e1cd6c4819d1f006174a0a6b7b91e5cd1b92b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1919804d00bb48f3b5a0a9bcc00f23b0/1919804d00bb48f3b5a0a9bcc00f23b0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 71",
+            "episodeId": "yugioh-sevens-9390?ep=83829",
+            "number": 71,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5597c98b48908db5c3c758117c2098715295a5083d786a553830f99653bd1858a9ab518b7bbaf4bf5f488dff2fbea0f40b62252a422e0c8c3806796c5cc185ba1cda3fbf68e928c76de8df185ebfff83be81a22434e937ca8ab6330f3de91df825c99deec91f5d4f6b32f130a2c21609/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aab974ffdfe9b19eb2755e3d12a66274/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5597c98b48908db5c3c758117c2098715295a5083d786a553830f99653bd1858b4a9424fb7d5b38db80cc43b301e5bb20715809baa46c7e9c5cfda7cbca2843b8283615cb8733b59e901c7d39520a22e3697a47e2b654e6ff11f26534f58fc9a6de74c5d6c35ca9bd2d251d773c89365a54688a65910efed122994a92e0690a2209a86e7b107b642367dfbc461fef10e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aab974ffdfe9b19eb2755e3d12a66274/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 72",
+            "episodeId": "yugioh-sevens-9390?ep=83919",
+            "number": 72,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/24d53d71ac5b11a8640ef58a6f0098daee42df63b52f54ac68a1ddfa71e66e3a2c5b1b435921ecc4dab42cb1c3a34a2625a4e8e71fc5123897357b2d7d239316e1035175deec7710045c5a5ceb3ac2fea9d7667066213f010f3ac5961760be73acc9fbfb015d9966985d15250fbf1a79ec9139e784d091e95ffd084c48048910/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d53f86d872e2f7c54695261be293b5d8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/24d53d71ac5b11a8640ef58a6f0098daee42df63b52f54ac68a1ddfa71e66e3a2c5b1b435921ecc4dab42cb1c3a34a2613470805a6f22ee83ee7adc4ef7d281a9271b57a79295c4a5119d382e2ebfafd06538c9a13956352b04aeac0c441f1c6802f66b13a0c0267ac15fbdb4370c79997cc758be55f4b9e429955ff9186c2bb8a9a4d80670b9d5d01f399d3467b2c70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d53f86d872e2f7c54695261be293b5d8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 73",
+            "episodeId": "yugioh-sevens-9390?ep=84007",
+            "number": 73,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/52e1fbe4c8f2beb4797a7bbf50602196f690816cd75d22be6286d822c19c9691f238e6adaa9b014904ec042c5a95ea4be728b04fbbd12e1fcebe327de109f5e1b3755557e0e00b34687957de8767d4624a54389615c3b44a59ff90b80ea7cc1e06418b20ff759c2a9d8c5fa0689e7559/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0364dd1d3cc2af91df9a8a23ab81f951/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/52e1fbe4c8f2beb4797a7bbf50602196f690816cd75d22be6286d822c19c969169f729f67f9094296e3e4c0becc17c47b003781590ce8d1f30ea295566d6ae975187a683ad46436e14e31f01a6d2a01336297410552183cc61083a14cd2c9369fa640d283349fd8b15a0bd3285389d9fd62b7f4d29b5b9cc0ac3a91fd69c39071137d7e3bd96fe40b6a77b59948e4303/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0364dd1d3cc2af91df9a8a23ab81f951/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 74",
+            "episodeId": "yugioh-sevens-9390?ep=84121",
+            "number": 74,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2490f3a162c49bf3ff99d48891e513ca5b5ecefce06574b52caccc1a6e3cdc2203c110f91ce66d13805b4c75c36ea63c2c93a1eaedba6d73e3fbbfe9d7336797822b58ee503ce4f62bd99e067633a3fc1afa8f1ee0ab94187fe13520f841b5fc23cf6a18561cbf22f5a97c51387e7e06c8e37765a721131e17cbca2ee22b69fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efe19d7cf8274615c9392eb18191129e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2490f3a162c49bf3ff99d48891e513ca5b5ecefce06574b52caccc1a6e3cdc2203c110f91ce66d13805b4c75c36ea63c4ac1e5ffdbf3c64cec02128e7f02bdab46c745cabdab782aaf46a2914dacfd7b6514502eab1f32bb0f7a8da6fbe9cabe7d1d1ae1031e8e6dba99b8735bbd80937ec5270b8e8a795fe58600ada1f167905e66c33952ed6ca18eac6e792daa2ebc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efe19d7cf8274615c9392eb18191129e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 75",
+            "episodeId": "yugioh-sevens-9390?ep=84747",
+            "number": 75,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/806c7ddd6d5e11031144370c82fe78ae6ae82a567f76c947508520f4c82b21e8ab5d429badabae0e7250de06d3ba839df3fc41e76a25ad34bdb5653001a843f9d356bc8a441debd14344532f88964b2c223d5882dd3639387b74b70d21fb3bb795101ce2003908c20c307ada13173656e59fdd55b5711fefddc39b39ff08b261/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3049e9f32aa6e94549b0736c198977c6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/806c7ddd6d5e11031144370c82fe78ae6ae82a567f76c947508520f4c82b21e8ab5d429badabae0e7250de06d3ba839d270047998b4e581573b0c83a6400af50b65b5e22f9555187093062f910366a6edc86f9f41ba2fe4fb54b42df64bcb59c8b7eb1d09fcdf56d0fdf9ef2506c3921487f51439c757d231b8eee3e148dea1de0fb3d749e713d53df6279398844155e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3049e9f32aa6e94549b0736c198977c6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 76",
+            "episodeId": "yugioh-sevens-9390?ep=84972",
+            "number": 76,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f6d732c4f05bdb81ea4fef72f0fa3f499f80a893ded74cfebc343f9bf44730b9f6dc389ba0e60938ce7753fc993734157cb1d28a8963d481035b2b80c4dbb180cb2bb17aabe796a3cc87cc697a102f01892bf836d4ce0ed84e0f412e6d84f3711cdad2e40050661539b0cd0acea2a6a68200b7b7a33bd6c143f0bbbc38b54548/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d61bfe2565ef7d0dd7683a02811a0cbb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f6d732c4f05bdb81ea4fef72f0fa3f499f80a893ded74cfebc343f9bf44730b9f6dc389ba0e60938ce7753fc99373415217e0c79c843710491cfd2458c6c92948fd77a3c80276b99a6b47c6d1fc51eacbc7cf464d3d0e9964ca165cbaba222c61772931174fccf7f8e2b0034c0bd3e1e54b3520a6c8cd29ff63b6ece0c05d94af6ebd5d1d83fb557bc721e38816d9422/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d61bfe2565ef7d0dd7683a02811a0cbb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 77",
+            "episodeId": "yugioh-sevens-9390?ep=84973",
+            "number": 77,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5fe47df71abe6018b7f5311d4e8e966866cfadaec288e739d3eca49a142abc9d15180c9b2b57c281cdf7f6f67b720cedd935f536767d672c37af63ace8fc9a4a7cd6fc02b938ccc052f2775e023306f051e124080a46027fc6f9a51855f5c34f963ed30971844bcec2fd02b681c24d6c7392c507854e93f82540ea5c2992b4a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8002fc000a8b99f55d6d964c8aafe077/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5fe47df71abe6018b7f5311d4e8e966866cfadaec288e739d3eca49a142abc9d15180c9b2b57c281cdf7f6f67b720ced4fde4ba5444896a38f120c147a750e786a54b24f6837c3a91ac1f1f9c0696b3f1828d92eaea3686364b114c1a9e9259925ff867ca0f47a5eeffe975feb7e7400b2cd7c3f6d0695ff42c7067eae247b7fde3176434799111c98b5da01148600cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8002fc000a8b99f55d6d964c8aafe077/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 78",
+            "episodeId": "yugioh-sevens-9390?ep=85176",
+            "number": 78,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/170d5ba6078b743e874f3086946be7b79fcc777412b948cd6d8a5476094ee26739d6044985b8d160cd2624b3922426d650c60d468a2a9dea489109289b44455381f2b8c4ab4e3da5e3bac05ed3e22082b3379c438d1a6935b58f714c3b4b8bec20634b4dc1757dd0a2e9e48a808912d797d17dcb66d018e1aef2a4e8c1d7bb5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c081b63ed3c26164e69b1e2eea3ba6d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/170d5ba6078b743e874f3086946be7b79fcc777412b948cd6d8a5476094ee26739d6044985b8d160cd2624b3922426d604f8816d326f19e3b3e9da6d9fce725c92d340aeb76eb87377c6182421cd69ec2692a59d1552e90221bfd74529ab25f3ae40f4c2122635b249afc7821866436a992507fb2eebbb8633c43f198798da939b982c94f0114bca48f904dffb48c2fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c081b63ed3c26164e69b1e2eea3ba6d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 79",
+            "episodeId": "yugioh-sevens-9390?ep=85288",
+            "number": 79,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/55e7d4936a8b1b1641ae6b86ebee74c6bbe822fb776db66e61c9d73bf0191dd0561251028b538f8c699d33adeb3b67dd918f3e3105f49a42154a5df6cdc00d4f8654646b942fea0ddc2bde8f4297e42f2d8a9170a9405990e1760bb6599ef5a2780d1ec730e48a4ccde053846b24393c83801a41752e57130a610a177d6e4a73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3c676aff69b3ec26699f9df216f3f07/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/55e7d4936a8b1b1641ae6b86ebee74c6bbe822fb776db66e61c9d73bf0191dd0561251028b538f8c699d33adeb3b67dd98e2c5c761873661cf7f5faf433000c331c8bdd8c656416e074159d2fa2104053258462e7b9ef1fcf69f8e45e7d2cdcdf0743ae5f71e80fe9f9804f2ec99fa9dc3ac916452d75503f29330a2ea8f994874b08e8147bd8ebcea6b7d703f1897b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3c676aff69b3ec26699f9df216f3f07/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 80",
+            "episodeId": "yugioh-sevens-9390?ep=85358",
+            "number": 80,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8f05ba840872a26dfadfefae3f796b9ec79e10b26ce6d4f7be501c08474ff696c39f4ff3fca476c8f1e78c5232d44f773dad9dd1e09223b02d7e8719fa3294a9756eeeab1264ddd87ebb8fbeff09635e8de0c643fda4bff16df6574618a15fdd8d9fae54b4b417651c91dbf8269794206de6589cbd840b22662dd3472553f980/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b143c1190675c2a5e302fcfb14fdb34d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8f05ba840872a26dfadfefae3f796b9ec79e10b26ce6d4f7be501c08474ff696c39f4ff3fca476c8f1e78c5232d44f77cb312f7f955cedc02c1878219347c6b8342b7eb9a93d996b1ad8c62b7f0a3e3fa7cdc00d1fc926138c42329d5c9f9cfcb20e24d7fda0942225fecca429fe7de93a0e31f2525e7a14e28ea6c04556071b13394d7a02f5d893bea198b0ba143190/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b143c1190675c2a5e302fcfb14fdb34d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 81",
+            "episodeId": "yugioh-sevens-9390?ep=85854",
+            "number": 81,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ffafddae1d0cb35aebd0716debe6a629b2f6362e8523e91a6816845386800128a7aaeb81fb5eeaf72f243d31b5ed09768f5baea45be5c55ab61f53065b4a13f67e4a8dd90e0b3c47db92841609c8aafd7315f8d87dcb40f32ea020cfbb0227ab8cec0b1bcf6fc6edd25d3967c4c005cc3bbd8213d47ecdc0e721cd586d97c0d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0886a4ecfdcacdc49b84cedf097b89ae/0886a4ecfdcacdc49b84cedf097b89ae.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ffafddae1d0cb35aebd0716debe6a629b2f6362e8523e91a6816845386800128a7aaeb81fb5eeaf72f243d31b5ed097636ead393e7195f0ff3055bc16663113d861299c0281f56dd7149bdebd8088a7e3b63beda901b4fb020da7b5b31ab1152e914b2bdb656a6662400b1cfe68b6f6ee1697c5df9cf6f3128c676a6c113d9540f280362de71b7142e729018bb68e63d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0886a4ecfdcacdc49b84cedf097b89ae/0886a4ecfdcacdc49b84cedf097b89ae.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 82",
+            "episodeId": "yugioh-sevens-9390?ep=86192",
+            "number": 82,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/37a73bc65e634b715a3d2eb68f61e3602c0ebda5d67bf0ec52b876a4811535cadc08ef5879c4c09d4147310ee64986a059c339e38efee733e2c25d2038f7af8ba0a87c2663dbd2b96e89124ae2f8e812aa83360807fdad313de6918b3367b705fd31acee63543c83f5bfdbde4e5e3855fbc69f313966731ca4251934abbddac3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99847b0c10dd9db11a4fa01f2641c4e3/99847b0c10dd9db11a4fa01f2641c4e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/37a73bc65e634b715a3d2eb68f61e3602c0ebda5d67bf0ec52b876a4811535cadc08ef5879c4c09d4147310ee64986a0cda029312c1568e4f20a003d745a05afebe7f4769d24ab935099ee65f61fd5ca32967b8512e1895e5af3b63d61be14fda3b1769e578c4a7c8ca48f7327a0040d9343e7e6ba59b1aed8ee7d4752212670df26fbb086726261818ba1891a6b13fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99847b0c10dd9db11a4fa01f2641c4e3/99847b0c10dd9db11a4fa01f2641c4e3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 83",
+            "episodeId": "yugioh-sevens-9390?ep=86261",
+            "number": 83,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/68495048bd63197ed811cbb449396d41529a6a563786a9dbc648b04841ea92dbfe7408336465d55a1175c3f790956220729771be9075d4b95f8f0d1539b33d7f9e505435b0ca2c582492041cbc360d86d3a6419db11362cd70bb206cdaa58bfd3154d18758a10634cea6d6c3f1715856eec29fa53ea271824b19faf03e0f7eb4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/617714e1eed431d18b1ce3132f0abf9b/617714e1eed431d18b1ce3132f0abf9b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/68495048bd63197ed811cbb449396d41529a6a563786a9dbc648b04841ea92dbfe7408336465d55a1175c3f7909562204b2cef94dae19981ae24473919527cb773e4b2b7de96f7e13f515bd9c8e9a0e3fb30da35110ec4962cc9aaec014ee9f3631ab53348c136f9759a7d374267cdfa1ed129ad187fa41c969b2d7069f58bd23a7c26eaec39f6968511552c046dbb88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/617714e1eed431d18b1ce3132f0abf9b/617714e1eed431d18b1ce3132f0abf9b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 84",
+            "episodeId": "yugioh-sevens-9390?ep=86405",
+            "number": 84,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ebeca2356cf4712cbfbe7c14361906e61ac120ee9465590b1c462fc291b01263c8400b58ac88a5d032a8667a529e49a9ea65aae170a729525270b5bd4bf0c232ddcfb087aa0bd21eb91f925aa41a87e10064eb0539a5bda538214626e17f87e96cd2d74bb75ea10f6338d70ffc243aa76dd2934ef3760367c6af4fb3682cc1ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98d06fa12d1d7d33c757093f9a78fc58/98d06fa12d1d7d33c757093f9a78fc58.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ebeca2356cf4712cbfbe7c14361906e61ac120ee9465590b1c462fc291b01263c8400b58ac88a5d032a8667a529e49a9ebcff6bc1d8379cae4f117ac9365227e2f81fa0b77c408f9d10e56e93997876cdb1aa55348c4e913c44ace85a30ff744a6d068002366afc1e20610b204d9e32872763bb52daa3006612051f2a7099242c9ba40494e9967046c213ad25140b3ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98d06fa12d1d7d33c757093f9a78fc58/98d06fa12d1d7d33c757093f9a78fc58.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 85",
+            "episodeId": "yugioh-sevens-9390?ep=86406",
+            "number": 85,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5dd6185dc8babf4731c38057f84e22c9342a3a28d5346fdcdd0c30f8c083d5e1273bce091a788955a46af0990774ca847fee1c6abe457320fd9428ac289c00f2284e76da03171fcf2bf3dfe0b435f95901f577e277f59990ec8c8ba16a149b2e63efb41b1e18db6ff69f6b8e93989fdb109ca44d0629169624fea410e3d120f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4015474256468df8a7c7792b19d07ec/d4015474256468df8a7c7792b19d07ec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5dd6185dc8babf4731c38057f84e22c9342a3a28d5346fdcdd0c30f8c083d5e1273bce091a788955a46af0990774ca8406b7cdb93bc66c7f6091d531eecb0b0951198618cb5c634f0bf5cfd2759ccc2667f5c00a1aeb5e2e747988ebf5b99fa6941f30e97eb201e5b2ad1931ede075b368ee4e48dab2318a2e7fa373570f24478ab5dc3b0add3a6d63573b97e671d504/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4015474256468df8a7c7792b19d07ec/d4015474256468df8a7c7792b19d07ec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 86",
+            "episodeId": "yugioh-sevens-9390?ep=86729",
+            "number": 86,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/30f3dbd8fb902e0632b3bd9e6c6f829f9b2df7a5e6cd3d510e830d023665fc13689616fe9ec5e3ff9f6d46faa880da2286c7459390c03eee392fe74e26692ce70e712c582d78867455d5fd1f51eb547825013e691872fe370afbdded74ebf8853fd2dd6475b41488451beac5927578181567cc4087e95e3fe1030d9862364024/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46b50e68da0483a31fe5cb95636c754e/46b50e68da0483a31fe5cb95636c754e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/30f3dbd8fb902e0632b3bd9e6c6f829f9b2df7a5e6cd3d510e830d023665fc13689616fe9ec5e3ff9f6d46faa880da22822e513f1e60f7e75dfc7a9948cec80129a4d7e681b418b4f26923cdb21fb334b8a13bae7eada835722f5dc2e4e835b0c042c44e856ee3ce73ad4498052eed4090f45716ef00aaef6ec7ac5ea4d2e1327d79da27fb293e5da2c3ecc604046bf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46b50e68da0483a31fe5cb95636c754e/46b50e68da0483a31fe5cb95636c754e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 87",
+            "episodeId": "yugioh-sevens-9390?ep=86730",
+            "number": 87,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/4d3a29e7bc447439ba850684d50d825d50ed247d47780ddcd39046217a1a62e268fa8d4af0fcc2def2220225c71c1f1993e4821bd7870bc2a311bcb96d8f467ed2d01eb263c3f71bb4eb0bc8a880222bb8e6fa0da04f8b05ba2df638558b0b85e959082ab7737f27974aa9a6bad313f852f5ecc049700acae2594e23820b4562/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ac28a0f5597ae0d35486138c3049c6d/5ac28a0f5597ae0d35486138c3049c6d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4d3a29e7bc447439ba850684d50d825d50ed247d47780ddcd39046217a1a62e268fa8d4af0fcc2def2220225c71c1f1989b3246299f07ef40e049ee67d2a2dc2b698dd29a3eb1200fe9ea1e22c413e3e701fa1e0cf081f6c8596837346a7cd9b47546ced705ddaf9a58cd8a29d8ebc4aea716698c873c808e5abf9d4f29b810b2e5515ac51ca44b2bb85c0c3192445ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ac28a0f5597ae0d35486138c3049c6d/5ac28a0f5597ae0d35486138c3049c6d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 88",
+            "episodeId": "yugioh-sevens-9390?ep=87428",
+            "number": 88,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3b34b4a7c083218f7de8908b982f4c76e74f0f8f9b0bdcd91657ced4ff9aad9da300c0152adffb108938d923216d5613da589ce590ee1d0f985f05e1966fdc72a71b03b4e902eb75ed0b36cf9bc2bf11e21f234b0c18c28a7cb92be4365da9edfbcfdf33a8770ebd1a1514426353497e889ee17a800931d38c06be69bb441b9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4ae4bbd601e250778704f15f4ce1e58/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3b34b4a7c083218f7de8908b982f4c76e74f0f8f9b0bdcd91657ced4ff9aad9da300c0152adffb108938d923216d5613525b6bffae16ddea6f3a662d8239ec1b8d47b832ed7e33be46a444ca0f3b9a2a567490651a6d588ef0eaa4a8aa137140f1951d035934fad2017c8db348bcf6e3ab1069da324192fcb26ecf2e3df9ee58a2cfa999f31ed040ebd70b53be542b09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4ae4bbd601e250778704f15f4ce1e58/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 89",
+            "episodeId": "yugioh-sevens-9390?ep=87436",
+            "number": 89,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b90188e51fe4df8befb7e3d4661fb13fe31ac623f53128918d0fccb8fe7d98eef1f342594a870c5b3c8bbbb7a728cd01a507931be4d0d2aa97341449e59af513c56553a5845de46e5f43cd0429e6467551b510f0022864548bee26a68c4b20fc0adca71fbbbbbe0c35e2ded0b0256dd44b53de2f893ab9dd3c5874b618a25531/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53fdef708a823ad5a5f0477d8ba7ddd9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b90188e51fe4df8befb7e3d4661fb13fe31ac623f53128918d0fccb8fe7d98eef1f342594a870c5b3c8bbbb7a728cd0104c42b61e91fae2bd6bf027d85c878d6c3c63a1ab4ccbaa4c8594fb5a7e4374899d4208bf595d3446948bbd52c9861dfc7b7acf5b7284a07d98ad9cceb0865dee8e45b2cf502c44a45540478febef6744ec8c2e2745db61455b4c59a09e79b44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53fdef708a823ad5a5f0477d8ba7ddd9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 90",
+            "episodeId": "yugioh-sevens-9390?ep=88265",
+            "number": 90,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7c23d38653a0ba0e4a8eab1826bf36f4a559946aa1638e89c7b83aa55e74914f66359310bde63ff1dca2f1200980e91cbcec00b99dad99b0f962ef89048c1208c3ea99488b608b53c8249cd736df6dd510dbd55a224ad73213729eed20f3f0a8a701a2032056e8a28adc2a017f48e8836a5b135b442eb757a52f905f61c434b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/734e1707676743e44632544efb67d5ca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7c23d38653a0ba0e4a8eab1826bf36f4a559946aa1638e89c7b83aa55e74914f66359310bde63ff1dca2f1200980e91c8ceadecd3c6a6e3868a009e6632f4e7bc273e580e1289dae5f71f2f4a717ec83fb16a729f88d4e3c4ef67ee10ead11fddb7dac356adc2e2d881896d3e40a7bd842775ba1ac0fbf10c5a0d6e623bfd5c0c623939d474c0e20be5e9e98ff41d494/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/734e1707676743e44632544efb67d5ca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 91",
+            "episodeId": "yugioh-sevens-9390?ep=88582",
+            "number": 91,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/45af0c8f912623435aa5c822c8503d70757fc0176ef05fe2b39a8e0c32a51b50e67a2c18a290502362ce54e0f6073c758aa40cfaf3522be47f9e7d7dbb1715214114553724349b0b6b5b75c89d688f86654abb7945c18c3ee43f56a3c16f55a2e9c3615cde88420827d8795924e3cfb524225a0f070bbb2b63ff1b6c67b3164c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a3490eb8487317f4d22f2ec63af7eb4/6a3490eb8487317f4d22f2ec63af7eb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/45af0c8f912623435aa5c822c8503d70757fc0176ef05fe2b39a8e0c32a51b50e67a2c18a290502362ce54e0f6073c75cc819ddd93b5489b538bb2105e73b8d6183723542f72100910711083dff604c4ec210617e4e5dfd55c3252104fc932d2d1ccfbf29bbf845b02acdf52598f4ccb6483e8d5609607eaca0fa3ac0f781e9d442b329e18887fd51bbbb69b7b92fb76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a3490eb8487317f4d22f2ec63af7eb4/6a3490eb8487317f4d22f2ec63af7eb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 92",
+            "episodeId": "yugioh-sevens-9390?ep=88883",
+            "number": 92,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/69b476cac64895c4b1a719c3bbc50ad462317fea23620bfc60e4c1daf2c69b9648af5c4d8db137e67c9fb93ee71a54a0a9a1f1d1b17602f092926689d9c36da719fd18e7ce9bad2de1e9409a6291fa727f0ced52e11ecec3a17cf8c45bffd2b1ab1771ace33d0d07f822ff038679f20096f2d3a02f0ac98bde88e7f20f42342f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6732f06ab95d8c7bc7d9a067ac010e76/6732f06ab95d8c7bc7d9a067ac010e76.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/69b476cac64895c4b1a719c3bbc50ad462317fea23620bfc60e4c1daf2c69b9648af5c4d8db137e67c9fb93ee71a54a00f0a402d9643eb715710dc3d87145c5d28ad01563ef2082b358e067a41b0e4cd3a050d1f9fab17ec7395578f2f3552a4a2cd665e43012c2c53c3a6c89517b5e2d16787bff86af111d960172dd87642447aabc0952cde7900f55640083a8265b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6732f06ab95d8c7bc7d9a067ac010e76/6732f06ab95d8c7bc7d9a067ac010e76.vtt"
+                }
+            ]
+        }
+    ]
+}

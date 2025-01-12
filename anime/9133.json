@@ -1,0 +1,58 @@
+{
+    "info": {
+        "id": "senjou-no-valkyria-special-9133",
+        "anilistId": 0,
+        "malId": 37908,
+        "name": "Senjou no Valkyria Special",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f82b4744423abae5bb5615554769ee8.jpg",
+        "description": "Fake movie promo video. Included in the DVD volume 9.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "戦場のヴァルキュリア Valkyria Chronicles",
+        "synonyms": "Senjou no Valkyria Fake Movie Promo",
+        "aired": "Apr 7, 2010",
+        "premiered": "Spring 2010",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.6",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "A-1 Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "senjou-no-valkyria-special-9133?ep=92971",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8f043f1de8c8b86aeefb6a7d23a395e73ee98bf612130a9746cdc74f66d08de07d3d1d861b62763cdc1bed477974135f8906de43c8446fe371aa2d7c97770b62bfa83d19259e3a7fa01c336864e3cb318bf491b7728d2a5d218a843145fc4c51aa31b90250ec3118a2b11f5eddc24fc2a2a3a8c66d94fc0543dbb6699b45fb98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f15c57a5779073ec3c2e07c950f8943/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8f043f1de8c8b86aeefb6a7d23a395e73ee98bf612130a9746cdc74f66d08de07d3d1d861b62763cdc1bed477974135f47148e1b517f671b2885aae58381e2abd3fb8e9d2bdee43271c833da36209140b99f576072534e350fc02b4b261018633b23d1097dc59b1992559652b0d259d02344d7104c8cf54ae49fb93d1bc4f1dea84702b68f6f193dcb434872623ec0d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f15c57a5779073ec3c2e07c950f8943/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

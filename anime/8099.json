@@ -1,0 +1,122 @@
+{
+    "info": {
+        "id": "nutcracker-fantasy-8099",
+        "anilistId": 0,
+        "malId": 7376,
+        "name": "Nutcracker Fantasy",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41e5f41aa7e214aba8d3cd0e4f5e069f.jpg",
+        "description": "The young girl Clara visits her Aunt Gerda and Uncle Drosselmeyer. Her aunt tells her scary stories about the Ragman, a creepy and mysterious man who turns children into mice if they don't go to bed on time. The Ragman is always spying on sleeping children searching for more victims.\nJust before Clara goes to bed her eccentric uncle gives her a wooden nutcracker doll. He's a bit embarrassed because the only part on the doll that's perfect is the heart, but Clara loves her new doll.\nShe falls asleep but wakes up hearing mice squeaking...",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "21m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/h93RKnD_tkA",
+                "thumbnail": "https://i.ytimg.com/vi/h93RKnD_tkA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "clara-128256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fdf01e6b580af541d112f1c74797a9a2.jpg",
+                    "name": "Clara",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "gilbert-melissa-23065",
+                    "poster": "/images/no-avatar.jpeg",
+                    "name": "Gilbert, Melissa",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "franz-127947",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/75eaf31f0d41b08a8feaea41f9c36558.jpg",
+                    "name": "Franz",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "fritz-54319",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1a7fef2d7c89d7ee04199906f5d7b0d.jpg",
+                    "name": "Fritz",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "drosselmeyer-129152",
+                    "poster": "/images/no-avatar.jpeg",
+                    "name": "Drosselmeyer",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ko-nishimura-15315",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51145149408a0606f0760376f9749b42.jpg",
+                    "name": "Nishimura, Ko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "くるみ割り人形",
+        "aired": "Mar 3, 1979",
+        "premiered": "Winter 1979",
+        "duration": "1h 21m",
+        "status": "Finished Airing",
+        "malscore": "5.97",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "producers": [
+            "Sanrio",
+            "Discotek Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "nutcracker-fantasy-8099?ep=106286",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bf83edab05a7bc81163e6748d1ffdd3d0e0178f09934f9b5735aad89314f16c7694130997945052f8771776d340b218cffc867696ba8647192aedc93042edc1886e49cee11ffa12ea57c9f7817a87bb9bddf6a0caca1748d9de767faf472e6bebfa7342a9324b286afb36275d6a9a23d58c93be3c3a274d5748c1fae607bd9b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8432f1c2fc4a287615af12cb1bf419ab/8432f1c2fc4a287615af12cb1bf419ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bf83edab05a7bc81163e6748d1ffdd3d0e0178f09934f9b5735aad89314f16c7694130997945052f8771776d340b218cfc35f2cb451f46d9d5ba2d942962be06675f605b43f4565fab45fe3a2646a1c0a58ded9af491979930586c16c4cd9d8bbafe5182026f8149ea1fe9db7e133a19aac1a7a74ccb47e49a267ee20e756a497c9f905cb12b5c0726fba3e509af8e5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8432f1c2fc4a287615af12cb1bf419ab/8432f1c2fc4a287615af12cb1bf419ab.vtt"
+                }
+            ]
+        }
+    ]
+}

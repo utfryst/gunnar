@@ -1,0 +1,596 @@
+{
+    "info": {
+        "id": "gun-samurai-8614",
+        "anilistId": 0,
+        "malId": 1200,
+        "name": "Gun Samurai",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb3dd842692241899af3d2622a5bf39.jpg",
+        "description": "The adventures of a whiny teenage Miyamoto Musashi, his electro-sword and demon-sealing revolvers, and his quest to win the love of the beautiful Kaguyahime.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "musashi-miyamoto-19534",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aeb43ef6c58cbf7758ae8295f558ac43.jpg",
+                    "name": "Miyamoto, Musashi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-namikawa-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99bd324a9350d978a0f2d10b871944e1.jpg",
+                    "name": "Namikawa, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takuan-89178",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ed68db1c4b96bc9f619ca021509ee30c.jpg",
+                    "name": "Takuan",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "soichiro-tanaka-10087",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70da4c438bc9e70252287c52a900c001.jpg",
+                    "name": "Tanaka, Soichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "leonardo-da-vinci-70063",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f722882f063c796525c4ef98db83df8.jpg",
+                    "name": "da Vinci, Leonardo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kousei-hirota-6611",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c198b1dfe8c96207883f459d4d4f9b0.jpg",
+                    "name": "Hirota, Kousei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "desperado-51203",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/97a729f67343f9d3ad48375c51728ffe.jpg",
+                    "name": "Desperado",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mayumi-yanagisawa-9522",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/201527cc2c5fc2a29c56bf67684e6162.jpg",
+                    "name": "Yanagisawa, Mayumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sasuke-sarutobi-41653",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/66d34e41e52f11407126f243ba1d51d8.jpg",
+                    "name": "Sarutobi, Sasuke",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuu-kobayashi-106",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/372a5a72a8b41d84eb03dd71af12e8cb.jpg",
+                    "name": "Kobayashi, Yuu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yumehime-123146",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f4970d8e034e37457ad69dbc8cb1ce40.jpg",
+                    "name": "Yumehime",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "chie-nakamura-583",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0c93af46960192e11d9fbb383811e2d3.jpg",
+                    "name": "Nakamura, Chie",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "GUN道 MUSASHI",
+        "synonyms": "Gundou Musashi, MUSASHI -GUN-, Musashi-GUNDOH, Musashi: The Way of the Gun",
+        "aired": "Apr 9, 2006 to Oct 8, 2006",
+        "premiered": "Spring 2006",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.81",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Samurai"
+        ],
+        "studios": "ACC Production",
+        "producers": [
+            "TBS",
+            "ACC Production"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "gun-samurai-8614?ep=99191",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e5962bad89870835bb04fbfaabc5ec7aa48ccbd5b73528d76e60375260b9d28f7084cef0af68db267a13ad36553dabda3ccaa1f035ad65cf0a5e72a69bfe3eb0e9e909cae795637c90ebc8d7699942648917769cfa1b48c96b0063d27b44b3c3c8dca0a3dcc72f72ef3e644a10d0a4428ab701cf61e8b67f8efc603438f3da93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32945e81cc97fbb44259bd33aaae076e/32945e81cc97fbb44259bd33aaae076e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e5962bad89870835bb04fbfaabc5ec7aa48ccbd5b73528d76e60375260b9d28f7084cef0af68db267a13ad36553dabdae3fb00c1249c7497d1c6b86bc98541d6a90ff57d9ed728aa369e201df30be482764faf4fb1ad1de9fcc754f8e3950bcf5966831a8fda8990a670187672e2ab3a8d179c80c21ad42f8162c77dd16f5abfdae3b30fafbbf88ccc8ac8bbe228e2f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32945e81cc97fbb44259bd33aaae076e/32945e81cc97fbb44259bd33aaae076e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "gun-samurai-8614?ep=99192",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1d810b1de0302ffa0eed719d6fbaf9d222d8bbca315b5a7571161ad0f5cbb85746beb0de36019929360961ad57d751ca0f876e6a118333e4f45f286944c953b3cdec5f79d950cd45c2217249dfa3dac77a06f30b5ee62aff2da1999d05388e95537e8500c07a2810b0276492f0599ed9482aee7792513089a29b1ce212504913/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82dafd1401b3ade88c851ddd3db0b55c/82dafd1401b3ade88c851ddd3db0b55c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1d810b1de0302ffa0eed719d6fbaf9d222d8bbca315b5a7571161ad0f5cbb85746beb0de36019929360961ad57d751ca3d71a2e4d79781c64da8f2ee34b0305963b78dc4941a20f3b84b4e301cf40e46230898ca8d37f9247aa3749a974d91eb5b6b2719f60bb86aa6cb0d483dbbe3a8fd866714a8f29f8c10a751aed58562fd0efd5eb0c73a09d55985c801a99f020e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82dafd1401b3ade88c851ddd3db0b55c/82dafd1401b3ade88c851ddd3db0b55c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "gun-samurai-8614?ep=99193",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9f301357343572621991694b37cef6dc354aae4b63c007ab0fccd7b1dbb0a8e8ca5b26d3eecb42c8e73ad87ad7855b3389303bb3e92a126fa81e4863041bbc58011379203b60f3bfa59f20f859012bcc02b196ec231def9f79969572b1343efa9b63b5988ff205021da964315e96a127c441ba6a4adabd7eea88965c435b7934/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d50f30fef94b9b10f5ff20e0f3d4a31a/d50f30fef94b9b10f5ff20e0f3d4a31a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9f301357343572621991694b37cef6dc354aae4b63c007ab0fccd7b1dbb0a8e8ca5b26d3eecb42c8e73ad87ad7855b3314352ae621a0659a6492ef433ee7a912faf771beda67ec053c473b11e07de7469784a9959920e4c322fe5605fab96db93b51e6680243eb36b03680dc6c5587c7796469a90f0f8e11c2929832df1185b33f1991961ad3cfc99a330087bf188f67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d50f30fef94b9b10f5ff20e0f3d4a31a/d50f30fef94b9b10f5ff20e0f3d4a31a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "gun-samurai-8614?ep=99194",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ad82bc3e44fa8c52eb4e6de0040db2c4cfda220a24768571a63bfcde5765be49c1f6afd9191195ec960d815614c84d95aab487d174cdcb16dfe04ba8dcb6ed62c44e043e3384446bf739c164f4ccd8138fe449a6906edc93ce910e21071e21f837b09dff2504d81cb640eb282b74e9b300bc70def31326d029c2e667eb0f17a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d667a9bc54d8a32601c675e7e6f4b4ff/d667a9bc54d8a32601c675e7e6f4b4ff.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ad82bc3e44fa8c52eb4e6de0040db2c4cfda220a24768571a63bfcde5765be49c1f6afd9191195ec960d815614c84d9511d1b5ccd613b3b450be0b5af44ff99ee2b442f5fe91714c1f8a4a4aa1e2c028c4ea622a3397f35f00dc8cc15d2f0690911360ce7d8799d6fc3ee24fcbb0c95c93748d7498dfbc1f775e49f7e00bcd50f98e7b3c7402e73830bc0e81d15624be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d667a9bc54d8a32601c675e7e6f4b4ff/d667a9bc54d8a32601c675e7e6f4b4ff.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "gun-samurai-8614?ep=99195",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/facd9578f51e82ee67f4d60f9552ec05e17c85f4c306ff80f9f8c2eeeabc84353e25465b415e93348549157409c0843dc7f9e12228bc0f9ec3c6f80254a21f3b36102e677f2b12a87807b088e57dba213a57be0070b7c291833cb3ec3de1ace15815719e562b9eba46cfaa76c772256aeb699992e2ddc9573af72852530e2640/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cce1a535c96235c84812bc5e0ad90d05/cce1a535c96235c84812bc5e0ad90d05.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/facd9578f51e82ee67f4d60f9552ec05e17c85f4c306ff80f9f8c2eeeabc84353e25465b415e93348549157409c0843d0b3c3ca64a993cd270cd4b35e3b01969a90994d9bd465648b3e5745e6498ee9969dfc3a1f80621c98d3c371ec9ef83092ca522c1534a7dd4354cca76dbf417ba8d11912861163022a272f0d68fbe87ad24bca655e2b0266135221ef735e7ab81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cce1a535c96235c84812bc5e0ad90d05/cce1a535c96235c84812bc5e0ad90d05.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "gun-samurai-8614?ep=99196",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/30f3434cbf86c85ebf7ffdeb3b7fcb8f68edfd91fb7edd504687626347589b801807e3a2cad0b3e5821f538bd9324a22d1d2844df5567a1adb6919812219d692a7c80a99e33785f0e324b70518ba42d369749fb0056d3e5d0b265bb6c2aeee28c017867c0b42ab6814b77baa35a94a7ffeda073b763d64aaf498d4063f29f041/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d71df378fd076123c6668d406f29ee/39d71df378fd076123c6668d406f29ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/30f3434cbf86c85ebf7ffdeb3b7fcb8f68edfd91fb7edd504687626347589b801807e3a2cad0b3e5821f538bd9324a22123ec1642844a5d7075b959092d40d0925b5b0e1ff22bd03755c07d8a4e21a04197ba8ff1e5cd95fc044332bc6796b8372d0d743720169d27a06202ee86d1abb05a9175c291a3a34e10becfe82b6e2ffa82db35c2969693ed8a4ac7de044b986/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d71df378fd076123c6668d406f29ee/39d71df378fd076123c6668d406f29ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "gun-samurai-8614?ep=99197",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e7597c9c2c477a708d5ed2987d15561f027bd26d85eb7dbdaa85609e653b42c341d17cadba0a6b371a6b2b4cf238cbb9547e623cec269d8423f713340521f1eddd0627686414cc5138bfa63b0d64993d8af0d4d7c5ad25e2b0c5ff54d29fa78ab9e1f7c407f56c1224f0bced1c4a9939bf6eaf61524cca1e9a71d161d67c6cc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a4ef9e30ac8ce6a2b733aa5330300f7/5a4ef9e30ac8ce6a2b733aa5330300f7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e7597c9c2c477a708d5ed2987d15561f027bd26d85eb7dbdaa85609e653b42c341d17cadba0a6b371a6b2b4cf238cbb9ccf4a79a24d51ef6a4eff2b66e11da1c415ddd6deb2a6ae425b865952017219a22b69629b1192e3d09f6a365d64c9f52de1bb92013d5409c960526878b31886f183eedd65386072894c31292876011b636a3ae7c1f28f6be43efdd0f071610bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a4ef9e30ac8ce6a2b733aa5330300f7/5a4ef9e30ac8ce6a2b733aa5330300f7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "gun-samurai-8614?ep=99198",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/91f25a4f97ee5ea149e595b9c3bfe2ebcaa3360f7f3fb5c1d8a6f99fa06b60ad39916c0bbe1652d2f2a07b375a574bcffead0f8bc3f434670356b25f63cb0fe80f98d82d609981d57691d41a9ef06e10babd960e7521ba7dd6f6a5bbc7cb826417b8ec087e3421f680aa700098a5a82b3e505488f2b4e7120f8b4accbcc539f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66661ded1fa8337d1a198fad5d640f86/66661ded1fa8337d1a198fad5d640f86.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/91f25a4f97ee5ea149e595b9c3bfe2ebcaa3360f7f3fb5c1d8a6f99fa06b60ad39916c0bbe1652d2f2a07b375a574bcfd00b59d2b3e34ac72cbef181475e313ea9ed846e05557d89cd22c95443170fa797f06dd88dd2801ff7fafbd17f5294452452792cfa3362f8f4c842ee91b80c917bdbffcc30267ac46ce2c9e70c720ce28a368ea0e1a17866287f2e421b82c77b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66661ded1fa8337d1a198fad5d640f86/66661ded1fa8337d1a198fad5d640f86.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "gun-samurai-8614?ep=99199",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/19fc880014560989e92bb2e4ee4f8bcc789968d35050e5aaee6de5ab7fe7a01384a8f0694d32d4cceda3b474174dad8f08cefb341df9c8dbfa839dc970b9b577b32e003f07b76de46c330121236829ffd1d809659a01ce7d0a030efccb42fb6c5ccd309d0cbe6ddd1e9885e6db9c2afa2aeb5e057cd12f52e3dab3e9240823c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d76a04d9167e9d97b0b789976fc46dc1/d76a04d9167e9d97b0b789976fc46dc1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/19fc880014560989e92bb2e4ee4f8bcc789968d35050e5aaee6de5ab7fe7a01384a8f0694d32d4cceda3b474174dad8fd84b379e9fbf22495250aef15baecf3c21304a6e5deaaed9dd3e09b3f2b4684dfe4f5a64b7328c803eaf97b6543e2c32b6030e05c51f65aea17edd602cc14aa708455d8ab631f5d652713739659d42429a8196f801c4ce7fff16a563fe895a55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d76a04d9167e9d97b0b789976fc46dc1/d76a04d9167e9d97b0b789976fc46dc1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "gun-samurai-8614?ep=99971",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0e2e3f0b28266b541996145f2b8ed986c183f7655d7b5857646f931a7916c9197737596e4b09fd6c9c20eb81d625366e76bddf59a287d591fde06282ba3e19ea0cadf83d3e6c967b1be1fb2ffd809fb4dd936318d7de9f150431e20491239150cb650bee0b005b993b5334797f22b4a9ed9d7e44aebd67dd91ac35b9bb3761da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ecf66de31673aa9b5e6c98a8afa377d/8ecf66de31673aa9b5e6c98a8afa377d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0e2e3f0b28266b541996145f2b8ed986c183f7655d7b5857646f931a7916c9197737596e4b09fd6c9c20eb81d625366e7f0200a8224c9855cfb7ae164ec80c45c7187fd1781b4a51bf9cd51050fccef2103a65c1b287b2e119e3779df19bc1d3f074604c61d01dc5333349ff26f060afcf8aa4489867bb631eb6802f9b1fd43ea0602dc2e9e6f35aa5f8bb3fe95737ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ecf66de31673aa9b5e6c98a8afa377d/8ecf66de31673aa9b5e6c98a8afa377d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "gun-samurai-8614?ep=99972",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8e65534d816a97fdf13550ab3da991cc6cc2d3b68588ccd1d48681bd67bfd11f182cb7aef07d37f7270f24a26933e747d8bacaaf3375af44731f10a33df73c6a486733d3bc090e5c8c2b31ab134fa7e1786c92792d450d88585cf9848a6fc38160ccc2e1279fb1bee096d2a40db652a6cc3a4038855ece43fb1552393ddeb8a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c8076d7ab6af702ad6758ab09da3dc2/9c8076d7ab6af702ad6758ab09da3dc2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8e65534d816a97fdf13550ab3da991cc6cc2d3b68588ccd1d48681bd67bfd11f182cb7aef07d37f7270f24a26933e74733651b5f05bae49f22c41bb7c93e453ab177e88bdb0007cfef8aeda76ad3d6ab1aabc41d391c48c63058d3f30dead976cf351538898ca1c86bab261afdc5dc339bc624c1240076432872d445adf9e6764e5c699c37778b3c2d133ce0c57aaaba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c8076d7ab6af702ad6758ab09da3dc2/9c8076d7ab6af702ad6758ab09da3dc2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "gun-samurai-8614?ep=99973",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ef5e71d21455f90e8b2c3c2e22ceecf4ac27c847e3c4bee5fb1ef4d739a0c68ab8ba8e3673dac85365fef49cd183e2432634a2e89788a85177f7ab8b97f70fe91df076e5577ed2e6ebd4d999dbd39d94d38404a26ada85b1c065fe97a60af957fbfa97bf0ce25554dec115a49ffe61b279c49c0d84321e7ceda67b831fe73447/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/017a8387ace74d9ad8c28c5b51bab412/017a8387ace74d9ad8c28c5b51bab412.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ef5e71d21455f90e8b2c3c2e22ceecf4ac27c847e3c4bee5fb1ef4d739a0c68ab8ba8e3673dac85365fef49cd183e24312235d956e4ef9b30c0f0bf4bcbaaf0185258ff5819796fcb825fa8b2e83e93fcdb29487f624f7547ebde0e0f10af50751dceabca9bb620389e1fb252ac61318b25380f5d84a3f2153510997360eb7639d9924721a6c7dcaed2b62525b5d9ee1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/017a8387ace74d9ad8c28c5b51bab412/017a8387ace74d9ad8c28c5b51bab412.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "gun-samurai-8614?ep=99974",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/cc6b27b82e0cfa85476cb47ac79b3d6c9dcfbc94455cb9f9de3d9716c60c2aef6aef98aa189c2617d96312e7984853910f8273934d7314a9c8eb1c9120dd1b11bb17965b6441d1d94568be2e6f2ada24b311fef2479b8636c7a422feb9b27409c8a8b21dc76d4de7315100c5839dc8539c2812f80fd6f94dd63d6a27521a5ea5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a82f645ccc5ebde83b7920bae9249398/a82f645ccc5ebde83b7920bae9249398.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cc6b27b82e0cfa85476cb47ac79b3d6c9dcfbc94455cb9f9de3d9716c60c2aef6aef98aa189c2617d96312e798485391283687320bb5834bb6c41719650cc5f6287ccc5b07aac1c484d2ec3289c4a61f543b561b128bad1dee22baa38680af396bdb29eeff034a4aab7ea6647659f78e28e862088c2769c61f48667597db0a4fb56c079b072daf09b010b7d62d783a5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a82f645ccc5ebde83b7920bae9249398/a82f645ccc5ebde83b7920bae9249398.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "gun-samurai-8614?ep=99975",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f7118920fcc70ce70cb7f8af3506ed23a38966e851374fdd94111dbd6719c50fd3cf630d68c1c565f7e283a5a61df22ab21d3500de9c7ae0c17580b2b5c2169ac08d24fdf3ef24dade12b3f74b32656f68995a486f2bbad6d14c5a800f7e831521306c9791e0634ba25f90a0f73671dc0714d95e4d8f660036dafa39e424532f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1d20540afb6e2bb4cf8b2cb60948ff7/a1d20540afb6e2bb4cf8b2cb60948ff7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f7118920fcc70ce70cb7f8af3506ed23a38966e851374fdd94111dbd6719c50fd3cf630d68c1c565f7e283a5a61df22a51100a5119ae4d0d7af90e7b50c7f6652f9a6f8bf3afaf8d4b277c9b3f0c3a41009bb3f7b3980e0ee43cb698e11c2708fe0557f21352ae8cf8d69ac58c3c27869f72178134983eee55f628d9003ccada4bca20d7fb7505d6ce4ec63f31e1562d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1d20540afb6e2bb4cf8b2cb60948ff7/a1d20540afb6e2bb4cf8b2cb60948ff7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "gun-samurai-8614?ep=100740",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2768965de195815ba75c4a336f5a5deb17b037bb12acf78fb4c6d0fcafd971a5f6fa7ea791339eeb6763d2353b0951cad2cf1501dce71ce4d861b1cdb003c7dbaf2ddb9a8b4446f6a25a8de726ed13855a184a7457281f4a3acb50343537f149c9b66b2a9fb94b9eb8ccf218b18cf2512745e55da4f69e0358f962805ec7b9c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20123d406072bde65c4059839d984ee/d20123d406072bde65c4059839d984ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2768965de195815ba75c4a336f5a5deb17b037bb12acf78fb4c6d0fcafd971a5f6fa7ea791339eeb6763d2353b0951cad6c9a4fb7666b6ca7d47f0884a639b0f80da3955265dcfcfc29289fff7778fa16f4622f877074ef8c6e310a0e64d893ea2038484387fd245cc048ce1f053260b745d4c4db436f064e27a09c99aee0b7270c7d0b59249bebb63fb334527fb898a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20123d406072bde65c4059839d984ee/d20123d406072bde65c4059839d984ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "gun-samurai-8614?ep=100741",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/741150e773ccb486d4645333b19ac0bae49efe4c91072e6fdb0a97e04dd0cdaf86dc110ef09778c274d81a98b2e63f2bc9f2b7a5a91c9e0c5c7f52016885643754797a753002e4577d952f6a5e8698c485d3e52d7ace584e001a306e00ee53cc83694d329de2918dff53a9eb79fbe60e7a12b879a6a3ba1838c5b872fe2cff64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17704618a73a935de62c65ca5d7d5047/17704618a73a935de62c65ca5d7d5047.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/741150e773ccb486d4645333b19ac0bae49efe4c91072e6fdb0a97e04dd0cdaf86dc110ef09778c274d81a98b2e63f2bdba3539dec32fba58f895000ed299139399d1b01a5df80639542efb98d034e04de4578022d067edb1821c5474e993c30a490068eae1d9107137c77834dee27fbd9b3ababa2920f0774d9154bb7bb0e8f1d5ec1f67a61955b5ab02bbcaebf4eee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17704618a73a935de62c65ca5d7d5047/17704618a73a935de62c65ca5d7d5047.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "gun-samurai-8614?ep=100742",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5ebd65ecb2885a0eb11ba484968399a43edd16e2fbacdc8e5d814bbd69d8b58f04f4ead6ca24c10fc6a9fc5384b72224bc0b78a41aee0d6f33f09c6abec663edf7985a2adfa4cbeaae84b42c03078bfac69d570ac479e034e9d767b2a301b7731481eb6cf455b58ee5e3310d2451ac34cdc2c81b4a61c08590064819bc51c9ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053f19cec7549a98fbb0313c7a53f219/053f19cec7549a98fbb0313c7a53f219.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5ebd65ecb2885a0eb11ba484968399a43edd16e2fbacdc8e5d814bbd69d8b58f04f4ead6ca24c10fc6a9fc5384b72224da12e61d71493c5ced9033bd12de317a5bdde28cd115003aec8051bdbf6586493d13b1a662861f6613d996e313b2c96c3c8272deeeba65d1d9b1718c57859e238ba9aa0682b0777aef3652ca0844a94884dec1b873e81205ad1e2b68ef81d827/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053f19cec7549a98fbb0313c7a53f219/053f19cec7549a98fbb0313c7a53f219.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "gun-samurai-8614?ep=100743",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e9aa217bc23d3d1834098188ee13f34573b6907984eb49688ebbd0343efcda68a4545c1a16eb84f5e1be8bcea6696d7807a89b9b0b097fd6618df2b49a8527656518d5417a755d44f2f97c47fad21977b2e972b8c41569b5d1575fff4f96992dac7650d3aa51af5586deb6a87cef5d24b67a1cfd53a98bf5c970db674a0f880e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b7de4b2122ab7e054f73ac716d4987f/8b7de4b2122ab7e054f73ac716d4987f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e9aa217bc23d3d1834098188ee13f34573b6907984eb49688ebbd0343efcda68a4545c1a16eb84f5e1be8bcea6696d78b0239f2fa49f2e22fb9e1c206b53b0baa0b6a1d9a8384f522f4caea153218f6fed290dfcfddf8a1308444e2084a65b3e6527cc9ffc4c3e484682ac67aed31f471e81cf2387e1dc013b1305bc934dc1fe8dfa9c96b47f36e65f9b552d2b89d575/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b7de4b2122ab7e054f73ac716d4987f/8b7de4b2122ab7e054f73ac716d4987f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "gun-samurai-8614?ep=101366",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cb4fcd521aa94ad78d38f327791c7ceb674f024c8088a36d09abb84898716e63d4a9193cd8c7cd7d8d777a1ae2d8b2e07398a56ddef6d9cbc7c00bbcc06fb31266d29535491ac2c93109f9b3ae18e60c4608216ebeea9e05c564c94e4d3d730c8194a488bc586201712ae3b0c17abbd6891804cd62e098d96d9ccd2d8629b260/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c49fd7d2bfbeeb957e57e3edeeb30e31/c49fd7d2bfbeeb957e57e3edeeb30e31.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb4fcd521aa94ad78d38f327791c7ceb674f024c8088a36d09abb84898716e63d4a9193cd8c7cd7d8d777a1ae2d8b2e07caf60bcf3bf38b527cab971e7d49f863c3a93562eee6fdfbf55e7214f9bf3fd9c2a9de1792bf47064200afaf0f8b317bab8e3ee842ce87711cf8294e1567890cb96254ba0f56bc425f69d377555944aa59255b8877b8aa0fde8a98f9be2a67f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c49fd7d2bfbeeb957e57e3edeeb30e31/c49fd7d2bfbeeb957e57e3edeeb30e31.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "gun-samurai-8614?ep=102142",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/84a8fe2ee798d01f7f8b81b4b6255b82029c2c023c4a248726dd5dedad4c29693f8b3dd5e309a66608da0d058c2e2714b3ef0d0d673b6922f58173b3d963f46ef8a4b59350f536ec1447f6418bf6f9037ebc4b13a72b6cf750af16c628a161bcc8cc110375288065c98edab4d28b85e173c89cc9b84f8493bb95c4c496b9a849/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7103498ba716282dd745b1853b8223e/a7103498ba716282dd745b1853b8223e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/84a8fe2ee798d01f7f8b81b4b6255b82029c2c023c4a248726dd5dedad4c29693f8b3dd5e309a66608da0d058c2e2714dcabcd32103166ebfcc3257ab26ce1b8d2e401f6c48a9e24740f9f7c18233bc3469c1d1fb1e3dff1ddef12509c022c22656a4899606d7ed2546bb2107838450abccce1ed8a18c246247aeeef2210c391f065f8fb8eeb95ab5dcf30ce21b421b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7103498ba716282dd745b1853b8223e/a7103498ba716282dd745b1853b8223e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "gun-samurai-8614?ep=102143",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/89975e9984ee6ecc15f92d51fb837b196acc058d2cb52ac1ace76d32a2284958a178153dde88c9df1c00323472420f90d7f4d6e9d938f12abfa57eb859c131da2c3604e9ff9a4a6b296e9868853b6ec862a7347e94a2157a5a43b888d27fc3e0e8ab1f06c8dcbbbd98055006885d3ed345c915baa84ede3fa18bea1eb3052d92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5873cb2ae6374823f5b180419b5ea7b/f5873cb2ae6374823f5b180419b5ea7b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/89975e9984ee6ecc15f92d51fb837b196acc058d2cb52ac1ace76d32a2284958a178153dde88c9df1c00323472420f90f3edfa0200015a478355cef0d1cdc854229041f688065f9c30947a497fea79c43d23c0154670fdc61f05ac25384ee44069c0c4e3fbd94b2fe10adf385091fc7579ba202a2f877fb99373929762d24cee0da1f88e6dc080501be6b759b6c820a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5873cb2ae6374823f5b180419b5ea7b/f5873cb2ae6374823f5b180419b5ea7b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "gun-samurai-8614?ep=102144",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/001a2df7c526d57421377e28ee2102c64f0e9f9f038e9564b1400105854fdc663c69c9118c620ed564f5b7e39a10f564b21392f3a4f305b2d1d7a0240a4c240cd7a5bf9b9a41be341a99fb1b4f0c2dffc9162a5d66d4b4522ca7c61ce69b675ca21011536a45887fa1fe24878e064134f8b25b7c44f327d2882f822422c4ec86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5af1a670c2b8afe3aced803048b18e63/5af1a670c2b8afe3aced803048b18e63.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/001a2df7c526d57421377e28ee2102c64f0e9f9f038e9564b1400105854fdc663c69c9118c620ed564f5b7e39a10f56457e3db28f9ce8174c9834a64bbd444a956731b9e7bd0dd3d98915226803ebabac919a00baed0d04334b97e9ec97cc084d393fb10dddbac130f12448fcd739002d77846163a3a830ef83266d0290987e8e113a297756fcc647b40fdacc7336317/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5af1a670c2b8afe3aced803048b18e63/5af1a670c2b8afe3aced803048b18e63.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "gun-samurai-8614?ep=102145",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/224955111abeca926a638d6d32bf28ac7afbe011bd948bdef746932cf9b3195f743a6a1ccbbdb817d4fab0f27b24a8df4e81ad88790573046583f370810fd9a0339ea6c73577c01ec70c327f455b0ac576ed565a63860225bc43fe4c07fda3b5427da1cdc5407329cba52eb491918c8168f6cf230b0f6abb88988733f613d776/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/727c847301b4edbc8a3f05825998465b/727c847301b4edbc8a3f05825998465b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/224955111abeca926a638d6d32bf28ac7afbe011bd948bdef746932cf9b3195f743a6a1ccbbdb817d4fab0f27b24a8df68ba5d70067545fcce6721b8fb73fda22f85fc5640906b13372e5a56ed0366b5f9540124f05b1e411a0f3f2ff37417b1f88cf2190a886ac9bd8a609ed8b45ae74e43fa64dd1f07867ea9e090f26eb9341c466ec58e3224243ec7df4d6a605509/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/727c847301b4edbc8a3f05825998465b/727c847301b4edbc8a3f05825998465b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "gun-samurai-8614?ep=102256",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0692f7d6304bb2dce352fe5b43599f3516beaf675b5fe3655c15a886536924a4d31327f68cf6975909bc36dc411dba9061b135d8fad5621436342326fd7871375b01da1b3e0cdab41d465dcbbba9adeea9d56ddad19e3dd286f9311b398910352cefd2405809d8199fbeee1654b75488b84a6c6b38cebaac73399779dc644aca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f57916759dadb6602f891204e2b555c/1f57916759dadb6602f891204e2b555c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0692f7d6304bb2dce352fe5b43599f3516beaf675b5fe3655c15a886536924a4d31327f68cf6975909bc36dc411dba90dbc73a7847c323e669bc6e33ac7d60cc8645e5ed96cc323ac08b649d4d869955ba3a589e27866666619882d95c9d05ab9323f6c712df24b92a055a3c24273739a149e981b3d11a3a2d708a70b9898de8a0acd5be2b1854aca2443ae7f26d0054/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f57916759dadb6602f891204e2b555c/1f57916759dadb6602f891204e2b555c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "gun-samurai-8614?ep=102660",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7887480087df673070b1da1cf397429c7ef5187c069d13c71596fb016d7044c8ef89f857e4fec66235ea3cbc043f4fd32348950cb37b683f64525f1daac8436239ce3cd55dcfda9d7b5c0bf4988238959852fe7b9bdd0ac40c01cf47ea58a4c682821bf95182e47a356d6cfb1abbd7481b5fcba9992292b4db211d91bb881c48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/112bdf9019c60593e9aaa024652260a0/112bdf9019c60593e9aaa024652260a0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7887480087df673070b1da1cf397429c7ef5187c069d13c71596fb016d7044c8ef89f857e4fec66235ea3cbc043f4fd3c5e14fcd2272d35e0dd15d38539bb084ed0907c20b729769cb1355b000816fcf7be787c18de2c38dd133c22aaeff6977a4da2fbc4ce313c515320aa6582e7cdee9ef3ffba81410bd9da5b9b17a14956e1840d36abde82f460a031af3d76c70c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/112bdf9019c60593e9aaa024652260a0/112bdf9019c60593e9aaa024652260a0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "gun-samurai-8614?ep=103098",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c56621794598b52df57ce5a177c00c3a7802fc98e425c2f4c869d1c6c99d8b0004b7ca05a9565dc66f18f75778bb47efb78843db80c62a10755be9e4d0cceaa7e6b8ac1a9635ffb857581ee115caeda14498fc6bc8f3dfea69561e1b342dadab4002aad3f1db84953574e4e95cdfd594b54b8e63467aed871738e674a35a8e09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/986e3b6454e30ccd283a0644d042e803/986e3b6454e30ccd283a0644d042e803.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c56621794598b52df57ce5a177c00c3a7802fc98e425c2f4c869d1c6c99d8b0004b7ca05a9565dc66f18f75778bb47ef49f1d804cbef8b4ba86b091c337f6e4bf01082eaf0455ff6d35f13d144817342a094e7a519abb1bb226dc2477ccaa2167ef1cbb7f14f75249dec9ba5a7c5bbf84cec30dee1d78e4cc7086cf7769ad8f87c12444a4de931ae0e84338035498a24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/986e3b6454e30ccd283a0644d042e803/986e3b6454e30ccd283a0644d042e803.vtt"
+                }
+            ]
+        }
+    ]
+}

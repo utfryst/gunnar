@@ -1,0 +1,91 @@
+{
+    "info": {
+        "id": "ladius-9147",
+        "anilistId": 0,
+        "malId": 4058,
+        "name": "Ladius",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d910ace645f92fc0dcbf2fe35ccfa5b.jpg",
+        "description": "In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "48m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "riot-43416",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6e9062dacb03e7cd46c54b6427b61086.jpg",
+                    "name": "Riot",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuki-yao-377",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2a76c55a44f5f042779f9597e263f858.jpg",
+                    "name": "Yao, Kazuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaiser-43362",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/87765344ce802057dc1a4303880e688c.jpg",
+                    "name": "Kaiser",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "norio-wakamoto-74",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1ef0bddecc9b80741c778453878de9cc.jpg",
+                    "name": "Wakamoto, Norio",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "魔境外伝レ・ディウス",
+        "synonyms": "Makyo Gaiden Le Deus, Demon Frontier Legend Le Deus, Demon Legend Le Deus, Radius, Makyou Gaiden LeDeus",
+        "aired": "Dec 1, 1987",
+        "premiered": "Fall 1987",
+        "duration": "48m",
+        "status": "Finished Airing",
+        "malscore": "5.61",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Production Reed",
+        "producers": [
+            "Toho",
+            "Production Reed"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "ladius-9147?ep=131089",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6ef28ac76707a93219bbd530ba551963325cd08b86ecbf348ffa7311b4357e59c7d68c99f4390a9907658a542551df7a4ae715fba9f99d38e63eb140869d34ba8ac6ddee1aa2f48253a7f9ce5aa571e39aecf8cb4483611361df2e9da61d321f66bde50aadac681825c64bf35fbbc45927cf4c0e32db32c98322c5192606c8a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a507d077cf23d273f0511f498abc819d/a507d077cf23d273f0511f498abc819d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6ef28ac76707a93219bbd530ba551963325cd08b86ecbf348ffa7311b4357e59c7d68c99f4390a9907658a542551df7af3b73871e3d37d7ec6e3338cc1042e75cdbe4bfb53f4789b280da5846e0b83e752168fab7a65a7f928dcf450e1d28d4aba3cf4a9821272cc707b222bb7800d60e12acc6aabaf3eda25e73e03c4705aea675448c1e0bca9c41d0d13a22491e82d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a507d077cf23d273f0511f498abc819d/a507d077cf23d273f0511f498abc819d.vtt"
+                }
+            ]
+        }
+    ]
+}

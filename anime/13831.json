@@ -1,0 +1,375 @@
+{
+    "info": {
+        "id": "guraburu-13831",
+        "anilistId": 117086,
+        "malId": 41574,
+        "name": "Guraburu!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd20cc185233d3dd8ac8ea6b8417e830.jpg",
+        "description": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "3m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/_5WKtYkMYEg",
+                "thumbnail": "https://i.ytimg.com/vi/_5WKtYkMYEg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 5",
+                "source": "https://www.youtube.com/embed/t4s13lfwIuU",
+                "thumbnail": "https://i.ytimg.com/vi/t4s13lfwIuU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/ydswtGBtyF0",
+                "thumbnail": "https://i.ytimg.com/vi/ydswtGBtyF0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/9sB9OA_Vd3w",
+                "thumbnail": "https://i.ytimg.com/vi/9sB9OA_Vd3w/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/SZV5VlTPpuI",
+                "thumbnail": "https://i.ytimg.com/vi/SZV5VlTPpuI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/JTtMM-pHpF0",
+                "thumbnail": "https://i.ytimg.com/vi/JTtMM-pHpF0/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "lyria-7038",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b9e25b813d08c8722970877d8ec89c26.jpg",
+                    "name": "Lyria",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-touyama-41",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aaa7817d97535166c8338bd9254b67.jpg",
+                    "name": "Touyama, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "vyrn-10311",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd29a0911082e02d437775617d63c703.jpg",
+                    "name": "Vyrn",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "katalina-alize-5013",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6ec4b7440a9acfb62b54a3d1c2c73072.jpg",
+                    "name": "Alize, Katalina",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "miyuki-sawashiro-9",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dd2106c7f911d17d5a23ef1e0126f6b1.jpg",
+                    "name": "Sawashiro, Miyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "belial-27363",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6f262ef337eb4e108b7d360754b7e03.jpg",
+                    "name": "Belial",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshimasa-hosoya-76",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b3a7b74f06e525bc10aa1244578db5e.jpg",
+                    "name": "Hosoya, Yoshimasa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jeanne-darc-92914",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb19497fe92f2ed9b009fc2675491019.jpg",
+                    "name": "d&#039;Arc, Jeanne",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "megumi-han-202",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a6515728a36f8d4b23fe64487f57017.jpg",
+                    "name": "Han, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "diantha-94959",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd1bd7777786542700f9d4eea4931867.jpg",
+                    "name": "Diantha",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "inori-minase-35",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8453d023b817d404cda6dfb4c978e1f.jpg",
+                    "name": "Minase, Inori",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ぐらぶるっ！",
+        "synonyms": "Grablu!",
+        "aired": "Oct 8, 2020 to Dec 24, 2020",
+        "premiered": "Fall 2020",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.63",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "studios": "W-Toon Studio,DMM.futureworks",
+        "producers": [
+            "dugout",
+            "W-Toon Studio",
+            "DMM.futureworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "In These Grand Blue Skies",
+            "episodeId": "guraburu-13831?ep=51594",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2e0bb98de1b192566890b676e24fa42bc9fe854cc823fb39fee3ef2d367b01f1edf9bb7f1c3b44f74a9ab7406ad094763556bde4cee38e73d12587f4f22e3c437dbc96c6f58aab4de2728c157f479529f98d02257c11082acc9ac52b18d45889579c2e7b8245c9b3c1444c46ed0c0d9788d81ea7bb4629f56eb21e6b75845170/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/108ca7bf16602f69fc3a90b498013cd3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2e0bb98de1b192566890b676e24fa42bc9fe854cc823fb39fee3ef2d367b01f1edf9bb7f1c3b44f74a9ab7406ad09476ce7c55198f939b13419414631f8a92ead39669753d964c494020a418b708f7c0ff6bcb8f0b3babdc547c814ea03f6528b03f34b0d8127fcee7c9f0d858d02e663cda28131b9fd8bc46f04aa247bc633429e15216b5e33720dbf2586ea168a767/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/108ca7bf16602f69fc3a90b498013cd3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vyrn's Pastime",
+            "episodeId": "guraburu-13831?ep=51595",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/09b48acf441f33f4bb7861ba006fc8ce14d7cd17ee9f73d4f4dac0b88fed9226f3313a836f96b47267fc54380a7d393ff3d92beea2a82edc9a29779024b1e112562c969ac4096f894fa6b6ba5445764c15c03762c2fd193487a0b540cee6f6fc0cd82a09c25ace96ea0fcca9effa42493c9bac01e8b0e1eb70cf3bb7895d9380/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/875b22da0ef5cb5c432ef4dbbeb63789/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/09b48acf441f33f4bb7861ba006fc8ce14d7cd17ee9f73d4f4dac0b88fed9226f3313a836f96b47267fc54380a7d393f7498b8f10160b436a728940e78f39561e28a5dc91298101e633aefe275fccea40f44c40168e9d578600af48cc1330bf80225989f6586a247765bf8f78d26e87629ece96877ede877c1402e5e1a42bb8cde3eea715e46f283a61035de14fa71eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/875b22da0ef5cb5c432ef4dbbeb63789/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sisters' Cheer Squad",
+            "episodeId": "guraburu-13831?ep=51596",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f6a1282822aadf6ecfaadd2d3eb487e4926190863eb38cca0b7a80e876bf4e5771ed1bce212cb23e7a535a4f965e3e07a25f1f31a5da025c6a76b543ec979dacf8747043d9e8ca7398ad688e95e75e767ba0aa90a842eb8d1179fa1063e26093fee32554e80dd8f14d519c54eb815d62515f002ee1bf0f907b62d6e791c18fbb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9602573200ac36cad2a42aa4f7abaa4c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f6a1282822aadf6ecfaadd2d3eb487e4926190863eb38cca0b7a80e876bf4e5771ed1bce212cb23e7a535a4f965e3e07eb49eefed8327fe158336650e2b58fde035e85db1422f5102234ca9fe79ab19fc9a3f284556df7733fcacf9b5389ac4170668e2bbcf3ba55809342413e3e51c9828bbaa4e742d1a3e08d5d94b1f744a8cecebd9ccdf46c41ca391c7454f80d7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9602573200ac36cad2a42aa4f7abaa4c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cagliostro on the Water",
+            "episodeId": "guraburu-13831?ep=51597",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/32cb19f5ef32c688fe50cb2d78600afcd0137c626f1e1a366109636e2e522c6c7b5f93c497759b8eac6b846b12b47e75c83e18a85921c813fedd25de4550e8e562abced0016f2ac9c8b3b25870259a8a7798fb7915c3c6173f5f9bcb7d9b4642f227b30ea713f92691f1c98117436057dd4b0c7b87668059cd2fb166882a001a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8775b12b40ca2715ea4b9b8aafa952c1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/32cb19f5ef32c688fe50cb2d78600afcd0137c626f1e1a366109636e2e522c6c7b5f93c497759b8eac6b846b12b47e754f5e7fa8f7fbeb664c9984030a72955c922155fb417da343b20e090757186ab31142765fd513ae5b899d91c967229418f708df3d2104cf0722e02c274817e8a88aeaf9a707e85780f82a47d0fde8f3cbe4091a0cbe102d047cae77e42a07b7b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8775b12b40ca2715ea4b9b8aafa952c1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cain Gives the Orders",
+            "episodeId": "guraburu-13831?ep=51598",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/04d999555a2931da3e9155e8ee686081d897de5710682ecaf472b490e34d5c17a940b0c56c1d13928abbd23b5ca520275525a305949ff620683ca8cbfa030b6e9df32ab3552a255dc5184dc891d0a8bc300c922bee4192655ef28884d74945cc3c3eed854f32390e9918bb7927c590e3b068685012412a88a81e67ece283962b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/268b913ada5a018af3dd7f6d4e36772f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/04d999555a2931da3e9155e8ee686081d897de5710682ecaf472b490e34d5c17a940b0c56c1d13928abbd23b5ca520273d4c3ed1460598285ef121be2eca89028187b67d64d9eb42bbf1b64cb7e44639907c5b4910d559af133f75e8345349490184188bdb0ffa97c55461aee4966e4266583396b03346154b3b284f94c031dc8768cf9cadfc59342c45df16426359fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/268b913ada5a018af3dd7f6d4e36772f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Six Flowers of Fate",
+            "episodeId": "guraburu-13831?ep=51599",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/34ed654e035f2772820650000318bdb241ff8c54655ab0dc9a3d384a0a1879145b5220b950890409f72a9f37e5e536882ae5d96dcbab4b2a8462eba8b6ec9e8c4949f52941a5410856836ce10e155123a9de19b141d2e52d8640c7d7961b07b027ecab1436cc96cf421e4a17e2b82cda6d74e785604d5054a63465f0e12ca2af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dabaa21de06ab2358c359a3fd1cf91f9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/34ed654e035f2772820650000318bdb241ff8c54655ab0dc9a3d384a0a1879145b5220b950890409f72a9f37e5e536884028182e46ec4a83001866a44bd3562b2f37a414c305263ab471ae3db8db712adf5c0f109daa426f028a1a15b3ac924ca58f64b6cfaaa1fe3fba75b639ad3a362808725a196bf8ce2edb309a72c8e3a9c2e59bc6dea8ff906293810b1b3fa39d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dabaa21de06ab2358c359a3fd1cf91f9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Talk About a Cry-Sis!",
+            "episodeId": "guraburu-13831?ep=51600",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/482a5033cd78cfc017a985aa5d5c994fd3cafd4074008bcfcd469a73130f986d4bbb70f361db3dd5015d002cec227a2687abd47a73a6544d5186e6f8ae2b226416e6aa05a82f3fdc8728b4c08d30a4f1a60ed6111da0886854ff33742c5d8cef1feeb7b6b5505470c2fc94903f7f7aa116bdc6553270676ccacf26d0a3818251/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02ca3eec51faeda492b5c718b553dcdb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/482a5033cd78cfc017a985aa5d5c994fd3cafd4074008bcfcd469a73130f986d4bbb70f361db3dd5015d002cec227a267f8aa3b9472ffd7b1bbfc90822bb2129b3ff344cc149b91b82f60362b01cce67a3c34ccda96d01b96fc9e2700a31645308470abc677e9dd16af7bc5295cb1c76b58cd7211d8bd573c8a6344e470231dbc3d905b9cf9b4f20cd26bff72db9d5f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02ca3eec51faeda492b5c718b553dcdb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Io and Magic Laughs",
+            "episodeId": "guraburu-13831?ep=51601",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6d78311263c097f74c9292975ce661d309fbeee1e639f261a974210d62cd43567d26ff4363f88cb4b9812cc3ce2117cef70b7f277ef8f87cf70012c00078ffce27c136d438a7157f101fbc4d3a6dd7253c6df2ebf7106eb28ec89f77b5f54e011ff8839852c1b895470d5760736777bb2034b48b44014ffc816d6356eded4fcd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/207fb0a173a3469dceaef0a4fef319b6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6d78311263c097f74c9292975ce661d309fbeee1e639f261a974210d62cd43567d26ff4363f88cb4b9812cc3ce2117ce0d65295b9a7ac17e7b78bd90e07dfa2d1f0bd802ef78118692a621d2ca08d32195177bf866fa2df504b51e7e7f9787d751080e869dd4cd06bab44136d7ea8d624d113911b44785b880d39cb499ff75aae9f5878d164627dca005b9cabf82c19b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/207fb0a173a3469dceaef0a4fef319b6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Zeta's Way with Passwords",
+            "episodeId": "guraburu-13831?ep=51602",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/db852fa12c499c6931e8018e96846efcc051f440f931b4de4bd0eb78dda11b8f1027f924e3913084fa1fc7491a502990ec71baab8fb4bbe25b08218e4f4c1fd4d874d79270c3fd705f5eaecf56097609683e0cb5896fb43f2b90190b154ffaf2ea834908bf876815d1d021382a1ed3f1597fbea5694723903d01d3fc4c742502/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aacecc56adde4c9d990f9f26c353e3cb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/db852fa12c499c6931e8018e96846efcc051f440f931b4de4bd0eb78dda11b8f1027f924e3913084fa1fc7491a502990f7acbf1e9aa97e338fb1f9e0838fe6c4eb0e5252ae100af2553e4b7ee1b7c2142dd8e54e6e4568b4766bdb4781402b925c3c17a50c030c86834eb479ca1d3c53447d755b22ef706833c78deb1c6716109beb0574f16ce38c5011919342114b69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aacecc56adde4c9d990f9f26c353e3cb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Repaint the Dragoness",
+            "episodeId": "guraburu-13831?ep=51603",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d480a4ce4fad7aee552594fb680630dfe0e8ed42fbc9579fa9bd2417eef4238b6c8d3fcdb24985d0ff4eb2ca0a3116669a4d89285cd93e02e18306271899a0a89fc3cd9662930e708c6dc5482175541b5c26785d416f917d41fdfc8b5d42b3f0c32210f78335f2d5860c4df778c58459ea75b786f5f5eb18f062d5048e9f08a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45725470a9feb2dd74d0716335286a78/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d480a4ce4fad7aee552594fb680630dfe0e8ed42fbc9579fa9bd2417eef4238b6c8d3fcdb24985d0ff4eb2ca0a311666c199d3080359dc00ce68a2a73298dfdf2d02e4fd4d51d669972301a08c9e4da0f645de9765a48eb00e8b4d7ef5e01aa8fedec9e5067c48c61e066cc250eda8f3d424d7e999c1551a5bcf69d0a0f8954a16ed4f0d9ee79e010f937c4815dceca1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45725470a9feb2dd74d0716335286a78/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Cuppa Before Battle",
+            "episodeId": "guraburu-13831?ep=51604",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0faeb3cdb435d973c44984c773846c9386f662e63838977ba603629bb7f2264ce2f82fa972bbd1081c1a544d57e5b9a1b1be3f683baf2e21330fe725ab9c13ed2dcb46bee07105bd5519fb895d8fa38c93ac4e087911d174cd127af960c7e3fac84cdd9df8b1e63fe5f00086b5fcb832a35111640aacbfa61b7884cd98cd3632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d60b92beea1d9570643cb9796b104e60/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0faeb3cdb435d973c44984c773846c9386f662e63838977ba603629bb7f2264ce2f82fa972bbd1081c1a544d57e5b9a1d5963a610609c96e1bf035768bd6bc4e5d08caf11065bd776c5c5cf176357d9e9329f3529f157a044b4b5181a0fe3915a8b9368bf453245c0c54d0a34afd764825cc5f17468876de708aca6331b04be2b6c6cdbcf94185bb2177486013532c6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d60b92beea1d9570643cb9796b104e60/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Final Battle to Shake Off Your Blues!",
+            "episodeId": "guraburu-13831?ep=51605",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d6ec4bec6392a2b7e80bf4cb68af9f2ebb7fadc7f40977e36a01c6b9d54578f6cc37d8d7a676b84a5a4a285b964d1653a393b3ae622d051020f69f716e5e16869291a9ca944976b7d20dd680d6610a1550d7aa00049fb496b79a93c638db49319fbc6a198c6fb430ce1726d6c8cfb34600f549184aadf8b7ea75a604a36f1290/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef368e9baa9c56df05ffd1ed84cc1023/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d6ec4bec6392a2b7e80bf4cb68af9f2ebb7fadc7f40977e36a01c6b9d54578f6cc37d8d7a676b84a5a4a285b964d1653a98c827816d5edecb6d66b0d675bd703d6ae6e7a112ab8c3f1aeb382ed6ce5f437d12afcbf62c68d2c0797c3e286d04c037eaac65a0bee0c5e1b03c237b9f6317fe77345e102c71c0363a62a8741eef52a429a94f523639ca038fc3812f63737/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef368e9baa9c56df05ffd1ed84cc1023/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

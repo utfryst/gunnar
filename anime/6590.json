@@ -1,0 +1,104 @@
+{
+    "info": {
+        "id": "009-1-rb-6590",
+        "anilistId": 0,
+        "malId": 3234,
+        "name": "009-1: R&B",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8cf7735a70766edfbb1c857d49b09a4.jpg",
+        "description": "Mylene Hoffman, also known by the code name \"009-1\" is a beautiful cyborg spy. Instructed by her superior \"Number Zero,\" she is assigned to eliminate a Jazz musician who is suspected to be a double agent. However, as she gets closer to the musician, she begins to slowly loses suspicions. Can she complete the mission before she falls in love?",
+        "stats": {
+            "rating": "R",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mylene-hoffman-15795",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2fd5b26fd28c8feabc9ae3dbafa0b78.jpg",
+                    "name": "Hoffman, Mylene",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "alice-fulks-7321",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7ed68bb5fecec7ebaaf32a9574ab48a4.jpg",
+                    "name": "Fulks, Alice",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "number-zero-34372",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b81f2984d3a34f437a836feee97fd8e.jpg",
+                    "name": "Number Zero",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "houchuu-ootsuka-199",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f585d3bc62362128f03074699750ee7d.jpg",
+                    "name": "Ootsuka, Houchuu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sam-109342",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9ea97a1c98fb4b105eef6dc4722bea06.jpg",
+                    "name": "Sam",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rikiya-koyama-131",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/777a5a45defecb4d7ded05ec9f4774d6.jpg",
+                    "name": "Koyama, Rikiya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Mission:Extra:「R&B」",
+        "synonyms": "Zero Zero Nine One Special, 009-1 Special, 009-1: Extra Mission - R&B, 009-1: Episode 9.5",
+        "aired": "Apr 25, 2007",
+        "premiered": "",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "6.33",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Seinen"
+        ],
+        "producers": [
+            "Aniplex",
+            "ADV Films",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Special",
+            "episodeId": "009-1-rb-6590?ep=74888",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0356cee8982872d1e3c5746707c6994eb952047a3f88e9fb14fd467ca80ed7629636fe9da415ca8b6433fde6e8fe909b901e7ffb2f901049f0b513ef974c959f76a96e9bc60cf2fd59d1acbc610e219120d69843ad41f6b7f84ddda73e4bdee3748dfd1753217fbd7b3e78191b1d15e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a7bd8da4aa53750be32cae5914e969f/6a7bd8da4aa53750be32cae5914e969f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0356cee8982872d1e3c5746707c6994eb952047a3f88e9fb14fd467ca80ed762ed3dbf4ccc5c004c92f82532c2bd39d6c1afbfc49602c68ec71abdacbd0bcabbcdab4b3c15dbe310bb51634817d03ef14e3510a1ff20fd123b35d90403a4bdcde1e8d2e6d1926773a273051eeb61c1213c8e85e2220286a815c7421648cc97eba7b0b01f21bd698ba426a173e59f30d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a7bd8da4aa53750be32cae5914e969f/6a7bd8da4aa53750be32cae5914e969f.vtt"
+                }
+            ]
+        }
+    ]
+}

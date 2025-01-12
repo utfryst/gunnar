@@ -1,0 +1,90 @@
+{
+    "info": {
+        "id": "go-go-ackman-7412",
+        "anilistId": 0,
+        "malId": 6413,
+        "name": "Go! Go! Ackman",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce6ee95322b1a61035c3630e54947ac8.jpg",
+        "description": "First released to public at 1994 V-Jump Festa, later it became a special video feature to be requested by V-Jump purchasers.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "15m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ackman-35737",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/762690f1045187f5bb7e479a112c3159.jpg",
+                    "name": "Ackman",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-urawa-4897",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c7f4a189e05343d579c516b0e08cb13.jpg",
+                    "name": "Urawa, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tenshi-kun-62574",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39457a8e65d5a99c5dfbe8cecaa3f87e.jpg",
+                    "name": "Tenshi-kun",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoko-teppouzuka-13714",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ec9a95f38df2aaeae494d50dccbedfe.jpg",
+                    "name": "Teppouzuka, Yoko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "GO! GO! ACKMAN",
+        "aired": "Jan 1, 1994",
+        "premiered": "Winter 1994",
+        "duration": "15m",
+        "status": "Finished Airing",
+        "malscore": "6.15",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Demons",
+            "Supernatural"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Shueisha",
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "go-go-ackman-7412?ep=93726",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/911130ddfe3ad5610bd6c9b05a63164cef7557997d9021c4754b3cc1c6093035056ca283f74fc3e11352737a5b5d95d1803b953a9cefecc54889e49f6ec61850d9722d24ebb6964e4771a83e15505aac71a4ef058f509b95e3d54f79cf7fab3b8702c563e9b1eb465d204dfea03a9daa7a1da4f1537735f9b75200444a16a708/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf8f0760730b7fd38a9ad6a53a73a774/cf8f0760730b7fd38a9ad6a53a73a774.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/911130ddfe3ad5610bd6c9b05a63164cef7557997d9021c4754b3cc1c6093035056ca283f74fc3e11352737a5b5d95d17bb3539aa3bf8cd30a0662e633268e317b12cef901a631d304e539686bdcd90d6765fcbe27bf1bc9dead88042fd45cea2fb43754491c96b0ffef84dc3a7eca403d45bf11b029418d4d331ca4a9706bbeb8c3de49494153d7c08057f99e3c306b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf8f0760730b7fd38a9ad6a53a73a774/cf8f0760730b7fd38a9ad6a53a73a774.vtt"
+                }
+            ]
+        }
+    ]
+}

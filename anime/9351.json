@@ -1,0 +1,88 @@
+{
+    "info": {
+        "id": "hentatsu-tv-recap-9351",
+        "anilistId": 0,
+        "malId": 41564,
+        "name": "Hentatsu (TV) Recap",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/730bcfff543bfe7d67f3f189c550a978.jpg",
+        "description": "Short narrated recap of Hentatsu (TV).",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "1m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "neko-95779",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd0e01d3e96160bac13e19fee209795b.jpg",
+                    "name": "Neko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-kadowaki-526",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb3e6a2552ffe34a7cf154518ef4d1b4.jpg",
+                    "name": "Kadowaki, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "oni-46874",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd630b397476ee08fd8bdad2a2f77acc.jpg",
+                    "name": "Oni",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaoru-takasugi-12489",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/95aed7323e161a9904869630962f3568.jpg",
+                    "name": "Takasugi, Kaoru",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "へんたつ",
+        "synonyms": "Hentatsu (TV) Episode 12.5, Hentatsu (TV) Special, Oni to Neko to o-Cha to ka.",
+        "aired": "Mar 28, 2020",
+        "premiered": "Winter 2020",
+        "duration": "1m",
+        "status": "Finished Airing",
+        "malscore": "5.49",
+        "genres": [
+            "Adventure",
+            "Mystery"
+        ],
+        "studios": "Yaoyorozu",
+        "producers": [
+            "Yaoyorozu"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "hentatsu-tv-recap-9351?ep=97072",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/37be3e8a0acd3626ce8a510cc3274f72b6e32805ac4e408b66455072b6262b85fa2152eb69b9a0b961b0f96098a31f0ccd3d8ac8bae2329affe09c435651b9f1c1d4f0f95c0d067afbec26e9d05745ec63d58b580e0fb901f4b4f64cad7f8d5e62bf6eb7dbe473e4a9714d32d4b8e6553767f7f41bc789a10c537526ab595da3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/822ee601769843b03fda35d6eba181d2/822ee601769843b03fda35d6eba181d2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/37be3e8a0acd3626ce8a510cc3274f72b6e32805ac4e408b66455072b6262b85fa2152eb69b9a0b961b0f96098a31f0c526c73967ea969acf203bf3cff6c0abf0cff527f054149f41e7d99b7eb80ac69e322ad42e4f976a15f87599d98ae23de73c22301891c7780d3637359624500f7c2de5fb9f57a654f282d875d4abc2c356931583ac4336ba38660eeeba5acb828/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/822ee601769843b03fda35d6eba181d2/822ee601769843b03fda35d6eba181d2.vtt"
+                }
+            ]
+        }
+    ]
+}

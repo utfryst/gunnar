@@ -1,0 +1,73 @@
+{
+    "info": {
+        "id": "nijuushi-no-hitomi-10726",
+        "anilistId": 0,
+        "malId": 19917,
+        "name": "Nijuushi no Hitomi",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5ca06329148860c2867fcb9ae6c87f.jpg",
+        "description": "Based on the book by Tsuboi Sakae, which drew on her involvement in Japan's anarchist counterculture and opposition to Korean War rearmament.\n\nCombined live action (handled by Akio Jissoji) and animation (handled by Shigetsugu Yoshida).\nReleased as a TV special.\n\n(Source: AniDB)",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "10m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "matsue-99445",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1e83f45acfd54856364546f139a465c.jpg",
+                    "name": "Matsue",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tamae-shiraishi-15339",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c78c5190f879cbd1fa6b224abe6a7479.jpg",
+                    "name": "Shiraishi, Tamae",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "二十四の瞳",
+        "synonyms": "Twelve Sets of Eyes, Twenty-Four Eyes",
+        "aired": "Oct 10, 1980",
+        "premiered": "",
+        "duration": "1h 10m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "producers": [
+            "Tokyo Movie Shinsha"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "nijuushi-no-hitomi-10726?ep=128196",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/315a8d2e803d4ddbe959c0e449f9ed353a02ebfbdb947418a61900c4641fa3d882cd3403aabff58606bc8c0b2c6d6f044d9318109229e4f4f5c7492d599dbbbb4f1eefe3f672ead568a28090fca089fd82d27381f7e697cdb3031c5917f53d69f2d8343e9e2ec1a9012717fd89f8bc02c59222e8238efb9285afb1b06cdada9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16baae7f4257b59c7ff34634081e138f/16baae7f4257b59c7ff34634081e138f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/315a8d2e803d4ddbe959c0e449f9ed353a02ebfbdb947418a61900c4641fa3d882cd3403aabff58606bc8c0b2c6d6f04f7e62da179f13f917bbe4423bdf4f57b3cbd95010516c0114e0c1f3f222f112f34067a679993ed7415c0e3ffc45126b7a81bebb5e6b0ef88a735c3525f6e1e4e8a4d6894f4e104fff7d38aa92f6a339d684bf6ea1044a6bff973dbffc43b522d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16baae7f4257b59c7ff34634081e138f/16baae7f4257b59c7ff34634081e138f.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "info": {
+        "id": "seoul-station-8531",
+        "anilistId": 0,
+        "malId": 34048,
+        "name": "Seoul Station",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd237dcef1417393bb968241ab86259b.jpg",
+        "description": "Several groups of people try to survive a zombie pandemic that unleashes itself in downtown Seoul.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "32m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "서울역",
+        "synonyms": "Seoulyeok",
+        "aired": "Aug 18, 2016",
+        "premiered": "",
+        "duration": "1h 32m",
+        "status": "Finished Airing",
+        "malscore": "5.83",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "studios": "Studio Dadashow",
+        "producers": [
+            "Studio Dadashow"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "seoul-station-8531?ep=86486",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3b57089c59ccae2620c4a8a2fd0276c260199b9947b9db88a4e93e8ce65dac183b4ae09eac005210da885a6b3506780ee4045dce6e339b952caf6ba9b11f6b3e86c394e93286a91e2d0fc23054cc6ef942995a344497511af86ff8afd791a4cd4d692eddac069e28ad6fab9ea159606548f4b8079e6414cb4012ce01d975af3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8ec44ce8648bf1843fe78156acf6b06/d8ec44ce8648bf1843fe78156acf6b06.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3b57089c59ccae2620c4a8a2fd0276c260199b9947b9db88a4e93e8ce65dac183b4ae09eac005210da885a6b3506780ec5670cfb0a446b9fde445d710685f0d4935396442a450a98faef840fd04b58f8d49137b1ade629c81ac9e7c8d1a89b7ad9b64a85221bfc9a18e545653e33aa3d72b826c3c22147ba5915f9cb0f63b3fbe13ecb253bb3849f327396ba3cf3ec81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8ec44ce8648bf1843fe78156acf6b06/d8ec44ce8648bf1843fe78156acf6b06.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "info": {
+        "id": "number24-recap-8276",
+        "anilistId": 0,
+        "malId": 41586,
+        "name": "number24 Recap",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bef5b86fcb7e6ec63a6a5626b44ad36.jpg",
+        "description": "Recap of the first ten episodes of number24 series.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "ナンバー・トゥーフォー 総集編",
+        "synonyms": "number24 Episode 10.5, number24 Soushuuhen",
+        "aired": "Apr 1, 2020",
+        "premiered": "Spring 2020",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "5.91",
+        "genres": [
+            "School",
+            "Sports"
+        ],
+        "studios": "PRA",
+        "producers": [
+            "PRA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 10.5",
+            "episodeId": "number24-recap-8276?ep=106254",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2cfb8f49311b30f06105407bff3e6267263e92e7c141d42ff4f20e7d2068d156008072b7d404e4bcefd2ba99c177e2006a0c9640675bdaaf9a4ed6371600970f6bb379437fb061a7ed8f34090ac8376d5fe80eb1ac149c0edf5a44a1a7b67fa066460ef8b3b31b147a3217fa0956f68b06bc0a320afa9f98c5e9d7c48d3e60eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ee5b132f414ef059f5c9c9330d19623/2ee5b132f414ef059f5c9c9330d19623.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2cfb8f49311b30f06105407bff3e6267263e92e7c141d42ff4f20e7d2068d156008072b7d404e4bcefd2ba99c177e200722d35d77cd4db09c77aba50c9bb58fcaea6509057649433236cf81a8c8b6524c41bc2de4817c0453331bb7deb94fa05df90bd840532532dd6f5851a3d2fdc92fecb9fbe5a85a09f5e6beafe33ef14db2512aa31659466865606ef2eede5763d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ee5b132f414ef059f5c9c9330d19623/2ee5b132f414ef059f5c9c9330d19623.vtt"
+                }
+            ]
+        }
+    ]
+}

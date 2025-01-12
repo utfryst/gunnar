@@ -1,0 +1,110 @@
+{
+    "info": {
+        "id": "kurage-no-shokudou-6933",
+        "anilistId": 0,
+        "malId": 29301,
+        "name": "Kurage no Shokudou",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66725d3b96a655831a34083f0ba61302.jpg",
+        "description": "In the story, the protagonist Youtarou Misaki finds himself lying on the beach one day. He is picked up by Arashi, who manages a restaurant called Kurage no Shokudou. When asked who he is, the protagonist tells a lie that he lost his memory—but he remembers everything, including the fact that his twin brother died.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "29m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/YfxW1vI-0-I",
+                "thumbnail": "https://i.ytimg.com/vi/YfxW1vI-0-I/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "youtarou-misaki-123461",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/544e77f925d0f464d177f90fe7099365.jpg",
+                    "name": "Misaki, Youtarou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "goro-kurihara-5677",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f372a2b09386a11c6a593a5ab858e63.jpg",
+                    "name": "Kurihara, Goro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arashi-mutou-124058",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/35d83b9eb131486f605b19e9294fb683.jpg",
+                    "name": "Mutou, Arashi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masaya-matsukaze-800",
+                    "poster": "https://cdn.myanimelist.net/images/voiceactors/3/20553.jpg",
+                    "name": "Matsukaze, Masaya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "natsuko-yashima-53339",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d765b84fe0c4bccf9e9e0108cd82dc34.jpg",
+                    "name": "Yashima, Natsuko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satomi-koorogi-742",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/26705082cc3d3cb298e730d19c8d5450.jpg",
+                    "name": "Koorogi, Satomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "クラゲの食堂",
+        "synonyms": "Jellyfish Restaurant, Jellyfish Diner",
+        "aired": "Mar 9, 2016",
+        "premiered": "Winter 2016",
+        "duration": "29m",
+        "status": "Finished Airing",
+        "malscore": "6.26",
+        "genres": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "studios": "Zexcs",
+        "producers": [
+            "Starchild Records",
+            "Grooove",
+            "Zexcs"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "kurage-no-shokudou-6933?ep=130812",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9faa10302a31b52a0d9118500c09de27c0b7cdb7b5df0244ddfc4cb034e11223a0343f71b4daeeb01d2409eb908f2ba95c58698d552d77ec56a8bda83c3fd0d76c4e0f5152dcd1607ffb5b3e5c3061bd513479dff4f6de1c1cb3ad9f49038287b53fa8cc388d903ab67500304ad3a55d3b47727c661b56a8df80255f9afdab28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bdb8cc2aa45aa7496dd90231536e7fe6/bdb8cc2aa45aa7496dd90231536e7fe6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9faa10302a31b52a0d9118500c09de27c0b7cdb7b5df0244ddfc4cb034e11223a0343f71b4daeeb01d2409eb908f2ba92d153f095d9e5c1120463afba3f9cf3717acfea9f0b983cdffda9343dba25f829b888dce165251b74a33e69753ede481842bf091d7cf9937016097e15daacecaea0e4329dca771c541ef97cc80150efb172eba9be1c475488f8b295460f24f5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bdb8cc2aa45aa7496dd90231536e7fe6/bdb8cc2aa45aa7496dd90231536e7fe6.vtt"
+                }
+            ]
+        }
+    ]
+}

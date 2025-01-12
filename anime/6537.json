@@ -1,0 +1,88 @@
+{
+    "info": {
+        "id": "baggy-6537",
+        "anilistId": 0,
+        "malId": 2312,
+        "name": "Baggy",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a497283bf7f1e4081dd39dc7cb93784d.jpg",
+        "description": "Ryo is sent out by the people of a village to kill the monster which has been attacking the villagers. It is rumored that this monster is a cat-woman named Bagi. As Ryo waits for the monster to come to its watering hole, he thinks back to how he first met Bagi as a kitten who learned how to write, and later reenters his life on a quest to discover who and what she really is. But now she has gone wild, and as the time of her arrival approaches, he strengthens his resolve to kill her.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "bagi-13254",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37bc00e7e632049ca21c3df9cdf14701.jpg",
+                    "name": "Bagi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "saeko-shimazu-3509",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/441e234b66a0272e5b58b0cc9199a3d8.jpg",
+                    "name": "Shimazu, Saeko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryosuke-ishigami-72604",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af2963176019ab7c708eafe494e23317.jpg",
+                    "name": "Ishigami, Ryosuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuhiko-inoue-163",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f491720775bd33ffbd32617ba1a8bb2f.jpg",
+                    "name": "Inoue, Kazuhiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "大自然の魔獣 バギ",
+        "synonyms": "Daishizen no Majyu Bagi, Daishizen no Majuu Bagi, Taishizen no Makemono Bagi, Bagi, the Monster of Mighty Nature",
+        "aired": "Aug 19, 1984",
+        "premiered": "Summer 1984",
+        "duration": "1h 30m",
+        "status": "Finished Airing",
+        "malscore": "6.34",
+        "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "producers": [
+            "Tezuka Productions"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "baggy-6537?ep=91290",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9e9b417b83228107d8185b21e4a19ca27aa80e3453e3bd4e3bfb81215ed11f61cfda7ea7492981c004c176609d9d2cf200af69db68dbce7faafe401d2b91ce12e7f0935395fd63a6bdc814592f7702def1559a8d93edafd8fba55c448136f30218a1e1498b1d6deab03e862039430e916254997d8943890affd608985280ae58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cfaec66d00483977872a3ff10acbf6b/8cfaec66d00483977872a3ff10acbf6b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9e9b417b83228107d8185b21e4a19ca27aa80e3453e3bd4e3bfb81215ed11f61cfda7ea7492981c004c176609d9d2cf2d291cf495d9d5fdcc4ad2fd79076669bd9f4a1bc892f1bf5be08ee8f3d434eb3064d9e2e2cb5518bcd6e66802e3e4483145e4e7d25354931c2ca54bfa8e46afd1d88ffaff01864470b9f2bb6f7ebe2c21a65127bc7909615090394bf82d8384e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cfaec66d00483977872a3ff10acbf6b/8cfaec66d00483977872a3ff10acbf6b.vtt"
+                }
+            ]
+        }
+    ]
+}

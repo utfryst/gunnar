@@ -1,0 +1,576 @@
+{
+    "info": {
+        "id": "garo-crimson-moon-8308",
+        "anilistId": 21277,
+        "malId": 28537,
+        "name": "Garo: Crimson Moon",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e3b0062a442600f6900cc7118d18ac.jpg",
+        "description": "Monsters known as \"Horrors\" have invaded the world, entering through gates from the Makai Realm of Darkness. These corrupt, demonic creatures have the ability to seize human bodies and feed on their souls. Citizens who are out past sunset will likely never see the sun rise again, but those who live in the capital city have no need to worry—they are protected by a spiritual force field created by the sorcerer group Onmyouji.\n\nIn possession of legendary armor, the Golden Knight Raikou proclaims that he will protect everyone from the Horrors. Accompanied by his attendant Kintoki and the mysterious Makai Alchemist Seimei, he strives to become a formidable Makai Knight, but Raikou is ill-prepared to handle the side effects of the armor. Disappointed by his own shortcomings, he sets out on a journey of self-discovery to master his weaknesses and prove his worth.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 23,
+                "dub": 23
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser 5",
+                "source": "https://www.youtube.com/embed/5L5_Uyz2Oi4",
+                "thumbnail": "https://i.ytimg.com/vi/5L5_Uyz2Oi4/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 4",
+                "source": "https://www.youtube.com/embed/LWUkBWBC1uE",
+                "thumbnail": "https://i.ytimg.com/vi/LWUkBWBC1uE/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 3",
+                "source": "https://www.youtube.com/embed/7lrwZe6Hz30",
+                "thumbnail": "https://i.ytimg.com/vi/7lrwZe6Hz30/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 2",
+                "source": "https://www.youtube.com/embed/dYbIUDvVPF8",
+                "thumbnail": "https://i.ytimg.com/vi/dYbIUDvVPF8/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 1",
+                "source": "https://www.youtube.com/embed/ss9SuoM0EzE",
+                "thumbnail": "https://i.ytimg.com/vi/ss9SuoM0EzE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/3Gz-OzBnaSY",
+                "thumbnail": "https://i.ytimg.com/vi/3Gz-OzBnaSY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yasusuke-fujiwara-no-36167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/71abe0a0498946df5232b67df36a2862.jpg",
+                    "name": "Fujiwara no, Yasusuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-namikawa-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99bd324a9350d978a0f2d10b871944e1.jpg",
+                    "name": "Namikawa, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kintoki-51897",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/73f745325319eeee8bf1b5db922562ed.jpg",
+                    "name": "Kintoki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "akiko-yajima-893",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea83931219e86d20e55fc6d0e4ceed25.jpg",
+                    "name": "Yajima, Akiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "raikou-51752",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/be5a97ebe76579340163a11282bc09f2.jpg",
+                    "name": "Raikou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masei-nakayama-8932",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cedf0da187c7dc6d6b1cb1c526dccf4b.jpg",
+                    "name": "Nakayama, Masei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "seimei-51845",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/411d43a1145b340dcfd89f58c7a85fdf.jpg",
+                    "name": "Seimei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "romi-park-33",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e6fba2a1375cf9ea8e763e0e5ca489bd.jpg",
+                    "name": "Park, Romi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "douman-ashiya-52117",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8b9e6c09f406d0340efe6f4c5169e226.jpg",
+                    "name": "Ashiya, Douman",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-seki-101",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b30017b6da7c11931379c4c2be2577a3.jpg",
+                    "name": "Seki, Tomokazu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "michinaga-fujiwara-no-52024",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/15998459e66f152902e00ae3657fc11b.jpg",
+                    "name": "Fujiwara no, Michinaga",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenyuu-horiuchi-675",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c5ffa1f517454a995c8ceb5073c6e5d.jpg",
+                    "name": "Horiuchi, Kenyuu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "GARO 紅蓮ノ月",
+        "synonyms": "Garo 2nd Season",
+        "aired": "Oct 10, 2015 to Apr 2, 2016",
+        "premiered": "Fall 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.9",
+        "genres": [
+            "Action",
+            "Demons",
+            "Fantasy",
+            "Magic",
+            "Supernatural"
+        ],
+        "studios": "MAPPA",
+        "producers": [
+            "Tohokushinsha Film Corporation",
+            "MAPPA",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "ONMYOU",
+            "episodeId": "garo-crimson-moon-8308?ep=47475",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/fd23b1c267fd0804b41789dc7699f0ece752f0bf6c2decdffe89794b85c3d4f1ba36397e0dd3c36194c67fde526c2eb54f893451f26cf79ecfc7652111f47f86bb70212fb141118aa5594f2fa2e5e5abcb48f19751fbc4e203c9c398bcf4249fcb9a33188c0b4c5f38db41c6b214cce888e9e5c5acf4cda46bedb7e8ca1f8ecb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7f45bd146060674ced536225c86cbf8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fd23b1c267fd0804b41789dc7699f0ece752f0bf6c2decdffe89794b85c3d4f1ba36397e0dd3c36194c67fde526c2eb510502732ddf7d675e4090b9545052e0e51aa067fda322406b9ce83cae24a588cd9f53c7b97901dd02d737276e195c32b40abe38bb83f1b41465dae5b206a547745ba154d183a2aa41b0b5dad7efea230cf305c4c27f322db140dc8348278246c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7f45bd146060674ced536225c86cbf8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "TIED SWORD",
+            "episodeId": "garo-crimson-moon-8308?ep=47476",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/cbdab317bb105ca7854d1eb88aa6c178eebb0278bdd8105e3cb3b33c4fecfd14fe8a08dfbce28c3069653080df5585fdfe338a7565be3a28e85f1f3b1210927342f0803e37ceebe7901df9271fec986a1214ca1b4ad1c70c995bed15541b62b3cbfe1fadad7aa480e22cbea612e7a058a600a60fa4b40ab6f96664d0cfa2833f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b10fb9c5d28a4203fe853ec7632493a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cbdab317bb105ca7854d1eb88aa6c178eebb0278bdd8105e3cb3b33c4fecfd14fe8a08dfbce28c3069653080df5585fd03ce1afc12eb3c06adc580fb7b46a51eb9c636f745e9c4bbf0d5282f1b7984d51d5b99ccb65a91f9d9e171a9d81048857c767d8a007cbf84ab5cc12c771836bc4be6c77a2e51d4d48017fae83b19d8950e08c4116e69bb4b9ebd86263234b788/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b10fb9c5d28a4203fe853ec7632493a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "CURSE",
+            "episodeId": "garo-crimson-moon-8308?ep=47477",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d4976fa5327591474e5c2af12f242ce6709c31eec76e2fe55e47f95212d52c373f53280cc90aef8180e40bfbb42ee027745e25e3270475fddaf827b28b38e7c8279e6615b32d2bab2cbb61631f7b139e0aa92640e5d8d939ae3c31ed9fa2e9f033beb82d178a86e06cffefe2f318ad30bb2e037ca25dff1d5758fc8d4bbeee08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce1836baeb40fe6393887fe5c1eae423/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d4976fa5327591474e5c2af12f242ce6709c31eec76e2fe55e47f95212d52c373f53280cc90aef8180e40bfbb42ee02757c5b1cb235a88d21dbe8bce58e33025bb162f1c31a7a2815ac6dbaf82d07d046b6a690356ee194fee7d499dcc1cdbc9275b6b013f26662b8fba784d8d01b469aa213b37d48592d3cd81ce4a1c6a5d8f8d82ce9b2e9b857c6d0fe85c53cfae5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce1836baeb40fe6393887fe5c1eae423/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "KAGUYA",
+            "episodeId": "garo-crimson-moon-8308?ep=47478",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/77627e940048a6b1e2f80fdb3691cd0686249f9fc61cf9b821b98194389cce20084570a8d5bdf07f63aa0d59dd1d33915cc88748f6d0b1b2e0ea8fb63ae111cc6f8fe1ffdbdc574705c08e76edbd4bfc64931c322438085e6b0bee374d5a2626ddd8b482ac6c5d3d9fc43f0ea961dcecc473551f4147a18c9b81e46628306278/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ee19fff7f68eef0899d5b117def67b3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/77627e940048a6b1e2f80fdb3691cd0686249f9fc61cf9b821b98194389cce20084570a8d5bdf07f63aa0d59dd1d339132e88eca28b28284284daf3adf20beddfcf181e29842342a96e191dfb7944e9c6563b551801f7a241a60fb112ee615d96c76adc735af6d821f7bb6c3b0c0b333349ff099816eccaf9303d52cb9f48bf56146f9d42ca9b14182574cab9cb8b96e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ee19fff7f68eef0899d5b117def67b3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "HAKAMADARE",
+            "episodeId": "garo-crimson-moon-8308?ep=47479",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1617f7ce10d305f43153f3aa7f2a20b6143bfd32031efe50532bf8acf22a5b290b952cac27931966d97213f548ce6ed7d25999343990d5c765988f24309fa5ca28fefb1c7531100c6570385ae8bf6b17767e114ad6e3f2caedd3fef10ff5dc406caf6c00ac039e8624cf3f03df4da7136c4ec9b8b18c6a150885b9ea82f78e15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c32f75362ab1497d6e0d9849b3737cbc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1617f7ce10d305f43153f3aa7f2a20b6143bfd32031efe50532bf8acf22a5b290b952cac27931966d97213f548ce6ed7ca041f75b17c3faa56eb3ac0eef2424bb7d34fac4754dfbe71aa2761075cb5f1e1850591039d325473fd882c0fc857872f42780dc8c5ca7d0635aaa91b8432337941cce499615c38d768a96ecb225961e49e53cd8f780ea07317d04395afe067/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c32f75362ab1497d6e0d9849b3737cbc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "LURKING DEMON",
+            "episodeId": "garo-crimson-moon-8308?ep=47480",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/35f810667718bb8a0a99652e2eb658f281dae447f6ae7516553fc88661ea01ca328698a1bce5f3066ba68930fe0f276145f57d9485af84e3de7282e0841cb7c0988773f0a7fc0776f34b646251c20762b1e35e829a2036c2d3af5e0b9bb928d3ab4525ec642c212e39abb3370e113ad6508df9fa9b51c0a73177409216bfbff8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0214e91cb649608d096987fff8e35130/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/35f810667718bb8a0a99652e2eb658f281dae447f6ae7516553fc88661ea01ca328698a1bce5f3066ba68930fe0f276161c2436b76f81dddeeb5472327555dec1f887f1a579c819a225f94f28963ed9241e017a878348dbcc526186ddbe099d8700f3a2f8ecefc300db275e174ed558d57d5bf14e6ebfd3822361b1ee60b606ad5e8cfdf0f6dccba4d658a9ed663808b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0214e91cb649608d096987fff8e35130/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "MOTHER DAUGHTER",
+            "episodeId": "garo-crimson-moon-8308?ep=47481",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e7f19861d0836b99f278a254ac469cf3bf12bafea3794afe32bcc8ad7470542d1e2b3ee9a4c8daf1212ea3dfdffdd089dca616bf5d87dcbfaaf76c277a54a2ab9507fd084964596d155b0bddae3038be9e8a0510e963df0cb05cbd317cbca8c7d14907b7a7a6d498b8b92ec1a0d740a89d8684fcadeb986ec880b8b180e3885a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ca3d78e839f170e18efd565b86c3b69/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e7f19861d0836b99f278a254ac469cf3bf12bafea3794afe32bcc8ad7470542d1e2b3ee9a4c8daf1212ea3dfdffdd0898c9a63b3d971e60c9cb41f61cb5acaf703a83653fd104432a1c107af9f15abbe89471a460da83d8b06eb3cde6cb25ba6dcb8bd5752e547f7f0c1356033143a441f25a6f7e4866112996bbbdea22b8b66e865693e1985555883862d890f010d8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ca3d78e839f170e18efd565b86c3b69/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "BROTHERS",
+            "episodeId": "garo-crimson-moon-8308?ep=47482",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/dda91f2b622679f9dda9c71f89b469d25380e06b24d0c981867703ee07c4c9b32ecf42b12eaef12db2775e1ed507ae2ae55a824d68c6e7cd00f2451105ecb0df0497808f744498e796e0b7682304fffb38738a5bc8f23e580ffda63abd7987f922d193fe94083f1905672cc3ff989720d3098d930988a6922a3bd03e5f59b13f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2807aa6533551d025fdc70812db3d48/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dda91f2b622679f9dda9c71f89b469d25380e06b24d0c981867703ee07c4c9b32ecf42b12eaef12db2775e1ed507ae2ad1441bab08dbe5eefbd3a2f14c77aaab452063b74d09a79ea221dbb996591e8fb4a8ef56569f57b4b2c7105a528be48af9ddb6f7cc4de9f53a91ea88c4069abfdc61a9ccb02f168caf43f9d1590989bad77d616dee5c3cbc21a8074246731822/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2807aa6533551d025fdc70812db3d48/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "SHINE AND RUIN",
+            "episodeId": "garo-crimson-moon-8308?ep=47483",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9793868f74d9df5f38d384a5723c846d4e4ec852a47b727c043bd77e98b03caf2e0b00cd07b572e2800ad180a3af61d0652ea3f50af23f544a3d46350fd5a4e2fcac0286d803652db0def8d9e98de99ceddfb9ea2cd2201fe35f8cc5eb18a66ee8b489df6373af761153fc78580e52b1761b6e28bb2e55abae7f9d89c645a64d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e2bcb20c6587f47799edf4a85403520/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9793868f74d9df5f38d384a5723c846d4e4ec852a47b727c043bd77e98b03caf2e0b00cd07b572e2800ad180a3af61d0d60f519480a7900a4b900de04682dbdeed7aba3954791a92b8fc1bfd5a22f65a40865fb239282253c3cbfb5a06dab4cd620cf90920c10241252d3549211d4befdd4aa020c9eae275baf597b41ad4dcb75ff8b0ee745f717b932f6f647b0cebc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e2bcb20c6587f47799edf4a85403520/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "1/10TH",
+            "episodeId": "garo-crimson-moon-8308?ep=47484",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/12eb735c85789f4dd7061c322c186eeecd11cd739f75afd5d7dc554b57e8c56634baf70ce396a1ba95ae3b9b432149f7ac32e4dcf13a434c429f61c1b974fcb2a6bebd84f003fc0731e6013d8fe81e9f42bac996bafe6d3caec032457808a4660c3089e369ac15e06add3ff8e246554cb60a0d3f01131edf490318f5ee7166eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af4f8838ada525c3d7b3d59554666bfa/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/12eb735c85789f4dd7061c322c186eeecd11cd739f75afd5d7dc554b57e8c56634baf70ce396a1ba95ae3b9b432149f746265d50751a1ad6f99214de3235b62df7865c43c03c208056fc12404e0a2d403fa7cd9e8af7ba7528ac9c69b2c40a6d8ad76a0e8cee92d25dd0ae1b46e21cf99d0dee78bbf54b8dda8b25aeaa50cb03b003e21905fe093a71cff01ef37b45b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af4f8838ada525c3d7b3d59554666bfa/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "ZANGA",
+            "episodeId": "garo-crimson-moon-8308?ep=47485",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e64b0407d4d3b76ca42b52d98322587a2aeb4929262aeefcd8a34e3cc8cfc1aa10fbd0d64ab0ae07b629a5810e1c1963048d6b7284e096e2fccd084ebe228aa2d11b8fc8c08b56f526c6c1eeb7ba1309842cfc5b7bdc072b8c5c5032f0e17b1878dd51980821305a4bdeabae32982fe67bbc6aa3abd7d01be88d7fa6d58ade3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87c154252cf98b160d2130f663df90ef/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e64b0407d4d3b76ca42b52d98322587a2aeb4929262aeefcd8a34e3cc8cfc1aa10fbd0d64ab0ae07b629a5810e1c19638600172df89be4cfcc2d801ebb6ecd7e3332c5d10951b059412c94178f8418aee604d36a415949c295bfc63e1de27acddd23be46b0cc8974b4d2302723357a2d0c51714a9c753ed0205191123d395490e1fba6c4d90ac034a7a2697b6d97e3f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87c154252cf98b160d2130f663df90ef/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "CONFLICT",
+            "episodeId": "garo-crimson-moon-8308?ep=47486",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a951a38e5a99cf7cdbd53ff818832dd58016881c2cb15a33ee5a373c992cee2dea3451af5bee0215ac2989ef242febfca5799a6b316b1ada2d2e98671cb8dc9e9aafb52f1b75cbd3c1e539c154c0ae5cf7d65e1489e3a4ca0be6c9b02b8ee3591148f6dd7506c3d36dca5b1fb64b446dfe5b5afbe5dd130e33005496ce96238e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e8425d2267c9ecaf0f721b3557e2b4a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a951a38e5a99cf7cdbd53ff818832dd58016881c2cb15a33ee5a373c992cee2dea3451af5bee0215ac2989ef242febfcefd80f338e61da99580e17a9b72d429e9e54ddc377f3d26e49055e06f3f54d59bb6e22b66d5c12d9321d64201e00cd0bb6e91c678af7e60d1abfd4f8aaa4aa34fd441ba039424dbd37b8770b07987a161d06503b2eb2ab3ef16e77311a5445c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e8425d2267c9ecaf0f721b3557e2b4a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "SEIMEI",
+            "episodeId": "garo-crimson-moon-8308?ep=47487",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9e34c09ea6400677d4c3d46f33123a510592c42a89626b2094aba2cd4089aa002246719ba64904efd167615b696ca46313203604a862d47860032d24e687449bbce23688ff5757b4c669ebb5f121582dc7096b8e6f87b37bd425f68f6612417dfbfc7255d5cf661f5ce32570a1c2b6ae021cac5e9c403d22a53dd26de423db6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99643671391d28157422f2d217006480/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9e34c09ea6400677d4c3d46f33123a510592c42a89626b2094aba2cd4089aa002246719ba64904efd167615b696ca46397110b175973bbc6e5e5e9c0e87cc242b5f691ddfdf41a59207ff2d808efa79d15d0677b14bf6fb33645448e3f4c49fe9a1b2f3d954361ec2f6a83a6a16efdfb275181044322e9124fb7cbffff8a61bc94addb5cb4dd31cb5068bdeaa9f8472d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99643671391d28157422f2d217006480/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "SOUL MOON",
+            "episodeId": "garo-crimson-moon-8308?ep=47488",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/40b6810aaee62a30417e9ca157f3194ea8693155acf4bb7cacf6721eb6d45c43650fe3eadc98262c56be9e74b591c34caaf1748c97ef86aa375b161878c8cd31421b61356e945db06b1326bd39dae310db0fae01b996fd262a3e377b772408a4a81cd94a220252f7bba221cdcbdef9049eb9a63e245ce73cda79197a0058b6bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c05052222d26b2dca39577780a0e8da/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/40b6810aaee62a30417e9ca157f3194ea8693155acf4bb7cacf6721eb6d45c43650fe3eadc98262c56be9e74b591c34caa50c1be77178979a62cbbb06610c645b100c3359a73bfb3eb26b6218f66245564aca4900490bc420b5843718e211d0fde739d96bc2a9682289a0725c955e5ab828dcfb93f45bdfff56eadd9e2908a7afba6e6b44516c4fcff42aafacd222a4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c05052222d26b2dca39577780a0e8da/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "WORST",
+            "episodeId": "garo-crimson-moon-8308?ep=47489",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d2fb4ec1006f1e9478336cca0ae2b34a0fb026cda96eaa9cf7b872c571272fbb5252b42ce60a3e0da57718723bd2908b4b50796f1a38b388531b4fbd49120f4845498e22195e2183ded12dbea7472cf92d2d47eda39a2e6583f7f4098af171f66a4ffb80f94dfd6120d2721432d51695249a8d97a201365e37268ddddcf2aee6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759c38e49415a27c7b2e2965eea75b7b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d2fb4ec1006f1e9478336cca0ae2b34a0fb026cda96eaa9cf7b872c571272fbb5252b42ce60a3e0da57718723bd2908b8a18ca13df71e8a54db154006a5fc7ff0fd181f6a012f766deb3401dc44d5b40821072c2ea32c88b17c8a2919eab2068530bd7f76630364c05aa77fb80b7cb2f42dd12dedf375dc84625860a4420e4a65b2975d8c6682a7c8f0b0507f1fbdeb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759c38e49415a27c7b2e2965eea75b7b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "SINISTER EVIL",
+            "episodeId": "garo-crimson-moon-8308?ep=47490",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/eba33161b66f7f748b51481dbf2fe992de4c63714b3910b945c80d47d9ad5315ec66ccb51eb9c4e758a7d397cf818e872dc4438538b933ba9ff18f1eeb41d8722a3ab41b7af1e2523bce2b5ea7b7ababec6dd66048555906c9d607fa8a4b5b4261bd3e038f42c193f4556e098fe7d815eb6ed7187f7c178aa0289d76cb0706a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbd3947d1d09b28d724d0358e83efa39/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/eba33161b66f7f748b51481dbf2fe992de4c63714b3910b945c80d47d9ad5315ec66ccb51eb9c4e758a7d397cf818e872779c4c123d146740f36627c68e40bfe5b7cf0180dc823c41e5315e828cfeea4d13010bb0485580ff197288cb5f2f6f0e8188e4ff1aaad6addf0fefefe69067cbe54c81a45a6a59c1534be1b72c469ce4485dead7ff6ef27b41d730967b4ab43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbd3947d1d09b28d724d0358e83efa39/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "EXTINGUISHED STAR",
+            "episodeId": "garo-crimson-moon-8308?ep=47491",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3435552eb92d19542bbd328354415479aae9073c976d4e726690a6c6a389bdeb775b63d876bea134c1549188c1d7f092da030d7ea8c1092fe691180ef3113bcfe66660cc9b0503d3011ebab037bdb733176d2645e6fcbeebf06329871cd1f2c5acac0d81a32ba201095f08d889f20b757b528596a90f466a6d5fde3c356fcb99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/447670903bc75977fe0557c614d4f37b/447670903bc75977fe0557c614d4f37b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3435552eb92d19542bbd328354415479aae9073c976d4e726690a6c6a389bdeb775b63d876bea134c1549188c1d7f0929da4aff8e1863f174012b10cfe1517f55ca43a9fabb07bc90e4c2312cd3a7515620f555c5692e2d319d0a156fa95b7d145488bd4cfba3f20627a34d7f6f8a0c1fbe195513231e412880922ee515fa31f8c9fd5fd082a0928cdd2ef9f5ca5eb03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/447670903bc75977fe0557c614d4f37b/447670903bc75977fe0557c614d4f37b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "FRENZY",
+            "episodeId": "garo-crimson-moon-8308?ep=47492",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/993f6cfef9aad5b7d8563d896c78f411c52158535c52964249880fb2e68be1ffebed6bdbae6e90b1e6585ebb20aaea46113adc56c10ae5659dd2f8f12010f79c559f580db8b837a3ba492d93b7acbba59904cd65df281d3b1e3fe3c9bc6c01dce5bae965e1e03c293801ed96945edfbe50877da5fdbf530309770ae15acbfe15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02ff21029db0d8aa205778a586085453/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/993f6cfef9aad5b7d8563d896c78f411c52158535c52964249880fb2e68be1ffebed6bdbae6e90b1e6585ebb20aaea46a3ca5f5d1ce339068e90ead74af93fbc8f65e4d0e8fd34a1f7a9173607bf8affbe628768fafcb9b5b76fe6db241ed3c1cca9877973cb323833f0fa5a29dbdcf4ed5c798fc874a0da237f756cc97f6bea0390e766cb4e83f716b97a58679716a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02ff21029db0d8aa205778a586085453/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "VESSEL",
+            "episodeId": "garo-crimson-moon-8308?ep=47493",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fa444567feb7a0f981379d5f5a031f0b954ebca102629d5fe217b43a60dd4d26135ba7afa1a23e89f6bb8861f013e58d79037f8dfd8a8a10dad4900909c7901d9df573ab90d319572d550d1fdc49cf68888dd250594ef015de30b6c68736e3f7de4b996913b4e41652a94108f0c1a16ce843d726b9ae4774c95fe3349ed8628d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fc849b19fc353fe6e2eab5ee07ad626/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/fa444567feb7a0f981379d5f5a031f0b954ebca102629d5fe217b43a60dd4d26135ba7afa1a23e89f6bb8861f013e58db15761b1d09d4cc7888e794fa179d186f2222de4d47856729bfc9ceb23a0cc257f6089902ca9b5dcd825909d41f67a47a4e8e12d15130b7c2cb00c13b6ebf90deed4a38957e8829dbc371266dc907e5d27f2d5f620fe4f3faaf3f550a1648d15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fc849b19fc353fe6e2eab5ee07ad626/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "DUEL",
+            "episodeId": "garo-crimson-moon-8308?ep=47494",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dff9ec4e76e6600b06db510a3339b519c7b659beb44bbb2db8fa00432b4af924a09ca72b04cdd54ba069977cf3a18009f3b1a6cd22b1aa05de4f6e29c48e943cdcb90677fe3c97c971c2e6c6e2966d517e15d1ca3de6c884eccff79e58771ed9595fbe7143c5f66fedfeeb796c7b3540d0eb6a3f5e6da1b70c6e15ac66af32a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d0982cb9f434e2d64bb2e99bc85e0c3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dff9ec4e76e6600b06db510a3339b519c7b659beb44bbb2db8fa00432b4af924a09ca72b04cdd54ba069977cf3a180095d1bd66dff2cda529ede4c83e5e498d4a6595a87a14a6da408ab6c8d6f77ae140bc74ac3b9ce035af8a1904a1c636c382cd039c5ac669296fbfe6ffbc08de46e7e6f342674f16d5553d4925176db5faad2d99bfa53a3b86255f6093a6ed0b915/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d0982cb9f434e2d64bb2e99bc85e0c3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "RESONANCE",
+            "episodeId": "garo-crimson-moon-8308?ep=47495",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2c5024b37122551d656737ad2e1d7203fc0a8a6eb9afbfa8d2c0c0d011bc2b14e80acdd58b3928eb8c7ad8f09a4fb7c1a834289f606eb51a6dc6b859bc8f0413824a6ae7cab301b5afe249c5d15255342e2493c2446044a178d30fd460a5d85f74e11eac8ba53d9b62c09836ff00a2bab016cee0678af04421ac01cc7669fa9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c392a10bf832b6246cfe70c507e5789/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2c5024b37122551d656737ad2e1d7203fc0a8a6eb9afbfa8d2c0c0d011bc2b14e80acdd58b3928eb8c7ad8f09a4fb7c106936278714a90b474f161a3d113f26094c91d0a5e3ff421691b8d2068d051752cc6754e88fea7779fcad6ac64f677592ea548bba9a23648c25c8608cc4d91b18f1e3acce42f3eac28659adca6f9cc5ed9c69424792525252f5da4e039977131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c392a10bf832b6246cfe70c507e5789/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "RUDRA",
+            "episodeId": "garo-crimson-moon-8308?ep=47496",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9e3a0d8086391aff792cc5c3cb981585ac9f4590ae1be87f1c51385fd6a57772a74686d4138ee05b9993203a278a8d0abc5320410be46bd3e9d2c7bce2214c8a311e948c24ada8cdea3f4c96614ba4dd886144b3c1a90e9788d766215ab1c10a4644920ce2d89b40194668aecaa24d8e82a46ac7762fba5618c64d5a1c8d900b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/644b75a93b6ff7d8df5215ddd3be3a95/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9e3a0d8086391aff792cc5c3cb981585ac9f4590ae1be87f1c51385fd6a57772a74686d4138ee05b9993203a278a8d0aaaed22b7d031770258d095c925fdd12ce45ece703f844cac27ff87c94c0ebe65df156c1398806102f51cca2c503e7e952124c27a14e4eb36671d16968b816d3b6d2daecfdb10ae7282181373c422551b3a8209f4a74167f0c3d2d5dda88ed531/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/644b75a93b6ff7d8df5215ddd3be3a95/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "ASSAULT MOON",
+            "episodeId": "garo-crimson-moon-8308?ep=47497",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/950259fb52109fa920485e433e6f8392e35072cd9ffe82598b98728efc850b6617bb6dfa95a14b9e6b81d963121a186942ce90e23f2ce9342bfa9cd0dc2c9a026d448a63b20dffaed742b6efdbf1af8361d9adfb9a556eb1316618a8b6c3dec41aef81f2ee6a4488cde3f07ef549e7444c4b048ac23fa57beae902c8273c34c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bd8caca3d405e0abe2799b79048240a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/950259fb52109fa920485e433e6f8392e35072cd9ffe82598b98728efc850b6617bb6dfa95a14b9e6b81d963121a18691b86c1f8a00d2d346d9138154cba8109d915a8e8da701917190243fbeaa9653c0dd4be4241be2fe7990749621c8d528443bb53c93c5365dab1f684d90a01b517545092ae65e99fe8337cafdec6f5299ab28219b356e312a8aecde12cf308e64e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bd8caca3d405e0abe2799b79048240a/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

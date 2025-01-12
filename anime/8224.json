@@ -1,0 +1,129 @@
+{
+    "info": {
+        "id": "tsuritama-harikitte-contest-8224",
+        "anilistId": 0,
+        "malId": 31581,
+        "name": "Tsuritama: Harikitte Contest",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a47d1f9a37dd4c5eb9eab83b3f0379b2.jpg",
+        "description": null,
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "18m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "haru-2066",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e098675f507c4c5dad793958ee8a99be.jpg",
+                    "name": "Haru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "yuki-sanada-3579",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81f2939315106961119f0a727a17a75b.jpg",
+                    "name": "Sanada, Yuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "natsuki-usami-5082",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d0966cfff4c560a48e9e3b35664d182.jpg",
+                    "name": "Usami, Natsuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "akira-agarkar-yamada-4149",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5d39fd9c1890a59cd2101d7451187781.jpg",
+                    "name": "Yamada, Akira Agarkar",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "urara-17397",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b445e4e24219f4b72a169c57d24f64e3.jpg",
+                    "name": "Urara",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "つり球　オリジナルピクチャードラマ「ハリキってコンテスト」",
+        "synonyms": "Tsuritama Picture Drama",
+        "aired": "Nov 21, 2012",
+        "premiered": "Fall 2012",
+        "duration": "18m",
+        "status": "Finished Airing",
+        "malscore": "5.95",
+        "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Sports",
+            "Slice of Life"
+        ],
+        "studios": "A-1 Pictures"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "tsuritama-harikitte-contest-8224?ep=125130",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0fc73d422213ae6d395263eabaec0c9f58c37bd8b92e3613efb8da34820a98b715ff5879f9b2078daaf7c9d2d7e2411f87cfdfd1d7af1a65d93bf23e4e8d1d87adecc759eb2cc67f6376af73a72cc120b0fc5f14a5a749cd95903519fc663ee37bf959dd03ad7489c17f8393d4f404aead5adf4bc8cf986ef2ff6671bca571e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c2de067c50755384f7e2015b72d407b/8c2de067c50755384f7e2015b72d407b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0fc73d422213ae6d395263eabaec0c9f58c37bd8b92e3613efb8da34820a98b715ff5879f9b2078daaf7c9d2d7e2411fb4fc1d9906d7f5ca2ff588d3248ffb30cd4292061cf00a43551731881efdb3193fa0b4503144595c605d1d464d7e54387a2d6c916388a6760acc9663780312c148ed1b7805ce77c19f8180756dd7cc5b0d41833847683a9675a4d70602f7d2c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c2de067c50755384f7e2015b72d407b/8c2de067c50755384f7e2015b72d407b.vtt"
+                }
+            ]
+        }
+    ]
+}

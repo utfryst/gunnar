@@ -1,0 +1,73 @@
+{
+    "info": {
+        "id": "kittys-studio-7857",
+        "anilistId": 0,
+        "malId": 6994,
+        "name": "Kitty's Studio",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f358f59f19931369e8ec2faca5fbd5e.jpg",
+        "description": "The kitten from Yasuji Mori's earlier Koneko no Rakugaki returns, this time putting his talents toward directing a samurai film starring his mouse friends.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "16m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "koneko-34870",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb7fa7c69ca03044e889f2f556770adc.jpg",
+                    "name": "Koneko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "こねこのスタジオ",
+        "synonyms": "Kitten's Studio",
+        "aired": "Apr 9, 1959",
+        "premiered": "Spring 1959",
+        "duration": "16m",
+        "status": "Finished Airing",
+        "malscore": "6.05",
+        "genres": [
+            "Comedy"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "kittys-studio-7857?ep=130585",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1ee0485c139647e909f7fec5a51beadb159f41e33e6ddd0874a4c164084ac762aff7a814b7e4f3dfc7a0ae1125205cf79e5d8aed2ca1ab228957cf9862563de2af0869b2c70deac30675abb8778a3235abc1e4ec2093471e3b03bfd75dc5d545cc7c9080205c999e4c41a05cfee38054/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80f55587bf3886f34a740953b48eaf09/80f55587bf3886f34a740953b48eaf09.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1ee0485c139647e909f7fec5a51beadb159f41e33e6ddd0874a4c164084ac7626a8f826a163ddc3f202dd271e6c1cbc7fc5126ea6d11551a67a811f08da6666d613fa299bf3a0ae62b1cd95bddc798d9e8c4954f0fbd97d221e6a5f8217932ab1e14145234108aa554ac3b349f68f0c41926a580229163d7ddd6aff678cfad068502a97d7974d1922b42e70f12d5bb95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80f55587bf3886f34a740953b48eaf09/80f55587bf3886f34a740953b48eaf09.vtt"
+                }
+            ]
+        }
+    ]
+}

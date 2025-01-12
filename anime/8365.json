@@ -1,0 +1,120 @@
+{
+    "info": {
+        "id": "chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors-8365",
+        "anilistId": 0,
+        "malId": 8132,
+        "name": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2abeffbddd407e91a533729b15c7ed8.jpg",
+        "description": "A Romance of the Three Kingdoms retelling using SD Gundams.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Movie",
+            "duration": "13m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "chouhi-gundam-28890",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0cccf5b88455a02bbc4e11d18d484ac1.jpg",
+                    "name": "Gundam, Chouhi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "kan-u-gundam-34324",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0d5eacfb5ee9eafca2a8883a30904f9.jpg",
+                    "name": "Gundam, Kan-u",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroki-yasumoto-385",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/199ab8ee3cb393f7c10634b08de65399.jpg",
+                    "name": "Yasumoto, Hiroki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryuubi-gundam-46830",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5d000141a59e9748264d131b826daa53.jpg",
+                    "name": "Gundam, Ryuubi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "liu-bei-unicorn-gundam-90539",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a09a4ebe7308e06d77ee4a7e0b17d55.jpg",
+                    "name": "Unicorn Gundam, Liu Bei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "超電影版SDガンダム三国伝 Brave Battle Warriors",
+        "synonyms": "Cho Denei-ban SD Gundam Sangokuden Brave Battle Warriors, SD Gundam Sangoku Den Brave Battle Warriors, BB Senshi",
+        "aired": "Feb 27, 2010",
+        "premiered": "",
+        "duration": "13m",
+        "status": "Finished Airing",
+        "malscore": "5.89",
+        "genres": [
+            "Action",
+            "Historical",
+            "Mecha"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Sotsu",
+            "Atelier Musa",
+            "Miracle Bus",
+            "Sunrise"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors-8365?ep=56195",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/14f986c698c1155d9768eaae683d2f73ebcb3fb58fd667e1b1f0fa40b342e2e4ef54d9b05545587f62dd9b1f07a4ed0572b2922b6eb24b3ea69670f179b41959ed4c09a31ae621d45178c26aaeba81d678e9497a1300d5f3885b30dc4eded9bb216209ade837fbe1020471e409549240/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a64fc6588c268a29f8f7128684c9004/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/14f986c698c1155d9768eaae683d2f73ebcb3fb58fd667e1b1f0fa40b342e2e4dcdd09fff7f507357e45583202846126f70bf7bf7dbfdfa0931212ec73b0e3c492ef9d788890e7497497e6e5bddc0a207bcb68d45f52d69c002b6673a51b7b11e8631e1dbef1d76a95c07ae201484cbc234d1ee55f4ab333f2f1d47dcd3c6e3ad8ee9d5f1be15a2c51d4843208e2ead0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a64fc6588c268a29f8f7128684c9004/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

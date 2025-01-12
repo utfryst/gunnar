@@ -1,0 +1,103 @@
+{
+    "info": {
+        "id": "good-morning-althea-9242",
+        "anilistId": 0,
+        "malId": 2482,
+        "name": "Good Morning Althea",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbe362de13d012e88cf3962fdc14c46e.jpg",
+        "description": "The story revolves around Nikolai, apparently a part-cyborg; Galory, a young boy who apparently is part human/part Crest person, and Althea, who is entirely a Crest person. Seems the Earth and the Crest people were at war for 300 years so there's still a lot of bad feelings present. \n\nThe ship Galory, Nikolai and others are on is ambushed and almost everyone killed by some kind of automated attack ships from a huge Crest ship that has been taken over by an automaton. \n\nGalory, Nikolai and Althea go to the ship to try and see if there are any survivors of an advanced party from Galory's ship that can be saved, and to see if they can destroy the Type 38 automaton in the ship's core.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "52m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "althea-50803",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/585d1b9e90c08a4dd7afeb7e53933e5b.jpg",
+                    "name": "Althea",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "minako-arakawa-6561",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eed02a4610e2c5fef5db3ba891394cf6.jpg",
+                    "name": "Arakawa, Minako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "galory-cherrowick-113752",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e2eea87edc04b813ce08915d6823a5fe.jpg",
+                    "name": "Cherrowick, Galory",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryo-horikawa-308",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/85e87f8252f3baed30c343015e9aeb30.jpg",
+                    "name": "Horikawa, Ryo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nikolai-113456",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81f3d1be09cfb9087d2992c8a2233b12.jpg",
+                    "name": "Nikolai",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tessyo-genda-1142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a90a12976000af414436486e3c7a6123.jpg",
+                    "name": "Genda, Tessyo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "グッドモーニング・アルテア",
+        "aired": "Dec 16, 1987",
+        "premiered": "Fall 1987",
+        "duration": "52m",
+        "status": "Finished Airing",
+        "malscore": "5.56",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi",
+            "Space"
+        ],
+        "producers": [
+            "animate Film",
+            "Network"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "good-morning-althea-9242?ep=93495",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a2f0c9addd2d3b02394f69e54a7b02493ad5e42d3d84fae60de307fc4b8d88a26ec5ed3f8f48eda298a3bb563889170c382d268fbc3bcdce05717afd7fa319e2e6cc6a9b5c95c26a940071050141ac6e1e3328e73baf2bcf7fc1bd3fdc14c1ed7c62d3053dd840b11ce054f0e2372d273ecfe24e16939700dc4c1d192b28aa89/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8373c94ee3380a4133aae6ce09db3e6c/8373c94ee3380a4133aae6ce09db3e6c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a2f0c9addd2d3b02394f69e54a7b02493ad5e42d3d84fae60de307fc4b8d88a26ec5ed3f8f48eda298a3bb563889170c9eef35185b883d4f3fdf728e5123309f631559b0c149fa67a2c03bdd3894a76abac49c01ed9729b9782b600887ecb63be3fac9c0fc7d315300e0e22e98a6a6ad3beb635aab5b09475844beff822e813265ed2051e2a41050cba82b8b4e3a5e86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8373c94ee3380a4133aae6ce09db3e6c/8373c94ee3380a4133aae6ce09db3e6c.vtt"
+                }
+            ]
+        }
+    ]
+}

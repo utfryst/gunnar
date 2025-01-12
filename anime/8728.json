@@ -1,0 +1,90 @@
+{
+    "info": {
+        "id": "d-1-devastator-8728",
+        "anilistId": 0,
+        "malId": 9409,
+        "name": "D-1 Devastator",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cb22677c62125664f998fe1c07e8365.jpg",
+        "description": "To follow in his missing friend Masato's footsteps, Ryo joined the vehicle company Yaesu. Ryo became involved with the Makuhari test course that Masato was also a part of. The leader, Gray Gear, told Ryo, \"If you want to know about Masato, come to the test course late at night and ride the new machine.\"\n\nWhen Ryo got in the new machine, the Vector Versus, and rode it around the course, he was able to exceed 300 kilometers per hour and suddenly warped into a mysterious space!",
+        "stats": {
+            "rating": "R+",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "50m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kaoru-shindou-48069",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02b6ab52b4415849efaccccf95d195cf.jpg",
+                    "name": "Shindou, Kaoru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumi-touma-1493",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d1a638e523a6d05913eff293c3823122.jpg",
+                    "name": "Touma, Yumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "D-1 デバステイター",
+        "aired": "Dec 11, 1992 to Feb 26, 1993",
+        "premiered": "Fall 1992",
+        "duration": "50m",
+        "status": "Finished Airing",
+        "malscore": "5.75",
+        "genres": [
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "producers": [
+            "Takara"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "d-1-devastator-8728?ep=94773",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cbf6ac0211b55845749b1463714529e0bb14504c72d4d26bb206f91d3cfc27d49333ae9351e59072aa6d08aba9f085dd33f5f2e87902cfc4114da96779dcd300f6732a14c35f01471615595164d44ed9ecb418e0fc447a82e6ab0709fa51b199b37ff7cfd145f913beb5692e7a84385c0f7bfeb26dd459e8833fbb33cc181cdf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d1838482648317fb93b89453afa2195/5d1838482648317fb93b89453afa2195.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cbf6ac0211b55845749b1463714529e0bb14504c72d4d26bb206f91d3cfc27d49333ae9351e59072aa6d08aba9f085ddf40e887aa7f43798a7605786b0aa37b77978ba857b2fd95e5480207d4bb62418cf47abf59bc3d74a64fd25f13e9ffcf7599318ab6b31de33c36d03bfa4cd38159c580a01b4151d98d8d69d9319c8719c01f27854c3ea11e485a4336fd43c846f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d1838482648317fb93b89453afa2195/5d1838482648317fb93b89453afa2195.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "d-1-devastator-8728?ep=94774",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9f56f62cc5c29be99ccdb51528be6ac3420327ae404010993b7270a0055e27bbc751d9c126a976124d4e28bd7294a41f055e0745a617990262e54d8b63b5389fb22c625f40ef332a538081414568f4a7202252e4890ceb0fafd43aaf8b2ea2c151bc433d65ad331d57bccc566b0aa3f76b7b5eca23f4b2bd47cec2f34b24fd65/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b38bab8145b5642517adc80bda31324c/b38bab8145b5642517adc80bda31324c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9f56f62cc5c29be99ccdb51528be6ac3420327ae404010993b7270a0055e27bbc751d9c126a976124d4e28bd7294a41fa13e4c82af4706473b61f12a53afbb5e27fe8bafe8986ada6cbe6f4a77f1f1ab3ff0efc1d9d567a42004269d78f8d8f9667cac64c71c730ca5db80e5a350c45d1ee0807ebcd0f9b5ba4d19d8f7ed33a59b5b234e3ea69ae1d6633d5860f07379/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b38bab8145b5642517adc80bda31324c/b38bab8145b5642517adc80bda31324c.vtt"
+                }
+            ]
+        }
+    ]
+}

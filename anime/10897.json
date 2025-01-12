@@ -1,0 +1,59 @@
+{
+    "info": {
+        "id": "ol-kaizou-kouza-10897",
+        "anilistId": 0,
+        "malId": 22275,
+        "name": "OL Kaizou Kouza",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da93b8e7ccf9668ee565b7ae972c0882.jpg",
+        "description": "Inspired by Drop Dead! Stupid Office Ladies, a column in Monthly Gendai magazine.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "31m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "OL改造講座",
+        "synonyms": "OL Kaizo Koza, Survival in the Office, Office Ladies Remodelling Lecture",
+        "aired": "Sep 1, 1990",
+        "premiered": "Summer 1990",
+        "duration": "1h 31m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TMS Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "ol-kaizou-kouza-10897?ep=130052",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c367be60ea23147bc343330e77bcc672199f50d8fdfbc1712cb384bf7623571de8e057f198147d12b2e4c1656859f01b558fe73f2156030712330c93518dff4f768148690a3e4d163f251b6b0a1111ddf1b0368c9a842da0282864f44ad8b15cb00ecf399536c9be477e21f240d88a3b22e6f034a0ddd7fb2daaacf14e42f6b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/800513e3aa2b59e3eb7e74f6b4e87c1a/800513e3aa2b59e3eb7e74f6b4e87c1a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c367be60ea23147bc343330e77bcc672199f50d8fdfbc1712cb384bf7623571de8e057f198147d12b2e4c1656859f01b1631d6df3abf1a3111c702afa27f27e61d338e7ccf7755c9cc33ad27525c0544e5f363d859b06875afb6cda5b26ae29bb2869675d1a362408525cde7d3f5ac3ec8c03fd5fd3f4af3b65507375d1a2624e7272cb00ae3db42a56175142d410ea7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/800513e3aa2b59e3eb7e74f6b4e87c1a/800513e3aa2b59e3eb7e74f6b4e87c1a.vtt"
+                }
+            ]
+        }
+    ]
+}

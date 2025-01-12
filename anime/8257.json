@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": "the-world-of-hans-christian-andersen-8257",
+        "anilistId": 0,
+        "malId": 5098,
+        "name": "The World of Hans Christian Andersen",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd921ed79c48d9bee6524c6d4ea0e51d.jpg",
+        "description": "Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.\n\nThis movie contains elements of many of Andersen's tales, most prominently The Red Shoes and The Little Match Girl.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "20m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/J3TqVw4LbEc",
+                "thumbnail": "https://i.ytimg.com/vi/J3TqVw4LbEc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "karen-91905",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f675f4b129c72af0a59dbba99410c6a6.jpg",
+                    "name": "Karen",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "eiko-masuyama-4168",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c9c88a74d3fb13085a26174c6134c43.jpg",
+                    "name": "Masuyama, Eiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kantokukan-91659",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1099cd257f1446c54f12a8934b9a7d92.jpg",
+                    "name": "Kantokukan",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "arihiro-fujimura-15008",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2a6d108f5f3cf04791f2b73f19642b2f.jpg",
+                    "name": "Fujimura, Arihiro",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アンデルセン物語",
+        "aired": "Mar 19, 1968",
+        "premiered": "Winter 1968",
+        "duration": "1h 20m",
+        "status": "Finished Airing",
+        "malscore": "5.92",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Kids"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "full",
+            "episodeId": "the-world-of-hans-christian-andersen-8257?ep=123276",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7727f514b9a02ecb311831960432ed0320aef13952b559ea6ab720011a17d8b85e577fc2785c2e95a2d6642f4aee7d8acfa024ec70787a40a9db12009542a5f7fe763367fd4a2ca921a58ea3fc6af8cefb9ee5ceca92df09e5f91097623798eefe01c8494cc64ee62ff4c5d50a85777996ee30c71b8dd41fc6eb69d986c58db8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d937d1533ea3f358e335cbaacbcd713/7d937d1533ea3f358e335cbaacbcd713.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7727f514b9a02ecb311831960432ed0320aef13952b559ea6ab720011a17d8b85e577fc2785c2e95a2d6642f4aee7d8a11e526ff5c1d222c5e7ef7d404cacd884670189f3fa00372193a69247bb66ac3fa043a942d8b5ec564ac56ba841b20971f808023ba9e7fccae34fa639fc75718f1af158fcc32228f8279d3b03b2a978948d0ee9bbb02936ed18a4ae594e44f21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d937d1533ea3f358e335cbaacbcd713/7d937d1533ea3f358e335cbaacbcd713.vtt"
+                }
+            ]
+        }
+    ]
+}

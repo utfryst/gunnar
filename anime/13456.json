@@ -1,0 +1,70 @@
+{
+    "info": {
+        "id": "dorami-chan-a-blue-straw-hat-13456",
+        "anilistId": 0,
+        "malId": 2642,
+        "name": "Dorami-chan: A Blue Straw Hat",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0772e2cb8d118a67bad5ed8c23e3d06.jpg",
+        "description": null,
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "15m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "dorami-17096",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02a3f5f715c2b08955f8907f75047763.jpg",
+                    "name": "Dorami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ドラミちゃん 青いストローハット",
+        "synonyms": "Dorami-chan: Aoi Straw Hat",
+        "aired": "Mar 12, 1994",
+        "premiered": "Winter 1994",
+        "duration": "15m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Fantasy",
+            "Kids"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "dorami-chan-a-blue-straw-hat-13456?ep=124225",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cdc05422c10c7f4b3626476a9634df9acfa2482cce20e589167adda51a2edaddbab3215744cb7a52e1f2c035e46fc64c295234bba8685014ff5ac1a37c3d49ca29adeaee632af1cf14690cb4cbc0839cfb2f0bffaca189757c921f9043fb676cd635fdcf3af4bedb2f0a85aac888c3c072ba7907bb811f407a1ba30a0077f2e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/457d9b92ee96de834e84c94d46f3f11a/457d9b92ee96de834e84c94d46f3f11a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cdc05422c10c7f4b3626476a9634df9acfa2482cce20e589167adda51a2edaddbab3215744cb7a52e1f2c035e46fc64c077403284314a74d34cc66ada7a5f8b26a4c815d9932418173f9718725c43c6cdd9356fbaa98bd8729f50b962ea6c88bf80d1330f66ede372cb465e313074cbdb716d5356e369e5a329b512c3a6ebe22da3b362d254f623006367b40d472f814/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/457d9b92ee96de834e84c94d46f3f11a/457d9b92ee96de834e84c94d46f3f11a.vtt"
+                }
+            ]
+        }
+    ]
+}

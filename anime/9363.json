@@ -1,0 +1,104 @@
+{
+    "info": {
+        "id": "cosmos-pink-shock-9363",
+        "anilistId": 0,
+        "malId": 4150,
+        "name": "Cosmos Pink Shock",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9d19df6466c31507f81b45cee076dc2.jpg",
+        "description": "Based on a 1984 serial on the \"Animevision\" video magazine. The original material was compiled into this one-shot video.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "35m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "gatsupi-37595",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/767f27e41827c316a2443c3cd5be50f7.jpg",
+                    "name": "Gatsupi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "show-hayami-246",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b17a87a26e31720c799c567ec557f86e.jpg",
+                    "name": "Hayami, Show",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mitsuko-hayami-56167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/563377323fd951e013cba282f2e676a7.jpg",
+                    "name": "Hayami, Mitsuko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rei-sakuma-2133",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cc04d291cfd6387e1c757da011000b0a.jpg",
+                    "name": "Sakuma, Rei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "narrator-37720",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f988d07fcebbf037a1cb90cfc47fb0c4.jpg",
+                    "name": "Narrator",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "norio-wakamoto-74",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1ef0bddecc9b80741c778453878de9cc.jpg",
+                    "name": "Wakamoto, Norio",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "コスモス　ピンクショック",
+        "aired": "Jul 21, 1986",
+        "premiered": "Summer 1986",
+        "duration": "35m",
+        "status": "Finished Airing",
+        "malscore": "5.52",
+        "genres": [
+            "Comedy",
+            "Parody",
+            "Sci-Fi",
+            "Space"
+        ],
+        "studios": "AIC",
+        "producers": [
+            "Victor Entertainment",
+            "AIC"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "cosmos-pink-shock-9363?ep=126899",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/82f715b745f134ab5d22bd6d09ff6fe61d334e604b1b096c48b08c1fface30f6ae98cf5bacf2ec8aee085545a3b3acbe81592e49d08c41d1b4023cf19e9449ef05d13e93ae39308271dac9dc37ea6c5cdfec8f5a2ac8808ce8ee8f3f6f3ccfbb7dd8b2a9776f2d093b35f7589fd676f1448fdb4bbe82635b6534026efc9c740a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a856212a19be7dc7b13ef6656eefc1a/2a856212a19be7dc7b13ef6656eefc1a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/82f715b745f134ab5d22bd6d09ff6fe61d334e604b1b096c48b08c1fface30f6ae98cf5bacf2ec8aee085545a3b3acbed444c5ee6b854aaa294980af8f1387619495d8fd1b221cc840131b16ada5427fafe831534359194cf5efb3ed79d3ba5d0bebe924faf7f92143ace5f3d89d15fd6ca63170f57fdbda0b91c6452eda5904ae44d5a1b56437b8da06d886ea1340b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a856212a19be7dc7b13ef6656eefc1a/2a856212a19be7dc7b13ef6656eefc1a.vtt"
+                }
+            ]
+        }
+    ]
+}

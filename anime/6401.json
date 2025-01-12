@@ -1,0 +1,103 @@
+{
+    "info": {
+        "id": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan-6401",
+        "anilistId": 121663,
+        "malId": 32222,
+        "name": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9fd6fc45540cd3fb025b1c4eea255bf.jpg",
+        "description": "Third Youkai Watch movie.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "keita-amano-13514",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a4f466403c82a34df04656a69c1040d8.jpg",
+                    "name": "Amano, Keita",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "haruka-tomatsu-32",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4742d0f9506930c605738ed0189d2d5a.jpg",
+                    "name": "Tomatsu, Haruka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jibanyan-6018",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c99a6fc8cf75697b2f2d686f8738667d.jpg",
+                    "name": "Jibanyan",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "etsuko-kozakura-3078",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/88fb755d93e427dbbc9cbcee88b40305.jpg",
+                    "name": "Kozakura, Etsuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "komajirou-23189",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/488e5cc8cc8480c573b9a08683efe1ec.jpg",
+                    "name": "Komajirou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！",
+        "synonyms": "Eiga Youkai Watch 3",
+        "aired": "Dec 17, 2016",
+        "premiered": "",
+        "duration": "1h 30m",
+        "status": "Finished Airing",
+        "malscore": "6.38",
+        "genres": [
+            "Comedy",
+            "Kids",
+            "Supernatural"
+        ],
+        "studios": "OLM",
+        "producers": [
+            "OLM"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan-6401?ep=64884",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0587a92f472880cc3a2d03284bb8bc4930f4b21aa3c0bbdacaeab5dde0e6889ff246581d1268840600225c97f9f7f850061882cada126daa8232ca933e4044a7d35db34d87426ba29e64cc527a4366f06df45427954b69d639ff7e8079b4d4af8870307a7af69d7a9966adf496248fea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d51e354bf4d1bf91f0ebd9277d3c692/3d51e354bf4d1bf91f0ebd9277d3c692.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0587a92f472880cc3a2d03284bb8bc4930f4b21aa3c0bbdacaeab5dde0e6889f9685941c165d7590837c03f4e7601b73d2d653cbc939980e46528e32e3b2e1c1b075e33f50a532363d361b978c186f6b5d8568bf64de437e82e7d188e2d8e07798b21788bafe0342c6dfc8514332a8f842930d0a96edb0d2ad2f2112544942f4d8876752549336d7a9358c390515287f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d51e354bf4d1bf91f0ebd9277d3c692/3d51e354bf4d1bf91f0ebd9277d3c692.vtt"
+                }
+            ]
+        }
+    ]
+}

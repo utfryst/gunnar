@@ -1,0 +1,58 @@
+{
+    "info": {
+        "id": "okubyou-na-venus-9222",
+        "anilistId": 0,
+        "malId": 9826,
+        "name": "Okubyou na Venus",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b4f433b083ff82a0ca7d4b22b58a0cc.jpg",
+        "description": "Story about a singer/dancer. There is music and singing throughout almost the entire OVA.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "20m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "臆病なヴィーナス",
+        "synonyms": "YUMIKO KIRITA in Venus",
+        "aired": "Mar 21, 1986",
+        "premiered": "Winter 1986",
+        "duration": "20m",
+        "status": "Finished Airing",
+        "malscore": "5.57",
+        "genres": [
+            "Music"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "okubyou-na-venus-9222?ep=114199",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/57349ef3884d10c1c1afa26a62197ead61a98dda33592080b1c78fcf3ebc25e4089bf9f1f8a097ecdc8f648deacbf573c63cbb588b3d00ffc95c755a286a56542cfe404a1f44247072a8ba9ee4d6b7ae21939274ff91a9aba15604150f8d68e2e4bb368c31519a0d4b9836eee46db2ff6e6bd4b1c5d1022b395d6015e0bc256a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81e9922d0567e9e416b2b1d765b23cce/81e9922d0567e9e416b2b1d765b23cce.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/57349ef3884d10c1c1afa26a62197ead61a98dda33592080b1c78fcf3ebc25e4089bf9f1f8a097ecdc8f648deacbf573fe814625a152906bf509b13337a20249b62ed42caeb07078d4fca8340482e417c90c93756eab0700b16e89f884cd47fc29a54e10f1dbc69f375e01ea8794171553df9d96e1bf9fcb46ccce49fb1f15067200712325e71d9dafd4dabbbaf8f730/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81e9922d0567e9e416b2b1d765b23cce/81e9922d0567e9e416b2b1d765b23cce.vtt"
+                }
+            ]
+        }
+    ]
+}

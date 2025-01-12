@@ -1,0 +1,105 @@
+{
+    "info": {
+        "id": "fushigi-dagashiya-zenitendou-13618",
+        "anilistId": 120325,
+        "malId": 42295,
+        "name": "Fushigi Dagashiya: Zenitendou",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0491a0a322e7a4e8db0aeac36498f848.jpg",
+        "description": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.\n\n(Source: MAL News)",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "10m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "beniko-110097",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e4ac35ff03b411863a55f71433f58c59.jpg",
+                    "name": "Beniko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobue-iketani-12417",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8ca64623c3b6dd1a8ee108d68333467e.jpg",
+                    "name": "Iketani, Nobue",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sumimaru-110908",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1002f59a6f2847f1a7084e504936df05.jpg",
+                    "name": "Sumimaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "fukujuurou-katayama-3359",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5f3c632ab547808696c810a260e316b0.jpg",
+                    "name": "Katayama, Fukujuurou",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ふしぎ駄菓子屋 銭天堂",
+        "aired": "Sep 8, 2020 to ?",
+        "premiered": "Fall 2020",
+        "duration": "10m",
+        "status": "Currently Airing",
+        "malscore": "?",
+        "genres": [
+            "Mystery",
+            "Kids"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "fushigi-dagashiya-zenitendou-13618?ep=64438",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0f88fe48606051d2a089947abce36163b3589f7207d08e02fee5d6cc8e146065ae54ffdd9c35f4e7b4b1365f0db3e9f366aa6a70fe4df4bab35abb991957a8e3162a6ff574742a145e8cb1419785fbaf2a4391a43b2def6663bdf6e31b44fec2d70e506de1a59d81c1a26396160caf8171d5c9ea3536da9c483d8f75ced612f0/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0f88fe48606051d2a089947abce36163b3589f7207d08e02fee5d6cc8e146065ae54ffdd9c35f4e7b4b1365f0db3e9f30d2c73738216f73ea4ed9b4339b77e795f9a125af211de80e9ddcf49fa88eaabdb87a4ee6010bd4b4a041315a00d070a50dbe0bc09e99de0a8b1274e258a36bb38d3c59b971ac152bc31ece7827579cb6ed9360df5a64e73663de8ed7452b059/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "fushigi-dagashiya-zenitendou-13618?ep=64439",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/01f4f58616aa50e7a1c35dcc2a9ac744851cc45a002891f620dba991c72cfc7ecd72849b66df48bfaeca73884be92f4408267e4e9f8358ae0f96b18fdb422992fcbcb8661d302237bb3a85a96fe5e1a9201816b8277e2b73d7e0d3097aede449a9985b5deae84a80bebd70bbd4acdf4e97e59bf77c50bb58c84ad5995e6a95ec/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/01f4f58616aa50e7a1c35dcc2a9ac744851cc45a002891f620dba991c72cfc7ecd72849b66df48bfaeca73884be92f444344916d6788131a999a2d2330753e01b74eb76abde5b0fc9f4a7ada76a2a051cea4705f16b916faa08ee52a267d7131eb66fe4b671a51800dee923082c81334b4b7f7fe972c8740c4f22ecb949c6a568b7200409a9b8516783724fb8dc3abc6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "info": {
+        "id": "azure-nihon-data-center-10047",
+        "anilistId": 0,
+        "malId": 32377,
+        "name": "Azure Nihon Data Center",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49fe2ae64bee937ab1b995266d3d9c8e.jpg",
+        "description": "Microsoft's promotional anime for Windows Azure featuring the OS-tan Claudia Madobe.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "1m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/ZpNfPOZ_lwM",
+                "thumbnail": "https://i.ytimg.com/vi/ZpNfPOZ_lwM/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "claudia-madobe-56163",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/28cc88066aadf5d6cb1d3fa889f2b55f.jpg",
+                    "name": "Madobe, Claudia",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "azure-nihon-76137",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b01dcfcdbf51cd57e9c16a61228d8cf0.jpg",
+                    "name": "Nihon, Azure",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Azure 日本データセンター",
+        "synonyms": "Cloud Girl Azure Nihon Data Center Kinen CM",
+        "aired": "Feb 25, 2014",
+        "premiered": "Winter 2014",
+        "duration": "1m",
+        "status": "Finished Airing",
+        "malscore": "5.16",
+        "genres": [
+            "Action"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "azure-nihon-data-center-10047?ep=114193",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5f0a6f746dc4040e86b7cecb14a40a4532cd604eb9e80a7635e37e963ad64fa64b07c9044d1539e5d4b7aaf50fc8ed1eed8a20488e571582c4a30ca1a314b51759d3992f401bd01890bd62315ddd4e9a07f8ec76189ff63d2b4db3db63c118b44acaaf3321ad5b0f40828eb8266f4a4745d5f1f9b914397b1992ab96a7668e41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a984ada1b922136d960e0ccfacbdb06/1a984ada1b922136d960e0ccfacbdb06.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5f0a6f746dc4040e86b7cecb14a40a4532cd604eb9e80a7635e37e963ad64fa64b07c9044d1539e5d4b7aaf50fc8ed1ef24870d1b19519ae53ee9bcbdb8fc163667181d77785dc8930d3765fbc85c1211e4080d7bf2140f7a5999eb332a8e90f391dcbb770ac99cde26c0ad934e41afc5af7ff3f1be7715841e10e3fb72cdd46df94d90b0771ada277f28bcd48b531d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a984ada1b922136d960e0ccfacbdb06/1a984ada1b922136d960e0ccfacbdb06.vtt"
+                }
+            ]
+        }
+    ]
+}

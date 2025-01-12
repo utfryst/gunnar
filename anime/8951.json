@@ -1,0 +1,85 @@
+{
+    "info": {
+        "id": "itsuka-aeru-kimi-ni-8951",
+        "anilistId": 0,
+        "malId": 38473,
+        "name": "Itsuka Aeru Kimi ni",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651a7441513d376f1dbe0892fe9732df.jpg",
+        "description": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nAn is confessed to by her childhood friend Yuuki. She runs away from the shock and finds herself time-slipped into the future. With modern tech and flying personal robots, she's shown around by a helpful ikemen named Kibou and his robot rabbit butler. Kibou tells her that she's his grandmother and that Yuuki is his grandfather, and that she doesn't need to be so unsure of her future.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "12m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "an-96561",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/03bb767c4ce970a5acc4fd0915ed1a09.jpg",
+                    "name": "An",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "suzuko-mimori-148",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3983ebeb22fff44d8d2a05c4bf52e0a4.jpg",
+                    "name": "Mimori, Suzuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuuki-125993",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f1282216a9ea3e625cb5555f55d2b90.jpg",
+                    "name": "Yuuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shun-horie-1539",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a55cc54844d63e397d58ee0436a4622.jpg",
+                    "name": "Horie, Shun",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "いつか会えるキミに",
+        "synonyms": "Ogaki-shi, Ogaki Shi, Ougaki-shi, Ougaki Shi",
+        "aired": "Oct 6, 2018",
+        "premiered": "Fall 2018",
+        "duration": "12m",
+        "status": "Finished Airing",
+        "malscore": "5.69",
+        "genres": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "studios": "Asura Film"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "itsuka-aeru-kimi-ni-8951?ep=98658",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7e44fd3034766a081b01dea211933402a2da4aaa32f8acd20307a12f9388072d5bbdcbbd7062ab7ae34e4526f1267bcb85e28bd380c59019e07c90ea0e1dba543f30981baa4175cdcbbe101337c11bd293035ad51555947850aa75b1fa245e772a01426744da1d7c139017dd50f10e8e9716e9807432bbade12b6f2f53f408a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c1ca3a7f04c0f6cda75f8031c06c1e4/1c1ca3a7f04c0f6cda75f8031c06c1e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7e44fd3034766a081b01dea211933402a2da4aaa32f8acd20307a12f9388072d5bbdcbbd7062ab7ae34e4526f1267bcb952d8691ea47eba3d72e7571ce3734dd0a309a88fee44bb558347f586b6d4d61c09afce3055b72390efd335c4ef2d961fbd19fdff1415a9fd6bca5563eb531a55d092d051841f33a302d9c28c5f6c092df8e8bcbf1ed62be6f0790cb66f0900f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c1ca3a7f04c0f6cda75f8031c06c1e4/1c1ca3a7f04c0f6cda75f8031c06c1e4.vtt"
+                }
+            ]
+        }
+    ]
+}

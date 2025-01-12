@@ -1,0 +1,946 @@
+{
+    "info": {
+        "id": "super-shiro-8122",
+        "anilistId": 107993,
+        "malId": 39183,
+        "name": "Super Shiro",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5145c7b3f9aa05ede69137a2009f8ef6.jpg",
+        "description": "Spin-off series of Crayon Shin-chan franchise, featuring Shiro.  Commemorates 60th Anniversary of TV Asahi.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 48,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "5m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shiro-9207",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6b166e7570d53d890375fbf0df8ac8c.jpg",
+                    "name": "Shiro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "hiroshi-nohara-7246",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a86419610ffc6af5a0a2976cd630282.jpg",
+                    "name": "Nohara, Hiroshi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "himawari-nohara-10692",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/718ca8b0fd5f3d037e2991c56d98bf87.jpg",
+                    "name": "Nohara, Himawari",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "misae-nohara-8725",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e9ce4c78477b95db873929332e067ee3.jpg",
+                    "name": "Nohara, Misae",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "shinnosuke-nohara-1526",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83d38ed5b74aa64f8474e775a3a41d7f.jpg",
+                    "name": "Nohara, Shinnosuke",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "SUPER SHIRO (スーパーシロ)",
+        "aired": "Oct 14, 2019 to Sep 7, 2020",
+        "premiered": "Fall 2019",
+        "duration": "5m",
+        "status": "Finished Airing",
+        "malscore": "5.96",
+        "genres": [
+            "Kids"
+        ],
+        "studios": "Science SARU",
+        "producers": [
+            "Shin-Ei Animation",
+            "TV Aichi",
+            "Futabasha",
+            "Audio Planning U",
+            "Imagine",
+            "Science SARU"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Shiro Is a Super Hero",
+            "episodeId": "super-shiro-8122?ep=54272",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/332942da1fb3256c900d007703451800b12c70364ec8d1aa9c5ca14bda5fc8de9feb3be8af459254635cf5f57668dd0283d0634777a9405a4fbb97dd4db67803749a21898b0697218d4aa097a4d016ad1d688e97c57702060b541df539a3c25bd894b24bed9f85fea3b7387b3fb9df7a01d0dd4c65fd96f0b5f675810069ba3a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4afefd774d06e57134e8c71be5fc76c9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/332942da1fb3256c900d007703451800b12c70364ec8d1aa9c5ca14bda5fc8de9feb3be8af459254635cf5f57668dd02c0c7ed7c88f7e85e1fab55a68f2640b47dd1678444a4b64fdb04e8aa4d0a908503dd43cab406801762f9f1c3d2d547c24c1bb2991b501c6da902544a633b9e1542f54f3d629e13987176d6b1c8b29d93402405c4613b7ef33b06fd6f11ecdde2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4afefd774d06e57134e8c71be5fc76c9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Wack Snack Factory",
+            "episodeId": "super-shiro-8122?ep=54273",
+            "number": 2,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "A Jewel Is the Bobobobo-bone",
+            "episodeId": "super-shiro-8122?ep=54274",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bad517eb9fce662621ed8a402cdb79919cc5c40df495631184970574534bad5a966abcff799d9ec41b7343b6a5199a166030a207883dd21919b33d3c43aeb2e5d55f8de1508fdb3475fa829a55cf95d41d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da6eb2a36940dce26131ec30b3f9fb9a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bada900f51e46117c3d2ee00bcfea9760dbb2c2855e1cfa9f4c15ea459ffe2936cd8dbab84451d5153c7aab51533b088539d8c058ad53fa4a7b49cd245edf75fc90bf1411a7005b297ab06c20d5db0c0b51e9267b51c5d52615bb0e243d26027335/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da6eb2a36940dce26131ec30b3f9fb9a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Steal the Eggs!",
+            "episodeId": "super-shiro-8122?ep=54275",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c409a9b7ef418877c025f73c3b4715f58f7b416761f5f11138001330ad35aff1cad5943f6c8cadaa32ddbc880cc085ee62949cdaf796e638f82533ceffa847d5032a8493bd16056bb15046b882416274761a86d56609e722d5623dccdba09a1345c4170cc34a6927abff6ad67ac71ce9c537031bbbed75af538d2f343618fdbd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57a7ccdeb1ff282b98d6b9113f65d253/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c409a9b7ef418877c025f73c3b4715f58f7b416761f5f11138001330ad35aff1cad5943f6c8cadaa32ddbc880cc085ee442cf7a3f172da8ea21bccae9cf281fe196ff41b3c25416740b776f4a814d4385ab333c450aecfb5d5e0dc234c9c62bab62475cd23410e52a1eae34ffbe8543c76dc0dba038ba98a9e20feffa114a17dcdb830d591025aee9186ca47a775f547/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57a7ccdeb1ff282b98d6b9113f65d253/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "In the Pond...",
+            "episodeId": "super-shiro-8122?ep=54276",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c0297150aafe07322b60649df9008ee6879aeef9525cab02ad63c7005b8221bd3ffa32dd4a174238c82763f0b867b209e83787b808887045ad485c29ca216f7d8bb038d29d4045b0ec5022901e8ba0c2d73d1991611a121d9a7acf374f175499cd1d9ca79ab24dba774c4bee94cc33e27c16f230eab70be8a6a8ed783246867d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5896fa4ef9a828fd804e844556c86508/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c0297150aafe07322b60649df9008ee6879aeef9525cab02ad63c7005b8221bd3ffa32dd4a174238c82763f0b867b209a5fc8f4dcd657af20928614c2e8406728ca0f5a8f03f5f34c3abc6fae21dbaf53fba1f43fafc5d85d3822c563f50b02f2a089c137edfd10417dd062962e6ec285045d79ccec2a6fcda5e364fca3ccac67d01dd9773182a33e05a2fa7947d30bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5896fa4ef9a828fd804e844556c86508/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Summer Break Exercises with Shinnosuke",
+            "episodeId": "super-shiro-8122?ep=54277",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7759123167d77fbe906971f0cd8d864a0e25a502bdb509d0b9552ace4ba87c0047f6ede7a087a1f5a5153278341f7d91427abb8ad3eb7ee0b23bb4efe2d7c99bdbc371e1497bcaf09e9c43612dc1115b823bf2a8fb00f88982cf938709860a9847ef540f3a3736000930e90fd891eea0c1a63aba2259d80575ed1351eef93f58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88db56875bd6104841fe465eb1f96154/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7759123167d77fbe906971f0cd8d864a0e25a502bdb509d0b9552ace4ba87c0047f6ede7a087a1f5a5153278341f7d913c45d1ff028af494925cede820c8b2d5dadd12b4ec2455aca64d7dd433e2c9bf6e9980645d32a223dfef72d50fb929565596151f9ad70593153a25dc5c587e21e3026c02b09d6cb09864566ee557ba573085a3166ef2613fef7dc768c5017b03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88db56875bd6104841fe465eb1f96154/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Fun Museum",
+            "episodeId": "super-shiro-8122?ep=54278",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ddb4272f590b213f5b6b4f44d01d44ddff633062a600dfd9f960748ba827f3cde9f38b45ed481e78256fcbd7cf2eddc8973941af8e2844e11e2eada90180d37eed93831cffc3e1f8965d1fc92bb5240b3cd0af46ecd9128c7ae44cbc2b15bb4ed75e8ddafbc6500fd5e66aea5b9f5aeb2c4f00afcc3abc9ec7435420406639fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c78ce1ed1e28c0471b1054f927cef3eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ddb4272f590b213f5b6b4f44d01d44ddff633062a600dfd9f960748ba827f3cde9f38b45ed481e78256fcbd7cf2eddc89e80093a67a58613b462c19e717deff3d91a0637d02ceff95564e09d8bc15cc003d68e4ed3dd9c1e402c0a716f3558f05d8545ba47b6d1cdc0616489c3190e9c36d70a5c783e957fb8244dc6ce25331f4579d0adc1ce1e6f08adf79b19e166cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c78ce1ed1e28c0471b1054f927cef3eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rope Bridge Rhapsody",
+            "episodeId": "super-shiro-8122?ep=54279",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ff293bad30a94d571de3dde264945a189bf74f14ec7936614be98e8207a5ac80b301c7ac483accbad9f26a54daa7fb1ca36778b8c94f0a752d729a30016fbb61faef1a488f8026468c4ee3d36edfe240a27196e21ea59e3bb8478118cbbb83d97b2e5c949d5c412dc0982487100c900af1b70e2ac8155eb21a15e3d328c1a06a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed732867cbc990d17077a4b862a63cce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ff293bad30a94d571de3dde264945a189bf74f14ec7936614be98e8207a5ac80b301c7ac483accbad9f26a54daa7fb1c85d11aa9250120c0059e8d3bf0843e2c320150787acc44980590da863a880faeb7d6e1478580b469b9d64e93a392698e1ddeae249c85ae109da3b28c519357f995f87a25d4626616ab39d761b446e95eec064d6dd7526ce107e9006dca65f429/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed732867cbc990d17077a4b862a63cce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Hardworking Ants",
+            "episodeId": "super-shiro-8122?ep=54280",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2fd2cc587bcb3bf6d35535a90c14849fc170baaaf54c9dba98d87305a3d62973bae700bd52bd1e3a8f10e4eb565610a12e386d4e70174a4fe98119ea3a3eb0a71cf4d064febc197e476a67db73abe972f5925111f5c3943e70579db50a80c9e493f7fa12ef4f416ba651c7e7ff7bcca0edf69d2da50b8573e64f53d3179fdb62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d0d9b3c7f5f9ad416c5df583004c96f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2fd2cc587bcb3bf6d35535a90c14849fc170baaaf54c9dba98d87305a3d62973bae700bd52bd1e3a8f10e4eb565610a15eb9dc02a3f23a16c588395c72d1d3ee2a9e879ca706f381bb32a2110b676e48b16ff3b795b9027bae8d4d6bb622d2f544126685c82cbc04f6ae50fa955139dfc1a8a4240cf022eb0f234791f9037acae2afa0de3fb4ebd11e5e054cfaa40413/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d0d9b3c7f5f9ad416c5df583004c96f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Can`t Handle the Cold",
+            "episodeId": "super-shiro-8122?ep=54281",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2b737f19ea27e86ba758fe2818418651daa69c049903066b88288bb1cc47d48596e04b3ba3e6e72f73bb7cad68ac04525bf4771b24297c2661ae754e427a77dddeeae2e89c0d66d2db50f1af7a1d3b13fa6905dc9345708d8eb841a5f34b84d5e35285bf6f75aa6ad0fcb1170418f1184c220c466847c7c29f05c26607ba94f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0f40c4569ae3787ee6c34b366d9d8e8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2b737f19ea27e86ba758fe2818418651daa69c049903066b88288bb1cc47d48596e04b3ba3e6e72f73bb7cad68ac04525768cb864a2d23e50252ee62f4e586d59b2478298d7b81fd8b74a8e58039110db42f460104a4d15b669de6203c6462edd8469821de6dbd853f84a4906f7e4d5751d2aebccebaedab6df00ddf8d5dffe03b7bbd9a2bfde561fd95f28d44e8630c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0f40c4569ae3787ee6c34b366d9d8e8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Follow the Balloon!",
+            "episodeId": "super-shiro-8122?ep=54282",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5c204719c5fc3e9e529f878d69754addc7ad7a87a92321aa0d378e1798ec824f4db427ab2fb68f631e933259c04a405960ed1c1033971fd9ccb199591f5a49d96dd8714809e12f552550d928692d1b40a9e7c8b89a1aa29a6300d38f18cbab6cbddbf229c7102ebe62c042155b7aec8ae25c2ea9a32726590dbd85a2cc78d400/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd0be5d57446f91db0171d23b15d5c40/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5c204719c5fc3e9e529f878d69754addc7ad7a87a92321aa0d378e1798ec824f4db427ab2fb68f631e933259c04a40595c199b6e02abadc9bf3f8a6d60fb250860b35945dafdd56c46d5c248a8140ce0783a0d59d43c4c3ef2674e8b3a10e6ce0dc8fc4b07ea656ed57804e9f10dd9729389c86b6323761a88a299aab7f4f6c3c811c2b92e2b8e86acc5a494dd57f6fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd0be5d57446f91db0171d23b15d5c40/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Birth of a Super Hero",
+            "episodeId": "super-shiro-8122?ep=54283",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3dc118af8cffa705f5c6a3e06f7c87e51a29256066250cc9eba1b6b9c23c6b11eb27d0010baffa4a6df91290728fc399908332aea43d2dba35532f52a67b41c04e870fbcceebe6b21ccb3318b08f281cb7cb8cae5cf3bd6dac943efac1d591c397e4c424b3ba675de96cfb3044c275f15dba3a465cf998fc36b0974fd1569b7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/faf0f6f36e1cbdf3c46e1f894971cd72/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3dc118af8cffa705f5c6a3e06f7c87e51a29256066250cc9eba1b6b9c23c6b11eb27d0010baffa4a6df91290728fc399cd4e3b21be665a192aca179d49ffd49f6f3e167b3206c4eef7ae99427bf3155fc116c5afd7534fc62ec4d5ae62b5284ec9f3a094aa550caa022bdc4815cd0818882e82cfb9d6d1b8f6d7fbab6716ba96fe21667c3965919bb4707df6c523af88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/faf0f6f36e1cbdf3c46e1f894971cd72/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wild Canned Food",
+            "episodeId": "super-shiro-8122?ep=54284",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9dbe155d1547a76d49887f53c78088a3d0e59af957f54277d64ecd8c9b6c39acdea2ce358fe15373148727a89006cd9bd08cc32c73429f8bf088b201aa92ada37a128fe8ad669a92a52f751229e05aeb98cca82dbf39ed6e5de35bb47f97834fe9190da84e1834a0f5c9fd8455a2d81a33d29362a9a310442435b13fb2414ec5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b0861fd152ffa6c8ea993e25599855b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9dbe155d1547a76d49887f53c78088a3d0e59af957f54277d64ecd8c9b6c39acdea2ce358fe15373148727a89006cd9b41c1a15242b60bb5aa653f27807e27d6ea2910aeaa2f261233f615382a5a3fc20a47d3a529ac357eca5b6802d43facd5a58ba23d0d92b8833ba526de1c5e00727d7f7767074c447cc94ce62a58bf25d3b3905a047b4b1dc4515132c43862b6c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b0861fd152ffa6c8ea993e25599855b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Beautiful CanCan",
+            "episodeId": "super-shiro-8122?ep=54285",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cab3676758ac07835a7e5b1462a4aedd0d02a681035729b476449ee2500d2ff664c33d2d6debd88303fb2c897d70f62307ee30890efadfe579ef14655214371c2b7114703d50961ffcb31d894659101c20e27de4c41e1e799f3861688fa188084ca1388bf323de403966e23941c6332edc51fcaa0a65535c9c71f4b52e9ebe77/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64e1204ab0a7625f99a9b1f782051fa1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cab3676758ac07835a7e5b1462a4aedd0d02a681035729b476449ee2500d2ff664c33d2d6debd88303fb2c897d70f623f48a20c7b98ea73a76990275ca6a71566f30679092fe635dccaba44043e7f097112acc705410aa30c698734f77d1254449536443ef6d632ce66b0443a24986fd3679658c10fe5bbd6d4c5a759ac4690834c64dbc844baea42fe71737fac10b7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64e1204ab0a7625f99a9b1f782051fa1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jolly Bowling",
+            "episodeId": "super-shiro-8122?ep=54286",
+            "number": 15,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Forgotten Umbrellas",
+            "episodeId": "super-shiro-8122?ep=54287",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/438e44eb0b3789dabc111a5a3ffdd64a6bc9e4a24158def972af4428ad33c26c0f5931be39f9362feceaaa06c13d8af8b1a922e764f9b65649e75b73f82935a2ccd77b1cdd26f31dd9e908fa4aeaa8607138f1b7319916c4e994e303f17989691d0c77c58918069e6f8b5b7cd018b9cd35cc7980c394b3fd93c733de5548631b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31a334f8926b339e057e05c903d8bd52/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/438e44eb0b3789dabc111a5a3ffdd64a6bc9e4a24158def972af4428ad33c26c0f5931be39f9362feceaaa06c13d8af83d3bd00957a34567d7b66c34456af79d18725c2128f8ffed0fcfb8b57de4fe52fb8fd2f88476772d08c434e62ed5f55a1b27bb811d3b1c9efee5f5e0795c163cb37accbd9e512061fb2e7df10209818ed17bf7bc6415167e84e390e8c861cf7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31a334f8926b339e057e05c903d8bd52/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dangerous Construction Site",
+            "episodeId": "super-shiro-8122?ep=54288",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990d5f9387b01d0dca3b78c25bdbde2113187b3bc5394595474c4d818bd9436d9b483fda4b2ed675bc1c6d84306683fee741c7429cfe4d3caf616dca638dc15bf9db8319978ed9efff9f119c10e8b73b1445/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a7f71a9138a8a48d20e53ec051ec60a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990d7bb389e43e8d220fb8d9acdb0ecdd8f320a48d2cb4a8def6457b88be2840730fde46a329b0adcf963545fd2ddd6f33d4817835d2e9ce761bd912437f908e7e637080476a4abdd2e693d0751f23dc234f6fa90ea6f0004c70bd70bc49337c0182/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a7f71a9138a8a48d20e53ec051ec60a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bottles, Bottles, Bottles",
+            "episodeId": "super-shiro-8122?ep=54289",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b45cedea3bb09e179822d3c17b9a3029a9de5c18df31c74e12868b5987b1264d6ce0f14037357312266e49a00a8961885a322a0d10eab0602387aaa6b195fae673f2bdee5697bb0ea580506acba263e0cfab54eb62abe0726509d86e28c136133126086d063906798ddc8208dcafadff7817713549e8cb3ee82674307b8d73d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38b17f3674b2a4e6bb88f27235f6dcb4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b45cedea3bb09e179822d3c17b9a3029a9de5c18df31c74e12868b5987b1264d6ce0f14037357312266e49a00a896188e565eb52fb09c2f7030d9e874787568a00497fd4d5e3fe749fffbb73b11d0d7afd235fe697d768b7702531d290dde85c437aaa1487f65b22366f8e93e25201d34d2b22cb4baac62cb0870eff9084a41ed061213d736ff197d21d53d2add8555d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38b17f3674b2a4e6bb88f27235f6dcb4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Showdown in the Corn Field",
+            "episodeId": "super-shiro-8122?ep=54290",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/63fae184b31edc61ea4711f987f5378baebee7d22a70a655bfbcfdaa1fd88f649d4019db6a1f8c63b7082db46a47a7790e784c41790414309afa4c32f30ecab879adddc2b5ef7009d53a51098891d18ce0f45779cbec8937fc5f93943ceaf0983ec22f6c8656b065608fd077ce843c5b9df504e3f66ea33f78ac5bde27b2e5e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8c4768ed9358a85f8f57a704859ca5e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/63fae184b31edc61ea4711f987f5378baebee7d22a70a655bfbcfdaa1fd88f649d4019db6a1f8c63b7082db46a47a779952796d62bfd04fe90a525431af73ac1565f5a5a7fa7e160629892c4943427cddc02a93bd6f7c4f5b63a9f6c27900eb513f6adbbc07f0aff1972fe536bfc27a02150973b170c6bd90f39b12f8a507201e4c4e201e9ed6debe2885ac965b8c3c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8c4768ed9358a85f8f57a704859ca5e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "CanCan Loves the Swings",
+            "episodeId": "super-shiro-8122?ep=54291",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5c446d1af2bf30c33ebbdcea3a97bf43529e6d020640e54690735111b16a1d7efc0221db2ca0e4178222486b0bdb26c7b69e015ef5388b2c35028243f10d37fb297c0ed4ffc313e3f44d10a09491ae0fad0d7b24a893b7f7bf8a25a844b0933fd67ae472e0a1674ebeef6e208051c48529669d33f2d8ba503f0c23401bc6924c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d4e044f0244fb8ea6d5692467114674/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5c446d1af2bf30c33ebbdcea3a97bf43529e6d020640e54690735111b16a1d7efc0221db2ca0e4178222486b0bdb26c73a4801e56f0a9418093f19ec0368f58dd739ed6feb6b1493f86aa8d4d4dc53d4f4c7c45285ace71816e338bb9ad1ff2e56dcdb5c9b7aecd33aaacdbcacf2917c8b8f6fa61edb3b3221774ccf305887b04bcef01816c3b05018ebda416b25790f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d4e044f0244fb8ea6d5692467114674/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mayhem While Fishing for Sardines",
+            "episodeId": "super-shiro-8122?ep=54292",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1b4ebd8dafc33d8cff8f927f24ad2c0eae87c16432eeed0ad785ae1bc8543d42980d7643afc2cab35f1e859e41fdfacc5f50989bf2cfdf45ebc973c871f832759276113fde8cedfe23e842cc20d0e6dc3933987a3a955f4e3d54e220f49478e64e53a1faf81de869f7e71fae4b3086f4f4451d6f85f123e0bc551b0ab694a068/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e76e02c80c85785b90a27683c6de6570/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b4ebd8dafc33d8cff8f927f24ad2c0eae87c16432eeed0ad785ae1bc8543d42980d7643afc2cab35f1e859e41fdfacceb075a8b67f6fc424f8451176ba286ab0cc016fae1af8d7c216a07822e5fc5c640a2da442b756ed62e72191d038a70f202201497fcb20045c06723d9bdc6cfdcd8403322063f3ea74c9fc956446fdb0c61bbbe9177e892d7b07d47038ce83162/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e76e02c80c85785b90a27683c6de6570/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Quiet During Nap Time",
+            "episodeId": "super-shiro-8122?ep=54293",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1866a660ae78b30eca94d0b7b9804369ce56b217ac72c0fc5b955ec29dd7dfbb4095c290e317ba4b1c89ec3aca254b9efe7dc79e3c4531ee3a3afd8151a1e1e422f8913d6974a95553284c4c0a5239ef8ff34ae68eea4f07a5235bf5e167f064f70c363d67e2d584b1a31693924b8b9c176ace70ec04b803294e3a71f927efea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b0a8c8668b7a0bab9fc3b145fd35ad6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1866a660ae78b30eca94d0b7b9804369ce56b217ac72c0fc5b955ec29dd7dfbb4095c290e317ba4b1c89ec3aca254b9edeab92f510150208e89e19a7e408885cd06de49feae96c33d16fc3d8bd871824dd55c70de1a8b3d20cbc411cf5c50f98eeba603728ec424d8f050a81a971b5ed27dfa18d1e72aecd7863d4dfc5fcf45935889e2070c5085f8033d71d16e3d419/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b0a8c8668b7a0bab9fc3b145fd35ad6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Welcome to the Space Museum",
+            "episodeId": "super-shiro-8122?ep=54294",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8ab2bb879adad5ac5faca42eb95fd8477baf2c31aca2fbce99a2adab3935e7505a0adc60b92d63b9d2a5c216cea917cfc3bea3e7a732015ff009d1b0d6007cc2991251f50156d71b1a6885a2b0c25832c9a06e8f9fa82faa3e61fbc0892b31cba97e79098f9f427654df135e135dadc441094f3c6ed20ca35a1253345af2dd73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e543862a39c68e11acf9b8bba408343/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8ab2bb879adad5ac5faca42eb95fd8477baf2c31aca2fbce99a2adab3935e7505a0adc60b92d63b9d2a5c216cea917cfce29e7211d112ebb7336cc8d9d2808a8d0a1a1f7ac52e741ed95526f777a67ef16dc58aef8511aa1ea3bcc80aa3b43db5b329c0ddf5b1fa3d085a195ec9ec22d9f4a757eadf7f9087392a69685447c1005110e9497a80a097ffea48a14863f44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e543862a39c68e11acf9b8bba408343/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dekapoo, Aim to Be World President",
+            "episodeId": "super-shiro-8122?ep=54295",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c2c78b9bb460c6b1f6f8beea782741576d2dc04fe329787d46d487521ca2213dd9100735550ee272fd795c7f8af46113d7728810e4f7a90666a53851700a63bcc43df8ef2dbc6eda43f00b0e818e5053006b9b65b43829d8609e3a97958ad328f31c9a73fbaedee66fa443b8f5fd419e4dce7c276a945a8256327f3294a4b311/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31b31731d8dbdc53dbd078895e0226ae/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c2c78b9bb460c6b1f6f8beea782741576d2dc04fe329787d46d487521ca2213dd9100735550ee272fd795c7f8af461134f51d74b62c9cac553259ff1b50f96f26faeeebb73994113e1912fe3472f385e322ac0bb59937f7fe0d0bcbc2bcfb0427f8ffd7b16246af0f4ebc887a4e93dc57a4474e972027b4fc07d8a38ea66f93c16ecabc4403c6af51d38c8ecce970269/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31b31731d8dbdc53dbd078895e0226ae/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sweet Life of Honey Bees",
+            "episodeId": "super-shiro-8122?ep=54296",
+            "number": 25,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "The Scary Professor`s Mansion",
+            "episodeId": "super-shiro-8122?ep=54297",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/561a2046a7886f6e9a8024f76484c16d14c4fa7bfded4e89f37588c572e78da2f69a17f0357633e95279c2e9dd4e1a70425bdfe5c2699ebc41f1d81e3b6d545da49c1bd7e2e6828c44a6674217f13db30ae949defd8ab1364fd13369c8687b11a5445850196d7b46babbf2e3a37949bf32cf571c4448f6fcb64480164817fb94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/629ffb82ccf5bf724147b5603dfaec32/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/561a2046a7886f6e9a8024f76484c16d14c4fa7bfded4e89f37588c572e78da2f69a17f0357633e95279c2e9dd4e1a70355b4467480140548a454b2b0ba8dd67d3f876aa999d12622b936a70da6e9be5445bfd65bafd6b226c075e04ad5836269317815ac6a416f917c9fbf4d351a0f03d1fe56a16622275f8c592457280bc162879554f4ca51f4a9ba0701f6428b2c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/629ffb82ccf5bf724147b5603dfaec32/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don`t Move!",
+            "episodeId": "super-shiro-8122?ep=54298",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d3182ebe26e948f3f0e044e5bd0e61ce549148658152fcc88307159c6e38c6184a3d8ddc12a0a77c4c4e8166e3c5a0d543a56cd42232928815ba15c18d9d332ed5b756036c6f21ecd7790021a41b10fb91bbb451264a2efc57d8a12d1dceb6aef63aa5b6c379f363625a8a8b1a5eaf23dcf3b0cc7d48ba4a33e7a2f872b3b944/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f17958e2718d5b92c3e9117fcd1cb06a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d3182ebe26e948f3f0e044e5bd0e61ce549148658152fcc88307159c6e38c6184a3d8ddc12a0a77c4c4e8166e3c5a0d583d038637598ac84f24bd1c3036928326c41e2a44ffee3b70a6507b3ad305d826ec634416d35ff3bbd2ae03e3e11e41e120bb8e5e4cf31b47529675f99650da646894fd87dcfec16c194358a1f3b0817cf53a0141e939b453be145f08a5fb582/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f17958e2718d5b92c3e9117fcd1cb06a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Muscles! Muscles! Muscles!",
+            "episodeId": "super-shiro-8122?ep=54299",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c7490bef38187b9bed8e24ee72ee3e89f29369891a5e54876445bb86374dc8c40e281166abbd10c80d98d03e5fdb47195710f35be10214fa28cc218bfac556dad648ecfd2cd0849df092180f9fa15fbc01a3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38629639924e6803affd4260983331ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c749041088ecd1d10e89a3621de0261134bb9bf19dc8f0058297eae740a95aaf08a1264d923091c84c8f9d8ed8dbe5a6b895cdda57750b8d96668a87817ab4677a78ebb30b003804189aff2dfa015ad56112ec189878b0f9c50897f0ea97908c165f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38629639924e6803affd4260983331ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Take Care of Your Teeth",
+            "episodeId": "super-shiro-8122?ep=54300",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7685dfbc1cb5304fd4650e6c42812c01f7a27a1d522d30892731305f03b10889c9bcc8fcf84f0842b6bc0d6fceb139a500a823c7748daadbd5979fca53fab44f3fc65639d9a37ae2e43cd8aa85af518ca26a0de014f244fd8a339131fcd97aef09b0d1c4b5f29e8a56266b79fa8e3900c4cf616ed1b3108d0b5bc69cfd07ba66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c56d49b8c10d7acf1534351710d01255/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7685dfbc1cb5304fd4650e6c42812c01f7a27a1d522d30892731305f03b10889c9bcc8fcf84f0842b6bc0d6fceb139a512416301ebaf07325e9cf89b660b3d991c16c35e266952ea1c63f227180e947825194909ebdddbd2a3c8044ed8b49133e0ec071316abeca070d520c4cf00a847f8aa86049170c26f54d8ab0df6e59ed3cdfd5caa7b08e7326f621fb831584884/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c56d49b8c10d7acf1534351710d01255/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Doberman`s Favorite",
+            "episodeId": "super-shiro-8122?ep=54301",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b59af1376279235ec08d29bc640a3a8133997fc90912c0851f1e3759c422ba572cb9b6cf508e50989a28c7d64bfac676fe76d5885f4ac40e507994d2a95d55991ad429bcc4a9b4cb5f5224e7c57eb5434034484aedf0627863f2a5204de98d40207f176b677ef0e254d1fdd0e23c1b3c5c8a935dee9d74d9d6d812e41d6eb742/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/000d4e17ce84c246accfec4d9e727eba/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b59af1376279235ec08d29bc640a3a8133997fc90912c0851f1e3759c422ba572cb9b6cf508e50989a28c7d64bfac676d1e2bc79a130fe6d31797bd303a6203a19b7e4853b6272f241fc8c4d940fdc7c5066fda541226143fd3971f22e80069489670b9317f6fe554eaed7cad4535a0449ed2178e54add89dbc52135954392f3c5afbbc51e704f119290e0ecbb3874ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/000d4e17ce84c246accfec4d9e727eba/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Having Fun Picking Mushrooms",
+            "episodeId": "super-shiro-8122?ep=54302",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d59f064fac7ac8372350d450b422394d00c09e227914671102b7c39636f94cd4a6c3177c6f91f7ab88b9bc909fb8a193a838f806fabf14ec653b819950b3e98f2aca19103d37c62201011c55141f4c4c1e1cb6f8f4fd030f83c8209ec3b9622ffd6082efa58c0c999031071ba63d2e51f99e80ee059344f008daf82da836b589/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c1c2e7358620581d10adacb3bc0f5077/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d59f064fac7ac8372350d450b422394d00c09e227914671102b7c39636f94cd4a6c3177c6f91f7ab88b9bc909fb8a193265be44bad9eef69e3937080bbc796acfe33dca078e74f42ca511311a52d931a005eb9d554097ee8166cf266915e3e1abb90ba86cd77de7213b0a52284a93712d059211aeeda0d63e7c67f2140e0ba4acc2ffcb1c031d4bf0fff702bb99bd088/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c1c2e7358620581d10adacb3bc0f5077/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Show-off Sing-off",
+            "episodeId": "super-shiro-8122?ep=54303",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f93f75aecf3eab4206678a06636f8a1bb2a55b0464ba12b582774c692f7b5a6b301ac7f84774db14def532fea70ebd680caf27765e6ce86f297ec35b417bbd6957ae285831babca687a3992d3be2d14a2049888a28ce14b9666f4c3c0b20c4ee3ec7fae2e77b1b11a973260e914e7486aaf583a51ae432f0ff532895efef8dff/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f93f75aecf3eab4206678a06636f8a1bb2a55b0464ba12b582774c692f7b5a6b301ac7f84774db14def532fea70ebd68466de336fab34dcd078daa488bb30e62c6c2afe6d4301eb85baff38116368ebf5933f0ace4065eeda952cc74a7b4fde49cd17bcd1f5f219947ddfd3fbb4766b1df47dadc05591a3452f975a42c913117b8fb04bbefc88fedbeb42ac74a32dc1e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Trash House in the Pond",
+            "episodeId": "super-shiro-8122?ep=54304",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8876c4d45c78ce8e3fad2ffdbb30aec4fa55433d4da853424de030a0dc661a4dee91ec18b0ec51a6eb381a0acf1cc2eb1b3040d499c5c27bd7b7f2a9c6937739ff882967f1b9695ea10d273554de7958b6a3206f023de5c5679c10e8eb18f77cf2512d7656737a742180a317a6ebf00875227562f0083bbecd4dfd6309801acf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7e2d1bb61b7c27bcab8ae5674c75f02/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8876c4d45c78ce8e3fad2ffdbb30aec4fa55433d4da853424de030a0dc661a4dee91ec18b0ec51a6eb381a0acf1cc2eb3a7cca12e6cedc0e93035a2c31494d7f6988dc495da607fb0e6bcf15669dd8ff0eaef6a28002e7a1c28ab67c60dbecd54da8d641ddab73402abe4bccfac07f7c0ebbc24686503dc6e67fc285f5f8b495a416169f2a02ce9d74f2be90636b55ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7e2d1bb61b7c27bcab8ae5674c75f02/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Hero`s Holiday",
+            "episodeId": "super-shiro-8122?ep=54305",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/887197fac5891a05124f4e17216886c1bbd21b849324e9b28df02ed872746f5dde11f0794a01aefe363d62a637df0a3d5cbd3c6f642c5a7e8760d7ca833536fdaff011d6ea47925259b2869e63f583171963aee974440f45ff13c4946b50576b8ca587a94fd30be11a352c8343fd6a9eee6d07e999396e08aa3f0df37e744560/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cbc35b4358b22596f694045d88c03c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/887197fac5891a05124f4e17216886c1bbd21b849324e9b28df02ed872746f5dde11f0794a01aefe363d62a637df0a3d5ba7fdf378cf893529c8d57560c8ad712896a8e94bb32a009eb3ba34a776431d06a7f9b803ad92099f1640c95c28b8342c8972b9d31c98f09fec38f4e8f9b03fa9119a329ad9d5589301a33d5b785aafd9989885702d5691fb159ae7cfe0d563/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cbc35b4358b22596f694045d88c03c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Adventures in the Jungle",
+            "episodeId": "super-shiro-8122?ep=54306",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2829765176127326a0a0b53ddadde5b3357c2521e9e322e6ac78aff2cf14e52b65ccb8745ecc43b3f3ba516ffd82b298ab0a4c2dfc813f3e03d159a8cf7f53fdf5bf6e97aa2d04d5afc6dfb43d626b4db321afa4651ff8a13f2189f67190eda1cc807169f9958f82ed664ee4ad0ceedc4f0f56344d1e7a2b4f963e277aa5a3f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e33583db7a7e8e4014dac4e735243e6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2829765176127326a0a0b53ddadde5b3357c2521e9e322e6ac78aff2cf14e52b65ccb8745ecc43b3f3ba516ffd82b29845e76240e1dccd621a086f088832ea9df6958a486f1e3315cc819d415c9e07eb1b15f49e3bc67325f38287f8bb25200d7de08395465c795a445b082b05712a343247e310ca3bb14cd54db64186fa3ae172ad12b78b337fded1751a8166caa3ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e33583db7a7e8e4014dac4e735243e6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Daily Life of CanCan",
+            "episodeId": "super-shiro-8122?ep=54307",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5ecb0d1d09dc633540a7a741f62216a5b1844c5c5b2616adbd5fc6b74d76e47732fc17319fb4f9c114fb2a930eac1550a8cdf3317c4865c1ff1722290b306b1d1061b6098cf21b825139d4baa2399da90dac507b2a5fdf6f8e8318579246fc8fab5ed92bf8c0d43b0a48e942f535d056f69409432f473b60bd5efc30d4f9c773/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6b8346126ab583f1428e4e86f90534e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5ecb0d1d09dc633540a7a741f62216a5b1844c5c5b2616adbd5fc6b74d76e47732fc17319fb4f9c114fb2a930eac1550bd86040459adec52ae8fb4506de70cb019eff111af80fd92fd134c7ba6c2c8f91bf7ab151efc520fb9fd4b21cc999f2954232d1932fa928585c69155a355cccf71433919298b63f04e785819268e75ef91d7267753448a734c0cef5be5c27aba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6b8346126ab583f1428e4e86f90534e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shiro Becomes a Ninja",
+            "episodeId": "super-shiro-8122?ep=54308",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/7ff809ac7c5076ee80c8628d79ee899fef9d13520326a63fc84a2f708b9ccae9eb5fbe5a43b42f0209efca3f91a8a1ad2e787d21e5710911c598650d2edccb1b376357f10fea3e5ccb0a56a4a7573077a8e1649e58b4ae3823505df09a1827c4ced3c7494a5fe658ace293c4797a6ebe215ee63776b84cbf054429814d2f06ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c10735f627d50bc4e428d03bdf9977b6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7ff809ac7c5076ee80c8628d79ee899fef9d13520326a63fc84a2f708b9ccae9eb5fbe5a43b42f0209efca3f91a8a1add042d8a0c0d7ea475537c3465944e8aabf7b2a0695771e7b725c02c9e14a29b122622c5b7e7f170110da93b259f5bd168192655a0e4d3cd9f67aec720713ef357521da8ea585cad42f56e419b2b6b9c169250e8932f3eb7bd0f78c1768fb2a7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c10735f627d50bc4e428d03bdf9977b6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Secrets of the Badge",
+            "episodeId": "super-shiro-8122?ep=54309",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3c90a18eeaf8afa551ed5984dad62957c03ecdc582042000c25b1bb5e9b5ef05de3f87b538a06e836aa0016fafdb2fbfb037fe65c8bf30073eee4e05486d6eae280fd0a6eecf37db12c33b7295a343f48c43ffd14e67cc4b857ba2f4c36a8e855e29abc7bf4e4f0175c4bd59a03b0871be98c4fe841630741a36b281af0cb945/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c11125d430728009bbd6bffdf84a15f0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3c90a18eeaf8afa551ed5984dad62957c03ecdc582042000c25b1bb5e9b5ef05de3f87b538a06e836aa0016fafdb2fbfa32bd0888a66a077f57e0bdef291d94be61c7ac18f6242c9fb966afca181392645071c0c8fef4d538720eb1583297140699e3811f954aeea221ade4e640ce89f36002cca9bbf50832383f3ba7d666c0248d4891d09f2508dc6ec4386101db056/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c11125d430728009bbd6bffdf84a15f0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Life of Ants",
+            "episodeId": "super-shiro-8122?ep=54310",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ee2e9256c92ba9295aa07976fb51893cb02238384fc8cb732b517491a8caae32a083de38846d6fbd0037117167b5c9310f56115f122c088493c6745c2682252104d8715adc8a66eff0bca3db3a4f1f9773b99da6b3f4f4090b246c53153d0bf8f9c64dccfcc740bd16fae0b3858ac8381619206c1b064868045d1847f3ee26e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97863f1428ee1ea9140a87a74d26f1c9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ee2e9256c92ba9295aa07976fb51893cb02238384fc8cb732b517491a8caae32a083de38846d6fbd0037117167b5c93121cb69e820c8199e4db9e721bab8a5f630340ce03c2450e6c794044935ddf609034a137f91e0cc91f8932460f9ffab665986b321327b28e0a27515602c46bfeedda99c7e2761a42dc37504df784688beec35a23d550345ba7796f709e32510d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97863f1428ee1ea9140a87a74d26f1c9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sunday Golf",
+            "episodeId": "super-shiro-8122?ep=54311",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dd103953a40f53b35adb7bb1c4c1b8d01b8223872e773b65215fd1472abbb048282ffbeb28bd47ca228d351ae7291f792fbdfc82a960d46acffe4118e8347e54a60287d9cb401dd066c8e95675b91cb766a76cf66da337c99eba84d8bfb262d422032e2151a88ab93b4e2215b3b554c739a629635085724496bafbe88c5c4d01/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c576c669ce1bd13100c86a3e921f8a4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/dd103953a40f53b35adb7bb1c4c1b8d01b8223872e773b65215fd1472abbb048282ffbeb28bd47ca228d351ae7291f79863587f3a793d61710b2e37064dd8939dc232234443a03ea6144d9545d34b26cbdffcf2fc4ae16ede0d99631dae827b512d982c6c237f4b99955ec3f8dd26427b25badd9581c4bb1595d0295c8ab29b37f4affc35375909f9500c9478727a22a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c576c669ce1bd13100c86a3e921f8a4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Sleepless Night",
+            "episodeId": "super-shiro-8122?ep=54312",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4905c85f9bb8f12b172f389fc2fcd8706f9b350afa49aabe344acd5eeafde7b5ea632f16e3f90392a62e34a599c1d9594a68763b911be2ae2b3a5be4f57489c5fab26adf035182b2a6b52dead96e6fcff506e25c6b0c22d8fabfb5ec28c58ed33d77ac6ca68a87f371bb9ee6226fdfc6e9a19fbe5f79442e9ea4133d2fd50cc1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c131a684cecc23f7f69fa0db30c45d1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4905c85f9bb8f12b172f389fc2fcd8706f9b350afa49aabe344acd5eeafde7b5ea632f16e3f90392a62e34a599c1d959396b59b2347841fb1fcd361d9db22f778dd387b1321543503c65b0b7b0a539b17f3b89b45a94e00efd71c93b68961a2740fffa91ebc591f1f980e162978c37c4044c48f1dbb3643cc4772f0689c6175cc45cc48d7aa63be42ecbbd2a99905f04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c131a684cecc23f7f69fa0db30c45d1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Hero Catches a Cold",
+            "episodeId": "super-shiro-8122?ep=54313",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e541976ceb4c43bec313a76ef5a44acaf34903ec8a7060f9463693bbb1200e7bdcba7f336ca07e974db8a9f3d742ecc1acc93f5d4d3eae49197023b2b664007fcb9b50878fd134b6e1645dd7fdd48de612d1e93385806ff7bb685d255ddb8b86768217a5f4918c6f57c907b4888e4c2805b642e7cdb9ec38b9c3946c9e5c27ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/509151b0be7080870fcb78b5419fbd8d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e541976ceb4c43bec313a76ef5a44acaf34903ec8a7060f9463693bbb1200e7bdcba7f336ca07e974db8a9f3d742ecc15dc0e605c23eddcdc83cca6757a9480b53ca326d5048412a124683ac8e7fe831f65ecfa342b98f572ed83b64fcf59ae39d4eed500c54bc215dcfdd117622c020142b676b90e6f0ed36a807b65b040e08b536a280ce50d892de908ed46947779c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/509151b0be7080870fcb78b5419fbd8d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Run, Flee, and Follow",
+            "episodeId": "super-shiro-8122?ep=54314",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c5e2778084c193b7a270bf85aace2e1058300e263b6f80f8a4d4e8a7c718997b5dfed27acb378ee675b8a434318ecedf8595f19273cd08613babc41d896ca7159c760de61909a10a03aed42af669f34d9cd908b9504c86a603e7b7977e3b6fcb3a29aaf6fe33df29c3710504d4e116bbbec229c7084a03c15581f61045e96eb1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/420fa9d273e9d51d269d6e09ad6760c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c5e2778084c193b7a270bf85aace2e1058300e263b6f80f8a4d4e8a7c718997b5dfed27acb378ee675b8a434318ecedf8f42dc158583e4a93888578023b6f17d01e9f9dcce5d2df21158fa81c6777b69ca7ef39fce26498b9760d231e1e17663914f89e0ad8b0d667f2c219bac6917a35ace1fd9d0f311c7b7fc5fef18b4ff0c4d5ab10a894a02288161ca5a687b1578/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/420fa9d273e9d51d269d6e09ad6760c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mysterious Bobobobo-bone",
+            "episodeId": "super-shiro-8122?ep=54315",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c5567703fc3d694a73796d5c53892148dbc125e97bb22eaed7f50d4c6bb487782519547eec8e2b2c59b4f53aa27e50d3fbc2b9bbddd7504d54de49fd2ccd55aed93d7e8b94b35a82c222524b1460af4105840fc09c46631e63ae81fc42a1c7528c741cb0b9ecb40944a36633b6142e5246bfb9c11ec2642dc033f19868901bac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e4002ad69aa5d28c7cd4dd9889834c2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c5567703fc3d694a73796d5c53892148dbc125e97bb22eaed7f50d4c6bb487782519547eec8e2b2c59b4f53aa27e50d38ea477c51d13b1deb11df5e5cfc1dafebb786109b6885553b0fe6d86fbdcf132586f2a3fc5eef39e0b926fe32138bdf84a99df727818a93d431dbd7662803f4d8d7feb57e8e2ba8671d96b5ac1998fd00fa5aa718e9dade48816af907d07b79a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e4002ad69aa5d28c7cd4dd9889834c2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Popopopo-popcorn",
+            "episodeId": "super-shiro-8122?ep=54316",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/44c940d4b13c6604f5920f517569056af61e8d36accb8f27bc2fa9113cc8c4112436c969ad36a874ecc0c11fb499e3fd63b855b1152a87e0f6bc3948935da43a32d4b6533fe7ac41a62f1533195de134b6da5e19224877943defdfe14c9450a615a42fa6b25dab089b4c48782632692c796d98f306768afd8dec027ee09d34a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d9051ca0369bfadb60c5c9cebe62890/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/44c940d4b13c6604f5920f517569056af61e8d36accb8f27bc2fa9113cc8c4112436c969ad36a874ecc0c11fb499e3fdce8e2fb007d9a80a002e8bf6a1203ae534d422fd78b0e311484d6efb0d77a10ee80e7f999d43897ac260a510ca907653c73ceb32d5eeb471e04e61e4da55b975b8bf0937210b203268795e792f8c7ee7c1f9188fff3240a25181a5836ec7432c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d9051ca0369bfadb60c5c9cebe62890/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Marvelous Laundry",
+            "episodeId": "super-shiro-8122?ep=54317",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2534fa9a3a157feff28f9a2c5db62663abba7fee127f13972eb6f9c6f30b95ff84c7d3deb3d0599aae5fb21401adb2cf7a2fcde7d1ce2ae64e72f04e3539e766e472e876fee4af465e1079d6708f579e7e35aa7f12f9c1e33d971337fc953eddb7756f97be6fcd2d3d46c7bb132150f8eb4d0a8f15325b5c97da759eae869882/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed05d812092ba5fd10367eaf5b2e9bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2534fa9a3a157feff28f9a2c5db62663abba7fee127f13972eb6f9c6f30b95ff84c7d3deb3d0599aae5fb21401adb2cf49e80f9d36f77dc4b40dfc0b9fd3e8d7ddaffb13fb18f908586772721e998f64489e3d1381fee44468d90490427fad742779a8108716df9223c70131713071f75eab46c135041e7a2bd153043e29c5bd1060e7d8c5f2be10cd984e50500584e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed05d812092ba5fd10367eaf5b2e9bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Big Watermelon",
+            "episodeId": "super-shiro-8122?ep=54318",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7cd215bdf3090ac977ab23c38462c590cb444238e305eb6badcb5181b64f8e88fa1edfb87a74869efe53018ffaa6622bde7fb651a7236c5ed8a301c786b8263a4322401b33984e40e807fd83bff5646d3cdb3a89c299261b1edd63d2a0f49c163a089f7463351133c3a6376c5ba7662cfc8ea0f9ad3ef76829ada6143554de2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f2bd80fd20bbb67b852207034406779/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7cd215bdf3090ac977ab23c38462c590cb444238e305eb6badcb5181b64f8e88fa1edfb87a74869efe53018ffaa6622b9915cc64eec369c05497c5296dda648213ccec5ef6aff102857de3cf99d347092e8d56fe3de94ded2c600a9511d113c5e48d2fa3374c8db6da853116d3a807030d6c69cf327f8ad2bf4c1946a6951b1b6af14b677df121300b312fce52e34d6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f2bd80fd20bbb67b852207034406779/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Midnight at the Department Store",
+            "episodeId": "super-shiro-8122?ep=54319",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2080fed09e44f9b5dacc207725fb5a4e32f6f3bbce08db931b70b22df3f39a069b71d4413e03d84640acedc9d9a1c70aeacd71bda1ff78562ccd3cadfa08e5d31758793aa260202475666fa390e1269ede88c3846d3b8c77e708905beeb3e6d73b242f3130b3ed83cf49783e166822d46a33660ffc24cf82546c963b9614f3ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc1661111a274e5702ca6b942cd061b5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2080fed09e44f9b5dacc207725fb5a4e32f6f3bbce08db931b70b22df3f39a069b71d4413e03d84640acedc9d9a1c70a46a91f69c7e3e662a735de510f2862cbfc29d6240dd83cc605ca926487aaeb2ee8a14cdb13a51d848681ad44be098e05f694fabc76529868decc1b15c334c850a7947e668dccfdb1b635c298ca9420218f81ae044346b0322d1f9e5823872de1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc1661111a274e5702ca6b942cd061b5/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

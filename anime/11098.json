@@ -1,0 +1,62 @@
+{
+    "info": {
+        "id": "perrine-monogatari-movie-11098",
+        "anilistId": 0,
+        "malId": 16458,
+        "name": "Perrine Monogatari Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e42b15e1d5ba536605f927cba500282.jpg",
+        "description": "Movie version of the TV series Perrine Monogatari.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "50m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "劇場版 ペリーヌ物語",
+        "synonyms": "The Story of Perrine Movie, Gekijouban Perrine Monogatari",
+        "aired": "Jun 30, 1990",
+        "premiered": "Summer 1990",
+        "duration": "1h 50m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Drama",
+            "Historical",
+            "Shoujo",
+            "Slice of Life"
+        ],
+        "studios": "Nippon Animation",
+        "producers": [
+            "Bandai Visual",
+            "Nippon Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "perrine-monogatari-movie-11098?ep=131405",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d9b1df82b969ad1643add094d62cc224e3a2bdde819b2eeda54b9139a7aa2d3cbadb5845055bc6de6fe964ad9ef1652676305cff17b6a2b1687e0e5797cf02c11ffc7525308e1a868e550ba72b5c933e8d4a2ac4985e8991ddd640c17daa2c79c9a13318448556891ebaeed49900e6b9ef860055f6e145240a64585d56dca90b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad2eef1e1851e53559eaaa5e5440f92/aad2eef1e1851e53559eaaa5e5440f92.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d9b1df82b969ad1643add094d62cc224e3a2bdde819b2eeda54b9139a7aa2d3cbadb5845055bc6de6fe964ad9ef16526e6f5fd3905c617c93d21954764028b8bae7caf89ac676289d2715eeefc752633df7e1d915206c1a798c3ee6d4c1cb1e5bbdd1f8355796a1827b930f62f84f35601338d162fc5df3c9163ebe45cfaf4a0d77c6417dcb3ff84133cd9595488b9a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad2eef1e1851e53559eaaa5e5440f92/aad2eef1e1851e53559eaaa5e5440f92.vtt"
+                }
+            ]
+        }
+    ]
+}

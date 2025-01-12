@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "arcade-gamer-fubuki-extra-10418",
+        "anilistId": 0,
+        "malId": 5715,
+        "name": "Arcade Gamer Fubuki Extra",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ad0fdc8ece6ab996ac36e5f07e772f.jpg",
+        "description": "It's time for fun at the beach! Check out all the girls from Arcade Gamer Fubuki in their swimsuits.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "N/A",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "6m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "fubuki-sakuragasaki-43656",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6513602cd9e4465661a8d3417a13004.jpg",
+                    "name": "Sakuragasaki, Fubuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sakura-nogawa-1414",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/364acb4ecf243274933c06b7e89e171b.jpg",
+                    "name": "Nogawa, Sakura",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アーケードゲーマーふぶき",
+        "synonyms": "Arcade Gamer Fubuki Special Story, Arcade Gamer Fubuki: Paradise Beyond the Wall",
+        "aired": "Jun 11, 2008",
+        "premiered": "Spring 2008",
+        "duration": "6m",
+        "status": "Finished Airing",
+        "malscore": "4.79",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Game",
+            "Parody",
+            "School"
+        ],
+        "studios": "Shaft",
+        "producers": [
+            "Shaft"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "arcade-gamer-fubuki-extra-10418?ep=91011",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/895f9cb5a575fbfa42f93410bb1853043785be268de4abf8a5d10739d80be938f5fbd1fb78803cd67db84750eacd6af78e17154f1729dbd007ea876a22df4d69f70b14e64367bbe570ac529b74c11052b63225c9c654130c183b107fad7c613bd384bf8a1d91c5cc166478399254f685eaa0ab351475ae75b6961181008031bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0c99d477972e2929d9cae4558d1a223/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/895f9cb5a575fbfa42f93410bb1853043785be268de4abf8a5d10739d80be938f5fbd1fb78803cd67db84750eacd6af724bfe637af0cc543d39f7ff1cb0ad5daa79d2cd6a81dbc01159180509cccf6bd4e4fdc0c1d07c53c07fff72b592a21e1ddcab70ac05d4963d6028ee698f8ca4f28c6d4d2d666ca1879be980037ddbe01431dbb4893db90b15f9c7e3dbc699c9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0c99d477972e2929d9cae4558d1a223/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "info": {
+        "id": "fireball-special-6698",
+        "anilistId": 0,
+        "malId": 10666,
+        "name": "Fireball (Special)",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d56ca5da9698ebc1684fa67505bcb4da.jpg",
+        "description": "A small special in which the show's stars, Drossel and Gedächtnis, explain a little bit about how the show is made, through interviews and behind the scenes shots.",
+        "stats": {
+            "rating": "G",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "gedachtnis-30871",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/01b2dd33bdb50751c0053bee9d050708.jpg",
+                    "name": "Gedächtnis",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tooru-ookawa-790",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/98316127918a9907664069de56099ab8.jpg",
+                    "name": "Ookawa, Tooru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "drossel-von-flugel-6967",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/502146072a2e40993d287697cfc61559.jpg",
+                    "name": "von Flügel, Drossel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyuki-kawasho-5474",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45e01a185b2491e609dc6046564ac280.jpg",
+                    "name": "Kawasho, Miyuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "メイキングオブファイアボール",
+        "synonyms": "Making of Fireball",
+        "aired": "Aug 19, 2009",
+        "premiered": "",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "6.3",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "producers": [
+            "Jinnis Animation Studios"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Special",
+            "episodeId": "fireball-special-6698?ep=74887",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a5056aa48af75464b90273ec2d6ed77cd6dae3a75f85ca7753252fda9484ffd80166d339304b98d317b7d421db497296f6c4a1a842d6502137aecf39c08ef0e48db697ddbb08ab9a498ce616c8f9521b4d10955a0e8db213164a632172974cd6e4330f7f83ff6df4dbd9b52bc447c2c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40fdd538db65351751a9f0740f56c825/40fdd538db65351751a9f0740f56c825.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a5056aa48af75464b90273ec2d6ed77cd6dae3a75f85ca7753252fda9484ffd8f81a95e3da49fb4f5bba877a4783d2aee462ff461e15958102a270d6fddf3068c815564e371a48930cddc686aea4ee9ad08406093d7c1a2c368aca4120c09219634557f1a347ffd8e745efee82776b46e4639a521bd33f331b64e674e77ffddfb7654ab2589b380b19e9c7448dd08ce9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40fdd538db65351751a9f0740f56c825/40fdd538db65351751a9f0740f56c825.vtt"
+                }
+            ]
+        }
+    ]
+}

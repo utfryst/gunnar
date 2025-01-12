@@ -1,0 +1,508 @@
+{
+    "info": {
+        "id": "beatless-7180",
+        "anilistId": 100245,
+        "malId": 36516,
+        "name": "Beatless",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44687814cbcde28b84367ef0b4685291.jpg",
+        "description": "With great advancements in technology, mankind has created hIEs, human-like robots that act as public and personal servants for society. Unlike many others, the kind-hearted high school student Arato Endou treats hIEs as equals, but his financial situation keeps him from ever owning one.\n\nHowever, his normal life is shattered when an ordinary run to the local grocery store goes horribly awry. Viciously assaulted by a hacked hIE, Arato is on the verge of death; but luckily, he is saved by an abnormal hIE carrying a weaponized coffin. Her name is Lacia, one of five highly advanced hIEs that recently escaped the clutches of the mysterious MemeFrame Corporation.\n\nFaced with a hacked car threatening to run them over, Lacia offers Arato a deal: in exchange for saving his life, he must register as her new owner, thus taking full responsibility for her actions. With little choice, he decides to trust this artificial girl and allows her to live in his home. Though Lacia begins to adapt to her new, peaceful lifestyle, she warns the entranced Arato of one thing—she does not have a soul.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 20,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/ZKVpM8esO6Q",
+                "thumbnail": "https://i.ytimg.com/vi/ZKVpM8esO6Q/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/jPq1Hrh5ZnU",
+                "thumbnail": "https://i.ytimg.com/vi/jPq1Hrh5ZnU/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/WtkMioE-dGo",
+                "thumbnail": "https://i.ytimg.com/vi/WtkMioE-dGo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "arato-endou-12212",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e864ce50dcdb9e5579b1787214d70e47.jpg",
+                    "name": "Endou, Arato",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takuto-yoshinaga-3256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/459dfc457493486f27abb7ffcf3b30d7.jpg",
+                    "name": "Yoshinaga, Takuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lacia-2847",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fac24badb35219a9ff7f2c65b75b7aa8.jpg",
+                    "name": "Lacia",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-touyama-41",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aaa7817d97535166c8338bd9254b67.jpg",
+                    "name": "Touyama, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "erica-burrows-116349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/28d961386525ee2c1d1a6cd67667385c.jpg",
+                    "name": "Burrows, Erica",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "emiri-suyama-5625",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4ac8d218269605ea96bd84812bd5f5c3.jpg",
+                    "name": "Suyama, Emiri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuka-endou-18213",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a0e54af17a3cdc6f934b2b258f16546.jpg",
+                    "name": "Endou, Yuka",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saki-ono-3535",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/601331819d80e91da6cc5cb8419d769b.jpg",
+                    "name": "Ono, Saki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryou-kaidai-29885",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ce92aafa962afc6d18d1efaaeb62f305.jpg",
+                    "name": "Kaidai, Ryou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shiori-kaidai-13855",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8310fcf5f028fa73c72c53b60c41ade5.jpg",
+                    "name": "Kaidai, Shiori",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "uki-satake-3183",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cbba8f2f896a4994aa2a69612d47c76a.jpg",
+                    "name": "Satake, Uki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "BEATLESS",
+        "aired": "Jan 13, 2018 to Jun 30, 2018",
+        "premiered": "Winter 2018",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.2",
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "studios": "Diomedea",
+        "producers": [
+            "Kadokawa Shoten",
+            "Mainichi Broadcasting System",
+            "Sony Music Entertainment",
+            "Good Smile Company",
+            "Animatic",
+            "Diomedea"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Contract",
+            "episodeId": "beatless-7180?ep=45687",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/22727cb27b8f4e19db12a4e8b6da87f47b94a1d4ca4687a7274a8ad44d3d1cc4b4d0bb00cf72dc6a18772f66080932d10e322cb7557868432f35409f542f187b5e84592706b83b91b69b7dd899550462775a147a223ecacfd40d95b02a45fa98a5a163c52c39a5f5ac79c1b19abf540bc5cd2359771745bde60e78fa86665a27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0446bc8cee9d77546cc0bc360921c040/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/22727cb27b8f4e19db12a4e8b6da87f47b94a1d4ca4687a7274a8ad44d3d1cc4b4d0bb00cf72dc6a18772f66080932d194d08020ce5c9c7dbeabaeb250d5920fe052a9010a4c7cdb19faabfbfd05431462ed1df0bb9d30fa0156a4fb903b613dc2befff08944cad61113482711bfbbbef88d8df11de94bb9158f581c9742b02ac2cc2d36f35833c7984573bb3bff4f21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0446bc8cee9d77546cc0bc360921c040/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Analog Hacking",
+            "episodeId": "beatless-7180?ep=45688",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/17e53dee41bcab055d8b4fe51caa18dbae4ac42eb0efbcec8acf2f1421fb99a1452a63274cc2259cd7042ceb27488353b0d4fc42002d1769669b5d9f2df00fcf66da85575016232ff0a9c5ffcadce22941e8bb8b15d182c0499b0fadd8cf1c9573067a30dd653bced5cb081acccbe2af597166bb22a5f1f657277c88f0a29335/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/373fbf2e17047eeb7527c67155a76b73/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/17e53dee41bcab055d8b4fe51caa18dbae4ac42eb0efbcec8acf2f1421fb99a1452a63274cc2259cd7042ceb27488353d19471a23967e02961bdbff57f3e5a8e4d4b4e229f2e98207291a423d9ea975510f8489d94b0d069a9a85b25a948fba689ed8590afec080d43562808e9e8dc43f29f2497fd73d8337ec1d4f1e12a2a8b2d3e583f5e626fa52dd443f26afaebf9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/373fbf2e17047eeb7527c67155a76b73/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You'll Be Mine",
+            "episodeId": "beatless-7180?ep=45689",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/43204f81b3eaa1f9ee94492afe0e0587dffaaac0054f589496e68745c39dd97a8328a84c407d788076238a84718f9d9ea998477198bb23e925d07d756b2cb65f230ab06b20fb5c32aaeb2995cc39263bbd2365cc2b0c568a195ce9596d1121a3edb89f70f63657541d0e790907c0be46872e1f837a76df51241fa873d7d78e69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1c5256632cdbeda1d755380eaf6144d/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/43204f81b3eaa1f9ee94492afe0e0587dffaaac0054f589496e68745c39dd97a8328a84c407d788076238a84718f9d9e7bc9c75dde233df696c85365835effb50db20980cbd0f05c8cc5044377e407c81954856323dad438b1607200b9ae5c7346673ccfc173cd3281c1333e52d01c6c6d4a5ee875d62b5b800a36a8302087c9ba14458121a272f3010aa9a5de2f3b27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1c5256632cdbeda1d755380eaf6144d/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Automatic World",
+            "episodeId": "beatless-7180?ep=45690",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6e40c7fce3ffed0f092a3e619d7b645ba2f4ed38290230bfbbd40a838fdcbf738420b08b27ae8090ea6a564413313cf5f1ca3433cb716b6dbc0636b16ea626a1135949cf82d00e1edaa9c06b258144bed8844400c90b21de121bb74a408e6ab71a4918076ef4f0e4b70b9f92d83d39f2def479808e1578cda65e9bfb37fe32d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe4945a7b3f77a4c5ace24977ebeb50/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6e40c7fce3ffed0f092a3e619d7b645ba2f4ed38290230bfbbd40a838fdcbf738420b08b27ae8090ea6a564413313cf5f92e4de004147d2cb145da91a2bf39debe68a8fbaf2544f881df875b1a3354a2a00df9a1611d324cd90f9714827d792cdbe686a9af5fffb72ff77bb48e58c0a640eb06467f8c68bb6ac480f37dce54e7ee12570d25d6fec028731fcb0a873000/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe4945a7b3f77a4c5ace24977ebeb50/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tools for Outsourcers",
+            "episodeId": "beatless-7180?ep=45691",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/75c1c82b3b57a2fe37097538c9703f596123f09fc0abe659e8c17a3547599de8f118d7b96ec24d8d19f2417b8dd71ed45d95e23fccd91dc5de02b66cb2a1c495af9bc2f1ec94b694c1c9f84a0c7a6be5c94704438a93e35336d9bb67beb23dabb3b0b118d64c72b7c04f8ca698a90732e3b9aca7cc7634c9c5373fde793d59aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d2993bc13b19109cc3ed5351a41a2fc/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/75c1c82b3b57a2fe37097538c9703f596123f09fc0abe659e8c17a3547599de8f118d7b96ec24d8d19f2417b8dd71ed4286506c51d500a62d88587e7534c850aabba94acf19527b650dab0a52de65e0823f852e318333f9ef07b21859b062cb0e78f37f7995f18e224a9da4c4bc7f1280d7001a1d438f3b6c59fbfbb32670c847356e6736fb5ebd4223f031d3d545bd6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d2993bc13b19109cc3ed5351a41a2fc/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Higgins Village",
+            "episodeId": "beatless-7180?ep=45692",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7e06bdb20ce94525faba79f7a1005df8663d0072e38190baa163e07b4f255fa14312e3987d32bf721fbaa56ebb24a567c13c5ad277642dbd79a268ec393a349e404356cc80c8efe008cdd71a8a634a0b435f0b2cd774e9728b2a229407d732acff1632d3a9e6b5aa6a3cef8f5172c5356b97a523b73614ba4544aa19d9b07eb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56b4bf4020bcbc24df123d6d18801e38/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7e06bdb20ce94525faba79f7a1005df8663d0072e38190baa163e07b4f255fa14312e3987d32bf721fbaa56ebb24a567fab42446670354a46133ce47e251c9252c5a97f1e36224c08b3a25bb14debfc161c71ce2784a2f68e10756b8dc900d95027234845ee721af151ad718f7b764e635777f26ef793c3d33aa51f42da2b5227667b9f6511381567916c3cb9c65c33d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56b4bf4020bcbc24df123d6d18801e38/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy Meets Pornography",
+            "episodeId": "beatless-7180?ep=45693",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4ea4d24d49355055e50f3b7694cdd659ff84eb7ac3c53b2b1da2f6c5c5dc35658c173f2d745116dd1798dfd83d786e07b5192f25b7dd74ba6c92fab7b292b7deddb600806ab318bf05be160f83ff6df1ede34ad08f65e9ab1ad8756345c03b35c9df737e8641bbcec233d24d32210225e6fca3e49034f93a26fc1df622ddf92d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ec5288f33e3f80adeb61e197aae972e/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4ea4d24d49355055e50f3b7694cdd659ff84eb7ac3c53b2b1da2f6c5c5dc35658c173f2d745116dd1798dfd83d786e072051681fb777279748a0d764df3b437c8d249bab0dbfaaf8406bebcd0bda06bc394c69e287e0558419283c61721214a9ef74a642e48c2b074786547d8cd5f7e085445b41bd6fbd43072f9fea4358e7c427f5c6e4e8355c304f6ce559b0b69c7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ec5288f33e3f80adeb61e197aae972e/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Awakening of Sleeping Beauty",
+            "episodeId": "beatless-7180?ep=45694",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f978eaf4ab7b1655afeee3a68b195a8a4dc625276c30c13fae1c583d5c2a60075b6393806f7c43ee930491750e80e4bf437bf26fab7c0c4d8cf606ec80c47aeb04e1700f8796454ab848000bf06350b6c728fd09e9420a324a7c6071c36d070e89abc2f33fa10f7b8ac3bd6807fa51f1a7906e460110608d87a4eb6df9712d79/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f1b434f7ae13051cf587ab38a052eaa/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f978eaf4ab7b1655afeee3a68b195a8a4dc625276c30c13fae1c583d5c2a60075b6393806f7c43ee930491750e80e4bfa718332a06c11ad6c98bc94cfe40605f802ff7322248da2779a50ba1f6eb24f3b13caac2cd3032879e5edafea98cf60a13c01528d0c5ec932ef60dd8ad325241c5c6a79c7f9b18d2336fe1fa1e32d7fa6858bf28674cbeed796dced16bc3dd38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f1b434f7ae13051cf587ab38a052eaa/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Whereabouts",
+            "episodeId": "beatless-7180?ep=45695",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a1450f0f46e300ce486e17e6031acb3b2130b540be63be1992b3c0265d0b2c536ac5601ba17c55a0c4d3616a8ed319c55a95cbeb645420d7b6ae9cd40a75412bf6917ca7122ad1a42ef0a771cde450a639b573b2fa72ab6c6bdf14af7ba8c56543d6bb890dd7e4ff6a1a17591e27b1eabba9bfbd1331ae843f41bd6fdb9df633/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bb965e64d4e5d46e43852860a0ff82f/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a1450f0f46e300ce486e17e6031acb3b2130b540be63be1992b3c0265d0b2c536ac5601ba17c55a0c4d3616a8ed319c5ad1d4b8c54841e3a9748787ea96705e276d5a827a1b68b8bd3990c446c133261f49baf2f61e2dd94951897b0ecea50d3fcb6a5900b1359916a6cc27c63d6b0e9028872a78ae4f23038cc206f8fba95607ba6431f9897d846b6118104dd277a38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bb965e64d4e5d46e43852860a0ff82f/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dwellings and Surroundings",
+            "episodeId": "beatless-7180?ep=45696",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/55369d8b3d86d12b99ca169e0c8262a2b1f19c9276b6f9c97fdd444225473b84893ef4991e2b6e0df6baf5f6b07c4ed0722a9fe3e9a1503016052096392d82e0421887418fe7a7afb0be9a48fe3bbe56e567dc7f36c8b07ea4cc47910df62689a9002255cce7d220cf92ad8ee7904c45790159fa0d0cf2b403ff8cabfa4d437b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6934fb443fb5a34ef768d41a7b61d757/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/55369d8b3d86d12b99ca169e0c8262a2b1f19c9276b6f9c97fdd444225473b84893ef4991e2b6e0df6baf5f6b07c4ed088cc4bd8c389e4dfc03c9452f5db1a95933355bea7929dea2e596293ada6ca25f6d9ebc7ba8a4de65a83c3f662cf96fc7b039c398ed8a2db92abd04524098ff4f8a042d2662c08dada6439c8b04071ebfc9cf4460935d7b92fa7bb1f9d17acf2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6934fb443fb5a34ef768d41a7b61d757/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dystopia Game",
+            "episodeId": "beatless-7180?ep=45697",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b6402319f75b12dbe48c0f9d2314bb0f9f6ec64e40391e814aa0473d9563397848d629efe2340169ff1b6f75530f4fac7008f2157de729ebd7ea1c31775518285c5118b980dc5a5ae204af927cf747e997932e3986f1e19d78d740bd1e4add45b0bd556dc7ec149ead09c9be16457fe588b884220234397fdca2e41e81e529d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8af314077f0afbc32a7b04d222c7db10/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b6402319f75b12dbe48c0f9d2314bb0f9f6ec64e40391e814aa0473d9563397848d629efe2340169ff1b6f75530f4faceb7296f238d382dd615b4513b4f0ef810959e7cdbed7dcd51176cd52fab996f7ddc7a133caf79abaee8479ded1e0bab3b2812795a5dd142968bb2af4c9d5e6a068a701ed3d2d2c17519df4e40e7d6d032bc9dd8e15c2710f40ae3e0a0ce3608b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8af314077f0afbc32a7b04d222c7db10/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Slumber of Human",
+            "episodeId": "beatless-7180?ep=45698",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/afb2545e9750a85e02d04b7e722b0910252ebe2466c46b7836fd16192aab455d57cdd71c8ab221fae257a07c24057d44bb7d71dd5273ad75f245f0dabc6f0e1632ac4e4ce6a32130ac1281028e0e00cc2a0a0eac586a5b341a841d2d69e1ceff2199f73e9e9e8b9da5ffde231b6ebf6fbdc5225fa541a1f646662695c01dfcc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4842cb7b3d1be396b19ea35f07bb9d5/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/afb2545e9750a85e02d04b7e722b0910252ebe2466c46b7836fd16192aab455d57cdd71c8ab221fae257a07c24057d446c005e83ca562915804c0cda8d30858af9b448e523594e54507c6adee68bdccb06c690f7cbb542e2c21a882601c3ea5f57de2487d1310f314355e10ec440790e82dc55b4a5e0a69985d159845a2adcf239f53fcb77e9377158a16ecbd85385fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4842cb7b3d1be396b19ea35f07bb9d5/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Prayer Within",
+            "episodeId": "beatless-7180?ep=45699",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c26dcc2df1e4b364aa16b7bbf2b30d46118defad8f8a3bda1f47d617265e7b79d975fd796736c415030959f37bdb302059bc7d75e26786ed5e2c3ad481549053f083e85ea0e6a18f8a68a9bfcfa2548e827730aa40aefe156e29dfc3c461cc4a70fe7e6fc0a0fb8b4ced30238532167ad0da99481125f8904f6261f14742a304/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d8671e1e340143bda683d2cbafc8460/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c26dcc2df1e4b364aa16b7bbf2b30d46118defad8f8a3bda1f47d617265e7b79d975fd796736c415030959f37bdb3020418bfc0b4060176ae056d28e74369b2a0b09de4df72dd1fae7576056d522d935c83596de41a4830a54c3071aa53dcb31b6dc91282fdc6ddf74b72d5d955cd65a7092701fad4b9db72a83e595ece86c010bf4c5ed07b75f9c69d329fa5211f7fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d8671e1e340143bda683d2cbafc8460/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Answer to Survive",
+            "episodeId": "beatless-7180?ep=45700",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bf348348c822f04984ffd3221110ac0e75674e40767ac56f5d6256c01d3b6ef561b762454dd80297cc99b6197ec084cfb96f57c9360f039156fef2ad1869f92557758f33bd30a49c63fe647622b8e0d9a0821589d24a83c70b99428625e04889eec1fcb7eefc7169e6ba76c75412bdf3196a1c1ebc239614cc9b65f1b6ca815f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f509ea4613aea1781730499ffb6e5f55/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bf348348c822f04984ffd3221110ac0e75674e40767ac56f5d6256c01d3b6ef561b762454dd80297cc99b6197ec084cff4ffefb4e17fc5c89aa331b2f8cb9dc54ae160ed6cbc19991224bbbaf11845d108cc0d55e18a9055c45360af55280e378d3f4793d3c9e4f7ec14f1a3152a4935493a0e1ee1294adc93e67c271ebf456c7f1637a56b0e065af872ab03dcf5a45b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f509ea4613aea1781730499ffb6e5f55/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Edge Line",
+            "episodeId": "beatless-7180?ep=45701",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6d20199de347c5573d93889bf507c2e4ca69f82cae09e63d7b4cf413056d67a8fb617f035c41f1e90593a7828a383a7c894efc22e4ff1b742d8ecaeb21f96b441626532b239d34069eeb8c23fc70751194b54257725f682b9cb0ce683099c0d29ba9997793c97971b01a29352df24a2a55ce497a81971fd69a85e5f9413e9055/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6e340fbf773484d39dcee1633a60477/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6d20199de347c5573d93889bf507c2e4ca69f82cae09e63d7b4cf413056d67a8fb617f035c41f1e90593a7828a383a7cb9a872bb7b90c71e4b713009c5a206b3a72f1f089d40e28171d0b3b200386002f0e85a87cb661db612257f7f16384544c75025f00127cc7555f919ee37f724a37d39de68be55ec4488417ccc25cbcf007fa7718f441c6a47927aed4c70f67afe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6e340fbf773484d39dcee1633a60477/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Plus One",
+            "episodeId": "beatless-7180?ep=45702",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3d4f2cdbe82420e65fc47a51b98a02bd240cfd7f36df996a51444126f4b16a4a5d41ea3a2acfd7f6460006f1af03565676a144e7dd379b76d1205071ec6744a5ae3f7ce21b1de73ad0ecc44941d6f393ac5a921d3f18e6373b8fdae4776cae63de05ca5d10d6d5d2c99d08e60e9e3e3baa7e89825a96919f7e542908ccae23db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36d1179b164bfbbdfb2346e57f3bfee6/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3d4f2cdbe82420e65fc47a51b98a02bd240cfd7f36df996a51444126f4b16a4a5d41ea3a2acfd7f6460006f1af03565638ea1f18b409b37e931d49b7c176ffc5331c7a4e16c1715140c22b2bbab1b426abc5dd5130d6aa8da39dee55cd9cc8ce328c61ea3696eaa6b98de152c4bcde5efcdf1e90b53934b4d9a9a814218e2c2ebcc933d7ed9c89347cb9f3d497864be6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36d1179b164bfbbdfb2346e57f3bfee6/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Reason of Our Own",
+            "episodeId": "beatless-7180?ep=45703",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2cf0afba30a59fc3b21bf7cf177219ac4b8c0a12137601f3b87619ad7071ee72470144e27fe44578ed248f0e3e698ebd11c7c4cdc6b0958ed770373a06d5ba7a002fb1f6589d9d6913c27921d7006e24e4c07870091c58578f3450a789fc07dbb3130f407ea54d5e2f50d124996b3838dd3df52cc04c6cc83c59a8c393fe087d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a68edc10f6ec02a094d7a3df4f054263/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2cf0afba30a59fc3b21bf7cf177219ac4b8c0a12137601f3b87619ad7071ee72470144e27fe44578ed248f0e3e698ebdc5ca474ef731096ab79e281cb0313ae4bcd63407e1cc3c55b456fe17a2ad1b8a7301e689de4d17f4a7083ad7f7622dd8f12e529ccc8a2282ccd458d110b80656daa21697f5d20aba2c1b0e522e9b536dbf268d67cf210e22c6fd456465777cd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a68edc10f6ec02a094d7a3df4f054263/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Protocol Love",
+            "episodeId": "beatless-7180?ep=45704",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fe3063cd605a40c9e9ace2da0ea9d0eb1e8dd718cb8c1ec160be9e16bba86bc1e8edbc9580b652ab49975694c1b8ee2eee2da14810513dea685d7ffc73040fd385c18b0896376e11df7078d45c74c9cb2bc516bf31f994c40e125241d50dea8bbdf25f7837bce95ed9fd24b9035573ba10c60b545ecf454bf4a8c6b025f55b85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92f13f36942d0929ed5cc6c97151fdba/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/fe3063cd605a40c9e9ace2da0ea9d0eb1e8dd718cb8c1ec160be9e16bba86bc1e8edbc9580b652ab49975694c1b8ee2e9c31718cec33819f4c543c554bf7655a56545c292711c1a49dee10d81a80b9673bfc8980155013ce1f4fd440ac4a624bed0e94b975c8a74466e39366bdb34f9786092833d0f681b71fde191cf2afb7a4dbff130431a4ce2b9c793eb38c96a34c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92f13f36942d0929ed5cc6c97151fdba/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Paper Tiger",
+            "episodeId": "beatless-7180?ep=45705",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/48aaaadfee5a537cb24239f1bc8904e33f4726f01e4f25a7f3be6622f2b2935064e6f65f9b8c55bfbf3a74b5a5711b648898b7bf02d250dd50c437fa2b8149566163c642f3595d579ca7718adcecaa76f1ace87b5804d0372702968fa9bc8daa793c86bf7824a45be4c0176c801b22037ef4dea959f595c827a8f08adaa47206/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82b6d650c6be2699e9d97256474f58f1/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/48aaaadfee5a537cb24239f1bc8904e33f4726f01e4f25a7f3be6622f2b2935064e6f65f9b8c55bfbf3a74b5a5711b64b8dd0fed4ad584c8bfdd16bcd53fdae37d0c2372f22ab50557f57bdddde5e02fa5e2fec638a545ce3eaad06dbcbdede02307b2d3c92cec807b8a354bfa863847f13f1845cef88caf2837ac5e9e2be298016e427c051f1b66eb90fbc5a6cdc0b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82b6d650c6be2699e9d97256474f58f1/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Our Errored World",
+            "episodeId": "beatless-7180?ep=45706",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d5386716a60754ed64998a2dbccddf5670ee712220c51b85b14a5a7ccddd4cb8eebeb88b172206b4f58a14ee7816ef65f75143bd238b1ad269e7d843b39a7830005db8c9006b590729afd7f8084c4b63770fcbc289cb86496b17bb3d98229a0b318739ab37dcb89b2a263754fe79f1d54e27c07c58827286525ae6e6f4914f28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55334e6750b86912141c235c3ec96340/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d5386716a60754ed64998a2dbccddf5670ee712220c51b85b14a5a7ccddd4cb8eebeb88b172206b4f58a14ee7816ef654993e31d598077ffad9888a21db7c50c7b685e21dbf869f8b9d1c56b0471b11856f884de38457c6c69d88f27e07173d24ada4b0f11771206fb173281e2323c3321213d86401b4e69997a312f9925e4530199557987f90a318fc62ff7dcbbe6b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55334e6750b86912141c235c3ec96340/eng-1.vtt"
+                }
+            ]
+        }
+    ]
+}

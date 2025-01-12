@@ -1,0 +1,56 @@
+{
+    "info": {
+        "id": "time-driver-bokura-ga-kaita-mirai-12093",
+        "anilistId": 0,
+        "malId": 35680,
+        "name": "Time Driver: Bokura ga Kaita Mirai",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da5057842636488b37300a6a3b0c8c70.jpg",
+        "description": "Part of Anime Tamago 2018.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "TIME DRIVER 僕らが描いた未来",
+        "synonyms": "Wakate Animator Ikusei Project, 2018 Young Animator Training Project, Anime Tamago",
+        "aired": "Mar 10, 2018",
+        "premiered": "Winter 2018",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "studios": "Robot Communications,Imagica Imageworks",
+        "producers": [
+            "Robot Communications",
+            "Imagica Imageworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "time-driver-bokura-ga-kaita-mirai-12093?ep=113164",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/36d8d8c006d25dbb0b7ff8b6d36ee0928462c5e9c71e5e4a4f305b28b422736f9d785f1de3566b393b7e675d4d98fcd4c3b9ba6108e04760dea3686187c2787264ed44f4d005876221a3e0975f6efe080dee8e619fe0268c6500778ea4523ec830d5bf574836bdda78a710e4ae099f0d22799727e94244765be1704cbfe470b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6fa4e6a3deb064c3748227ff3521527/b6fa4e6a3deb064c3748227ff3521527.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/36d8d8c006d25dbb0b7ff8b6d36ee0928462c5e9c71e5e4a4f305b28b422736f9d785f1de3566b393b7e675d4d98fcd41ef9bf1e92caac7a3fb484b6efbc20661c7e809fde4d44f890aeb0ef7bfe5f792e733aa9ce9954ca095f99397b0ccaec1df2116efc4d95eefdfed122bd53c8ee7c4cf8ab7e70b7e3b6af28461506298a70bf86e2615f67c18879751e1c79949a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6fa4e6a3deb064c3748227ff3521527/b6fa4e6a3deb064c3748227ff3521527.vtt"
+                }
+            ]
+        }
+    ]
+}

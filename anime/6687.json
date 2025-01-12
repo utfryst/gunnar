@@ -1,0 +1,371 @@
+{
+    "info": {
+        "id": "azur-lane-6687",
+        "anilistId": 104161,
+        "malId": 38328,
+        "name": "Azur Lane",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aaa1c3656b720bafbb3e0024fa239cd.jpg",
+        "description": "When the \"Sirens,\" an alien force with an arsenal far surpassing the limits of current technology, suddenly appeared, a divided humanity stood in complete solidarity for the first time. Four countries—Eagle Union, Royal Navy, Sakura Empire, and Iron Blood—formed Azur Lane, paving the way for the improvement of modern warfare, which led to an initial victory against the common threat. However, this tenuous union was threatened by opposing ideals, dividing the alliance into two. Sakura Empire and Iron Blood broke away and formed the Red Axis, and humanity became fragmented once again.\n\nAs a seasoned and experienced fighter, the \"Grey Ghost\" Enterprise shoulders Azur Lane's hope for ending the war. But behind her stoic persona hides a frail girl, afraid of the ocean. Even so, she continues to fight as she believes that it's the only purpose for her existence. Meanwhile, Javelin, Laffey, and Unicorn—three ships from the union—stumble upon Ayanami, a spy from the Red Axis. Strange as it may seem, they try to befriend her, but as enemies, their efforts are for naught. Still, they persevere in hopes of succeeding one day.\n\nAmidst the neverending conflict within humankind, the keys that could unite a fragmented race might exist: a soldier coming to terms with her mysterious personality and camaraderie between those with different ideals.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/0V-SwEtubII",
+                "thumbnail": "https://i.ytimg.com/vi/0V-SwEtubII/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/bRFVIQRv1gY",
+                "thumbnail": "https://i.ytimg.com/vi/bRFVIQRv1gY/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/o2cUjFsWgv8",
+                "thumbnail": "https://i.ytimg.com/vi/o2cUjFsWgv8/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/oZIJz3cx5M4",
+                "thumbnail": "https://i.ytimg.com/vi/oZIJz3cx5M4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "akagi-6425",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2e5b91ab499e22259f955387af1bced2.jpg",
+                    "name": "Akagi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-nakahara-129",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c681f7e69627cda8e51ae33b8d85e12f.jpg",
+                    "name": "Nakahara, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "baltimore-50874",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6ab8c114d113f9e82d67986a6b7e2a5c.jpg",
+                    "name": "Baltimore",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "belfast-3277",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a75234648dab120a5a573532bf424de2.jpg",
+                    "name": "Belfast",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "enterprise-2596",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/38aed6de5a06f5a4ba9cafbed2f4924d.jpg",
+                    "name": "Enterprise",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-ishikawa-108",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa5885c7931f29473368897256f20266.jpg",
+                    "name": "Ishikawa, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "javelin-7155",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3fba0138b81a502eb89f7c472126ec71.jpg",
+                    "name": "Javelin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nozomi-yamane-4329",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3da1cdec61c84e54974b1e1d9531fee9.jpg",
+                    "name": "Yamane, Nozomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "admiral-hipper-16477",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cae7c38423c379c89d553ed14c8ac915.jpg",
+                    "name": "Admiral Hipper",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuri-yamaoka-1914",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8ad56a4aa21756c2035c220153466542.jpg",
+                    "name": "Yamaoka, Yuri",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アズールレーン",
+        "aired": "Oct 3, 2019 to Mar 20, 2020",
+        "premiered": "Fall 2019",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.31",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Military"
+        ],
+        "studios": "Bibury Animation Studios",
+        "producers": [
+            "Frontier Works",
+            "Sotsu",
+            "Toho",
+            "Nitroplus",
+            "i0+",
+            "Yostar Pictures",
+            "Stray Cats",
+            "Bibury Animation Studios",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Mobilization: The Girls of the Sea",
+            "episodeId": "azur-lane-6687?ep=44640",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0aa229460c89fd6ae07b64a4b1979b6dfa6f7fc0c2cb211b7ccd5209ddb14f76509165c575817b3d02c94dff0f2aeed0f402fc853a5cad885d9b31634c440154f5ccf9573717166a75babcd15da1f1c1ab0feb5fff727a994b143d109412fffeac331ad4d0a43094a8e5c1951bd04c46138596d51b12bef281e22685cbe7999e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bdb8de197258fbd940ce89a48d69de1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0aa229460c89fd6ae07b64a4b1979b6dfa6f7fc0c2cb211b7ccd5209ddb14f76509165c575817b3d02c94dff0f2aeed0d2a4f3dc7c72c70edb990e2e485ef1366d63098f01578e1a5ea5052241d6ea57c84f0b1a8fed340d910ad1067df5e2c550ea150d2f726e27e82da342f6a6ee883bd64d27a479932a2e3daea74cd42943b20ffaaa9d421b8edc32846dfc3b91c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bdb8de197258fbd940ce89a48d69de1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Melee: Pulsing Waves, Steel Wings",
+            "episodeId": "azur-lane-6687?ep=55409",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6e02e6f5a329ed0260309a4a2bf64f26e59e9f987e73d39c74cfe0e6c81c034ca0df1d4f56a15ed8deb9e55d87a2b99f3f4116d4af5e2c781bce93194d54d0c713b44b44ff2cefbb67ee62a0fe3af78c5b4d52dad43977f46c511248ef0df2c98fa7fcc4bb6fef3f58e4cd05a32ecb4a5082c241c4aa98efcfaa72c5557fb29b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e547e5920db9cf7a3a0c6a8c9ed1f08/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6e02e6f5a329ed0260309a4a2bf64f26e59e9f987e73d39c74cfe0e6c81c034ca0df1d4f56a15ed8deb9e55d87a2b99f7bc6fbb3353f03f18dee2e961d336cc095597561658794d55c9a6aad3f0415da16ca060c4d1466dfcee492c8d48c4c11831c370c01e3997db1df97114b1160348a897e1e06d7d915c28da71a0cec6b1f32d4983f0d380b08aad44ac719da68ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e547e5920db9cf7a3a0c6a8c9ed1f08/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Elegance: Perchance, Like a Human",
+            "episodeId": "azur-lane-6687?ep=55410",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b45a46baf2f9c4344749b77db501046de1feb48b90ffb6f8e666adfa3aba9ae0796502f097577deef1bdc8d6489e97e76d61e4de4cd8a3a15889a0cf294db634a1217b4ba21d164da77331a8a19d46a98e41fec2ab9845bd5da6e2672d679e229d6dd68dca9d66fb3f0bca39e35ce588f15cf9b13300223ab31571f7cf2b33f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/709570212d65e088f9c2780cd3a42c94/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b45a46baf2f9c4344749b77db501046de1feb48b90ffb6f8e666adfa3aba9ae0796502f097577deef1bdc8d6489e97e74c03a9e2591cdd76997a344c7605575594d3ff64182cc661cfaf2b30568ea4aae0a6feefdc0dca88338fe682cf9fc666a823d7f1cb36d658b4e3385996e403b09e0a65cb740a738ad65351bc0c5c3e5a73908019c99d1ca6559eb0ec55adbdb0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/709570212d65e088f9c2780cd3a42c94/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura: Cloak and Dagger",
+            "episodeId": "azur-lane-6687?ep=55411",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/67199c95f8572f7979b8e6f8b0cad1d8d39a16ce114d8cbedc90e5d208dc4ea775c6d8b196083c4646bf805f60be40e9379fc57241377dbfd2b27b171c4cbd53a0df2e2340625478ef4c2f9c147d70120af8cf131b3429604708d906205c7fd113a89651aa66edad91b4bea267b99229d7b1525b8e5aeb36f55bda9eb973bf28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2289dea0749f4833d9a0feac5047742/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/67199c95f8572f7979b8e6f8b0cad1d8d39a16ce114d8cbedc90e5d208dc4ea775c6d8b196083c4646bf805f60be40e960bb1b59c32a51111ef2f7afee7c2566ac318fdab4916f479ad692469b7851f5ff0e6f2d25478023fa3539719eb48e0dff20368ca42a6f80d24c81a80dae503114fa77c57b48fdc4bc80af74a94fa44c83645a38d302d0950725225604cb9b12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2289dea0749f4833d9a0feac5047742/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reunion: Reaching Out to You",
+            "episodeId": "azur-lane-6687?ep=55412",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5de08495124d548a12380af3fcfca3db838f53d849158f98d178021ee9b4e6cdda4fba3ab5edb7d41e657d0854ea36f1d504fb84b9f0dc1c92491b08861d3d52e9504eb08ca6a4ef68790ad602a3e62c369d3ecf51d77e354d31bcdec3630df9e6195f497abcbfa0e99d0e9406b1b4ff1146ab42904597ee1b85a44176686bdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47d425583227353e3576dedfc08779f3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5de08495124d548a12380af3fcfca3db838f53d849158f98d178021ee9b4e6cdda4fba3ab5edb7d41e657d0854ea36f1114d796a0236c132730f0b58fefdcd1fa8eef616f186bc247900662b45a802fb42db8a2684b0380d52f144f29edd443f01949363d96361181c390b55da01b5dbfe91ec28613eca7ee839157f4fd659a6943c993c56e035bfe0cbadda0616eee1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47d425583227353e3576dedfc08779f3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shackles: Tying Bonds, Binding Hearts",
+            "episodeId": "azur-lane-6687?ep=55413",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c1fa8053ad4de98a27d62cf7414929d21e920a1b5519bd7b666e321e241ad0b2acbc439d054592b3fa0f6e542a6d716d998fc30b0962d15ff55bc2f345b8b97d744022538568fd91fe076c28720b464dc4422df32c198cf24d062f42b1c1964a61d018d17e3b2bd0da0a23676eac5477a2bfeb4a366b235768aa31d6ef01a6b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed5c45c2f2faf986db466d2fda3f481/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c1fa8053ad4de98a27d62cf7414929d21e920a1b5519bd7b666e321e241ad0b2acbc439d054592b3fa0f6e542a6d716d18e94f64c67bcd40c191fdbbba998aa173d2d4d91c78c4c7a0678b4c74fd2382e69eb9a9f9a937cedf060a2e4bdc5aeea703da02cd366c9abf3510e818a97ea2006104d98eec9058b4f3e0e3f9dfe0f3bd1bf95668d5a1f7273763c5908be0f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed5c45c2f2faf986db466d2fda3f481/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Deadline: For Determination, for Love",
+            "episodeId": "azur-lane-6687?ep=55414",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/51671aa2dd80c2c9bbf43913ca79b4969a3437e00bcc4f7137f5a06b0d591db25a1af98b332a429e1cfb04b446025b6693d2d61d22018c0e421e0d305acf2645fb266f5d01dfa5a6006d28c6e5711e9570418abb104df3c93d3b4fe811d69c9b4c48bdf816c2a955ea58e0cdcdb4c6c7552c062299cbadd5ddbd6ce59297d2b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64405b10bd46f40e5564c91fca49faa0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/51671aa2dd80c2c9bbf43913ca79b4969a3437e00bcc4f7137f5a06b0d591db25a1af98b332a429e1cfb04b446025b669b415db7c00eb63dd1d5e3d4d7b212f2da01e3ddd452f41b154e5e462a1e81a775dcc887c4db3e6b8151a29e938bd2d0337a70436d43ce472eb614a915cf74e1bc8d337eb016312fce5af1bb4dafd7662f475885c9ece6b36ea65de85f99cde5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64405b10bd46f40e5564c91fca49faa0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Intersection: Hold You, Never Let Go",
+            "episodeId": "azur-lane-6687?ep=55415",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/017fc91b4b30ef972cc0746f34d0d7f295208c3b601efcce99afe338a82dd84db6604e8aac6888430749f58cd451797dd7115da48c76c1fd6014d5ded1bb73179b8091f890bf1f3c3f4959b486340b5fcd9bf8451ca44450a5768962f6a253eaf7948df855055f41e4198c06a30e9ff8fa36d29e1c292af3d214edf8fbf16084/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dc0cf22a09bd7ca108e28549f7e1e37/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/017fc91b4b30ef972cc0746f34d0d7f295208c3b601efcce99afe338a82dd84db6604e8aac6888430749f58cd451797d89e72b7198ff8df5c2f36aae3c3d67b333bebc518401f29ccf781b8fc3258a4889d406ff74872b07e99f7cbf8e2edb375a4f1e72dbaa417c811bd6a4737a5b8bb9bdbc3aab7d5dd0a7acbd7b517704f006024974bd01c1d284ddfe2a8c78e5c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dc0cf22a09bd7ca108e28549f7e1e37/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hope: Light Shines Through the Darkness",
+            "episodeId": "azur-lane-6687?ep=55416",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e68c177ae4019cce3dbf829e0db596fb3e604e0c4566136afa90f8933e883cf08e27138d0a06001c29418b0beb2b839b0eaf1fa8b6df2d892297e72f7df2c2b241200f7bc98da2d82ae4bac075b8527f0a4f91731d551e0b8791d2d8620b244754e5553cf75cd5e946dd8cedbdcf544f7633442a23b18530a8213f2d93e0bd0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984b8129114b26e874daf11895ed2670/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e68c177ae4019cce3dbf829e0db596fb3e604e0c4566136afa90f8933e883cf08e27138d0a06001c29418b0beb2b839b1b39cf77258cd04968d65a5094001455d54b0f285b3d2153fa7761a7f14a9d8845b59382bf6522c5684c15dcde041961858b77a73132f9a72bc38f064ef8f0df9c5a2bb0e5dc1d77af0c83082ee5486ad960be47479423d3eb3058c6433552b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984b8129114b26e874daf11895ed2670/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Echoes: Crimson Memories, Bleached",
+            "episodeId": "azur-lane-6687?ep=55417",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3b4689002409de0998bf9c12b21cb8c349ee5c929e1005982f116a284552a8ed5a9bcedad4fa5a7952a083dd05ab2780887a2b45a95d157091fc21868a78a7dfec7ede205191026fea4237aac4f3bead5f974a127d3261643b0ba97429d637bfa9033e47425a02345fb3fe792faa108a36bccfc4ebcd6e22da9bfad30f48ff04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ff17b6b72085663c7bf74aa7a3cf5e6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3b4689002409de0998bf9c12b21cb8c349ee5c929e1005982f116a284552a8ed5a9bcedad4fa5a7952a083dd05ab2780b6483d37291c75f7a930e74f9f6c7991d96b0c2bb03f401957242154b5b151c1515861fa80dfcbeab3df073fe0cfcd98245965bca493bd50c477de56c3ed7ea6ea92bfc7eb248350da750655bfd3d55833a374daab0613dd7398e0b300e8459c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ff17b6b72085663c7bf74aa7a3cf5e6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Monster: A War to Span Every Ocean",
+            "episodeId": "azur-lane-6687?ep=55418",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1871d64316dc15bd0a69de61b8500e19bc04127ea8e4bf86b4bd1f4d3e4637f2a3ec835171ca002d7a22e3f958a8ae1b420ecaee3de59d24fd92ebcfabfcbd7b126d46e2a8bd26c5affdba1d555f4f48390802b718f28f3c00dfe010ca5acba2ad850af21d531bc872aaa33fb92834149793f593b956b960321aeb5167a90175/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a336d251aa295194c8189849deab463/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1871d64316dc15bd0a69de61b8500e19bc04127ea8e4bf86b4bd1f4d3e4637f2a3ec835171ca002d7a22e3f958a8ae1bd651e33fdd85528d8e553b619ccb67079f75147750918b0613c42d7036b6dc058bba95ea47d18fbe9b66ead375f233c89b5c1c453e06e5b20cfdafbc4072ea42ae28f53c0c8fa10a746e075fdc410fed09a7356cf3f557ccc90702280bb45275/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a336d251aa295194c8189849deab463/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blue Waters: May the Azure Lanes Bless You",
+            "episodeId": "azur-lane-6687?ep=55419",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e9c4955322f8e422b9ac6d4d48a6ba82d822c868504c9ec0f0f359b86289905109ef7a85066f0ae8866fbf240820228280c178ba11b826e8f4decf547cb464226250b914a14269742b400eb1e51ff49f386d60ac4a785858d0715b63a029f7d0d6f2f59f376d20c5299a4c2af6d9726b9604bc8a1c15eb3f19d749d6401f1a5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd91ee4d735ef71b15b49f321c0a5df4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e9c4955322f8e422b9ac6d4d48a6ba82d822c868504c9ec0f0f359b86289905109ef7a85066f0ae8866fbf24082022822440285789c7e19c018ff2ef57fdca1dc19b0c3c4b568991c46f6f5dbdbde76c710e39441e988a062a0d3a44199e11e1ad3e30954c37f5407027e0bf184eae899de3b8fec103550560dab34c1d43550bd719682796442b454b2ddfd8ca45908f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd91ee4d735ef71b15b49f321c0a5df4/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

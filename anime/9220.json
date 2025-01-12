@@ -1,0 +1,60 @@
+{
+    "info": {
+        "id": "usakame-special-9220",
+        "anilistId": 0,
+        "malId": 34615,
+        "name": "Usakame Special",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a81aa0baf1218c5a099325589d1729.jpg",
+        "description": "Unaired episode included with the Blu-ray.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "うさかめ",
+        "aired": "Aug 26, 2016",
+        "premiered": "Summer 2016",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.58",
+        "genres": [
+            "Comedy",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "Millepensee",
+        "producers": [
+            "DAX Production",
+            "Millepensee"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "usakame-special-9220?ep=102161",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/72bcc82a384ce78a702f6dc260d00fefdb5a33984f0ed81eaf78bac783a9e0e39e3cb01a555ed736fe48ba72de1be49e4f8e430fb8ec3910f5a0ff28a859ee22b19d1750faff30b7eaa5d5c6e8df08f9bb972dd73a69de124b40217d73f3309e2ff1d47f20e4f3b36839408e74d13cb71eff7eb0136a8f359a58371dbd3eac40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7251f7904b3ea5607f8fdf9e046d3e65/7251f7904b3ea5607f8fdf9e046d3e65.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/72bcc82a384ce78a702f6dc260d00fefdb5a33984f0ed81eaf78bac783a9e0e39e3cb01a555ed736fe48ba72de1be49e42f00bad16923ddd0ce628fc7c9b2f394607fa7ac0119615a10ad8df8dfdf1258a249839f061c43287efba2d6ee9f4373430aefb7896fcd81a85c047f1f96637b2ad358c3575abb6eee0180d7e693170659149487d5c85a8e19858239b6abdf8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7251f7904b3ea5607f8fdf9e046d3e65/7251f7904b3ea5607f8fdf9e046d3e65.vtt"
+                }
+            ]
+        }
+    ]
+}

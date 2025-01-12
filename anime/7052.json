@@ -1,0 +1,600 @@
+{
+    "info": {
+        "id": "trickster-7052",
+        "anilistId": 21832,
+        "malId": 33377,
+        "name": "Trickster",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee948c5e527b6f325523ecf23ed2a11b.jpg",
+        "description": "Kogorou Akechi is the founder of a private investigation firm known as the Boy Detectives' Club. Together, this group takes on cases both great and small. One of their junior members, Kensuke Hanasaki, is out solving a case one day when he happens upon Yoshio Kobayashi, a mysterious amnesiac boy with an inability to die. After seeing his abilities in action, Kensuke offers Yoshio a deal: join the Boy Detectives' Club and help them solve cases, and in exchange he will find a way to help Yoshio die.\n\nThe apathetic Yoshio accepts this deal begrudgingly, unaware of how different his life will become. Although he does not have much use for people, he gradually begins to acknowledge the group as he spends more time with them while solving cases.\n\nTrickster: Edogawa Ranpo \"Shounen Tanteidan\" yori follows Akechi and the rest of the Boy Detectives' Club as they solve the various cases they are given, all while combating a hidden threat from the shadows—\"The Fiend with Twenty Faces.\"",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/s7dahy1qcWU",
+                "thumbnail": "https://i.ytimg.com/vi/s7dahy1qcWU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/YD4n0XWOmeg",
+                "thumbnail": "https://i.ytimg.com/vi/YD4n0XWOmeg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/fHhS0FKUYk0",
+                "thumbnail": "https://i.ytimg.com/vi/fHhS0FKUYk0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/XMe0lfNlabE",
+                "thumbnail": "https://i.ytimg.com/vi/XMe0lfNlabE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-second version",
+                "source": "https://www.youtube.com/embed/k0G9kzpkh0U",
+                "thumbnail": "https://i.ytimg.com/vi/k0G9kzpkh0U/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15-second version",
+                "source": "https://www.youtube.com/embed/jDYvn6-nX00",
+                "thumbnail": "https://i.ytimg.com/vi/jDYvn6-nX00/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kogorou-akechi-13915",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa83b72bf57036a264a9acd981e02ca9.jpg",
+                    "name": "Akechi, Kogorou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-ono-10",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f596d8104e8c64fa6db9e76675c90c67.jpg",
+                    "name": "Ono, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kensuke-hanasaki-10359",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/964ccdd99ae7fcac0d1269ef99d44e69.jpg",
+                    "name": "Hanasaki, Kensuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryota-osaka-184",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c164d403f9e40d0582048eab78c7ec20.jpg",
+                    "name": "Osaka, Ryota",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaijin-nijuu-mensou-12698",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a54e39e618e5d33c7d041b354abd1d1.jpg",
+                    "name": "Kaijin Nijuu Mensou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "gackt-285",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8482cd04f8b0b1068c31c09979d6bfcf.jpg",
+                    "name": "GACKT",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yoshio-kobayashi-3672",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fcd1b5485772125e7bf5ab35d7069920.jpg",
+                    "name": "Kobayashi, Yoshio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kosumo-date-91878",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2bba3b71512f2ed26fe509afceb7cfe8.jpg",
+                    "name": "Date, Kosumo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "fumiyo-64607",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76d949c8ec276180d7e328cf53f7d1dc.jpg",
+                    "name": "Fumiyo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "marissa-lenti-6135",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c4891aca7e7c299bd3304cd2f672cd30.jpg",
+                    "name": "Lenti, Marissa",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
+        "synonyms": "The Boy Detectives Club, Trickster: From Edogawa Ranpo's \"The Boy Detectives Club\"",
+        "aired": "Oct 4, 2016 to Mar 28, 2017",
+        "premiered": "Fall 2016",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.23",
+        "genres": [
+            "Mystery",
+            "Drama",
+            "Sci-Fi",
+            "Psychological"
+        ],
+        "studios": "TMS Entertainment,Shin-Ei Animation",
+        "producers": [
+            "Bandai Visual",
+            "Yomiuri Telecasting",
+            "Lantis",
+            "Asmik Ace",
+            "JR East Marketing & Communications",
+            "Sumitomo",
+            "Akatsuki",
+            "TMS Entertainment",
+            "Shin-Ei Animation",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Mirage on D. Hill",
+            "episodeId": "trickster-7052?ep=45485",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6c2df8c45420e1361ba929c8088fd8cde5159131cf3113ad93e939ef14365697b1de18bb4006c3e2893d63fee2bf0e36b8eaf08ff7ba4dd0fe6a60e009dfe949a4176856dfb27ce10759cc84cf283d73198689fe4f7e911244e8315ab6dfd4670029a22c6b5523df9739990d7758e6cac522b3d5713fc31bcba85e8be9d8dbd6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6c2df8c45420e1361ba929c8088fd8cde5159131cf3113ad93e939ef14365697b1de18bb4006c3e2893d63fee2bf0e36956e466326e94711fd6ec5d3bd93844b59f93b56c6b981ce7125bf8fd663e1bb4273ac49715d39897a3d4af09579e50f6e34c48b1abd3532ac74b7fc37c20c57139c1f230a8656ae185cefcea1cb7719a446e425d803783a8e97d36b01571664/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Golden Tracker",
+            "episodeId": "trickster-7052?ep=45486",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/81addcbfe58301e4a72a6f5308eee4578727c41c446f0fc8755fbf4edf5525f0e983ea068dfc76b061e6892143007c83ec677d19e02895cfd680dac4d09ffb2f22b54c0fe2fe38fa2d56f21fd2ec6aa85d943214e1099c219a20fede92ed7226a7710ef800f576e1bca7d38e599cab41963e63e7c9119aba8c17a148b85e866f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/81addcbfe58301e4a72a6f5308eee4578727c41c446f0fc8755fbf4edf5525f0e983ea068dfc76b061e6892143007c83a44ff04a24b6168279e216f3bc686144f4623988190253e5f2a722c7fbf5954812956a030b385f6e0f6a570f92242286173a5c0a6e806a3057b6be5284324ef1995624a4bd329f6d469a76301c1ab1a8948a74f32f53cdb419ba54359a8d9c1c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Hopeless on the Tower",
+            "episodeId": "trickster-7052?ep=45487",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/916761382ca6ba73132367c88657c5c3bb92c68ca3880dfa9165497d0f9a4edf4bf9828a150b3a0c7d79b5d053392d303e6fdf6886697b58c4b1be30771bb48cad269f1040436a06faf58c15f25c749d29fa0f27145a19125a74052223bfd8574b69bf326e0dbf37d1fe9b582538ba8ff95d251dd6dae4aa7db3fb3946cb35b6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/916761382ca6ba73132367c88657c5c3bb92c68ca3880dfa9165497d0f9a4edf4bf9828a150b3a0c7d79b5d053392d309f402cd76639a5b530295edad5410af8196eb1e953d0b1252a7c2443669eab593cf1b62da7ca18b98a83e11a12be0a3e9983de605f2ed94a1e00b0f40b52f58148712df4c48cf65c89de057672344cb7420bde18d72c216de9ff0402c56d4802/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Underground Labyrinth",
+            "episodeId": "trickster-7052?ep=45488",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b339a4db230218736beb1309c0e67286cedf51b648814c0baec2f21f533b060db65476135efe0af29e54fb355bc34e7f7c942fec7745ada123c3815f9a19422df172577e054807370e397a048ab21d464fd97f9f27a4ead55f21f8ca40b176d576d307ea7769fdb865df2bbd7b82a016e52b22fa27596a27b0ffcfdda2bf427a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b339a4db230218736beb1309c0e67286cedf51b648814c0baec2f21f533b060db65476135efe0af29e54fb355bc34e7f50917122359e0c4fe594e93506dc9644bb407ba2af0146bb801a9e7bf11238f691f6e4f1d9b7e18d82ad0ed626aa1eab82036aeb75420276685357ef3905cac40aa9dbd98b893d22a6ee831df24a2687561777d18cd985e1ee70822554551c10/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Spider's Thread",
+            "episodeId": "trickster-7052?ep=45489",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7036431b56276b28843a4f469d474122f1826f45e5891e73c007c74ed2e2ca2938dd031bc75189b98b714346a5312f04a992b746ec8eb872577be50e26e3215aaace706bbf445171eb7a24beae06686aa4220293c966595b557ed5d9e88b5ec84e90fd8706282cb4106e637b97b6658d97171188d9b57dc14e4d24b684211563/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7036431b56276b28843a4f469d474122f1826f45e5891e73c007c74ed2e2ca2938dd031bc75189b98b714346a5312f04fe2b66d2805390be9f65c3b338fbbc7e404ab23158cec4df3c7696da407fdbf465e80e054ddd108b8d954bbfa0fae0c8050a842c0897dec823ef7b17bc6de1b4999143034a5ed8acb2c7048946e7a0f9cdc0ddaa8b64e86913380db402c63d8a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Holiday Stalker",
+            "episodeId": "trickster-7052?ep=45490",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e707ed46d51517a618dd66b778771ba54420a4594414907c7ff5f77797b575891f8b77fab846078be6bcc3ddb6a38a9a5f57460f1f1d8b867413f6bc0d6db01191dd0df8d47819213861411c9a5e0d15b1a232351be69fce3617199030f269eaacbeff287c77c4d81459addd4c6313cdede174045042c53db8ed347eb513a154/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e707ed46d51517a618dd66b778771ba54420a4594414907c7ff5f77797b575891f8b77fab846078be6bcc3ddb6a38a9ae8991eaf1e1eb0265f21c289604fcd1df9ff6a725ec1921748db7304cc598fd3e29d99fce978d1752efe8c7349a0aca4bb2f77e4aec6239a2c9736c8f3bc0328dbe80a17d8201fc63d7b0f78fdab822bc7eb8a0c44da5e517931c86cf8292cad/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Pure Tryst",
+            "episodeId": "trickster-7052?ep=45491",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ceb005e69316da7551538be26b832a4d597c732a014a083638ea2c58b7e449ca44b3c1a077314e79b675556e56367bdb38642840089722e03af6497ab348d336f18436728c7aaad627c0b1867af709e602ec34179a78607ffa7c724e318769704d23371cac572f7e71ad8a7bc8f835cd7876987a4ce5eaec9077c76f35fcad0f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ceb005e69316da7551538be26b832a4d597c732a014a083638ea2c58b7e449ca44b3c1a077314e79b675556e56367bdbc557f383c2e58b0140e4c3bb5561297c1e31f20ee05566bcbf47610df1e0e038aea7a9574beb75fef59e8181ce962e3ede0667763e52aee0cdead572b7dfb6b32c28d039ef271f8753055d7c0a25637f3b9b0d149b61fc64e393b0fe5f732085/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Paradise in a Miniature Garden",
+            "episodeId": "trickster-7052?ep=45492",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8335eaa396689bbd499b3b7db152437b54a0fef0b8f9aee18b9d679e1869ba692c7bb5b7dbead75a284d04a51387843949b38fdefd6400c7e4dd31f2fcbb27a9ed2ad0495b14e39f772ce195f09cb1e97c0aae06f00524911ea73203477e843b26b8ad7b4d98963d89e4fdcf6fc9184fa0c13517c1aae21e4cb02f65fc55a670/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8335eaa396689bbd499b3b7db152437b54a0fef0b8f9aee18b9d679e1869ba692c7bb5b7dbead75a284d04a5138784399e3f7260e6a76a25180d5e57d77b9f87ee045e375281a5c87f632224eb8763cf9322271c2381fb0937f4f7e05feb1a8cf8c36e39cc05622048088619c386fbe2a8e4731eb879f1837dee87fcdb5aa04bedef9d2a924ee20477c78d6153188b86/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Fallen Hero",
+            "episodeId": "trickster-7052?ep=45493",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/77671525704c8212dae93f090bbda58350f16aabc8d14471b5dc2cb17d03057b705cd47b2cdb43c48affcb5d927c9ac4f9c666a10183c8ffd1003f82198c3dcd70c2c490c365d5cca7763d583f9fe1b0a8d03e7057fe44f1b52dd8c59bae5b5912337486d7c8393b8ae5fc9cef344a1c3e3b4dd9586be2dff377a51d33bda963/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/77671525704c8212dae93f090bbda58350f16aabc8d14471b5dc2cb17d03057b705cd47b2cdb43c48affcb5d927c9ac4b2a976d508106e281012225c7700ab7eafea9a9d0652701ebc512105528ebf606bfd6bb3431ebfb12989957adb057262147f1a345cf5a9c95c33f54725e0f1c83b5d738047ad4ce28f6ef83d65d4d1a10798642e3ea17e57c4959a407a5d1cf2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Innocent Scale",
+            "episodeId": "trickster-7052?ep=45494",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2b156e472e0fbfb0937b45209a3d6d417e33604692daa1c0f21d6ba133a3f3ecb52f86e317c6dbbb334582c62cf28ac36a8656738bf441864cc250acb33b4c2973c0b80227b5e5fda41f3aa1f172fdd885a9ce1140a1efa8b42a9e9de1c41e2aff740ff98cf309a5c354b0711a25744105e5cd9ae45d3206dd833985debd0880/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2b156e472e0fbfb0937b45209a3d6d417e33604692daa1c0f21d6ba133a3f3ecb52f86e317c6dbbb334582c62cf28ac3bfed4d85c7360f3fe936c4b4834952c5a9e53af76fb175bcb9e173f71a2d21e23db5aa552f02338170559457c35da2fa507c034350d5c8794c0a174dbdd3c6cc2fd69aa7c2a6544f3f67649ce3562fcedda2dee3dd4ac93672fffb2494e418c2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Cruel Tool",
+            "episodeId": "trickster-7052?ep=45495",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d41f817aba204b0baeed15a17674e01ed2620799b9fa63d486ace9e9279ef95fed66418dbfcccc3c66f3059d810ce359bdf0aec7fb359a29624e9e92318856a5cc6ff3675a26895d7dc043a9033c4a81d8f4c66f6792c6bd8ed12f37e23c7886423cde1243eca5e2ca537c294dda6e8363e9dbb6d92c9725eef8296133e69f84/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d41f817aba204b0baeed15a17674e01ed2620799b9fa63d486ace9e9279ef95fed66418dbfcccc3c66f3059d810ce3594e06ac044489729e1513f826c91109b967a7dd3f1c644d55a43e8bbfb2ad5173fb8ddf9901532d05b0de0af9deedc57fb831b10657f2f31659f75fc81e614001545e834c1ea7bb0fb8030a98596abdabb71e1a6715cb8bd4cd7a4ffd3534b0dd/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Shade by Haze",
+            "episodeId": "trickster-7052?ep=45496",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e763927f60645633878237c417493bd3f0138fb99c5bebe58a56bcd3fb3b98b5be7e5b501bce111642d8098136ec70c74f2b7dbef83c93f3f851176110b8e11e93f1aae672582373972672551fa27f12f009a2575f7ca929b52e331a149ec0eeeeefe1bf12412d9ecff01514d9c1aa25ed6cef4027438bb9f13cf434d011146b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e763927f60645633878237c417493bd3f0138fb99c5bebe58a56bcd3fb3b98b5be7e5b501bce111642d8098136ec70c787b9f56cf76aa5033a783f290e5c867639f415c605d7261daf6052bbb1ef102c200bc9ee75c316cbbbc8a7bc98dd092a30d8b91ab09627d30ec38dd91d144f80da4e44ce79a63139624e69c43223dfc038bb4c92f6a4b243809bd2cd837355ae/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nocturnal Dance",
+            "episodeId": "trickster-7052?ep=45497",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a87f5354d24237f26b4557b67b5384b05b83f224962d6b1505c24c4f26054c7e5831d43f090c8edba41fdd54607326c214b21e56d9cf62dd563d1afa294b7c047fdf943a10bf0ab65e43455988fee4154910f15d73c4074fd3c9eb9d93db6ad5a490dfdf1f09618a15e58a203120bbc25eace5e34ac4f218d8b346911d49c888/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a87f5354d24237f26b4557b67b5384b05b83f224962d6b1505c24c4f26054c7e5831d43f090c8edba41fdd54607326c2620a29434ec10a8d689dc40b62626164fdcb13b89e8abaada31a96e79847924f0c060f9dbbb16f7cfb223ba49d12b44e30528e698f8dd95fca72b0535a52d9570f7bcbb55dbc6480285dca6c5fda25c5b3cc8ef38b2c97f37555db9d88431072/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Spiral Ladder",
+            "episodeId": "trickster-7052?ep=45498",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cb07f89f824f416c357c43c4a80067b133898cc953bb8dd8c3e44c839bc2b5efd062173315f2c835072ccf2319f1f4c47c2919fe49e628a00805954aae857f15cafa0942de86d289d819e44cc0998ca0f90cd2df2383874646879b7bf34b1f1c0f9e24be7404cf5e6d7bbdf4fdd60e095bcaae135b6e32d9941ef6c6ba1eb5fe/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb07f89f824f416c357c43c4a80067b133898cc953bb8dd8c3e44c839bc2b5efd062173315f2c835072ccf2319f1f4c41e5b69c45dfd1cf07f0170b4bbf6436933436c6de338abd169f07b526dea60bafa539affa49ecc9ae954633e5fdae518ad45daba2e169cbeedfb5ce9c2b479effcfbe7496bee3ce5247f1b336131d5f79431348f00d6a80249a7f1c9d11c5366/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Beetle of Conviction",
+            "episodeId": "trickster-7052?ep=45499",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/36b1b640042766f471f60ca78324d0e1e34b3c76e854361a859fb0e83211c0090e7bf037ff292e08d3f4c32e547c77229b79d96e3b178b2832799620a34185a75d3eda5d943a102ce06a2eda81dc7bbeba4db27f46d8d568a6cfff2b5bf0f7d878630fdfde7fec9e353bdf0c772188dcaa6fe04a098b19258223ccf74953c87e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/36b1b640042766f471f60ca78324d0e1e34b3c76e854361a859fb0e83211c0090e7bf037ff292e08d3f4c32e547c7722415474d4ac7e7892f554bf5e535e26509ab669153269afe44c771bd5ed0f2cc09958247471ed0850917f16ceab363430bf48105a100ed3817e60ade9ff98dc233346d78eef13512b35e421228faf1ed2cd0cbc99bd247557ed5422f80a2e87d0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Beast Reborn",
+            "episodeId": "trickster-7052?ep=45500",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/485f0cc7943220f6f6eb6d727cd813605bfe4c9d6ce43641dda8eaa54dcb9b6b674f562faab2ea4d2200646afe633880307a2c71965f45ff18cf1f9daf88c52fe6901a2e7bc5ee2d11ae465551c24f19abc63f54e2f2ca57c94d4252da516bfa8e0a6f4b006dda86bc9c3131696901b55a6d2f6bcb437ded74a57ddb0ab83c7e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/485f0cc7943220f6f6eb6d727cd813605bfe4c9d6ce43641dda8eaa54dcb9b6b674f562faab2ea4d2200646afe633880b5f6ef3aa2c430b7c27a9ac8d1a0d95bb272ee47de1e924b24b7069b2e5ce3ae52ba343c91441ed424d8fa67370dc0722544b6b8db8b3517e86e58e1e0e4edd590422c776ee8d21e342b7aa5dda72c6086e5ecbf3b0df57636ec8efc308df533/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Scattered Recoil",
+            "episodeId": "trickster-7052?ep=45501",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7514025315320cb30f42abbc60e61733a8eef8237aacf6307784e5543016c4db97d01e57a96c260fdf456692a88405abac9093b2e94c315ad045868c52bc4a94a830e823cdc6d0877991938a33d364416bb75e65f35d7981b2fd418e2f11a2681b4c84398a9bf84f824d6b633fcdfa88653f122c48b16ea73ed07ca35c883d1e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7514025315320cb30f42abbc60e61733a8eef8237aacf6307784e5543016c4db97d01e57a96c260fdf456692a88405ab1f17f7201b03b26c75b1a0cfc2579b7593c51279d1031896299e34533b0aba3252ad5166a99bcd2ea741f0c0e5c53a46310a543913ed809c58db9ff800392664be5d8e6da30d7f28ce257289ca040c9de26076b49fafc60788e1090e541eda2a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Pure Evil Mistake",
+            "episodeId": "trickster-7052?ep=45502",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c9ffa116dd01efa7631743a642481977a9e4410932f772c39eefe1b096558002e233396e70df9c1935b46d242a941a25a8aa83e3f9ac5baf85e03f80c2c225c38ae5162cce3d49c055934347042571d6756fc28ec08e835eb82577e42503cb84e9c9596db4fe80b2cbdf7e7e03b89f0cffbfde8cd591ef35f907f21b7e8d9a4e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c9ffa116dd01efa7631743a642481977a9e4410932f772c39eefe1b096558002e233396e70df9c1935b46d242a941a2502cc39b4bb3ecd72be5b2b0ed4ed01844b6da2252b5c905ba4d8757438638ad7e8f2cc3d78acbeac7c345c904d053dbacf0683b9f62c0c65368333efde5ad3f08a199ba07957fdde621b24fd20afcb26084c9f0536075d88537ee483865bdd8e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Cycle of Malice",
+            "episodeId": "trickster-7052?ep=45503",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b05b9fb89d2606b4d34983fb6f17907d6f83cfb644a846bf6d4b5e4ddc606cc4d44143a45e0bbebbec88fe581209c2c43820d12434d386c168eda0e179c826634b4b9eb84ef848fc55eee4f89152ee78763bacb9db602fb30b51e34767d7bcfadc3100f54467bd260f00940b5de33d26d1e2aa8a7581ecdc828ccccac3da18c1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b05b9fb89d2606b4d34983fb6f17907d6f83cfb644a846bf6d4b5e4ddc606cc4d44143a45e0bbebbec88fe581209c2c4e260c6ed13ce9a8b3c19422f2abe6d67260b5dcda7b494d37143555b3097614e09222054363ec84676b3c6170fe87236274361eecdc65cf0fdf5c2a2625822f8c38cb35cc6fd71a4be73be08ce10c69994a4dcbc536d1671c2dd69dd75e09959/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Fallen Clown",
+            "episodeId": "trickster-7052?ep=45504",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1fac7d795fe2923d7e97ddc6af6db3cb3533b29bb4c32fdd26400b9224cb5e1acaf37da2cd0a4f735d11a9f6e986e25ff273d0bec6cea2eca3a844568ed0d741f180b79ce797ea6a8661ab4997388218894ee5041c3a84f096325168c5d5c70d01d274678c525cd2a12d4d97d18a9c1691eb41990418818e509e8e21be8b5aed/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1fac7d795fe2923d7e97ddc6af6db3cb3533b29bb4c32fdd26400b9224cb5e1acaf37da2cd0a4f735d11a9f6e986e25f43d27022c6623b71c8374e67ef8f9ea99f15596b16a0b697fd59f451798de3dc50c67691e217178b2a4eb67f98c5bda9316cc812d7dc2b0838d08cc387cbb2b496b42fff18f615b9980e1b834a046851645b87610e26e3b5001e7de8c86b2cb5/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Veracious Victim",
+            "episodeId": "trickster-7052?ep=45505",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a2d6693e97c0abe5ff3af16a5cac9d9ea9b75550392a46deae5147cbad101170e82b053c4143b4787b33e3db02acf1e20da2d9636b3b1e0a0010dcd8b2129a6479a95518afce1b643264514c18b67934d56563d2810633c0c2e0b279fd5bdde78f0ef25a777baa012e05aab354c918f8369d1c37eb394697c91b006f3cd329b2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a2d6693e97c0abe5ff3af16a5cac9d9ea9b75550392a46deae5147cbad101170e82b053c4143b4787b33e3db02acf1e234bbb2b27eef529720f4cfae59731f3dc379de778c2b0676cad5796f6eed1e0d8ec63604a596895c4517155548736469d261270257f11391541c211ed2ab1397514b7d656ece335fe033c6accd6e3c1eb3eee32f63cc62e5fbfcfd0b4c8c370e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Small Moth Flying into a Flame",
+            "episodeId": "trickster-7052?ep=45506",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/49b2d58806e5eff9e5f9310bca85b69eac938bc690c194baad17b94e9d041d1bcac59987b386a1c7697dd7dd02128b0d7702e3a4ae5b0d67b73ffb7f044e34a636f4fdc4f6cd71d9ec779a957669886cede40b59b2910c1f47774c90344c247fee5c6e0a2b21585c80a87b36edacc6cedc72a2524f9d6d9fd8b206b6518bd28a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/49b2d58806e5eff9e5f9310bca85b69eac938bc690c194baad17b94e9d041d1bcac59987b386a1c7697dd7dd02128b0d9b71f39770032d7f64306059b96ff4444169b503239b6995fef258de2722238588dd650ca48c4e3c39bc451d8717300b7200b029c07e23679a327acdba2603e1ce32d4a7465aa596b2279634ad9103938b7a0013b3f1e7db71be4981f4ffdb51/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Return of the Evening Star",
+            "episodeId": "trickster-7052?ep=45507",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8cce0fa33953f89a3fecad24d16d45d88600f9fc4576c72b97d8ce16d03fece04625c138952e3248f26d973d61dd73c96717c70ffb80b6d45abb06ec4b29c42aa1ffc5cd51f9a1668d64f166bf264d0f26668b9e57ff8d65c5bbba91f2800a2d0332b10111287336b6e253cf21e7183889e067bff03ac5aaf8f1426875c452cd/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8cce0fa33953f89a3fecad24d16d45d88600f9fc4576c72b97d8ce16d03fece04625c138952e3248f26d973d61dd73c9dd48c00b8acff3674575d0452f9dba3c023d1d84b9e9e3c5797ba485608e82cf84c268b5e91e8a50b8b63f086cbee62d215a5faa5ac84933c2d29d694f5de516bac61865427afc65df15fc162c5e1d883a02fd3150233bd6eb4ff1265731e1e8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Boy Detectives Club",
+            "episodeId": "trickster-7052?ep=45508",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/da24f7d2e0e57289c24a3710e910ed0dc6f1e6e7b94028e0d9a1d673c490f7a7d08fe309ff9aa5a014a90d5f84e545f967c8c312f7c09397674d8a69a4e1a44ab9f4a8c6c0f774bb9f0f4240bb02f26c72c5b5ff18718ed1d8b7ed1d84ffa55fad59660ceac271e47cf0411e83774eaf56267a44e8285a20e69e45db77f1bf6d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/da24f7d2e0e57289c24a3710e910ed0dc6f1e6e7b94028e0d9a1d673c490f7a7d08fe309ff9aa5a014a90d5f84e545f97c93aaad2dea7da24db6c9079bffa513c738d04251457b4d8788e22834ecdc052d35f410c5c2d7318d6d79e4f25d88b6175a91402d1f6894814a02bafeb208052b575cb3a02d7284b011095f9291882099c790ac265d71a95ab77cb6e12b5cd6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

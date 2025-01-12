@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": "gijinka-de-manabo-9420",
+        "anilistId": 0,
+        "malId": 34464,
+        "name": "Gijinka de Manabo!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fcda6e5e57e5bf7b60718fd343a61c3.jpg",
+        "description": "The anime illustrates how the three protocols/standards handle a request (an online video purchase) from the user by handing off packets of data between them.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "擬人化でまなぼ!",
+        "aired": "Nov 29, 2016",
+        "premiered": "Fall 2016",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "5.5",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "gijinka-de-manabo-9420?ep=92298",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8c6aad7a04b40f9eb69a952f3386c7fd0ad823aaca65b62b3107ef8fe78bd6502441c8d5de0d6cb1786e56bf59e889d8a6584f326982dbe46ff2d6751f8f8d286dc04502abf458735115a7eff0d1218f23db134ee79d4ac93b3620d7558cc45ada3071edc8d69fc84618a13bb4158e099a142d5617631890badabc590810b3f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/daddd30020fd0e00442e297e8fce6880/daddd30020fd0e00442e297e8fce6880.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8c6aad7a04b40f9eb69a952f3386c7fd0ad823aaca65b62b3107ef8fe78bd6502441c8d5de0d6cb1786e56bf59e889d84f50ff7b237e1b92c6e6b1b037f61326e09a8d1022aa9a3d182240a718ef9633996f02e98f1a0403972ecbd0b1c3f1ec8f9c4b9da8daa9dde0abb1ecc0f61bfe7dcf24c8b7990e2dab1892cdb3c738167b080568c854edf21b92089ae1feaddd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/daddd30020fd0e00442e297e8fce6880/daddd30020fd0e00442e297e8fce6880.vtt"
+                }
+            ]
+        }
+    ]
+}

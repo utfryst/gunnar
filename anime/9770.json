@@ -1,0 +1,116 @@
+{
+    "info": {
+        "id": "toei-robot-girls-9770",
+        "anilistId": 0,
+        "malId": 10954,
+        "name": "Toei Robot Girls",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01623ee3df0086c51164757a88acbe6f.jpg",
+        "description": "A pilot film streamed on the anime studio Toei Animation's website. The female leads in the film are dressed as various famous robots in Toei's anime catalog—the girls are personifications of robots in the Gaiking (\"Gai-chan\"), Magnerobo Ga-Keen (\"Gacky\"), and Superhuman Combat Team Baratack (\"Bara-tan\") and the newly added character is from the anime Planet Robot Danguard Ace.\n\n(Source: ANN)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "1m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "baratack-88344",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/09b2aeb9cd324e040fbec89ca5ad383b.jpg",
+                    "name": "Baratack",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayumi-tsuji-2748",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b6bf3485db13d95f3ce10ce6e6342682.jpg",
+                    "name": "Tsuji, Ayumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "danguard-a-88941",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/87312b94b3bc56dee4c3a4be89faeefb.jpg",
+                    "name": "Danguard A",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chiharu-kitaoka-3555",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3ce7b3790c937264a71f0cc13c5f9b28.jpg",
+                    "name": "Kitaoka, Chiharu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gaiking-87165",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a04ea33cde5d98c4cee2cc727295987.jpg",
+                    "name": "Gaiking",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-takaoka-9029",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af804270aa16129343cb663c32ec1dda.jpg",
+                    "name": "Takaoka, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gakeen-87765",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcc5f41f8d1cad74a11c1fe6bd217d42.jpg",
+                    "name": "Gakeen",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satomi-sato-205",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/855f80a66457a85747a66c565b47a4e1.jpg",
+                    "name": "Sato, Satomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "東映ロボットガールズ",
+        "aired": "Jul 2, 2011",
+        "premiered": "",
+        "duration": "1m",
+        "status": "Finished Airing",
+        "malscore": "5.34",
+        "genres": [
+            "Mecha",
+            "Parody",
+            "Sci-Fi"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "toei-robot-girls-9770?ep=99554",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/749b15c674bc30c8789aeb23c8105a9c67ed85706ea51b7d8332bdb6f07f3a16398123e1bf6d1585634d0137ab9db7dde1fbd325ea33ce4ae2f5eb2f22e71acba60a73bdfecd15cbac4fc96c1659793416b71b0def4551814c5d19cc9b2b39bc946d38eeed4f797a86489dd4fbad0e9625cfd05ea47de1e691f8be3ce21f7bfc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01e591cf1936d3cf0990940b725045c0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/749b15c674bc30c8789aeb23c8105a9c67ed85706ea51b7d8332bdb6f07f3a16398123e1bf6d1585634d0137ab9db7dd6b8c5d3f0f597da7cabc255e2ec9af237f03b52b9dd2b0186f339761212dead9d6c22bf527845a0ec4fadfa9152d2733a5c0cc5835ce4ab8bb6361033980f227b80ffb1325c16ca656aca2fa64be2f0f575968c757aa897a1bc8f9dbdc7af1f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01e591cf1936d3cf0990940b725045c0/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

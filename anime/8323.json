@@ -1,0 +1,77 @@
+{
+    "info": {
+        "id": "licca-mysterious-magical-ring-8323",
+        "anilistId": 0,
+        "malId": 7294,
+        "name": "Licca: Mysterious Magical Ring",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9996a14ba7a2c7df4e111a08afb797f4.jpg",
+        "description": "Second part in the OVA series that was later adapted into a TV show in 1998.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "リカちゃん　ふしぎな魔法のリング",
+        "synonyms": "Licca-chan: FMR, Licca-chan and Her Amazing Magic Ring",
+        "aired": "Aug 30, 1991",
+        "premiered": "Summer 1991",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "5.89",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "studios": "Ajia-Do",
+        "producers": [
+            "Ajia-Do"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "licca-mysterious-magical-ring-8323?ep=92741",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/14190fdbd09e4b87efd445c4729e0cc6a5987e85e753b6d7fc4fdd86cd75dab96795b1a99d01319bb2ebf06a39734a9af7fb7c270e0591574ecde8a19b6c5b1c798fc105c223d430d3a23f1d505d158b903ff5a9e07fe80b051489290aae87bf43b9041765923bc6ce6a158921c387ca6cceba027320a8ec1659ddd7bc61e182/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/14190fdbd09e4b87efd445c4729e0cc6a5987e85e753b6d7fc4fdd86cd75dab96795b1a99d01319bb2ebf06a39734a9a7c594ae1b9a150114ef235bc80e45dddb7d1b1c3bd3b9ea178d208f6eb0eab4bf5c64171288079249ddf4ae2b5bea316731549cd538d898d0fb704d7dc7dcaf0f1dbf54f2d4ca32a2d487b8f7c35b125c1eb213511c991ca399cb366a9d69a71/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "licca-mysterious-magical-ring-8323?ep=92742",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d3b2f062ac508fbe5aa426381aba59bb53ce0adde094e9426cd6e82ebdd43015a4b12a5173078da6d09958d19d772414e7e1bcb21592eb8c9d56b5009d5cb859294f22fdd2183eb724abb4d6d612ac1f4aab07710e9bc1dd8b8f5e0cddb73bba39bc197bf3b16e41bf8b934c71b6c48b0bf5729c43eb6b98f2cd0c947e110ff7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d3b2f062ac508fbe5aa426381aba59bb53ce0adde094e9426cd6e82ebdd43015a4b12a5173078da6d09958d19d772414e700fbd0a8c0db5de6c1175688221b41bab4265d7334403e0fae8382b925b6080b3e6d1c0b601cab26e12d1ab1a65bf991d1cec0a847ce29ac17657010a80afa91cf7a5faf7f8f8ecbc414d2e2b598128db02a87cb28003f15939d4444f66bc9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

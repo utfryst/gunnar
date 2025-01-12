@@ -1,0 +1,63 @@
+{
+    "info": {
+        "id": "ensemble-stars-recap-special-7932",
+        "anilistId": 0,
+        "malId": 40462,
+        "name": "Ensemble Stars! Recap Special",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db639418d77e55239171a8799baccbca.jpg",
+        "description": "Recap of the first twelve episodes of Ensemble Stars!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "あんさんぶるスターズ！  振り返りスペシャル",
+        "aired": "Sep 29, 2019",
+        "premiered": "",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.03",
+        "genres": [
+            "Music",
+            "School",
+            "Shoujo"
+        ],
+        "studios": "David Production",
+        "producers": [
+            "Frontier Works",
+            "Movic",
+            "Happy Elements",
+            "Bandai Namco Arts",
+            "David Production"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Special: Recap",
+            "episodeId": "ensemble-stars-recap-special-7932?ep=53153",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d8283ce8dca0131f08741776b34d1c99b4cb2b0d3354f0bf58bf3d18b5d6921b54b6777d2d588b9c5d7a8e17b449560891bc8343665031b72beea3800f2ff35cc0b205ee17afa6f8a3541e483c9c91bbbaba5cddaf1c7d26349975067f2963b90b7b26de72deffaaada982c247a502bf85e88f0b47b4bb88b7b4c7e6806d2699/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9113e30c9b321a2a4018090bc3c64b6b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d8283ce8dca0131f08741776b34d1c99b4cb2b0d3354f0bf58bf3d18b5d6921b54b6777d2d588b9c5d7a8e17b4495608f216735aa12daebe7192ee794ee901471d0aaf32b23eff03fe3c98be448cf4ba281d8c4e211184c270f50793ced4e361a8fb109681695666f75060e993b75cdfa2bb8f9b921c114a3f523a8d194b99123468bd092a7ade999b3d2e1b9c4cf556/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9113e30c9b321a2a4018090bc3c64b6b/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

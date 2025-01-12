@@ -1,0 +1,57 @@
+{
+    "info": {
+        "id": "gongitsune-7015",
+        "anilistId": 0,
+        "malId": 9535,
+        "name": "Gongitsune",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cefbd1c314fcfc4637ed0fe88c56fd5.jpg",
+        "description": "Gongitsune is a famous Japanese children's story about the life of a little fox called Gon. The story is considered the masterpiece of Nankichi Niimi, also sometimes known as the Hans Christian Andersen of Japan.\n\nGon is a little fox. Looking for food he comes to a little village where he repeatedly steals food and creates other mischief, constantly evading the angry villagers.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "10m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "ごんぎつね",
+        "synonyms": "Gon, the Little Fox",
+        "aired": "Mar 16, 1985",
+        "premiered": "Winter 1985",
+        "duration": "1h 10m",
+        "status": "Finished Airing",
+        "malscore": "6.24",
+        "genres": [
+            "Adventure"
+        ],
+        "producers": [
+            "Aikikaku Center"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "gongitsune-7015?ep=95941",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d3cca66c0ea38776817170dae7c900cccef0d3d4c371ccf865170d55a22e28651468fec553ea88a3a1084ff163612ab79621e6081097f0db8b96faeea17604eb0e04e39cfeb585ca049eb26613610f4beda19956d841d2e09ae055c649e2a1000940ffd199ef582faadc9ade25b64d0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0ccb53682b094afc80f706e91bb0a08/b0ccb53682b094afc80f706e91bb0a08.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d3cca66c0ea38776817170dae7c900cccef0d3d4c371ccf865170d55a22e2865e9af3f8eac5b9a486a1ffd1cb888bac71369034fa2b718b11e7ea53484a3c50953d016540f41daf87e5085877d3b3d267f13c75830eb4b3eac101d6bbcbe7ce32d7de05fe50aa99357921e8ca047868e6e0cf6eed74cf1ff9b248ca8d4de88d390c9b57c1dedbfdb1b7201b9bf0b8d82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0ccb53682b094afc80f706e91bb0a08/b0ccb53682b094afc80f706e91bb0a08.vtt"
+                }
+            ]
+        }
+    ]
+}

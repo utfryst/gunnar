@@ -1,0 +1,81 @@
+{
+    "info": {
+        "id": "musashi-the-dream-of-the-last-samurai-6351",
+        "anilistId": 0,
+        "malId": 5386,
+        "name": "Musashi: The Dream of the Last Samurai",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bda7113e783daf1d6d5494f28442b721.jpg",
+        "description": "The film's story centers on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "12m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/nx_q45SCjW4",
+                "thumbnail": "https://i.ytimg.com/vi/nx_q45SCjW4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "denshichiro-yoshioka-122630",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ed31fa22d6fd041f6862279653eb76c.jpg",
+                    "name": "Yoshioka, Denshichiro",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "宮本武蔵 ―双剣に馳せる夢―",
+        "aired": "Jun 13, 2009",
+        "premiered": "Spring 2009",
+        "duration": "1h 12m",
+        "status": "Finished Airing",
+        "malscore": "6.39",
+        "genres": [
+            "Action",
+            "Historical",
+            "Martial Arts",
+            "Samurai"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Production I.G"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "full",
+            "episodeId": "musashi-the-dream-of-the-last-samurai-6351?ep=119386",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d567595aa871f8b2e1f174d210fe6d0bfeb3d456592818d221b3ad6c521c37c37a738791956857e60549be63f77dd349b74477961b4ee36551ebb205308c689bf44287845f6598ff83d4189938f018d24ec6646c6a311a0f4e6f76b908c0ff3eceabcb3f7d93284a41ebe52576d2deddefee244af137f8dd2508383062062147/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9d343ad6bcb4b2571799b378533afba/a9d343ad6bcb4b2571799b378533afba.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d567595aa871f8b2e1f174d210fe6d0bfeb3d456592818d221b3ad6c521c37c37a738791956857e60549be63f77dd349502a5864438b8ccb0336a864d7b74d689a81ebebdc0eddd1cd226879fee8e0d9097c425cbd0ce9886d0e661aeec080a6a0b18e1c618da5806a504037e5536a9fa1fe75ba7398102548be487c3eae848d3087b9efd3e6fc00f6ccd533bf34ff46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9d343ad6bcb4b2571799b378533afba/a9d343ad6bcb4b2571799b378533afba.vtt"
+                }
+            ]
+        }
+    ]
+}

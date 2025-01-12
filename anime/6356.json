@@ -1,0 +1,80 @@
+{
+    "info": {
+        "id": "atashinchi-the-3d-movie-6356",
+        "anilistId": 9796,
+        "malId": 9796,
+        "name": "Atashinchi: The 3D Movie",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f143e566c979dcbdf86bc53876084d22.jpg",
+        "description": "A 3D theatrical anime adaptation. Mother is having a very lucky day but gets struck by lightening on her way home from shopping. From it she gains telekinesis and uses it to level up her housewife skills. Eventually she branches out into being a vigilante when her family gets tired of her powers. But while fulfilling her desire to be a cool super powered woman, she neglects her family duties. During a fight she accidentally hurts Mikan and starts to have a break down, which puts her powers out of control and threatens the safety of everyone in the whole apartment building.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "40m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/fw7wTPimwAA",
+                "thumbnail": "https://i.ytimg.com/vi/fw7wTPimwAA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mother-tachibana-17197",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1c7bd707152d5c488ab94537efd0bb6a.jpg",
+                    "name": "Tachibana, Mother",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "劇場版3D あたしンち 情熱のちょ～超能力♪母大暴走!",
+        "synonyms": "Gekijouban 3D Atashin'chi Jounetsu no Chou Chounouryoku Haha Dai Bousou",
+        "aired": "Nov 13, 2010",
+        "premiered": "",
+        "duration": "40m",
+        "status": "Finished Airing",
+        "malscore": "6.37",
+        "genres": [
+            "Comedy",
+            "Super Power"
+        ],
+        "studios": "Shin-Ei Animation",
+        "producers": [
+            "Shin-Ei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "atashinchi-the-3d-movie-6356?ep=69792",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f894d0dee6994741884cc98249f1e23ec4ed2e9c4deac0b60395dbbe283bd71e4a7da5e89be96e9dedefc71b486d1d17464f55ca7aaf8cd2acc15b059288ce7dd738e9657d6c070b48e2fba3a7a2c49b350e0cc5281b9c3bd8a4e89d54cf84be1b5cf641a265be520332769a417e5c04650943f711464e004f662e5180b23d1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f4bd0803ce2117ed82e1133d081f40d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f894d0dee6994741884cc98249f1e23ec4ed2e9c4deac0b60395dbbe283bd71e4a7da5e89be96e9dedefc71b486d1d176eb00ac55df8cdd440feeae9827f9d8252b804fb9921a2d43bb5c3fc6273b6b6e678525e50ba3cfc793887d9a0f4f238c28459d95bb1e39d37e6bb5572988b752a23bd5c53b9d354457934417f76d473348664185da32e7d302e9c30635a68b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f4bd0803ce2117ed82e1133d081f40d/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

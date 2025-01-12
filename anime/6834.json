@@ -1,0 +1,116 @@
+{
+    "info": {
+        "id": "gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana-6834",
+        "anilistId": 0,
+        "malId": 24071,
+        "name": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead5d90ea4169dcd49cfaf19d9ca211e.jpg",
+        "description": "Movie of gdgd Fairies.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "1m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/3cMJaKuz5i8",
+                "thumbnail": "https://i.ytimg.com/vi/3cMJaKuz5i8/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15-sec version",
+                "source": "https://www.youtube.com/embed/whim4cPxz5E",
+                "thumbnail": "https://i.ytimg.com/vi/whim4cPxz5E/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "korokoro-13452",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34c8f99a537e2586cf4225a4e1e84c3a.jpg",
+                    "name": "Korokoro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satomi-akesaka-666",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/08eeb84421186335ea67f090767f92fd.jpg",
+                    "name": "Akesaka, Satomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "pikupiku-29616",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f8fbf1b7688e0b504e007f323faaa99.jpg",
+                    "name": "Pikupiku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "suzuko-mimori-148",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3983ebeb22fff44d8d2a05c4bf52e0a4.jpg",
+                    "name": "Mimori, Suzuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shirushiru-21751",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aef7e2d16c444cbbdf22e195cce80cc3.jpg",
+                    "name": "Shirushiru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaoru-mizuhara-1257",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ad3f57d3329a1f358b9c4b831bb579d7.jpg",
+                    "name": "Mizuhara, Kaoru",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "劇場版 gdgd妖精s っていう映画はどうかな...?",
+        "synonyms": "Gekijouban Gudaguda Fairies tte Iu Eiga wa Dou kana...?",
+        "aired": "Sep 27, 2014",
+        "premiered": "Summer 2014",
+        "duration": "1h 1m",
+        "status": "Finished Airing",
+        "malscore": "6.3",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "producers": [
+            "Pony Canyon",
+            "Tohokushinsha Film Corporation",
+            "Strawberry Meets Pictures",
+            "Tokyo MX",
+            "Bouncy"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana-6834?ep=95776",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2d9ec15f7e62bfb934ad44ab00be0a2b6f4e6d8daf34a6311bf40b807daecde5dd60e3a7281d47ecbde9b2fce4dbc125db9acdae829d6c332b4c826f4e644f2ac4e8f4548103c5874dd6d5a77f05487bb2495f43e862ecbacb6868a9f2705891ab0c0aa9f9821dc596399f1198e0809e288a2307c572baebaa43476a663d3a70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89cca14e9209db0f261ea4860e7a6225/89cca14e9209db0f261ea4860e7a6225.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2d9ec15f7e62bfb934ad44ab00be0a2b6f4e6d8daf34a6311bf40b807daecde5dd60e3a7281d47ecbde9b2fce4dbc1254d5ceed4ee7228768c305025d7113fd82d5308e982407cede128949a00d69059947e3ac5068755d8808237b1a87e409f5dc4b88809ab7d556667f345c56b46a19c252461a1944cdf46c6a9339c5f542501620c4d3cac7e5fbe388da077e14f31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89cca14e9209db0f261ea4860e7a6225/89cca14e9209db0f261ea4860e7a6225.vtt"
+                }
+            ]
+        }
+    ]
+}

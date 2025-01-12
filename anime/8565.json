@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": "hoshizora-kiseki-8565",
+        "anilistId": 0,
+        "malId": 1220,
+        "name": "Hoshizora Kiseki",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed0519c3f15dfa198963d4361df1acc8.jpg",
+        "description": "Kozue is a girl who loves astronomy, particularly the stars. One night, on an excursion to witness a meteorite, she meets Ginga, a boy who is able to help scientists discover more information about the stars through a mysterious ability of his. However, he is forced to stay in a protective suit in order to carry out his mission. Because of this, Kozue decides to convince Ginga to make his own decisions & to take off the suit using his own will.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "27m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/VwwT9Zhk1sc",
+                "thumbnail": "https://i.ytimg.com/vi/VwwT9Zhk1sc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ginga-53428",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/586578366c8e25fa3b851c83af927006.jpg",
+                    "name": "Ginga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kyouko-chikiri-13788",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/94e1e28c57f8e33a9f3415dc6f2483a0.jpg",
+                    "name": "Chikiri, Kyouko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kozue-46395",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6c5a8a4b3bc3661d7ec82bd998557f6.jpg",
+                    "name": "Kozue",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumiko-hosono-4602",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/96be12871d427bfd3570ba3a49aa0946.jpg",
+                    "name": "Hosono, Yumiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "星空キセキ",
+        "aired": "Jul 21, 2006",
+        "premiered": "Summer 2006",
+        "duration": "27m",
+        "status": "Finished Airing",
+        "malscore": "5.82",
+        "genres": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "studios": "CoMix Wave Films",
+        "producers": [
+            "CoMix Wave Films",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "hoshizora-kiseki-8565?ep=97708",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/57cb4c716529bfafad0cbc647c0c408f2b5cfc3153ab68a29c6de9c669626f9bbb68c068b0200e72bc33ac966b4d13d4a394f0e5d40494c1b67d3fbbf20d07d53d480df34338308414d7675fb7a2759564fb0b513c6323f8670cf9c2919babaeb476887d76f5e94c0d2d985cf00137ec6144f39f297817c12b3699a728389cf7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/57cb4c716529bfafad0cbc647c0c408f2b5cfc3153ab68a29c6de9c669626f9bbb68c068b0200e72bc33ac966b4d13d434b741d7b34fd9727c29f100a21d124430996dff14f470cead7e07239c236e4e68cd79fe06ff5d074ae2515bb12a20f0dd832492ffeb60d216fb58148d48e0af5f657c3183b726847fa25f19c7a6189817ecc9d18cfe29689b193b1c3465f5d3/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

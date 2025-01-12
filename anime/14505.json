@@ -1,0 +1,55 @@
+{
+    "info": {
+        "id": "kangaeru-jikan-14505",
+        "anilistId": 0,
+        "malId": 41797,
+        "name": "Kangaeru Jikan",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acaf54e3d94f4147a9332ded2933a405.jpg",
+        "description": "A short rotoscope film by Mika Seike.",
+        "stats": {
+            "rating": "G",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "考える時間",
+        "synonyms": "Time to Think",
+        "aired": "Jul 1, 2012",
+        "premiered": "Summer 2012",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Dementia",
+            "Music"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "kangaeru-jikan-14505?ep=99614",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b4c47141fe08010aeb3c29b4f31cad412ddfecfdd8f6749fae431406b351a24066de9f8f1590b338f26298f9eab314f587c5cab08bb9a6183359564a768c6572b4a326511cb21a074fde38fa1d1cb16b17211f83e759a5877d93e4d09605bc4380f510016f0961119f9e87fde4e9d545/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b4c47141fe08010aeb3c29b4f31cad412ddfecfdd8f6749fae431406b351a24011f2028b16d1b667423e76bdedea595eb12cad43418c0fdbe1a2edd9f3e18361b70ec4901a34f299a0f7ab01cf7265752ad01325407814d6c39693b90db150e5e9c3808c8861cafb7408b2b4c22de84705a8002952d4ca3e29704e6fe6e651218498a2430d33ee52c26ee164de88de64/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "info": {
+        "id": "endride-8988",
+        "anilistId": 21611,
+        "malId": 32608,
+        "name": "Endride",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba49198a3b58a8e24031f47b8527286f.jpg",
+        "description": "Shun Asanaga is a 15-year-old junior high school student with an optimistic and bright personality. One day, he finds a mysterious crystal in the office of his father, who is a scientist and businessman. When Shun touches it, the world becomes distorted, and he is sent into the world of Endra. Emilio, a prince of the kingdom of Endra, is nearing his 16th birthday and despises the reigning king, Delzain. Since Emilio is now at the age when he can inherit the throne, he takes up a weapon and attempts revenge. However, because Emilio is too weak, he is captured by Delzain and put in prison. When Emilio is in grief, the wall of his cell becomes distorted and Shun appears from there with two goals: return to his own world, and complete Emilio's revenge. What future lies ahead for the two boys trying to survive in Endra, yet raised in two different worlds?\n\n(Source: MAL News)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Aniplus version",
+                "source": "https://www.youtube.com/embed/AKe1VeVPuOU",
+                "thumbnail": "https://i.ytimg.com/vi/AKe1VeVPuOU/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/rd2sePr0s5k",
+                "thumbnail": "https://i.ytimg.com/vi/rd2sePr0s5k/hqdefault.jpg"
+            },
+            {
+                "title": "Preview English dub",
+                "source": "https://www.youtube.com/embed/qZ-2gMhI08E",
+                "thumbnail": "https://i.ytimg.com/vi/qZ-2gMhI08E/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shun-asanaga-32098",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ed5938afca244019408fc11df36e17d6.jpg",
+                    "name": "Asanaga, Shun",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kensho-ono-100",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9a4de954ab9aba29a5cc8ce71516533.jpg",
+                    "name": "Ono, Kensho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "emilio-langheim-24663",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c7fdc8ba598d37b98985cbb3478ab53a.jpg",
+                    "name": "Langheim, Emilio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toshiki-masuda-365",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/40db567a2fcbbd97d8f36edd6912000f.jpg",
+                    "name": "Masuda, Toshiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alicia-71782",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adfbfd0fea586f05183680afd4d30685.jpg",
+                    "name": "Alicia",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "karen-miyama-4414",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/15f35554617b76b75b63be5aa4056fd7.jpg",
+                    "name": "Miyama, Karen",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alzerm-104427",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f56d0235d793c740dcf389ab72b6eec.jpg",
+                    "name": "Alzerm",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "juurouta-kosugi-1354",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e917efeafa7efb0bf2dbb39661bf6c4d.jpg",
+                    "name": "Kosugi, Juurouta",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kazunobu-asanaga-123751",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d3bbc9a44168e83d4c9aa853609447db.jpg",
+                    "name": "Asanaga, Kazunobu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "satoshi-mikami-6967",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/82876f1ce99e629377e7055126f691e5.jpg",
+                    "name": "Mikami, Satoshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "makiko-asanaga-124346",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/11052a56cf1ed96f5299f6e32260a580.jpg",
+                    "name": "Asanaga, Makiko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryoko-nagata-4546",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f27e1f16c86df1af55941580456b22c.jpg",
+                    "name": "Nagata, Ryoko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "エンドライド",
+        "aired": "Apr 3, 2016 to Sep 25, 2016",
+        "premiered": "Spring 2016",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "5.67",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "studios": "Brain's Base",
+        "producers": [
+            "VAP",
+            "Nippon Television Network",
+            "Nippon Television Music",
+            "Takara Tomy A.R.T.S",
+            "CyberAgent",
+            "Forecast Communications",
+            "Brain's Base",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Ride",
+            "episodeId": "endride-8988?ep=48450",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/e070a1fc393fe12ca2340b7ef416635ad8f957f2c93b84516c974c58df8161bf033bb4ab7e1f7fa4e83a1244bea06e55e58efffce9a716b36ec649ccbc4b366dcdd229b3739687f4a4c2120cb3be7326a0c1d52d2babc570d0168481155be04c76290db408e0ad757137fef072f4bf28ec2a8b930d1fc3f11e8666618b2384dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053c99945f0634022b63221d425aae17/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e070a1fc393fe12ca2340b7ef416635ad8f957f2c93b84516c974c58df8161bf033bb4ab7e1f7fa4e83a1244bea06e55ea050771cb72a45ee282a993fcc047d000c509e02d462c05c77943525fe7a83318086657f7c3022f3f42c53f7726b4864899a57fce95533ced52ca3e049def112f87f712b5a8aefe3f6d33e9452abb8118cda5e8a87611829d57e5e06de14e4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053c99945f0634022b63221d425aae17/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Endora",
+            "episodeId": "endride-8988?ep=48451",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0816d47f2f958b6ecf18171d1774313623977b6a6e8aaadb11de93e1a9aede0735bea91f62e6d647712897aa4a437c1db08adc91fc7ee53498d5ac2c86658d3df5af0ab633e931633bd74f63155272aa2cd47f9c331bbece85af0b5c68fa17d51b0a3baf4f0fa02be480831644420dc3aebb83d43eef7fdc4d63c6a780517bcb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c5b335f273de7abe9f21bb7f0bb3ed2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0816d47f2f958b6ecf18171d1774313623977b6a6e8aaadb11de93e1a9aede0735bea91f62e6d647712897aa4a437c1dad8c1a7fbdb3dcc93573743897d951525119878accc76156989881a15610c5aa9fa8e7d3a173fdb335cb891618fd7770450d81f306907c55140bbb9c2ac4ae8615f26c6f94df970a9e723e8c7aa695133ba6838e9fd5172d7b7f2427289f3970/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c5b335f273de7abe9f21bb7f0bb3ed2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Journey",
+            "episodeId": "endride-8988?ep=48452",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e61be1091f82e4fb084c60a1833d33a88a8279ef485e14f0d10fac9e15fc0b1f4753bd63dc68365eb48e6b40fd7ed9f0f078b58a25f0ae8322f7eaba6a514eb1b06e192e04894fac8038925c6ec08b4fe60ad6bea257c323d311811cafc5fcf5a38bb8e527c6163aa7f3896f7c02c4cef27b7e1738bb4eb5d9a28b11a7b093e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7e4a7ae8f82d84d3943f2cf758ee1b0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e61be1091f82e4fb084c60a1833d33a88a8279ef485e14f0d10fac9e15fc0b1f4753bd63dc68365eb48e6b40fd7ed9f0db4a4cd00da6136c8d41d7f559537a27bfe21ec751b885949dc69358aab33dde499000fcb61c93d6590e4498a59c51b93737f1418d3fc95eff4cac94ad7b88356ba7f4ac1cd974cdfa33708c1545131d5eec0fe83e6886ae973d0052bfdf1cbf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7e4a7ae8f82d84d3943f2cf758ee1b0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ignauts",
+            "episodeId": "endride-8988?ep=48453",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b1a96a21ca81b22ae599ed8921fb2d8e99d8655996b6547bed0b1c78ce960614428e0b0d7fb5b0b5c868a33e821674679baec0bb505fe7bd4aa769f2cf330af9ae4c9e102c7445bd82be46b19460b84e05c9381d05ab11365cbfb3eaa0a2f452b44623e22fb0538af2b54d32bbda6489558f97339916c20eca00d6a750e21b8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/510225c3b19fba3430adf31408ca825f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b1a96a21ca81b22ae599ed8921fb2d8e99d8655996b6547bed0b1c78ce960614428e0b0d7fb5b0b5c868a33e821674677546408af80191e6a243c723362358f790ecb4158669c12a3d71e7cc25ba47d7a60041adb25f5516abe350373bbe049afcfe076fd2c4a7dbbc2cc1e5146f179910e7ee591c81e0743f1f7cee93082e20c2d323d01233bc93544e2ab942b0ea37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/510225c3b19fba3430adf31408ca825f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Assault",
+            "episodeId": "endride-8988?ep=48454",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3d407f43debb5cc8681bde7231e3731a159482ceaab85b2998d134a0323c2e04fed260a77d44ab8d483a256d864c889d772e46da4969e009e1d8b2f7ba4078d59dae3c40b56d609ca008a4ceac564adefae1914e921a5090c051f3ac9ee86c06de786d41b821c4c039b65374c5de13dace9671aea398e6cb0386e4a01d248945/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46b648fadc340297128595d46e4ae8c3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3d407f43debb5cc8681bde7231e3731a159482ceaab85b2998d134a0323c2e04fed260a77d44ab8d483a256d864c889dbbe1ac1db5b845bb25849accb98b89a3f0f23f8ad18cd6784153ce6749ac2e620b53f3f8111cffcbe3a6db2662747dce5087b53620f0a7588be7b9eee4eb21edbf20a6a69e6302edaa25030703f56b96bcc9778176c54bbdee7e027884879e21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46b648fadc340297128595d46e4ae8c3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Determination",
+            "episodeId": "endride-8988?ep=48455",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a152f3514a1649fef0f681f8a290ab8fa2b08ec2301e2377701c0d3a7e5a1f8ea68d58cfb2143522deb48a0691db31ea51b7de771373cf043095d8ecd33d578d98986a70976cf167ee077ae14422327b15ba9d26959df221052185a00d22b477121695611c5b2d9bb59cdfa8f1f4f5e6252414944200a63ba32ca917274a0737/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e267cc5815306fe3b1969454040e8ba/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a152f3514a1649fef0f681f8a290ab8fa2b08ec2301e2377701c0d3a7e5a1f8ea68d58cfb2143522deb48a0691db31eaec4670829a4a0975420be6b295118c6480a89f248400e49c6c84ab747c444b8f2f1deb3b0be2e70808d7493a2525aa54760be4996b296ceb85cf68183ac9250109258e0ce43f0119556815c01afc2896e1e8c50f091c47c96003fe9529200b26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e267cc5815306fe3b1969454040e8ba/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Girl",
+            "episodeId": "endride-8988?ep=48456",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9dc75b8a0c6f9513ddb7feb89d4d8a0f9dd532ec94dced2fba9cf1437a9cc685cb968513c3f53ec5cf8ac55db0e35df341f33e245be8a5075cade06d62270548de310e59245f8d0bf667430f9589f26fb59f64478e6f396f7896283ea2cd51cf156dac1a7d8692a5650f25bd5502eaa135b16017c44da799fd793610fd98f50e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/352b1cf3b78682283c3d7cacfee8b3d0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9dc75b8a0c6f9513ddb7feb89d4d8a0f9dd532ec94dced2fba9cf1437a9cc685cb968513c3f53ec5cf8ac55db0e35df38f267dac759b2d8b0d628ab386eeb2f07a4944334835e3ca0130160bb7c32ba79a118859703a1f410baece2a85e4290694638d8d6fdf43fecd01cc276ca8e604c59e0f8cafe026306edf545a48bdfbf546beac11c06f786468d51f0faa716e76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/352b1cf3b78682283c3d7cacfee8b3d0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lone Isle",
+            "episodeId": "endride-8988?ep=48457",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a00344cba3a157ba00b0b8d335c43b5a4ee15d346f02857ad2572533c294d0f53d262f10973dfa15cf07c82e82bda19a2ebb2adda512cd6c048e9c71bea9b7158bf85e073f03f6f95c8d2366a1cd04937a9be3c02c507d161a42487b947dd18472bea745f0f5fe212918e9a196428da731f9036de5ab6595bbc144e80a1192d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ac9b4fc44e871287d653f799419a17e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a00344cba3a157ba00b0b8d335c43b5a4ee15d346f02857ad2572533c294d0f53d262f10973dfa15cf07c82e82bda19aa6b645b77fab868032b4a4f6fdbfa13421bc4cfefa36a5e3a9c52e411d03430bf7d36d31ee2b1c1c0b1f037a7841701ee058c0861ca7539cb3e71386d212fce4b0f1b57f8fa08f858755f1e6c91d58c7756ac7c01cdd16cffe67ad4db281b5da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ac9b4fc44e871287d653f799419a17e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Father and Child",
+            "episodeId": "endride-8988?ep=48458",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/869a4ba2f7839aa53cd694c462a484978d791160abca4bc60d299765bd77acd1e700c33f83b422c4890fb70bef53f9ee04e5aa9eda96d0f67eed967a21c405562ffcb15ab15e40275339a5066b0b38a5698aaf6cda463502661b953bc1f6d26dd87c77b147fd7746f86923611080177a95adb39bb85c88b717ee6f171c7932cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4948c5361075348f3ba2efdaab93d2e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/869a4ba2f7839aa53cd694c462a484978d791160abca4bc60d299765bd77acd1e700c33f83b422c4890fb70bef53f9eef8a18bd4e900d283f28842102ef4f7a64a1b011a8138df8d604bb2fd35a696cabc95489517b37b586ef96c2ebb8dc04ec67e5a87b24fdb237c904439509088e386daad1826451275ca58bfa5cea71e55642166c5afc2b00232c81fd0ba870ecc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4948c5361075348f3ba2efdaab93d2e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Feelings",
+            "episodeId": "endride-8988?ep=48459",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1e0f412c0d34c53f846d1590cceeb47f03810615e309a6865b76180c2f468b51fc6b630ea75e18d4ba8b9e0c2f6a8877e80be1d752e9d55ca9dad83728d27b9d2f6221069eab4b2d5c924610d9b1f755fe000579bc3a9abc3cfa93e4260e18f3b5cbdc400f13374055bdfd32dcdc1a3aecbe52bc6b79436ef6874db19f4ef54b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74381193191f02091abe2933b2db70c1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1e0f412c0d34c53f846d1590cceeb47f03810615e309a6865b76180c2f468b51fc6b630ea75e18d4ba8b9e0c2f6a8877405064c9c6b7a74a4a43f1ce1d58c76861fecdae182414c1b0c15e6dd4833b326c527cdeeddc2a43f4102ddb06bde4c5ce45e5a833b016aeb6e97d5883d8e9da5344c53f25461b30aae82305c82801caa82638224aea4b71edfcfc3e9d8290a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74381193191f02091abe2933b2db70c1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Depths",
+            "episodeId": "endride-8988?ep=48460",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1d7affd7b5e06945dfdf4f62a172371127c953b14126648f12e89469612b295e0cc4157728f562a0d887ece61edb5eb21262045cbf36e3d904e9b102008cfa9e255c3b0ca68cbd6469c15bb7f9c358a1955c4be7b0800db115c1a1f0bf9e9003d9ab6059ec5fecbc2cc915615e0b50b89cba08aea532b6be65981bb0de72e22d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10206f8d4a8a5f15582e0e0a55a8b245/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1d7affd7b5e06945dfdf4f62a172371127c953b14126648f12e89469612b295e0cc4157728f562a0d887ece61edb5eb29fcaff47ec8b51ee86353bd23539a7f931b67212a2f4842bc6107e8894574b995ca7face851174ca36514332a4d09dcd550aa2487f4faaa8080f9deef1c72698da6f86d4ec3a6a198fdb7978f5d7e077546a831a6e25713b56c2f931ebaeb042/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10206f8d4a8a5f15582e0e0a55a8b245/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Light of Babel",
+            "episodeId": "endride-8988?ep=48461",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d91e7ec50b0f44bdc4eab617dd845b094669016a1763030f780c1f0832342ef8cf197ec8b45c18aaca61ceeeea1396c56a6c77eebb1c4a23f1a5ae7e88db5b23326f2ab0de0bb85fb0df8acc9fe58258e92d3f80b6ed7f5d24827e07ef85870ce4857466b14c3799e01689fbeb0be39b19d78021d4d533435b97225216c1f8ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07e082153292733371e38e912dc3e095/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d91e7ec50b0f44bdc4eab617dd845b094669016a1763030f780c1f0832342ef8cf197ec8b45c18aaca61ceeeea1396c597d60b9411b537266c201bb3056a9f1f6ab52bfb9db6444615ff7cf20262a9b4c115fe370373fec21c9063b6a2322d9d734c0c60b00b7f64831d86322331c84642abf0ae06a57c6a63803139d45110b1650e945cb7a3d72a8f2201b7a75c1a44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07e082153292733371e38e912dc3e095/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tracks",
+            "episodeId": "endride-8988?ep=48462",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2a2c951de2cdbd403163669f7529552d6da9979d31d3072cb17a57f34583cb224aa9a780f80515c513436f714a200f130102bd16fdbf2289af81fad07ebbea4d5af8d2a0377a37ec0d22293a876286c6988e21a36cd69cc5f82ab798ce26371b650b429672d45760b52ac4a9a397d7b852f294680b3dc29cb56728c29421e154/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf7a94ddca8738124952d6581bbbe2a7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2a2c951de2cdbd403163669f7529552d6da9979d31d3072cb17a57f34583cb224aa9a780f80515c513436f714a200f13dec2343a655f30299b42bbd484ff8a791e9053d05531526b05ecb52e1fa062b51bed0bdedd108201d1447b877aa707cebc7d59745dd5e2c1996a25a10a46e2353040ddc840d742de2d9279dded9306123bbc73cdc48c26f364e95cf0e6cab9e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf7a94ddca8738124952d6581bbbe2a7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resume",
+            "episodeId": "endride-8988?ep=48463",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/80fed5a1d8be050ccd5fdc55057ab089dabfff3c1a72c08ce6dad78734ec47d6fb7e57ff6dd0d4886cc47d84be135928184d1329017ca64ce71fbc17ea3984975264d2b5a4737a9e8b25eac37027a62edc6c601fac0fd14422bcf2d5719f086fe6bfeb2e77ec7066b591386e33ef16ab9005cc0b1ef1e33f9ecc97abe6c614cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/572fd3945a1e3e4aab815707341fa961/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/80fed5a1d8be050ccd5fdc55057ab089dabfff3c1a72c08ce6dad78734ec47d6fb7e57ff6dd0d4886cc47d84be1359283394077d57bbcca87392fc601cfc3f5a96e639de8dabbfe86bced4b5eb7d505d7abb238160baf153c1049bf4b44be3c27f321670d9e103f35b626567fc030069d6090b352161f1c6a44378da2804268d72d0e7aaa8084a5e4b6a1288b85d35a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/572fd3945a1e3e4aab815707341fa961/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Monster",
+            "episodeId": "endride-8988?ep=48464",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e34f6a300cce17d220306b94e07fbe750e8a0d79d7906c2d321abc20f67fea7fe9dd275b0f2b5fb5387e407ad7f303f8966266aa7b70976c248312a7a604876d272ac4d53087447d05ff08e1b8a266aa71a4b3528d3da882c98318d28c3c09f243b3316620a77ca4cc12ee9a58bca1253f8d543bf75988db3e583dc13655b9cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24213cdc0beb8d68380921b8cae6e78a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e34f6a300cce17d220306b94e07fbe750e8a0d79d7906c2d321abc20f67fea7fe9dd275b0f2b5fb5387e407ad7f303f896fd8b1c89d9ad1c457dc62fd9a169123234a9370543c74e72fbbe494ed6832123f7f5365cfaf689bde7e8938e31398167f1ac5bacde690584be8e7755bd95e83d56235f3c90d151ea5c6a2913b144cd27b7ca67fbd16f22c69d0585aac73848/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24213cdc0beb8d68380921b8cae6e78a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Longing",
+            "episodeId": "endride-8988?ep=48465",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/feb4ce04430b5c84d680d07b9e0025e635cf6d206b8aaa3ae0aaf8b6f5c30c719806bd2405b999a9ecdb3efcc89c2dedba5a320852e4d159a3abe314720d368fbbc06051f47ab28f79fd67588493ba57eac9640741f4b1f9e64f41630d0e516c0697a48b37bf10d0082eb0945b87687466cab1958ce9771cd400de65ac22d44c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78b073f2897c41c6291d7b34069873ed/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/feb4ce04430b5c84d680d07b9e0025e635cf6d206b8aaa3ae0aaf8b6f5c30c719806bd2405b999a9ecdb3efcc89c2ded2220f6e50b3f26e87fa34a7edb54415023926f2db6505487f78a2d2a0b3388c127934c6439edd2490ef913d350ec8f8be05baff6bb62de83ece72a002ebd0338953958ffce8be63306e9f5f62df7c14df659253dcd2a28736d55c76eec21d198/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78b073f2897c41c6291d7b34069873ed/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Return",
+            "episodeId": "endride-8988?ep=48466",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a250b34c762238aeae9ca4b7cf0ab2e07b1d0466d2274b840278a5754ac8829ef26f34e3ec6be52cbed50129827d9549d33cd35f5133e6e8d2964c99a4eed5eab93ed9b846d9f0b64916fa5b283150592b1c521b04df36a9eec70dd4afbd34b9db1b0f2c73ca4d17f5e8d6c912afe31477b8529673ef5de5ad044735529c7e7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4516e66dea9bb88762662016eefc376e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a250b34c762238aeae9ca4b7cf0ab2e07b1d0466d2274b840278a5754ac8829ef26f34e3ec6be52cbed50129827d9549f1e89d88c6c78a8c1ba685efa9e05a4612ecd2c3b46a559e2cfd48d8e94968f3046834016ea88cf33befbe143e3a95220d94547a6aae000795af83501df37f03b24a91b5a881761b4c6f08a5bb2273ef988027110f21a78275d3c2001a9f18d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4516e66dea9bb88762662016eefc376e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Prisoner",
+            "episodeId": "endride-8988?ep=48467",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/79f24dd5a10c80b551713525b57211ec738007e82101e1eb4076d99536318f802fbbebd7caaed8d0f0d838b2ebe4b4b8e0f25152d35da65b16ab4e3162ea99debd1f9585dd362be778b5ecfe706aab970e8c0e7ef7869eacaff04d5c3b5fd18bf7df2ad879eeb176a1713c8c6d6d6cf54dd312e312a1adc6933066e5477415e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5074bf3ebd772bc7bcb45faedd48477/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/79f24dd5a10c80b551713525b57211ec738007e82101e1eb4076d99536318f802fbbebd7caaed8d0f0d838b2ebe4b4b86008fa686f155c6184b3b0e3169915801ec20df9a0234890a7c362c5a3671acc009aab68384da9c7099694ffbb63bfdf6d54644781d1da8f94305e924ad43730bf9f3655242b327052c34a19e10b1627a73e44678f6612e3b24b1a4ba7d233e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5074bf3ebd772bc7bcb45faedd48477/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Surface",
+            "episodeId": "endride-8988?ep=48468",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5e45496089c0663e9138a885d2d2548f5c9999bbb7cc1d32f92c09282100e1fc3eed4e0df74628511fdf8d105140f51356c2eb9fee512248977bf8a9fb2d04069b30d7a1b7951d8a34cf7549f0841dfe3da6323ff59fa78f3343651bd64b7de7b5c5101a160d69d1850ca53eb8dd11ca67479a5e591cbd4595c62adb01ea6e2f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a42fd8ab34a4b459b52b447ede6818b2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5e45496089c0663e9138a885d2d2548f5c9999bbb7cc1d32f92c09282100e1fc3eed4e0df74628511fdf8d105140f513f064d1a501df8bab3e03a0810eacf51f00ede771e6de0153b9f040f8e83d4c53431dd5462aa7fb85984f90895badba8869654c81436fe2b9da91ae317aa70f63d6893af3cc05c00101266e8aef562e85576e4cdd2d464ffc6da4150d86afc008/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a42fd8ab34a4b459b52b447ede6818b2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Past",
+            "episodeId": "endride-8988?ep=48469",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/64fe81dfde8916022fa54178a636d9f01c67bf346a43cf2c4f98c654ed3e53be1f97a1d114208bd08e165d8ccfdbf4e89b3a47553d3d586a87b0c8cf15149b77702e933807fc7c99cbaca173b7aee5af96ce61223253bfbe944ab0db7fdf305aee0d137821643c2edb638f9bf735ffcd815d315eea3ee8347e7b1944d87408f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc3026bd946c310f1341c8635c26c6cd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/64fe81dfde8916022fa54178a636d9f01c67bf346a43cf2c4f98c654ed3e53be1f97a1d114208bd08e165d8ccfdbf4e803ff6ff90522774a707355c55d50fd779db066ddcbbedc0e24dcad246d7499f1b68922962450db6b5951cc7e04bb1c59692cec59b00887fd54dd5ee1d3a7d2dc503a410395089da81605e81d1c2606c562d1019899ceaeb24b88dcb5ae46f000/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc3026bd946c310f1341c8635c26c6cd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Confrontation",
+            "episodeId": "endride-8988?ep=48470",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e440bbbb11e78b3ee9b40741c596a20070618685c56295a9635c4e4a53973a265e0a762093986d7bfd6163c3fdf93d80a15ef1b0bf90bd999c8d449ed6b8227e648f4c3aea78d2459a92fc40c976732243a13257d3d311a469c2489b09419756ce5885d4948803eb6fac59428e3c21a970caa68ddee7f784ec182d26e247d88b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b445ef6002e24945f123c2eddd65aad2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e440bbbb11e78b3ee9b40741c596a20070618685c56295a9635c4e4a53973a265e0a762093986d7bfd6163c3fdf93d8086c285ef60837c401de39ddac0a48f25e837308e8029209b150341042494ea03a66a68e7cb1c94d6a54ad820398950d55d70f82aee7872d442e768a583e68030a27ab1751902242d804805e4206b98b992e125d88af1182fd5a20ac8a660d857/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b445ef6002e24945f123c2eddd65aad2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crisis",
+            "episodeId": "endride-8988?ep=48471",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4d9a09cb6a4390e526260d09dee0c04cec94cc3edbb3fe76b45e0b63cc8e02e27e3a8508856f2c7462d091597b3f0c802b95d5ec6192b889f30d4fd35717780eaac1aea0f63d755f26f04d43095b9923d6b7ffa867ba1a4d8c1ebb9e05a502654dfdbce3483befbfa70fcb1b67a7a36ad5223b77a7c5ce8c01418f86408017b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d8690c445f6ad98227f7c3ae15d613a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4d9a09cb6a4390e526260d09dee0c04cec94cc3edbb3fe76b45e0b63cc8e02e27e3a8508856f2c7462d091597b3f0c80f5163ba549b8326d8d196b88307c300db49d32e8ec70ac056dd5fa000bd771255661282c94a58c1cd992bcd78b393472bea248f5dbe517f5d11db563d1d4174919053c477c64c8b0ab80109fef30c0b530be588d945cccee28456f2d28d9ae4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d8690c445f6ad98227f7c3ae15d613a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Showdown",
+            "episodeId": "endride-8988?ep=48472",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c60102c8f4af8fd74bb6afc03eb838bb33de45fe1a9366f4f1c2e10655d5d079573a299af4888b6500c4bc75cddab713791bfaed36530470beb8535452dae7a24fd407d787a7111bf888844351e06aa09dd227d8b33d34a0e78d9434f4a1c38a5fa65c0f6dfa022eaf111f17d5b1e09f47d54cd2058141b74630f33c92fda070/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1824fcfee40347578d434760b4f26303/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c60102c8f4af8fd74bb6afc03eb838bb33de45fe1a9366f4f1c2e10655d5d079573a299af4888b6500c4bc75cddab71373c35fc769efcbe53271966ded5d10748f73e373b700f0a02f76cb16c515e210a52f739d69929b8e6cff9ec79f5df39c816bcaa44640242549698b14ac4dfe604ea64d7ca7ab171d9ad62f6a6bf309ce0097d8570b40ddc5e92167af52c05000/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1824fcfee40347578d434760b4f26303/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demise",
+            "episodeId": "endride-8988?ep=48473",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fd4f39a05c2ebc60dd31b21633193817d12b5abd3fb6fcad86d5c67fc26906f713c44b52dbc48da129013120d38717ead43cb115d1c6dc308db5b3c7ed1c9f0911c15a9e67fc06f01e11ff24aea2cff58f269692239ca41d2312dcff04579cbb38b3563b8b7fe08edc3c383e91d6ebdb1443858df52e7263e49e4dc5f4393893/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fd4f39a05c2ebc60dd31b21633193817d12b5abd3fb6fcad86d5c67fc26906f713c44b52dbc48da129013120d38717eadb7104c16e6eb3a493199dfacbc3c3f9dfe3320a2e08581e9a26794c1ffbcb9b4c453b637a72c89c29edf6065a516d99f4bf2b54f4bc1f20cc95738f8fbdcf2db4c64b31be86be27905ce795430092f9e2aec8bc1bf1c34ac35dc2dcf5e9378c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

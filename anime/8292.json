@@ -1,0 +1,61 @@
+{
+    "info": {
+        "id": "devilman-crybaby-digest-eizou-8292",
+        "anilistId": 0,
+        "malId": 37590,
+        "name": "Devilman: Crybaby - Digest Eizou",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a5fe180f9e884666b699adc81e07ab6.jpg",
+        "description": "A short web recap of the Devilman: Crybaby series, posted on Aniplex's official YouTube channel.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "ONA",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "「DEVILMAN crybaby」ダイジェスト映像",
+        "synonyms": "Devilman: Crybaby Recap",
+        "aired": "Mar 24, 2018",
+        "premiered": "",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "5.91",
+        "genres": [
+            "Action",
+            "Demons",
+            "Horror",
+            "Supernatural"
+        ],
+        "studios": "Science SARU",
+        "producers": [
+            "Science SARU"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "devilman-crybaby-digest-eizou-8292?ep=84779",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f0a943c9071e002287fdbda6d5b55d2f06506933107b5992f22226d874fdd92992de9fc17bfc03ff86fe99aa69a7722ea8b74fcb2fa6f23bbf29439b84d5901e471efda9365bc2e10536cf2162856e74716489d897c1381f1d4568224cca56096c963a65a094b741fd92e9b62d290c925d8e4c2e90c4ee009810d4511e70a911/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a92b216fddbb3bfe494b7cea3226bfdd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f0a943c9071e002287fdbda6d5b55d2f06506933107b5992f22226d874fdd92992de9fc17bfc03ff86fe99aa69a7722ec0381fcd2ee4f9106e7ea26b72b38ab97c07d7cf295dad665b9be6909ab0433494ca0ee474c2d19c77ec593de01fa92f410edec0ef714c8d02d75105bca34ebc8d69fe77a06a3176c8568a4943c2b54d135c119026742cf59058f784497e0ed5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a92b216fddbb3bfe494b7cea3226bfdd/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

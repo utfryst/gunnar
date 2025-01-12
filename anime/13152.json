@@ -1,0 +1,55 @@
+{
+    "info": {
+        "id": "captain-bal-13152",
+        "anilistId": 0,
+        "malId": 38014,
+        "name": "Captain Bal",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88b5c4abba9f6607ccd483c6fb7822ae.jpg",
+        "description": null,
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "22m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "キャプテン・バル",
+        "synonyms": "Anime Tamago 2019, Captain Bar",
+        "aired": "Mar 9, 2019",
+        "premiered": "Winter 2019",
+        "duration": "22m",
+        "status": "Finished Airing",
+        "malscore": "?",
+        "genres": [
+            "Adventure"
+        ],
+        "studios": "Flying Ship Studio"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "captain-bal-13152?ep=124262",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1d3ea6e43b5499f34a8a1577efcb5c5dc9c5de31a868b252b02af5210e0390054a5193d7b8a2a05491e9841bb15110117cf86a80912c66b74265bff07271dab019f3272e015599867f6b571a8964d26135a6feea83c35f5404830e9108164b02bf63a0d96b9637fe2150ff9d17bb43e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2235811760eaedd997c1b57b7ddd3bf/a2235811760eaedd997c1b57b7ddd3bf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1d3ea6e43b5499f34a8a1577efcb5c5dc9c5de31a868b252b02af5210e0390054e35802b5e131d9f004a1eb3f52598dfab31c2a4ea54d5b22f0511a15b802560951bfde676c0de0219d1c7374b090ca4bffe5798e1fec426f7e7e854eff7210aea5f47f2dd6ea0d3ccb6c8dddcb78702be3e2cbe3e61e68ab5e0f774950a4d77dccc10d34dfaa34c692316091d2ae3bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2235811760eaedd997c1b57b7ddd3bf/a2235811760eaedd997c1b57b7ddd3bf.vtt"
+                }
+            ]
+        }
+    ]
+}

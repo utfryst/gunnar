@@ -1,0 +1,131 @@
+{
+    "info": {
+        "id": "secret-little-akko-movie-7725",
+        "anilistId": 0,
+        "malId": 12569,
+        "name": "Secret Little Akko (Movie)",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ce62111c2db823a8032bdd5f48a66f4.jpg",
+        "description": "Taisho's father plans to construct an apartment building on a vacant land he owns behind his own house. The spot is a playing field for the kids in the neighborhood who will fight to keep it as it is.\n\n(Source: ANN)",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "daisaku-akatsuka-109625",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ab8ebab61acad8e36ce2b9923b698d4e.jpg",
+                    "name": "Akatsuka, Daisaku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "atsuko-kagami-40754",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5355500b7a5817006663a39390eae81c.jpg",
+                    "name": "Kagami, Atsuko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mitsuko-horie-2861",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c1491c164220b6068bf62232c0181829.jpg",
+                    "name": "Horie, Mitsuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chikako-109833",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f5b766cca6d3229f8a74ca9d78199853.jpg",
+                    "name": "Chikako",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "kankichi-naniwa-50151",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d259b77c799e0c42d2b23d34b09b1f20.jpg",
+                    "name": "Naniwa, Kankichi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "ganmo-unohana-62196",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/386b6014bee70960dab3475ba7b7fd46.jpg",
+                    "name": "Unohana, Ganmo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ひみつのアッコちゃん",
+        "synonyms": "Himitsu no Akko-chan (1989), Secret Little Akko",
+        "aired": "Mar 13, 1989",
+        "premiered": "Spring 1993",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "6.07",
+        "genres": [
+            "Magic",
+            "School",
+            "Shoujo"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "secret-little-akko-movie-7725?ep=84070",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ff969f8988ad90f8929820ebd08b60c372b85d4707e9e9d946335abe65c65186265c1423945fc92871f449f975f05eb4f56f47130bdd29e7fbaff33cf90fea94d42051ea178481cdba1a87f81b0a41ef6ca159d4ef7f0fa695b7920e4ea0df9ea24e3c6d882a35ad56a1f9f76d1c9b653550ad1f9c04c5cdd87581d1015cc1ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2462adb641c6a1c94aec4a50ad15d7f5/2462adb641c6a1c94aec4a50ad15d7f5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ff969f8988ad90f8929820ebd08b60c372b85d4707e9e9d946335abe65c65186265c1423945fc92871f449f975f05eb4bb22135fc6626d96b817190bc0da031bbe9646f6bf63faa766997fa20778ecc5392eec7a121c4883f94a6ec0fc6bbb748fa6d88ac4e6a1bceda1ba346fa745c652c07754e526fd0d6a1226767c1f20610cdadc861e642363a486b5ba0def4bc7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2462adb641c6a1c94aec4a50ad15d7f5/2462adb641c6a1c94aec4a50ad15d7f5.vtt"
+                }
+            ]
+        }
+    ]
+}
