@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-    <script>
-        // Omdirigera datoranvändare till index.html
-        if (!/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-            window.location.href = 'index.html'; 
-        }
-    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime Bibliotek</title>
@@ -303,6 +297,17 @@
                  2px -2px 0 black,
                 -2px  2px 0 black,
                  2px  2px 0 black;
+            line-height: 0.85;
+            font-size: 1.2em;
+            position: relative;
+            bottom: -85vh;
+        }
+        
+        @media (max-width: 640px) {
+            video::cue {
+                font-size: 1em;
+                bottom: -82vh;
+            }
         }
     </style>
 </head>
