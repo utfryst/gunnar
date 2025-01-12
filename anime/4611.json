@@ -1,0 +1,62 @@
+{
+    "info": {
+        "id": "baka-to-test-to-shoukanjuu-mini-anime-4611",
+        "anilistId": 0,
+        "malId": 36250,
+        "name": "Baka to Test to Shoukanjuu Mini Anime",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06b15f15daf520a2a676c50c719d6756.jpg",
+        "description": "Included with the Baka to Test to Shoukanjuu complete Blu-ray Box.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/GsFL7ILlXys",
+                "thumbnail": "https://i.ytimg.com/vi/GsFL7ILlXys/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "バカとテストと召喚獣 ミニアニメ",
+        "synonyms": "Baka and Test Mini Special, Baka to Tesuto to Shoukanjuu, Baka to Test to Shoukanjyuu, Idiots, Tests, and Summoned Beasts",
+        "aired": "Nov 29, 2017",
+        "premiered": "Fall 2017",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "6.74",
+        "genres": [
+            "Comedy",
+            "School",
+            "Super Power"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "baka-to-test-to-shoukanjuu-mini-anime-4611?ep=91289",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ee5bc2f168fb4322e330f2108f1ea00b914ca39eab4570a8fd9c00fe6236622731f9eb24b7178938f084be7af1e7feb11d6a114f1879391249698d83957048c0e43a5c7966b4f2d0535945885233a91921d9fdb1ad51a91f883c43082e1762bf0a5c950fbcfe56d925ec1edfc7f0feefd0c6b5a3132787eba686f0b4f8c305e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e548f073de64ad8dc9946ab9dc5a7e0/6e548f073de64ad8dc9946ab9dc5a7e0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ee5bc2f168fb4322e330f2108f1ea00b914ca39eab4570a8fd9c00fe6236622731f9eb24b7178938f084be7af1e7feb1a61bcdf637bc6640b4ed1f89e1abfb6d8eb7312dd5e5355a6436381b8946ce5058bd5d2a23934f766bf054a2d5983b1be1d517c2edabc4e05de7f42d3dad031004549aeedef7ef8ba4f1539137b287aa6d6be8b5d3c46d316b7aea40b82aa2e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e548f073de64ad8dc9946ab9dc5a7e0/6e548f073de64ad8dc9946ab9dc5a7e0.vtt"
+                }
+            ]
+        }
+    ]
+}

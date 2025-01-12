@@ -1,0 +1,82 @@
+{
+    "info": {
+        "id": "fumikos-confession-4928",
+        "anilistId": 0,
+        "malId": 8187,
+        "name": "Fumiko's Confession",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef9b3c5b485653fcd69f28fe8bd4c1ea.jpg",
+        "description": "Everyone handles rejection in their own way. But when Takashi turns down Fumiko's confession, the young schoolgirl unleashes her frustrations on a fanatical sprint through the neighborhood. However, a single misstep sends her soaring, and things go downhill from there...",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "2m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "fumiko-36328",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/130382ba98ba7ce7749348f75f7e760d.jpg",
+                    "name": "Fumiko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "takashi-51407",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bd1afbe086b7687ef5edfcae3d232b7c.jpg",
+                    "name": "Takashi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "フミコの告白",
+        "aired": "Nov 8, 2009",
+        "premiered": "Fall 2009",
+        "duration": "2m",
+        "status": "Finished Airing",
+        "malscore": "6.68",
+        "genres": [
+            "Comedy"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "fumikos-confession-4928?ep=94130",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/174565dbf21c2d6e37625db98c0b4013ee7742a95370b782a9d394c4de75341936c70462b9897e619cc9c9154f85066c888585aacec5553ef48193db45b7ec15b2cd4b8922b4f85d6f4747707d6f9bbac3c0788748aa423cfe63b18b1d48e364f0fd85630fc2a66b80d3709974a93fa5a88ae4a165c75c853aa5bf0bb2d7e806/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5930f9e5e5bdfbb6abc6ac70394ff17b/5930f9e5e5bdfbb6abc6ac70394ff17b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/174565dbf21c2d6e37625db98c0b4013ee7742a95370b782a9d394c4de75341936c70462b9897e619cc9c9154f85066cd9d622331e4a433de0fb0f13aef2dac2b65134bb19971f4531ab3755b068d1760949dec4f82c608a37c86b508281401e339c05dce81b558fa4469dd2df150f26552c38a3ded7492c0bc7227236aeb138fa7f41a755f0a46932bfb11ebc455219/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5930f9e5e5bdfbb6abc6ac70394ff17b/5930f9e5e5bdfbb6abc6ac70394ff17b.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "info": {
+        "id": "nagareboshi-lens-5038",
+        "anilistId": 0,
+        "malId": 13833,
+        "name": "Nagareboshi Lens",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/910ad7fc652af5b6e94e9b92c6c3a8f9.jpg",
+        "description": "The story follows Risa, a girl with zero experience in romance. Meanwhile, a boy named Yuugure is the most popular student in Risa's school year. Even though the two have had no contact with each other in the past, they find themselves at school at the same time one night.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "18m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "risa-hanakago-17202",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9050dda00cd3d1bc905d0ba330be08a1.jpg",
+                    "name": "Hanakago, Risa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "touga-yuugure-16446",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0aeb99308300d07aa928c666dfbeb38.jpg",
+                    "name": "Yuugure, Touga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shintaro-asanuma-454",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c342301173dfcc4bfdac8cae87a8e1c.jpg",
+                    "name": "Asanuma, Shintaro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuriko-minami-119825",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c6fb76d011bfea7893dbc2a901eaff77.jpg",
+                    "name": "Minami, Yuriko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saori-hayami-7",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76514edd0aaa4a15714bda55f5023799.jpg",
+                    "name": "Hayami, Saori",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "流れ星レンズ",
+        "synonyms": "Shooting Star Lens, Ribon Festa 2012, Ribbon Festa 2012",
+        "aired": "Mar 18, 2012",
+        "premiered": "Winter 2012",
+        "duration": "18m",
+        "status": "Finished Airing",
+        "malscore": "6.66",
+        "genres": [
+            "Romance",
+            "Shoujo"
+        ],
+        "studios": "Kinema Citrus",
+        "producers": [
+            "Advance Syakujii",
+            "Kinema Citrus"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "OVA",
+            "episodeId": "nagareboshi-lens-5038?ep=126927",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1928bd2c488a01187b893b8c29b9fc27ade20cca419a41e9d1d0be16e2f17943ccc4aa1fa38ea974fea70839720b4ac682dc5eeb0f52f9548df41a092d826c3603e266054e3a710c285af5ed33507c799be9866e6483cbf69ee8530c23ae7b6a0a58bcea0efb2b05e2296420660e2029e1e6f94ea4c2a795f0eaa1604bef1965/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf63a2dd04dc8aecdb2208dba3694e58/cf63a2dd04dc8aecdb2208dba3694e58.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1928bd2c488a01187b893b8c29b9fc27ade20cca419a41e9d1d0be16e2f17943ccc4aa1fa38ea974fea70839720b4ac62ce4ed7dca5325a881e673d489f5a1b1e365e348554028f44edf4510bdf2a9e2873df0cd2c6239d6adaa696d6e1fc81fac0bbfc23f9549cc2085afcd8b59a2c9e527cdfdda9e384a73c84af66707b620ede221b0f15188f9efbe131275cc62b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf63a2dd04dc8aecdb2208dba3694e58/cf63a2dd04dc8aecdb2208dba3694e58.vtt"
+                }
+            ]
+        }
+    ]
+}

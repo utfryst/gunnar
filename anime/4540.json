@@ -1,0 +1,826 @@
+{
+    "info": {
+        "id": "blue-blink-4540",
+        "anilistId": 0,
+        "malId": 3631,
+        "name": "Blue Blink",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5687229e53dbc2845dd7d681ee2c3971.jpg",
+        "description": "Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 39,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "blink-29508",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d54b97f946b5afa31a52fe4fd5178ad0.jpg",
+                    "name": "Blink",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masako-nozawa-119",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c06887dac90cce5fc00505c4a32414b6.jpg",
+                    "name": "Nozawa, Masako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kirara-123822",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b91eece96cbe687052ddb95a23e5dcb1.jpg",
+                    "name": "Kirara",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miki-itou-419",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d50d0b42dd8c2128c8d4acacd06bd160.jpg",
+                    "name": "Itou, Miki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nitch-125590",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0cc80d0edee729ddc843c24d67e6bc4.jpg",
+                    "name": "Nitch",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenichi-ogata-1907",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cabc6455794a5ae6003d6641c75b507e.jpg",
+                    "name": "Ogata, Kenichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "satch-126196",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/301553317ccb98ab1f66c1875df69c48.jpg",
+                    "name": "Satch",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "you-yoshimura-13406",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/82806065bbf437ddc40baefdd447c326.jpg",
+                    "name": "Yoshimura, You",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kakeru-shiki-122639",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/61c03ec8995fd26221d619af1aff5f6b.jpg",
+                    "name": "Shiki, Kakeru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masako-nozawa-119",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c06887dac90cce5fc00505c4a32414b6.jpg",
+                    "name": "Nozawa, Masako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tanba-53364",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/145d389f87c13595cdc8e67d44eeee5c.jpg",
+                    "name": "Tanba",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "青いブリンク",
+        "aired": "Apr 7, 1989 to Mar 16, 1990",
+        "premiered": "Spring 1989",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "6.76",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "producers": [
+            "Tezuka Productions"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "blue-blink-4540?ep=92209",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/95767b07036d43940810feda4590cd671e25c50e1a18bd17b50fec0595fa8a85df2374f1a36de707949ff187f0505bde590cb4672f1b15267c0c0a204ca3fa2663e2b510db3b2ad31d74a1412e4da780f7331a0122a90f118b73edabe92902292c1ec1e27004d036a98cd6c731b20a85cb741bc616787aaa6cec7e9c8f9179f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a7a9d692bbdbd50ddf5bef8cd00111c/0a7a9d692bbdbd50ddf5bef8cd00111c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/95767b07036d43940810feda4590cd671e25c50e1a18bd17b50fec0595fa8a85df2374f1a36de707949ff187f0505bde5272ab9bcd4cc19058ded0a4bd48b17b1b412dae683f5d275210cef74baf30a78644190951110af2d9e9ebd3b9c3818ce73d5746da939f183baa16360e4f5195faf447bc37566ab1117726ec98b01641c66119bb7a428510918667e540af31e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a7a9d692bbdbd50ddf5bef8cd00111c/0a7a9d692bbdbd50ddf5bef8cd00111c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "blue-blink-4540?ep=92210",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3368ab88b1be1ebd52fc1b396c7dc1355d79a9eb91c6538d37efe0b5b99175ca3bd0c5c5532756df7a25ed54d7a4a5609e27ef236dbb0c9582143506b7ff0bfa496c2b50f2d3bc275f18a20b46cef74bd532b30651af1d1a19f00b4d3924f79fac79768fc4f535ab3543a2b0b98f8f3de3c7bb12df9e473f05f919bdb1dfb428/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28547ccf47632d420873338d5eb6a47b/28547ccf47632d420873338d5eb6a47b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3368ab88b1be1ebd52fc1b396c7dc1355d79a9eb91c6538d37efe0b5b99175ca3bd0c5c5532756df7a25ed54d7a4a5606c8c98cdfd36635cd8fcaabd1ce4d8187bf05257a46cadf86b241156dc3246e3a78731193ff89ef3c98eef5f6d3aa18af6540fc6ec06ed0ce1edcc7f801e431a804006ad7864a8e20f8d6d21ed39105092150783a68f3f3398757a3f6eeb01e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28547ccf47632d420873338d5eb6a47b/28547ccf47632d420873338d5eb6a47b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "blue-blink-4540?ep=92211",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a086d42a812a907d102a70047ca46a6445db4a57cbe68ecc004fdf18fedc99a2c85480005b91b58f678b428e4397c025c72052de52dad4ce16a33be451a0a0ca8a31c519aacf7820f9c64b432b12d73869934d993cf151ee20ed0787336552bd9b577b58fae563d2ab82d2657ed719201469e783a9d52ac4df750aa5eef60bed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7cf1ab1be1432084f49273166c4a2b1/d7cf1ab1be1432084f49273166c4a2b1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a086d42a812a907d102a70047ca46a6445db4a57cbe68ecc004fdf18fedc99a2c85480005b91b58f678b428e4397c025f666a54416209161eea533ce38da7eb3e42d230d963267d41d2fb6e946a13a86b12e3e066f7d15a4afd9b473fa3cc2e05f6fdf1d7343c1924c37c5ef5e953c6704fd7a7924952acc6ef1ecba10cada762f9842a3523acb0be469a99d70f7f89b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7cf1ab1be1432084f49273166c4a2b1/d7cf1ab1be1432084f49273166c4a2b1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "blue-blink-4540?ep=92212",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/970b94bd7e123d80e4dc2288887f893f1e844a9eff6d66c9c46df824e9fc0ed511bccda6173f24363a9cb4bb57742e14ef246127ce67468170066ca5ab90bfde6988b45849a01d2ff50f835562a7cea4e9cd54e507091246625f3190b860d2f9cf21ed48caece84d27586e4c1c8042e043a58e902c4436a833ee32688c5e3e64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f16c9991a4e3f4d53703c6458d2ddf33/f16c9991a4e3f4d53703c6458d2ddf33.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/970b94bd7e123d80e4dc2288887f893f1e844a9eff6d66c9c46df824e9fc0ed511bccda6173f24363a9cb4bb57742e140bcfbf9753709cd56975782716d07b387ac76d235a84ecdd73033b554235f6fd147f97607d90a6197483ccbdcbf41ac8bac2307b697aa7bc3232f071c66444ca5a841df09de6b9e0cae17a4a720ff46119ad3fb1fb37d18ad1743073635e98e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f16c9991a4e3f4d53703c6458d2ddf33/f16c9991a4e3f4d53703c6458d2ddf33.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "blue-blink-4540?ep=92213",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7d2b5d2ec73e27aa7a27b18bb4f684aebf21179962ba5aa1fb66c586dde5153eceea31c3fd1a4db5276c35e5dcd0a5793c9da79e14a30b5643e3c66d243b16ca021a491361c64835c8fbd22c7dd8ea339ab714a9b482bb826194b45dde67b83b106e22e6f8bbbb92d51ddc0bb2addd57f6fbeaf643d0768ac9f68e2eb6e7c6eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7beb8ae94eab1e7b189dc91a32189358/7beb8ae94eab1e7b189dc91a32189358.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7d2b5d2ec73e27aa7a27b18bb4f684aebf21179962ba5aa1fb66c586dde5153eceea31c3fd1a4db5276c35e5dcd0a5796b36403ee5a9dbd08d8d5e80ef26c390cdc496dcbbd3abc34dc45df52fe222f87940f3a93d28b61e891205f42cd07b35d3970671470751aab2f9d080c85f024e2477a4b67e7b08eb8ba5249eb5a584e7a7920dd1d250fb56d25fc25f6c590f69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7beb8ae94eab1e7b189dc91a32189358/7beb8ae94eab1e7b189dc91a32189358.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "blue-blink-4540?ep=92214",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e3788def7c15db9442fc6f9d9bd241004f5c53cdbeb1521ec1d5b982dc4c3c70ef03db108351092e0ac17765451702ea86819787e96767aedabc4de73a0845fdda738069c5ddea0ee393130003ab0b829449fc092a2bbe87d6734ac5e1278b829d269430e3a94c455a13d77be31fd3b84d4e641999f1626c2a5fcf4cf0a53f2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df4cec3fcd6978259c3e3f9a65fe2986/df4cec3fcd6978259c3e3f9a65fe2986.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e3788def7c15db9442fc6f9d9bd241004f5c53cdbeb1521ec1d5b982dc4c3c70ef03db108351092e0ac17765451702eaa1009e46fc3b6bc463dac1a70dc8167c6fad085026fbb13ffb47078462e5f3fdd2d5a2f3f0a9d912caa28d861a5d08ec20012043854bf163516dd512c2d708c38b7d48c43aabd196f8363578b6e58db07106a118bf1ea68e9174eb947ffeb71e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df4cec3fcd6978259c3e3f9a65fe2986/df4cec3fcd6978259c3e3f9a65fe2986.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "blue-blink-4540?ep=92215",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e77dcb41dbfde23c0eabd675a3824b40d8d0cd7f59b1ff4855cf5f2d7408172d5b815706f402c7240e9c5f0202ec69498ad27b223ea6a2e9c646a6f6afd46b47e4e3354337601e7de4104b2067d6a87935c07b36a50b2f02ab995e4e9bbdee0f5ea90971a1602bf7a8c0c1c4a276df5877daca07d4b9292d50d37a362a8a6eba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/caaf2fbb008616a002b8e2181f24b6c4/caaf2fbb008616a002b8e2181f24b6c4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e77dcb41dbfde23c0eabd675a3824b40d8d0cd7f59b1ff4855cf5f2d7408172d5b815706f402c7240e9c5f0202ec6949d5f2e1b1a5928fa0bc153416d1974b6a4e5dad390ef0d9f9fe5ed4b2648be382b2c0ff99dc8307e5055576357c0b1a15f00fae06e9886eabdf029420218437be9480cbdab914494d8fc5e3a9a8bd13d5e9358e395ac66091d5c9bee59be1fdbc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/caaf2fbb008616a002b8e2181f24b6c4/caaf2fbb008616a002b8e2181f24b6c4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "blue-blink-4540?ep=92216",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1dc09e6a733eae2942fb48d535c5f216e5cfbcf005d8e683259cbe5941343f4f638172973aaf6675b04a5adb1627865743e0639bdaab25ff5c57e3c469f626da61097f657a777ba31d6c1d8aff25e3c322646582ce5305f8fdab8bc785e6ef24838e2b96a06a3f452a12034d0ce01e23cf08778a9b752a08976ad36bbb2e98b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6cebf1b16d9448f85969299fc9f7ea95/6cebf1b16d9448f85969299fc9f7ea95.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1dc09e6a733eae2942fb48d535c5f216e5cfbcf005d8e683259cbe5941343f4f638172973aaf6675b04a5adb162786577b39a157beddad88a7cfffdac10a30e4fab727dac8ba23fb099f5b6a41cb2cf2b7e024ebc6553ae779ef23ea9869975231058b8510959af3c3816b4912c1241680168b8fe9fdd955b73c3c0076b9116663d5986b5b725f4390e8df02514b864d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6cebf1b16d9448f85969299fc9f7ea95/6cebf1b16d9448f85969299fc9f7ea95.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "blue-blink-4540?ep=92217",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6bbb8fd5b6ee2e2ff13d1a22364020fc2e6d0e3075f623dd929f0d12e5af64a6ba954d53bf3f8e5d8d82a1161df2b983f9e1f193f8d811f5a087f6eb120002c91b12555535aa1f99b088c6d9c6340059b654e46e57e74dec4374d82b883e2cd53a485162de9ca1ff01dc929b24bdbc8008678590d785f39935397d43b70147cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57b63fe62cf77b83d0cebe7b9c8fcfda/57b63fe62cf77b83d0cebe7b9c8fcfda.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6bbb8fd5b6ee2e2ff13d1a22364020fc2e6d0e3075f623dd929f0d12e5af64a6ba954d53bf3f8e5d8d82a1161df2b98330b5d056ef5aade3a29d1773c2ba021db18b7648d91e460e2c075fe1bac19784c04a5f6da9b8032f93aa4c2d616153b4dc622e876e2b42bb0508f6a44c897922ba28bc98fe659431d278d2d07b83941424072822cd64dc1892063a1e9f4697b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57b63fe62cf77b83d0cebe7b9c8fcfda/57b63fe62cf77b83d0cebe7b9c8fcfda.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "blue-blink-4540?ep=92218",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3be913b87d0b29cbad56c4a32e0b5c41ca3be45fa8b1327db6a08889900fe61ce075e849ede2cccfddc9f929e6616834cabd33dcf95e3b2263bb9513c9fbf8f6c0879495615ac1772153c875f05783c84aea33bdb108dbd9e0d5fd17fb32689e23567f5b43972f02370264f6ba470cad6cfac716440ee369d4ee5157641c338c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9a824015da90f6e3236c1fc93b721f4/e9a824015da90f6e3236c1fc93b721f4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3be913b87d0b29cbad56c4a32e0b5c41ca3be45fa8b1327db6a08889900fe61ce075e849ede2cccfddc9f929e661683437df73cf713a0a9794e9df8b96313605ec62e537c89e5d9986abcc9acf87219833c60ec8d269655f67c71115047ccc67ede5313cf6dce86e228d1ad90034964ff20a8d661ba25049cc3eb42a8d153145cd462438ee383766327de3b4c18ab7c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9a824015da90f6e3236c1fc93b721f4/e9a824015da90f6e3236c1fc93b721f4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "blue-blink-4540?ep=92219",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6e4b68c348ec2bc86c28b7850f00024dc25dc777f00a0b3a897b07ff0071be21a916496abcdf6b111a5619c23cf8379bd61c177d944aaa04a99db978cc79f952c2886fa1e9724d5727b1ee76daab7a3bdb62d3b10ae9366dc5c05fa4edbc0edd57f2176aa470d70813aca6cb79940aa8216aad66baeb7518f8def0aac372320b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a441c7da24492b4f9585809eed939047/a441c7da24492b4f9585809eed939047.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6e4b68c348ec2bc86c28b7850f00024dc25dc777f00a0b3a897b07ff0071be21a916496abcdf6b111a5619c23cf8379bee2a020cdb10fa61e95bdd004a307583ff2ddf0ab3250afdcc16c430ee622ec42d2692e5e64398332b61040043dcfb895993775d562c47d63467e0ef080121ea1ee74a3e4fb65817fe74912dfd31d32e1355ef415905b6754338a53686585a82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a441c7da24492b4f9585809eed939047/a441c7da24492b4f9585809eed939047.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "blue-blink-4540?ep=92220",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5fac3cce424cbd7297106d6f32e09e45f0ac7430e2aed222bcab11ab296264e811cc9e5a25b1f267d67283802e50c1bce3e44a78fd508cf918d22dbfac4640777305d4f0f0e813e3c6a4a4cef23de99380cd692291c51b2c7259c85e2a55f0984f9d5ffafefaeadf3a00766baab25040eaac1e761d0f20a05c7d9e12f5c85174/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0fd557758e7a2423098004a70f67a41/f0fd557758e7a2423098004a70f67a41.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5fac3cce424cbd7297106d6f32e09e45f0ac7430e2aed222bcab11ab296264e811cc9e5a25b1f267d67283802e50c1bc96c25585b1c4b7adf6d9f2fb7244b0ecfebf6548c7b4c1232e7cff8187c09f8269d7ccaf539c640f053af195ad299f542a0b1cabc4b28880f5936b21d0183c99cf7b9759df950fdaec8ee207d5d566a26d5dbe09e9192ddf69d58ccf59baebdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0fd557758e7a2423098004a70f67a41/f0fd557758e7a2423098004a70f67a41.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "blue-blink-4540?ep=92221",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/91d2ef159877ece5e98fe684bbc73ba34a3daafe3f299d2877511b7fbc646fa611784a81df9e0b7aaaf5b9ed3ef5704361e839b32628095e58aeaf970bcd641a68119f1ea46840983e9f68e9c16656a32a3e68b4ba8d687ee93104135b25ea85b79b117fc28133251d94843c99c59fd3ae56faffd7adffacad4d056b6134085d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7ac3b0320fbc369296fb07e20454613/a7ac3b0320fbc369296fb07e20454613.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/91d2ef159877ece5e98fe684bbc73ba34a3daafe3f299d2877511b7fbc646fa611784a81df9e0b7aaaf5b9ed3ef570436243461ba94576f58341799b10e37d71c8db8e71466c257a3a5a3f74e3e25ad8a1c0a884c553eee2322d55f8d84c77746572fadb5c0f7a48e08bc91ef8616ef7ccfd5b10c28ef493c5764e7b89ad97e48bc09aac2da1fb15a1cc535e50f8b49e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7ac3b0320fbc369296fb07e20454613/a7ac3b0320fbc369296fb07e20454613.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "blue-blink-4540?ep=92222",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/117e9b3ab9497fe7f0cb7b4f7b403826ec841af350e2367d78ec564e4359ba364ec1134c240d8d829d1f0d8afddd4e35eb31fe29703516fb1dbde66c292367283653ef6747fc17d774cd2bc2e408dcf45ee2a593490fa4a159d14f740a1e8917b9f3ac5019d236f8e0f516b91e436222340ccdd985c35ea74f75851fad5ac2eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b724573278c91e9c2ebb93674645372e/b724573278c91e9c2ebb93674645372e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/117e9b3ab9497fe7f0cb7b4f7b403826ec841af350e2367d78ec564e4359ba364ec1134c240d8d829d1f0d8afddd4e352b383ccf02be08062cdfd4aaa5e21538e56c7b97417f4c830e35b458c287e3d0f4fe538049084f87517f9aa1342e99e2061243252d2bfb6cf8b789e49c748326cc1a69db048aac6955f8c6d07d79ead87a8364e360196dcf4a1a23fb8742a4ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b724573278c91e9c2ebb93674645372e/b724573278c91e9c2ebb93674645372e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "blue-blink-4540?ep=92223",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/aa90eaaa39dad5717e6ccf2057388807947faa1e23ccf1fd49361f345d25c3d6816c228b380ad8e62846584d0d70924493ea20b127f03ab6f00d93e9ac95a438b65e2991d9fd6707a19fe1a787637b3d83dde2dfba72683b472ec93ca6e1ee7ff983016d249685065818147134b08b2660ad36006b4621bc80e298e56f97e35c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db24e612f5413298eb2cb60c1e2fae99/db24e612f5413298eb2cb60c1e2fae99.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/aa90eaaa39dad5717e6ccf2057388807947faa1e23ccf1fd49361f345d25c3d6816c228b380ad8e62846584d0d7092446f2620396b4c7d5c1b214e355f54925ef7ef9d0496bc7d3201af6444f4d0069d2f88daa0c7311b2df38315583fa71ad406b77feaefa604c8c535942749c8797599b484aac621d6e4414adffe829d5db376081e5ca2fea4b02e8a197ce562e465/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db24e612f5413298eb2cb60c1e2fae99/db24e612f5413298eb2cb60c1e2fae99.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "blue-blink-4540?ep=92224",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/351ad0b60f74f981a824c4f743adde72e4d54761c755a9e2c1528273fd3d850483e50503b9e7f5eb0457ddf242b9276eb161b56e3835f9b43828d8b2bf0872bc8d2e9ed28e9ce8eda49c74e1f739a7b255f66dfd84a9632a1c6ae23f3e4219262e5ecf299455582f0468520073bb67b1ac405f9e1a50331a923c4c7bd897a707/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebdbcf33f8a07e75a5ac2fd0fce4b3c9/ebdbcf33f8a07e75a5ac2fd0fce4b3c9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/351ad0b60f74f981a824c4f743adde72e4d54761c755a9e2c1528273fd3d850483e50503b9e7f5eb0457ddf242b9276e2c206fb659759a7426a492075ec690e80192957dccec56fdebdd3f5994667cd5bcfa65929d8e8952f7d787950b0f575d0f69be6e47f61116e626a82e18dcd97215ca24f74a151309f95c378dedd89acf96a19a781d64b7a83f4c8c2ce81b843f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebdbcf33f8a07e75a5ac2fd0fce4b3c9/ebdbcf33f8a07e75a5ac2fd0fce4b3c9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "blue-blink-4540?ep=92225",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5e035213eeefee17a2be7eac41816a524df1580d19326ceafb2ed8a68a0b63755146397ecf5a5a4bc15cc45a2ec5fb63d43801f4f29ee2fa0548db16cd8625b9c0a3a1177e5a8cbb249fabaefd5d2f12760f3d312a355a63e0d5f9d3aaf68b5e200250a347daed85c389ae2ec792b947f69be0a42c84bc989b3938fac64677fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7728afabf2e63f42d2fad648f02f0a5a/7728afabf2e63f42d2fad648f02f0a5a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5e035213eeefee17a2be7eac41816a524df1580d19326ceafb2ed8a68a0b63755146397ecf5a5a4bc15cc45a2ec5fb635cabf93f268cbcef8ea82f3b9b84a6f2f124764d87f2aa9d4003e30f9009e815865faed1e0e3cb21a85f149b518f6b8e856180a326d2a74e09eadc4e983f2c1206ec0fa02186ec1c5e7ed8df1525632cc8630fe12ac93a2dbd1d3a91b0fe4662/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7728afabf2e63f42d2fad648f02f0a5a/7728afabf2e63f42d2fad648f02f0a5a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "blue-blink-4540?ep=92226",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/874ed99a5c3b4af4c63b04de7f61b362d16d0eb9cca72286b0fb7fd8945396bf2644595a5fd8f9c09502fe0b389104523b603a9b374b02096dca583c32ffdba27f00c137b180b330246b2bb4e512c3d17b89ffd892a31d676c09b257376702f9c5367acc955d5ca04bb36b56a5afeb36eb38b69f01bb8b41ce0145caaaa3f332/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed3ac73612914ad294b81c39d07fa29/aed3ac73612914ad294b81c39d07fa29.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/874ed99a5c3b4af4c63b04de7f61b362d16d0eb9cca72286b0fb7fd8945396bf2644595a5fd8f9c09502fe0b38910452098a0467fce1c19ea353ca04d8be97fda77e1677d59cbfe78d21c14511dd273eaf913847ffa02c1cba7ba9372df6b1619761be8804a6f72b00ef6fbf4965a25d3bb36cba8d96c20ca2c2e87fc1535ab7bcc3e55dfd813f8f531619c9310a7c3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed3ac73612914ad294b81c39d07fa29/aed3ac73612914ad294b81c39d07fa29.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "blue-blink-4540?ep=92227",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/93e3dc89a7f5f4627f32c6522e1068b3251ff59eebceae0f11b3ead05bbd6690678217e78c161dc3e27c22f25998fc69d52f8225026f5edf4d2465ef415c52fcfb1ab26d190b41dd9bc13575b187630b6acc73124b9d3b5ea5eb0ab4122258552ef8e48e90c36a9b18f2091301370f57232b9f8bed3b86357dabb4c06b02e787/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd65857710aa312782e43ca30c371cb5/cd65857710aa312782e43ca30c371cb5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/93e3dc89a7f5f4627f32c6522e1068b3251ff59eebceae0f11b3ead05bbd6690678217e78c161dc3e27c22f25998fc69b092f33e139a9a7b83a2c2d4aacf11e918eac17e278955a59b391751729f4cc4db10233a94394179ceed5b18344ba9d62ffe21f5ab3df55b45ab239c0ca6c05106b3a3533d8d63713c92f13738bc1049cf54c2184e097d25c307723e180410cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd65857710aa312782e43ca30c371cb5/cd65857710aa312782e43ca30c371cb5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "blue-blink-4540?ep=92228",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/35ce2034bf71986502239a4dda436f56d9cbfdb1bad950880e78d61e1c237fbc1e6fcc0a9b8b9d540fcd11bd8e496a94df10701f2ab6f4c14c7bfb7d4522e9069e218628fc59788eeff5a3ec816f20d1f61a17d83f0c33159777c065daba21e11bc9fbb6589767df30c942c0554d8325557adaa266dbe0ff41421768c9539b48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/731f4986d8120566e16482d13c95d494/731f4986d8120566e16482d13c95d494.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/35ce2034bf71986502239a4dda436f56d9cbfdb1bad950880e78d61e1c237fbc1e6fcc0a9b8b9d540fcd11bd8e496a940eabaaeb9d21fa5ed8c3b73fef3726d7b57bf15bae475c9ba632b1af24dcbc5a76f228950265fba3b3ec4828e30d96e0ed2c614873180b17fbc9eadc064c04a732f957a107995440af19dfb0d319e94da9b936dcec7030c1502c02261d77ccdc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/731f4986d8120566e16482d13c95d494/731f4986d8120566e16482d13c95d494.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "blue-blink-4540?ep=92229",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cb4a7ccc673ee3453bd22922f7049184f3e49ffe7a832e395595367ce31343b388ee2fa795d014df2c7712dcc125f6a49a0ed82ddb842f15687e109babd334fbffb39c17ee578876b219723dad5cf509e80eab75e030dde1c22f222dcacc275a3ab94911b659c38a6a99a81e38fe78432c999b7145345c022b28202674db025c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e568c2f9da668df176a5d013bc02525/0e568c2f9da668df176a5d013bc02525.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb4a7ccc673ee3453bd22922f7049184f3e49ffe7a832e395595367ce31343b388ee2fa795d014df2c7712dcc125f6a4354658bc778c9248ccffb7600231faf209817f3b457606ad8a39850516b3d0a870dc55abc35ded79afd6dff298cb3d85c11a6dbfe6b491dab6d3681c38253ac7975be936a95281a9e2f5b043097c530a2a4d4a5a1530aca05f5d7737c03f9ab3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e568c2f9da668df176a5d013bc02525/0e568c2f9da668df176a5d013bc02525.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "blue-blink-4540?ep=92230",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/548c680f9b2da777bffcd0c22dd9efa8990318aa3b983ceae04390cdbaa81c83daf9d91dce203771e462ce71fdca7f2045f25bab5c338f07829eeb9fd8003c595850f2fdddac6bbf5ce684524f3120842ca2660fbbeb51c104d06f49959f054606106e9ac8659f87544848cbb94e56f35f577325c457dbc0cae0d26ce0a2d853/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40946bce767eb02fb0bb615523184748/40946bce767eb02fb0bb615523184748.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/548c680f9b2da777bffcd0c22dd9efa8990318aa3b983ceae04390cdbaa81c83daf9d91dce203771e462ce71fdca7f2042433960427a3fe96788d6fff05a170cb4fd7fb542cbed9566861f8d82bbf1827c53862a2ba0a6039db15c15aa2bfbb46c63b87f1c923d8bc2c2f429293fbeea34a052de449b77a58647c78e67f8c1b73fa7d7e34045bc3344261f3c303a057e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40946bce767eb02fb0bb615523184748/40946bce767eb02fb0bb615523184748.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "blue-blink-4540?ep=92231",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c8156d46027796ecffb26dc0bcc7f9f847f7ac6328a4000834a008ae57a0a589fa92eb169ac7bd6cf502fe24db29c9f5dca8140c58ad5855cfd593107436ac40aa0324c81535f48d685d99a20d43935316f9f8c03f447182afe7c1d0559830059a1f26fd83371dc2aee1ce1dfc8e7a3a7f77b38af5eee09a3cb0f6d18308d7a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc60a6f92790468d7209652736b495b2/bc60a6f92790468d7209652736b495b2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c8156d46027796ecffb26dc0bcc7f9f847f7ac6328a4000834a008ae57a0a589fa92eb169ac7bd6cf502fe24db29c9f5800882a48720c64162d361e466a613f8e136d743e91971b3b62b7586de5f4a9567188ccca6447869e465aaa53bd4b94f66fe041942099715a5484c11dc862924dba8e58022c7beab5c46f84b9aba7e500ed64829fd5cd8e8688683bd47663c7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc60a6f92790468d7209652736b495b2/bc60a6f92790468d7209652736b495b2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "blue-blink-4540?ep=92232",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a9e273a20718fa6ee7ccab6e8b8bb60ce3e955cc7d8c3c2d22a69b337ac92661d23057b74619011886e0483db1e5e0ebeeb11a870d225caa678e5f37c82c508c19cf8485693836d4d0d9f54cb333e391c8900d6f7dc1c26d5bd2159ba926e3b5bdbd1f938cca5c2293f5b98080f72c13afa549690bccda70cd26a79ca3059335/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4d112630f72e7ecfa2ceb7388f5bd85/e4d112630f72e7ecfa2ceb7388f5bd85.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a9e273a20718fa6ee7ccab6e8b8bb60ce3e955cc7d8c3c2d22a69b337ac92661d23057b74619011886e0483db1e5e0eb6046f2fa5e169b423759116e8f027affad125bea29aa16a051b1b3954c89b1326be5b656a0eb156cbf41f3e3ff77ff7b0def2497f0a3496121ad13dd10b22d117ff2604181e4e02654b5b1615116d27b6a631f36a85132138797778448501ccf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4d112630f72e7ecfa2ceb7388f5bd85/e4d112630f72e7ecfa2ceb7388f5bd85.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "blue-blink-4540?ep=92233",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1721c157500d416d25265d8999e01a06b0b9aff5ee2f725547734f7ff6f49fbbf04c9d070d3f9296d938981dd5f0f7582ae8e40e122df8e934ad32a90dbe5df95cc08416bece53f16f4c96405a3397e87e0365c02fc3e77dabe6679a4c05db3df313a3eb9acc0089fc598cf704216b74a7ef048207dc2e747b82a3aefa04ff93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eac02046fa16ee2f6ce42f846137f6ae/eac02046fa16ee2f6ce42f846137f6ae.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1721c157500d416d25265d8999e01a06b0b9aff5ee2f725547734f7ff6f49fbbf04c9d070d3f9296d938981dd5f0f758cc337bdcec131e60e01c68161e549f48d84a4b59de177e62174214762a170c51c2c52dc64a9f1ca723abfbad5f2b86e98977df23008c83e2c1e4bb7d56a48b90e60bba4a68b2a0ad3b57c0e16310f3a68a1023138764d659762960e49a3091b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eac02046fa16ee2f6ce42f846137f6ae/eac02046fa16ee2f6ce42f846137f6ae.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "blue-blink-4540?ep=92234",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f145f65b237e12eea4f5197918a45226b60820be5814ad07399c76f028480c72dbd411be9476cf384c438be9a492a75a4d851c10e18794eda7a3405e88d07b27217acb8936365eeb162a3d2e5a1bc28c8de1fa0f000fd3363bb30c07aab665556fd3dba3789dccdb815b1634f107173db31818df28bb8d3dc91e82913754f356/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8ea9e64c743c2ed796c80fc30eb1fa9/f8ea9e64c743c2ed796c80fc30eb1fa9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f145f65b237e12eea4f5197918a45226b60820be5814ad07399c76f028480c72dbd411be9476cf384c438be9a492a75a412b6bff21ff8b566a30814109c75b932fc1e74f8746c2acb2952144f95ccd8f16214f22ea76d95efdd04005251fcc14578a1d2f866ccf796075916a480e96b46835f6edbb8114ab8933f3d3af9af7753902cfe49c4e82529b44337389db029d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8ea9e64c743c2ed796c80fc30eb1fa9/f8ea9e64c743c2ed796c80fc30eb1fa9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "blue-blink-4540?ep=92235",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/24283f415872a302113abce1965cfb25ca56792ab39a5fdb2fed0ad58db51f5636f8ebd7e46d80ae2b79e1db9a88ce0764ef17e3c4d47e3634df21ccfd0806b2a1e90d45ad1856157b125825e6f78d71f903421fc62607455a1da49d7ed178df796789bbf3d50076926c877b9d1c9fe5c3e02e7028e61f3cedf4807d8b58d8f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ac44390a075102fc047a711c06fefd2/3ac44390a075102fc047a711c06fefd2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/24283f415872a302113abce1965cfb25ca56792ab39a5fdb2fed0ad58db51f5636f8ebd7e46d80ae2b79e1db9a88ce07a3b673472287dfcc028cc2433e7d9625c68cb06b2c970a016836041c10b3333106a68d04e77c61c2b017b1145c72e8045abd4bd48432cfd2bf5d1b334df1da433bfc3d3c8492b7664ab7de4e1c6403de530fa5e58884955d644291cfb79130d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ac44390a075102fc047a711c06fefd2/3ac44390a075102fc047a711c06fefd2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "blue-blink-4540?ep=92236",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f1edc2a5f2492375c0ee8377318881d2f6ea60d2fa829a8b9aa11345025224388583bc0894a32345ab4020c8c145c42075ac14e9c13c7262f56a4365ce6acb2f9c74250c778d342c5d5bd5b55dac3041e9f78cfba6f6826e548754e4b293444a308ee402c915ba4fd640666ffbc825d6380dcd0b1f0ed8ba8685f4e9d975da31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1ddcdd933a668d6bb78e472644ca42d/a1ddcdd933a668d6bb78e472644ca42d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f1edc2a5f2492375c0ee8377318881d2f6ea60d2fa829a8b9aa11345025224388583bc0894a32345ab4020c8c145c4204646ffb25d0a70bfb3daf9c6b9dfd55d11b4503008f28e5e4029bb94e221f63b058c02b599473464df8d1ad8f38be4e08c471afc05ea3fe3608936170dada0c3866bfb8aa27e3ae5e7be24e192a11241daf40504955f7ac8ae8abcc46c254718/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1ddcdd933a668d6bb78e472644ca42d/a1ddcdd933a668d6bb78e472644ca42d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "blue-blink-4540?ep=92237",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c046b51a1e055db9d7ce520d35f6c50b837c39e713726f1797d33e35a9a578ea75772098256e3450baea902f4d1b06f84d88c20250c6fb47792d170c3208aa0476408eb72d52cf9f88399884fb069dea4a90c21656348686fccac5ab6be51bb09c828d0c6c27af13faa4667b0f4480a2f06cd4e47338f3d07b3ab15841a75470/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85280d3b11041046e016057db01b7913/85280d3b11041046e016057db01b7913.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c046b51a1e055db9d7ce520d35f6c50b837c39e713726f1797d33e35a9a578ea75772098256e3450baea902f4d1b06f83ba7feb1837f0542fa7291b589be916663675fbdf3c41f146b09964d92081b657a131e879285bf02a0c4659281d3397ec6d32c8ab0819bd1969eb2ca26c6d14ae726507f511fab1e06d6577877a0597124122f30d238c9c2b4c7d6e378b3e8fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85280d3b11041046e016057db01b7913/85280d3b11041046e016057db01b7913.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "blue-blink-4540?ep=92238",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/acf7abcbf9ea0003ff2ddfee336fd3977320d988a26c09c2c59ab9904c85e470ebcad9f99801d7e297dd140662aabc1a0770a711dae7b471e555e2f1b3812aad4c398c88b06a1ab1b7504dd0484f495c42f1701260308725ea463632565a0061d0500a3ac0e9d8de4250aad7df0372651eb0da88c7f4db28770d74156b51e44d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4def1f67e36064207bc8bc45667523ec/4def1f67e36064207bc8bc45667523ec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/acf7abcbf9ea0003ff2ddfee336fd3977320d988a26c09c2c59ab9904c85e470ebcad9f99801d7e297dd140662aabc1a92097e78080953dba0332ae4050446cf69ff98d834009e83aa912e8c0a6882a8187c721e7b9e41fee02268c0e14647cfc3e850e413fba6140ee5784598d8ab68da9dd9a017719a83bab40285eae6197386794cb4be9ac84a9385cd008a1ce86c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4def1f67e36064207bc8bc45667523ec/4def1f67e36064207bc8bc45667523ec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "blue-blink-4540?ep=92239",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/658f0e2832e6726a58319777705d95ea6fc6888de0a7774279dfe8f5d10c866a5aea2f3fb771153fccaf12d2e787579d2a0b7fea51fb447cb39753cc01ed73ed4e259cb1baa0b4e13c4fa8c52c1bbb4a22b21d91a2cf8ceb8f59bcceee63646df71df7392b5f355bc4983da47a352709877a0b3bb60e4a40b7876c3441c40841/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e0fb5b587bd80a971b94dc85f07c3d3/5e0fb5b587bd80a971b94dc85f07c3d3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/658f0e2832e6726a58319777705d95ea6fc6888de0a7774279dfe8f5d10c866a5aea2f3fb771153fccaf12d2e787579dcd606a199bf14c1f18a6719b5b0f2753a965ee542b71b895d3a1545253e7bd25e01cac0ef4bae404f48cde2ac69e40a7b398debc176fce382ae2f18de46a6cb92ed4d11574225766cf260ee18646842bc940822f01628d238037e3e5c71e9f10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e0fb5b587bd80a971b94dc85f07c3d3/5e0fb5b587bd80a971b94dc85f07c3d3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "blue-blink-4540?ep=92240",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1bf6d6b9bf440cf1909178765da0647709241b5042e133e15efe12118e10380c1823ff193f9a2261db657af5380698607b14e1f4e90afcce0aae772d6805f61b0d9aa39df58ad4beb7901755878f0b4e2525ffcca627b4b87b68e4a1427474f9aa1408e0442aea6719fa07e6bf870d55c5160c0d10c4b10033beb643cba82c07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c35c58e556e7e0b9adde35779ed4a486/c35c58e556e7e0b9adde35779ed4a486.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1bf6d6b9bf440cf1909178765da0647709241b5042e133e15efe12118e10380c1823ff193f9a2261db657af538069860825ceff7101a993ac6c7c2b72779113c68315a2c29b19bfbab998a5fc15c6f23c87b5301b65ec85dddac878a61a8cd26afe6ff71536900115e131be51b0d7eff3d1e0023856894b810cc7c8bcca0f3c935103e4b74c14c954abab274e50854e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c35c58e556e7e0b9adde35779ed4a486/c35c58e556e7e0b9adde35779ed4a486.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "blue-blink-4540?ep=92241",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/50dd34e4fa50f4ec7c1d448113d90a7d2f8b7b23f35342d6cd160cf5784f58b41b1be7486d3cde2522a4d07e4ed9837cc34915752716225500ce65511f22bd16ccaeb8ea22b2278e89009b0ec6137976a0d1846da857d7b423e8d1502b319280f2c37f3e97a88cabfcb49d798b7ce6f82cbba9bd85bb906c9f2bcbe4f06ef2fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41ae9772f648c10bb8e00ca076addcbd/41ae9772f648c10bb8e00ca076addcbd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/50dd34e4fa50f4ec7c1d448113d90a7d2f8b7b23f35342d6cd160cf5784f58b41b1be7486d3cde2522a4d07e4ed9837c3f56e543983bf6482b45a7f591e6dea1d0d4cfc53c7cfbdd3cee4c9c434aae7d7e9ce730674744faf5b1a9c650d3fb36dbc79ea7881e21680bc379725108a1f7982101329a64607760a0ecfb73d8cff7972b25c92b93970c36e468458fa61f88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41ae9772f648c10bb8e00ca076addcbd/41ae9772f648c10bb8e00ca076addcbd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "blue-blink-4540?ep=92242",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/010df2fe24762e988dded1505602e1d4262674abb729859a1a9082899d1c0cd0269083bea7a4e9c238e6f59023a41031b079d015e2370ddb050dc135ba47777689b62da2b2240f92ef14052000f1a234534d144cd9ba97ea5462abbff623834e8637185a788ce4b834c6d3c14ffa4dc9c199b802955dec6b5dbf6a6af94f4a5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1245ccc57c8c441cfe4676ac3bb5df37/1245ccc57c8c441cfe4676ac3bb5df37.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/010df2fe24762e988dded1505602e1d4262674abb729859a1a9082899d1c0cd0269083bea7a4e9c238e6f59023a4103146b4e717b078fa991f4cb532e181704662ec275d52b7f551249464174f055695c2639439b27bbc2fb4d2b1ba0b67fbb37627ee16d2a5944315050a7a950e4a8d920dbcaaecf16e642a05c1feead1e70a9f3b03fbc775e00ae68fcf548a8f7e28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1245ccc57c8c441cfe4676ac3bb5df37/1245ccc57c8c441cfe4676ac3bb5df37.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "blue-blink-4540?ep=92243",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1008aad714b801085b21d0c0afa32f56257f2d5d8999d15d0526dbfaa5f5562089ed880b7ac90ae414aed3863ad217b569ae5131f70c742d446be5ea1dba3696143d91c44b406511e725646b4ffb20d789b0bbf70db7ab54ad549012bb7a338a43d8ecf64c312e890c1f880b972fa895b7391e41f111461d9d2c1d518706f8a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95d1fcc15032715944fe9bc33fe6c6c0/95d1fcc15032715944fe9bc33fe6c6c0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1008aad714b801085b21d0c0afa32f56257f2d5d8999d15d0526dbfaa5f5562089ed880b7ac90ae414aed3863ad217b5e594b68e1fbde0046a9c94ebc52af1442c65b98664824f7a9f583d4217a5b54298a6bf8bceb2d1937b461fc187278359f5113d053838c7cc986cfa16c1edfc7a9a1ad305b896142b3f20ce93761fbcd2342c52db24956f2d78766f9bd2397741/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95d1fcc15032715944fe9bc33fe6c6c0/95d1fcc15032715944fe9bc33fe6c6c0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "blue-blink-4540?ep=92244",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/73d24a170794df7c841e0b9f412c1422e6a4f36854c8f92e32ce34f6aabe6864b354a3fdfdcfe9e1221824184b30df4528e24846914e779bf4b1465e60ecaa182fedd7e46eda938a225bd9b84c594b930bbadcd2e744c2050ec4c56fcfac80f0db366611c08511757f8592d91cd4e49fefc4486a337169fb4efff78b491cb271/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fa03a958aaaed83cda7471774d7802a/3fa03a958aaaed83cda7471774d7802a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/73d24a170794df7c841e0b9f412c1422e6a4f36854c8f92e32ce34f6aabe6864b354a3fdfdcfe9e1221824184b30df457339564fc3b4e3547e32823ce832b69641cfa15d791a92618317dec7587d1bec3d79c243a632a5a13a1a6b9787ee699f35fc008b196ede23a710ccaebcb96ec7ce41a93f47180e2248221957b471f95fe52398af34f10cb9c132bc801bf669c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fa03a958aaaed83cda7471774d7802a/3fa03a958aaaed83cda7471774d7802a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "blue-blink-4540?ep=92245",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fa10b55d3092a89be2bc1383453bd8a9dc3b7534f80dd7a75efe52ef96f562ccf557f575d64da5fbd92775e4a3c5eab22e3e2d018fac0a30b96bd5aa7b30d3addb698d768005ccbf6236db7433898c1097759f88ec4a2e66ea7fa39219f0f85c4547fe9477275a052491be0af5622113a36fd5d21c81ffef854311f89d795cad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36814535b1f3651e14b92105e886a8bc/36814535b1f3651e14b92105e886a8bc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fa10b55d3092a89be2bc1383453bd8a9dc3b7534f80dd7a75efe52ef96f562ccf557f575d64da5fbd92775e4a3c5eab2251abf79bdf0215b65de262e16d45640d621594613078d129012a9e287e9a9c36d53c5c323b0a53092db793da080085d8a14e02af963d963937dca8c461518d8ca533479130574dd290139977ae62275e7b674186e582cbb87fd82f70d6048a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36814535b1f3651e14b92105e886a8bc/36814535b1f3651e14b92105e886a8bc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "blue-blink-4540?ep=92246",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3446c85d746c873a215aefef42ee6824deb3a855481128c966cd1ba46790b95f292de05fcfdf7569edc60807e2ff554372e8ae709979e577e5d63011763fba210641e50c241f022e71fdea33691602238a367b39220761ce9332121287844e42b287d10455dd84c32ad188a065d7be61ec9d262e04d2cfb44e7415463547eaf1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dec9c675c9ae8a6ca6be5b67500531a/8dec9c675c9ae8a6ca6be5b67500531a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3446c85d746c873a215aefef42ee6824deb3a855481128c966cd1ba46790b95f292de05fcfdf7569edc60807e2ff5543b9b4a4b5449bcfb576c1749f2120cad13d97695c163731a9936cb7a09b8f9fc52bb0a90f7b3b7a2e2176c4627c2ac90bf44f3204ade98ea6da2ef211da2764cdd29976e2cb276fd15d0f54a17e60cc9090041fae24a9fa641bfdbacd42f565cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dec9c675c9ae8a6ca6be5b67500531a/8dec9c675c9ae8a6ca6be5b67500531a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "blue-blink-4540?ep=92247",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ae9c461067bd87d39b69ce0d4f212c136f285dfab434eebfc0ad8a769f044ff2027aefaf3640cc258c5fb70337479c85cbfeaeb88fdd9a2344a3a42d4a62acf539420fb5e2068e2c9c45d0e8d43f09b389fc50ee7fb05d33eb4e19af2a9c0ba436ffc33f8a5752f412530bdbe41ff6e99f072286ac077a65d8256cb77c66da82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7604b3fb121bb699540fec9ba1324d65/7604b3fb121bb699540fec9ba1324d65.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ae9c461067bd87d39b69ce0d4f212c136f285dfab434eebfc0ad8a769f044ff2027aefaf3640cc258c5fb70337479c85dc85259dda740479aa6de0f5892df35045e748d50bc6fc8efffa6f8e7cd00f1c811dba33df034c7bfd90661329cdeb55f901db965d320212fc374b895d8d3eca1ac99fda4c29b5f276fc9bb25159f3a0a6a39d2d8670dc2356cb978d30cc536c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7604b3fb121bb699540fec9ba1324d65/7604b3fb121bb699540fec9ba1324d65.vtt"
+                }
+            ]
+        }
+    ]
+}

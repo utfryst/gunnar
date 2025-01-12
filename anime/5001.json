@@ -1,0 +1,979 @@
+{
+    "info": {
+        "id": "mobile-suit-gundam-zz-5001",
+        "anilistId": 86,
+        "malId": 86,
+        "name": "Mobile Suit Gundam ZZ",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/985281c4c2b4cace6c1cf09c475a1e94.jpg",
+        "description": "In Universal Century 0088, the Anti-Earth Union Group (AEUG) has emerged victorious in its war with the Earth Federation's Titans at the cost of devastating losses. Neo-Zeon, the third faction in the war formerly known as Axis Zeon, remains as powerful as ever. Led by Newtype Haman Karn, Neo-Zeon has been implementing plans to take over both Earth and the space colonies.\n\nThe AEUG flagship Argama heads to the Side 1 colony Shangri-La for repairs. Living in the colony is Judau Ashta, a 14-year-old junk dealer who is struggling to make enough money to put his younger sister through school. Upon the discovery of an escape pod containing a former Titans pilot, Judau and his friends are quickly led to the Argama in hopes of stealing a mobile suit which they can sell for a fortune. However, with the arrival of a Neo-Zeon ship seeking to defeat the Argama, Judau and his friends are dragged into to a conflict that will bring them across space and Earth.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 47,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mondo-agake-94308",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/701de909fd5f6dd65eff66a0ba047967.jpg",
+                    "name": "Agake, Mondo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kouzou-shioya-4061",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c3374a056e67992e0d39cb098367bf7.jpg",
+                    "name": "Shioya, Kouzou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "judau-ashta-5660",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcfcd3db28838ead1fb1aa8bdf54c3bc.jpg",
+                    "name": "Ashta, Judau",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuki-yao-377",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2a76c55a44f5f042779f9597e263f858.jpg",
+                    "name": "Yao, Kazuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "haman-karn-2669",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e67c3140b7e850c60eea69cc622bbb17.jpg",
+                    "name": "Karn, Haman",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshiko-sakakibara-1039",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2a2bcda2bb4f02a7ab8cd17f853196b1.jpg",
+                    "name": "Sakakibara, Yoshiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "roux-louka-10212",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6efac3613a93084ec15931555087d95b.jpg",
+                    "name": "Louka, Roux",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "naoko-matsui-2209",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b923ce29be0bdf311b35c4137004daf5.jpg",
+                    "name": "Matsui, Naoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "beecha-oleg-36471",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/804e65b39e57b942cb7f419515b99ee9.jpg",
+                    "name": "Oleg, Beecha",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "russell-wait-5944",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fc0ea560a289ba9e80c87eebfec65dc6.jpg",
+                    "name": "Wait, Russell",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "glemy-toto-22057",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70735b1f4fb2b2aa1183c7d1217a6828.jpg",
+                    "name": "Toto, Glemy",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tsutomu-kashiwakura-5207",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b267bebaab35c157d2a9078d0348d13.jpg",
+                    "name": "Kashiwakura, Tsutomu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "機動戦士ガンダムZZ",
+        "synonyms": "Kidou Senshi Gundam ZZ, Mobile Gundam Double Zeta",
+        "aired": "Mar 1, 1986 to Jan 31, 1987",
+        "premiered": "Spring 1986",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.67",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Sci-Fi",
+            "Space",
+            "Military"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Sotsu",
+            "Nagoya Broadcasting Network",
+            "Sunrise",
+            "Nozomi Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Prelude of ZZ",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40037",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f47b158dc81f89caa016343a61fd0c270bf645beb97add922d0d7c8b891b16f331ab3d27fabcf38d00caebe131a2c6b4eb4a4fe9cde8d2c7819dcb12feee6c9b2a778856743f843179251fb2b9014ff4c406dc23c83adb7041df76af8bae3e9aafa467400ca432559f4c23722b907e6cb5e5834a9674b9eb32b417aa12857ece/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6db2ea94d164c034204eb71eac3f749/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f47b158dc81f89caa016343a61fd0c270bf645beb97add922d0d7c8b891b16f331ab3d27fabcf38d00caebe131a2c6b4f46b0efd276e2f933465a9cd7cd5459be2e14f5dd10dae764fd1af3b498f6a140fcb949f359b21b983780fc5bb943ba73b6dca59b6bfbec4dc54f8befcba4c0e60de31562431e7019832ebda86a7661e5328593ba25c60ac73ee5219606a741d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6db2ea94d164c034204eb71eac3f749/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Young Man from Shangri-La",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40038",
+            "number": 2,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/271f55f80522148b6f5ae52bcf50de3d57cd1658a19792d4d92fede8090b38f1e8966608662fd2a33b0edce243014159d11fef700a293f2e3485d90e61f7ec652c260549607d73a4429fc2843dddeee3f3af36863c201682db529f9469db7122c4121828621d0fa117d7a816e5b0d062fa75fa946ba927fb21a3c2afd5da9282/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d03247916b00dc04be5cd10ee7d1ee7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/271f55f80522148b6f5ae52bcf50de3d57cd1658a19792d4d92fede8090b38f1e8966608662fd2a33b0edce243014159b4541b08b3c33a77abdf6c16abb34a930c8ff28aa8ae216b95dc7690e252192f29bb7bd269c3dda745736f45478f3f293a8f1edab8e624a0b7495dec9492c4b24ae18cfad665adc120346144cd017810f8228b43bceef3cb37ec04b8b5f25a0c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d03247916b00dc04be5cd10ee7d1ee7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Knight of the Endora",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40039",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bc4b97d8b8b2eef4c4b52480a99d7e215ff247821dc267f2fe29d0ef2a2c6ff15104d65490edfb9e05bcde88b97cdfc2912399e334c77ce608dc1e785a81d6c95ee9c13f92269b8330e5dd97cc1b954b2da58749ca839e3827752ed895d850cec9cd787ce1638602bb094c932c7520edf3571401a415372a1796a65a194f15c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7b6079d85a3a9b478facb79946533f9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bc4b97d8b8b2eef4c4b52480a99d7e215ff247821dc267f2fe29d0ef2a2c6ff15104d65490edfb9e05bcde88b97cdfc2852232ab0080d5dbfad00cdd9a602c15e5130e632dd4bed8c048e16da4ce0ad24c0dcc6d55fb2003a11a39fd90b10c8288129f1b008e21cec5e287d7da58eaad29b6a348b69146d697e1094775b8cd8e617feb9db240967611286c61c627fc2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7b6079d85a3a9b478facb79946533f9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hot-Blooded Mashymre",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40040",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ab2f1725c8d3c938d556c6382053dec24307598c4bad6cb094651f9d920333eb1938dfac39cf20812ed8ae8692c3c27f9a7e6e311e7d621313a7bdd83c9b65017eb7e2a8ff880237f038274002f5f64b9ea46b09c74e6a52201bdb7aceec4e616a57a6c4c40874175936a24383fb40d7a3984170bfb1ffc10bf36d21ccb495f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c03d5aaca3e6708dbf5b6321c8c802c2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ab2f1725c8d3c938d556c6382053dec24307598c4bad6cb094651f9d920333eb1938dfac39cf20812ed8ae8692c3c27f569311346a5b09e32ba199ac5a10a29643a0b0cd75ecd31ae7265b64b14b0c511880b09559598d75b499644a8a0593c9697a0f7e7fcc7a8433429e45827fa675e87f6c423c529820bc1cb8ccdc7109cb3517cc9014b932124e6fcc9e2247cdc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c03d5aaca3e6708dbf5b6321c8c802c2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Judau's Decision",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40041",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/315898e10392242a34b0dc15c10cb8de633fa8a01ce627d9146f5c7eefa8cc4ee6aa93a1d03faecdf3fe70e67834d41645ed7f50c31926fc5bb6f544330f90b2e30ff7fcf17bcfcff954fa04d915f215082641ffd6b3b3bb6c4bb8c26c662bb316290a49527a59327405786cf9d2cdfbce91e05b4d3ac7700340fa896d21f4a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e71f1502db984473e1fcded548b26c8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/315898e10392242a34b0dc15c10cb8de633fa8a01ce627d9146f5c7eefa8cc4ee6aa93a1d03faecdf3fe70e67834d41687bd6f145b32ea066614d22d50478345b647594023deedc33dc4979fac22775e22d5d49141f8ca3717d632275852b65dc650d1e7206576bbcb5163282aa63b8a10e527d80f68a6243af7199ec21bbd0d9986b0aa238a39fb90dbe59b4b4ef96d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e71f1502db984473e1fcded548b26c8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Menace of the Zssa",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40042",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8122e67565f62dcc6e1be47a9ebe63b0d3849438fd541d464541311554ba5792a2dfcb4dd4f29e58d19a775ad7c4e77a27b89010eb876557470ac8805f69694d2b72365c2c09cae6ceb9bca2ba9408374baf04f6e6df003cd19cfd4bd6654f2cb6fced5677cc60f5091eb3b1e861f7f4eeb4ca31ddb15dc86be5f25410713a6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a22eaacac43bb8c7262b62fd3611c3cc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8122e67565f62dcc6e1be47a9ebe63b0d3849438fd541d464541311554ba5792a2dfcb4dd4f29e58d19a775ad7c4e77a3f325eb7ff213979e0f9ff6f6bb692ae3bb142facf2a51fba9ddc1271cb69dd145a3d97ecf18e42e9cc6c8c4fda1764927a94722892b8996d765e37189edc91c4cd10f28ffdf4d448bf4f6f6151eff21a55dafda1f5b00ad6c943a802ea505ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a22eaacac43bb8c7262b62fd3611c3cc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Gaza Storm",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40043",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/00cb631eecd701ff3bf6db1a6715174be3c854252ecd59d9e6c0203ad9f1779bbd4d9fa271c79d6ee26bcdce9efbd2e5efc381819c6f7970da0527a2f3c88fe226696750a7c1e1cd1962fff8eeb16b24a278a736f835fc3bee31738463e832cba9044a3b273d81acfa010edf229371a16bbce907f96b6cb940e7636c3b7f2935/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eaf8f58e61a3c533494fd10ddd028353/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/00cb631eecd701ff3bf6db1a6715174be3c854252ecd59d9e6c0203ad9f1779bbd4d9fa271c79d6ee26bcdce9efbd2e57462f5acf0cbe6020f4d6e4f87c92d9302090fef05965adf1330db6d1ada8216c3df60cf7e3774887dca9ea30b5bf75ac7880b89ce9b10981907484ac6a831a7aed66e4de536038a7e49b60b9bef5b4ea6f4f1d68de4abca6c039a431109894c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eaf8f58e61a3c533494fd10ddd028353/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Funeral Bell Tolls Twice",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40044",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d25b3cf3e20e09c3de06c2a3f81852c11a2b602905dda1235ce66b054419a60a24186fca46d9f0c09b05e89e5eefc3defe3d71e39610963dde622c276af9168915973036ce5986829a32b910a77da072b9ee1788f28752888626d83567380ce79731035ab725fdea0fb5c45db3401e4a0ba56ad11f347e7fd7888cf98400d044/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6204e36cf503f8ee710278d190dd22a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d25b3cf3e20e09c3de06c2a3f81852c11a2b602905dda1235ce66b054419a60a24186fca46d9f0c09b05e89e5eefc3de92dd1c31563b9022a7faf528ed3033e8083f64bcbcae8e1077908aeee3a47627e145f139967a5bea6fd47e1d2cd466c4f7739245d81b868c6acfd1ee7a0946f6eeb94d53a526bdc0a8cd6e1ec3620e09f6ddb6f9f01855ab519dbeee548b1c5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6204e36cf503f8ee710278d190dd22a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Judau in Space",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40045",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ea978d1e10971f343abf73de65ae4e54172c809ed11da3642ec8457d4908a23b7ca5a6ad992d84ec59e33cd8c9af1467f0bbc6052221e2be3462878aaa3fda4fb754339bb6d480fab7967f8aa920de1b778e3d77a685bf048e22ab4707c386c821120b69d00269a799c359ac6f3737fe41bfd791249e471fa48030f5b0a79ede/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7139c83ecd544d0f45a1e8d008dac54/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ea978d1e10971f343abf73de65ae4e54172c809ed11da3642ec8457d4908a23b7ca5a6ad992d84ec59e33cd8c9af14674d9f155e74363e1133f52a2968e2b1148b5feca2db9e8b14bbb5c4ecb64eb2f7f4b84505c5ebe761cd9b81093d0c31040706b8eec5f48b8a9b7d9c1275cb0e4a8b4f146912916ee160494320393461347a4d68a05e0b711f348f7da69c5728e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7139c83ecd544d0f45a1e8d008dac54/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sayonara, Fa",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40046",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5452ba896069e783080074d647d0413a4a7cd0b220e8c4d3a1cc8ab65a8cd6f0a2b15d664b6855ccc68e4b472571c3bea9066d896ede5bf74c66e66e7c416ab2630eb841809c7834fa0a44c7f3ad80de047fec0bb1bd3754ead6a7ae88cc78b449b4a191cc538989c9d1b737c554e1e3c6748e8075771eb17211bcb8e93a04ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8335ebee8c816b16f726ec09759673bd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5452ba896069e783080074d647d0413a4a7cd0b220e8c4d3a1cc8ab65a8cd6f0a2b15d664b6855ccc68e4b472571c3be7a4ce83f9f0a848a040d9d76df2840383b549ecea033718315ef46545ee69c730409c13126e021b17a4ea490f668d7aa82d840b192b134965b0e4627533a10afa6d6c4a75a5632207150f7f6d2ef566ee1a394e19ad283bddccdccbe0e030924/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8335ebee8c816b16f726ec09759673bd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Activate! Double Zeta",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40047",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8e4755114676ccfabad970f076d90b585f0de6476fc2d142093f6137358f54a1314937ab88e45bf164144382bd1ef155c37a1c43412f1b3ed0fc0441ccd87be5c02567cc2d9c57422eba7dd61b7c403dee4a7a97f63ceef19846c5721093459243c90f6f1eec69d47d213b25d0e9a79978329e9342d2b235c342937f5a7d97c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e0247ef80a9056a99e7dcd803487682/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8e4755114676ccfabad970f076d90b585f0de6476fc2d142093f6137358f54a1314937ab88e45bf164144382bd1ef155241ba8b322d73308e26fb0de966a8a3d1b9db1af32165c56c9b54f8bb8da4efcef5805e904392225f6cce9db83b0f95c49aa014fc090cfe8192b13738a3a83545e600b702e4c4818ce63a514fe18cf496a86fe0f7c5298ae53bfdfd946b8f961/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e0247ef80a9056a99e7dcd803487682/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Leina Vanishes",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40048",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5621359282fb978ce6330ce0bbf9503959373fdeddc68a57ea35fd0ef45631efa61dd981e10c17da17d6759f8b1430ff140b30453b799f1c39954c923a9ea1cc6240df25aea833948dc0474a717392a1aec85123f135e24445f806081f2ee374d8b21514456d705975dc4f958b7eac818160539d2b0d319272c12936c3c0fb18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e215d01230032e3dec68525eddd1e2e0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5621359282fb978ce6330ce0bbf9503959373fdeddc68a57ea35fd0ef45631efa61dd981e10c17da17d6759f8b1430ff6cce15bd24f5e091572279f869814c08f5d3b6f933066af19132aa539270c00a7e1f8da221fda6219b61fe007ed081ed76aa204a87ed8300edddca845e538d6ea163aad7a52e87e6bbc9248a7beb3b5eb57301cc00b9b3ecb8792918f2445d1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e215d01230032e3dec68525eddd1e2e0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Little Sister!",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40049",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/21f4c6c070f058ae5ecfb8c8a3b6021012289ea4908f4fbd1c2bbb1ea1d3bfaea5a774fc7e4bc28189f49439e61bfa2d9cc1f01136eda0e362ae67aacdbf0501aa2446ca6727b23e8d9115cb20d665a5cebca963fad198a801bd259a6b3a2fb17146db8c83341ae286934e9acd82749fade46a6b4cb66a10de6a6dbe6b4d06d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a0306427594615ee23d38f1ab6a7f4e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/21f4c6c070f058ae5ecfb8c8a3b6021012289ea4908f4fbd1c2bbb1ea1d3bfaea5a774fc7e4bc28189f49439e61bfa2d2340462e36c08cd9709b1f4a610b30f5dfcaa90dc008cad1d87a17c681a8a5ebd7bdca13cd742ba74f149142266faa9f747a854275e5a2339e052d099e442bd8ba593c856377fe10fe881fe4f84ac128941e5b4b6aa899236e2644719ec5cda3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a0306427594615ee23d38f1ab6a7f4e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Phantom Colony, Part 1",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40050",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4c965788d8046e90c7591e65246b51a9cb44d4bf9861b436217ac2ebc9cb1215adbcd09ad26188d0dc8d1ad6709e25bf7bffd80a52f7b3b42ee5d741c37d42fb348f65bbdc589a94185812abad6b19f11f992ba3fb38e470e36148079929e59a5d2f47c0a44fd67e72aa0e7e8f97f96a101045e7160daf372b5d1694cb8259c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbd92c3055c23f57c414a2e86731e029/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4c965788d8046e90c7591e65246b51a9cb44d4bf9861b436217ac2ebc9cb1215adbcd09ad26188d0dc8d1ad6709e25bfb1ee16c0d9cb22952b72a927b385cc7115d07756344ad088be7c32162b3b647255700d63f16691cea58a85243f4b3f97600f3dccc903150bd5f7afb2281071356fc19456e4934821a8344303981de3316e8a333658ab221aeabb24263e5d2148/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbd92c3055c23f57c414a2e86731e029/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Phantom Colony, Part 2",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40051",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ffd1e15652eb94a3dc4753b9746f13a5f70d8432f6f9a6daed80e3763accd08b445fe96f8b618d5638a1f61e5dbedad1d1cac8b6115bf5fdbb123963dcdfeec798e9ae51f07e3b4a16a04839b14f2a2993236c41278e0939e90ec910552da9704b7fa342723c78deb37aa41564b0e4e1f537b80e1d3f423fa8d2f053de797404/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92e2f165bbd942c3672b53ef3ae08c22/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ffd1e15652eb94a3dc4753b9746f13a5f70d8432f6f9a6daed80e3763accd08b445fe96f8b618d5638a1f61e5dbedad17486578243e50eae6ff8931eb78893dab282f451dfc84c6c61e3ba2e8a876720ad1fda484cecd260913bc7823db67b4cc0b0596b96c05772789029e52490b4135d5ae3038cb5e51ba55d3dc9603b4be8072c052b7da536ea86254df1fae7b436/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92e2f165bbd942c3672b53ef3ae08c22/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Melee Aboard the Argama",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40052",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fab874b2f8030505da2b8923267f2ba53ae580a3aa7c39969ed628ffc1bfc3ee7b6f856b547c6917d1d48dbc9d65fa9c66b602ffbb8842a8be7d869ee26389fe95645eab56799440198607e97302663dacf1808fa94c8676723870f3ee5ac199778206736f001bf3203a4591ba338b5d45f6e0fc4b1c604de57535cdaacbcfb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0fbd9e52ab035c86dc9d9b07888992d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fab874b2f8030505da2b8923267f2ba53ae580a3aa7c39969ed628ffc1bfc3ee7b6f856b547c6917d1d48dbc9d65fa9c29ed88451fc4e3b7dd4497a1d2fc55b1633393a0ad5a6c59bec6ab1cd2177fe662a6459c108550b42f3e7a77ef4eb57142246ac79dcd982cf266234b44e71ec50a1b3bdfe89d8529e4255954a0dab242d6c08540440a2166add5091b704370a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0fbd9e52ab035c86dc9d9b07888992d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Retrieve the Core Top!",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40053",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c0be0c9cb182a9bb9dcb12b8ce2494937bc332cf109976498933c04a7bd95acad22d5dac4dec7e7f3a583e2cf8b18fe7abd40d455ab066431c7c06352e8202e76786ac38269aec29af7d42ff3ab92ced88d4477596b8ace80a31cba03fc919bc3ba1f3d603d1bd4429abe8b14e4cb386ad0d9cb721c3f62db3f92bd534aa7c33/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626b07b0def0d1f6f51e7fd2ab0589d8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c0be0c9cb182a9bb9dcb12b8ce2494937bc332cf109976498933c04a7bd95acad22d5dac4dec7e7f3a583e2cf8b18fe78cb746e8a1deffbee6282d29ec6d6887b55df893c41927d055510915b8f535fa9082f4845330ec68ab1e98287b568cf2ab25c26da96cfcc69002c09ea7e3f8673159bb8abdd17d19286fd9f3eaebe0e60ff3715d2cffa38a075927e2aa875d6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626b07b0def0d1f6f51e7fd2ab0589d8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Haman's Black Shadow",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40054",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/556978b16ccc659ba545dcb62df39d38536ba00c815d80021930f044735f0a8e76898667be4d58cbc99c210b65ec4a9864e841e68c7cfc729ca9a09da0a10cdb8db3894468088f97232a2e840d843f09dd5b7bbeeb1085d55d7510b9af9a6f15315977bd61ede0d4e8ec3005ae11fb944a7b0f064e2a7f7d35b1a3174cb55663/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6201d48e35be2cdbdf8a000ef1eaa87a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/556978b16ccc659ba545dcb62df39d38536ba00c815d80021930f044735f0a8e76898667be4d58cbc99c210b65ec4a989ab89bd7993d7aa77710f7f7cb60c7a05a2056e365780a3d335f339a403e5bf167f4e3e6668a2e9c8901381d1c8a3a378b28b6295bd3a7071e676d226e064c545fbedcf28c0d3dfc64babd4392fd16cfbef4fc7b149141ff3c82ab2d0ef577d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6201d48e35be2cdbdf8a000ef1eaa87a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ple and Axis",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40055",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a87c85f14d1bb51d80570e95d1acf991170bff4010451e8fd5aaa76a46366c0c898911ac6dcc474edc3e727a8e6d414c19a7eddf33f8a841691210ccf16f95541f041a08fdc17bd8d951be5f90ea9c8e752cc8f793791c1bb9d6d6fd47cb8e0993f70c0dbcde6e2a1aefde256802b6a43901b59271974c33a35b2a27a926364f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6616bf5971fcdd1039330cb1cebb0c05/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a87c85f14d1bb51d80570e95d1acf991170bff4010451e8fd5aaa76a46366c0c898911ac6dcc474edc3e727a8e6d414c977f41d965592ec244bfef4fe18560544f4898f8ead408279f1c691ec88ae821d3fbc711ebf4627fcc18a9cbe78e935d8eb9e4fd2d2ebcd6726a45c3926d959ff5547f6f0ef8afd7f27388cabaec99bcd73b0feedbe1a1b9efa09b2209776fd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6616bf5971fcdd1039330cb1cebb0c05/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tearful Cecillia (Part I)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40056",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/698e18b0009cd9cabdc44c33ed75d61a00f7f3c291ff306a2a9590ad1224fb36ec68a44374958470040917c266168eb8a5f3f192d86d202624ce419893b2e15df75b373b4773f711c1b76c8b5a499a767905e76a56b741808748d678c7924d205500cd084d33233f2229d5ab2bd50487b9dc2372e14a0886fcf6def319846a14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c8d1cc92e0a293012b4427d4b3cb156/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/698e18b0009cd9cabdc44c33ed75d61a00f7f3c291ff306a2a9590ad1224fb36ec68a44374958470040917c266168eb8259b0cb5c0b2fe00b466f5e80b8bfca6385c2368323d57aaeefaadad74db28de59442cf7cc6a8b1e0224b9a1f9badb02921cd3ac362180cbc3728214f170b851a7cfdbbbee28e86cc5aa09c39eec573f8213bc6a9d17c619d5b986883472cc2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c8d1cc92e0a293012b4427d4b3cb156/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tearful Cecillia (Part II)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40057",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/06e13031f59ecf936e8222e36aca147874d2fdb75ab824b1f375ec11a00a2442acfa9a3ec706900a913139e1991b02ad0140cd49d44a0126ce73641172c367187efc398e761bb257e6f76127600a71dfcdc60a01a829e0f4289c3c516eb8df592bab3ff0af09c1fb0500a64c20f6abfcff8ce755d72f11a4c7eafd2c1c687c28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47e27baf6ee6bfb6c2738025270a0339/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/06e13031f59ecf936e8222e36aca147874d2fdb75ab824b1f375ec11a00a2442acfa9a3ec706900a913139e1991b02ad39b76ec9b2ddcd174d8ffb7cd3f8c36fe13990b7babcab45a00ffcd994eb347ec560d9c9eddea7670c0a8d5e4cf146a7d6f59191b28e0dbd820bf378d3139df4365df1be3e5c4c5c9dc5c3e37a0105bcc503f9d1518bc941b43a4ca241372f15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47e27baf6ee6bfb6c2738025270a0339/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Judau, Sorties!!",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40058",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/08822b1d6d4929eb2bb7ceeeed1b372bf08b80b6571ffcd1a2c076ffd9bd01096542696b1271b207848ff9937bb27737aadf9dc93cf4e82d181f009027d3b495dcd349b53ca861b13f9fcc32e19dc4cb8806925feff74d5fd232f87dff25186a634ef0c205eea38a979eab331a9f2b80b87505933d2ccd6945884579b0aca0f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3a0637a7993d9e0f0c088428dbecd06/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/08822b1d6d4929eb2bb7ceeeed1b372bf08b80b6571ffcd1a2c076ffd9bd01096542696b1271b207848ff9937bb27737d336401669b3d03b98ffbf1e06eb91d6c9ed834224d0f742a2a2d1d49211771f6e26debec6325acb7574d44171a5dac2ddf3455870bf3c57daf5a0b2089854c1f009688fb756ab7c7242545b0b17ff978f3e272ccb872c87948158fdc57bb591/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3a0637a7993d9e0f0c088428dbecd06/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Earth Ablaze",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40059",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ca0f7e04266c37a3eac7a1ff38e2964cff8c772ba3d112cd86a8ae698650b574f06fb07b770f5947d331b43cf940fbb3ee6d09c83e9d74bed535f32f301cc3e2040749e32d0a3ba0002fd99e099277b5e878f8168383bbe428ebfc9a4b72515ca5ee995ca05f38e6707ce080f49f764eeedac0e2c5af3149323931133836c38f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/090a6497f982d927364bedb7beae3a3f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ca0f7e04266c37a3eac7a1ff38e2964cff8c772ba3d112cd86a8ae698650b574f06fb07b770f5947d331b43cf940fbb35306891d800c0cda208da1aea63ba0332dc40196a53a4d5d8230d8521c2ff6cefe9faf348c02cda84ef13411d1845e126d83210d4d8493ea3f307760de57376779eaa79ccc324795feace6e1b36476963b45fd96eb6a12de144246963429d062/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/090a6497f982d927364bedb7beae3a3f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Siblings' Love on the South Seas",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40060",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9ccea2c94b35c3728fff7bb3ff8df723950111746337c9ae37ac0fb4981b0cf536c53d44cec5e59c041f0d710a9121355bf2bb52268e52712733027e74e8bcf89abecc34ec0eef409ca2f7a64e54c1f121404c26dfd170ff7326fcd50ae14a73e3c9711c7cb01297f43aa62622a4e1045e093bb336dffa05610c9d3338f488f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0786209802af4438889f12736585bfa2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9ccea2c94b35c3728fff7bb3ff8df723950111746337c9ae37ac0fb4981b0cf536c53d44cec5e59c041f0d710a912135f45268820970063775af39b3592a4d0a140a248a29c317fb123c9d9077e538371c478d01f785212d4bd7e5921daa3a207b79ea73df59be7e158782eb487265ed6efdb1de6a54652ca0907fcc9b00e335fd835288f6a4ded58f85dcb63a976e79/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0786209802af4438889f12736585bfa2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rommel's Face",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40061",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/598a10a363b1af8636c40954866ea5a0e4ab45588bf27d05df6ac70ca23b9fd99d0fbaaaa68382159c15e315dfa259c72a2e51ce2759545d96f268837500e7959098eb9f4500dae5ab7e7429c1ddd9635973e51d51e2173a60977be6049552baad25fd09dee1e6beaa1dfde5f154df39cc9c58aa690d16c19282109b66c29f42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec99c7c013d5a53ab7f9f448eaa8bda4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/598a10a363b1af8636c40954866ea5a0e4ab45588bf27d05df6ac70ca23b9fd99d0fbaaaa68382159c15e315dfa259c78b7010dc79429617c505c255170e8bd8afdc76654a1069f815242b1585743fd3b402c78aa0ef373636bc2bbe5790ab4791eae3072ec9dd000f7e183f67a386b68edc87ed75d65f775ba57c2a44e41ebfe53815562ca79ba0dfcf7bcae9052a05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec99c7c013d5a53ab7f9f448eaa8bda4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Masai's Heart",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40062",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a2fa261aaddd308a0722fd65fda1976ec855a1870391cbc2c37554099b5338cdc602e323affae2760c736352109d15129c135174e303ca342d0ac62dc6ab9af3bd60f025edb8da94083434cace7fe63eb7c409d63e6be25e6a423c10aa6260f9f644c58187cde4b3959d131f6e37f90cb89909d53b962f7138c6b6fe94269a61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1adc831f388d410e26a7d3fb8e4cf48c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a2fa261aaddd308a0722fd65fda1976ec855a1870391cbc2c37554099b5338cdc602e323affae2760c736352109d15125ae493458aa8862b1310d6753d7aee2984be6cc56a6b9171f36cdee8eae37a53a09b5e3957e70451dbaaf8c8a55c70fabcfd73586037c764aed413f6ba1864efea23c44e53d552937a843253771be1b569ff7651ec4bf390952534b164c17169/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1adc831f388d410e26a7d3fb8e4cf48c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Leina's Blood (Part I)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40063",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/94dd6add95cc5441caf579c5f6ac69dc9729aba479546e2e9a8b93429e217935dd4a98f05c2280b4ac340155106435dd1657b040b389130a695d1aa9beb2a517c25b67d5c3854ac64a061ac16bb8c0f2c2590b3fd79c5ae659658460b9adf85cfd8f98c296d196a3d1a6140fe802a6f23b49a47d7323f10e7071a129e0bf9644/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94c8c502f41818d4d14de256029537d7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/94dd6add95cc5441caf579c5f6ac69dc9729aba479546e2e9a8b93429e217935dd4a98f05c2280b4ac340155106435ddbbb0f7979372750fa591bf1b3c7ca370f45251820ab4d882e75653aa5a94f702e1031f78506c9b2b9a1ef5df85e833548769e2dfeefc7dace4fc9a205407b08f1dcf577d0c97b61633c6c5b7de0c5dbd9ba02ca447830bf887001fe310605068/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94c8c502f41818d4d14de256029537d7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Leina's Blood (Part II)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40064",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/fa04ecd0b74578e6cc956d06f924f1cea340d3c9337d0aba7f8f62f4f4b69d6906f6a85d9241b34ddeb9732d09b8f494ca728f9c8802895538bfbd84e01ec71a663be0ead399a233ba0e93cffac0bac5827376e0ae7c7f2ff5fa12614d737475b1e709d880b8043fd76bf9813080c8e52aeac26425467c18214b52939b34ab30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ed16702c35191ad0d80f444b4977aab/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/fa04ecd0b74578e6cc956d06f924f1cea340d3c9337d0aba7f8f62f4f4b69d6906f6a85d9241b34ddeb9732d09b8f494bddfdf7d4b4ce6daf489b8df75261078da4043c80c87572236bec3fbd309bcb51e6766d89edd61b44495482decf57e5af86a806d30183d6679412a325cde968aeb0a3e216a87553b6a4243c5ecf403f920f6668f4951566100d24d99ee5f50be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ed16702c35191ad0d80f444b4977aab/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Runaway Roux",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40065",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ad97bba593757b9487cbb73c103c6f04b15fdb79cbbc94c59f1a0b64e156861fb1600a684821b563d670a6bd16258f75cb6e01064f983c63921b1de8d945240e8dd778df01445ae7b6d9d4fd6f4b94afd6a1d1799c53bdd23319bd8e08ce7e960cb01e582adc587951fc68ea36c1915e4b4c355738522bf0131ec1c7ea7b6155/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45c59ad05087a4bfe1509ef906c7102d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ad97bba593757b9487cbb73c103c6f04b15fdb79cbbc94c59f1a0b64e156861fb1600a684821b563d670a6bd16258f7586164080600baf6e6054d7e1b18fe6c38fee804254a126c6cc01bc04022424f7f2653ca1f53312efcf4c9ff7c47f117c1b930355021472f004b6588a36d8a0e724c906cd0784c5e2c8272819f2330695bd7429e274f32697e95b96dc9acb66d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45c59ad05087a4bfe1509ef906c7102d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blue Team (Part I)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40066",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a0cea4fe50a8f482950b4a3ac4efb99396857001ceea3aa570abe55965ee8b34fc7f97a389bd993b2ce7ce512da2ac6b48ff3ac81ea9cad269afb76ada555e7eba15740466062a14563dbdec83602e753fd284c4b2f427eaa9f3fd085553a2c2aba24266fa36a8eb9f1b48ce877e2e533b893c61a819b50e9b85284092361ec0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9f1e53c99ef3f5371fec1378a90a70a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a0cea4fe50a8f482950b4a3ac4efb99396857001ceea3aa570abe55965ee8b34fc7f97a389bd993b2ce7ce512da2ac6b70b8ac6718204262f5f18e0f6737557c5e8e710337d29722afc1455a20a0d588039efbdf002ce65bc15f2fa60d5ce2d9058ce8a157beefe739d52006ac7f2423dc2a957a0e50b31e2bfa7a53abea00ef00b81981ad5ba3d3bfba6a1707f3b7b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9f1e53c99ef3f5371fec1378a90a70a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blue Team (Part II)",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40067",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d1401e8775ecf3efd95d573bcd3ceda5e82c96f3f7f45d0d75a3d3103655c3d2a7aacd92167ad6e884a87e5ff8418402ff32b6e8db8c9616bac7303175e13b3126413db704ec8e0b6d795bbb572534b17c09c9ceafee58e7f68b896f2d38ad0813273bee9eee67fbf2d54f10445a996056bb72e5a85c7260ebd05459320b01b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f17a6a9705d8ee834e5c64cc4d56289/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d1401e8775ecf3efd95d573bcd3ceda5e82c96f3f7f45d0d75a3d3103655c3d2a7aacd92167ad6e884a87e5ff8418402143e53f32843a96a2ee2688e73815344d71217fc45392aa849a06a7820c00d2cd43b67cc26a43fa94f5daaef04d927eeb69cf5509d90fdecf2b805267d3d4f588bc4ca3b1ccf00addd18d7a722f1d13893043f85cca67ffb8c879444b2436ba7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f17a6a9705d8ee834e5c64cc4d56289/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Beyond the Salt Lake",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40068",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/acaee3ba308b82706c4c9e8e3f438cb93d24080cbbb57aeaa07ba5153eac9203f756b1dfbf25266b65f150ee15d308d447eac88970d2c13c250e92d37a6c8b9252ee02f5585ce949643b34aea4d9fba1f119229e8a1bdbbd3f3da8fcf449dbcfda681e007bdbec7e57253bcab9360beb8f382f3e6396a45686c94121948c43ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07a26178a4c6594fb876f6fa1a43c0db/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/acaee3ba308b82706c4c9e8e3f438cb93d24080cbbb57aeaa07ba5153eac9203f756b1dfbf25266b65f150ee15d308d4bf1998d69cba803a79cd146a3188d223517f5c728c20bd0f19bfc965f2c9cd471748417f4e30a7fc9a5f93d5816f6bf4e7bcdd63ca946bb041ec947fc69f523ed0359ac665eae79a1f18ac8be720f477c3388cf1de3d8dcc016cada0e2be58fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07a26178a4c6594fb876f6fa1a43c0db/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Afternoon in Dublin",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40069",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/588fdab20e13884f5aa523a2eeeb9a8c7473f0e8f277155d13789f5fb423a6db025ea611e484944dab3eb13287fa0e51a0a0e29104e6ba27f675d82dafc2f6bd275bcc93536a528b34eeb70746c2b9048d257a15a27410a4d8fb019caf653942bc1e0708120ce4132f36782a9275094a4d6b90a0ef287dfeceb396626113ab15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b418aa387f758eafd6661337ddd1d36/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/588fdab20e13884f5aa523a2eeeb9a8c7473f0e8f277155d13789f5fb423a6db025ea611e484944dab3eb13287fa0e5190403ef3f491e1fac027dfad30fc29e15b4851a490cf741783892e249a0deb8873ccbcc37aae651f20bad9364f06dae5acb43cbde765c7252ea643fe985f8581b5376bfbb3d5fb8f4a99e117bb7fa35e96a834a609b9d5ae97eddee68a00758a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b418aa387f758eafd6661337ddd1d36/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kamille's Voice",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40070",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f7fcffaaa7a15c20011f14a7b6b6ee58ad26678cb07542d00026320180b5627dd527c5e3bf9ab49e8e43f1a73940ba574761e930bd54d85c1ec0d6d83cd982a7195a91fee14d5f5abac3fcc497fcaf19c545946298c115d8f2fec18521557e0366a25e8b02d27f372c347ccfcbdedd780e59c08eaea1e8c2803c6bd2ed42dcf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c90ea2f2f9d7a33e54badcc13c23363c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f7fcffaaa7a15c20011f14a7b6b6ee58ad26678cb07542d00026320180b5627dd527c5e3bf9ab49e8e43f1a73940ba575aa5202a17a6a086e2845448b427bdca1eb520690895ba4fc7137efed40425634707eae62ac170efaff789439b1b3655676393f4f31e0dce2371e3dc54a56e3ef395ac682616ea92bdbea777bda1ec3b8e0f22a4a1e2a03449d0cded9fbc245b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c90ea2f2f9d7a33e54badcc13c23363c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sky is Falling",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40071",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c177998ffc8c975cec6d41b659a8a4e30b537456adc320e0684ed3f9166648dd3e885c63ebdd5419a2cda2ed42caa2642d6e0c2ee5b532a6d1e636126b2c6d4a17e985d878faca63e6ccf3aa230ffdeb6823013201a7e6af792f2e4010e98c430a8545e85c0740d20cd80e0d0d1db0f39e15e6fa3d6460e728320ea8216af30f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/524305c59784f2cc3645d3c7802d75b5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c177998ffc8c975cec6d41b659a8a4e30b537456adc320e0684ed3f9166648dd3e885c63ebdd5419a2cda2ed42caa26482b1067b4858ddfb63d205693267aad24814b7d6ce1c80e966b444584d3e73bc2dd4eeb6a9bdac5977ab543db8524db843398a707c4bcf216ef301c34627365adfd7e772f4d3224e50876bea8b18c3271fb46ce50cf68db82409df03164da62c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/524305c59784f2cc3645d3c7802d75b5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ple Two's Descent",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40072",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0a52e90367d14f1dd643d89e0caf9af6483934a8109459c9a5a5be475155b0996990a38140727dfb2b3850ad7025a5339c2b93c1197fbed719f157b7bc79a45bc052da4e7d6d63dd92289e77dbae21d8f075a00d3d69db3caff38841e4f953dd86856c0a6f334456b9d247314745d2f2c71d3a591032395ef373ca0e9906a481/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bebb7ad1c292ec9d2cf249d1365d264e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0a52e90367d14f1dd643d89e0caf9af6483934a8109459c9a5a5be475155b0996990a38140727dfb2b3850ad7025a533d15e37b0626720764b1b12fa2191d01cc33f4de0dc0370aa56924a910f30f3022e6712f2dd50c76a9702be6f5cb919d5be59c5d87559ca3009cf764fa3286c9c63d19e9d619f05ccc4e6498227510f087d04526fe15192d781ff28011eb7ffb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bebb7ad1c292ec9d2cf249d1365d264e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Nahel Argama",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=40073",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/799b8bda0343baa0f16e4639586c712a54d80599400567570446799dbf96d8ee7df2343a6b4a6a202a36396d56fbb7426797b63b28630cc617226294c089e9c2cd0b8effb183a7ac9ccaedbf52b5b2128bb3ec3dce32e74cfa168918f918a3c158b9795bb7f9b1f1e8019341ff6da8e7b88b71063ce098ec7251dc3b3b08e3c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26a33cf330b2c3874a761467c81bb82f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/799b8bda0343baa0f16e4639586c712a54d80599400567570446799dbf96d8ee7df2343a6b4a6a202a36396d56fbb74262209e36e9152985c71921196697d84e4614e19480dbc837398ba952b2c82a0056a97f1b47659c6b3972e0c47ba2c43124a1a91443ffa9e13ad97a36ecd556ea6a52db2c85202c7da2bcf2d172d79a58654c48077dd78dcb16bcdb2ff7251da4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26a33cf330b2c3874a761467c81bb82f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Iron Wall Of The Jamru Fin",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56196",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2d9f33d2c666b62259e3d0a1105ba835d876e52c2a1b992796f93b6297ef554b7e61b96fe63c4ed17d19750762fef4c97313ea79b64a7648f74d2edf7f8c4f728dbb665a51e367b28f787df37b3e1c88300be8dbe98235b94488124f6bffb49e6fa91cda03c372bc7f11c058dc03aa177c14be130a79127c186674f002ac2e9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0462d10713d86dad06b65aa6bedf948/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2d9f33d2c666b62259e3d0a1105ba835d876e52c2a1b992796f93b6297ef554b7e61b96fe63c4ed17d19750762fef4c92d2e76bb82ab15289d0a3423123f78ffa5b3643cfa7ea510514ab297e9bc5d7f2485cd7b4272b6b41b553ab228ea831ad79cb7221315977e9abdfefbd894b17a52f95d59bec653555b1f74f6e40b652bad9485490c8a4d72323950216dea62f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0462d10713d86dad06b65aa6bedf948/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Second Coming Of Sarasa",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56197",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2ff8c0697ea4ebc8924cb18c7072766ceb1bb27bce73f936be72bb4f686e83f93be000f48369bd2ad5ba7dc203c3be7b32d445322976274468f6a3a7ece2f658e74592f80180676a6bb95aee3f5f72ee18eba8f884c4c68993af3a718a7b785e7b544ddbbb0177a6d10210267c0d548be4f316cd5e270dd3dfc28c6ea96daf78/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c76e89e89b30ff1844eee0a51e1aa794/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2ff8c0697ea4ebc8924cb18c7072766ceb1bb27bce73f936be72bb4f686e83f93be000f48369bd2ad5ba7dc203c3be7befc913808e9615eed2666f5bfe7aeae44b5bc96fd55c744a3ee9969fe08ca67cdf53501ea47da4ae89d3f9d878af2a7c594c38c1cb546e31db2b3a6da7cef781fde44489b27e294e779d6c7a7150c82f9effb20f509d2fa44902a42b0099befb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c76e89e89b30ff1844eee0a51e1aa794/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vision Of Tigerbaum",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56198",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e94bcde040cb1828d53d88e52ea954a9ac6d16fb12fcd5a0f5ed2d38bf9e90f02ace093d853aa033012bb99e1c22c046ab241743b18fc26ba214bf6e3ed321050029142471aa5b085f94699c2f11a5ded0abdd3ea7270bf02c166038394094593a74d759779788931181e1c1ad29a0b6824fc1b3c68f71a933ff5c5b780dfe9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dead0754d2f6df7fea29299bcc720634/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e94bcde040cb1828d53d88e52ea954a9ac6d16fb12fcd5a0f5ed2d38bf9e90f02ace093d853aa033012bb99e1c22c046c37fb50f8f069c38eb6f01b1bfa0f87953fcfb7e1e3d2de64d921221ff5e8fc830a4a3f76662d62c19d8c79e90ea6e1a38003db9e9d2e865b0708b5d64f478854b3c2fb42189528139115120eacc6c7c4f805d50a5cc949d24e02e394b9f31a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dead0754d2f6df7fea29299bcc720634/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rasara`s Life",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56199",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bcad8f9836a828c5fb89ff70e180886e3c2b7666595e2e263dd4078c3141541b2f15cbaa61e5a1bbccce7784f2c3f43a689e4ca19149108bc873e7a228d133c02ad7c5cf49c87c36331bac4aed41acd8168029343707dd476e42881dd1b82c1a2f2c88e7bc265413b2a06ac0f23267afa1499bece3090fab7ce5dc18bf9905dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b4723627933e1819e28d4823b29fad1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bcad8f9836a828c5fb89ff70e180886e3c2b7666595e2e263dd4078c3141541b2f15cbaa61e5a1bbccce7784f2c3f43a95ab566c9a894c107af57a32295edc26dc53862a2303f98eed8cf984f143a9dd229b4d357a7a537be555098f834ae3a470fc0e7edeaf6400a4dfadb80fda84615b744da5769ca11e715143b281e2bb76838f8b1d12aa0115e8d790dba429c055/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b4723627933e1819e28d4823b29fad1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Core 3 Maiden, Part 1",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56200",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a25e3dd71d0591da261c20d729ec51d9c61e3a64e6d83fdf34fb93045798b7a726c9843fc682543a3dc874351b8f734b863119f1b046844bdeae850021442c508ed05144804ffebc7156ff572e1df18961a86bd316ae80a887585e8ff1ddbaedb30b69eba143e903158ada37b97ee517ff5a33743e5264355b6ce0c8f78dc60c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce6511f1a4da2f1546dc4abdddbe18a0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a25e3dd71d0591da261c20d729ec51d9c61e3a64e6d83fdf34fb93045798b7a726c9843fc682543a3dc874351b8f734bd947c4be91a577a95afaf0af4e67399e1d7a39fef78f154c6470782f6fda65181120595be915eee5383fc7366b9008ff288cb9ffc3d3bc2285b58fdd84b7e93985a4b4e84124bb07e7f60cc3b2097aedc6ef7828581a8f201fce808419ee8ed0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce6511f1a4da2f1546dc4abdddbe18a0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Core 3 Maiden, Part 2",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56201",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/979dc09734ad513d5533f9bbae6b69b1c686bd90515e5ba2219f29b12000f753c79fbd9a4f3cd927f58a183bd592483e76e5d00c2c734ac2d31bfa1c28c8c286f3e48db46f5af9cafd3180d0fff2d6d5e502740f46c25768fda4b8c8ef53ec3069e2177ffda52c917277f3a58adcda71b4307fa31a65562e6ae1f33b05b20b04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/49c14131c267420b4d72216e4ebbb3c7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/979dc09734ad513d5533f9bbae6b69b1c686bd90515e5ba2219f29b12000f753c79fbd9a4f3cd927f58a183bd592483e731012cfe808ecb9d259864ad52266c16fd7f776be38587f13424bf9524a057958f0b21786ca8dc24097659a057bdd1061c5b09a61c8a2a5923bd087893e2aed009dac020ede973e0ea2d2a794d73d5cb5dd49bffff128084b7598e17961a0e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/49c14131c267420b4d72216e4ebbb3c7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Emary - Wilting Flower",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56202",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/06716b0bc2631e921388c74452116ac042225c90c61010e32e254b1282070e204ca8e7288b05a135ed0bddcd60e0f188ff7fe399ddcba435cbbec41479096ad2ec827e647d5da365072dabb6dff1e6897c5befa56c99e8d724db56292e2adf6ac5b20b77455876a15d56b4616f782029f30b4e07ab0e056b37df2dc97ade64e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3167dd53b66003f10e4b3ad5fb0448f4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/06716b0bc2631e921388c74452116ac042225c90c61010e32e254b1282070e204ca8e7288b05a135ed0bddcd60e0f18824e9038892ca77ea82aef8427b582560a118bd5799e4df76ad9ff6b11754078017b73b3081d34068dd8577dd706b0ffa8b841d3160c9bd1ce49c614328eebed18b1e388ce4c846af40ea26a45db4cfa55d3129438534e86839271db318008037/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3167dd53b66003f10e4b3ad5fb0448f4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Battle Of Axis",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56203",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/121004e7a3f21b252aadab5ae560b5bdc3dfced4f7c8aac132ecd8aab36f5789aab8ba5edba892c6845000da68c35c063505e628800ddaae0dba1e0ef3c823c9be3a84f717879dd28e214ec55e60d837d431e61ff557bfa64baaa3b0c2c236656d22b07da26bb7a75fc012e0c86c5068a52a4619650f533dd28a89192a8dc9d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/192de3575ef2f03f8cd7569122bfe806/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/121004e7a3f21b252aadab5ae560b5bdc3dfced4f7c8aac132ecd8aab36f5789aab8ba5edba892c6845000da68c35c06ff6bf3eab02143fe360c86e4612dbdce502d8bf353e66835dff18c741932770c3275985cfd74f91922e93d150e931530514878ea81d8816f56a727cfa1f231e83dfc9fa17db1013284a170c4cfebc762a006c4c69b78fde66e1a098a0aeecd67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/192de3575ef2f03f8cd7569122bfe806/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vibrations",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56204",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/79966d3ef85ad3801440968c1e5f267a8914ad7e73142045fefc24787c62f893c9f7478808ddf6329bfdd9f6c05057fddbbfeb963aa177223b01e82c46e8d2773e434c1d5a1cfe6d86a82105bff9278593fa31ec3574def039ae7886164ae4222f89d48ed430ce9460fc7a570ed5a5371ea659686cf4abf6ffe03f3ce565d63a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/508df013e240cbadd000784a4e79048e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/79966d3ef85ad3801440968c1e5f267a8914ad7e73142045fefc24787c62f893c9f7478808ddf6329bfdd9f6c05057fd083951f32e821c48234ef1afb6f670dfe27e8806106c84db4636eb30e8dbeac049bd58ef145961a4f5ba00fa105387dac7f6208b5d3c9cf1db5de78a6bb1c84ea3a868a250ea3e228b766d2810e0691ea019c87e6f2bc9bfe163c4b8e0a873bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/508df013e240cbadd000784a4e79048e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Warrior, Again...",
+            "episodeId": "mobile-suit-gundam-zz-5001?ep=56205",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/69e25c67d45fe7c26efc5764fee6eade022e45c05ee6e1b591a0d400edfcf0e7b9b9a2baf216c4adee9d0149438c0daab47c268d0a80ebd30ea69436a891a7bbc95cb21df51d921b9755fd61cdd1f8193f801b384d2a8e817598b08e91e320fe2778f68e00b4ac73965b3aae8f073a9ea671602bd8b5266df0136813621af720/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73bb8d440b846843193f2dea5ced43c2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/69e25c67d45fe7c26efc5764fee6eade022e45c05ee6e1b591a0d400edfcf0e7b9b9a2baf216c4adee9d0149438c0daa276cda37fafb27e843cdd667c556b9fcf24d834ac13e75aed66f74ba9c2a7959619e5b315d63fb4333ef56dea9955cc13186fd52f895735f21c4cb1dfb26695b2e77462dc45162fed913f014f6768722c5ca1c7785b03faaa8456319f0897781/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73bb8d440b846843193f2dea5ced43c2/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

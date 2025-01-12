@@ -1,0 +1,76 @@
+{
+    "info": {
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days-4479",
+        "anilistId": 0,
+        "malId": 10947,
+        "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d72f61f8d90a5543a21df83af316ba8a.jpg",
+        "description": "Tachikomatic Days short that was released on the Laughing Man DVD.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "2m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tachikoma-1260",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e36ba9f8be6c8bcdcdcf97a17832f6cc.jpg",
+                    "name": "Tachikoma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sakiko-tamagawa-2001",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6270f588f9900e74124d3993865a9073.jpg",
+                    "name": "Tamagawa, Sakiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "攻殻機動隊 Stand Alone Complex - The Laughing Man タチコマな日々",
+        "synonyms": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi",
+        "aired": "Sep 23, 2005",
+        "premiered": "",
+        "duration": "2m",
+        "status": "Finished Airing",
+        "malscore": "6.79",
+        "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Production I.G",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Laughing Man - Tachikoma na Hibi",
+            "episodeId": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days-4479?ep=50480",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/05a03ac521b2436fafa55063ace0facb1038eb432ab2d039c27ae3cf809bd0dc6d9db40351d254b06f081036e29c279b8414d98919ad79d7f8798a8791e27a26912bce2f55b377dadf9dd497a6d791dab499a28e64587a5676da6b059e26ac6bfa3947e8ed99f919208e1fced14adadcbee212c1ec783966393a7e508c5cd73a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13de90ff14dc8136dea805ef6dfe7702/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/05a03ac521b2436fafa55063ace0facb1038eb432ab2d039c27ae3cf809bd0dc6d9db40351d254b06f081036e29c279b32907ef31cdcad55168cd79bce1c7e139d8f795eaa3c10859715f2caa9c184833a93aaa2e19494fd4d163fa1cf8d848027d97b1747eeed59e6d1bedf0393bf90626700d3777f6bde1d17479396064e332c88b8588fc8aeb90f71267ee013b021/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13de90ff14dc8136dea805ef6dfe7702/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

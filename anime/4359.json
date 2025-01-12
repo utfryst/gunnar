@@ -1,0 +1,583 @@
+{
+    "info": {
+        "id": "ensemble-stars-4359",
+        "anilistId": 21512,
+        "malId": 32212,
+        "name": "Ensemble Stars!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9407ea1df895eb357e65aa26025446d2.jpg",
+        "description": "Yumenosaki Private Academy, a school located on a hill facing the ocean. Specializing in boys' idol training, the school has a long history of producing generations of idols for the entertainment world out of the young men overbrimming with talents, like the shining stars in the sky. Due to \"special circumstances,\" you are a transfer student at the school, as well as the only female student there. In fact, you are chosen to be the very first student of the \"producer course,\" and your task is to produce these idols… We hope you will enjoy your journey with the idols you meet at the academy, as well as the vigorous ensemble that together you will make.\n\n(Source: Ensemble Stars! Wikia)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/cOG0gLHhOUM",
+                "thumbnail": "https://i.ytimg.com/vi/cOG0gLHhOUM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 short version",
+                "source": "https://www.youtube.com/embed/R_n_XNw7dBk",
+                "thumbnail": "https://i.ytimg.com/vi/R_n_XNw7dBk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/4deqHYYzhwY",
+                "thumbnail": "https://i.ytimg.com/vi/4deqHYYzhwY/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/3xf_AcGwfP4",
+                "thumbnail": "https://i.ytimg.com/vi/3xf_AcGwfP4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "akehoshi-subaru-7150",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6431d4c062e91647cbcc7c3d44fc231f.jpg",
+                    "name": "Akehoshi, Subaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tetsuya-kakihara-102",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/50aae36c659f646e3602a34a56bcbb09.jpg",
+                    "name": "Kakihara, Tetsuya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hokuto-hidaka-7796",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a7e7747200c48f97b2068471f75a3ba.jpg",
+                    "name": "Hidaka, Hokuto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tomoaki-maeno-164",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/868e914e773f39218eaf3321d8974d89.jpg",
+                    "name": "Maeno, Tomoaki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mao-isara-4842",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16fb1be3ebeb09ab2486edecdb905a26.jpg",
+                    "name": "Isara, Mao",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuki-kaji-5",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+                    "name": "Kaji, Yuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "makoto-yuuki-8810",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adaafa25c94fdcb103b4a3b0403f1a50.jpg",
+                    "name": "Yuuki, Makoto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shoutarou-morikubo-253",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3df6b3d459a857eafeb33f1f6a82918b.jpg",
+                    "name": "Morikubo, Shoutarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hiiro-amagi-25055",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5bed09c660c2a1fb970ddee6443759ca.jpg",
+                    "name": "Amagi, Hiiro",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "gakuto-kajiwara-534",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/945515d313d02fdcd33be3085512c550.jpg",
+                    "name": "Kajiwara, Gakuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anzu-17541",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46957ab00d04bc642fde7a48d02e503d.jpg",
+                    "name": "Anzu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "maaya-sakamoto-34",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f8d1ff4eeeb93d5c65e3a3c1e4587c26.jpg",
+                    "name": "Sakamoto, Maaya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "あんさんぶるスターズ！",
+        "aired": "Jul 7, 2019 to Dec 22, 2019",
+        "premiered": "Summer 2019",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.81",
+        "genres": [
+            "Music",
+            "School"
+        ],
+        "studios": "David Production",
+        "producers": [
+            "Frontier Works",
+            "Movic",
+            "Happy Elements",
+            "Bandai Namco Arts",
+            "David Production",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "New Wind",
+            "episodeId": "ensemble-stars-4359?ep=37637",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/45ace6398d968f97a8e91e382898966ba6c45eda0f19f2edbed64f0972e30134bc66bcca0dd1260ad9b3b93777128ce6d1fcf29e0b6aee15848be017ebad1ec0980b3e09c9dea311a4f057f15239f2b49b794fe99c3f691bfe4c8099f3935d96f0b73e995f9f9f26b3563de36105fa0a88d609816520359d552b0e31bb22090d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f101e87b65373f7404f6206eb8c24f9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/45ace6398d968f97a8e91e382898966ba6c45eda0f19f2edbed64f0972e30134bc66bcca0dd1260ad9b3b93777128ce631a72cdab6e9b61c7cb07972d82bc8c25a94001fa277d13eff16fe2dde5f714c16350a6979c774e92f3a2864c0cee0fdb33e76b29fc860bdd5b55ccbea30b3b2b3c86e7d6f627efd2e122854e763fb80890de5ee6c08ace77f2f62bdf043c7c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f101e87b65373f7404f6206eb8c24f9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Howl",
+            "episodeId": "ensemble-stars-4359?ep=37638",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e40c7e84a879841d0a1543a865e2fe0890a12051ec4bd510fb92edf4a42e66e3a3140adccb86d1dd6286c5d9849027dad4f845374903f6d8fd1ea4a0d928cd83fec145c717fc8dd6924efb94ea6177591d048cfcf221b7e331299279432b561791eb03b0e97fa8d89b9644cac9c651683c323a789616508beb3bbdc1ec9a86c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9afb9116111a979a60e1a7d58cd46f7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e40c7e84a879841d0a1543a865e2fe0890a12051ec4bd510fb92edf4a42e66e3a3140adccb86d1dd6286c5d9849027da2e74a93ddaf0a2cebbd2cef1717a076b5bf46fc5bd016e8565a44b41e4e419022c0ba1aacd00e3db73359a6cc55e27006f650fcf7d71834ced7621c7dcb106f8609c6d135e6c66616fa8be3a5342e7f555d0a6b6b13dbd90c725d9c2ff60970d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9afb9116111a979a60e1a7d58cd46f7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resolve",
+            "episodeId": "ensemble-stars-4359?ep=53011",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/817f940a62433d6b841525426204baf769a365779d03a7241c4dbd9ccff92442d550fecdb705be2514febd0da81bc3b7ad3269134fb3d83666c446a792ad009576dd13353b62a86609354da9cd410a4da7696533762ecf93f0d0708962a50399e9d87094bfae5548171923519b72a44e477e3357917d40ef676e072ed0086074/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3403920511120b149b29e1507edaea6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/817f940a62433d6b841525426204baf769a365779d03a7241c4dbd9ccff92442d550fecdb705be2514febd0da81bc3b73d105ce27608f1b34471c1bccacd06f5eb2e1541ef3966aef80b8685651bd97a18dd2e3477a40072fed972a8b501d6298873825846c3a817feeb8329523cf538a0dac70e3304d454a6a5ece3c6ce284e75b06ca775ea36e87c2e4802fda2208d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3403920511120b149b29e1507edaea6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blooming",
+            "episodeId": "ensemble-stars-4359?ep=53012",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9a4bdbb4b4b318c80e0362fa2ab45422b3e541317f64ba86831399f5ff3309f57b22f1f80b327f48a76aedcfe87d936bacf5209e3fca23b03683534d050d598e68d4c21d53c1a6cc470379e9db2c128815ca06fcf6477010dfdc802cca2feb5e5702040af599b5aac298626373e6514dc62e301e23b827d80272496fba400f84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3cdde98748acfe65ee0670d66a948b4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9a4bdbb4b4b318c80e0362fa2ab45422b3e541317f64ba86831399f5ff3309f57b22f1f80b327f48a76aedcfe87d936b6314208d3832a585ae6628a1ab4441b5f0dcc5d8bf119f49288ce630be7b899f089b88d7d37fb827c6986b2c565dd8e012e612b35efa17f833b2a0f803a3603709a79fb78b76c0c13f2e4f574c0675c9856474aafe6088fca436fe7a17b45b89/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3cdde98748acfe65ee0670d66a948b4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Marionette (Part 1)",
+            "episodeId": "ensemble-stars-4359?ep=53013",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/777989bcb53e4b26653cecc6a5f92f59a4b4a3bb954add739e0cce5646d05099b85bcc805164bbd2450abbd4a1479ce0780b7b9159388ecf36502a0c07dd07ee07965c8167bef85b8435be9bf2a4fa2cf099c56ba5cda4dc81cde339c768e303731651a1591f2da3134d8f6e704fa534b4d8f7bd0d32bdb6df6bf18a7f34c840/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66797fb5f10f933936aa3418f5b64c8b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/777989bcb53e4b26653cecc6a5f92f59a4b4a3bb954add739e0cce5646d05099b85bcc805164bbd2450abbd4a1479ce0565c3a6cceb74aa94bbda2515d612066d8b87e4784754431815a07bcf9bcb3a3095222a0f78f3b12fcfd51ef67edfc7ad169892e8cd5338552ff9c900eb17a2306b183252e926ce9a570ad1f4908a6df4b7b5e70d576e0bb62a10f917b3a7222/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66797fb5f10f933936aa3418f5b64c8b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Marionette (Part 2)",
+            "episodeId": "ensemble-stars-4359?ep=53014",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/368dc626aefac3d60671bc1ee9e07d7b137ef4f89ee990ec7bf4d5e28b50aa782876a9880a4cf453e059697412c1fb668897ac87137fbdedf3e7c604942bbdc78c4769fe08a73f9e9ecc8642e590a9d107ee8aa96931c8e2996377aff13e020b133076ab83d71984150892bc9137a161c3597e3cb6c4edd76d0c73e01a09f949/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e19cf5bb8c224aa7c1880fd7894e1c7d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/368dc626aefac3d60671bc1ee9e07d7b137ef4f89ee990ec7bf4d5e28b50aa782876a9880a4cf453e059697412c1fb663140139dead60e22109c6ac785af9baaf012efa52463fcc8a6a3dbafc9b9059c8dfffe5c2d096022334630321664f49920f8b674ff7bf01844294b38f58ca9bb1bced4239b62e49ccbb0c8d18d992702c169496c4516a02d3decd3347cf2415e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e19cf5bb8c224aa7c1880fd7894e1c7d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Emperor",
+            "episodeId": "ensemble-stars-4359?ep=53015",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c3f9c181cd00321df0367cbb0c01d66ac106f93292e6a39c2c948baf66b4a910f735ce63670790e9fd5d7e5121d760b15e6b516c52e7202e10a830673d23e4114885f3a397402b8c91980fc880ccaf8707a4b3758388f5429f99a03909535a8187db94961b8de41da25c5f955806285b015251f66cf1621005816f846e34016f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/301f4587860d0e30402e2f19331387ed/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c3f9c181cd00321df0367cbb0c01d66ac106f93292e6a39c2c948baf66b4a910f735ce63670790e9fd5d7e5121d760b10b415cf3ca6031bf7c607ba1995b67744a0b6b185d7af9e34575fc170bcde8ea1ac929d775b9e0ae6a99f09513e100d9dc5bf153fd0dfd578aaa4bb508186e85467a49060bf8babba2b9cdda931d14ff7c4e26075f6d790e688d780f84fe696f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/301f4587860d0e30402e2f19331387ed/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rift",
+            "episodeId": "ensemble-stars-4359?ep=53016",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1c7391f9f9a925fa826d8bb357903690a7ef33b40e166800d890b20708ea6aec8469127dd27ed725410632d9df970497e06b4b32281ac9b0a0cd1bd03e2d04081cae1b78ca921cc07300e123fc1a6aeab1e87f6befaa4c65172a01077ff428b0a6af81af2624ba6aff75392088008ee245a8dd329705ec5d730ca64693932460/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73e2e753799c220c4583d390e484fc50/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1c7391f9f9a925fa826d8bb357903690a7ef33b40e166800d890b20708ea6aec8469127dd27ed725410632d9df9704971922948416e3ce650c5a02f4445d24e92ccc27f304ecf0e03e7d391969fb8f8b866e25e9911eaae3ecb17326903c25ed7a8c0005effef1ee3dfc7f9ee107627fef965cef41010de2a4887522a9920b0a403650d5c84834b1bf0ac9ca1de107e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73e2e753799c220c4583d390e484fc50/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Counterattack",
+            "episodeId": "ensemble-stars-4359?ep=53017",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b3b45ebd5780864ab0831a753b03a0493d9885252a7c26bca132d95dc90fc1968ae6367e89d8f768f211c5631b789721803068372d36d2694df4c744b7f13954aca10c16b6d9f439ccd6ff16363d2c2642ae030fe0cf827c96ad9b474c4a1909c8ca2d727370b3f6ae7766110b5748a8a3fff7be05154fdb3bf62c3798f6678d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/37f070f75d67ba9227f6e8ca40f0a70f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b3b45ebd5780864ab0831a753b03a0493d9885252a7c26bca132d95dc90fc1968ae6367e89d8f768f211c5631b7897219cffb4bbf15c271d1f1a0cd426bc38df0421f8b4a3eb9464d3a9891808356de24578a4787a50939afb522928c017b4233fbd440424607156b08555514a16e6ffd7960c6503fab24a260fe293d8737d7cc3f3e19beee3538ef09f849b0f790fde/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/37f070f75d67ba9227f6e8ca40f0a70f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Element (Part 1)",
+            "episodeId": "ensemble-stars-4359?ep=53018",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/298ad9fc5e219490e687d06a1c74ca7115fd76f20c80f368a5bcec98735618111f3a6e3dc5fabf3376a7261a455d0d2ea4623465919bda367d6dd50092d39dc4cadb39cfd86da7edeb6a646bb3ad103265dff7d66f538d204fcb6ce8cf7fae6802b32a8967aba328be00ac4ff24e750875a32dfeae756c76ed87b994b8c08f9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fce304edae825729c998fd36c0147a60/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/298ad9fc5e219490e687d06a1c74ca7115fd76f20c80f368a5bcec98735618111f3a6e3dc5fabf3376a7261a455d0d2eea3a5553719b5f0ba82b070828581352041530ce4d41631265f9ed48b45af7598091c245ea4fd879f47a129030fa73b0fdbf82755e19e0cdc0d3a212e34a6b4932bc896bfe7ef0a3ad9b4035d225365ead5de721426da4c74cf0e73d6327d9a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fce304edae825729c998fd36c0147a60/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Element (Part 2)",
+            "episodeId": "ensemble-stars-4359?ep=53019",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4ae23848467ba52721026899adb2607083c0b62067fa2e16f66e99a4916c038f9979fe846842252c20ba819f8dfc879745256b49fc5999ecc2a6a3f3e455b3540cfa218d90bf92f3de8bf091f3b21ecf1e1fb6f1e280143a09bc74e1bfe61b38a0f69c8c3ea98148aa7b34c7df0c8e038ed0e9e097f789aa7548f781c2c2e426/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82c252737ce4a5523aa7b04879ef4936/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4ae23848467ba52721026899adb2607083c0b62067fa2e16f66e99a4916c038f9979fe846842252c20ba819f8dfc879753b9515a84ab2bcd1efbe87b74ee8ebdab14809bb33e3e0e6361cc3a3ab10c1c54b0a30a22ea8985391baaa9691da21bcaa34d13f1c44e812cacbb0c5113fd24e460d25240d0e27982afd896705a128652650fee8dee234da5b025f6d35e8e92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82c252737ce4a5523aa7b04879ef4936/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Decision",
+            "episodeId": "ensemble-stars-4359?ep=53020",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d14c7969ef5b7aa8115eea71f27beeb0289b8e66bdea942545db04246697fd62998130f769d384e6ede12cf03b181525b9669189681b36e44fab15fcb1b72e81537846fbe10697d1e2ac4494936cc2b788928aeb8d430093a24187a71191affc95b775882c81f0d059752b6f1ee15df963911ff6bf9fce3d351a05f42d4bb60a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b50bb16806e5031c6860e8a43d34be70/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d14c7969ef5b7aa8115eea71f27beeb0289b8e66bdea942545db04246697fd62998130f769d384e6ede12cf03b18152564db2c4f11481b768899981c590cab5510cca5fe39325c9ac8456ab3c2c1eac4ec554e41a4b7bdbdbf90d334ebdc92e86ed40b9b3bfdad07f459dcf832f579edcf36b734e235e2e0edc2afa434c6e6012a8461f472f56d29d2870eef3e57d73d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b50bb16806e5031c6860e8a43d34be70/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Supernova",
+            "episodeId": "ensemble-stars-4359?ep=53021",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b2f9352f5c28f1a0adf5945764e9e0ee9d8bdf109802de9e5aff48242dc3c9571ab3685ff679a81e53dccde8f96d6d8c6b040cfd1906660433ae787885366b28d4d70661c97688cf4aa02221c34768dc450058108ee512710141d550a7c4411203c23e8bf31a0136a30215177ffb14be213376568a5c7756502fcfbb58a6293f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae0c76a287582dc3330fa03a0635b3cb/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b2f9352f5c28f1a0adf5945764e9e0ee9d8bdf109802de9e5aff48242dc3c9571ab3685ff679a81e53dccde8f96d6d8ca44fcab6a98c3ea9b754edc4a169fa137e24b508f6894c8da39260c5c652489c09f6103ceca4add0edd54ec74f08ad1559deac737df22bc79858a5d3b5c2b52eb0f2e4570e6bf2b79428ea4443511b9add11b6ba7f3ef3206e3ace18c512d932/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae0c76a287582dc3330fa03a0635b3cb/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tanbata (Part 1)",
+            "episodeId": "ensemble-stars-4359?ep=53022",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/bd6ff93300062c27e495b5d12013ba399b2d7cffa5d39ed7e64bf8b040dfda19c7c98443faa25a70c88178800ccb8c5e82f572861a508878fb574441861a9ceb7c9de7138d2b50fc2c16e01d38822d8301142b685137eb7dc8be0b5cede5ab81243028c365ffd7d6d9e25986907e404cf31f7fe8bcb823e33d609598d8278f76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4715cbdec26e02695d75ca2c3534ecd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bd6ff93300062c27e495b5d12013ba399b2d7cffa5d39ed7e64bf8b040dfda19c7c98443faa25a70c88178800ccb8c5e0feaea1408d0f837ddc407e5a3a5668be399de12ddbe4a2c6269bc0cbd4c542f06fd274c3445b08698e277118fcc3b813adc24c046a5c11f167fd4894950b11079428db6b92ba5128a2b9af0d3a6d828b45201cbaba27573e36a24d9c01acc07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4715cbdec26e02695d75ca2c3534ecd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tanbata (Part 2)",
+            "episodeId": "ensemble-stars-4359?ep=53023",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/e11de0e305e765c0673241522fff8c22b05bc5f1253454a3a01d67f8a9e158c3145c2372e8425783df4d99ba85f17fe7dfa612f37c547d4aa2177921c2164819944be28cb6259728c31e6b5f093b3c429f5ffb532ce632746414b77afcab16b080a4c7471706291b52f59ffdcf664f2f6392eec33a53a343a4dcbea141c213e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55befd552d50f236c8a69f28e13b5139/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e11de0e305e765c0673241522fff8c22b05bc5f1253454a3a01d67f8a9e158c3145c2372e8425783df4d99ba85f17fe777221d5701345626dd07a27b16615bccade0abe25883e51dc32e7579438802326ecac96a52eb28092be7caf445b3ef43d2fd6ef7c4b4a170bc799a1b71778922f6b517190939dcc7b64b77c4b21a66543015ed54707b128e0bdd5dd5407bae0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55befd552d50f236c8a69f28e13b5139/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Summer Concert (Part 1)",
+            "episodeId": "ensemble-stars-4359?ep=53024",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/230ffd1303243699a131161d3b0148490d8b4f614eebfa856ad1b68c38250a0e9cf6012e518a85589150dd137df6037df9005eea368dc65d680ec075996fcd17b154ed449b051f99b0c6c07cd3e3c28b83270b01df1b1e44ba049b6e43ddd91f90aaab49ff85ac95951ec3e39b7868f9c3718cbea4589e55e3e93a8ece310862/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc7068186d56fd8647d84b099f1591d9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/230ffd1303243699a131161d3b0148490d8b4f614eebfa856ad1b68c38250a0e9cf6012e518a85589150dd137df6037dfb3ac60cbc574d18aec6ecc027082a79079730408cd65c131ecd387d213986933188cae60f03fd757f93940c1556bea36dadba0f4c340a194f8ef00800947926579f4e2c27e4d12f24ecb2d6d96feffaf6a2b6536d225b660d6125b9d88a2f25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc7068186d56fd8647d84b099f1591d9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Summer Concert (Part 2)",
+            "episodeId": "ensemble-stars-4359?ep=53025",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/99b93fd38412cf49df040b8a1412f6b6c89951bb5120a713d458a98c49a9783b50ef979dbe0fc27c1ef3d39a667f9ad0c98c2ef2b5f7a26c24bd748a23660d179b2d58a3fc237b6c8faddc94462341e21759e890aae36793caa05d8da6d24875e9bb4b68a41bf0b6079c765a9d089da6f007b1b3afb7bcf2cd1d9936bf4e2e7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f99142cbc93cb09cfe452e8e5ebfc0e2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/99b93fd38412cf49df040b8a1412f6b6c89951bb5120a713d458a98c49a9783b50ef979dbe0fc27c1ef3d39a667f9ad091327521aa1c3ec9821e4b80a4599f42d257a996b3f9caecb9f5bccf91f199a449bc8eba7b42a5eedc5ee370796a37af3299960a055e3a3764ff1dacfe613b761485823936636947e0e73005d5a1ed04d10c9c8f490c8ec2122cbaec7713d73b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f99142cbc93cb09cfe452e8e5ebfc0e2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Judgement",
+            "episodeId": "ensemble-stars-4359?ep=53026",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/185555d7be06efd7457f2296c60fb7913a73fec4c01a4f2281d8e63efc3fe71bda5484c791c30dbc87d4d7adfe11b0d18744556542f1ec7cd7590f0d2871a48c35fdf6a7018cb8cf35e9cf5b896446d5b3c56eafc04fec08e15f6b846871bd58ef3a47629c6129bc886a5075567d070415bf5c75643ab22457290fca9c965a0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2dc366072cdb541a395d35b744c3ac69/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/185555d7be06efd7457f2296c60fb7913a73fec4c01a4f2281d8e63efc3fe71bda5484c791c30dbc87d4d7adfe11b0d14504beed92071f940a8f4dc7163dc3464d182299dbcbc86efc4d9e2c2c9ccb222597d0d28313459519e0a9dbcac47785d46179e053b0db0e40d229f734d11c665ffc1f27b4fc61c39a16f959e744faf84cf6bb482bd70a1b6c9dd9a8c3147fe8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2dc366072cdb541a395d35b744c3ac69/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Autumn Live (Part 1)",
+            "episodeId": "ensemble-stars-4359?ep=53027",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5ba09921eab92ccd206e0e0b27cd1e9ae25c4812b52071288457a5f04cb6ee62925ee96fa7a3cad714368d32061de74d548356237a7970c2b3263204d9805f06a312f241d05202d99269ea2f3f91569ad97d026bf7ec65a9cbf039d8b1fd3ad902da02330a1c887906e089c4ca2add62f4fbdb2458441921d5e2b06ed9665423/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75824ad5b07a05fbe451f24c309b72bb/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5ba09921eab92ccd206e0e0b27cd1e9ae25c4812b52071288457a5f04cb6ee62925ee96fa7a3cad714368d32061de74d2236b521d89057566fc512e0f32598c0eaae8efcfd6573b14f6385385925e59d6a4e2df1ce339002e007a2620fe9bc84a90e72e5faec8a2585e4591a156b5953762160bcecec1904d04dc66674e242461c02485bd117cc37799a4f37753b200a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75824ad5b07a05fbe451f24c309b72bb/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Autumn Live (Part 2)",
+            "episodeId": "ensemble-stars-4359?ep=53028",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7e8114b5d39e81af033b68049f4a788072bce23656aef0d248c8cdde7bf198982784191584e5e4a68b4460d127cc752d4ff49448557af2d917f621321956d65921c0854b4946078d718fe96b9096676656c74bdeba7246276e61941566b628fcb686b90b338375151a148900a24cfe0dd6f0f17af38fe1c6566afc84154c6ba3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11fe57c02718a82e505f95a6d88dce0c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7e8114b5d39e81af033b68049f4a788072bce23656aef0d248c8cdde7bf198982784191584e5e4a68b4460d127cc752d93393e8e7fd7ca2cdb7d5a4b94b25a1e41c6fa204feb843016362bba2726b38bb7924ce9ca729203734a90e0b0705fda6a447aa09513e5dbfebe175f551380ac002960eac1ba125895af88944ba88e11365b80a9e1f6d56881e1ee220291fe4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11fe57c02718a82e505f95a6d88dce0c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Halloween Party",
+            "episodeId": "ensemble-stars-4359?ep=53029",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f8054a1ba1d2e6ce255e391f0bbac18f22e41f6ff6d72972f9eb9dafa6d8a6fea556804d457fd5c773f4cb665d5b3531f59e082916568ff45ceaa6e7e8e30b868e374375af42f6857084942eb012b5b243adcbaaebe1e330340ed37fc25a1702106620d9a6286f7964911bfdae755e55ffbba4f006884b5f0143e9ef673bc205/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbbc26bdd23da3727a4f8062c10b0641/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f8054a1ba1d2e6ce255e391f0bbac18f22e41f6ff6d72972f9eb9dafa6d8a6fea556804d457fd5c773f4cb665d5b353138760ff2c6c373840efa1ddf986825d230cffaa0380782b89fc0a7e2c505fcc1bcc0fcf75dc63445ce83f18ac7f1a3364de0e27a4fd9608695b0cba6faa72b531acf9f1d8b5cfc14dee64e73408f8bf7c28804750f78ffbb1b3c95466c00c61e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbbc26bdd23da3727a4f8062c10b0641/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Starlight Festival",
+            "episodeId": "ensemble-stars-4359?ep=53030",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1f5b5b258da6722e04b04b17028de1a912996d4c34669c4dd0cdb89532bd0df98f246291d176f1055a955af3423a08efbba7ab684f8fb5735881cd354c58237fff928f7f2ba3a28695d9ece0aa6ec52ed17cb3a80235d4ec34303bc41af54aec09738434447d4501dfc6100e46e1bfc4c3742858e97fe7475e13f243c6c6fa6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23b8f9aff447e4232287a8bcf4bf44e3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1f5b5b258da6722e04b04b17028de1a912996d4c34669c4dd0cdb89532bd0df98f246291d176f1055a955af3423a08efb4cc26907c756b1bdfb57339272f104bce42e4e94eefc147cd7874bb7f3dab5cc735ac1b9baa6d97ec2bb5deedd5203cad192bfb8a054e3a198b23c51410a176000b54dc3bf5b56cba483187f33b265caaaa08a999623d15e63cc481a62934b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23b8f9aff447e4232287a8bcf4bf44e3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Effort",
+            "episodeId": "ensemble-stars-4359?ep=53031",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/802b85a6b080096bcfbdbf175627da155eceb05a2c49b32eba239f8d21f5a0c30c69677cedb8f9887b1a5129386fc64338c94e474540932efe9deb8250eb4dc032cb36a96e691eeb29b1ce1987cd9b0ab20d1f3509579537f407d336275ca92fad816501d32e101f192b500bc54fbf23d4c0df02f4eb20aa7ecd82bd4c5d44db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a3bc4c38ba3a1401a9a404b8921c461/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/802b85a6b080096bcfbdbf175627da155eceb05a2c49b32eba239f8d21f5a0c30c69677cedb8f9887b1a5129386fc643046093904ba194346c729d8ae490e09e3acd859ac9b0097c048bcc278a3a583fee25b78621c73e949f079525d21449130bbc1dcd516b0e6a2eed2eac1f97d19e2802cdac1acee1deeff672c89a81311614c03760ed39d99f4fcccc6a78f188cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a3bc4c38ba3a1401a9a404b8921c461/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Miracle",
+            "episodeId": "ensemble-stars-4359?ep=53032",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/052a3ea04f384c4dcb1c724b3088d2cb187572e6aee4860b53c4f2d026f4f911cc10e61ad397fbfc5216d176d7b13af9d09dd9c066611cadcca47199e98a7e8ffb3144622e4b57a5b9f6ab20fd5592d3e18f1386f7ac945ffbbbd244090f17e3b2308ad1cc08de4cf4599d29d3f8ff2fdb7c25ac94d309bb3f2e589444c43ea1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e73e162cdcd336b46b01bd43a2410424/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/052a3ea04f384c4dcb1c724b3088d2cb187572e6aee4860b53c4f2d026f4f911cc10e61ad397fbfc5216d176d7b13af9e0634eebeba47c203dbdabb2c584576a4437f6dbd8b66db0977ec47c7f118369ae1fb13fee36569bb8aef32ec787fa2df581b175308deb17a3979c65c3606c49f88e45ff572111084609ed1a55f8318596969ddbcb0f0717e7eac1fdd6b973e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e73e162cdcd336b46b01bd43a2410424/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

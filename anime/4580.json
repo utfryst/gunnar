@@ -1,0 +1,59 @@
+{
+    "info": {
+        "id": "saibi-4580",
+        "anilistId": 100931,
+        "malId": 21027,
+        "name": "Saibi",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/986f6724e599bde3ae307fea2ee22035.jpg",
+        "description": "Who is good and who is evil? What is the boundary between them? An animated thriller about the tension between a good-hearted person speaking falsely and an evil-natured person speaking truthfully, and of those that surround them.(Source: Hancinema)",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "40m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "사이비",
+        "synonyms": "The Fake",
+        "aired": "Nov 21, 2013",
+        "premiered": "Winter 2013",
+        "duration": "1h 40m",
+        "status": "Finished Airing",
+        "malscore": "6.77",
+        "genres": [
+            "Drama",
+            "Psychological",
+            "Thriller"
+        ],
+        "producers": [
+            "Studio Dadashow"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "saibi-4580?ep=58004",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1f55e0f4c6a09cfb8432a6f122170297d1f9eefbafd29be1c33b03283c0e9284c1db52149b51c27b9ba316eee628625dce2c9687fb1696a24859b24af677fa4c10f4e739abcd99ffd27be52d1b9feceb62990ec0757572fca68878085ca1e1e4f39053b864b9ba893deebbc1afb526a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/664f1140b84f84cdac616cd24fe9830b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1f55e0f4c6a09cfb8432a6f122170297d1f9eefbafd29be1c33b03283c0e9284f144c8afa210a9a73c3d40a37b25cd5aa24608e077961862b5d0083fe7e883302e914739e073b5acfce8602aa4e236354df94b044d3a29a3770e1370cb2670b3a0ee9e3d68cb97895e3b75d28e3383df5de96595333ec571a3b1ae291ff20896a5d00e8603a05f73a19dac6f7da309c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/664f1140b84f84cdac616cd24fe9830b/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,639 @@
+{
+    "info": {
+        "id": "a-certain-magical-index-iii-4605",
+        "anilistId": 100185,
+        "malId": 36432,
+        "name": "A Certain Magical Index III",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e2962033a2d9c507f298c96bd3a5a41.jpg",
+        "description": "Touma Kamijou can't catch a break. After the invasion of Academy City, political tensions continue to rise as both the science and magic factions collide head on. It appears that Academy City intends to declare war against the Roman Catholic Church, consequently plunging the whole world into global warfare. Touma soon finds himself on the front lines once again, striving to protect his friends and allies.Toaru Majutsu no Index III serves as the last installment of the original franchise as Touma, Accelerator, and the true Level 0 Shiage Hamazura continue their separate journeys, leading up to the final act of the original light novel series.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/cigp3w-ZVKU",
+                "thumbnail": "https://i.ytimg.com/vi/cigp3w-ZVKU/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/ecd1qxlFR0A",
+                "thumbnail": "https://i.ytimg.com/vi/ecd1qxlFR0A/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/raPx29Gxbn0",
+                "thumbnail": "https://i.ytimg.com/vi/raPx29Gxbn0/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Touma Kamijou version",
+                "source": "https://www.youtube.com/embed/1zMM7hsjP2U",
+                "thumbnail": "https://i.ytimg.com/vi/1zMM7hsjP2U/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Mikoto Misaka version",
+                "source": "https://www.youtube.com/embed/EwPH53_GGJc",
+                "thumbnail": "https://i.ytimg.com/vi/EwPH53_GGJc/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Index version",
+                "source": "https://www.youtube.com/embed/GiryxJGvmOQ",
+                "thumbnail": "https://i.ytimg.com/vi/GiryxJGvmOQ/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/NZCV1ADhlQg",
+                "thumbnail": "https://i.ytimg.com/vi/NZCV1ADhlQg/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "accelerator-127",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cbd5a65f57f2de0cf03af25e2e3c691f.jpg",
+                    "name": "Accelerator",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobuhiko-okamoto-13",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9aae11fde3482365907a4d59f655150c.jpg",
+                    "name": "Okamoto, Nobuhiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shiage-hamazura-4910",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e242b2b121fc8a291a2491f770d1fe4.jpg",
+                    "name": "Hamazura, Shiage",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satoshi-hino-208",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7012b8603f0c4d4a08c58aa69a29545.jpg",
+                    "name": "Hino, Satoshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "touma-kamijou-437",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/80e7aeafc3bd43d3429380432262bb5a.jpg",
+                    "name": "Kamijou, Touma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "atsushi-abe-490",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d9c841b6bc8d60482fc580549070561d.jpg",
+                    "name": "Abe, Atsushi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aiwass-26921",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a71f9958720896f5db2ce8f527c053dd.jpg",
+                    "name": "Aiwass",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mitsuru-miyamoto-1082",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0bc016acbe5c57a92c8e071074914212.jpg",
+                    "name": "Miyamoto, Mitsuru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "angelene-24225",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72ac2ea3adbb6392b599aa837103b13a.jpg",
+                    "name": "Angelene",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "azusa-enoki-3792",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6488815b0b8d62c43a0bd1c433312024.jpg",
+                    "name": "Enoki, Azusa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "pierce-aogami-15204",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f35c6612e5fc1f2e2c2c05826ad163d.jpg",
+                    "name": "Aogami, Pierce",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshihisa-kawahara-1926",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d6f2c03adcc7668f1be80b76c9575dd.jpg",
+                    "name": "Kawahara, Yoshihisa",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "とある魔術の禁書目録Ⅲ",
+        "synonyms": "Toaru Majutsu no Index 3, Toaru Majutsu no Kinsho Mokuroku 3",
+        "aired": "Oct 5, 2018 to Apr 5, 2019",
+        "premiered": "Fall 2018",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.75",
+        "genres": [
+            "Action",
+            "Magic",
+            "Sci-Fi",
+            "Super Power"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Square Enix",
+            "Movic",
+            "AT-X",
+            "Warner Bros. Japan",
+            "NBCUniversal Entertainment Japan",
+            "Kadokawa",
+            "J.C.Staff",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Unrest",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38504",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3f97af20d5a4d17a6ba1f6eea1605e81b30024f78769f13f790592ad9b666ec76eec5c61611161f7736eb44c01fb180ad4a4e2965bab2f2edbf8d5db044960e0b531169950d824c0192c8f9d7a450f551e0e666bcff9e0c53854c47efb0d0d0bfae9a538a33be4fd856f0b5bfb30baf49f38a26e2c57b70c82790d7b5468b7fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0eb967e66fc052cd69dbffdcb30ca5f0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3f97af20d5a4d17a6ba1f6eea1605e81b30024f78769f13f790592ad9b666ec76eec5c61611161f7736eb44c01fb180a4b2a7e70d230939b93b84385567e3067d1a07ef013ec9373099668bf8d5642509fd112235e03d5baec843e2785a6096b853697ba7bf4add10422a1c3239410a78e016a9290fd1307c26bb3b68be29e4b52b83474433229dd59d43a5190ce27fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0eb967e66fc052cd69dbffdcb30ca5f0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Right Seat of God",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38505",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/dcf27e3399717aa2af1b895885cff7e44470a0eb64d328b0b2b1169ceaf5e119c674769ad5d924e1fa03ee90047c4e66a474ec0d47e9592a8ac1c8a026d584c5bcad0496214253e08d0cbfb45e190cbf06a111fd1738e0f5d740dd375e6cb1d7aeb227f728e90ed53939b65e60e348f2732c0a4a84f4757ca001daf3ce85bb00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3def8fbf566cb94fc53c17385ca2cb3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dcf27e3399717aa2af1b895885cff7e44470a0eb64d328b0b2b1169ceaf5e119c674769ad5d924e1fa03ee90047c4e660bc38b16dfeae079b0c5f4da00ffe55aa87fe2b60c59a3d431faa19e73d75ed51f9b22f8e4c23b60c083041997e857a4cba8fa363091e08ea62efca35fa3834ac14bbb2bf002ed92607e5ebb6a6c47aa40972da4b9f3df751e8da408e622742b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3def8fbf566cb94fc53c17385ca2cb3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Document of C",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38506",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5f0d994441bc52ea54494345ba4ae427b460058328e903f09fd9e12fd80d557d7fe13df6d0d5389baae12e7700373993bfe612edcb816aef1c7048fbcb12c9747a0459e47a17b2f034c69dce9f54469607d9329e96ce7d3eaaab8a69ff698b1ab311e58288fd27383db33a25ea94fe290231d8059225c138c692c354626e454a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da4d6c1bc1a1905b203fe51354993941/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5f0d994441bc52ea54494345ba4ae427b460058328e903f09fd9e12fd80d557d7fe13df6d0d5389baae12e7700373993d0bcf7d6b18611b300ce94d634f8d935d3cbdfb01bf3a6d00952785d4623dcf3f63641aa57ccf3f8c12913d197820633679dba3d56253c8b1399851d928711367d50d72d1fdb1168f71e4464de4a715426e11db7bdded7b425729e2826b35054/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da4d6c1bc1a1905b203fe51354993941/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dark Side of Academy City",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38507",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/07c987733014cb53ec8eccd62b500436c220e324a0b65568dc7bae30c9c32f97fea15e0ee3cdc7596ecb94ca1c72254b55950dd548419848e1b5c8f078a41277029dc4d272794a82f8399531c01383891f492e3b67d2b0a129cca5f6a4231f09c7090538bf5d1c0502aac9aa085b0d1aa1dda7cddcc0415313c4cd8ecbd81122/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6c3b911a8808f8c14436414aa34af2d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/07c987733014cb53ec8eccd62b500436c220e324a0b65568dc7bae30c9c32f97fea15e0ee3cdc7596ecb94ca1c72254b0cc4765e43757d96e2e431a4373b0b20f6d855f86329daebc404fb189cf5dc2c1e2ca08877468f233b1b02181486293b6b968af00fb9311c8e0067ad74fa0cf6ab543c27bd427564fcb82e1e78cb4b5bfed844e3d3fd21cbf76dcec4110c76a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6c3b911a8808f8c14436414aa34af2d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dark Matter",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38508",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e2d3c43187095292a561d8b3bc98f96a4f706a776e3814fdccd90feac2b7bed8c3dc90d77f1d98073d2b35009bbf8e3fcd3f20316549353421d9515f806e3106518e39cf497011624f10d07bbc646cada1a609fd5cc8acf836fe293c769bee212399833a7ae6cceebd84f798531d466a568f9f648d1211cb68af4989ca33f3c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a8303841e9dc44af7ff81c8130fb293/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e2d3c43187095292a561d8b3bc98f96a4f706a776e3814fdccd90feac2b7bed8c3dc90d77f1d98073d2b35009bbf8e3fa79b3423292ecd16e238c2aab809a0304ea0766b668cc2ed69c79ed5d5a5a15ab3b45d761124245579ad917d1a0e9efa506615409f0d9ae3959a30df0ffa151dc3e43ddb0ce8861f4b2ae51d391e988483ab4bf435c1d8fd0ed04febcad705cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a8303841e9dc44af7ff81c8130fb293/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Espers",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38509",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a56f6532e71a318e89c4742be2f2c17c1cd6487c390ccd22152d46a886c99d1ad1633f9310b345a86c7405e45dae697c1f34f80a62c7a04d03e14459c348797c7aa1ab926f69e54f8bcb6c7c93f451c1350c6fffa9805378d28521e0ee37d94b62c714f96a81b216b37916dda34481a572b1d1aa9ac8f4aa1032521f664d7c32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50e19dcaaf62c48104c6abc938a62c5e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a56f6532e71a318e89c4742be2f2c17c1cd6487c390ccd22152d46a886c99d1ad1633f9310b345a86c7405e45dae697c3af54cff4264a0b4809daa4be11a726468f788a288db7e550484fec17bc59e4552d35943d7343e1eee621612b8fdfffcfa173c943e2bb63511b038fd0a9b50a831876c97605484168d46af7d6f934c53833282e463b389412421d962435280d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50e19dcaaf62c48104c6abc938a62c5e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Third Level",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38510",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7e0602d2dc1fc5f36cb918f34de38b8d5417049a2565fc62f4e8759f33f67f7ea37d027b5439c415b7318c9d015bbaf93b0c07443831004619677a050cd988a2826eca01f0304b22f8afb7079bc44331689f83a8c30a47b2734e26b0eb3f762f628dab61e5737d5f4fa436570d56beb6b22256b9a069e0c520f4eafc96845c58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56da9c411e45ac296a8e1163c89e4290/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7e0602d2dc1fc5f36cb918f34de38b8d5417049a2565fc62f4e8759f33f67f7ea37d027b5439c415b7318c9d015bbaf95c9a20021a5487726649eb5f9aff647de764b6b4b0331a0f652180ff3830d880b51bbecbdd1a5787f25837eb3df216884afa6fc61e4df4c7f39cd9923eeec39af47337525346861c79ef03c8132a3a6ccac4187a79185fb472b966cb471c6d19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56da9c411e45ac296a8e1163c89e4290/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Saint Breakout",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38511",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1b1064c49058c331b57129509caff0d235001c42821574a92f65354668389606e7df94e49fdc228717c38d633dbb371d7e5abbdd064d4626ca4d3b971942da13b91717da1c426c99a5de74b3469e901647dd460324a937a18e41171b9b647dc0cf4763fd1fad6ea096aeb04c0e815131b4d1a12762960e578de3d8a3efa47f31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ec9d205d17aeb7bef476be7b7a41d54/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1b1064c49058c331b57129509caff0d235001c42821574a92f65354668389606e7df94e49fdc228717c38d633dbb371def323ff96b19e3ee4604e850eea6a07088bb7244cb15d10ede4900cad0c5323b3789eb0981a7bb763b1390dc03a5a99d63737717fa68d8ab02ed072e33eba870de5e18613a7f5c454eec4d8ad03201c097522f642afb1ae62924727346829022/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ec9d205d17aeb7bef476be7b7a41d54/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Holy Mother Veneration",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38512",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/67a23fb41da8b40eb3c6beca854629f4869f509eb4d03ef7f6f1776473f6a14f4bb05ab116abcfee015e721e3268f9a7b0898c20aa8444026b981dcc9960e1727d133f25a11e3ccb86b19b5a2196047be5fbecb6f611df27683b28a5ec7b76307bb264517ca5f6b03782b5d649863aa5fca87187e8bb363e7c5adb21876acf39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1043e9a7f3196069b1488c1004e3397b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/67a23fb41da8b40eb3c6beca854629f4869f509eb4d03ef7f6f1776473f6a14f4bb05ab116abcfee015e721e3268f9a7deff2ea57058be71060b8e1098629e8f707a195aad4b086ed661453e141e1eaf73d92d07203e0566d15c8177889e415fd0fbd3416b40f499f58c343aa0d7c10397d4d23569aab1f67f512341c07ddc664d9b84d99c3a63005f17c87f170a6448/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1043e9a7f3196069b1488c1004e3397b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sky Bus 365",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38513",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/71c5141f90c3107d5ee2f712d07ddb595fb955677229b61348f089265146c04a412e437a14e629e6895512812ec6024fde5a7cf71ec651cb89352561cfafd3530fd93f008f4df95c4efcd0c62dd8a0753f6e8c3239f6072aeea9c2ab4ef47275781eb130b3a0db6d33963f4c4aa88b388ec811c8ef0dfd6c96eefbe344759206/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2cd30ade8cde97d640ff9bab71e4c61/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/71c5141f90c3107d5ee2f712d07ddb595fb955677229b61348f089265146c04a412e437a14e629e6895512812ec6024f4d66ce8b8db1e60a03304a95ecce938b26d51aff5746b2fc3307025604be5025ab679d22d5a41b73d8d110d126d900a05f6f3c3068da0f0f6f6f6df83c93f306bae4af5c354f669dc9c86d65bc0a3b602b09f8018f3f5672c9ad314965fdb6ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2cd30ade8cde97d640ff9bab71e4c61/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "British Labyrinth",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38514",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5659df7024b1149b5932a65a3eb2ef356c217a9218c09f3b4687a0fa98b277c0566b6cf8603e56b97c0fc59c7721dd4e7d69435f0b8e23eb726f0af12f8919adf8df01dc1443a09c29c689fb03e0f6c43b9516d0d6f265b9fce7cb098b25b4485097936e31196253870afc76faec075db2ea9ec27f40ad50b9591198beb7f6e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5babe25e9c8d5bdb2a2f7412c0be2f1a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5659df7024b1149b5932a65a3eb2ef356c217a9218c09f3b4687a0fa98b277c0566b6cf8603e56b97c0fc59c7721dd4e1e6b7abf043d0505f4a8a51e8776161fd87ff678bc0b3d1e9d4db26427a9dcff5aab3ef708755784a18f159df79aa78724e2c2e9508cc7b5235e8216da09abe0f761570e445457bee393c59ea1697a17af4eeb535ee1547f8712c810fb010b53/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5babe25e9c8d5bdb2a2f7412c0be2f1a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mercenaries",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38515",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/377d3b7fd5f21a7cd5f2e76f616d72cd882627a95811df01f10ebc0b74ffd2b474971804a55b6385f7922a4a1fe123df8d81abbcec183afeb9069f583bdab7d37092bfb096f81edfa542bf058643d02f4b8730f8aee80a72ac974c7ba3fb5ee1783f40825b6cda742c65a0807235320d1eac43df38daffc535b8919fe760b572/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54694bfa33e42824124791fc27953c2d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/377d3b7fd5f21a7cd5f2e76f616d72cd882627a95811df01f10ebc0b74ffd2b474971804a55b6385f7922a4a1fe123df408ccf53b5ab180c2f2b61aa0d56d630238914fec495d9034d47e42ecc2dab2438b42ca811a5dc6e3914fb33a3051094b6a9d9d8b59f1186fe5acef9c58ad7f5fc54c009fc8f352219c8079ce0a8572d4a9b6c31d52e943e8cd2c5d028637e9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54694bfa33e42824124791fc27953c2d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curtana Original",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38516",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d154e3f3ccc53549349ff14f7be9d1ad66b442359e5b9bf7e02bb6aae3eeb6cdbd11eeda286c13413bae98a2c702b09f077e8a9c1777c3bdc1c503912515e6bd782390e24e5aea3d78b726a352087866e3860be2c06c9b58e441cf2cb764d39d86c98becd19c1cc9a26e4819dc70da3183f246e585f8b5b466aa96e35b117998/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78c847d5eed4b4c788c669e27f224c35/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d154e3f3ccc53549349ff14f7be9d1ad66b442359e5b9bf7e02bb6aae3eeb6cdbd11eeda286c13413bae98a2c702b09f0ba6c101184ccff90ea4acf1f08e0a6d9a021d00822b6645f7b190dabca23355ac6f5d6d94c06a387fdf9f8a81dd8f08d9493a9578cc05e2ae16a15177e2f569cb148cd83084408c8dc6934d2467b8c813cdf71962de91736772a57ec2b94a67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78c847d5eed4b4c788c669e27f224c35/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Heroes",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38517",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3e7342eae738d8b6b4bc5de74d5cb5b1fbf94872020e83b6c5ccc85488dd2024bed293715ccd8bbcdef2ad5b244b03ff1f5589823442ce342eaf6cb45cb2475d039fd5004964df2111a83e37e67420e15bc1599ade5aaae08d7413818776653a6118e6a25d0e3d40b5de570ad6a73b04259eacf653a53718a8cca6c9153712c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52cd52c12ad592bc0020c6fd3d4d55b3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3e7342eae738d8b6b4bc5de74d5cb5b1fbf94872020e83b6c5ccc85488dd2024bed293715ccd8bbcdef2ad5b244b03ffecf0efe3999b22c9471163d17e271f142d6f5b0862d4a433f8bb0507523b7da7032e60e08ebeac7d4a25232b31b8cfef4344ea51d37884954ba4aa9a05c0784f0186f43836800ac89094feb20af3728b77da7f0982d3b4a466701bef3fdddfae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52cd52c12ad592bc0020c6fd3d4d55b3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spark Signal",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38518",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7160aca33d8a865d45a4df95391628a7e83263175b94e4aad1295d18eeaf25540eb8f3b50ea5065ef806b30feed2f04ee02c94302339be0d3c38c9dd073b86796ad7659757a8bd81dc7e9623fd5629c982a72a29c505b7af92ef697c0446ce56450a17919c25cb19b2a8a6ef0441a6b025bd6b5ca3b2745e5c2c8f7ce9bff9d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ed4020d4287ad997c483850dbb9e15b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7160aca33d8a865d45a4df95391628a7e83263175b94e4aad1295d18eeaf25540eb8f3b50ea5065ef806b30feed2f04e1c934ae0e8d70c6ef4627d16b5aed725099a3c7b7e3c256d1eac20dbb66c657dd73bb784f86bfa248fb21472ce09b86b5a897916092349ded01e95a8f3ff971e261194322cfa1b140f2ffa3ac7bb926123b4fe71c0082ec8f3f2b8e6f7c381ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ed4020d4287ad997c483850dbb9e15b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Governing Board",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38519",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bec3ae65bf681b5b736222b89fc971bddfcf080f65f5731ea51f892c65937c0562e37f35a3c47f95ceb347c9d53a53966350008150145b2cf1ef48e790c80e25c29af6c688ec0141fe1c4d2b70981664c5ba43774f4285f319de308d6134e32765a4527ffff9834b5358c46b10896b79c207750834085646f09844617e9eb105/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a678230911144f64c303e8ebec41e33b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bec3ae65bf681b5b736222b89fc971bddfcf080f65f5731ea51f892c65937c0562e37f35a3c47f95ceb347c9d53a53966c84ba4c1168dc984a04beb99a65187ebd434b91f0891bc1a6b7eefa63a4cff095d9fc6acec00c2d212c1598eeefeb28ea138cd26b3f3125b89f92da3fbc4a05d0d5141a06f31dd80a55318922550e7a83889314a24b9542f57257662b5af27f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a678230911144f64c303e8ebec41e33b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38520",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6f742145b8eaa3c82e0cf21515ddb8ea646cc6229afab5f5f32363867b3ba9e218ee797605061d3c51d617cf26f0bcb2352c2c2ba543eac078b1ea49af5f58bebb845dd671561f81ce4409359ddc0737acc6fed7cd2264389104a3e7d511971b6d6f6b6508008c419088490f4863f02715ed02e0e2a6e630b6693d9f4c2802ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e362e2702d379b46a78fef298e7fa46c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6f742145b8eaa3c82e0cf21515ddb8ea646cc6229afab5f5f32363867b3ba9e218ee797605061d3c51d617cf26f0bcb23b690482ae77e424827e04be249b2ddc52131fb1b96fd86a79fc938ff36b3c1fff8d46b047691dc5f2fda6eca1c34e694ca64c89c031bc2189fe0d0333f31f96163ccda3fcdf3c1048048d68b953464144372439dc97cb1489a23a5a2dac4cf5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e362e2702d379b46a78fef298e7fa46c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Alliance of Independent Nations",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38521",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/e14510af816dd227eddfa4d157975bde5418e7a8c222d003ae277a576be68474500fb409720dc51ebb7af91f437d1765c1f719ac6cdeae9bdc75ab2ee36d0061c53f2145242233ea5f1bc58ff2e62e1f9a5f85ab9ff30b8a939816de98fce1f2b007be58d35d79984986ad081b820216eea77d043b389c33da66f675bc130aca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/551a4fa29922d76a81fd7712f694a480/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e14510af816dd227eddfa4d157975bde5418e7a8c222d003ae277a576be68474500fb409720dc51ebb7af91f437d17659cdb6f8c80e1bcc4c87c3ce38b541473250fd2fdc8aede4868cdb5225e06ad7af03cc4e35f7e1bb95c3d074602cc421dde691232011c89ddec3d690e79b828ea247784f03bfb7374cecf5423cea178cac0dbb8e36c3b40f4f769233bd667f3f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/551a4fa29922d76a81fd7712f694a480/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Misaka Worst",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38522",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1f793fca0155620c4820eb39f2186de3992995e302c252106df5b736f8e955be5879d9d7ea54e613d683f225290b792efc59b4493c112c596ff4cf4cdff44a78366e0b1fab6aa3c6262b3c6f4eb6c5a97af3660c4aff5b11de8384cfb0744ce4b44f9617be233a7145878b9a08e604a3e0165d409dab797698891417a19ec119/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4433988214d46aed8ed5406769cddf35/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1f793fca0155620c4820eb39f2186de3992995e302c252106df5b736f8e955be5879d9d7ea54e613d683f225290b792e9a3e0b69ba061c4050a67a6769a2a2b50333765d7c8ea6289294e294937f4da746754ec9a060a691202b33b308e5c4e19e219a788e20cd63e5c215803fee83e052f82f13b45be8e989cb12de432801c2a29d89e527f29748862bc3c1b3748059/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4433988214d46aed8ed5406769cddf35/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Reason to Protect",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38523",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1e178b229c32d6c78b7dd0ed64c9510d8e6e9af666231a5ee72da203ac9f954d0bf7e78224c0cb78a23b8a6a73cdf157f53bc638000f96d14f5c3ec28f9444cf7df6b81cb90bf0b5837bbf0982ad61e176085ed81c894ddc918b656f8a2fc436a171273175b67911662c8fc8a4ef7ec3495a098815c437dc7bfc82e769afb135/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/14efa4f1e71cf201d14eeae73150a167/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1e178b229c32d6c78b7dd0ed64c9510d8e6e9af666231a5ee72da203ac9f954d0bf7e78224c0cb78a23b8a6a73cdf15739efc388cabb1359ff1d5cdba1a656d88e1bd5388c9fc903fdb4a322a24841c3ddabb78b1df4b86b5685daaac67745f342076a08f69619ecc1272d92d52f1ffb01a4bb0ca09fb6c18dadb73f7d72686e2abe4624b0d549015a91bd89bff211ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/14efa4f1e71cf201d14eeae73150a167/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Star of B'Tselem",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38524",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/881249e7621ee7e7dae831209be8b5d8786523f442c8d6511f805776a21d8c78fc5fa0c3ce197655cdf5ebf9901561241ea9ae8d379e44b7439e8bce2408dd4f7800ba3065615bc432f03539ae61ad64caac9c02c4467ca4262676c2eba85c9f72ae920720d220bf5bb1778b85f8f6c8785f2fdbaeff2bf857ef22bf0b74fa8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c7e7e32bcd2e90ed0b4390e5915a6d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/881249e7621ee7e7dae831209be8b5d8786523f442c8d6511f805776a21d8c78fc5fa0c3ce197655cdf5ebf99015612496b08d57257d6830ed0f2dc93027262d1e23fef3534960402fdb31b99981031debfda3d9f990ebec5dab82422779025893621b0a49bcf549267cc9890df5a723acc831f64efd850a1ac1d0b19bfee52ecf44af09cede19321246b7dd1efe2416/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c7e7e32bcd2e90ed0b4390e5915a6d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Angel Power (Gabriel)",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38525",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2eeb1582936b26b5e2a1d9a7dbdc4099f06415b91a1666749f33370a6b33079bbe5c61d019745fa5a44c7eb2033465405772c4177dd2c09f31c0c1c41c1400da40c378f64cbb456c69cefe44a26be7e2e5909f730af6c54b03901299a199e707df77e34a35aaf67c7d78d6ebcb013753a1c504da240b1ceeb73937ab25091eaa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74bd35818055ff7ae1e3dd37d2ba283b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2eeb1582936b26b5e2a1d9a7dbdc4099f06415b91a1666749f33370a6b33079bbe5c61d019745fa5a44c7eb203346540e1a2f93c764a40a0518a393e7f57b40986d038e2b7b243b058fea5676ba6b20bacc13c39e7a08eb25294039180e00f516c3b250c4cd85297de04c2f53dd669498be3664eca777fe7fabe126028f753315e32711bc282e57c2d5aed650b9283d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74bd35818055ff7ae1e3dd37d2ba283b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fuse=KAZAKIRI",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38526",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9c75e6d176549756894adc5aa8442a71f918e254202c3595febd73a317067bff6fbe9e884dff1a7145216de3f1f1da1f138785226f1d9152634b0f07f053f094fa8e5060ddb31f318a1c4566a2dabfb46c2b0a411158ced5b58397cc88d69a0fd0af6bc3bb32c77658291efbf1416081889b5726a0e0aa812913852996156271/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1ce21999437796469c97c984eb3524c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9c75e6d176549756894adc5aa8442a71f918e254202c3595febd73a317067bff6fbe9e884dff1a7145216de3f1f1da1f0a2e1a9a1acb4c83693d183069afc0dbb973020a0ee53f6f13eb9f915d7c331d8889220058eadbcc9a40406213fc5229043c07f3a73ff7471e20492581544b4125be97715ff9499cb3d8dc2277ba002ea65b179ec79bc6e1536eec4e33f3033b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1ce21999437796469c97c984eb3524c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "List of Prohibited Books (Index)",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38527",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a110dd84813af8ff261cbcc692347033797a541d15220acf255aa5d7a38a8fadafa0db22b977f42e3ed4c5e89a8bb981ccd9115be827396a4cc44bf41a7fd9ca44f5817f85933987dbdbefafcf7d834d259baedf390f5a8f108dd9a8a377300a663f0e6a1a4ce118b062632299d6b492f7980e78f41778dbf4c97d44a86cd9ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/490d21b2e7bf3bae8e3462a3a0d4bf37/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a110dd84813af8ff261cbcc692347033797a541d15220acf255aa5d7a38a8fadafa0db22b977f42e3ed4c5e89a8bb9811f6c7d030f05085d4f139ea6357f5966a356bcc76252dcc8622839258273e0d826de8c12d44403f56de98d6154e17b1165af72be291c8356b02116d9c3146baa7a96eaff6cb7dcb2717ef440ee5f775e798e6bddf69000bcf6b3b32a005abf70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/490d21b2e7bf3bae8e3462a3a0d4bf37/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wings",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38528",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e79dc85475cda667fd6c5ed40064309f9bc7bfb95e77b67b72ce1a69e8d46c054984f51c20241c46ecd3d99fff43ede07213b462c71fa88d30d01cecb6c9c929e78fd59bfd35fe0345aafb44a11246f7163743e2a441e03d0335a24f30f03a675a7f8c2affed0b4d4f6b54b185e514e7535b699b0d02169627e8403862434e0c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2df4f6fab9357896157610a48790b9b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e79dc85475cda667fd6c5ed40064309f9bc7bfb95e77b67b72ce1a69e8d46c054984f51c20241c46ecd3d99fff43ede0fe60d88b8cdf99f5bcd91dab2428bbb3c3742b3967995fbeb0c3bfc54cac98119aea94fe3c403a51bfa71e013a300f561f430fe9e17e150d3d04599001aff3482296f7de177b664bf1025e8c8a15343c3cc52e09f968a41813396e76060ceeec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2df4f6fab9357896157610a48790b9b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Son of God",
+            "episodeId": "a-certain-magical-index-iii-4605?ep=38529",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7d82c109f0aec37f6574ae76738ed4e9527e129f3a43bb4d5e4896eab9a03a19a0489f48e69cb750e3bf2980a810bb191165336b2f284eef3dbc55382ea24f62e9acc042d61084d20bd01c98baa6f0432a29e1d27ea77f89c78ac48860cdae275df1aa91f8a41c5de882a57ffc5aa45a022bbbf7684182bfbdc1dd346b654507/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2264df1fcb7b0100337ec6849bb2767b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7d82c109f0aec37f6574ae76738ed4e9527e129f3a43bb4d5e4896eab9a03a19a0489f48e69cb750e3bf2980a810bb193c1cdd43640a5e83d72b884f9b4c942c826a7eaac444fe5001b4489daa5c0507e4008c362b225ebbb85f1c3a99cde9b0958b3a4e5a8001ee118456e451e1131437990ccfc2e6ce41248e2621d2023caf5a8bc352bbf6cc7fe428923988a80714/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2264df1fcb7b0100337ec6849bb2767b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}
