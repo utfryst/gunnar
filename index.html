@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
+    <script>
+        // Funktion för att detektera mobila enheter
+        function isMobile() {
+            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
+        
+        // Kontrollera om användaren är på en mobil enhet och inte redan på index2.html
+        if (isMobile() && !window.location.href.includes('index2.html')) {
+            window.location.href = 'index2.html';
+        }
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime Bibliotek</title>
