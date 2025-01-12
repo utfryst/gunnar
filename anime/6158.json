@@ -1,0 +1,73 @@
+{
+    "info": {
+        "id": "himeyuri-6158",
+        "anilistId": 0,
+        "malId": 20469,
+        "name": "Himeyuri",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c768d4470a5eea2540c288f8e649c29.jpg",
+        "description": "The 30-minute film centers around a group of high school nurses called Himeyuri who served during the Battle of Okinawa during World War II.\n\nThe Himeyuri Alumnae Incorporated Foundation, which runs the Himeyuri Peace Museum in Okinawa, produced the film with the aim to convey the experiences of those high school nurses, many of whom lost their lives during the battle, to children.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "31m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "narrator-85398",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/071353c989efc1399974e145cb372ea3.jpg",
+                    "name": "Narrator",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "asato-karen-22633",
+                    "poster": "/images/no-avatar.jpeg",
+                    "name": "Asato, Karen",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ひめゆり",
+        "aired": "Jun 23, 2012",
+        "premiered": "Spring 2012",
+        "duration": "31m",
+        "status": "Finished Airing",
+        "malscore": "6.42",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "producers": [
+            "Himeyuri Alumnae Incorporated Foundation",
+            "ASIA Documentary Productions"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "himeyuri-6158?ep=98188",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0a4c1aa457f55265ce984469be6340a60bc1f6dd91c0328cbce0bb46edbeb6968c8f6ef7adae12ad154844aff549a0bb0aca24dceba875d59082496e82f78e4b9605a9007a8cd943888ac01f91649cfac14f1b72d18eb2b4f6229ce539cd459e9d841ed6e9ff0b402fdac9514b31a9d6fac8d4876c36971188f8cc22efb4ded4/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0a4c1aa457f55265ce984469be6340a60bc1f6dd91c0328cbce0bb46edbeb6968c8f6ef7adae12ad154844aff549a0bb536e7ca91e8fd747617ec0070913e5cc056e66a8f0ef2e7fd528eccc94366562986dcf20f36b3c66f2a5a2c3ea201e066cd095c7b4798028cd01d5b4656a871c21e5c94299bff36d0ffa97cd55357ee6764d362743d05f055f0c8c32bbadf087/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

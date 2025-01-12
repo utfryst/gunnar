@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": "the-guardian-brothers-6120",
+        "anilistId": 0,
+        "malId": 32751,
+        "name": "The Guardian Brothers",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b23da9ed255a6108fd372ed1cae30a6.jpg",
+        "description": "There's a crisis in the Chinese Spirit World -- humans don't believe in gods anymore! A Door God, facing unemployment, ventures into the human world to prove his worth, leading to unexpected encounters and transformations for humans and spirits alike.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "49m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/pAGMDOZhloY",
+                "thumbnail": "https://i.ytimg.com/vi/pAGMDOZhloY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shen-lu-57557",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/71741cbb9e26a833367486397b6598af.jpg",
+                    "name": "Shen Lu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "yu-lei-57919",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d637ca8fa9a63bba28b561d4a27e5e6e.jpg",
+                    "name": "Yu Lei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "小门神",
+        "synonyms": "Door Guardians",
+        "aired": "Jan 1, 2016",
+        "premiered": "Winter 2016",
+        "duration": "1h 49m",
+        "status": "Finished Airing",
+        "malscore": "6.44",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "studios": "Light Chaser Animation Studios",
+        "producers": [
+            "Light Chaser Animation Studios"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "the-guardian-brothers-6120?ep=127070",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2f5f11dfd513861ba791b8262954127493fc5ec2ad9f75df7e004a51ee307ddd5b56b0c0d718857655c4ab7b913724a766f834799d9acee28cba3e6ca7bb4cff7aad9408f99dc7534798e1869bb86e1338bbb14fef3fcb341136877bf15fcdc4e888e66b10a4cc6f288e9c186b953d893c7e89d3addd50cc6808acaf8ae2079b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f66c7184662d2646badea6796cbde34d/f66c7184662d2646badea6796cbde34d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2f5f11dfd513861ba791b8262954127493fc5ec2ad9f75df7e004a51ee307ddd5b56b0c0d718857655c4ab7b913724a75eb7a712bac8d933ca8374e416da5df28c261fffbda45ecffdf68bcf99bc17d453ffbbc3c69922ce05edef03ed70561dd7be14f8db49da778a1bba525fc87e5c99bcb3b4b900825a1111f7fcb2c14cf784875bd82c96f97ac1e880f735c64ae3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f66c7184662d2646badea6796cbde34d/f66c7184662d2646badea6796cbde34d.vtt"
+                }
+            ]
+        }
+    ]
+}

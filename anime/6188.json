@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "animal-treasure-island-6188",
+        "anilistId": 0,
+        "malId": 3842,
+        "name": "Animal Treasure Island",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c61f318a6a514d09903cbc68669cd1ea.jpg",
+        "description": "Jim is working as an innkeeper, together with his friend, the mouse Gran. One day, a mysterious man visits the inn, leaving a map behind. The map shows an island with a treasure. So the duo sets off in their own little boat, trying to fulfil their dreams and leaving the inn far behind. But it seems more people knows of the map, as they cross paths with Captain Silver and his band of wild pirates. Jim, Gran and their new friend Kathy tries to beat them in the treasure hunt that ensues.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "18m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/HK7fkSBFrcU",
+                "thumbnail": "https://i.ytimg.com/vi/HK7fkSBFrcU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kathy-56325",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ae41dbf372283dfc70fd73fbc9dbcd6a.jpg",
+                    "name": "Kathy",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "fusako-amachi-14517",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b64cfad8bf72cb12cdaa9e3692a4817d.jpg",
+                    "name": "Amachi, Fusako",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "どうぶつ宝島",
+        "aired": "Mar 20, 1971",
+        "premiered": "Winter 1971",
+        "duration": "1h 18m",
+        "status": "Finished Airing",
+        "malscore": "6.43",
+        "genres": [
+            "Adventure"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation",
+            "Discotek Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "animal-treasure-island-6188?ep=90827",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/432da878c6d98163b2d2f1db9183c5da800288e6a699ba1f433357cad103ffe5be97f1d67c63798294f1f1a03e11fa6bced6c69467b1ddfb9d812a03e87dd401f94dd6e486e2ea852d23c68cc2e16594a79f5e212275b3abed4df08b863ae7d04c0a0e328df0b7a46e9b23c7e8d0167baa9fd4e91e60a230b304fb4c933acca1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1f7e2abf4f8f3f419c272174e54c3fd/f1f7e2abf4f8f3f419c272174e54c3fd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/432da878c6d98163b2d2f1db9183c5da800288e6a699ba1f433357cad103ffe5be97f1d67c63798294f1f1a03e11fa6b92b4e0bfb8cd85170877e625ed3cba3966a73508f913b2d33920c81e5c8e91283ab21f17e4b01ad2844b567efd30646307164642fa9aa3368d73360ee088e8ec7aedb14f3c22234bf2628be4fedc8a1e67bbb33fb8c6151676182c2e924b691b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1f7e2abf4f8f3f419c272174e54c3fd/f1f7e2abf4f8f3f419c272174e54c3fd.vtt"
+                }
+            ]
+        }
+    ]
+}

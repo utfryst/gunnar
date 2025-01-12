@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "legend-of-the-forest-6173",
+        "anilistId": 0,
+        "malId": 2456,
+        "name": "Legend of the Forest",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2be915233808bcbb004998c5bad0f34d.jpg",
+        "description": "A tranquil forest and all of its residents must face the destruction of man. A squirrel, born and raised in the forrest, fights to defend his home and faces trials and adversities along the way.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "29m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "flying-squirrel-33173",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/390692c63f0bb6b03c56dfe9ebf8f28e.jpg",
+                    "name": "Flying Squirrel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "森の伝説",
+        "synonyms": "Mori no Densetsu PART-1, Legend of the Forest PART-1",
+        "aired": "Dec 18, 1987",
+        "premiered": "Fall 1987",
+        "duration": "29m",
+        "status": "Finished Airing",
+        "malscore": "6.43",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Music"
+        ],
+        "producers": [
+            "Tezuka Productions"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "legend-of-the-forest-6173?ep=105487",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4ce83128cfdc3b37341bb87454dfdfe13b4043244cd739840fbf40864d41e2001086697b031104a11e5ee07ab77cbe516c61116ed16167bd8232118b405eb959db9f7ee5a897d93f3a4c031ccde80c80b14047284fcfe78a914158de773aa615a935bda72958b849da8a7704fdffe2d03903f1e8cdeb9cd2f44de65b065f5533/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81a8454099076821d275c507079068e3/81a8454099076821d275c507079068e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4ce83128cfdc3b37341bb87454dfdfe13b4043244cd739840fbf40864d41e2001086697b031104a11e5ee07ab77cbe51e8b69ac23bd895df9a8370e127f6200726ba71da47ea828aa914560f5f879c5885cd3b52b0aaa8b59b3e8b447666e2c3b31561fa93b34d1a815817007bf7c2715267ff24d4951daabcb5305ccfe1fafa0e1735770ac98ace56fa2cd0e4a8e934/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81a8454099076821d275c507079068e3/81a8454099076821d275c507079068e3.vtt"
+                }
+            ]
+        }
+    ]
+}

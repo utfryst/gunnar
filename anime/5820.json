@@ -1,0 +1,578 @@
+{
+    "info": {
+        "id": "the-qwaser-of-stigmata-5820",
+        "anilistId": 6500,
+        "malId": 6500,
+        "name": "The Qwaser of Stigmata",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74b1dd6dfa5f7f09a37d1844edcd125f.jpg",
+        "description": "When Tomo Yamanobe's father—the former headmaster of Saint Mikhailov Academy—disappeared, he left nothing behind except for a piece of art called the \"icon.\" Soon after his disappearance, rumors of a serial killer attacking female students of the academy began to spread.\n\nAs Tomo and her sister Mafuyu Oribe head home after being tormented at school, Tomo trips over an injured silver-haired boy who abruptly vanishes while being tended to. Mafuyu goes to look for him, only to discover that the church holding the icon is burning down. When she tries to save the painting, the rumored serial killer suddenly attacks her with a mysterious ability to control magnesium. Appearing out of nowhere, the silver-haired boy, who can control iron, rescues Mafuyu.\n\nMafuyu finds out that the boy, named Alexander Nikolaevich \"Sasha\" Hell, is a \"qwaser\"—a being who is capable of controlling an element through the power of \"soma,\" received through the act of breastfeeding. Confused by the ordeal, Mafuyu attempts to move past it with little luck, as Sasha transfers to her class the next day. What will become of Tomo and Mafuyu's normal school life with the danger of other qwasers looming close to them?",
+        "stats": {
+            "rating": "R+",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/mr_Sus560xM",
+                "thumbnail": "https://i.ytimg.com/vi/mr_Sus560xM/hqdefault.jpg"
+            },
+            {
+                "title": "CM OP version",
+                "source": "https://www.youtube.com/embed/mnG68JyRK-E",
+                "thumbnail": "https://i.ytimg.com/vi/mnG68JyRK-E/hqdefault.jpg"
+            },
+            {
+                "title": "CM ED version",
+                "source": "https://www.youtube.com/embed/LQz9DR3RuCY",
+                "thumbnail": "https://i.ytimg.com/vi/LQz9DR3RuCY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "teresa-beria-9936",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e48d36ba8e307761f4cabf9da7d86504.jpg",
+                    "name": "Beria, Teresa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "minori-chihara-178",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4624ca98f5636ef17efa507f4a072aeb.jpg",
+                    "name": "Chihara, Minori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alexander-nikolaevich-hell-1711",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7502f392001464900aafa7114ddba0fc.jpg",
+                    "name": "Hell, Alexander Nikolaevich",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuko-sanpei-629",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d1b179d30226df78d634b002db6be049.jpg",
+                    "name": "Sanpei, Yuuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hana-katsuragi-8022",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/baa9bdace40fd8db6a733c4940e1e8ab.jpg",
+                    "name": "Katsuragi, Hana",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoko-hikasa-46",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0f4539ad1175c16fc66aae699c20ce63.jpg",
+                    "name": "Hikasa, Yoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ekaterina-kurae-2143",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d50b02f09f9fb160b48803d591aaddae.jpg",
+                    "name": "Kurae, Ekaterina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aya-hirano-21",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e0173617cd62c0742fb9a826be8b869.jpg",
+                    "name": "Hirano, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mafuyu-oribe-4795",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3fa03ffea5c98068cc58e649afd99f44.jpg",
+                    "name": "Oribe, Mafuyu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayumi-fujimura-506",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3af42537753b51e8eab656059fc03f00.jpg",
+                    "name": "Fujimura, Ayumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tomo-yamanobe-5607",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a00095ecb3c4313f42b88d5d7e2560a.jpg",
+                    "name": "Yamanobe, Tomo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aki-toyosaki-60",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4854184378d2c54e1d939a56abb862fe.jpg",
+                    "name": "Toyosaki, Aki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "聖痕のクェイサー",
+        "aired": "Jan 10, 2010 to Jun 20, 2010",
+        "premiered": "Winter 2010",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.49",
+        "genres": [
+            "Action",
+            "Ecchi",
+            "Super Power",
+            "Supernatural",
+            "Seinen"
+        ],
+        "studios": "Hoods Entertainment",
+        "producers": [
+            "TAKI Corporation",
+            "Hoods Entertainment",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Trembling Night",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42653",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4d4b4c1714ff5ef160943702e2a8c3c2605a1f01e7aec012a10a6add01b1d1e5d5bdb8e01f8dcee12328629cd933870924f4cf6415cb71bbdd47f533d46b8b1a43cf6c6130a576756eedcf7d235700a17b7a8462b648f86c79e1386274942aa85f47bc36c4ef3576d23fb835d48eb89b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d38750bcfdbb2a2d2343cd719f177261/d38750bcfdbb2a2d2343cd719f177261.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4d4b4c1714ff5ef160943702e2a8c3c2605a1f01e7aec012a10a6add01b1d1e50592db4e69138c5ff0b27a908bb8cec912113d4d011d37a946ba83b8bd4967e20d04d7b01c7152d7f3f1c044d4bd4ab4bd0f08dbf79634ee157c64396200ed7e5c93b3c6a4e8b9291b5b90120a92b1148eb61a9bc557da5f1710e20e6f3985a8a0e41ea7e3d3250bcefab0104bdb7dc5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d38750bcfdbb2a2d2343cd719f177261/d38750bcfdbb2a2d2343cd719f177261.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Masked Friendship",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42654",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/69a0d6d17bdfb906a6888e6b4042e056710b630f9c770dd0756fd717931a0ff3737ae59c17f0528c70827323f49f8094f0db4c0bf5f9f0890fc5089df2e5e2cb5ee92311a4af820fe588803636a6c7082cf57d7dd0df2dd3585f4fda5fb538c24bdb384bb227f6190d38a2c916d70382/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9718b5c635013f53e82969633d6413bd/9718b5c635013f53e82969633d6413bd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/69a0d6d17bdfb906a6888e6b4042e056710b630f9c770dd0756fd717931a0ff324b1cf552d8daaab0cc7a2d529a2e21c518895593a5bb79d4fa555c8dc3051becff55f94abcef6e45c7b9f9a116d7b5ed4e693983a2c06f69e9a0f61c94927be07ded202ebe5e228ca8e16ed9fa538adeb11117e2ea13a5f45f65b588a63c103d9f9ab75c6ca7413e7153d79ee71b7c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9718b5c635013f53e82969633d6413bd/9718b5c635013f53e82969633d6413bd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Those Who Seek",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42655",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/17cd6c846ec28d2b285f5113bd71761c21bf8362d7019d4e9979ff08846c206dfa69ef0443a75eda876e20267250371b639735fbad8369ac1882b49d760472ff59e9369669c28dbd0be227c1671ef4db5e5d83293929db495a2ce47af0784e77e0dde3bed765d21d267d0673259995cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bbb6945f6b3aeb1661adcfbb4c3fe72/7bbb6945f6b3aeb1661adcfbb4c3fe72.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/17cd6c846ec28d2b285f5113bd71761c21bf8362d7019d4e9979ff08846c206dbb5b7ac8b48cb352463cc92e97a363cb076d26b54bc6c297d6321da841233072416e6cfb6aab5ae0a712e3ea6935b59a52cf7ded82d5830fb2dae8e15d700fee144a36c3ba6b13dbec47dd12b270c8e2ae3f44d4518eacfb06f33c7931a666d55a1154de4fe52c39a92012772616e845/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bbb6945f6b3aeb1661adcfbb4c3fe72/7bbb6945f6b3aeb1661adcfbb4c3fe72.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Queen and I",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42656",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9f8f44ec0ec08a19fdd9a9afb0af4abcdca27c17b564ebb0ab8e582349cd243b76d7e67ce66317972c6720d0090e6b98d6038628c3ca2ae7e082aa9e0d6c3a80a058cfaf7e447fbe01737e44ff8b2b436020dadd0697b0767b1ab8cb524e2f87d6e8067bc70a823ef3017d60e049d91b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65db0160955e199b9eb527b6ed497360/65db0160955e199b9eb527b6ed497360.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9f8f44ec0ec08a19fdd9a9afb0af4abcdca27c17b564ebb0ab8e582349cd243b02cb7d9b7ab8f891af86d255d38247a9ca80eb08b089cc0e9934d98d6d09c0c0e52702ed8a23c07e891d56ab803860b7f5b1ee0f516d09d8612a009b518515141a52847ed4f3e686e6af9611100ca87c6174a103d5b46e71627cabccf9aa407a934fe91cf256358b3b1553ee23d92d72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65db0160955e199b9eb527b6ed497360/65db0160955e199b9eb527b6ed497360.vtt"
+                }
+            ]
+        },
+        {
+            "title": "White Lilies of the Battlefield",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42657",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2c1c52b795b83f403e6d68bd688d5612cda51e43e13744a7cc25ac786dad40c227e642d7ba7c285d39a3fbd68021b80829192cc65f0e17b715cc6582e063c7044fe44e5151f474d9ab5db52fbb91a17178af9a224d8ea8047a7579ce37ea6a379414e09a48fdf12740adfe6e77d921e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a61ecb71f4c0ed63ca5c4ae065639f92/a61ecb71f4c0ed63ca5c4ae065639f92.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2c1c52b795b83f403e6d68bd688d5612cda51e43e13744a7cc25ac786dad40c2ba6b20618a8e05a0ee939778ab8c860ad3bc5b4ec46649a243c7f7b6ac3e1b3e309c5f5ee9e323e2fa7a06d880ffce27d0a4d6a6818efd8c6d9c68a3e2174466596b693a5554bb5e99689dac4ffe8fe15437344c30ad3d6299ea39775f86e19f19766c5092200e69a86c0c168223c18f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a61ecb71f4c0ed63ca5c4ae065639f92/a61ecb71f4c0ed63ca5c4ae065639f92.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Princess’ Egg",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42658",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c3e7305c953225cd10dd28e7c8429a6ed92794945f92dedc13b66f53c70cb8261d52eca0f435333fe15e5208ffdd8edc1c495b409a65d750cadff96a21cd36ced8a45d567634965509b1e923b2211d81bff6ebb4e15c5cd24910f8cda3bb16d63ecc309fb5dfb9ef26b73424d83ec2ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f58c8a105a472dec897ab42473264428/f58c8a105a472dec897ab42473264428.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c3e7305c953225cd10dd28e7c8429a6ed92794945f92dedc13b66f53c70cb826723f437757635d336e740ffaff629bd1fa8014062c6e3d68c81c7ce0403682c03803af7a17a910986dd7ab0f4c49c0e44d82cb30436d3cd9d179573b4dfcd8a67d5ef060c982820762a756a0bbbfdee5f88b1ad21f08d8210082cd5ea7d09cfb55c8eb8f9e9fa38f22dfd15864e8f9be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f58c8a105a472dec897ab42473264428/f58c8a105a472dec897ab42473264428.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bleached White Maria",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42659",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ca8db481427a1efed2ddef31a24bebfe92684177929e71712de37782fa03ca6124bf4dbb3331e16b4a5a4217683ae7009147e03701673d9d55cc9a43683abec800d0c274d4496779effb1eb534c0daf77e0802af73aaf8a20d8c0b6aeda600a484625486aeeae2a89fb23be5b69ac2d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d25b9a6ae529397166a1df008e1e7e8/1d25b9a6ae529397166a1df008e1e7e8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ca8db481427a1efed2ddef31a24bebfe92684177929e71712de37782fa03ca61e4c7b9afd81b2d6036ea21257f0c31cd3384697be14b8f5123ebbb5516b94f0c472c04eb236ea8f7525b3b0a061ff63ef8e0e5c27abc90dd58331c8c1b3edc750104ee4fda92759f9e9812da520cc2b2547802c96dfb375fada4e731a0e40c877e27645be026b93cf7dc27f385e59a3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d25b9a6ae529397166a1df008e1e7e8/1d25b9a6ae529397166a1df008e1e7e8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Atomis of Two Faces, Part 1",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42660",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e2ad7a049655cffa48a25b0c064b4fbb5461733183c651d303a477900eb883e66def70584dd2ef4f9f9441bd3db384dcf395ffd759ccdc0e04e1aa80000bfdf2d31a0b8c6c7bae0b3d9721227c384c6014762704f078ecb1ce019f553a4cd4722f92a6529537b14f16a4d6cfea40e354/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/beb50e373cf0ee1b8690b9e4a42e2098/beb50e373cf0ee1b8690b9e4a42e2098.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e2ad7a049655cffa48a25b0c064b4fbb5461733183c651d303a477900eb883e64457dc82402e719f871f231092a8bc3e4a9b39a9b57971a57c8b328cc38eb78fa256f76d3da7c48dd7f2a45405095b8f46ebbbd7b859c653b4bb6e1090515051d3ac055c68d7876b5ee9da1def1a7c026bb0973f7af249a794b91fd8bce775eaa6aaa5878ee04376166276e709070c2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/beb50e373cf0ee1b8690b9e4a42e2098/beb50e373cf0ee1b8690b9e4a42e2098.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Atomis of Two Faces, Part 2",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42661",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a07d97a7624466b73f68cbdcd0a8341a1320323f63741c75fa215392eb30ad23cae3692e42637cbab28cfcfe27bf638e692b36a7ad8c20c901eeca9e5cd69cb4527bc65616a3e9aa19bcbaf84e89fca76b592fab444884b666de833d456a8406b96772b88ce3acde9f1b44404e60ae26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8b660758f480df3bcb1297782d182ab/a8b660758f480df3bcb1297782d182ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a07d97a7624466b73f68cbdcd0a8341a1320323f63741c75fa215392eb30ad236e8168acdc171ef7bd4fbc06937c7a16b0ab5a94d8bd7850bcdd054af0faef8a8b0f74194941750d35448ff419df5d982fdf0d63198c9785d8ddc49e870ff92ac40ff73c4fe86732c6124f2fb98286d4b7e308fd68f824bd004dce14bd59a46c534aa6564376f04fded46a7c42e571b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8b660758f480df3bcb1297782d182ab/a8b660758f480df3bcb1297782d182ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "House-Sitting for the First Time?",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42662",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3b2b9e90956282386c9d7ce2a8e309b1f3479d4e5b9ab1f3eb7138fb3a09e7490466d3aaf8fb2167f8d7a2e167d787a22c4cb6e6fae9aeb34a6e7a556607f6059e06af2b4a3a08ec42e9a1d2d9bdfafc6b0f31d3a549dfdaa8b964bad35a27c3b26e6f90f20b58e642036d49e45b9072/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58ab006d4c603162b6a9b00577af72c4/58ab006d4c603162b6a9b00577af72c4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3b2b9e90956282386c9d7ce2a8e309b1f3479d4e5b9ab1f3eb7138fb3a09e749613d3adbbd192240fd534b8391e6022f3e6f14a313e7082602f30257c8dcf6b02e4f7fb6e16149870772b6b18dfa4591b7541dd7db10398f92c6bcb38297c3aecc410f0bee4f2a06004c98eb99ed6a3cd72257918f302114ec7024001071ee8c955c5a0b5cb6f84c24a64cafbbc85d4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58ab006d4c603162b6a9b00577af72c4/58ab006d4c603162b6a9b00577af72c4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Witch’s Crucifix",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42663",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a52efd5069a5af1cd03c1ac0b67420e15b25e63cb60388e7db89610a0b9d2a9c5247cd8a9c03f82c5e92007a4c99bbbcd443ad8a751c2c0ce9371ee6600d0e46e5eb57d9f9156a1fca9d04fcc1b1eca2e4cfa46082ff4cd8dbdddbd08ed429f9d41f822a91b929a38e07e25b3eecb1de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb9f835ab48eb242bbde5fd6e6921e65/cb9f835ab48eb242bbde5fd6e6921e65.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a52efd5069a5af1cd03c1ac0b67420e15b25e63cb60388e7db89610a0b9d2a9c5c36698d7ebf42e301db659a2e157affb03d927a5dce7836a81cb83d1ea46d218bcfa82fdf4ba825f22a21c97828a586f5f7fa512298d2f149d17073e6ec817c8d85cfc6f861a01d20255f3b0b028972d657601607659dbf2cf55ab817b47834f5e9a8e03c19d9305383aa01978de0c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb9f835ab48eb242bbde5fd6e6921e65/cb9f835ab48eb242bbde5fd6e6921e65.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stigmata Sword",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42664",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/79065d43de23b41385682f9b993db4e156976a5ec10dfbc7d2da970051c5c2bcbc2c54f7e665df3fcc05d3b2237f04b2b2e7006f0db9c7f2825e889dfdb624547c595d2b734f8e3fe2f9f8f97333126dab4d43b3ea64d4b2dca1ae8c7f862337979016a272c0088c334d803dd9e3728a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74d2197f44f0a6b3c3e65be6245af2ac/74d2197f44f0a6b3c3e65be6245af2ac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/79065d43de23b41385682f9b993db4e156976a5ec10dfbc7d2da970051c5c2bc985be99cb31710780e7942531274f10d022cf47cf898e6c7a708930b40ac6a3b4925e19a7ce613216fe8e0892b9c9b3f3f2d40b4c0475e86dc2169c58739d2a13036b1907630c2eda395fd8c6569bc4f13f456c4ea19f103eab1637475e2a6341105cbbca527c935f4fa81e506ff7a1d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74d2197f44f0a6b3c3e65be6245af2ac/74d2197f44f0a6b3c3e65be6245af2ac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Night of the Communal Hot Spring",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42665",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/975f94c71fa45b7c1c3a2078813c4d8e2281fde30a43ece59dd7b3f7799b717dbf9cd0f60ae29628ac8839e66f5a6465ab884710a73991457f8133e98afc3d5f6ff8377f607f28f898129002d448626d0f6bfa7ba69172359060cfdb3d5473cd5247613daa67f3354e4a2080d8b73081/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47d5d5b2d6c9d18b05cf9908182f47aa/47d5d5b2d6c9d18b05cf9908182f47aa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/975f94c71fa45b7c1c3a2078813c4d8e2281fde30a43ece59dd7b3f7799b717dfab42d658f9a058648f619e8a138b7864a5e48c7a9f277761835bea40757b204bcf02bde59a116e6a91ce0f65e21637539a14ebad822ca12ef57a54ce0660e664b5ef26c001385f693a160680d9872ae176a1914500d2d651a4ec4d648429710d62ce40b7b18383d81c3453f4770bcd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47d5d5b2d6c9d18b05cf9908182f47aa/47d5d5b2d6c9d18b05cf9908182f47aa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Melancholy of Miyuri Tsujido",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42666",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bca0dd3073963f92e0a13bf6d632dd07aa4a0dd8de62bc7b0d94bf3715efd736e764120ef607b44f29b3d04fefedea73252298ac3d2284e7bca5c1d02ed570ccac9d290408c62d8d980475e7af49c29bd9dbd89b50a01c67370d8df8fdcafe9baea512255b5b73ef3957078a3471b78b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e876c96fe45a233b32f72cd6271d8a09/e876c96fe45a233b32f72cd6271d8a09.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bca0dd3073963f92e0a13bf6d632dd07aa4a0dd8de62bc7b0d94bf3715efd736fa4b808cd176ddf08dc4146bd0c08ee9ef1b5f476777c1fdab7596dd5dd30f310ca22951a150e8dc4477fd6bb78f5ffeca33847cf0ad7ba8aea826f549e575d22f247eb1e63e6a7bc3377f2068018c4cdf37670408bb6deeaf14a3a90a66cb26c2745ac62a5c0d786ebb59d25d4b3969/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e876c96fe45a233b32f72cd6271d8a09/e876c96fe45a233b32f72cd6271d8a09.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Anglo-Russian Entente",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42667",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c632355ed0486437d927d3b3c1262ad0c2dfe5ef440a923ac8182461ec661b0343fb99ad507e132f53594864913ab90aa609fc3251d82fbb72c3663d8e20ef4ae9dd1d83505baa9014e74902b600e1cb52d10a8c992d0e8c47d39ed8c0bcdd73476696b2be936fa7db91321fef47d679/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82115433ad3edfae04daeb6e9c5cb84c/82115433ad3edfae04daeb6e9c5cb84c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c632355ed0486437d927d3b3c1262ad0c2dfe5ef440a923ac8182461ec661b032cb5e45abc2faf8aab063498a813bab5dfb0bb957bee20be05644d2d5e9e1380504c9cb7e0b1f6de5e31728b7eafd11f0a15c13cc79ba7ed551fa0c52f18eb217320616856970e5c58348080b8e5c2c4475eb88f40156c1cc7d5590e57b6feaa517b100451d8d4b63ede481f5da0f247/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82115433ad3edfae04daeb6e9c5cb84c/82115433ad3edfae04daeb6e9c5cb84c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Condemned Phoenix",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42668",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/45c06d36b253049c484a37484a562a1f0b86c15f93680d641ebc3186efc961d7196e46e5cf155149650542742053169d703ffac58e5d37b4d53ea1969196a8b085afcaa9fd90119ab97f6833e620e07edc7b1540ac4224666265e1c6dea167540e9db4dac020c74a55cde78ead740442/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29f4dea1784013fc545f9e8e135a8a8e/29f4dea1784013fc545f9e8e135a8a8e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/45c06d36b253049c484a37484a562a1f0b86c15f93680d641ebc3186efc961d716e5f4a44ff6e1ef0bff1f71785ce8a1dc091fd55282ba546afa2abb863c026f4f244c11c6f7ad19e075a652df3a808037f475361083c9e89909acc177353a17612c5b78bf918a7523cd0d1f790efceceeb0d9c775acc5dc1e49c2b395167dafa11a4c1bde46976e23273c5c2dbeed5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29f4dea1784013fc545f9e8e135a8a8e/29f4dea1784013fc545f9e8e135a8a8e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gospel of Flames",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42669",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/066688717f8d84c70098cfb499cbc74a518d47e079a0aabc302db570d42bce87d0ed28380b4d1bf62a11aa524651ffe754fde4ee3ce65a94b0a83270608399479a3b7f844428017e420cb4431634cf5edc346790232ebbed7cef664adc2b5774c965cab03c346e99026ca10ed3f3e079/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d689b5ab04ae630cedf32d8b3a074575/d689b5ab04ae630cedf32d8b3a074575.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/066688717f8d84c70098cfb499cbc74a518d47e079a0aabc302db570d42bce8704b48d1ea072b15599548cf5104d5ee6f3fc302f3474f0915968f8afc1e103c2255f7d2fa8d43c094a164e96ce80ccb5775a3a1e10db454232dbcc5697d33bbc922f00cf956de66d913bdb1627794f4869077721f1768028a89d31458454437c7b5604b1b409cfe6aebd845a03b1b302/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d689b5ab04ae630cedf32d8b3a074575/d689b5ab04ae630cedf32d8b3a074575.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Trap of Ouroboros",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42670",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a841b1b1a8ee384df75388bc1a5082dc7e5633bf7c7ce5d6210daa553cc915aaeda5f64a79a892d0c163e2894ce517cbf3cd0bac3049986e59c059f30a54765e4b18587324f9b0eeeb93b3a6d4031177a30575e1a819fbdea68b1eea651bd0c55006158457f2c77e9602f350405ebad0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c1b6e62a873d0286bac318ecac37c16/3c1b6e62a873d0286bac318ecac37c16.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a841b1b1a8ee384df75388bc1a5082dc7e5633bf7c7ce5d6210daa553cc915aaae911cf8fb2771c35cdf2ed6aebce94b5d6099b138250bdf5607d46fc8b836edbb5911cf5c11bc470e08ba090d212518fb8d4b1720461e5a2f3d80926db28e280389192412b007fd9767736e369714aec3e65b7f46d4d824155bce1c633a8334d9c4c45c3eee924e84e437ba24f70758/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c1b6e62a873d0286bac318ecac37c16/3c1b6e62a873d0286bac318ecac37c16.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Secret Garden",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42671",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2161b94ee592246b054cbb7d69c6ac9c835642780f445133894376ae655ce57fcc0d3c3b7cbd17217137f62bd32fc1db4b2dd7cf9eb93d619558131dd314b0e047be2c6ed693030dcac82a11fd423284fa067bb21d1a5e25aee3b3543167229aa62b89218321fe0535797e0358663122/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3dd888b2d93d01b5d021eafc0cd60f22/3dd888b2d93d01b5d021eafc0cd60f22.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2161b94ee592246b054cbb7d69c6ac9c835642780f445133894376ae655ce57ffb274564204772e688d150e3682da4f55b3891a95cf91306d1a3a219d67650ac1ded7534526843b23d821801101d68e7c0378c433c84f11aa90c4683a643a5e75d640a4ead0cbdb3aee064f4f85c8a6ceee2e25671b85d79ac115fb531d70f9652f0e76b464d056506c665dc13a0e227/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3dd888b2d93d01b5d021eafc0cd60f22/3dd888b2d93d01b5d021eafc0cd60f22.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Paper-Mache Empress",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42672",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9d2b5ce1ffb8997c419b5da6b5446d750736f9b072c191b617b669458d529d7ab82553bd29ac3fcf00ba3874cdac0bd1168c15bf0bd884f5d6dc7685869a1b342ea2c6a02c2350fdad82c14d1aa4baaadd9d9a3842b123220e03297a7fbbbe72cbc2a0d7df2af57395572e4c105b2454/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/232226b8201001d5d9159a49db97ee4d/232226b8201001d5d9159a49db97ee4d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9d2b5ce1ffb8997c419b5da6b5446d750736f9b072c191b617b669458d529d7ac48a169f95fd70e91401da9421c18995016d1f4ab5a040b19e270ca994daf8f970520a5dd9e3fb5a0def2150bfe32e76481cfe65bf54443a851034caf21b526d0119fd1ade9a948d83fced157dedf34f36b63e20a45353cd78065c0af7927341eeb0f14f831a5cfb5189a5ac49394657/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/232226b8201001d5d9159a49db97ee4d/232226b8201001d5d9159a49db97ee4d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Shrine of Water",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42673",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1bc20180d51c9899b4a5f58ccce8f454e1fae07a031dd6b1b5c0c46b1712423457cc9a2f7e4e415a96e0fa81f746d7ea4517fdb383d95c97019a4a38ec163327aa71b1a8ef7ab442e0920192919c599c564eb8affb8751a60d6ae360f664dcb7f98a99e6c06ef2110ae0d3ae5401de69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c95251b78f2370ff235b6cf5dd9f075d/c95251b78f2370ff235b6cf5dd9f075d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1bc20180d51c9899b4a5f58ccce8f454e1fae07a031dd6b1b5c0c46b171242344e944e3964cf976394064b8014c6efde087604b8e27328a835dcc96a8079ed8130355c70b459c8a77465fad1061a2c8470761821dfbec65a36872a747372bd8ee0dc59d594e7b52e85323efc0ca561016f12ac57a1dc5e196409eb2a67901c548a16e69b8526e51d350259bba524c8b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c95251b78f2370ff235b6cf5dd9f075d/c95251b78f2370ff235b6cf5dd9f075d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Trinity/Gehenna",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42674",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/36f5a06edaa78f71b471a6815243d55ee4dec1d7cf9693c54d6da3210df3528fa93a1ce2115e9ba0872a7e24c938752bbf65b79365d28adcc09b460ce03a8289220c7e9100f17b1def126b6e216c720ddd3e5533aaf98b974097cdc1f88f7cf4fe8d84eae1b4a335a590ec5689f1dfa4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7329853b02fad82ab086deeda329e93/c7329853b02fad82ab086deeda329e93.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/36f5a06edaa78f71b471a6815243d55ee4dec1d7cf9693c54d6da3210df3528fa71e1253d0414df278e4c964f5dbb0f34d43eac91e8c33fee04a0f8c41896d72e205cb337f97c0ee833aa37cedd04fced13ef26a895929dd5b243bfeffa50194319443b2eb699342ff058de4a32f1f318388db18b3a42c1276761847f26071f69e08d9068ddef355fc46a5655417549d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7329853b02fad82ab086deeda329e93/c7329853b02fad82ab086deeda329e93.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Deadly One, Sasha",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42675",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/aea78bcdcd851f501ca1542ec95d3719c343b282ba44102e5b07391e155671345b6394fc21eb00cb4bce4e05ffce444b164e0f1d841252c9fb3b829f29db5be59be16ad4dae198ce7edb228af13cd94597ef748ba40b70f9cb1adae301acba4288de5f818e584c84017b18b842f30dbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0c9bd79a03b8956624758f8d555b7b6/e0c9bd79a03b8956624758f8d555b7b6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aea78bcdcd851f501ca1542ec95d3719c343b282ba44102e5b07391e15567134212d24bdc938083b27552e5896e24e55bf8f7c503d28432220d875977c10914b8fe56e048f086b459a59216ef4101426c5574b46aef3029138db4d793d09f300a7d4153b3d2a2e2915a7954f77b38a6d7468b5f70073a2d43b74346f2bca380d67e8ea1613fa8175f9de340dea1b8edc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0c9bd79a03b8956624758f8d555b7b6/e0c9bd79a03b8956624758f8d555b7b6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Live Thy Life of Youth",
+            "episodeId": "the-qwaser-of-stigmata-5820?ep=42676",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a551484db92b501ce8babb0a99ee8dcd842024d2aa3f2c90d226005074d5c96c19b2f83b6579a005b089dd34e12a3579c2a8df4faf256f47da0a88de120302f1719e7777121a681991b5747557efd04bc0f1f26ab288baf6e79319c8c6477f862b4acbef61e3a648c82a6c142a1dfea0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/243ee429a99377a45a13ab4beeb607b9/243ee429a99377a45a13ab4beeb607b9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a551484db92b501ce8babb0a99ee8dcd842024d2aa3f2c90d226005074d5c96ca15da8a58ac7993ee4f991f1c1dbf21e8800a3e8c316686f9bd51331ca432e2a177236b2ea95223e03da06a21cd42c2dc78c1456866b96ef37d47edf150f88d64eb07ab78b19bac31cbbc0a00e1e4011fb07708236c0ad69c950e34a5e0b5b69d36b9671b5f179cd573dbead458565d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/243ee429a99377a45a13ab4beeb607b9/243ee429a99377a45a13ab4beeb607b9.vtt"
+                }
+            ]
+        }
+    ]
+}

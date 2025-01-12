@@ -1,0 +1,592 @@
+{
+    "info": {
+        "id": "plunderer-5815",
+        "anilistId": 101168,
+        "malId": 37345,
+        "name": "Plunderer",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66ab15cf5954dd482ad4d011156b48c5.jpg",
+        "description": "Alcia is a world governed by \"Count\": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.\n\nHina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.\n\nWhile wandering around, Hina encounters Licht Bach, a mysterious masked man with negative Count, and Nana, the owner of a tavern. In the midst of having a good time, Hina is tricked into a battle with a military soldier. However, despite his negative count, Licht rescues Hina and reveals that he has another count, one with a white star, one of a legendary Ace.\n\nPlunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "22m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 5",
+                "source": "https://www.youtube.com/embed/_skxpc9VrfQ",
+                "thumbnail": "https://i.ytimg.com/vi/_skxpc9VrfQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/eAaCPh-bkEA",
+                "thumbnail": "https://i.ytimg.com/vi/eAaCPh-bkEA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/4OVdLZ1I5CE",
+                "thumbnail": "https://i.ytimg.com/vi/4OVdLZ1I5CE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/av_YvIpKOo0",
+                "thumbnail": "https://i.ytimg.com/vi/av_YvIpKOo0/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/FVylUdXqQ_s",
+                "thumbnail": "https://i.ytimg.com/vi/FVylUdXqQ_s/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "licht-bach-2484",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6a2bb7d9145ceec7fa8824b92be53a86.jpg",
+                    "name": "Bach, Licht",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshiki-nakajima-1830",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/752bd7815658c17d0015610fbc69886e.jpg",
+                    "name": "Nakajima, Yoshiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hina-4310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8fde9869e643f91ca56757a54351d2d1.jpg",
+                    "name": "Hina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-honizumi-2160",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76328158e4970fb03549a53100e0fc4e.jpg",
+                    "name": "Honizumi, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lyne-mei-7542",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/58eaa1ba506003b9277a27e4cc3061f1.jpg",
+                    "name": "Mei, Lyne",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ari-ozawa-353",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8d21afca067fe5a68a2d7668411ff5a1.jpg",
+                    "name": "Ozawa, Ari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jail-murdoch-4523",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f4ca35222a59cd2a5c9675746ba4f1a.jpg",
+                    "name": "Murdoch, Jail",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuichirou-umehara-271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/690b0116ef469b40712e84457afa42c1.jpg",
+                    "name": "Umehara, Yuuichirou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "pele-poporo-7435",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13fd3efe2cc6ae2710df2a7cd0fe0922.jpg",
+                    "name": "Poporo, Pele",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aoi-ichikawa-1789",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83afba54da89213c8e9b8da5f7d79ef0.jpg",
+                    "name": "Ichikawa, Aoi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shumerman-bach-11765",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/548d5870c73515377ee071234a1b87d3.jpg",
+                    "name": "Bach, Shumerman",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "toshihiko-seki-589",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9b64010e0644ed8914fa159b318cffbc.jpg",
+                    "name": "Seki, Toshihiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "プランダラ",
+        "aired": "Jan 9, 2020 to Jun 25, 2020",
+        "premiered": "Winter 2020",
+        "duration": "22m",
+        "status": "Finished Airing",
+        "malscore": "6.49",
+        "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Shounen"
+        ],
+        "studios": "GEEK TOYS",
+        "producers": [
+            "Half H.P Studio",
+            "Nippon Columbia",
+            "81 Produce",
+            "Docomo Anime Store",
+            "Kadokawa Media House",
+            "Kadokawa",
+            "GEEK TOYS",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Legendary Ace",
+            "episodeId": "plunderer-5815?ep=42652",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c293ac426014cdbec8d5c5576b68e5ce21715a9f81d07e1c4d57b74b74f1b4dab0cc971dba77ad2068d1f9d321a880be9da2559036b8b70e789c2c8389912d0a726a57c7db41548902a283fda521b1d4671ba6d9ce8a7e41b145258175b554cc0cb7bf28ce6725135ceed45d648c1d7787f3c3383e38f48c37a6c439f30c3da0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be978e88e8ef456360ea66cc936be425/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c293ac426014cdbec8d5c5576b68e5ce21715a9f81d07e1c4d57b74b74f1b4dab0cc971dba77ad2068d1f9d321a880be4c5f5ad684eadb61472fb6196dd562c6ee7d99a6534aa6c68838b388f5008a6012356e09cb08507f725eb8ddffe9829a866ce977d001fc4ebb0bc86c741d5dbfcf0f5f46d02aff24b4cc97dcc1a8a044bef77017d486be7b429f8a3ad7b21ce6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be978e88e8ef456360ea66cc936be425/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Hate You!",
+            "episodeId": "plunderer-5815?ep=69198",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f8c20cf53589742874e6eebf440bcf7b28cbfc3932e6f41c9dcf939afb4693b9b5f6bba9b23af3f2be7fbfb8d5e2b473259aee2d9691c5db8860627b8a085b10c431e058459c45e49d7162c5de5dfedb87a9ca632fefb85215716c6de914a345dda17c95ff6e55c98a5f55a84ab473d694299347c4b99e5d351ecb2dd44c83fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d11df286acb2715f044cc26a99070052/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f8c20cf53589742874e6eebf440bcf7b28cbfc3932e6f41c9dcf939afb4693b9b5f6bba9b23af3f2be7fbfb8d5e2b473a2376966900d94f86f0cc6f1a69e6f3172791794f661d5f8e7bb4ebd6d0182657bb55cda117e0bd0086efd4bef45a01a915fe54304605f9e652d0acb29aa0d0d453beece47081fd9322d26ec89fb797ba9655a0192a01aeb24af8c64c1b42353/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d11df286acb2715f044cc26a99070052/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Uniforms are Uniforms",
+            "episodeId": "plunderer-5815?ep=69199",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e78b8260f57aea3a88b22b95657de1936d83e609b4025283eeea68fb3a2fbbddbe89438d5670821eda0ee4d50c90f8c1620ece32ed6e2d57bbfcb489ba8f4e56f1a0b9bfc2cfb0c095000b58727e574312eabb24ae2e2921e5c0a610cea74b9bd3a1086796c603bb225a808f2153c5d812f32c287057d116e080a6cd563a1c48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66af5c8f89e7c92231184818c47cb795/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e78b8260f57aea3a88b22b95657de1936d83e609b4025283eeea68fb3a2fbbddbe89438d5670821eda0ee4d50c90f8c110dd4d9d4cd129478b2ddc5ebc32026df2e30298f11d97f235de0c8f99419d7e1d6f5980dbb10c84f5c91a7cbaaef07a48689e7a1be94c80c13bb9b4c963097b88923bfc60abed32155b0dd4cc8e27b95efb558413ed659773ba9155be3490ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66af5c8f89e7c92231184818c47cb795/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ballot Holder",
+            "episodeId": "plunderer-5815?ep=69200",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6c57f0fa71b78b4be2acb366c0c706d15a2f4336f97f8b2c3fca3147b5080efa8ae9b95be026d74d881748694bf1ae0e1a53114dbf18f49f303df136763ba09331618ef6684b5f2c8ad1376f447517435027ec54904cb7034274a5d6b686a20e841ccd55ceee0479e29324e6400a7b21c8c653bb24d949ab70660411f9993a17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09c8208737caa73437f320a567299213/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6c57f0fa71b78b4be2acb366c0c706d15a2f4336f97f8b2c3fca3147b5080efa8ae9b95be026d74d881748694bf1ae0e68a625539ca1d0d8d77f68574953bdbf129813b0a919417b71ac2cb2c748a42ffb67e46fc351eff1abacb990f09e31f93af22575c6341fb32b4edb0220bcd60883cc0d877e8c9d259b9159bf490c35a57952ba58dbc9d0281348f898ba91dfdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09c8208737caa73437f320a567299213/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don’t Apologize, Apologize",
+            "episodeId": "plunderer-5815?ep=69201",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2a2af3ea451c8bdd5b1e4de12b03c1d7547c8222746341a3102898101a313a9e23c883488568e877a8a1f51c2b4f1906843541e30b929abab2548429a282724b0163e3f747cda7eb5c8a73f338b1a789cd30bcbc92339df761a8dc720d51b3444b9a7e85317f9f4f2b992856f9eee2b05021e663e5410dc812aad2909f2bb800/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f548698ecec8e5e33b1fc34d7ca2cf2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2a2af3ea451c8bdd5b1e4de12b03c1d7547c8222746341a3102898101a313a9e23c883488568e877a8a1f51c2b4f19063b44d5676059eec4189ddce33d4658983ea82e7efccc7c8a3aa788befc62670c02a0a32beed3ae4e7135475467809a0b7fba6ba7ad191c769e1fcf77d6321ae69c50d7b0309e365372ce71df9899465051dfcb4565449c365755316d9051a3ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f548698ecec8e5e33b1fc34d7ca2cf2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hunch",
+            "episodeId": "plunderer-5815?ep=69202",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7a17373aae6a32269cb1b9c53b5f6057f8a8b4fd6f9e1e21db56c19f172aca4f6f343ea1bc345ab39a564ccd022d409f671fa9cfa925e75b322b6f3bcda76f132a8d82888b92e22ef0fdec72747ac55318038bb0079da4902cb6ee57d498df6c334c43267ffc339c9601dcdc89d6be5cd7e322142c46a1df91087b34bd558c84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85aeccb85c7a4ddceeffb63286e6cf09/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7a17373aae6a32269cb1b9c53b5f6057f8a8b4fd6f9e1e21db56c19f172aca4f6f343ea1bc345ab39a564ccd022d409f6bb0ec8a306493c01d4739e95e7ec0d82f5e96ad4ceea22e251532f57cb3a015f402ae48718dd96d688b299f959ba9df998dab641974530949b28b57ab4c2bec03feaf521591e41114d957f2b7fd410b601e1d929d9304f59d5b7743a8cfee20/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85aeccb85c7a4ddceeffb63286e6cf09/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It was Delicious",
+            "episodeId": "plunderer-5815?ep=69203",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/82312badc566e38538546b10c85aaf5f6b1f5ea8ebdbae09e805a8acd7e9f459a1c62e6e711a50f6197553bbce22d31c625de247fefb696d82bb7141aba28621de9c18ee0b91b495579db5881b74f785f7eafacf3f9ddd193115e6f2ca1aaf2f37d54b98592895e0d2853d3cf03c8d6e59ded3996b0f6b512834f8a7b1f44c82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ba5000504fffad0cd1d7fe57cc5208f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/82312badc566e38538546b10c85aaf5f6b1f5ea8ebdbae09e805a8acd7e9f459a1c62e6e711a50f6197553bbce22d31caf18d1513682931a1392fabddaed98f540cfb1e8ffd65e342e097dcabb5e101e7a0cf9de69fbd661eea47e4b6ab76da7f603beec3b0d79884ea183b90e696cd09b080f892a4a28990ff5c77328121eec2db3f1169640a63cc615d4adeddc9e67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ba5000504fffad0cd1d7fe57cc5208f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demon of the Abyss",
+            "episodeId": "plunderer-5815?ep=69204",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e65792bec0144318845322dbf2cc7b0595828637aab3760bca6b5fbd16a7a8289e200975d8b52ef396cbe8c84a19bb39066a225812d33da0fa9e4cd33c84c0a8d95864380b9485afb52e88afbb01ae337a0e45d6f4a102ca5df3344847b77a63d8dd3d65745eafe5c53fb3ea1a005ac698cb47106c61038a66aedb50dd716ec6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/faea7ab9b4854134535d789cfe9e535b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e65792bec0144318845322dbf2cc7b0595828637aab3760bca6b5fbd16a7a8289e200975d8b52ef396cbe8c84a19bb39da7a1b05c7a2b3ba283290f86360bcf2c20761b7eec1437d2ae86c0773157bc258b3e141f38799f3590a19f2d53ccbcd639ac27e9fad083b88d5dea109afdb9720ba4c31e8dd9d97130f40c1b50e08a034e933d2738eba44b6279e86c2d35a0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/faea7ab9b4854134535d789cfe9e535b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Plunderer",
+            "episodeId": "plunderer-5815?ep=69205",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e4215bc2bef8b4848e816c4fe2e6fbdda1745a6c0365b38b12d743ca95a55aecb93f6e249208efa4f96fa3548af42dee48b218cb1ae947e10d25bb75bab54efb7398317ea3397fdb9af6b8dd00c1c08928e0dfcf7587a3acd852994a0f9c6034695f9b33d69bcd32761aa11def5ee507fa389522c2fee55ab8eed8a147e57680/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8026aabe81b06f3b7e725653616ed142/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e4215bc2bef8b4848e816c4fe2e6fbdda1745a6c0365b38b12d743ca95a55aecb93f6e249208efa4f96fa3548af42deefc1a54c3d1d35eef259d3b253afc34cbc85a69f80585d6e01420809eecdf4beeedf7e21ee892ff4a0dbe9f31bbd014b0786b8c068506481400d9df4ee8f7f64d95a1e130d61201425cfd78478fc1c7a52d94c7dcf61a9a36b2e756067b4f164e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8026aabe81b06f3b7e725653616ed142/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Serious",
+            "episodeId": "plunderer-5815?ep=69206",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/503e5c2a9f96be662918bdd331ab3b39cfdbbaeaf58051f05cc691ae575dc3c0b595b73014bf33f8115f421e4525f5a12f0aca8d4a788adeab8bf200223504e2d4ceea7181f8716236f44ab1af1cfca2ed99bf5b404164c050669c35f725b3c5fff8f7b023d54e52199cb31845ba55bce6b8ebdb7a068fa490eacd8cd453ec7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e9c876cf8b9caf120d25afb22f2f698/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/503e5c2a9f96be662918bdd331ab3b39cfdbbaeaf58051f05cc691ae575dc3c0b595b73014bf33f8115f421e4525f5a12e3ff42b66efe6acbe1deffddd6789cbe919430dedb96657a650b4ddf68c5f3a7e51168af3647fa67261db30815a8b77e63f7e7622d099d7ce2769a821bcfb2fb40136b5ce0212200cb687a5d33bc086973202b925bfc926ef8f26fc9b1b63ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e9c876cf8b9caf120d25afb22f2f698/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Up My Sleeve",
+            "episodeId": "plunderer-5815?ep=69207",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1232a26bf4de1a167af18f3e9911fb89f30f84ff5509e1f1e1ed8d331ebb754ec5b7f5c83365bdd97f0158e34b09ae11f325eebbf852c157a116e6ee3da3dd04cc044e1d2deb80e51ff76d726ad8227c1ce3d182756c11faf1f855e4f8ac54e313ddd5dacba55d09479bfdc5f77870093016a4b90429234263ccab98fdf4ce95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa93df5b6415adb70f853eab962253d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1232a26bf4de1a167af18f3e9911fb89f30f84ff5509e1f1e1ed8d331ebb754ec5b7f5c83365bdd97f0158e34b09ae1191a5e4d88f209ba4203b7fd5286a328d9687c6c21835c6f44aab8a195fd823bf584addfaabb8caf1a747db5d56351fe332e6e274fee63ac79cd9c1fa781272217a456e37387342e986c8ba8646b5320a5d3322dd48e83db0991d247889ecf5b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa93df5b6415adb70f853eab962253d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Entrance Ceremony",
+            "episodeId": "plunderer-5815?ep=69208",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/68ae55587b06033a467ec0aafe456a9dbd8893c0349fd90f54e7a62555729ce8f090216548b91da8f15a65ec11688e3824910e3a4a377af5bdfc1233454ef4938f2baf6fa657417642bebc67a0d44d3ceb2844427dacd4fcdb7b22f5d38759a007303e6a2c7b5b1bfb4c5235dd532b65c2dbcd183aa6029328f7be7f69aa1cff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e660163aa7dab6f74b872baa8afbe7d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/68ae55587b06033a467ec0aafe456a9dbd8893c0349fd90f54e7a62555729ce8f090216548b91da8f15a65ec11688e381878831fac3f66e706964ece4532df0292fe4d56e0a6f62d09d48aee083bde1387d3b1bfa549dbfffcf58b3afaff74a3fcb7dd9f9d4ee8e32bb7b3cd4a2eeed3ba83dc58e36b949017ddb96e614d8d06d0aa0b8b2fcf8c7dbecb319b5db6f838/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e660163aa7dab6f74b872baa8afbe7d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Full Stomach",
+            "episodeId": "plunderer-5815?ep=69209",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6d4611f3959c278fdf1f6327416593f2e6532a65f4a5945d7875c5548f224d7451e05458f59e11c954a0d26aba96e9c1a33525df4bdf543cf428807f903bd6817c27a4ddd0af896277aec1b898d522efd082eccbdf52fb856ae1dc51b203760426e6b9dc1aa0b48b88c69015693794ea1ae461dfa7a17204711abc126b7b7a11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ddb88a4114bee1422a0f514dc383d58/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6d4611f3959c278fdf1f6327416593f2e6532a65f4a5945d7875c5548f224d7451e05458f59e11c954a0d26aba96e9c1a5984757a8a6b04cd7ebdc9c8cdd203aebf0a8f56c1e1daebb0f294293d0103c57416b1bb360faff6a8e9bd4f378e9106fd64051d2bda3c7ee816ac43b0ccdaca6244e24c9d9bfc550c6c1a3cb8bcfe8e5daabee47272f9ed8bbd680251adf62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ddb88a4114bee1422a0f514dc383d58/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "7 Minutes 12 Seconds",
+            "episodeId": "plunderer-5815?ep=69210",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1140a9decf5accc82898b233e11cee4c45f4a2e180432e2b8c941158b4132580a80136ab454a42e18d464c71d2def2b09519be0d17b2b3df0a74705a399a0fb42a6fd7e8da0e6c989952a6dc7c5552660308f48119ca9578629d3326ba05195df12483d401ee504cba8859a710c030575bff4fda8740a78fb5863e279dd6cf81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8905bfda489e0cb0504c07e2199ed5a2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1140a9decf5accc82898b233e11cee4c45f4a2e180432e2b8c941158b4132580a80136ab454a42e18d464c71d2def2b0f4cbc44be7d17097fba3936474586ef0a13db6d67cc70f11f247a39583a98fce289ffb3630c7fb9f82e8565b30ef26264b5d496c9a7ffd67b715781d9126961b3c1ad39deba352bb010ea0ceb37bd29f46f41e86624047d29938d49a76bd5731/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8905bfda489e0cb0504c07e2199ed5a2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Army That Does Not Kill",
+            "episodeId": "plunderer-5815?ep=69211",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c20280f11c831341abbf2399bcc623973c1c4643016c2b7a89cb71e91adefed6b6bb3aa3eb34195f4704bce8ea48442321a3171db0a18d6dc88a7df60e0ebf714aaca6043e3e141d20aea32b8fa05cb2730b91a0597dff4f3b2283bd00e8dd1fbe631ced55e92fe9aab70a0f3216dd63f51aefea61e637ce81afbc6b457a58fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/536837b2688a57d2822b2d5b8fe73eb7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c20280f11c831341abbf2399bcc623973c1c4643016c2b7a89cb71e91adefed6b6bb3aa3eb34195f4704bce8ea484423e7ae3dadff44baddba7124c01c1c6461bedad5569389baae0fd24f68e2bb39d625676bc56de36cce1eb64e1d423ad2dc9fc58de0d76662a70ca7b3c899ef31710cffa0ee2f38390b2d78fb252c5a90230fc013b8d67683b8762ba6459bce3e7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/536837b2688a57d2822b2d5b8fe73eb7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The War of Waste Disposal",
+            "episodeId": "plunderer-5815?ep=69212",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/539681511c6d454629e76d4c36bc3214c24ae1c5fddac51ab61b4d54f050b65bbdbb85b41b8af8fb2bbe1e6db5df0c3fd65782483f79e946820d8bdbed93ce1d6624314eb009559245d4e86a79a4c7f631c5130c1334cba37505a0040ef8e151a94010fc6b038fa3327caadb0da57b20f094ad28db3474451d296a699694c99a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bfbeceef94b2d05db86415aaf70504b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/539681511c6d454629e76d4c36bc3214c24ae1c5fddac51ab61b4d54f050b65bbdbb85b41b8af8fb2bbe1e6db5df0c3ffc7f83331477824fb28bbf105e0fd85a088a9a3ba6bcad09a533d0bdf2d0e3d492cf0d4f1839ef3bf2eac880b906f1bb145842a91cee4b49506b8507f6dc0a7320cf626cdbafe05399cd8dcad9bf456638641ce2b4f54ef9fd5929219c171123/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bfbeceef94b2d05db86415aaf70504b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ace of Flashing Strikes",
+            "episodeId": "plunderer-5815?ep=69213",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0de34ddc011e82968acc4b1f048d0976d98c906d862b55f211058482a07d4523434024c1d523c5e239c8da10511eb335d3c4b7a7faef1e1d1c84b03e696256c01e0bd636892a7286debb7e8d40aeebd0a84fa2119095dbaeadc5a9056b66f689c874c77f1b1f4a5a94edc6496fd0310a56a924c2153fa923b18ddcbb1e2c2c59/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d970a70e2658411d81104382e681bb1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0de34ddc011e82968acc4b1f048d0976d98c906d862b55f211058482a07d4523434024c1d523c5e239c8da10511eb335e6c3eb2b79d41048f2418433671fcde659d7bcc4a7c80546765ac0160eaa38ca2c80bcd5d1c5e0424bf1f5bdba4acfa5c0e05365d468042f3ac50e27807b567913dbddead8d6c254cf5fd9b6c1d0aad6e379ddd3ab7d655bc0fbefe85226ad34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d970a70e2658411d81104382e681bb1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Birth of Alcia",
+            "episodeId": "plunderer-5815?ep=69214",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/beaadb526a1843b57cf99ce61cea6cc1a71d937286c602d675b62b4f13dbe648e3f6d9d1d99d9a152a531ba38102d723b410535355c8ba375ac223e2bc7c95b05826c4461332e19d29bb505467eda38d7853c67c0780c92add7410bb0d119067c65b0a3a23978d05ad20a38be1cecff49639f48dbea8db29965a42a19a94e9ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a259483a79dc27468a876d91d3fe5c6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/beaadb526a1843b57cf99ce61cea6cc1a71d937286c602d675b62b4f13dbe648e3f6d9d1d99d9a152a531ba38102d7232c56f660d82aef2ac4d0bacdc11d064ba844f76e1a132a0f70ff1f45f5538d00c8077f90e36bdd3def2816e9ea2767afba5f8bdfdedf8fae5b197a998e6c4c2192feadbf0bd7821e69d305754bf4cc0ec922337fc3701b22b1735e9e4c48f461/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a259483a79dc27468a876d91d3fe5c6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cheating",
+            "episodeId": "plunderer-5815?ep=69215",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/bb9ef5a6f767d52f46f740e64361ab11a9ffeb8d7111a912e275b7ccc3a9ab30d45bea0d225e7a7f4e34ca43ba7c771253e4c9fc7d243b40ce8ee270ea3d0138c5ae3b8098f1bde0eb1c6ae177fa0fc4aaeb09eb8eae6cc1ead27009936f3404fbe4ca375857ef22440b61154178568192bcb61d1e4546e3c873d5785310cf7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3824647f1ae4b0ef32499fff7c30beaf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bb9ef5a6f767d52f46f740e64361ab11a9ffeb8d7111a912e275b7ccc3a9ab30d45bea0d225e7a7f4e34ca43ba7c7712cb4f86c17b2548c063f348d573216b936734a44e032caad88e063b0dd549cf56256e5e3fed76d8960af46826dfeb95ba177204d8f35dd5307ea1b421b7b7a91c17230bede53f43f88beca195e1dd28ef084dd2ed136fff9e24993c07ea79c384/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3824647f1ae4b0ef32499fff7c30beaf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rain",
+            "episodeId": "plunderer-5815?ep=69216",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/411e4ddbc41ef586019ca55fc3bff868bb52ead0c9477fd4242b65d31840a4b49a5fc533196b78c2e05090f3909a0eeb08f9dea894083b3e5970256fec727da43d271eb85c1cda26836172edea4330322a46c35e86f970b0ef60404511bb06a0843bc5f85826dad8d65fb8a6af63cf74ec53c1a59bda7f851ca598c1df3031bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5b86f6ce4760fb2d5d01f4bc267c983/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/411e4ddbc41ef586019ca55fc3bff868bb52ead0c9477fd4242b65d31840a4b49a5fc533196b78c2e05090f3909a0eeb3f02a44fa1fa182219b5b179ce683ca5c7d641be737bc9a369e122ba76eab4de03ccfa0921b5f659ba9eae431cb9315abf43f01f2e43db983c355d23856f09538dc122b9db57a6119f7b69394f2d4c8b966e60330fc285edc8cc7ac90586ea48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5b86f6ce4760fb2d5d01f4bc267c983/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Father",
+            "episodeId": "plunderer-5815?ep=69217",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a6e1ed1ce6d01f84fcbb76c3a9071bfdebc5391d88024a338a0e2e0230a7f028d34400b8f3b450e9a6947a2eac8d79670cb1c32eb5218c2d082e895865a1c1149c1ad7ca5c8dea489a087f243ce445e8647adb7590d792ba309dc7cfba68254d6d341b1820a5437be9cdada5b9ab0fa88475cb2c11680d04331292da5b94176f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aace77904bf482bb0100ad4abff4539/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a6e1ed1ce6d01f84fcbb76c3a9071bfdebc5391d88024a338a0e2e0230a7f028d34400b8f3b450e9a6947a2eac8d79679100916deaa750b8afbd042ce590da27f0ec58c0cb7c00bba69f2780227720bbe393b0063aaf9c08cb7237d7f2fd6d5907326001357312d333ba37e156a9145b5e93cbfa85901cb75a94669fcbafc7fc8dd5ad7ca75296c256e93328cd9c1cdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aace77904bf482bb0100ad4abff4539/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Promise",
+            "episodeId": "plunderer-5815?ep=69218",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/60f875e71b91133fa7115b97fcdfb0744a207e067a9a101cd484e75482c13601c862c6d3b1d05d4816756a03ce9fe40a5bae410874531f2ab423fc01ee1f9dbe8c3af5f9063844be0ad2ef3607659023322ad500f39bcc0ae3e1b035275e2404b8c54aaf20c1ec03a6cae09c386e7c2438b1882428a214ed36d4c3f3f75b8fef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba2d4a6074b68f2dea1a229cfa26b6b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/60f875e71b91133fa7115b97fcdfb0744a207e067a9a101cd484e75482c13601c862c6d3b1d05d4816756a03ce9fe40add3cbccaf8f2c9ee022005fdce0c8458af40da2984b0fa9b25830e100456683eb2f447e4ec2b33246dbb5ae54d6f3942612aa915cdaab5ac3b339afdf81088e6b4848207b2f9fe10b92b8238905e11bff42f438b718a2bf55ac988ebc416de8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba2d4a6074b68f2dea1a229cfa26b6b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unforgivable",
+            "episodeId": "plunderer-5815?ep=69219",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6f78cf3b682ed9b6d7aa95538615b374b17685b500d66e55f8ae4f93f2922e8ebd0e3d9e144806738f7683394f5e1769463de50b3bf31cb819cc8ba7f9e273dd89ced702e26d81a03192e8c111de7f30d999afec910f88596bc6233ea587200c0b31f8cae305770d3b98421235624260bdc1090538577174f8f5fac0b0b797e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/899a766aed24230900b68e432a29e41a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6f78cf3b682ed9b6d7aa95538615b374b17685b500d66e55f8ae4f93f2922e8ebd0e3d9e144806738f7683394f5e1769165608c3f76054a8746457245159a457dec1bd3ba71ec4cd706815886961f81dc4f6c56bce8aa816ca8823a19b1bbbaf217f92cc24361b060e6de7cf3832948e7a97946937128fdbbe426007f2c0a3e9fd8476d8fc3f31ad612d1f12877c5183/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/899a766aed24230900b68e432a29e41a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Ace",
+            "episodeId": "plunderer-5815?ep=69220",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/92a1207679cc9b274c8924b77220f74c880d99077d7fd95f03909dd6d3e49342dd1820dc842771c56be332ccb37065ca0704a6b1ba5fddb497368fd656bb1de5e42c834698e1140ac371ec652edc9da931966b81a2901f929b459b9602a8ee2eb9184c0c74e01beb67f702357cb2fdc795570a01ad3bddb6271a61d7f8ff7632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a740e9ebe7cf479da2c19bbf13045cd3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/92a1207679cc9b274c8924b77220f74c880d99077d7fd95f03909dd6d3e49342dd1820dc842771c56be332ccb37065ca72ca13627fd40e7f1683db292c751d55e256f63421d76ad3a45c01f09474c093c5f8660238eef88b47ae9557ace9ea92b784a86728fc8120c8a919a6f3eaaeb40a8c047a2bcd936172fb84fb85963d962dd0da01548a70171ff682bc58f4473d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a740e9ebe7cf479da2c19bbf13045cd3/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

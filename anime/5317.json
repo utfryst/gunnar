@@ -1,0 +1,117 @@
+{
+    "info": {
+        "id": "galaxy-express-999-claire-of-the-glass-5317",
+        "anilistId": 0,
+        "malId": 6653,
+        "name": "Galaxy Express 999: Claire of the Glass",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fab0986b02d96d5e4f659385b818e73.jpg",
+        "description": "This short movie is a remake of the first half of episode 3 of Ginga Tetsudou 999.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "15m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "claire-24248",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a34df8f98f55615a4905ac33053cede4.jpg",
+                    "name": "Claire",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "harumi-ichiryuusai-1356",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/92c7369c17494c1bd5bd431351a21a27.jpg",
+                    "name": "Ichiryuusai, Harumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tetsurou-hoshino-9130",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec373c16d7aef2818e963d23b7dd3502.jpg",
+                    "name": "Hoshino, Tetsurou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masako-nozawa-119",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c06887dac90cce5fc00505c4a32414b6.jpg",
+                    "name": "Nozawa, Masako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "maetel-2610",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b73ae737dd067cc0297139a9c7d0cd54.jpg",
+                    "name": "Maetel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masako-ikeda-3294",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/afc8611b8bf1fe126590046923a0da45.jpg",
+                    "name": "Ikeda, Masako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "the-conductor-14715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2b625ea7732f3549ba68ba715ea4067f.jpg",
+                    "name": "The Conductor",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kaneta-kimotsuki-4834",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d562b55ded78948f4eaf87625e776f9f.jpg",
+                    "name": "Kimotsuki, Kaneta",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "銀河鉄道９９９ ガラスのクレア",
+        "synonyms": "Galaxy Express 999: Glass no Clair, Ginga Tetsudo 999: Glass no Clair",
+        "aired": "Mar 15, 1980",
+        "premiered": "Winter 1980",
+        "duration": "15m",
+        "status": "Finished Airing",
+        "malscore": "6.6",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Space"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "galaxy-express-999-claire-of-the-glass-5317?ep=95884",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/847ac6fadef4df5f0b0cb752f67cc3049f7fa55dacb9912d395e2b51fdb59b80e3f36ad9fc8fd7663d6ca35db6ad5e1def3ec97b5389443a2b802e7a321a4a891df91e0446e60f934705fda513f0350e45fd27ee440633354370a6401def0e0cdebc1ff29409b6e448b66756aa817fa2be631678f20b41e2084bf0618c6b206b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9569516e52d29ff4214de585c61b0ab3/9569516e52d29ff4214de585c61b0ab3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/847ac6fadef4df5f0b0cb752f67cc3049f7fa55dacb9912d395e2b51fdb59b80e3f36ad9fc8fd7663d6ca35db6ad5e1d0f8b347550e723da3396d6ec2f7754c87d4ddf29c4e330f25801754de6ec63f41c99524d33bc87a4202faa752b60e0e959c718ef5b638e1bac739a8b8bc33fed127ae948a6c64bcc459f032debc9088d28d05128defd751426867ef6a227703d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9569516e52d29ff4214de585c61b0ab3/9569516e52d29ff4214de585c61b0ab3.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "info": {
+        "id": "rakshasa-street-5812",
+        "anilistId": 0,
+        "malId": 38606,
+        "name": "Rakshasa Street",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c11f76a7de266ee40041795cd723eac.jpg",
+        "description": "Episodes 11.5 and 12.5 of Rakshasa Street.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "9m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "镇魂街",
+        "synonyms": "Requiem Street Recaps, Zhen Hun Jie Episodes 11.5 and 12.5",
+        "aired": "Jul 21, 2016 to Jul 28, 2016",
+        "premiered": "Summer 2016",
+        "duration": "1h 9m",
+        "status": "Finished Airing",
+        "malscore": "6.51",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "studios": "L²Studio",
+        "producers": [
+            "L²Studio"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "rakshasa-street-5812?ep=88263",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2e2138d898cdeccf118a62582009f6fd447c3509daca0f548077d262d55673b7ef12bfaa2d6da3f8149e8953df60835e95baaff755bea7f1fee5c6fff556d07bf79d168f198d897994af1350fe4bcb53a7f8cf9673cc20d258a40602303b1b461558828d9d9efe07737acb646e9eeaa8f6b9ea97bfac9314e4bf71fe0cfdaa15/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2e2138d898cdeccf118a62582009f6fd447c3509daca0f548077d262d55673b7ef12bfaa2d6da3f8149e8953df60835ecb9df70f6cd51145af6f17a65aa7232bc7b9e01631224120542d1691f63b8f900ce53fcac05feb5359e93f859e58157602fb6ae7302cb68937f8081c6779614d2cfd78f57a03fca6f491472fefd516a6b4072394693a531dca2229c31f9cc0fc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "rakshasa-street-5812?ep=88264",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/69a9f3ca923e15a5650650904842cc2890b84f78c0cedca977991851bbc4512366595545bec5805356aa29ef5b5d2f9fc2810339191b1657b8b2ac3ff12a4838309e6dec62a8775560483016b23a758edbdd09da0d880562c23dc15c8911af46c007818e27444e4fc66c74db9f2955c4d4b6fa2bc7a31e2c41e7e09da43a00dd/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/69a9f3ca923e15a5650650904842cc2890b84f78c0cedca977991851bbc4512366595545bec5805356aa29ef5b5d2f9f994de2c94e730bfbe3ff1bb56e9d43d48055238bc9dd0d135cef718b5fbf1a4b53de9e5f99384f7a30e984cf812aa62225d4de174dc75a83f8a697e14b7ae28fb4b68cbd2487f1285467065d0fdac39b68930cb5d44f8acde47b280b72c9819e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

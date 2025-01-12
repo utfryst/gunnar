@@ -1,0 +1,717 @@
+{
+    "info": {
+        "id": "beast-wars-neo-6050",
+        "anilistId": 6511,
+        "malId": 6511,
+        "name": "Beast Wars Neo",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f537208d159359f0aee2934559045273.jpg",
+        "description": "Beast Wars Neo was a television series that aired in Japan in 1999, in support of the toyline of the same name. It directly follows Beast Wars II.\n\nThe show follows the adventures of a crew of Maximals, commanded by Big Convoy, as they compete with Magmatron's evil Predacons to collect the Angolmois energy capsules, scattered at the end of Beast Wars II.",
+        "stats": {
+            "rating": "PG",
+            "quality": "SD",
+            "episodes": {
+                "sub": 35,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "big-convoy-102241",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05dfe2990970c302b7a391cb99788837.jpg",
+                    "name": "Convoy, Big",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junichi-inoue-9964",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/57a8b9f4c547e4ce7b51eca77cea6093.jpg",
+                    "name": "Inoue, Junichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "magmatron-83977",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b3eb4cfb38a288e86b47a470f865de8.jpg",
+                    "name": "Magmatron",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "show-ryuzanji-9963",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/07192b2347503fa3699647da2bfb457b.jpg",
+                    "name": "Ryuzanji, Show",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "unicron-22544",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0034d3403bb4020922e0ab1ebc68861d.jpg",
+                    "name": "Unicron",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tetsuo-komura-9738",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d18f36a1ec29ab78648bd2ba18a2976d.jpg",
+                    "name": "Komura, Tetsuo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "超生命体トランスフォーマー ビーストウォーズ・ネオ",
+        "synonyms": "Transformers: Beast Wars Neo",
+        "aired": "Feb 3, 1999 to Sep 29, 1999",
+        "premiered": "Winter 1999",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.44",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Shounen",
+            "Space"
+        ],
+        "studios": "Production Reed",
+        "producers": [
+            "Production Reed"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "beast-wars-neo-6050?ep=77000",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b553eb4b3046bde51966c9e3db3a8a93ccc4137c61f7e33ff46025662fb2d795f2c02e81f471f7acea88bd7c76fed5a9fad60d0e57a3aed8e7e4456c75aa09b4b9b64915a4e086a7860b80a4685f645a70ba39a1fedb65898fa1620d17e98463f2528a047cbd6b4d8b798c427155f052/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24c4d2dc213c8e19e4ab0942fa9a1572/24c4d2dc213c8e19e4ab0942fa9a1572.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b553eb4b3046bde51966c9e3db3a8a93ccc4137c61f7e33ff46025662fb2d795e0c48e1db24c49d8d19fc327855e829cc7d441fc06e4b9db7a2d8721489bbccd89b0803545ecc70a25aa90cebaf2b425763bddd4f6387541c21f6caebc0f5660c40f8c73da020b5bdb42df935ea75653dabbc174076c9ca21a92f657032c233ed7c9943b6b852dee072f3ffcca6766c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24c4d2dc213c8e19e4ab0942fa9a1572/24c4d2dc213c8e19e4ab0942fa9a1572.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "beast-wars-neo-6050?ep=77001",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2f9645b849590933b0f1ceffe0b4ee9c3e47cc7f3b8b2c39be7dba0c6de052176acea996db72aa7560b8bcedb584e650566c46fbb83fc162d8647f736076943ef8380520a85c5936dfb98ea191ca0b156aa04f45415cbd2b65e8d7c2477dadb213fadfb604ac1656b0fce91908d17892/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5c07e4c5f089ed3e152cd3994cbdf78/f5c07e4c5f089ed3e152cd3994cbdf78.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2f9645b849590933b0f1ceffe0b4ee9c3e47cc7f3b8b2c39be7dba0c6de05217cb5f5be7cf23bda0a624774ffdd165627663d5783d214575f7b4f837f27a789f95d9f889cc693e6a09c4529484d21c25830f5c0bf613d35e1f0b3fb9de3e4e3d61137312411ba01ccc792055ee1bc3972c06cc3f6ccf521205e94968a00fb1f6a722d1574380dfdeb5ca7be9338d8e41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5c07e4c5f089ed3e152cd3994cbdf78/f5c07e4c5f089ed3e152cd3994cbdf78.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "beast-wars-neo-6050?ep=77002",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e9a477708ad45dc84d21ac3d3064b6e0773cd63e8a402b9ac96cb9c45444668dd145d06553c89d03aee9460a0c07c90a9f4a5e2ebda45b947d00049af2090e037c6f53f407085d1d9a4e58bb2f1bf518de4199b937b046b62f108eec99df53d555afb2ade40421a5ef7cd2285d62c51b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64a65e580effb1014bc97b5f48054804/64a65e580effb1014bc97b5f48054804.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e9a477708ad45dc84d21ac3d3064b6e0773cd63e8a402b9ac96cb9c45444668da83f36fe4687eb9c704b30a8bb2ce1712d7efcaaf347a33bcef12742a9440c535049691cf353bc2d7188629fbedd69dfdad676d492122117b1ae7048b654df7e2ed95b1e50222b5bbcb5fc775728a938e379edf47907aeff939d3d3e20620296cb09f14357e8423164a6f877976131fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64a65e580effb1014bc97b5f48054804/64a65e580effb1014bc97b5f48054804.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "beast-wars-neo-6050?ep=77003",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e89a7a355e9d3877a77183ece31b9f2fb61ad9a3dc1e8b422781a72dc492aa3cdbd772170f5fe4b25af03fa44d5788984dc5034cb7213dae871ee83affda05e761c43b87a5363344c6eedd0779d45822e9b169e3df9e243302c2e3a32ea7f27e8fdb2bbe2babdce3e4abe5986fb51437/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83ef01dc86e247fea380425a74947ef0/83ef01dc86e247fea380425a74947ef0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e89a7a355e9d3877a77183ece31b9f2fb61ad9a3dc1e8b422781a72dc492aa3c2b2e8b017a7c2047aef2d2cd6efff945031da4e4ed7dc1755a149d2483c9d9194f043ac10dd9fcf4a1d26eb72126ffd898cf64a1f3d1719d1144acd599abd1a1f428bb177b79d7609a8f010b70bf2f175c2af2ec59315333ca3d43db7782ceac2f9a73bf73c65143303f97689dedd25a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83ef01dc86e247fea380425a74947ef0/83ef01dc86e247fea380425a74947ef0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "beast-wars-neo-6050?ep=77004",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4fc71be71a597ffc7d5aaf2bafd52299ac4e1cf0161d077be2536334734be8a8fc775f83fbe84d522b163047512807deb5337943656e95ee99ba0a84f4ce56f546bc0a7bc1f461a15fea4d655375a1860b414913c0aee6b028ed87b807cf729dde00d0208cc1886841fb68b5644851d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6374635270c050b62878e6688f171f3/d6374635270c050b62878e6688f171f3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4fc71be71a597ffc7d5aaf2bafd52299ac4e1cf0161d077be2536334734be8a82db325ea3367c7e893cde91b1b51427803a7da4cd94202b3e29d6370d76716ac133a30774f8e7716c2c81638d012fc089adf3c865df2b51cabfd353af76140d9fea4217700e29fb61881ee8ae460bc3ebde7d6ad24d5c8b9a3c6f0e4c7732107864b55c3bf38cd013304cd60ed57b314/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6374635270c050b62878e6688f171f3/d6374635270c050b62878e6688f171f3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "beast-wars-neo-6050?ep=77005",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3c5de7681844f7ce13ded13ac11a4d3513e3a2579de5c44797ae8f7b6ae91775f02823e59958240ad3f703579d25ceaf7d47346617838d3af520ce6a88eb66ec938b5ade1ad16fb8f6c84d9924e7227a2121889f5ef7d6f732a12f5489c8e72e0383ce1ffe6cc2fe1af2dc98c23cdc97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c99117a6c3df930b9dccc765b986888a/c99117a6c3df930b9dccc765b986888a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3c5de7681844f7ce13ded13ac11a4d3513e3a2579de5c44797ae8f7b6ae9177530399e6d7468d94d9b588fd3b4b4b91c9a19e18e9b19f2c74d35c14048b200899507d9dd7f26c18d65ef8a4acc21367c8a189512053e82ab45a44c5d7d09f8701ae3ae7207b1760d0030d114e0eab70d377bb53994856158f6b77ecc3b13c4109d7a3f1b7a29ca1473d2da8aa39abdf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c99117a6c3df930b9dccc765b986888a/c99117a6c3df930b9dccc765b986888a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "beast-wars-neo-6050?ep=77006",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5104a95c1108c336caeea27c6a0307304277ce05c27731c37526b17c0e023c4a66a40529b71e1e19d6b150c73694e72397915987fbdac11a1769e9a3cadd882001cec8ab30393bb5ca8ae8231c646ba78e87515f40403b187c44a57b3921992760bc794a07460e581ee9acab69a9ba52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5851fcf5b1b9bfc3ee172d334dfa98b/d5851fcf5b1b9bfc3ee172d334dfa98b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5104a95c1108c336caeea27c6a0307304277ce05c27731c37526b17c0e023c4aa0ef3ea81903a4e89f175cfc4e7f089ff1b0d521ff7e4e8bba7e54ed4aaca3477ac7bf832ad0857e360c5796565deef3ef30b925890df26e08e56a81f2bf104cfe6c142f7b750170a07865797b9827fe05b3ad29810484436e4615d46c0e24155cd554dea8eee2385a5d00e2ea1b7525/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5851fcf5b1b9bfc3ee172d334dfa98b/d5851fcf5b1b9bfc3ee172d334dfa98b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "beast-wars-neo-6050?ep=77007",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9defe03b4298296b0cdcc9ce758e82133d477fd5fd96ff91665daac8ce28473a2c58a71c425f05a1b8eea8c686e0283d58c19ba604528a5a1fa655e56666cc585e68764febdc8759ec5f84a4ecc4fdae270cda8205000aa5e60baf138c13735195d230954b196acfa2eee519c712ba9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/883097af44765702bda188278b6da792/883097af44765702bda188278b6da792.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9defe03b4298296b0cdcc9ce758e82133d477fd5fd96ff91665daac8ce28473a4c5b2449df8c94e95827257011e2ca35c61de0fce42e30898bcbeb75afc302498d73b58db579af26d9666bd430bcce974413b2db0d7ecbf4533901116b6928df5284f6d73c9759339717089441f97bd37f905e4854498a1c8cc7382d1d2cbfc2e1f720700cf326e383c4dde2ddf890a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/883097af44765702bda188278b6da792/883097af44765702bda188278b6da792.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "beast-wars-neo-6050?ep=77008",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5c1821f87734bac500697b7042400339380fff26f292262a2fb89111c1924840a02169b6fe1d4906501237efb0a92258cbf73cb0dd8a07f7091101868ce33a06f77fbfbe6bea52f186ef7d7621b88f903ac2303a17fbf7fd0bcf5c37e656c5e6967c934bbdb5e0ae98342126480752ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97e2f5f2d5d78b610d9c163e059e220a/97e2f5f2d5d78b610d9c163e059e220a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5c1821f87734bac500697b7042400339380fff26f292262a2fb89111c1924840df59e442611c79ccd947354f236fce657b70b37279064ed87a6a74e949fc158dab35fd2ca56db5703bf3dac4380657b6c7f9769d533ff48fa6aa612a77081cdb1099933ffff9b8a37ee1d185fd98fed2e1f3e40713c795b018db42c124cd3248068f1795659267f45c5912412f8761af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97e2f5f2d5d78b610d9c163e059e220a/97e2f5f2d5d78b610d9c163e059e220a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "beast-wars-neo-6050?ep=77009",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2887dfea3cfa7bd322470cd7fe412da3163a11197f765c101a1ead159688a683537f9af1f6948811eff3f558bf840a3918f6958e60d7dd0749ad9eafdc1f37855d213dd2238b55a3e11a164fcefa09df7c41a9df724027fe6ca55a16f7c6168d543e9d5a9fec3160bb0e5533324cad01/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/975b104a55655a044f1efba776f5266a/975b104a55655a044f1efba776f5266a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2887dfea3cfa7bd322470cd7fe412da3163a11197f765c101a1ead159688a6832d9acef888593e359771f2f92c3b277dcf390a89803c532152439b14371148c1f0effe99c0e05e26d7c97794016c8b27681c522b4dcdcac7df44de4ff9e2d9f03e610b4b94eab707c516270eba50fcf29223975028d7ac64c9dbcf7f958ea59718816179a272f6c2ed25a30a608bb86c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/975b104a55655a044f1efba776f5266a/975b104a55655a044f1efba776f5266a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "beast-wars-neo-6050?ep=77010",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c135bf5323138b0bcaeeec1123d814deb41ceeec4e467a99805626793cd19264d6340430df49a99c68c34cb7fa5bffdedca826f6a7a345adfc217710642b7eb57bf8eec4b43c765ce5db952be36ebbefef4f26ba63d5b228b8fefa0776cce68ffb31d11d609c91b6b1d6a8bc5706432a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/695c0091a2fc4929404324df885dba0f/695c0091a2fc4929404324df885dba0f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c135bf5323138b0bcaeeec1123d814deb41ceeec4e467a99805626793cd1926488866817ae3ed085c7dee34cd735ea8f8629447f4c48a3cd0add3677ca39f9728492c88aba0c864045856b053cfbb0ccb72d07d4ed7151617e6385d1c2b3f7e9f7827be51b98406445b19816e8c0da29c3d80642802af4308330e61047dffea01082664cdf573ed70255d093500c7c1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/695c0091a2fc4929404324df885dba0f/695c0091a2fc4929404324df885dba0f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "beast-wars-neo-6050?ep=77011",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b29dc04f69f2306fddd940bad856af03adf10d17e4cd6348aafddfba1c993b0f90d268990162a33c74ed8af34a8bb80300472c806934eea563f271417140b528100e5baf56bc4416fb1b0abe90e8b2ca4564aa28b30ab631928cb3f465f3b278a93a6816177defc1c202034a7fd26e28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/718805286e4e89752460b2428f0c0529/718805286e4e89752460b2428f0c0529.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b29dc04f69f2306fddd940bad856af03adf10d17e4cd6348aafddfba1c993b0fcca78ab94b8b34190fb98c06f094b6d2133b10e12df148babb6783e8d6b2b3c43a5c67353c111287489afca701fed9761028ca584fba5b07a3254127be9b51b21011f61cdc7e9b6a7e902b166888bb33f036cb122e0a21e6f9bd47c35de014ed41d7fed92ac43c8fa4aa8cd1f077b929/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/718805286e4e89752460b2428f0c0529/718805286e4e89752460b2428f0c0529.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "beast-wars-neo-6050?ep=77012",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0225d0afe74971c538db5db77dad4302db331468cc54da2f4275ff99e359928f48bf9cf3241402741f9e00654848621c96939332da2b9e45b7c28e15b4297c390c635cfb108d198850943a55ba4bab7b3668c9677d4a8ad4da779ae8b7ffa9c9f588953742f639e1c9a2c364d24e66bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce3b2b0f2ca0e926ed3c5cf2a795f896/ce3b2b0f2ca0e926ed3c5cf2a795f896.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0225d0afe74971c538db5db77dad4302db331468cc54da2f4275ff99e359928f80c13601aa8b17b441b8ca9144c53120e717220892a5c86433e3a64c9789dacd2c42c945372c1f7cdc56d7848e72f53ce5f769b0d5fb535677a655358dba8e8638fb0aba70176ec90eae181582e1822aa597486fcb1c1be4a0371bbc83e54dc385793eb57884090a2a5033b53e6df28e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce3b2b0f2ca0e926ed3c5cf2a795f896/ce3b2b0f2ca0e926ed3c5cf2a795f896.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "beast-wars-neo-6050?ep=77013",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/63a4b76d323fea90628e4547c9f842f4828aa7ff8b8afabda6517759f675c43b6bd6b1977e0e5e4b35bbd35fdbc778301efd1858425d1cda1b26eec1f6aed615340d4187d3401b12c3a0533f67ca8cd4504eac25b6a1d0e1b31fc76bce51439702cacf5c0bde77b858ca83b7b715950d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/942fbb8b74ba887f47ed88e401b6fe65/942fbb8b74ba887f47ed88e401b6fe65.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/63a4b76d323fea90628e4547c9f842f4828aa7ff8b8afabda6517759f675c43b5b220bf824e7c2ea3b2cb0008eef316d17131ddb8a477d80d2330418fdb704f38d2cea2b1d04c6bfb4317f60392a6aefc68b5e915cae285fb9d0223d404bd5aa79458445cdb3089e696dd35a1930588039beba7ff2426a6ffff577a73c546ac4db32fabf47dc1eb094e9a6b50b8d4c3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/942fbb8b74ba887f47ed88e401b6fe65/942fbb8b74ba887f47ed88e401b6fe65.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "beast-wars-neo-6050?ep=77014",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8705ecb4fb946d802723ecb78ae576c9ee9dd8aab77092badd07f48304ecc8d4f3fc099e4f1c2bcf2b6398b8a017a58f691b584ff924d44aceb4fc64a65d8f3170577006fd4bd19d26bb8fb1e3651845b684d5079b5f1a2366ad1a450c61c38d1e1e255216daed38ec7055f9cab6b2ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626d87d1be0a75aeda5ee2985f2bbc35/626d87d1be0a75aeda5ee2985f2bbc35.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8705ecb4fb946d802723ecb78ae576c9ee9dd8aab77092badd07f48304ecc8d40512386ffd4cbf1a7934a07a3ec5e772dbfe690d06617b1fd0813e949e9a6d94d037409d0ed51b631e5f8ce110afd2cd4d151490b9cfe4969ac3f13499080335d9707646e4563752f222f31bd09ee7b6710c9d1350d6188c24e3089cf42f451917d2d3000c77f598f9cc53d2e33a71ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626d87d1be0a75aeda5ee2985f2bbc35/626d87d1be0a75aeda5ee2985f2bbc35.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "beast-wars-neo-6050?ep=77015",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e0752a5667c468b08ae95ff74f930143edec667169b779b96c8c5e43aa04afba2e8cef0ee23f9217f28f559bca10ab67aabd32f3ace5af4a8e2eee3c090026edcbc1e44e6dba06e9323a647ec32ab857cde5bea6eef13c8a67fecc9e202e2d3c9c8d12aca2c841ea2706a06fab1a7795/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c64225c4a1295966f293da1c24f392c/0c64225c4a1295966f293da1c24f392c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e0752a5667c468b08ae95ff74f930143edec667169b779b96c8c5e43aa04afbabb21d67e7563573e35865d6e99440d32ca7178fd548c5a69f85bb69778e636f9036424db4edb4187fd156359c34cbe966e89a97ae7466042a93133854b5d55a33858a5eb046fdc2918ee137057f2ccb923b9bb966b4d5984d9313ce8e9211331305df9c6a6e415d74ec8f41915de05e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c64225c4a1295966f293da1c24f392c/0c64225c4a1295966f293da1c24f392c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "beast-wars-neo-6050?ep=77016",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e4d490a37685772d21eb5ba6d7026253b6f82c845c15fa080eb65af41b9343e523f2b3496979b0f3f4a59d1e927311874c72a159a8a316014a1948ee90def9b545b68b0656ab7da8b8cdf6c440064ba05972144ea42596b194a05f5808d4735fd1b00e0d4c8d0cdf8aa247e46f8581e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/998ed5d7abd1b6eaf236af80de1189ed/998ed5d7abd1b6eaf236af80de1189ed.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e4d490a37685772d21eb5ba6d7026253b6f82c845c15fa080eb65af41b9343e502a3153eb5402ae4b6bfeaf9761915b198dc8f1b3f797c18970db0a12a0c328dab59fa167d6ef1bf8d1937f724a9a89a0091fff41cf4ca178f2b84b9874ff5d346c23894417b90fb207c554d2af66cc8a2c9fcadf7fa9c2eee535fcba15f36a93103b0e36bec0ac6df1eb445896afe35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/998ed5d7abd1b6eaf236af80de1189ed/998ed5d7abd1b6eaf236af80de1189ed.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "beast-wars-neo-6050?ep=77017",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8ec9d4ee4d515651b6e3b64763cc17462e70c88acb0c8cb5ad622f06a8fd4175917f317c00160b877d4f2091bd371c334ccd48352b05d283843f760238e5bda1570b76b6dd00d2b014f9b803c8346a1f9dd1fcc4f58c858e1b865b36e8075073b248b22e5851c0f15ee920b1f5cf430b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1729146366fa2950b206b00725298c35/1729146366fa2950b206b00725298c35.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8ec9d4ee4d515651b6e3b64763cc17462e70c88acb0c8cb5ad622f06a8fd4175d56338601c6e738c5bcbc5a9d282efb6a950ab68db1c0941ec742703ccd81d54eeb90520b413cbba90084d9e61052d643d08eeebef11745904fe82bfd922facd0bf407bee997927e9072665a128241cf9cede309e9535f4ceabbeaf3bec20adfe5f52be9462c95ccc7c14ca83bf906d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1729146366fa2950b206b00725298c35/1729146366fa2950b206b00725298c35.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "beast-wars-neo-6050?ep=77018",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/76df0c3370563f880ab5989fa17ba8e21cf9732b5b6fa5f46bc4177ee21e24e25a88072d27b45f42de1fcbe09ed54c1fe5a6259bc70fa79c2600aa6b764a1e2bfb835e9a60b0fd2f342f223192f4f215d62fc689f9465318b76c059f0b738de2cc6efab0e9a95b64f1fc7494cfdfb30c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a9e469b53552ba125a055d2719a7f16/8a9e469b53552ba125a055d2719a7f16.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/76df0c3370563f880ab5989fa17ba8e21cf9732b5b6fa5f46bc4177ee21e24e2d53610d3457e272416921fd7204aee87d2d3fd83c3866c1eeaf9489a9010946ab3c46301e0fd0af9057cce23abc11c65a76d9e02823c84a19e1f1736efaa0b595ced0b9b9db436e68c954e6c78c73546d1800c0bf97c6859e623c27504c1a05cb81643a539e2eab807c1db4f0bdb83f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a9e469b53552ba125a055d2719a7f16/8a9e469b53552ba125a055d2719a7f16.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "beast-wars-neo-6050?ep=77019",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7aed656e122bda14116e438bfc0d66dbf1c35a407c4629709e75d5876a23f52688be6558fc2a1e02cdbacaeb180dec43f617e1683254b6f5d10d7f712adf23ed966c6a5a2d0309bd7ab85c1f193289b42c04882faa5819e8ad585006d8f030a930a1c049e4e693965594875f81a14835/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3e8c08e0ddf70148132f9175f7cad45/f3e8c08e0ddf70148132f9175f7cad45.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7aed656e122bda14116e438bfc0d66dbf1c35a407c4629709e75d5876a23f5266debc9a1b29105a8d806c57b7f783dbe84e783b3c96ad20a9f5ea1358fb119e7e6c5f2ec654e04cc857bb90ba256a9e0151118fa079556b80c566d9ad78b3f88db4ddea007ddcd0733e9ea48ba9ba6b3dd738d78840070736fb88d1877affd3fd515c32019cff12a2390d7a8224a8a50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3e8c08e0ddf70148132f9175f7cad45/f3e8c08e0ddf70148132f9175f7cad45.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "beast-wars-neo-6050?ep=77020",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4e6d29c991b62c8f2a1b6fa9569b4d854273ebabdeebaa49219f73b09151a47cab5e91781589a5d08f90a0709e5d54e042abd2cf25fb097324b965b8fedd2fdf9a1ed1718166226c8d8f8933564d6ebbc49a813752ee759944b1ddc9475985c3ae4fd5990f6bd47651a1c67f41e34e98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9551708b3934768a17d61a71949fb4ea/9551708b3934768a17d61a71949fb4ea.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4e6d29c991b62c8f2a1b6fa9569b4d854273ebabdeebaa49219f73b09151a47cfff356f54fd319b3cba126e0ba43b6bb17cb8bcf83c9c594cd2736c46d23ce6fee13eccc1bbd1e7be7217dc5adb313008c8772954efc06752ce4719b3811bac5d9e3435498533a3960dcbe6a52632dbeabdcba2730d7d55da2d48120704bc0ac44b2c4797859e266a01779b96d6eb2bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9551708b3934768a17d61a71949fb4ea/9551708b3934768a17d61a71949fb4ea.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "beast-wars-neo-6050?ep=77021",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/fe53e5f779091b0f22e71384af5c9056dffb1747a32853af81c89f4ac2ed5e1e4b855c1c7494bba5fcebce2ae6cfe7a9484b41b8ad9efa28db1e330be42de5a4cd5a66c43e81e900e90f34f2e7611ac5ac5c4af17227f39cb5fa8c8d10ccd72ff6bde7eca94c09644d489f6d831ea522/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08b965ea725197cf55c8c633ea11e7b2/08b965ea725197cf55c8c633ea11e7b2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fe53e5f779091b0f22e71384af5c9056dffb1747a32853af81c89f4ac2ed5e1eddd15230afeebf518850886dc28de76b0963aa04edf9f496af1e0bcea09a9148b76c8ec67c0dd6d52370796e7d7be3a437a1820f75d8c1d90af5f96f0e6d8d183ebd890b5db43104509f433c2397d771cce067755eac89d1ca1a48984c73764de0d3cc68ce13b555722381588cd2d87e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08b965ea725197cf55c8c633ea11e7b2/08b965ea725197cf55c8c633ea11e7b2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "beast-wars-neo-6050?ep=77022",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/19289fed00b3f362925bdedd3c72bd7e98c3fe050b4dec447456e406416549e74cede6c652270dbc4c97da199a37be73d1d51bafa860f650ffcf3d407d4aa03a938775f722e238b367467b0aea3aa94a8811eab1b5ab36d4fee232b52b541a5cbaaa21bffe05453e28c31e52e472f8c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e68151492c1fab2a7d67cb75b956eb86/e68151492c1fab2a7d67cb75b956eb86.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/19289fed00b3f362925bdedd3c72bd7e98c3fe050b4dec447456e406416549e7ab8c8fee200dde2d332d2c72f3ac1434ef852ceb515c3ec9cf06aea101627c6ff0939dcc3d5d61133f4a786a8742a54b8150db81998542397a89569234ec74891db5a4922dce6bd146ad08889590da98363cd2e232557a6c80a3a38c97f834d48b9bb6a67d03926c8ccb1258708f2bbd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e68151492c1fab2a7d67cb75b956eb86/e68151492c1fab2a7d67cb75b956eb86.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "beast-wars-neo-6050?ep=77023",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/edacdfd183f4cf973d8cb55a357e1b1dbf39a963a7bb042d955e796aee221fd1c10212180c43c753fcbe161471e378aafd96f14c955aec588faf79d991ee0708ad91a10840cb0247bbda83d0127108de5feb425e070d0b84b571b19258027bab55a618d51c343d08adc1745e4b6400f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd931c84fbedb561740d57a7b847fe02/fd931c84fbedb561740d57a7b847fe02.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/edacdfd183f4cf973d8cb55a357e1b1dbf39a963a7bb042d955e796aee221fd1b6859908a950a2b5132e36148fe6194b72af9cdf0112fda5ff10bc977f75c5c3cd71b1b8fa6542a626922d9a4e6d9e877562521bf590275bc8c722b93a35edef03dd6310dbed313afe8b112cdbf2d60dddb275d41e08b64be446ded20cca164d990db037dc3caf22240768d9472e1fb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd931c84fbedb561740d57a7b847fe02/fd931c84fbedb561740d57a7b847fe02.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "beast-wars-neo-6050?ep=77024",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/704f3fb474bce535b386f4cd735fe4ae71a0a434a2969c56d4cfa4b63776b6821174fa673f4c478793daf238f5b0c8d162e25a0065b96e03f09b3c4409a626331dd0dabc90935a1e40f51eab7b10320091b23df8c5918d3ec4c6bba07966c89147a45d0e1db92a4a7276009ee270c7a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03674e8045a54adaa421dcebc8ff2cb7/03674e8045a54adaa421dcebc8ff2cb7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/704f3fb474bce535b386f4cd735fe4ae71a0a434a2969c56d4cfa4b63776b682fa400bb51ec039d65960e5f8471573231c7f0559b8dcdc2835846d867e4ad928cf2b42dcb343a0561cce5eb7baf98b67515f84f3e2eae34a1961a8522d5bba4923de614bec55be3d0d9e98b02fb86d094f1b1a7f16e6567f1774fd01d91be2254b5bd2d5eddc78cd36d1884dd9077e7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03674e8045a54adaa421dcebc8ff2cb7/03674e8045a54adaa421dcebc8ff2cb7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "beast-wars-neo-6050?ep=77025",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/565b78c042f2c58dfb3de996345690da6f8b0b1702c3968cca87652f3249629a305487981881a3bc82bd08147822bd6a6c290a1c8cd6d2b9caac40a3be3d34e25312aaa27db7cf5c30552ccb6148c505d0a44d6f0ba4702d521184514580b08bc348a1b306323900ebb5aacc03e9064f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ac49f99b98097b73f389574c0bca0e1/0ac49f99b98097b73f389574c0bca0e1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/565b78c042f2c58dfb3de996345690da6f8b0b1702c3968cca87652f3249629a3df3b37795d968454cf19790401423037aaf955f4d83ec1ebbed298899b7880c325606ec157a23f971622c97480d2f8368e1508e61404ba251d83681cf3215fb2e7f428779521f4a18996ac21bccfd969249aa957f6225de2bd8879e641afabf43ff05b8eb07f5c102b626871303647b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ac49f99b98097b73f389574c0bca0e1/0ac49f99b98097b73f389574c0bca0e1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "beast-wars-neo-6050?ep=77026",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/dcf3e053cdaf4b585dbe82c6ab15c5c625ae382ae949bc684ec7a36b47cb8fa939434c5856804687454d454c29e309a53858cafc3a58da6d47d39c5db463812daadc84633e06e95e4662fb18672071af6ead3c5c505032090446a28e90ccda772bcc49b5907921ddb1185c95a5ba948f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86db6c56746e5b3792fe1333020dd329/86db6c56746e5b3792fe1333020dd329.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dcf3e053cdaf4b585dbe82c6ab15c5c625ae382ae949bc684ec7a36b47cb8fa901c083c1b848c46e130d40af19e47e93836d0b436425c30c7552364c12ea7a8b05013919a2d614f85b17f0f980459309c9321f7d236b230497f7782d241606a7009baac48fd8b0028704208e4fe0ae9ac951965153ea09a918526f76d0e5b4b2fc1c7a47c1e805e6a487b2cbff7220a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86db6c56746e5b3792fe1333020dd329/86db6c56746e5b3792fe1333020dd329.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "beast-wars-neo-6050?ep=77027",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a55108b850f1688d0943fee6a5850be67c91268d58715311de46cc46dc3e243fb5ddf30721fe8fe511d3592e12783a91f170929a0fd955265ca41e77ea06ffc85274da08647b3296a5c41704f792cce87d07314ea4484572aee5a5d708bcd5bd3fe5fe70fde58f936c6fb4c6399787d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4004499d754ebd0db142be345e7d0de0/4004499d754ebd0db142be345e7d0de0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a55108b850f1688d0943fee6a5850be67c91268d58715311de46cc46dc3e243f1b539f770f095fe753127bf49e124721cafd203a538c23b0859ac7ca29b1ef6bd2c9c2c9ecab0f59bde9307e18c58300d260b85edacacc5002d83a8cb119879e5085459ab6814285a6ab53c1b91eef604d8949f573993c61deb231bc56c9a0557d70a2db87aa015d551331fb729e86f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4004499d754ebd0db142be345e7d0de0/4004499d754ebd0db142be345e7d0de0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "beast-wars-neo-6050?ep=77028",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0dd89687dd5fb804ee05468c52553bc9844aa2ca29e4ff1184e323194669436f98b3d3d82f515f68064cbc4cdfed9f95ca23386bd8768d4920427797f4781502e39ce7c37bd3ae75f1707173b044db62d59eb77d33afad7c68599097d4dc392dfbb85d1219ada1fc550a921063765003/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19de9257bd33654735c637345e4a73e3/19de9257bd33654735c637345e4a73e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0dd89687dd5fb804ee05468c52553bc9844aa2ca29e4ff1184e323194669436f3782286d8fd49d65370efb75a8a455afbda5481bc24d39782887d7d76392fad031b93712b5dd943cf8aa59b8eef4c4c276a8f9f4ebd7d17d1ff666c38decb84879800341265ae9ff18c7ffd9751274eee565c330222c176458894c0e04f9ee12b55196ed32934f49bbc7bb9663044d31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19de9257bd33654735c637345e4a73e3/19de9257bd33654735c637345e4a73e3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "beast-wars-neo-6050?ep=77029",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fa8c90f4cc55988c65dc1132388eeae7ee87e4a26ada1ca58a0365505f6b2f3f498c030f8d1cea9ab1df4c43155bd6da5590ff95f8e80e3510ff14d1e2972177b7d84b6572611540a0dd1f838b00c7fa382816d6e49be78e3a1d5290d7f57e2201974e9f89facb45f58ff882b079eade/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ace1ee962158dfa9a3814cc6d12fa752/ace1ee962158dfa9a3814cc6d12fa752.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fa8c90f4cc55988c65dc1132388eeae7ee87e4a26ada1ca58a0365505f6b2f3f3147c9da26c5c24618a2d8b512a2d9180fdb2935c22e1b25b6393fa52b83abb0cf3c5d5e439ac32ab6a208459f088879e0564d531511b5e3eb18bc6e0aec96996ad3dfce0f291b8432df9468fe85ebc9d04dda9163b4471ed32c186ef637fc4ca56cc993ff8a5862075b134ad94174e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ace1ee962158dfa9a3814cc6d12fa752/ace1ee962158dfa9a3814cc6d12fa752.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "beast-wars-neo-6050?ep=77030",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8ca7303f94a3d997db50f82c3f9fceb96d1396174e861bc1020df7d86c1d87dde1da13e660c269a31506a1468684bb018ce828bdf12ba3670f3679f3d31bdc2526d0bc9b8054c1d465790aa8f0f3af1cd683a18da548505ce955b7829e3d2bdd62b04a70134f125ff16ba6cefa0ace12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30f1ef892fab4c570d0aefa4ef6abe8a/30f1ef892fab4c570d0aefa4ef6abe8a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8ca7303f94a3d997db50f82c3f9fceb96d1396174e861bc1020df7d86c1d87dd4b6cd18f621d5acff9d324f69754eb505545cbf672650b37fe251aab1b203540a852d1ff5dddff63c50f3c7b28048af47b7e79fe668755e67fad3fb42491675b43d2d732f87854881cfd6783c159e7dd4c54f8ace6306fcb25f599e07dd0995a82e5db6e61fcaf53c9fb8dbd6bec5062/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30f1ef892fab4c570d0aefa4ef6abe8a/30f1ef892fab4c570d0aefa4ef6abe8a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "beast-wars-neo-6050?ep=77031",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7611ae1cdadd83ce139fdc4f6b1075402cc207410a8dce9dff38fc0ab6969ae1656258c5a5351b1a45ee0e1103a7e49d511fea4cb93b0891f9dfb1c6a7722db86d70d9579d5806382619cedc037e87ce7b6211edbdf04cc5b66caca11387947c1021ba0809ef1df460a0669201a00f7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18a0003c28cf8d8233ff7861bf23d426/18a0003c28cf8d8233ff7861bf23d426.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7611ae1cdadd83ce139fdc4f6b1075402cc207410a8dce9dff38fc0ab6969ae1121926a4aca3b1eafb26b2a4f23778aeb82133b41068c5620236ccaa2afef37d111a7d8ce89a817ac25c8f1ccf52a11510868108803588d008e965f52b399311f1a0e63ae6f1f8dda90596fd124f64d1ebce8219815561abf762c56c78e794cba1b7025a247cbcd3779577effa3028eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18a0003c28cf8d8233ff7861bf23d426/18a0003c28cf8d8233ff7861bf23d426.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "beast-wars-neo-6050?ep=77032",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d1d7b90fcf19abf04f4ed97a316d7f8f58197dadfc50fe3c19b28098f8d04a06df63e4d56e893d40a23bbcd295c54db16c90a6d07cd03f473d1e23c6921eee0abcb4bac8a267dfc31e659d81f0e9cdcc6ac3e7a28f489a8582c81fa56959b93cce125b9b858c81acdcd565fc7c2d78a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6e72365c74f6dedc3ef3b974bd962ed/b6e72365c74f6dedc3ef3b974bd962ed.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d1d7b90fcf19abf04f4ed97a316d7f8f58197dadfc50fe3c19b28098f8d04a06ddab6b5180b638c382c5750665255e764c06e6ac31fb8a142cf8120c013329eb08c92545199533db847c0e62f0f550e8ac83556e7003108673431666419319b0f7804a08238fbe4f82fa366eba5d88a14fb5899ad88f78b8f1bce19b675e06ae6b051962178bb313d6e5476174e818dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6e72365c74f6dedc3ef3b974bd962ed/b6e72365c74f6dedc3ef3b974bd962ed.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "beast-wars-neo-6050?ep=77033",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f3378201352135182f472bb697da9388113c252e46a1f7587ea723d4b866492e6ee75e1d21db242805e4f5b1a8138bdaa815f54a4dc81794ba56d5798190b5122da0e9e966d0e0a014e1a77305c9c1e188cca804b20189b3ed555856e1bf52ae55eaac2c0601f5a3ddcbb5e64b56e7a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adcbf97a00fc3706821154524c8eb937/adcbf97a00fc3706821154524c8eb937.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f3378201352135182f472bb697da9388113c252e46a1f7587ea723d4b866492eee1b8b44b2e0d9fd846f435e1f67880103960a33f47d944bd2e4f7ab47d634fa62ec81e87059c138847504a473505d6b2c8e93cbe6d359fb5163073b502170658915a8ad9ae87419ae21c1f380a90fb8735301310d4b38df27e0635b767def89336e3fe914c7b8749c81ac7f6f931b11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adcbf97a00fc3706821154524c8eb937/adcbf97a00fc3706821154524c8eb937.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "beast-wars-neo-6050?ep=77034",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9120674c17c60ffce8879f958bab6f60d6b61431859a72ff090f53e16fb9a292a7e73111cc169d2ed3e3b4a2cd698ddac7feea40dd9ad0f25b96d18387a663f8a7cb63de01e904243ddd38296dd2d130d883c96202c15a7eb85fc2b9a48446b16358ae80cfbc5e4b235f1ea91b1b3b08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/62e7ac60f64ecf19ff4959af8b300e94/62e7ac60f64ecf19ff4959af8b300e94.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9120674c17c60ffce8879f958bab6f60d6b61431859a72ff090f53e16fb9a2929509ecd4fdfaca6184345d230ae7f518a1af895dbaccdf76fa41ad7aefaebb4d85106223fbba8ddfcc1b66ff3994524bf69d954cb50886fcc537d3ca5cbffacbba3c594ff55b0efe034ec63531902e3a6472341079980ffc5d779815b5535c7f2f3e9bc0464d1f2002e04704ef490547/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/62e7ac60f64ecf19ff4959af8b300e94/62e7ac60f64ecf19ff4959af8b300e94.vtt"
+                }
+            ]
+        }
+    ]
+}

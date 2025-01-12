@@ -1,0 +1,107 @@
+{
+    "info": {
+        "id": "pokemon-pichu-bros-in-party-panic-5537",
+        "anilistId": 0,
+        "malId": 6877,
+        "name": "Pokemon: Pichu Bros. in Party Panic",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a2cef089472eb858b233c8636010f.jpg",
+        "description": "This is an animated cartoon that was released inside the game Pokémon Channel.\n\nA half-hour long anime show, broken into five short segments, featuring the Pichu Brothers. Meowth throws a party that the Pichu brothers and their friends are not invited to. After a series of events, they find out they were invited, but their invitations were simply delivered late. They go to Meowth's Party and hear him sing. The series has a total of five episodes, each on its own channel.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "58m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "nyarth-3947",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/691cf00999231bf2d04cf9c5591c4b99.jpg",
+                    "name": "Nyarth",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "inuko-inuyama-3664",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/943f7192684fcf24d2bd776c8a7bee52.jpg",
+                    "name": "Inuyama, Inuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "narrator-21879",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e0b34965ba872b20a424f632f1fad9e.jpg",
+                    "name": "Narrator",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "unshou-ishizuka-256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb5065316073c262a114e439a0fb5d67.jpg",
+                    "name": "Ishizuka, Unshou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "soonansu-15194",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d0f9e33ece7a99ab59d0bfea57377d7.jpg",
+                    "name": "Soonansu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuuji-ueda-859",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/74418df652b7fe8a63ae3a7b1ae18a4a.jpg",
+                    "name": "Ueda, Yuuji",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～",
+        "synonyms": "Pokemon: Pichu Bros. Wild Adventure, Pocket Monsters: Boku-tachi Pichu Brothers - Party wa Oosawagi! no Maki",
+        "aired": "Jul 18, 2003",
+        "premiered": "Summer 2003",
+        "duration": "58m",
+        "status": "Finished Airing",
+        "malscore": "6.56",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Kids"
+        ],
+        "studios": "OLM",
+        "producers": [
+            "Nintendo",
+            "OLM",
+            "4Kids Entertainment",
+            "Nintendo of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "pokemon-pichu-bros-in-party-panic-5537?ep=125567",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cc443b794048973a3500dbeb3d162bc7495c4f17ed4ba9f59722d1e850c2414a5fc0f71d16c4be605e8ecc1ef2da65e80d24c22a7ecf3190bec48c186ee65808bbe0465fa28dd5b0d26877b3b018eb3d6fad62ec56da1026e57c32334cbf90abee0f272447224abc19b705b7ddaa05ca59f7c366a3cb13dc0947ad04590d43f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2cd81612bfe93d22fe562025ae9ea99/e2cd81612bfe93d22fe562025ae9ea99.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cc443b794048973a3500dbeb3d162bc7495c4f17ed4ba9f59722d1e850c2414a5fc0f71d16c4be605e8ecc1ef2da65e8ea765d405e67efe44b1d26c03b6b28f65f6ac37b887868252a65a2047493b4a1082de89abec6261f967f4acad6f98965a3839e63f322d9b94e6c7908da8c125acf00e2c8f061b6a68e90d343a944f3198a32ac1aaa5729490917beeae1d59f6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2cd81612bfe93d22fe562025ae9ea99/e2cd81612bfe93d22fe562025ae9ea99.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "info": {
+        "id": "infinite-stratos-2-5324",
+        "anilistId": 18247,
+        "malId": 18247,
+        "name": "Infinite Stratos 2",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c139455bc1480a2f35a7b0dc5ba6f4b3.jpg",
+        "description": "Second season of Infinite Stratos.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Winter 2013 version",
+                "source": "https://www.youtube.com/embed/HF1-h8afKYw",
+                "thumbnail": "https://i.ytimg.com/vi/HF1-h8afKYw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/pagnfkCUvZ0",
+                "thumbnail": "https://i.ytimg.com/vi/pagnfkCUvZ0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/6D6xnLd6isw",
+                "thumbnail": "https://i.ytimg.com/vi/6D6xnLd6isw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 3 Lin & Laura version",
+                "source": "https://www.youtube.com/embed/7543uuEV33k",
+                "thumbnail": "https://i.ytimg.com/vi/7543uuEV33k/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2 Cecilia & Charlotte version",
+                "source": "https://www.youtube.com/embed/BIlQu8xyEUw",
+                "thumbnail": "https://i.ytimg.com/vi/BIlQu8xyEUw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/tbzAo42K7LQ",
+                "thumbnail": "https://i.ytimg.com/vi/tbzAo42K7LQ/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/jBOqDtiIrIA",
+                "thumbnail": "https://i.ytimg.com/vi/jBOqDtiIrIA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "cecilia-alcott-3475",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/38761e28d2771efd907cd7faf445e6ca.jpg",
+                    "name": "Alcott, Cecilia",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yukana-262",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4c9b8dcdd8d891b193b27a0433bf9796.jpg",
+                    "name": "Yukana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "laura-bodewig-951",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/afd3eafc1124417998fdc50bb64ede78.jpg",
+                    "name": "Bodewig, Laura",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tiffany-grant-952",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d2172796f11ab41d07922c6a1d1d5bf3.jpg",
+                    "name": "Grant, Tiffany",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "charlotte-dunois-619",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+                    "name": "Dunois, Charlotte",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lingyin-huang-4044",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cfcc19ef804732919914204d6c7d2cd2.jpg",
+                    "name": "Huang, Lingyin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hilary-haag-559",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/015e98df3660fd64c255c6860788f531.jpg",
+                    "name": "Haag, Hilary",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "ichika-orimura-2827",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/27c88f65724ec0084cc8c9ba0ad61cdb.jpg",
+                    "name": "Orimura, Ichika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "josh-grelle-304",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46de2f786907f3ae6ecbb7e94bc208fc.jpg",
+                    "name": "Grelle, Josh",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "tatenashi-sarashiki-2278",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/548bba6116e826ca0aa0ad4c03f3cb9c.jpg",
+                    "name": "Sarashiki, Tatenashi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chiwa-saito-54",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+                    "name": "Saito, Chiwa",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "IS〈インフィニット・ストラトス〉2",
+        "aired": "Oct 4, 2013 to Dec 20, 2013",
+        "premiered": "Fall 2013",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.59",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Mecha",
+            "Sci-Fi",
+            "Harem"
+        ],
+        "studios": "8bit",
+        "producers": [
+            "Lantis",
+            "TBS",
+            "Sony Music Communications",
+            "Overlap",
+            "8bit",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Memory of a Summer",
+            "episodeId": "infinite-stratos-2-5324?ep=41213",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ad01628ff8963605d16921630fcab6d38ec4f507688530cd5deba82c970de32b71e06cb93c13803c95b380a486c039deeb6d2df46453f2ec16034c9088735057fafd2dd34629e3a3c068b6f8ad74e12276759d4d13cba7192a3412621e41730eb5381db28640066d8cccaaffb1b22eee08899fb6c6f9a5cfedafb414f732ad18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8b09a4ac34d0bfdd45e1d9d9be1532f/c8b09a4ac34d0bfdd45e1d9d9be1532f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ad01628ff8963605d16921630fcab6d38ec4f507688530cd5deba82c970de32b71e06cb93c13803c95b380a486c039de3c92519b86b76da5e1b58b1382560d638bc56ee525e5249402e4e8e983511d384f9da0b3aea67abeaecc7fe469b4662856f84f493b681fcf04a032dfe29fedcbb92bbdf666b867b536231bf50054db0ca36913c6fba8c33782205d7fb6363548/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8b09a4ac34d0bfdd45e1d9d9be1532f/c8b09a4ac34d0bfdd45e1d9d9be1532f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Heart Pain Killer",
+            "episodeId": "infinite-stratos-2-5324?ep=41214",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5fb0c1faafb4e650e78d42ae626d26d21c21dca1e0574978e2f238c552fa65f6e9d24c798922f73ec6e9faef33d362857054fc984677b3f6e9685416a1c56630e8c318dbad1384367d3d9067d49246e6044f3e4c35801fb35e4ee3c7fdfec3b605e4610a352a59c8f3e516dbcdf6cebbd34aaef62d4f2d6f8899d413c55487ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ee6d6a1e59c8bb6e81b5a452dc763d0/8ee6d6a1e59c8bb6e81b5a452dc763d0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5fb0c1faafb4e650e78d42ae626d26d21c21dca1e0574978e2f238c552fa65f6e9d24c798922f73ec6e9faef33d3628572a9c660f5d682cc13e9477186c694080f6e3ae3c7e071bcb44d9ccd040080694b1dee72257698e032430f7094fccacf571d661ca1398a559ca224bf6580f0b9ec8d147f8ff567ba14130b9dbabf5f4024b4cee14e059b8d52ad7db93ac4e9f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ee6d6a1e59c8bb6e81b5a452dc763d0/8ee6d6a1e59c8bb6e81b5a452dc763d0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Translucent Chord of Cinderella's Heel",
+            "episodeId": "infinite-stratos-2-5324?ep=41215",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/df1a0f37a815e8a4f2c6048888e475336cf103cc9ba6e5932f5bd6eba87f51a2866c84a9f53b0fe68287657c9a4cc565a024c6cbbf6e35a5966a78c44103e71650ea492b2591ee08f799f2652f28d7d5a51b182110799724c6cb868cb9ab0035b1f00d420eee8047e37aa88b71e1d43c2f1c34b821a1755556af87f8de68fb49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2330744841a8463904849164269de29d/2330744841a8463904849164269de29d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/df1a0f37a815e8a4f2c6048888e475336cf103cc9ba6e5932f5bd6eba87f51a2866c84a9f53b0fe68287657c9a4cc565911e2bd6b64779953d79268a3f89ea6e395efbb519a7bbd8aec01ea305d76a37562e823ed963cb093bc9cd35f633383f87de52612c4401790ad7387b7e7b4767d4b6214087b3a5b6cd19508313146ac72c0b9d7afa6cf1bda3aa24120035ff8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2330744841a8463904849164269de29d/2330744841a8463904849164269de29d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mysterious Lady",
+            "episodeId": "infinite-stratos-2-5324?ep=41216",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4b4cf7e14a5632f64a6d048b8253bb8d6a9316c3deff0299f3dd3a4affa5424535a849424d87e438451a73443747006267232482fc1411aec69de852c73d7607928692f2cc49513fe3bb57854ea93d116defa466a3f1bac7e2217b7769eea532134a648a2e1f2d221af4ee841987324d41a584bf0dc53cfc089b6e335939cc0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3779bb1c22ae1270b7118a566ca378ab/3779bb1c22ae1270b7118a566ca378ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4b4cf7e14a5632f64a6d048b8253bb8d6a9316c3deff0299f3dd3a4affa5424535a849424d87e438451a73443747006274cbe175d7c065d7ef6325d8994fb888257917eeb14488f7392340e9da6539dd37a14c34110f997526266ee4bc71b9de25d7d24fa64bedf7020b7e6e3760d9b75388a1b749728787532d891cdeb714756fb394706edde9c5379f23865c34c91a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3779bb1c22ae1270b7118a566ca378ab/3779bb1c22ae1270b7118a566ca378ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lovely Style",
+            "episodeId": "infinite-stratos-2-5324?ep=41217",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c353b6edb004b562ec3842de7dc3cc130bc17a0012ec741fcff57248a5681c74555811f232b50e4b5902dd9c019ba888c7a048a0c7f2764057c41cf5f4e877412db48ebf3ddfafdca1cad511e55841b3fd32c11ce3523f8bc3f849c0ec7485814d60dd970fa5838c78b92412e59a36f281b1206e383b8619743ad610806a6c1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473b49e6c31412a3f358e76859713711/473b49e6c31412a3f358e76859713711.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c353b6edb004b562ec3842de7dc3cc130bc17a0012ec741fcff57248a5681c74555811f232b50e4b5902dd9c019ba888689ef8e42e53253d833f6bc8c29054ec581e9defc5edee3eb61edf0cfa87ff92c66e9bf01ca65ff07241e5dc0e1b9872ae2a0b5b362bcb9249ca238c566197c966347c98309e86b2e844a97b8aeb772580bf1ee590b025c20bc3a9c3d0bfcea7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473b49e6c31412a3f358e76859713711/473b49e6c31412a3f358e76859713711.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Secret Base",
+            "episodeId": "infinite-stratos-2-5324?ep=41218",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5f4131ec561536c2164e4af12a89582e1899dc2a3d445fdcc93c6b8c54b3e3666c245ebbcaf5b7e862c21f305722f30df3de10fefeb978e145c99dd13ed49bcc7f2f26b625d90a06c84b23f5d47c6c2503718500c99ea5fccaac87727324ac52899dc436cb1b53f8c07f5264174ab70fcca53126dc3379c239ebda362b02001e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2de5b61f37003b12c3d24a52cc0b4e8/e2de5b61f37003b12c3d24a52cc0b4e8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5f4131ec561536c2164e4af12a89582e1899dc2a3d445fdcc93c6b8c54b3e3666c245ebbcaf5b7e862c21f305722f30d1bf31086d95046a481805eca2ad09c2060ca1a5292fc237f5bee7c83b881626a1240ca87f42aa8d497d6ff690161582a821479598e2946ea0e77af36d029ff9c9f69e112d0fa9617acfa33485708128bcea2860b16affb5fbca93db523e61c5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2de5b61f37003b12c3d24a52cc0b4e8/e2de5b61f37003b12c3d24a52cc0b4e8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sisters",
+            "episodeId": "infinite-stratos-2-5324?ep=41219",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/cea541d5e1dd3af54bb004ab7ca84d8421adacc02e3505cc74d84266ed0ad4ba0f5cd6ecf528b2ec32366755e342cb412b864241c5a4bd429c56f4f4a66b62dcb6954f2d005b5c38acaa62ce64298c6007a66a21838e591409565d0e6776a6ff5c42cbdf4bb7fb568677bd45f1038f2581a93faac28fbde8cabfc4da894cdfc3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d89d2e3a4744c3327efd6907fa434c67/d89d2e3a4744c3327efd6907fa434c67.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/cea541d5e1dd3af54bb004ab7ca84d8421adacc02e3505cc74d84266ed0ad4ba0f5cd6ecf528b2ec32366755e342cb413e8e526e935887c999211fd1d4988de9934ca5982d638fa3782033a3df1e9e1aadf0840a1d2ac14135709ffffc7646d4d05682cae31d9b410c00fab1ae1c170ad70a118b7eff473450820c5c676d0bbeb394f585f5625e0bee47e5707c66235a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d89d2e3a4744c3327efd6907fa434c67/d89d2e3a4744c3327efd6907fa434c67.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Open Your Heart",
+            "episodeId": "infinite-stratos-2-5324?ep=41220",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5a01c17cca76fe1eae20c050d615905f413d132b85c66186848bc59f39d66bf3b2490d8b8d71476db2c4b41bf7b68273d5064ffa96c28de3481a4c6bc48bde4b1b864eefa7ec70bf94cdb86092bde64cef483e9136176a807f7d90f4281f4c41d0dd248e38c7e3ad0c273b33c670ebacea1bcfc22c3c23f1f419ddac29f170c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dffc1398b81761b500f2d3963b919ce/5dffc1398b81761b500f2d3963b919ce.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5a01c17cca76fe1eae20c050d615905f413d132b85c66186848bc59f39d66bf3b2490d8b8d71476db2c4b41bf7b6827344df1502aae77d6811b1158b287bf94012dc6b1c9436cfa1c68537bb7c177244b7ab8b2d35df91b0996ae8c00259b77831350ec68a832163b4bab5f77a65419cc6b1af20f1250d82e5c2e56598b7808b8669b5d3ce4cf140249ec58cc4175764/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dffc1398b81761b500f2d3963b919ce/5dffc1398b81761b500f2d3963b919ce.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Requirements for a Hero",
+            "episodeId": "infinite-stratos-2-5324?ep=41221",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/46fa4bb88eb6712b123b5e2a732107f27284e7004cb3598606c2c60b18c66c1d29772af3f37a1cc1b930019b2ddd63cd6fb0e229782278d01514479d2f062fa7e95aa938753f992a7967dd5072a786fe239d8fa82bcb77ca391db29ea9ef3964e48f9271fd7b9d0e6cde82b6667056ebd7bbb0e0436f5a3e9966e290688ca942/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f06d440abb63d71128d1355337360cb/9f06d440abb63d71128d1355337360cb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/46fa4bb88eb6712b123b5e2a732107f27284e7004cb3598606c2c60b18c66c1d29772af3f37a1cc1b930019b2ddd63cdca6c7aff6518bb5dd86b48884b4e6fc5fca7987d1117d4447970d7d5f1762f73288948b47d1861af572858ae342aee20301ff207697fa492789a64f4c8e787d7e529c515dc486cc95d61cd1c72a7ebab630048fb2de0b292bcb56b999cdc1da1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f06d440abb63d71128d1355337360cb/9f06d440abb63d71128d1355337360cb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cooking My Way",
+            "episodeId": "infinite-stratos-2-5324?ep=41222",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e8c46c8718271f85cd08f26131fff9a2645ace0b8113114d445725174322785497bf317a0379353778fc81cbe2be5f2addbdfffba2841c7f5754565f8db9717febd3c5445f197a911e229d60ded3ec356fa407f56901368b8002b21f4a2fd2df1d0356c4167db532c12556f86a652e8047c24163ae20cc1c342492e29e843a8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4a71f9afaabdf7695cb3f6810f3e84d/b4a71f9afaabdf7695cb3f6810f3e84d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e8c46c8718271f85cd08f26131fff9a2645ace0b8113114d445725174322785497bf317a0379353778fc81cbe2be5f2a2353f3e2e130fa1de004cc78d1d7f90c42452ceeba57aa79b824bd1386a710b765e61e75718a83acc6dcb47340657822acfa5a0ffafabbcecc89162fede4e174bb5b64e9c321eef19197175f23be175d05f52283be4465e55c217263703d72e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4a71f9afaabdf7695cb3f6810f3e84d/b4a71f9afaabdf7695cb3f6810f3e84d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Looking For Memories",
+            "episodeId": "infinite-stratos-2-5324?ep=41223",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b002efaf0e752d08221c0d4753acc3e3bdb7186c2f735acb4b2444b1e9951205f66dd0f129d3780640dd8c0fce46e4de7d0e0d8841e68d18f9cd0c10f130e7f3d7044e30cde5b026eb21615fe728b341f2c82f23b8205d5b54b97c21f185e26985de45d2a912704dd6356d165814af019c59fb79b4173cfac6a47f66dfe9ffce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aaf339d1050b8dc6b6bbe0abaa3d1d15/aaf339d1050b8dc6b6bbe0abaa3d1d15.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b002efaf0e752d08221c0d4753acc3e3bdb7186c2f735acb4b2444b1e9951205f66dd0f129d3780640dd8c0fce46e4de5ef10032c44a4ce465c85e978d3c03eeccd7629beb25299ac45b4ef4aaa0e7df4773d124701b7bbaf851362562fb341c6ba99b01956fc68679c96ea22bdce0e04bc88a6cf1147f22c55f883913d7bdd9af93021f52a4a12eef2fefb5e6fdb507/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aaf339d1050b8dc6b6bbe0abaa3d1d15/aaf339d1050b8dc6b6bbe0abaa3d1d15.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Girls Over",
+            "episodeId": "infinite-stratos-2-5324?ep=41224",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d1068f6b23fc985fb614087a0673f6cc8bf9d2c62cfca700d3331a5693b8a4a28b2b07a22d2dc5aae7d5fd6aa9288929848455e1a1a1a5457bf2796c3b13239b26a0cc8c2fc6c0d255fafc03df973f87a8a4ee4ab6f0de72ed0883bb02ba5891ed181656066211db16f707a04f89b34ce5a9034b028aa84805ce3ae206a42fd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93097be654c1d843f46da7cf87373475/93097be654c1d843f46da7cf87373475.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d1068f6b23fc985fb614087a0673f6cc8bf9d2c62cfca700d3331a5693b8a4a28b2b07a22d2dc5aae7d5fd6aa92889292ef35e8052d0c5432f46fd4650b99437849aef284d8a82a8cf9122c87b15a8928ba1432d9761d482bccf672967e88ee5d8bca8367c01e65057bb654d52c194562de4f74caeed2cb4cc10c5ad7559723007e7de14d4371c5450834fdea5e3d907/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93097be654c1d843f46da7cf87373475/93097be654c1d843f46da7cf87373475.vtt"
+                }
+            ]
+        }
+    ]
+}

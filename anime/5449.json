@@ -1,0 +1,107 @@
+{
+    "info": {
+        "id": "hackintermezzo-5449",
+        "anilistId": 0,
+        "malId": 1143,
+        "name": ".hack//Intermezzo",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20068dbb6c6a731c9fb34185ddc44c0f.jpg",
+        "description": "A virtual multiplayer online role-playing game exists, known as \"The World.\" In \"The World,\" there is an event held in the Dungeon of Nankoflank that Mimiru, a character in the game, undertakes with Bear, another character of the game. Mimiru confesses to Bear that she's not doing the event for the treasures or experiences, but for the memories and experiences of when she had first started playing. The two later meet a certain character named Mimika and together, the three proceed through quests and events as Mimiru learns the meaning of the game.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mimiru-6256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/937db6baf0b686774e8bea0b41614308.jpg",
+                    "name": "Mimiru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-toyoguchi-281",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d55ac591b7383713cdc88d281281b19.jpg",
+                    "name": "Toyoguchi, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bear-7642",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/424325db2a7ab6e8db211f71ff68caea.jpg",
+                    "name": "Bear",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kazuhiro-nakata-3512",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d610b10811858a8c5db5cf114a9973fe.jpg",
+                    "name": "Nakata, Kazuhiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mimika-44599",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5f0a8d0d75d6a03f397a8e416085ee0b.jpg",
+                    "name": "Mimika",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "masako-katsuki-1400",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02260e59eba7bce07d75cffd4e15946d.jpg",
+                    "name": "Katsuki, Masako",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": ".hack//Intermezzo",
+        "synonyms": ".hack//Another Story, .hack//SIGN Episode 27",
+        "aired": "Mar 28, 2003",
+        "premiered": "Spring 2003",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.57",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Fantasy",
+            "Game",
+            "Magic",
+            "Sci-Fi"
+        ],
+        "studios": "Bee Train",
+        "producers": [
+            "Bee Train",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "OVA",
+            "episodeId": "hackintermezzo-5449?ep=82011",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7226421e65f26d095d3fbb1e74c233fecbf8882abfef05039040da7377c6a8fa6f100a71edcf1338baabdcb7892c6b3e4d59e92eb373f907d90a1d9801be4f8102375b4b13cd9336649ea0eb1cf43a69d497f94a3cbff506fb2628c6da6e881f37a432f70549605490e04b264dd3b0d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a666ebc545241298884fcdf8bccd4c8/8a666ebc545241298884fcdf8bccd4c8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7226421e65f26d095d3fbb1e74c233fecbf8882abfef05039040da7377c6a8fa2624c14967139d32cbabc53b60c5b1fae49b9fc0b1c3827eb4a2dca298ad6cb3c40ef4df71f0bb3c0b2650d998fac0b6c9acaa8fc2a840a4f9f4d2a9670d8b764fa38ea18040a9495dcdc56834531e20dd4d1c563f52d64a14e9e4fbfc686cd2582b76b36f859b3fe02726c0605fcbf3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a666ebc545241298884fcdf8bccd4c8/8a666ebc545241298884fcdf8bccd4c8.vtt"
+                }
+            ]
+        }
+    ]
+}

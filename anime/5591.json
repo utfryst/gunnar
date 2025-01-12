@@ -1,0 +1,88 @@
+{
+    "info": {
+        "id": "fatekaleid-liner-prisma-illya-prismaphantasm-5591",
+        "anilistId": 0,
+        "malId": 38897,
+        "name": "Fate/Kaleid Liner Prisma Illya: Prisma★Phantasm",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bd26a87a43f0795138da9a4993aa10f.jpg",
+        "description": "A collection of comedic shorts featuring characters from the Fate/kaleid liner Prisma Illya series.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "2m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/VxFWkE-uIcA",
+                "thumbnail": "https://i.ytimg.com/vi/VxFWkE-uIcA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/",
+                "thumbnail": "https://i.ytimg.com/vi//hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/QWfRXAAjq1Q",
+                "thumbnail": "https://i.ytimg.com/vi/QWfRXAAjq1Q/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/8H-lRJFLuTA",
+                "thumbnail": "https://i.ytimg.com/vi/8H-lRJFLuTA/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/DPzGVBjPqN8",
+                "thumbnail": "https://i.ytimg.com/vi/DPzGVBjPqN8/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "プリズマ☆ファンタズム",
+        "synonyms": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm OVA",
+        "aired": "Jun 14, 2019",
+        "premiered": "Spring 2019",
+        "duration": "1h 2m",
+        "status": "Finished Airing",
+        "malscore": "6.55",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Game",
+            "Magic"
+        ],
+        "studios": "Silver Link.",
+        "producers": [
+            "Silver Link.",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "fatekaleid-liner-prisma-illya-prismaphantasm-5591?ep=123817",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/14555915c3b1b59f833b2ca7b7e04ff3d8a408be3230debe508e082e37f839d9a24beec1af2e69300dad775cfa9a1aa5de0bddece7f4289e8d637cc1a7461b190256442f8008e98472241ebdd1b014fb4019b6298ebc5da3f2096ab2b590395135977ea92493ca00eac355799bf278fa72fd99a20ec474ff6c265ee71d76738a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0719823cf41585b2ee63d6deca707166/0719823cf41585b2ee63d6deca707166.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/14555915c3b1b59f833b2ca7b7e04ff3d8a408be3230debe508e082e37f839d9a24beec1af2e69300dad775cfa9a1aa573fceaf6b9c94ccc2aa16853fcf0bb6da6ff75b6cd76a72216c3c69ddd5c1edb467bc71a35fbd5f052ae9303863350a0ead0878e2e37507433e20836f51586da5da9181157a58acc36adc56375d7fa108510128d0d11b0bb09b43de7ca49ddd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0719823cf41585b2ee63d6deca707166/0719823cf41585b2ee63d6deca707166.vtt"
+                }
+            ]
+        }
+    ]
+}

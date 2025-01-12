@@ -1,0 +1,116 @@
+{
+    "info": {
+        "id": "seiyus-life-petit-uchiage-5922",
+        "anilistId": 21737,
+        "malId": 32993,
+        "name": "Seiyu's Life!: Petit Uchiage",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db9fef6e514b53e9de2ee08467d59605.jpg",
+        "description": "Special episode of Sore ga Seiyuu! bundled in BD & DVD Vol.7",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "14m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "futaba-ichinose-13141",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/15264ba63f5e6318703ec0507646095b.jpg",
+                    "name": "Ichinose, Futaba",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-takahashi-16",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/41192ea8832d0c749f16b87f1f6dc7cf.jpg",
+                    "name": "Takahashi, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rin-kohana-16035",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c2d3401048ff22d2c765f3887f5d486.jpg",
+                    "name": "Kohana, Rin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "marika-kouno-1135",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c1f9e0a9d3e5aa4dd3722ec5373a7220.jpg",
+                    "name": "Kouno, Marika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ichigo-moesaki-16029",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f07f439deb6067489369343c10246436.jpg",
+                    "name": "Moesaki, Ichigo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuki-nagaku-1905",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56805264562072a031ee0e2a07c80d88.jpg",
+                    "name": "Nagaku, Yuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "masumi-asano-79396",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b6832058be9498a9021e64bc8df1133f.jpg",
+                    "name": "Asano, Masumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "それが声優！  特別編「プチ打ち上げ」",
+        "aired": "Mar 23, 2016",
+        "premiered": "Spring 2016",
+        "duration": "14m",
+        "status": "Finished Airing",
+        "malscore": "6.47",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "studios": "Gonzo",
+        "producers": [
+            "Gonzo",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "OVA",
+            "episodeId": "seiyus-life-petit-uchiage-5922?ep=84341",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/cb6ba78a6c60a30f2bad7bb507a54098906260de869e77e6f1583cfa0719acfe1310e907ef4b1192b2d3e8834c735f6b1d8c714c9d2743eafea829123ad277d23fa0b64675435deb04bf870fe342a3d71d556b18867a0c0d2907e7d7a297a37a5de5a0469ef7e839c1624697e5b409150d454b121c77d24a0e9f4a27ecf12c7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2331170a9cd5dda0402ce5387027a79/e2331170a9cd5dda0402ce5387027a79.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cb6ba78a6c60a30f2bad7bb507a54098906260de869e77e6f1583cfa0719acfe1310e907ef4b1192b2d3e8834c735f6bab56373e7b38adf3054fb33ecd73fa88cc52825f3ebe7b28958608d9ebaae431db0faaf68ca86f66ea682d56f185c357ce30fd33fe2bee67582f711dcaf25d0f6bb17e98284c372d70b9ca2022b8b0a9a241ced81a16c7b774066d26fb1d0fe3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2331170a9cd5dda0402ce5387027a79/e2331170a9cd5dda0402ce5387027a79.vtt"
+                }
+            ]
+        }
+    ]
+}
