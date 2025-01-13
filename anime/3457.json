@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "paulettes-chair-3457",
+        "anilistId": 0,
+        "malId": 23285,
+        "name": "Paulette's Chair",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/696ba2468c298eb072a8db41a5e8f227.jpg",
+        "description": "noitaminA's 10th anniversary commemoration short special.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "ONA",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "poulette-32087",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/23fba77c8facd411186d05236d4fa470.jpg",
+                    "name": "Poulette",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ポレットのイス",
+        "synonyms": "Poulette no Isu, Pollet no Isu, Poretto no Isu",
+        "aired": "Mar 21, 2014",
+        "premiered": "Winter 2014",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "7.04",
+        "genres": [
+            "Comedy",
+            "Kids",
+            "Slice of Life"
+        ],
+        "studios": "Studio Colorido",
+        "producers": [
+            "Studio Colorido"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "paulettes-chair-3457?ep=94132",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/546b707123c49d176714cb70cecf882412d2f79325aa9e6cf3f6a6097e185488f773bf38c9cf7447c1b1f2f094009a9d2ee4998f19fc6eea6ebd6310f3e9aaad135c9028fd690727a1c80e6e8c713cf2109bf6d5124a4c6957707ac21f63183d0fdd1cc2c8b4113b8da8ace2b3948004051870271f0d8f6fabbdfac058f2f3dc/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/546b707123c49d176714cb70cecf882412d2f79325aa9e6cf3f6a6097e185488f773bf38c9cf7447c1b1f2f094009a9d72276e36d558a192cd7a892c8b5958294c4af90f5c67e464f6001062d1cde4a7e4a9409c55223747f61acac0397109e273d466a4702566fcd8715b62931a3166b5185399abd2ed5af0457fd5d4eaa2eebe1c68d895f826bf1d65823b15504311/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

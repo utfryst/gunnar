@@ -1,0 +1,379 @@
+{
+    "info": {
+        "id": "dog-days-3584",
+        "anilistId": 0,
+        "malId": 16385,
+        "name": "Dog Days''",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/552cbc375682749074f9b4803aa4fd84.jpg",
+        "description": "Cinque Izumi, Nanami Takatsuki, and Rebecca Anderson must once again embark on a journey to the continent of Flonyard and participate in the friendly war games of the three allied nations: Biscotti Republic, Galette, and Pastilage. Cinque is Biscotti’s hero, who also happens to be the cousin of Galette’s hero Nanami. Rebecca is Pastillage’s hero and a dear friend of Cinque.\n\nDog Days'' begins in the human world. Rebecca prepares her things for her journey back to Pastilage from Japan. Meanwhile, Cinque and Nanami set out to travel to Biscotti and Galette, respectively, all the way from England, when suddenly, a freakish streak of bad luck—in the form of lightning, of course—sends them off course. They soon find themselves in the great Dragon Forest, protected by a Dragon Priestess named Sharu. The Dragon Priestess informs them that demons threaten to invade the forest, as well as the whole continent of Flonyard!\n\nIt looks like a real war is about to begin in Dog Days''. Can these three heroes save the whole continent from these evil beings?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/plB04VgZ5SQ",
+                "thumbnail": "https://i.ytimg.com/vi/plB04VgZ5SQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/VwSQmYp8SwU",
+                "thumbnail": "https://i.ytimg.com/vi/VwSQmYp8SwU/hqdefault.jpg"
+            },
+            {
+                "title": "CM 5",
+                "source": "https://www.youtube.com/embed/AXq_SqTD5DA",
+                "thumbnail": "https://i.ytimg.com/vi/AXq_SqTD5DA/hqdefault.jpg"
+            },
+            {
+                "title": "CM 4",
+                "source": "https://www.youtube.com/embed/F71W4lH_jsQ",
+                "thumbnail": "https://i.ytimg.com/vi/F71W4lH_jsQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/GJYe3fP8HI0",
+                "thumbnail": "https://i.ytimg.com/vi/GJYe3fP8HI0/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/l1dUPGT0at4",
+                "thumbnail": "https://i.ytimg.com/vi/l1dUPGT0at4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "rebecca-anderson-13104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/91987c3db77bd7c4d1fcb9a7425073b2.jpg",
+                    "name": "Anderson, Rebecca",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mikako-takahashi-988",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/309a7e825159456ccb2cc3571b83d676.jpg",
+                    "name": "Takahashi, Mikako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "couvert-eschenbach-pastillage-14138",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7a72933c0e9e2177388d867264a2254.jpg",
+                    "name": "Eschenbach Pastillage, Couvert",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aoi-yuuki-20",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df6df1997024579a228b6f2bbf984798.jpg",
+                    "name": "Yuuki, Aoi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "millhiore-firianno-biscotti-3806",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/393eefba28c677ca7ed7f8352f57e7fd.jpg",
+                    "name": "Firianno Biscotti, Millhiore",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "leonmitchelli-galette-des-rois-5472",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7bfd3e3b790a64e6efdf64978fa8427.jpg",
+                    "name": "Galette des Rois, Leonmitchelli",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ami-koshimizu-112",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/099eade37d4e48d42fac02eda385d4d5.jpg",
+                    "name": "Koshimizu, Ami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "cinque-izumi-5739",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa160e95ee596212f733126101ef8226.jpg",
+                    "name": "Izumi, Cinque",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mamoru-miyano-3",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e2a746d4a2e61a55c2ffa90ccb18c60.jpg",
+                    "name": "Miyano, Mamoru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nanami-takatsuki-18429",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d5be7d23682884fa8ca1dfa799d88fc5.jpg",
+                    "name": "Takatsuki, Nanami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nana-mizuki-44",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e96cfd431b8d86399686b68bde678115.jpg",
+                    "name": "Mizuki, Nana",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ドッグデイズ''",
+        "synonyms": "Dog Days 3",
+        "aired": "Jan 11, 2015 to Mar 29, 2015",
+        "premiered": "Winter 2015",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Magic"
+        ],
+        "studios": "Seven Arcs Pictures",
+        "producers": [
+            "Aniplex",
+            "Starchild Records",
+            "Bandai Namco Games",
+            "Glovision",
+            "Seven Arcs Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Once Again, The Hero Returns",
+            "episodeId": "dog-days-3584?ep=34183",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/94ed86578d61a0cfa7dec0bf16a0e0c085bbb405ddc3e22b0b53a2b1d8a0ed5257f4c33beccd6e1a52bc7750bcb045d378b076d348611155768b45f93a7058931fa804d066483026481b9946b3fe89ce7a095d09029a04208d75b53b6e8112ffbd9dd0e6a4c3f93a2da95e7e0f726184adf6fd313a81b66d7656583ee15c3d62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a44025f4f3f15e21ee8bc66c63bb392c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/94ed86578d61a0cfa7dec0bf16a0e0c085bbb405ddc3e22b0b53a2b1d8a0ed5257f4c33beccd6e1a52bc7750bcb045d38a6a7dbc43d625d77be06a631722ddcfcc65848a39b0a80079888f73b1ebc7667e2d04a3d61c72eeeebdd2b98bb672c705f319e419792e5d409a6c720e6a6e6452a5dea433cb6ee18f7c84b67681755c82d33a9dda0a35ee5d7f1c35ef83ab50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a44025f4f3f15e21ee8bc66c63bb392c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dragon Priestess",
+            "episodeId": "dog-days-3584?ep=34184",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1a2c30aea74d69ac95896842b18a0c7b1992198b4681bbe84d99591a726ab672219726245a475fab955a8af123f0ffeae68af6fdcc459b36e5160ceb17bad462b6e6a39516e48a0a3b8e44e9754d6085c0b738abb70ebe04fd59d99f623af74f8340881e44750617675e89f1f78fb05e16dda83dba3f1770f89bfe481a07fa6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fe9c65e2dd6fc5157204c0ae29adc53/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1a2c30aea74d69ac95896842b18a0c7b1992198b4681bbe84d99591a726ab672219726245a475fab955a8af123f0ffeaaf6423c4d0351820232192694df2ab35959a952579dee485ce54c30c00aef425914f2b6f536f1ae19e4008013c5861b33e12d2db75f94588c680add1f9d33a33f40262735c50206a1446773022846538be4c25f63184f97b0621d027b5e2a8f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fe9c65e2dd6fc5157204c0ae29adc53/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Decisive Battle! The Dragon's Forest!",
+            "episodeId": "dog-days-3584?ep=34185",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/86387af7bb407364421690a7a54ad95b10b2071d6c49fb944a428a1e3e5b66b4e6e3b49b8ac8d9996a1d881c09bf6e72758e0cacdb0644580c90901e792cb0ab937bbe04df34d8d4c3d4e2028e8aa9a2dd9298458578197486745186812127d83e52ba5c6a03d7ef32327ac75c5e89dcb32f093d4bfc00dff7350358f19e7e31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8487fef3c6de7cfb39ffba8d11672c43/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/86387af7bb407364421690a7a54ad95b10b2071d6c49fb944a428a1e3e5b66b4e6e3b49b8ac8d9996a1d881c09bf6e72231dddd834f470dca1446679aeb9dc8e59bb96f12da36025655fc91e3c0ecc1d7e313f593aba61ff0e1ff4ba1288296c546bde2b925fc5730ed13faf34e3d12afb115f3ccf70bb0cabbdc1f1ffd57623dc2ae474118bc7e485f63d32ab1a81a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8487fef3c6de7cfb39ffba8d11672c43/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What's Passed On",
+            "episodeId": "dog-days-3584?ep=34186",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d78156a0752073aec8603d2200b10c591882de01f90b44c068a18cb754bceed639e148f1c82a8408dab216744d36a47d1f66ed92a4a2874069d483b064ed8643316aa19a0549da486601ccabd595a5596ecae9cc5f1593258ef4e4e79811f7107f92c2264fed500ffaa4e576c33c8e613088ccd00e9d9372a91c62aa768b5bef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c44649c609adbd3f5e52c42e8675d565/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d78156a0752073aec8603d2200b10c591882de01f90b44c068a18cb754bceed639e148f1c82a8408dab216744d36a47d9efbb773c47a3cf4f9e8b5be1731715e8bcdaae1f81f10dad40cff6956b583e143e96c4782f98ef76e0d5a27f4c1ba00d515ff3f22e882504c54c840bf3ce638f8fa943a9770e55bc1eb4b50d32ecba4f2f6499af350c3716ece96e634131c61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c44649c609adbd3f5e52c42e8675d565/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Exploration at the Crystal Mines!",
+            "episodeId": "dog-days-3584?ep=34187",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/13bdc76aa1c6bd85f1bf677a9b579d49408460de2e68e2d4919835da7cf5b1e3992af83a2738ec526186e96edebaf846ad3d09fb6fb6271e82412f2d4c40126c2ee81a586306b363fda5f427a62cd6096560c75319f00168c9d7c328280d96ad43de0540b273e04315d7971c0aabdaae6883b8953697e47d4a15151e1db20b28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79d9651d57d7f53ec20f45d1dfa1f39d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/13bdc76aa1c6bd85f1bf677a9b579d49408460de2e68e2d4919835da7cf5b1e3992af83a2738ec526186e96edebaf8465c7d088b0019a42f5a711ff5842e27ef770f321860397b09e306abb781ab5dd348f9d23b8b45e1c806cca0757edac66439891d13624b3459fa7ecfc5a00ff155a0e89cd7949612998d6c2fe32d54e349262071aeb0c96aaa513a9037236fc140/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79d9651d57d7f53ec20f45d1dfa1f39d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Lion's Arranged Marriage",
+            "episodeId": "dog-days-3584?ep=34188",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9eca8e80eb5160f8b9ee1bbdadace3d254dcf044292ba6531c57f12e6d19f2e630ad3e0d8478848a70d65b49fb16d3a1084037fd54af4d30d17d0f72d81107e212cfba0f27e1ba7acf3531bb513182e4206215265bb98ffe587e913634e0996c313fba92173271cb5b5f0bd068c69cb07a21482eae0ebdee24782b9a3caa048a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fba158e0254a2326c199f3db893896f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9eca8e80eb5160f8b9ee1bbdadace3d254dcf044292ba6531c57f12e6d19f2e630ad3e0d8478848a70d65b49fb16d3a1b63e0c250d27c575ebfb23d014c82e6e22200fab14a6d76533052881ded56c1a25b435f7b3d8cc65336b156ead49cdc842a1df8a967411f995b87f5aa6d120c7fadbde2e87cc1c682ae0014b544aec18fbd539953e2708f853e43dea37efe3f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fba158e0254a2326c199f3db893896f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Little Prince and the Legendary Hero",
+            "episodeId": "dog-days-3584?ep=34189",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f19ede37bb9403dc893babd1580ede682d9071d88a4baf228eb40ad4b42241d70da39ef2488c909fa28cc91820e27c8163a83a08a4092f2b1e2bd3e24dbb7a0952411cd5584c004c3da89f35f3da8643068f1e97e0ff9c85b0e533a6659b334c8361449ad7de5bd7089895cd0ca9fb552ca8c56ff5ba827cc253222a8264f111/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f479c07be25b18ecc8426ddd7500c264/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f19ede37bb9403dc893babd1580ede682d9071d88a4baf228eb40ad4b42241d70da39ef2488c909fa28cc91820e27c817d1293c902efd48624c5a33ecd913337e958a29fecafc1cd364ef967f25fb1230dccf29414af8aaf3fcdbd759281e09f84bc45b561c6861939b46b8882d100e94fccc68c2b319fdb9378619535784afd551e1869d7e7ca0b6d854a9395196d70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f479c07be25b18ecc8426ddd7500c264/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Recollection: The Story of the Hero and the Princess",
+            "episodeId": "dog-days-3584?ep=34190",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3a2e1a3f9236195c8aa7d3ba3fb70c2b978cedf028508231fa7dedcd153d50b129e9aa6377d1910c6298c4e3b4c4ecf2a0763de4456293efaf1fe74db7d6364edd2cdebf96c727e359f0843d98f7ef3e59df785aa7994c5a2006edbb58ae47e603fefb95878f19b79967286a58b4b80ad7df884de1787b6844657f8ca5744124/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65b11c693e3db065f9780b7ddc90a4b9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3a2e1a3f9236195c8aa7d3ba3fb70c2b978cedf028508231fa7dedcd153d50b129e9aa6377d1910c6298c4e3b4c4ecf2db8fc2027a4bcf1fc4aeeef963b5f882f239cc13db3022ef4cfcfd680b857e8d0ff89ee5450090a24eb3c254749bf2a1ceef9622097ca60be2204536a1ee04acea88ab92ada7687c9d92c956497f343709c55bb9b851f34dd01d17e8fcb4a0f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65b11c693e3db065f9780b7ddc90a4b9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Star Whale in the Sky Sea",
+            "episodeId": "dog-days-3584?ep=34191",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bde1b5ef260098ca7a73cb0522633ced06e49a5a1374d4ad08a9d9b0580589f42cd6f943bb8361237950ca7be27a88b67c4ba49dfa62c3dc8021c01381d5a31d83393c06f88a6f00897be2bba1066e1692c3fe5749eb704a0e2f88f95785d7418b015198cdac99bd5292ad94d2f339d1ac6fc82a4d156d87a430ef7dbf6b6556/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3221fc299ec25f94d4e4d088a0ce532/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bde1b5ef260098ca7a73cb0522633ced06e49a5a1374d4ad08a9d9b0580589f42cd6f943bb8361237950ca7be27a88b61051a2c6b3abf5e90dbabacf0522515af2fb315ced21683d8a02513df5dc224c3327d6552505ba6df10d9dcafe7a0efafad6dea6f1f79b2436cf4e693fdde78e1dc7930c577b5185c4e84ce50aca41a26fe3d7bee6f4f14a62d4ec1e92b084ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3221fc299ec25f94d4e4d088a0ce532/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sky Priestess and the Star People",
+            "episodeId": "dog-days-3584?ep=34192",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f40f582c95ed5b661336be41997fa3773dffb652588fc9f7606709070d5575e4cbc596d224393811a2654b8c6dd895ff606951c0abd996101a2c501a03b158443b16b53b29cd6308aae1071befd7aa61b37ad33dea286691bd3df10593b94e58eb070357de0b69ad57195c0954b40c4a21702787c5cac38ef5dd3d44ac899a60/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47fb5820f0b9f37aeba2084f0f352ac7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f40f582c95ed5b661336be41997fa3773dffb652588fc9f7606709070d5575e4cbc596d224393811a2654b8c6dd895ff5bface5b3cc600515a75ab1e6d2faad66fdedda855e74d583211ab55e1cd7629e7108358430f2d8c71a81c9d5f73c95c958432e01b5445ea04a6f2147b65af85e7d02a68abf3f31eb8e1dab6761219abec66f4af05058c63f37cc356b78e5183/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47fb5820f0b9f37aeba2084f0f352ac7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Song of the Stars",
+            "episodeId": "dog-days-3584?ep=34193",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d01b3314faf510ad1f998c7a4d8f11cfe0817db906b8eeda7b6456fa26e9363c3b4f292c3be3ce83f19a0c0f666da7066e8df1f65967e233efe96a60c740ee291b2def7834b9bcd729a55b64ce3486f80ec2cd7dfdcfdcd09b69b2e79f7b711f0954ba3c48c847afb0244596dad44d65fcdcc1d87eb16d505668bd9586f88372/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fed5e612c859ca193d0ce7712805d8a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d01b3314faf510ad1f998c7a4d8f11cfe0817db906b8eeda7b6456fa26e9363c3b4f292c3be3ce83f19a0c0f666da706da6cb6af4ea32d0448f7dc520d38f59c07cb2ad09bcbef6f40704312d4a9be8c0a7dab8dd09da92484f1a347e590881b6294e923d1ae4e7549d401360430cfbb13a2cf7398b025d7b176a736a3cbd4b0e2bc1f9cc6ec605e1570f4737b771910/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fed5e612c859ca193d0ce7712805d8a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Returning Home",
+            "episodeId": "dog-days-3584?ep=34194",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a52284a710e38760b8193a281aa22279fb7b8833445d85c82436027b0358eb1a881301d59415572ab8ba2675c7c56b1297dacd2a25aa8b5bde8b7dd863e0827e48d273a8f3722ae98f534309ef9c240d58e67b2fbfe312b2f617cc63b6f477c0467de6b8ae5eda9e2f065dab7e545d976b17919feb004d33644181cf97fc0757/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e59c41a00d4481c41984e6f90f0365ff/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a52284a710e38760b8193a281aa22279fb7b8833445d85c82436027b0358eb1a881301d59415572ab8ba2675c7c56b12715fe29256e83bc73de4f34b138781db860a7fae1546aacc06b3bb62ddf4ddc418fbeb82068d48aa22b3eba6cd6ff2baddb040dab581f8ab837b25436e7df3e6e865eee3fbe892c8f07d4b74faad61982d3140dc47a6649c8ee1bfad9439a607/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e59c41a00d4481c41984e6f90f0365ff/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

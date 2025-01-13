@@ -1,0 +1,376 @@
+{
+    "info": {
+        "id": "attack-on-titan-junior-high-3609",
+        "anilistId": 21281,
+        "malId": 31374,
+        "name": "Attack on Titan: Junior High",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f3f8b29c4c90a31b150ba24f13c98fb.jpg",
+        "description": "On his first day of junior high, Eren Yeager comes face-to-face with a titan—and has his lunch stolen! From that day on, he holds a grudge against titans for taking his favorite food from him, a cheeseburger, vowing to eliminate their kind once and for all. Along with his adoptive sister Mikasa Ackerman and their friend Armin Arlert, the trio traverse the halls of Titan Junior High, encountering familiar faces and participating in various extracurricular activities as part of the Wall Cleanup Club.\n\nA parody of the immensely popular parent series, Shingeki! Kyojin Chuugakkou places beloved characters as junior high school students, fighting to protect their lunches from gluttonous titans.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "17m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer FUNimation ver.",
+                "source": "https://www.youtube.com/embed/696Sl3yz4KY",
+                "thumbnail": "https://i.ytimg.com/vi/696Sl3yz4KY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/8APiYXvS6wI",
+                "thumbnail": "https://i.ytimg.com/vi/8APiYXvS6wI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/9SWw1ZobcKI",
+                "thumbnail": "https://i.ytimg.com/vi/9SWw1ZobcKI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/tpS9G-VZAvA",
+                "thumbnail": "https://i.ytimg.com/vi/tpS9G-VZAvA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/wm3WBqihF-A",
+                "thumbnail": "https://i.ytimg.com/vi/wm3WBqihF-A/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mikasa-ackerman-20",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0c0f00bbf5fc05bcb57f09afb451e500.jpg",
+                    "name": "Ackerman, Mikasa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-ishikawa-108",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa5885c7931f29473368897256f20266.jpg",
+                    "name": "Ishikawa, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "armin-arlert-159",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/434e27667ec8f85c13ed839d05c13af2.jpg",
+                    "name": "Arlert, Armin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "marina-inoue-82",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a590ff6d2287e40ca7eae56252c5efa6.jpg",
+                    "name": "Inoue, Marina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "eren-yeager-50",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b14f25ee285ef50430cb8bd85afbb3.jpg",
+                    "name": "Yeager, Eren",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuki-kaji-5",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+                    "name": "Kaji, Yuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "grandfather-arlert-24965",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8490287a000eab34a051e568e30d3bb5.jpg",
+                    "name": "Arlert, Grandfather",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "masaharu-satou-4187",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67df4375e48d4a4566faef281a521525.jpg",
+                    "name": "Satou, Masaharu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "moblit-berner-11469",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9aff3a54caed787f16c431bf7446d19b.jpg",
+                    "name": "Berner, Moblit",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "rintarou-nishi-3153",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0dfae4dbc5277da9508d80514089f9cc.jpg",
+                    "name": "Nishi, Rintarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sasha-blouse-364",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4905a02d49c7cb2a9b592d99acaecb5c.jpg",
+                    "name": "Blouse, Sasha",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuu-kobayashi-106",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/372a5a72a8b41d84eb03dd71af12e8cb.jpg",
+                    "name": "Kobayashi, Yuu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "進撃！巨人中学校",
+        "synonyms": "Attack! Titan Junior High",
+        "aired": "Oct 4, 2015 to Dec 20, 2015",
+        "premiered": "Fall 2015",
+        "duration": "17m",
+        "status": "Finished Airing",
+        "malscore": "7",
+        "genres": [
+            "Comedy",
+            "Parody",
+            "School",
+            "Shounen"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Dentsu",
+            "Mainichi Broadcasting System",
+            "Pony Canyon",
+            "Kodansha",
+            "Pony Canyon Enterprise",
+            "Production I.G",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Starting School! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34310",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/12edcfb55d1b3b041e2ce46c57cac688dd139d6eed675e04222d9b36cc9f6f834a84f924b7290f1b2b4040aa518c381efa052ad5fb215b06b378c3a83674537dcb309bf32bec6b0256fff799106cfd66d8a206c28486ba0651f8724b2dc2ac57be4907b23a727ad73c0303a45820d26f70937497716cb2175ae5919e399feeb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c67de6be5a2b2595dff5823e31c277df/c67de6be5a2b2595dff5823e31c277df.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/12edcfb55d1b3b041e2ce46c57cac688dd139d6eed675e04222d9b36cc9f6f834a84f924b7290f1b2b4040aa518c381e7bf11144fc6f4480f38632e904dec69c33d42b2b0a67eb76c89778a6510eade0a9fb473e1d18c57ea03e405228da3a5cb4a56d1001f48f0af551998b5b691dbb21fb5898790c7859cd40fb04bc6d28fa0fabc4373cb1f278644d2465778e2e93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c67de6be5a2b2595dff5823e31c277df/c67de6be5a2b2595dff5823e31c277df.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Chasing! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34311",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c60b76235011b09f4adc0bc83ad1c3137ab77e114c360e8c3bff22ac0655fc6c8771dc56b9dc290748ee9bdd38f1c05d064c7a8e03e2d9abfad2a49db90ddec56650388b684439192608ca71d518555fb9327931cb8fa18118cea39059df7e63f5ec3211f7665ed4ca014cf000d0eb0bfdd373a6a5f228db0a146c0b99405742/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/106d01012806600cbe3dc180a8184b94/106d01012806600cbe3dc180a8184b94.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c60b76235011b09f4adc0bc83ad1c3137ab77e114c360e8c3bff22ac0655fc6c8771dc56b9dc290748ee9bdd38f1c05d338aadd710a1fd5b1880413305603f32efbd978123ea60e58f68ca8e68bbc7c18ed5b81fc11fa258551e00d0cb4f942291f64e1abe3d8f96358810d627eb3cf1b4ea9c99ff1d208106ad2d7f2598756d3a0489200eb7af492bb05be795eb6002/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/106d01012806600cbe3dc180a8184b94/106d01012806600cbe3dc180a8184b94.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dodgeball! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34312",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/42e60c0c2b4ac8df2fc3e1d47c79330d142c618fd7acb36b8c518a94b29e88b52da0f08aeff2dec4c606591bc32340937cc5bda30f3d275bd2bf013aced319d6109e171b00f561f0831cfc64a52c36298b8152329e7cbbc35d7e4cf6ee32e4bf759397c70250ede54e236875ec2024b59bd2804cceae14beaf1ff83a2358b4cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/147343b8a2cde211e48cf08233fc22fa/147343b8a2cde211e48cf08233fc22fa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/42e60c0c2b4ac8df2fc3e1d47c79330d142c618fd7acb36b8c518a94b29e88b52da0f08aeff2dec4c606591bc32340931ac8ebc34968e709bbd8730cabe3bc6017eb48a977e561081eb22b896b49dbd299ca5ebc0e39438d3b04214ba19314b2db23a91e43b4c739088bb064a8e10bdb47e8448f7b31e337220732bbb27df6aa0c37aa2a25e4746be9420b3196a7ce8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/147343b8a2cde211e48cf08233fc22fa/147343b8a2cde211e48cf08233fc22fa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cleanup! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34313",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5ff6996aa5b5e78b60bb3c56445adf2179d3653e558009ccd712072fd136987edf388d57c1ff185e5042b7545d2364d837dc2134c8fa98131ab1f550c196038a569d2563ef15137821f4a67b34675c562e332970c30ffdc2f29b74404adfc05d681500351f121cdd805e111169d46dab8f1d1af63bcc9c46eddcb50bef239098/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/282b09914becb669393b5494d1ea13b7/282b09914becb669393b5494d1ea13b7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5ff6996aa5b5e78b60bb3c56445adf2179d3653e558009ccd712072fd136987edf388d57c1ff185e5042b7545d2364d82d08b4bad6bbec1796c2681b98c9df3657bbf6949ceb1151db2d3cc0b4f8a850fd6cf09eb40089a533144b87e06557964c3625921ff93f384045b2a88b966093b2fc9d2bce1f2fc8c1248cd3ce57e5004df3cdef78eb962d69ba78c2d442fc6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/282b09914becb669393b5494d1ea13b7/282b09914becb669393b5494d1ea13b7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Studying Hard! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34314",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/42ef9e0810c711e7c121ab069cf779744df0ca5106cf522b3b771b73e63998cffb223ab0909311b1fe8325e874c3c624d5ca066014a3c1f7ae3489db3d723a61fb47ab1bc5fbc1a6c56f906e72022c6d48e4e4adcf32208403b1c929743334cd1783d5e0076a48a3f6608c4920538a68fd664481f72557604dbaf2b621308d44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c68063a4c1efd7e38e1ae7a4eba89b56/c68063a4c1efd7e38e1ae7a4eba89b56.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/42ef9e0810c711e7c121ab069cf779744df0ca5106cf522b3b771b73e63998cffb223ab0909311b1fe8325e874c3c6247ad8fb30f8474057e501899dc611d512685a7e15d746b55fbaf3b7f73a29a0a361448bbc9cd01fa0834b74beb2e11380bca6bf92625828bec14b4f8d89fda7ce12b3685eb9335ef63b1dbbe9e37151e93530115464cde3583fbf11dfc3734deb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c68063a4c1efd7e38e1ae7a4eba89b56/c68063a4c1efd7e38e1ae7a4eba89b56.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Letter! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34315",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7dd341c2334975f7d364796997457b5bc0ec320c234569440110d95bf1d7b81ed3720d96e7018222a158509eabe19bd20453019131d5a022f8d182c31bcc5bf8d4773855034aa6e85a5da02337f55e9f3c2c998d2ad6f8ebe4961d970ec9210e1e3b9950843e97006c9e502dbe70e0c62419f58db5b5958179dc12a4ef92b176/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d668566846f71f7555f6e8301c1f5f97/d668566846f71f7555f6e8301c1f5f97.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7dd341c2334975f7d364796997457b5bc0ec320c234569440110d95bf1d7b81ed3720d96e7018222a158509eabe19bd2ef779add2518dd3b0a4a74d55309eec82b561ec0f5bf36dc66960a065253e2a72a88767ea3723d321ea9b16350ed20c6a5d559ec020ec7a50455199912e176d53aa482efa53f2bdefe77b580d552d81c343dacada3e25feb48f554cf615e6db2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d668566846f71f7555f6e8301c1f5f97/d668566846f71f7555f6e8301c1f5f97.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Showdown! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34316",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bc54bb7adbee8fac7cb79686c6863207e8ae32ff327b42a479db372753c98bb34f6e9872a934c75abe2dc95c06eb13294a78ba7b186c073ffe5966f98024e0ccfc87f2a8d46a0f6745142dd6cc95e8687033ab7897fd4671226cd8d2a44b49c21eb42f0f675773a94504688e2c47412eb9f1f411e7a9da67a21b586f18160507/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/304abb45560858b1fcfb56b3bfbcbb9c/304abb45560858b1fcfb56b3bfbcbb9c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bc54bb7adbee8fac7cb79686c6863207e8ae32ff327b42a479db372753c98bb34f6e9872a934c75abe2dc95c06eb13293c914a0030198103193527def71752f6ce50466046c4200e3c8eb1447fbd884b9e91aefd7ddfc07dea6aab1a54ac8c45f0a32ef385a277048cbbab708a958cc1eb8c1e7072b204451ae0894757c2b2537493fc7e711b845876519b0472548ad7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/304abb45560858b1fcfb56b3bfbcbb9c/304abb45560858b1fcfb56b3bfbcbb9c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spine-chiller! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34317",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/01a1cd499e7ddb8e5fe9d3a45686da765bea04718049b3e838cc1e8e992dcb64348cc165927ae1ca228a6c635e475a3b27f85eff883ceebe6fd5433e7d8637b73f454302087aa377df08e0ae90c2e8ac860f5412192e299e90d439608cfd0e8ef1e78924781fcaa59157548fe5ad31c4c90402815838630e52e2f17f08ccc3f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92a0693aa53dc72f2a3311a8e1bbefea/92a0693aa53dc72f2a3311a8e1bbefea.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/01a1cd499e7ddb8e5fe9d3a45686da765bea04718049b3e838cc1e8e992dcb64348cc165927ae1ca228a6c635e475a3bda49700765fec82749741c84dc9830a205f33c5876d6d790fcc1e68b568cd839a8ec607920e87b541e78de3d543c8847d9e29c6e371d3f84e72a6c52e5a6b8f6787ed375ded7dd964e7532c4fcad864e74feb0c2a1bea2ae9b5f0cdce4fcf1d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92a0693aa53dc72f2a3311a8e1bbefea/92a0693aa53dc72f2a3311a8e1bbefea.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sweet Summer! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34318",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b25600fb2d9b5708ba5f867840d68f5bb688caff54016178ff9d135e50fddc907a43346d72c5497b20c158bb0da1c99644a27d2ab6c5433c81af9aad7595b8814aea98cef4eecdd50596506d752459ea0510bb1d456d7951d59280cf7de28872c9b64710ad961a4eb530acede1479c510c77615401887c9bfcc5773fcc5ecd5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/043fa1a08244f78d338b0bcb324e5053/043fa1a08244f78d338b0bcb324e5053.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b25600fb2d9b5708ba5f867840d68f5bb688caff54016178ff9d135e50fddc907a43346d72c5497b20c158bb0da1c9963f9fa1065c4ab6c3447fdb45ee47c8d4d8dbdb90ec91c92c1beb8cd906c79bf2f6f233623a987b844ba73895f47b644391c24afe1eba0ad26a229292b8e8a0327ddacc6796b1947bd7534c88a4a1c4f5c42f42e7b69fd9e3c0289bebbf737efd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/043fa1a08244f78d338b0bcb324e5053/043fa1a08244f78d338b0bcb324e5053.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Recommendation! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34319",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1ecc0af6348684e1cb5484411a7995d1258120863b72673b3dac681c7e4b5a80fb8e56672c5d5811a093f1560a2729227fdba5fb2863b0afffb8425f7aa729a99849f61d28312ce68e2d03c83cbf98b67cab8c308888da2a72774c7f0d06c9d6de68592073b6fc3c0620c6ffe3763ce13c65515d03b701a9aeada206438152ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59d59456e2e5274d7dd6853b53c4adf8/59d59456e2e5274d7dd6853b53c4adf8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1ecc0af6348684e1cb5484411a7995d1258120863b72673b3dac681c7e4b5a80fb8e56672c5d5811a093f1560a272922cc4af0b815f79877ba8332af7336b04ecb5d662875e8f2590b9e02b4b349e3815b0f40dc11cbe23c344b0ffd46df9ea119faf34c00f7c0ed7aa351e025756f717df6bfc5f1fb6430db06956025f45633973751243420321a01fbeea3f1bf4a70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59d59456e2e5274d7dd6853b53c4adf8/59d59456e2e5274d7dd6853b53c4adf8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Clear and Sunny! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34320",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0c686ed0c8b2afb7bb2fa28ec2e3c2ed6a45bf5ba177f7f623f8ab8ce73b2a259f1415e7e6e1148535fe3392344e0bc1d5f601508d4858d7cc2882fa58d8401b4e4ea87bf37d4a9ff7a3a2297d66752842cfedb0c7d1dfad83a6008da2919c0a4aa59b96e78f43cac2ea63d86c190a299bcf1eea5aeb3b5fba3a11792064923a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a231f07419555b4340c0c1225566a52/8a231f07419555b4340c0c1225566a52.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0c686ed0c8b2afb7bb2fa28ec2e3c2ed6a45bf5ba177f7f623f8ab8ce73b2a259f1415e7e6e1148535fe3392344e0bc1a09e36d690c4fa227d0ef042fd6c426d5bf5585708ef42214015d9c5098da4cea36c93862a191f268177ba7df03617165eec4343c5eed02be0cb310f0d23479617c54fea7f507666b658a41be80004f1a67f5dfe9f1c3b094b288de83080fa67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a231f07419555b4340c0c1225566a52/8a231f07419555b4340c0c1225566a52.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Attack! Titan Junior High School",
+            "episodeId": "attack-on-titan-junior-high-3609?ep=34321",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e5e7c039f14ede3316fde3fefc4dccd0b2ae0fda266b58f42cb9f54940780deaf3103d8a3fa24b27ed27caa299c1f3884c022919b9850baafa62c91f0685f16a5b2aa82a39c345521fba785d604f371464aebd7cba6bc326e396f844c34b66ab85549b40adc3475664720590579c471266eedcc546d184578e0c8ee73b759a02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a5fb426caa425b31ae3d1a748562b1c/8a5fb426caa425b31ae3d1a748562b1c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e5e7c039f14ede3316fde3fefc4dccd0b2ae0fda266b58f42cb9f54940780deaf3103d8a3fa24b27ed27caa299c1f388cf4c1ff9f127de3d5f3ab741cfe9e8bfbaf89519b80b2ca35313fa30232b9b30f44856640ee5c4c4b757510e2562565ee8910757c5013cb0c9cfc0c1909232fa9d07918df4c08286ffc542f19c52ba266547b54c92e0a24f4ed433cbb86dcb82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a5fb426caa425b31ae3d1a748562b1c/8a5fb426caa425b31ae3d1a748562b1c.vtt"
+                }
+            ]
+        }
+    ]
+}

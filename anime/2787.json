@@ -1,0 +1,925 @@
+{
+    "info": {
+        "id": "daimos-2787",
+        "anilistId": 0,
+        "malId": 2816,
+        "name": "Daimos",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc2a1385bd5d30910abf1e84aabf98.jpg",
+        "description": "The third of Tadao Nagahama's Romance Super Robot Trilogy. (#1: Chou Denji Robo Combattler V, #2: Chou Denji Machine Voltes V)\n\nAfter the destruction of their home world, the survivors of the planet Barm head toward Earth with the goal of negotiating the purchase of land to emigrate to. Unfortunately, during the negotiations, the Barmian's leader, Leon, is assassinated by his second in command, Olban, and the delegation from Earth is framed for the murder. In the ensuing chaos, Doctor Isamu Ryuuzaki of the Earth delegation is shot and killed.\n\nShortly after the disastrous end of the talks, the Barmians (called \"Valerians\" in Starbirds) begin a campaign of terror against Earth, lead by Leon's son, Admiral Richter, who deploys a variety of \"Mecha Soldiers\" against the planet's defenses. The only thing standing between the Earthlings and annihilation is the transforming, karate-using super robot, Daimos, and its pilot, Kazuya Ryuuzaki. But that changes when he meets and falls in love with a mysterious girl named Erika, who turns out to be Richter's sister. Over the course of their struggles to reunite, Kazuya and Erika each learn that the other's people are not all evil... and that their own people are not all good.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 44,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "admiral-richter-23096",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2b887b5f973ec415bd61c77483ee8a04.jpg",
+                    "name": "Admiral Richter",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "osamu-ichikawa-9790",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dd9a0339dfccd55eac669caa6a442ad.jpg",
+                    "name": "Ichikawa, Osamu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "erika-20857",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6c4a8412133293936f96c13d04966fb5.jpg",
+                    "name": "Erika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyuki-ueda-9762",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/58ec08a8ee10ea1e5931b58d860cc889.jpg",
+                    "name": "Ueda, Miyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "general-leiza-76706",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52e12452d356198904b9c82c6a8dfa85.jpg",
+                    "name": "General Leiza",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuko-yanaga-13942",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bce8a477b6641dd1047703c92012f4c4.jpg",
+                    "name": "Yanaga, Kazuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nana-ryuzaki-42177",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efcdd23b0ef8b6f08edbeb18dceacee6.jpg",
+                    "name": "Ryuzaki, Nana",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "youko-kuri-7486",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a67740012f48d50c540c1bae764750e.jpg",
+                    "name": "Kuri, Youko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kazuya-ryuzaki-18560",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83128a7a3b86d891648ef280c218c2a5.jpg",
+                    "name": "Ryuzaki, Kazuya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "akira-kamiya-618",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/417f37d03f01255fc8f4aaae61c244a0.jpg",
+                    "name": "Kamiya, Akira",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyoshiro-yuzuki-32327",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/69809a39dd70db75741c44af642bdb18.jpg",
+                    "name": "Yuzuki, Kyoshiro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuyuki-sogabe-3372",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/335d65dc2b56c7b1efdb80f9e76f8ac2.jpg",
+                    "name": "Sogabe, Kazuyuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "闘将ダイモス",
+        "synonyms": "Generał Daimos, Fighting General Daimos, Fighting King Daimos, Daimos, Starbirds, Battle Commander Daimos",
+        "aired": "Apr 1, 1978 to Jan 27, 1979",
+        "premiered": "Spring 1978",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.19",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "studios": "Sunrise,Toei Animation",
+        "producers": [
+            "Studio Nue",
+            "Sunrise",
+            "Toei Animation",
+            "Discotek Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "daimos-2787?ep=114313",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/044b131ee67196fb61573b16559551afc82c9b69eccba06537fa9002a9b7a1cda874c1eb2b5206f7e767f72bd9a5ca261881a71a315d3861d836b62a62144a4f9e7d3aae39fe67606519a072ea34bce7ed7283113acc0462b336a386e040f1869bf73c2119c517c4a7692c18ca7de2f0f0944707ca70a6ec7fc97c6c44a9d5ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7fa919435aadbcc3ebda25471a7f913/e7fa919435aadbcc3ebda25471a7f913.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/044b131ee67196fb61573b16559551afc82c9b69eccba06537fa9002a9b7a1cda874c1eb2b5206f7e767f72bd9a5ca26796a1e7c873342ddfce022cde318a41ed0f419e5cc20836ec8a37c8b3baf28e339b33cb3292856badcbba59fea57459e9e8b10cb5626b3863757c23604bb7e81c73bde07d147387e6308aa746387401d2c7bf6ee5ae053882a94f7763be0e8e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7fa919435aadbcc3ebda25471a7f913/e7fa919435aadbcc3ebda25471a7f913.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "daimos-2787?ep=114316",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3ac88e74356e713649bd27ffcaf9ef0922ad85dac57aef7ce72cac10b5bb14366f12228329c3b5301ece8f255eb005bf3f6bb558a27427144da079f5e8af82f88e7364b2ef8421f072f95ce27aa7ab564c50c37071d99d8dda0db2950e954edf33857dbb8a67aa5e30717f3712688ff0aae3acaffff3b7f7a9b53791536b1389/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75265af9d41545c6bcdf66250493ad64/75265af9d41545c6bcdf66250493ad64.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3ac88e74356e713649bd27ffcaf9ef0922ad85dac57aef7ce72cac10b5bb14366f12228329c3b5301ece8f255eb005bf7bf223e0a85f5d3d862e2a602f0b167e3a1596b0f1852ac64b94d729685f65f7bfe2896417df12ea666583f51ccf473d2c57d5ae2ea4193a286ed34f97f190db49a9fa34d07e0aeb22fce1b049fca75e9a48f4b7df4c718ac7ea1235e85ffb4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75265af9d41545c6bcdf66250493ad64/75265af9d41545c6bcdf66250493ad64.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "daimos-2787?ep=114319",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7179c20f12e5d02e4a1051f442695acd68dc6281dddef323b5fe32ef14e19ed63d9eb71593168cd1d26ccc4b18eb8719a0bd94a42dee56235b8e26b3635d863a69f813bfdd11d18d5adb0ed06af25569f32429b603d5e7431f4fcb35d8ce2c7aa9b6160ebba3439383924956600d409c089f554f927982b2f9ca472bcb4eaf11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/636b05362edf89251cfcb9272485b402/636b05362edf89251cfcb9272485b402.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7179c20f12e5d02e4a1051f442695acd68dc6281dddef323b5fe32ef14e19ed63d9eb71593168cd1d26ccc4b18eb87193928f6dfca807661d9c475b6643aef6b299fca09a3a88377bd320385b275cbb7dae13ec0ee6a7031d5d7b0f13451d145c7a35e7e9a7ff6088ba5e208c3b97d7e16de412c20d1a2857555558904a7a4f0080d406404481c60db6bf406ec0f24a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/636b05362edf89251cfcb9272485b402/636b05362edf89251cfcb9272485b402.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "daimos-2787?ep=114322",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9d3272ed995fffd5dfe3ebb87f929ef366348f4c0cdeaf6b84eda321441a6d00ba56e007448625ff4630c2965bf118c1f62864635293ad29daa01f1d38ca85a9b52398f9dfdd16231ef227a2a41afa50e859a09d626c33194a19e8e1f087d53532ba8d8d53c221d53391c1ade586b368e60ee51584312116c48ad934e89176b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a764431c55d297e620dc953697e8d01/2a764431c55d297e620dc953697e8d01.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9d3272ed995fffd5dfe3ebb87f929ef366348f4c0cdeaf6b84eda321441a6d00ba56e007448625ff4630c2965bf118c1e46ce0515e07af6b867ad94486d7233c014e72615b7b695032dde47f5aa563e14c64504ef336a33ff9d5ca93241d6e97813b2bce20c58cfecbc529a2a4d9a2d1cffee0fb34daea148554a0e64ab0f8e08ee2fcabef37c349849e3b0e92763ef8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a764431c55d297e620dc953697e8d01/2a764431c55d297e620dc953697e8d01.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "daimos-2787?ep=114325",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/49d26eb4d152e146fbcd9943440cef42e07ab8fee187a0a0ffd40ca9c442de7dec09613ee77c225ef24d058f4704773db4bc20ae7381835e618c342be9ee015856fbdea81ad6dfefafa147238f2758737e52cb015f0427ea197e7bc425c5514db52a48928504757e2066a33f997d6ef1e42383e10a5e8702d539ce81d82c336b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d221e9f70b369d5e205608c147e7e61/9d221e9f70b369d5e205608c147e7e61.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/49d26eb4d152e146fbcd9943440cef42e07ab8fee187a0a0ffd40ca9c442de7dec09613ee77c225ef24d058f4704773dc95c28407318df68bf7ae0052d5d73c4f042c66b0539465b81093fa998dcd4cf1b040290499b1bcadcf0f80d702886f0372687cd022760ff78dee391040cc3f6666101d7a87b65153e3852b644228a9de9482ba647c5b46540b71a0188ed45ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d221e9f70b369d5e205608c147e7e61/9d221e9f70b369d5e205608c147e7e61.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "daimos-2787?ep=114328",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0bd2639761b8a4ce6748713c83d6554b715fff92c9f6ee2b682da8ff157466ae79000da2a9c8f326bed7f1c4e17a531b4d20d894dbbc0e3d4f1d4e329e18f4338a37209a634f778d6785ecfc6ed4bedf10c31f3bf410caa41de3d600391d242937e8f131888a8b201e32d663fdfb2498ff0752e5e7cbcb4c148bf34222e13556/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e98263ce83f3fc9dab7b67bd93e264b/1e98263ce83f3fc9dab7b67bd93e264b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0bd2639761b8a4ce6748713c83d6554b715fff92c9f6ee2b682da8ff157466ae79000da2a9c8f326bed7f1c4e17a531bb121944e15c44e683aa4e0166a738c207ce0ef5c601120c635ace653ab3e1cd85e20d4c98023478339674835eff9879e59e396a807c0f352a744aed439ec0ed473b5b69b05a4cb1497ed303db7f40cecc629d722a51d50c4145bbba0005f9185/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e98263ce83f3fc9dab7b67bd93e264b/1e98263ce83f3fc9dab7b67bd93e264b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "daimos-2787?ep=114331",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/01401c0fc846557e38bd5d6261b64bd85a569177ee7fae70cb30af33f0884c9cb1117e7ac39dc3a0b40bc935dcd9eb8ccc6ecff1b1bad1f42f7c7ce7e0aa951bc31224f76e41a52bc2333406d267d57688cb76eb0e5b12fe79a93bd34d72e1f54deb810e394dbcd4abbf3222366a7156fed2a3cba678e55b355c5049c47c554f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ebb0c1177a232c51a637cf860f8b13f/9ebb0c1177a232c51a637cf860f8b13f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/01401c0fc846557e38bd5d6261b64bd85a569177ee7fae70cb30af33f0884c9cb1117e7ac39dc3a0b40bc935dcd9eb8c9082b905042db48f9f26ff48b728ad232f6c65c92da0829a3507c9ea28eacfb896c6023f6973054154641d0bcebea5ae9377704d54204d918405f5337778db9eae4886b0907ce3105a202e34ff191c159d562dcca90cf65decb03f79d112a086/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ebb0c1177a232c51a637cf860f8b13f/9ebb0c1177a232c51a637cf860f8b13f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "daimos-2787?ep=114334",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2218a6940d0a62b7bc30ad3b856416f6140f04dc638bcfc0dc760e1413ebe89a1682399db5a829344b080bd063cb303931d1193b0daae2b9f3dfcb33038cd63e8b802d811c5dad8e09d956995a50a4bf56a0f4a4f8800ef37f371304904b48a310c391b239128372f3446c86e4909b5430baf1986502ccaa757a19bb098df993/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/491d4845f984a059b140167fb33f1eb4/491d4845f984a059b140167fb33f1eb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2218a6940d0a62b7bc30ad3b856416f6140f04dc638bcfc0dc760e1413ebe89a1682399db5a829344b080bd063cb3039e4e9dc6d87261f894619990ab2f1000e139a824a3e4141f31c8d40dc683e325d7d549c1b033cb6d6048f9e464451885d9675acce3a3bd7e637d00e110dfe9dc5440539f5a0ffad1d2f932dcc1ea99838ef2c031136f8e08c0ab617e9c968d917/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/491d4845f984a059b140167fb33f1eb4/491d4845f984a059b140167fb33f1eb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "daimos-2787?ep=114337",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2b175a04c3ce38c5dee4fb53bb996ca5558331b5fa33c6b8490bcd018dca987cfc47040f2609cb601edfddc81ff82f81a4ab509ef773de9ba41d65f10a318b66cd838acadbe344ba820b367e7eba5f532dd8ecf91f94bc6736956889df2ccc3f922749c18f84617c7b986e8d62fb9cc3073707ea6bd2af0422330566f247b3fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f261feffaac998b1e7b8674181592d1/2f261feffaac998b1e7b8674181592d1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2b175a04c3ce38c5dee4fb53bb996ca5558331b5fa33c6b8490bcd018dca987cfc47040f2609cb601edfddc81ff82f8155d720dffcc930b62be925844bb32e8490dbd58151c675520b512f63a6f1bf7a7d5c5ebbaf1f80ef9788e104bfbba852846fca2de7e103f4a5184cbf4b4bc5a6c7a997bf3d5eed032b921e1eed7144e2999f06fd60df014ffaa769e6becceb9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f261feffaac998b1e7b8674181592d1/2f261feffaac998b1e7b8674181592d1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "daimos-2787?ep=114340",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/47c6c4c84a48090c8b0595a0ecfe01cba9039134b57aea7b676801f167ab57d99f5cff0cc71378607af3b2e1e5f8e5b24f39c411b42454adf8a691f2052104e7afb6fe778e2c8f03d8b06979210e17d875d23587dc73a5c47444adea2fdc3d99f2f36aaf6180734f63cf23b762e0569fa58c26052292995a774c297cec2bc1b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad65ef85070ea58eb55feac83a87c530/ad65ef85070ea58eb55feac83a87c530.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/47c6c4c84a48090c8b0595a0ecfe01cba9039134b57aea7b676801f167ab57d99f5cff0cc71378607af3b2e1e5f8e5b23a89e33e2d6e24cdc68c9e97324d03cd4fa0b8cbf42238638cac410039a52164fac29d6c7a793be06fbee1a6840839f44054390a3822252d9d6adcdef04e5011d04639ee0b615ee9cc68ce6dae809e9862944f790346710c34b049bad69c5d28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad65ef85070ea58eb55feac83a87c530/ad65ef85070ea58eb55feac83a87c530.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "daimos-2787?ep=114343",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0bd4e97b9736d28529223ec4ab275a40c745f3893bc037883202271b9122d718ca56efec38545990185a7fcdd5f25ef6197bb053c378c6c7b584b14544fe100da36addb138986c7dca8612444df317b8eb003165a763206a1ecd62a1cedf6e7c650a031553b5814bf31425190e53a92e3e0f5de88625f8e00b72692ba531f039/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/069187c635e6722c405178c629c35644/069187c635e6722c405178c629c35644.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0bd4e97b9736d28529223ec4ab275a40c745f3893bc037883202271b9122d718ca56efec38545990185a7fcdd5f25ef65ebb478cabc0d515cae8215e42bd7de3367003afd8b70468f47d7a5b8c19dcc47dc1b29018429177afe974b7b26d533897a33616670a778866d013d23362816b28b1a0f86e85ed37537ec754bd88cdf05085a12501ed49acc05240bed61accb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/069187c635e6722c405178c629c35644/069187c635e6722c405178c629c35644.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "daimos-2787?ep=114346",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/355d7c6d5f83d7e6255b83d8555d8941221849e3688f3093a1c5627646bf8b3927a7a830e7eab75dea6ba63eb64b875e7e35edf59be9f7c09259880fc777e6611059fb99ce548ee098cae28237fa1d0ab58b72906aa079e4ff5e9e966860f1739814723cfd245e6a4fd8bf6ba12f625cb60cd4763b9fa0624f26722c4fe5f350/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f8a2abb1a21572e8db318e0c98cc3ef/2f8a2abb1a21572e8db318e0c98cc3ef.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/355d7c6d5f83d7e6255b83d8555d8941221849e3688f3093a1c5627646bf8b3927a7a830e7eab75dea6ba63eb64b875e668701c53d20713c9c052638b34c2a6729e6c8edf1a0599b8ab89a91c01b9a716128771ccb3cd6c4a59482b096e587a3210c51b96d795833441529ba8cd579a56149115813f59d5f6fa377f561e3cb4cb929f5443953c61345eabeaac6acf5b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2f8a2abb1a21572e8db318e0c98cc3ef/2f8a2abb1a21572e8db318e0c98cc3ef.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "daimos-2787?ep=114349",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d006283c2aabf152e2095e37e2d397bda32676e192831039665b89fb6d596e9769c6a34377035e31027f21726b6b99a2e68ce859ab34953623ab9b79c7139aaa0314cc976bdc078b9e4936fd25a6fb0fbcec39f78edf43e3819fe452adfd3b2720e6f53631131a7ceece0556018ff411e099d5ccd03e0e51f54c593cf5b0eea9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a7e4de472950dba25340e91b416dacd/2a7e4de472950dba25340e91b416dacd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d006283c2aabf152e2095e37e2d397bda32676e192831039665b89fb6d596e9769c6a34377035e31027f21726b6b99a203f1280120526e79073b6f0bfb168e4a8856c005502edfdbaefa64a4e2c33270ebf1bf1f8855675c10db2a254e48451811522f36de9c661c475fa218a96b777bd2d1d526ea91a5c7e0aae3e94fdaca7fac8222fb6f0b69a95e83e2eb3c5a568b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a7e4de472950dba25340e91b416dacd/2a7e4de472950dba25340e91b416dacd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "daimos-2787?ep=114352",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d590515912be39b5ebbb4833f47c7957003b976c36339b9f312078e952a76c39402d38e2e2c1b8568899e59eed5466ec5f1cd35de06ac798646ff7273e427376fe6d765d78694887e44a5828e52d5ff3b4fbec4268dd08a37b1f7d6c5d16a61e447f1f8a65e307a017f26bae6a0b608e599c5e90213f130c5b2d9ec75a284aa3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db2de5079026cb381a86280a1e475309/db2de5079026cb381a86280a1e475309.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d590515912be39b5ebbb4833f47c7957003b976c36339b9f312078e952a76c39402d38e2e2c1b8568899e59eed5466ecb75cdd7d67ac8e4f8cfa4163c9b7c45f7eb63d8d437d9fc25b24cf3ba7d5d145d6bf011a22f55863640d63f95f413b1f839c4408968c8a1ec684c087f1cea1fb608c39721374ba3fc3420a05cf38cc9335de95d38b9eb205f24042684282a251/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db2de5079026cb381a86280a1e475309/db2de5079026cb381a86280a1e475309.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "daimos-2787?ep=114355",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/019c894df5675da296b58d4b1973a306b473f9f3f8dd328f6b0dedb11b90e8a01cf2f8e484be8f483e115f1717d6cb0c3b2e7844d825ed74964e0da34836968fb7cc363563248a0fb50d2e1adef64c224592a519613cf2ff38cae1b3e05d4d295de9bccc0092fd01a553a6db2e2e709f4e5cc55c0e38cc5379399157fde2aa0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20b2f9a9e7aa6d28e3f80081fc054dd/d20b2f9a9e7aa6d28e3f80081fc054dd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/019c894df5675da296b58d4b1973a306b473f9f3f8dd328f6b0dedb11b90e8a01cf2f8e484be8f483e115f1717d6cb0ce688d2613d2c2ca5821646b4015e7e85482034a79eaae8a924024c745e86448e977cd5d850c957e7bc77431313e421f14add41b4ea71c5df89ffd45e6766a9b348521621945233e9e9b3e769422911388c81c889a380bd64e11c5d692bf0d023/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d20b2f9a9e7aa6d28e3f80081fc054dd/d20b2f9a9e7aa6d28e3f80081fc054dd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "daimos-2787?ep=114358",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9e2b1c74067e7eff35da3e63656b453dbe2f4bea4cfd359df072358d20c80123423dd37c3e45955aaef349cff6bdaddf4ccfaf06a353eaedf3d4dca7f421e0ebd5268bd424feacc2d8872cbccc4c4823b7452cc571c30b3a7edf824ae7227d61a752e6e09d9d88435663a63395b2d214bbe593738faaf488f4eb03de76e586c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb11cfc992b0653e00d1bc242345b38f/cb11cfc992b0653e00d1bc242345b38f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9e2b1c74067e7eff35da3e63656b453dbe2f4bea4cfd359df072358d20c80123423dd37c3e45955aaef349cff6bdaddf4c94cd83e151ab23a2f6d41f3c908ab7bd22b1808e8b2854165d4b333e26c17b07966ca97a1f2670921ce2985010856c8bf32cc71dc9cd017a207796d2fe78da8259fca48df19ef4a170f84c88c910a82644fc594683523a9ae58c3a1230f0c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb11cfc992b0653e00d1bc242345b38f/cb11cfc992b0653e00d1bc242345b38f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "daimos-2787?ep=114361",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3c8b5a271acfd1b09081d2551e4a9660b1816780de5f51b0ea5debd6aee56321d9a1d39b7408eca68000864419d988371b48029376add0c865ec4b3d981aa9a983ee1f9be2ef5ebeab85574c2edef4a2682c326c5f98d804c8f241ae785faa68a1af26987432ac365a9eb88f069bcb130f1334d2070b527f16eae6840d52c581/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2f6fb8689e4b1c73db4715a16413b2c/f2f6fb8689e4b1c73db4715a16413b2c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3c8b5a271acfd1b09081d2551e4a9660b1816780de5f51b0ea5debd6aee56321d9a1d39b7408eca68000864419d98837a9b6ed08acb484b62b046ff5c3257b6cbb138ec2ab6b928bce7acd7e315788c9f62c9286adecc126132bbd48a6ad02ffd04f7dbf30a615f65ee79f991752e15d86b33302a707599de62088ef46ba5cb4b81902a62fe7ce2c107056fc1a4689d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2f6fb8689e4b1c73db4715a16413b2c/f2f6fb8689e4b1c73db4715a16413b2c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "daimos-2787?ep=114364",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/61ebefd3e876d1d23c742cb1128a90133cf546f0e26a8079f3303560a5d8778ac699563a6ddc58147b678c482ef9d86f0c8539da659117ec13d941ec59db91bdfcd24cf9d83a7775a14ef05d120925d3cce0b8d2bf84d7ead1961b2ea54fecff214de613c050cec416af6edfcd167a1f3b15ca77535fb87294a67c801baf14d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68e0912f6ab7a7e3d2927f80a9c2dbb3/68e0912f6ab7a7e3d2927f80a9c2dbb3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/61ebefd3e876d1d23c742cb1128a90133cf546f0e26a8079f3303560a5d8778ac699563a6ddc58147b678c482ef9d86f55b3275f19f4601e6d9f242f3121eb8a87326b5f6c7f91b553dcd1225a2acb5f9fb874decf7f9651fa07007be4664500bf07c84ba1db0256cccdada0de1af31f70c7bc356ca94fcd18b4c957a9c7d9562fbd729719d636bca4bedb4e337a0fcd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68e0912f6ab7a7e3d2927f80a9c2dbb3/68e0912f6ab7a7e3d2927f80a9c2dbb3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "daimos-2787?ep=114367",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8b322587c78341cd19752ad0ab8638af76f858d2566363a79c478c37b9a773d4ced00a4e661d375522846ba4d6613595cc1859eee9c72d44cf400356d471c19164d0bc0391e3f918ad1da9933127bbe350ddbed5031308931de6c3f916aacf3cbae8f22bf5ea51afe450b879a436ba6b3474909e504bb7e3801050d86ad9d9a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f69377ab7b19e6abb5d2ee7e31556ed6/f69377ab7b19e6abb5d2ee7e31556ed6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8b322587c78341cd19752ad0ab8638af76f858d2566363a79c478c37b9a773d4ced00a4e661d375522846ba4d6613595e36995bd482c934b57ac2b1f0fd13f19eb515104261a9904ed185e6e246ac7ded872f0bba38d4f25cf86f459634575edfb2273c3564b7a8728891b0a5934bd0e31a92071b268477ec91d7c3c429be6e973ecd865e3c7fabdb55f743f4c356fa2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f69377ab7b19e6abb5d2ee7e31556ed6/f69377ab7b19e6abb5d2ee7e31556ed6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "daimos-2787?ep=114370",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0f86d8238daae7786518bb224024304dfbd79fd342c4dffbc9c043ee723323600b190df0838ce100167a6abce51d972653a52ca8979cc6eff600c18ef0cc5c0466ff0215d00768ea9da0e57e10d55a71785d11c6dce240aaa56d861cb82c2a9241069c4aa7fa4215c539df1382f31d62788a991a1c75a045c48949f5c5dfacb0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7d3fb052ec45a8bc84d353389697def/b7d3fb052ec45a8bc84d353389697def.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0f86d8238daae7786518bb224024304dfbd79fd342c4dffbc9c043ee723323600b190df0838ce100167a6abce51d9726122f9966549dd2109ad08a0041140337c8da568439883410ff2a4078b7f3aca4f7fc6be8b596675a7422c0f778e326c2ab103af529a72dcb53566de9e58b011324a6f9cf7d4c289e143e1b577601364f5f42dc4f9c34f1d0c2caecdde7995104/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7d3fb052ec45a8bc84d353389697def/b7d3fb052ec45a8bc84d353389697def.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "daimos-2787?ep=114373",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ef93287401bfa16fd720bdffaa29a625b6ec384c524e5bb834aa1af3c21ced986fafd1882f7337a1ad2b0c9463ba51047dcd288618fa391c5ceb4db0961e3faa1de50ae2dcdbac284b3cc959529e45ae898bbf706ac2ee8a741dee389bfec19d2e0980c324b368dc8f8e960872fa8da26342bb6b9f771d64130c3e5b3c6264fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f93ccf35c85103232c95de083609fe8c/f93ccf35c85103232c95de083609fe8c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ef93287401bfa16fd720bdffaa29a625b6ec384c524e5bb834aa1af3c21ced986fafd1882f7337a1ad2b0c9463ba5104c3568473609ccf9518226cf83c9c07846e5d2526c19c6a3abd7f2fa381e08054a0ab68e1d44f7f5e24d49335dd86cbb006d259f8ac2a057470667840858173b29020d668fa5954850ed0c4123e12df77d7dec16066378405dfe53e111cf8d36b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f93ccf35c85103232c95de083609fe8c/f93ccf35c85103232c95de083609fe8c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "daimos-2787?ep=114376",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/96942a33e437a4ff9db1850b28cc0e18b225ffb65ee412f5b6f0045d0113fdf9f6651da6873a167e04b7d15203a8bf72da4a2d9284fb233ad0b303320a008e7bdd1d4a3d105a4223620c4b364148449f30e472d9db0ef495dce1b83ca69df868ac862e413d0cf0c2bbdfb5ce8f4c1dcd4851e9b89faa8d465db2426292a73c0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8db392904366295e4dfb8110646e37a5/8db392904366295e4dfb8110646e37a5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/96942a33e437a4ff9db1850b28cc0e18b225ffb65ee412f5b6f0045d0113fdf9f6651da6873a167e04b7d15203a8bf72de0cfcb3fc4ea7fa39d4ad9ce52a7c14d3e1caac9e8d051d5f14e1396d7b40aa26321dc2c24444f11da474e0b285f4a1e39b996b9ee413b5284b6b7ccf238a2fab01dec0a9c2888bc044f19bd16792cdc160204edebebf49a90cb3cce09433a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8db392904366295e4dfb8110646e37a5/8db392904366295e4dfb8110646e37a5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "daimos-2787?ep=114379",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6dcf69df378e97906d3be81b3a4d5d45d1f9b1153b60a675a71f3ad64d476a1478abf0cff39caafecb47db70964b87328940ee0236a20f5cebbaaf07bd563f9e4e9673714294ddbcbb96e90fa099469d2439168360985bd35418be5b9357f1f0b308d0fc39cc149fc6274cde7aaae5513572e2ff12b783f3b93aa64235db4369/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bccc82040164c92ff94d66c256577359/bccc82040164c92ff94d66c256577359.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6dcf69df378e97906d3be81b3a4d5d45d1f9b1153b60a675a71f3ad64d476a1478abf0cff39caafecb47db70964b87322a550f53b78037f39183c46988fadb26a8898ed1f385424a41f5bc6d65374e27b159a8b3a0c46094bfb0598719685ba095bace9715bfc382b44399b790325a95bf9a000b74243b4f128ebfae3f66169a625c889e04488d6f63324810fe314abc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bccc82040164c92ff94d66c256577359/bccc82040164c92ff94d66c256577359.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "daimos-2787?ep=114382",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fed4c1179b2d7589df560e56557060ce2751192d5d58d6ac98a8204c1e917b579989fb95b8bafdd49c4cbd5cc6798d8d338371ed7110564d8dc74c6e64ba30ce2b8c35a097f79570cc1d2d2066cd6c093ca758ce1f8f18a344129cf5df9bc5878035520f205be436593957dca1971eef04827cbbb2d8f96da42bf0e73b44485c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f7e5b273f77b8a408cb36667464fbf1/9f7e5b273f77b8a408cb36667464fbf1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fed4c1179b2d7589df560e56557060ce2751192d5d58d6ac98a8204c1e917b579989fb95b8bafdd49c4cbd5cc6798d8d867e8f8de2ae6445a45343b84fb5992130d29882897174f4af8cf7bc76129a08f6c75cd2ed0d4840204f7d167753827cdf276b2c6691da3f40438d64a2d7ae8f8b96a7e66fc4caa2ee0c62b1c8189189f7287ad3b04ca128d91d95b33c5fe513/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f7e5b273f77b8a408cb36667464fbf1/9f7e5b273f77b8a408cb36667464fbf1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "daimos-2787?ep=114385",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c5a60a80cbb8b036d87a4700bd6bab40b07c69e37467893d3c17fc737791ea5034d97579f2e1220317dc3cce8e88d42e911de1978e0303f36c0ed35a9637c0966eac3325433d89bb367f0dfe94dc77e731747abc9c7c7df70e3b28971c8c29dcd624a4ab1c88b598b689b8d3785f724e4a1aea4f26fbc1ecc77971ecdf284027/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/409809ad7617febd7956d30c852c21ab/409809ad7617febd7956d30c852c21ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c5a60a80cbb8b036d87a4700bd6bab40b07c69e37467893d3c17fc737791ea5034d97579f2e1220317dc3cce8e88d42e7af3e3a8ad17246404b36e6513933a381914202305f2ad3113ef6725cfcabfeebd856a87f4953953cdcd9875e74a99f26c9c590a9baade479b3d9de88b16d6392b8e5dbd8ed296154107e31ff553092a0b8bea4702203c9757fad7443b9bb3ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/409809ad7617febd7956d30c852c21ab/409809ad7617febd7956d30c852c21ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "daimos-2787?ep=114388",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ab49bdc71076cf8b04594c1fe535e77ca55b972dcda4004f54955eda3f7501e76196d05cd2dbb5d918afbad35f0691d2bc3844e036c11157ae21f33ad7c545d8eb2fbc9e7fae73f0dae67fb393c29743a89edee9538b1f801d864597a4379b808972b12a8954e5c076d513de58994b6b3298ec5593f0691cd8067a0c6f2ab76f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/602ff579e34d7928432f2fafdbe38a45/602ff579e34d7928432f2fafdbe38a45.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ab49bdc71076cf8b04594c1fe535e77ca55b972dcda4004f54955eda3f7501e76196d05cd2dbb5d918afbad35f0691d24314b805cd2bce386efae50277bcd472049468e52190034a101500f8f4d59493958f214d89b0ca2bca217d59c6f35584d8bcb8c8a5e0e3a50c1471a2600bc9297c31ba16d353014f77a66d2108dd85b91d658e01251d41b2fc93d3f22971675d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/602ff579e34d7928432f2fafdbe38a45/602ff579e34d7928432f2fafdbe38a45.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "daimos-2787?ep=114391",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/eed4a94fbe0467efcc03ee2498c52089e023291d2b6280af9278fd0a7b1c1ab53221a28dabe1518206730451d7f7e3f8f56d17ecf689916388b53a5521c3f40e4b65678794de397c3e71750ead5f5c0d482d8018609052ded90293589e98b6b82c2c713bbb577ef8d86b97eeb9a04d7037227da274d72cb6b96984dbc406d91e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c1fa72cd692e237ba82a6e2e6ed6600/5c1fa72cd692e237ba82a6e2e6ed6600.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/eed4a94fbe0467efcc03ee2498c52089e023291d2b6280af9278fd0a7b1c1ab53221a28dabe1518206730451d7f7e3f8667b56366e4a6bdc341474ba4b562b57aaa88312e3db69f869585b5e293ae66dba80fc61ce1f151a0a6e68120d9c0dd6c0620af8948784dc39d6118c1f9633cd5cfcb8ee54da72cf1da8b89cfae1217ff421258d47a575e64fd007a40ea4ff84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c1fa72cd692e237ba82a6e2e6ed6600/5c1fa72cd692e237ba82a6e2e6ed6600.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "daimos-2787?ep=114394",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cc141ce6b47ab4ef4181748d4909321695361209dccb4293cf9af11e5f38032583824b05ca038e1f391e868f8f4b13e2174c4e95b5970ff84a306432b4b4676dda5d28c86b191b4bf84df40efb452bb1b29f195f069202cf28fae27e4bf746e759259b345c015e84e246a271143db25ec7a11cc14d687825c16919c164d8c656/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6163d7dc0ea2b3a6833cbb70f8928554/6163d7dc0ea2b3a6833cbb70f8928554.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cc141ce6b47ab4ef4181748d4909321695361209dccb4293cf9af11e5f38032583824b05ca038e1f391e868f8f4b13e2bc5aa5bbc50aaecbf33759d06605d7126ecd566ceae729fe39959021dc089a6f42493a6a0c637db9701a51d7fd9b9b2927ff10897021280ce62568da5caec8945a7df014c77e6f2e4dcfa31b3d1e04e69fcaae1172fb7b454a2cf845fcd8cda2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6163d7dc0ea2b3a6833cbb70f8928554/6163d7dc0ea2b3a6833cbb70f8928554.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "daimos-2787?ep=114397",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/638d08b53e51fcd4da05ae2825ceae748c59b07c09d391c1d50cd48440cfa035401c682847690559141f543612ed57f8953a316386edc5fbd0f29d8527ff5b9b57cc73110a241b725269d16e9db8d85f55d3fe2afd16d5423e9a82f483aea21899f4872a43c39cccc6cb242391b11dc1dc5ae56b185ce02f294a65d5eccf1873/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92b08859771ce2ab9aa686b97d4015d5/92b08859771ce2ab9aa686b97d4015d5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/638d08b53e51fcd4da05ae2825ceae748c59b07c09d391c1d50cd48440cfa035401c682847690559141f543612ed57f8aa862d5b67be7694aed4fb0aa9f543ed03045e3a2440a63637ed297d72f9c99c942d9dcd7acb7d99e4b07e5b63890da31241b65b646f6b079486a2735bb26b8019ce91da70aa90d2b2aee52b46467249119820885fa6d7ca7f046220f88e2fa9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92b08859771ce2ab9aa686b97d4015d5/92b08859771ce2ab9aa686b97d4015d5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "daimos-2787?ep=114400",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/eefc7558eaed823bfb4e9857be87a59218b6009209045c30189057a21b6163a15ca4665f70ea672b53990ea4eaf25d183ef8086fc6abc5b6a024d19f2d1155bd481b3eb920ba6026b4e075622ff6a8835b7fb61aaf4507b6fe1cade92976a3977118a28235e2e73a73457c51e13c2e3e36212b69f4f7aafc0d2ae58441aaec31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf23493f48384e37572f5f51ca31768a/bf23493f48384e37572f5f51ca31768a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/eefc7558eaed823bfb4e9857be87a59218b6009209045c30189057a21b6163a15ca4665f70ea672b53990ea4eaf25d18544d0a5f36ecf0841551f67cab91cab562012ac05f3c2c2091c939f96671f4f8192a8a0f8e1487117dd200caa26d7a862fd3eda2761b6dcc3df522c9635e5759f9b0dd2dc73351554ee3ab1f09561e90583b41dc4cc05c38c13dd57be156b2f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf23493f48384e37572f5f51ca31768a/bf23493f48384e37572f5f51ca31768a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "daimos-2787?ep=114403",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1aefc41614a4fd23270b5eb5e0342001eb1265bccfeec46f1ad99273c282103f1986904832d4e0b984d38ba828d5bb0d853705b37b04b746d225aa3fa347af715cfe69d221dec02ce32911311d668d221d8edcc90e5b5051c10c031db70bbe0f2de8a2fa5d34ada745074afdb674beaeaa53b2cbb64c579ab77b74cea3f3af5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d11a08df2c20bb2614de23d7b0e976c0/d11a08df2c20bb2614de23d7b0e976c0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1aefc41614a4fd23270b5eb5e0342001eb1265bccfeec46f1ad99273c282103f1986904832d4e0b984d38ba828d5bb0d9275b60c389ac732f54b244ba90fccc14530e74101f6c4abf5bec6d922829624104a59c4d30e318c8a9773dcd651ebba5134e2fad1868d3e8abadebfe1789e08d8846cab379839d13f1a593052d30dc515620716f80142e0839a5f87f62c49c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d11a08df2c20bb2614de23d7b0e976c0/d11a08df2c20bb2614de23d7b0e976c0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "daimos-2787?ep=114406",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e877658018fb9a7ba6c8bc37d935ee532a62d61eac8d962e0a68417d592f331d063600212f07c8a36185ea63d70ae292a1b225a4ab7f4e23f3ac82f610264d508ab695f39cb13e8ea1215985203898c9170346c03a2c49e4f2e1cb2d2cb69273a066a213147608e2d96a8c0a211591a81ea62e217d0ce8da4718bf38838b0e4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc16026c3b3bae75152c5668d2fddcad/bc16026c3b3bae75152c5668d2fddcad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e877658018fb9a7ba6c8bc37d935ee532a62d61eac8d962e0a68417d592f331d063600212f07c8a36185ea63d70ae292daa86454a211c6b8d74d9abe5dbcf7ccee6c69b81fb53302673747a2b8fb05fcc95af5d7e792054c84639217046419aee2a57ea36a19e8db91e4d2323e66956c7f8dfddea9b62c2d047f55300b550fb333dc0314c20e264ed86c952fa33942fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc16026c3b3bae75152c5668d2fddcad/bc16026c3b3bae75152c5668d2fddcad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "daimos-2787?ep=114409",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e0d21dcc62effe60a26fa8fc5a53a8465d7251820b9730569ec1b53b5865e69c8b5d2996362c6e658a14b620221b596d08417a7a6275a1349ec775611049c7ebfbb7b5fc10c15c7441fed7c2710b4c7b0c0a693c3ddb9803cccedbf1ebd19e0ed32bfed7743d6d8c5c3559453353608e981e981a76f7269e991c0d67cdaa17af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab5a6b80ca3c5cfe1f57e70682da27a6/ab5a6b80ca3c5cfe1f57e70682da27a6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e0d21dcc62effe60a26fa8fc5a53a8465d7251820b9730569ec1b53b5865e69c8b5d2996362c6e658a14b620221b596d2f3f30f9ff37fdfd10c1ab795be99de8dcc66005fc4144f78c94c5394f759431136319ff566ec00e416bc6955332aeb5701bd03150152cb5453d02adc84f6f8544b01a24dc159e87485e293af75c0290fc623c5ea15cb089f16f241c2733b254/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab5a6b80ca3c5cfe1f57e70682da27a6/ab5a6b80ca3c5cfe1f57e70682da27a6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "daimos-2787?ep=114412",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9543f339b7f02f44f465692815dd4a967d03138e5f3a237085b80fc94873d1dae9e2bfbf9ad525137fff47d7ad5ea2b48f2191b397b1eb143a755c4e967096002efa19c2a2f2a79791d91dbd2e8b8f6ff59a676351d51f302c583f19b82df9597a5e4653234f7c5a296b21981c18169716c2f4bdaad0a4f3e0bd324ecafc61d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc713be36ad41e4a5b32e2f61ea17cf1/dc713be36ad41e4a5b32e2f61ea17cf1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9543f339b7f02f44f465692815dd4a967d03138e5f3a237085b80fc94873d1dae9e2bfbf9ad525137fff47d7ad5ea2b414b09f7603d430e54ca92c0436ff04a5f8716f0976265dde88f75302c71fd64780c084e8b9b7541e0ad676680f688133cf52dd3ef122d5f876d82ceab13e562a5f85ce43dc50b159c13dd9f656688e4d996ab5e91b0f37f39b0ca2e721586a1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc713be36ad41e4a5b32e2f61ea17cf1/dc713be36ad41e4a5b32e2f61ea17cf1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "daimos-2787?ep=114415",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/728b50f554e5efc04d8ef79e3bb4d2e839776be88457f170a314581f07e16f6c595727165887647dacf947d84d4aaf3698a23eeb192aaa10cbbff163ef6ef63c981ee2d930e008e7ee969e3361d3999a51a12931f1e3bc466c9f9d83f496ee23f0733d8df03f75c235add6f81bb63be4d837145ee9e6ec93003a1b7a2292475e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a7e3b61bfbd50dff9d89258b55e5a3e/0a7e3b61bfbd50dff9d89258b55e5a3e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/728b50f554e5efc04d8ef79e3bb4d2e839776be88457f170a314581f07e16f6c595727165887647dacf947d84d4aaf36dac32f5c7eb1537b67dfaf2d2b3a4e2a8d31c0ecad52155c7b651e8645d9d5bb18dc87437f0986e70fe18e47837225a544d92adcd15d7b5d87457884b97f1615a09138eb5e87bfac6280f120c9dc2451185929ddbc06e6b5cb6bb88f4e7297e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a7e3b61bfbd50dff9d89258b55e5a3e/0a7e3b61bfbd50dff9d89258b55e5a3e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "daimos-2787?ep=114418",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2a65022cb88ac56e450feed4827bb974c54a64ed03b4fd73189f4070b90674320351830acc0dda049428d2663019c267c0c76c8c6afcc8d10a2ea01fb777979d7faa65b7f20c8dca1cc191529e718fdd8045c014634d21ef4d4f76a535b2d66fafb3c71ac8a88d18c78c51c822cedc0439d55bd2ccdb9e5548b79adf3138b10f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32d3a9a1504f803082d5ed7aae7879ff/32d3a9a1504f803082d5ed7aae7879ff.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2a65022cb88ac56e450feed4827bb974c54a64ed03b4fd73189f4070b90674320351830acc0dda049428d2663019c26723355f673c33f93fd70ecd9272d25df165e76e36c052933d57c88ca9198890b9f43c34146ca9841324524d1b820bfb15bf52aee34ddf743563fc2db99128ed0d123aedfd5b874c1b247a3d38dba7bd2263aedecf9cef9cb1d197a0518b1030ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32d3a9a1504f803082d5ed7aae7879ff/32d3a9a1504f803082d5ed7aae7879ff.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "daimos-2787?ep=114421",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/41ada2d594a4b52f05efca6e545edf02cbc27216872efb450c59062b54694fd8f7647afa7f784021d1156e3387f0b5b9f020b8b501ad8a6a9a5ec6ae3da127968898071d71fffe953b88d580d8f71088ee4016c0bfd6bb9b2b13b16de8b53306a78ab180bef3b54ef9a46c1a7b46ca69948027cdb2e432148c22a9f2ad7b1d8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a0b8fb424e61fa4e6c9faf32e15d35a/2a0b8fb424e61fa4e6c9faf32e15d35a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/41ada2d594a4b52f05efca6e545edf02cbc27216872efb450c59062b54694fd8f7647afa7f784021d1156e3387f0b5b9671c5f3546e133426bb46a810304a50c7c8c62634eaf6d8a0ff205610812ae01ea17321e20faaa4653143208e0406f2c36b5460b9f64581ec9eb7e714d2055e674572f8381491fdda329d6231d46f8881f1e6da8728e0c2a52a3ca9f60568a92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a0b8fb424e61fa4e6c9faf32e15d35a/2a0b8fb424e61fa4e6c9faf32e15d35a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "daimos-2787?ep=114424",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/32c0cce1fec4905b5c1ce397bd453a6b459b3b4d366331810015ddec9fa901b9e7e5d9b7a59b5123ef24dcd770c06163cee05438b7b76ed904afb5e4debd6d3c4c825e50f9a400dd6c278b7b2cc99fb2fe22b9d3a3ed12f1ba9086070ff85265f5c6729bc0d25ea12f2f6884f25ae03b143b5c7117364772be09075ea876e06a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/501b8907307f8489edf35a9a6c319daf/501b8907307f8489edf35a9a6c319daf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/32c0cce1fec4905b5c1ce397bd453a6b459b3b4d366331810015ddec9fa901b9e7e5d9b7a59b5123ef24dcd770c061638506930864e1e5a5881c53b9ed31a2c9610f8f70c5bc452857bd8e30ac6b439c2b34bfa3279ab346af04e05a79141c799c98cfa7a385727b29998de4a6ec6f4515ff23079db7cb2335e20f2704673a367267513fb78ff4f7e6339c2ad40b87a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/501b8907307f8489edf35a9a6c319daf/501b8907307f8489edf35a9a6c319daf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "daimos-2787?ep=114427",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d6cc7394693f772089202e2ed793384387d7a37d36d85af953a28f9af5578179b31c49502d3bde76af583c4d699f566e1dee263422464a7d50a1ef3475b378924d5e0f9b51391ffac5ca43c99fbdf0ded6465e868401fda87a31eae0b96f72a09df8f772d90f51cff251d6d2a43427b8e1debc2adccdb4fda60a937c5c97c821/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e70322170266d2c2166691cd67028fac/e70322170266d2c2166691cd67028fac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d6cc7394693f772089202e2ed793384387d7a37d36d85af953a28f9af5578179b31c49502d3bde76af583c4d699f566e36c6c943b0f98a67eac234a5ffd25167e6efb8642834b2e4537c7cc2a31bc0206c5b7c7986ea9e6d47cf617ee79390b0f34bbfaf99590ab2248de6d9afc4f69757c6ed42936cecb291549c3183c5a344a20048f1a712b8a948908bef1ba9196b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e70322170266d2c2166691cd67028fac/e70322170266d2c2166691cd67028fac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 40",
+            "episodeId": "daimos-2787?ep=114430",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d284d6a24fd438fb2c369d873d18becec0fb053a4b72f9ac25d336b14a8c44ebe37a3ffce5b7d9651b68bde8635ce295291fde9202c6017636038535d4a7ca967a23536c867601f4852a340eb20fcadb5d49f9d16eb7ca384750bcb8c8e59c6e4a1478b4bc0fdbbdddc613a956fb745b3649ca759e17429155de1f1d666c3946/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81f677ddd1a9fad8178b288680fc7173/81f677ddd1a9fad8178b288680fc7173.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d284d6a24fd438fb2c369d873d18becec0fb053a4b72f9ac25d336b14a8c44ebe37a3ffce5b7d9651b68bde8635ce295469f071d072c6da8707745d2a06d8257e67beefa6ef38e95378eb26edd95a5a6e5a34d7e88384f398de4ad2f0a0bf8aba2df0782f50f42ecd04160b2660971ec366e93f79f048965756f91e501a5c205539db8237ffe7783bded143885a5f114/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81f677ddd1a9fad8178b288680fc7173/81f677ddd1a9fad8178b288680fc7173.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 41",
+            "episodeId": "daimos-2787?ep=114433",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2160798a1cd88f8e5329c496d7314ed11d5f813a67ede115a810fe08f9f6fee54fbf21b13052aa0429752b8602bac9260c29eae60fd2edbbdb377fb5b325bdbd2c4015e99b6d290937ade5b167162f4d3b52a43cf71c0ade78dfd16cd413311b8c9eb9eebd8de9ffe706ff5a613190d528bb88849bc89d43ddaf7d3415e54c00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f12265346f8ef0097971276596c8a9d7/f12265346f8ef0097971276596c8a9d7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2160798a1cd88f8e5329c496d7314ed11d5f813a67ede115a810fe08f9f6fee54fbf21b13052aa0429752b8602bac926c787c783b115e297a49270fea0d176641b6560f6f182af153c8601b371a2e906d154de4f5703a54d78e99efa95874f7b713eb8c5b98f8cab957474aa4d610a07af717e9ea5bc5b9623954afe6ea91fffd183ec366ec1be96a6cb222145b803c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f12265346f8ef0097971276596c8a9d7/f12265346f8ef0097971276596c8a9d7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 42",
+            "episodeId": "daimos-2787?ep=114436",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e440bece6140aaafce6200b10222a9b4a8baa822c11abd6eb9ca6b2f61b94a149f25b005812dece228e11cf6e09f393113585d3982951f2f664bf43289a0e9fd2ee896685cbd17b91933f62012fc62d72ae7df237e7bc4d339e81f8aa88edf22a08cbb135d337673283898ebc2434ac34c1b26ea2b40cfa1cb2bdd5ba561ac27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cab32ba42a9463f499b71176337ed538/cab32ba42a9463f499b71176337ed538.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e440bece6140aaafce6200b10222a9b4a8baa822c11abd6eb9ca6b2f61b94a149f25b005812dece228e11cf6e09f393103b8842cf59439341a6e49b1243f179f1dfc1d3382f17447a99e73a8fe40c4f3cec11d2c46422b0e03ed8580e9fde9fd4d6574b7e67907f7ec342b76509f8605a746868927d2de02d9715316267f0014104a5e0bb2cb86b147ac2e0e264d2fe1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cab32ba42a9463f499b71176337ed538/cab32ba42a9463f499b71176337ed538.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 43",
+            "episodeId": "daimos-2787?ep=114439",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e2d57e9c24af8c9f3dec1aaaae85fc24917ca37b576d6b3bb9b5e5b553ca9acf9fa57f4281fd3ed0326f2c75f26d86e9b071bac8e0a1279bc845a9ab3afd2d7017a414bc7d492853e6ff9721e9fa973cd8855fabe95ea83f8006304c84bb4bb8a24ab7883d2072aa2962fe41a7c00090471f91acee40dcafb6080a5c862ccda4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03b11c8ceb6ea491cea85cf89b94a03e/03b11c8ceb6ea491cea85cf89b94a03e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e2d57e9c24af8c9f3dec1aaaae85fc24917ca37b576d6b3bb9b5e5b553ca9acf9fa57f4281fd3ed0326f2c75f26d86e9da80f3d184775238c76a903f23ed5b8335c671eac4f6393a722a2080bfa71c5efb95f14cada4e180b2da8bde3704c1c71d3860f47fabd9fdf0a6e72b618f7e3255d59a217dcc1bd2bda02786bf8dd0581aea5e378554867da6742dc96b4e9d21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03b11c8ceb6ea491cea85cf89b94a03e/03b11c8ceb6ea491cea85cf89b94a03e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 44",
+            "episodeId": "daimos-2787?ep=114442",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/27dc8e9b3acfcc0fd921ba9d66524ab025a1c3c84c48685df4c62f503543824fd0c4d4d52cb5f3e99eeb1770b83213e652d7724852114c7726491bd856ba8e011a92e14d71db81fa9e4c988ae09a58c40f1532b49903de71d4c3bd20c5d543b7d6c4b50206651e0ae18f0b025a94009c0bf911f8d04b22c3ae7b3d24952e31f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74230ee116f103c8a2956c1234c54cf7/74230ee116f103c8a2956c1234c54cf7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/27dc8e9b3acfcc0fd921ba9d66524ab025a1c3c84c48685df4c62f503543824fd0c4d4d52cb5f3e99eeb1770b83213e6d1550b54e6ade1b3d5aa0087a2c8a93d6f5255f7ef78d702354e4a005f25893e55ad63ed719ed3406180dfda2786685e8f4461deb9a8ae6db12fa0f5a1afbe2163cad1a971702e607a4274ca4567d2d028a6878c8004e966c841daf94248f249/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74230ee116f103c8a2956c1234c54cf7/74230ee116f103c8a2956c1234c54cf7.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,607 @@
+{
+    "info": {
+        "id": "hackroots-3886",
+        "anilistId": 873,
+        "malId": 873,
+        "name": ".hack//roots",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03fa9bc37156a18ec6582e2459b3a075.jpg",
+        "description": "After the termination of the incredibly popular virtual reality MMORPG \"The World,\" a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. \n\nAlongside Ovan and his cleric friend Shino, Haseo enjoys a wonderful first year in the game. But this peaceful life is shattered when Shino's character is killed by a familiar figure notoriously known as Tri-Edge, whose victims have all fallen into comas in the real world. In a fit of rage, Haseo vows to find the elusive Tri-Edge and kill him.\n\nTaking place during Haseo's first year in The World, .hack//Roots explores the friendships Haseo built in the game before Tri-Edge ripped them away.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/6BynXXDlFB4",
+                "thumbnail": "https://i.ytimg.com/vi/6BynXXDlFB4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "haseo-1765",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/49b36d47342d175cb9d4d667b320de6f.jpg",
+                    "name": "Haseo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ovan-6059",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa3c57d4a183e9bea6155a9be34356ce.jpg",
+                    "name": "Ovan",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroki-touchi-1253",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1aa491968c51b7aa9717bd84beca28ef.jpg",
+                    "name": "Touchi, Hiroki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "phyllo-16156",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aa4f9169e2d82b24e8bd08268f06b7.jpg",
+                    "name": "Phyllo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junpei-takiguchi-3012",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0cc10797848e0104a4163bad826fed37.jpg",
+                    "name": "Takiguchi, Junpei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shino-8356",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bae6b45b73c3270e0625a37a17060dc.jpg",
+                    "name": "Shino",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-nazuka-310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/088c8bd885eb238b4fe53eb492aa1705.jpg",
+                    "name": "Nazuka, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tabby-12253",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6b45a730902e86a3a009c52530376db.jpg",
+                    "name": "Tabby",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-toyoguchi-281",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d55ac591b7383713cdc88d281281b19.jpg",
+                    "name": "Toyoguchi, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "asta-27886",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4038521634bbd14f9cd93ef67a214b9c.jpg",
+                    "name": "Asta",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tabitha-st-germain-2210",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e23d8a958cfba1c0270b6444ec27c926.jpg",
+                    "name": "St. Germain, Tabitha",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": ".hack//Roots",
+        "aired": "Apr 6, 2006 to Sep 28, 2006",
+        "premiered": "Spring 2006",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.92",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Game",
+            "Sci-Fi"
+        ],
+        "studios": "Bee Train",
+        "producers": [
+            "TV Tokyo",
+            "Bandai Visual",
+            "CyberConnect2",
+            "Bee Train",
+            "Funimation",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Welcome to The World",
+            "episodeId": "hackroots-3886?ep=35653",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/1fb4dda2dc11bc72e78bedec4ea1719941c32f67958e3f296e6810b8fdfb15123571c18310a35b5aaedf30b55daf31953590462551982267e718c6dd8a21f34f3a07c69f9bb89014dec791c422aa57fec0b943170aca29297c6f003258f78fd829a96ccbd947505aa54a1882f06287de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81347c5a2b4b3c41dd41bbd5c190b24a/81347c5a2b4b3c41dd41bbd5c190b24a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1fb4dda2dc11bc72e78bedec4ea1719941c32f67958e3f296e6810b8fdfb15121ee7f6b4889514168fe0635669709a91f1325d4611996e6b2074479e05e4a42ab935156ab6320fc9fc8b70419001f812b2ded80fda73cb4b320bd575dbb5a9af3bd3c3642fcc40cea8d8d380785d0ae9a8cfc6e313d07bcdb72de0aded2663f3b3ebc51f21ab0ddc192d97e460a8de02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81347c5a2b4b3c41dd41bbd5c190b24a/81347c5a2b4b3c41dd41bbd5c190b24a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Twilight Brigade",
+            "episodeId": "hackroots-3886?ep=35654",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/46a8db1b3fad9c7cde627b5e18f886118eaa7d42196bbfb448e806ffe1522b880cce1d81ad6a81e4de3ab642494027a7af0463b5eb17cb94f4e5ec172e287083c6c136a6080611140325b0f5ed7737ba62e02c38fff13dfef8e51453a8f2037540219096a5b3e8e030000d654240e6d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98ab5fe27874757a9d70405b2027e9c0/98ab5fe27874757a9d70405b2027e9c0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/46a8db1b3fad9c7cde627b5e18f886118eaa7d42196bbfb448e806ffe1522b887e82b572ff635449d7863b5251bc281a1b3525a7ea67bb35cdb0a6a58ccb859f8354f3cac54b7a5cc4c4edf985bf10875a43036e581ad650a546481c83ffff84a3430e33d8da0dfbc32da476dd278a4149660b302750360111bd35716257ae44f6caa5bf05aedf53e249801f83b26b5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98ab5fe27874757a9d70405b2027e9c0/98ab5fe27874757a9d70405b2027e9c0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Join",
+            "episodeId": "hackroots-3886?ep=35655",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/38766abfafa4ef9ad8c1a17d3862ed4ddd9637cbeb77f5dbab0179c9e338e43b23b07785aead43d7b02753c26870b05d24ada08bbefb22a0a8bec990f520d61b20c3dd31fc6ae5a3c69e20afbabac6cfddab369c26d4318bb11367fb439f2cb5c468d8b970ce4de7849323bf99073647/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ead83a4b0205044e6dd438902339693f/ead83a4b0205044e6dd438902339693f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/38766abfafa4ef9ad8c1a17d3862ed4ddd9637cbeb77f5dbab0179c9e338e43b02b9b55de0d754870e8610856403c49260947124e54cbc8449c2476e3479efd8d8c8b5a10f9bf8ec313dd5753a10814d200453223a79eee8858e42dc587609eebdc8d6ca4a09de6967046ce0381afdda2ad7e07c4cfa54c9de66cd08a121595fd739b0d517ca60fa30a98a2803a0d343/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ead83a4b0205044e6dd438902339693f/ead83a4b0205044e6dd438902339693f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Forefeel",
+            "episodeId": "hackroots-3886?ep=35656",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3a8caa6ea843be7691b6f827657539fcf023c8f51f204ad63c4b3045f62017d4d4c98c7217b61c556733f6476a3bb117a194002e9e8c99439abfe657aed12c2057a91a1309b44aee975eb9b641c4018fe2f46f0c9c03d07e9c0370c7fae33855086fc4726744b8f3a51323d49e35a83e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aa6ac9aa09db21969a24de55d5b0026/0aa6ac9aa09db21969a24de55d5b0026.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3a8caa6ea843be7691b6f827657539fcf023c8f51f204ad63c4b3045f62017d479ebe345445379c61ad3b2bf1bca8b78accc802f47d32c55b8d576b238897f61e3e0e97c4ff3c29938e2c6ba4dd88307e870bbec943620aa3822b7a029e1d42424020d2948ba56bcd8c08f614085f37c3dcc457709ab158fc9c6363996df7cce490aa0663f816e6b718f8faac4b689b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aa6ac9aa09db21969a24de55d5b0026/0aa6ac9aa09db21969a24de55d5b0026.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Distrust",
+            "episodeId": "hackroots-3886?ep=35657",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cb400d49682a4e8559ad2b46d65743adf0d420548c4e5dee3b5e2f70f47e797b2bae9aa11af514d96a9a75c2f1dafd9296a6e95f962ecb9ccf8e0c155e33129fc4d9daab9d6f005c23a80e027706fe04394761be083ee98f18a450acfe42105ce854c49e49685e153619007504680f96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afa438f5aa83ed2bcb5355971592e770/afa438f5aa83ed2bcb5355971592e770.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cb400d49682a4e8559ad2b46d65743adf0d420548c4e5dee3b5e2f70f47e797b9fc92755b3b2e3e067052a57f03c963427e946aea7c7219b65aeab74bc53d8ada565a5194942c07c5c5202c52a1470a38ed8a00ef241b1843498d5ea91ee0c1c74780df0320335fbadb6c5a06ebb10f1aedf64b1cfc06902e65d17be6af103e8b16fbbd163dc28043948f5e2c334ba39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afa438f5aa83ed2bcb5355971592e770/afa438f5aa83ed2bcb5355971592e770.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Conflict",
+            "episodeId": "hackroots-3886?ep=35658",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1ce7e9858b6ced3c878083b541aee394cd4f5f08dc8a7871ecbdccf8b36945df42b48dafade2b5053605cae80fa3e05968a6b8e53b6bcc6afe7201a434c471747891afe646cfd8be86d66878bed4e388d9a9caa768976ff86c20aa163a435ca228439214241d799d33cd2de611aa5eec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2737b30a6369e40d57f71f16d9fcdc8e/2737b30a6369e40d57f71f16d9fcdc8e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1ce7e9858b6ced3c878083b541aee394cd4f5f08dc8a7871ecbdccf8b36945df700c3b2190717230fbd7a1dce471442b15ef21db9f850c3cdfc77b8f1858ac9a7f468b4916280244f71029e9c39430e8721e78027591dd0ec25f761f0772a65edf8350fe295788c1dc468edecb8d5c37a3d08a0ac609a177f124e7bdc91c0caf873b6f30efdada83b26bfecb0dc596ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2737b30a6369e40d57f71f16d9fcdc8e/2737b30a6369e40d57f71f16d9fcdc8e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Intrigue",
+            "episodeId": "hackroots-3886?ep=35659",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b57f9dd45612ce5289c546b9c482b5a0de41ea033ab736580a1d46df3105637f5ae3c024cca2b9ff2ead54502abdb306835c27a521df320ac788c055a728175a7fe1e066cec646b45f164895efd3ed45fc5ba887d92de575c670331bd3562ec07e9bc78ce52072282e2699ae0907a3cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/33d807e7f6f44b24e86b4f91ec7f4b2a/33d807e7f6f44b24e86b4f91ec7f4b2a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b57f9dd45612ce5289c546b9c482b5a0de41ea033ab736580a1d46df3105637fb37ca8754905e5e6dab169fc78e47a7cef02953befd05fe9642206c9f5fcec3c583164a921ade8cf7cca29dc929314f0570af7e02ebb438b3ed3da00816282465e23a1310bd74a4cef6d905fdec4e96933bcfc43315f018f870e44f92c93620bf4b992d369d6d778bc5f6f4e15327e9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/33d807e7f6f44b24e86b4f91ec7f4b2a/33d807e7f6f44b24e86b4f91ec7f4b2a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Starting",
+            "episodeId": "hackroots-3886?ep=35660",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b49c40f5e7bdcb30552c0a156d6686c52ee16a242f52e88056f17b803e7b5f2bbb0b8e972d5130caab61011ce2937febb0ec0548b083d1ebe8e1a57cb1b949fc1785d675f88458065de883518cbfaad306fdde6ffc64038ff20b41f17dec8206e792ca8bf7c327a355f7aee5caaefca3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed979d7b026ae5d3cd383523a8006e4/5ed979d7b026ae5d3cd383523a8006e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b49c40f5e7bdcb30552c0a156d6686c52ee16a242f52e88056f17b803e7b5f2b6eb4534be85bd949d87ff4f7c91eca3acd77ffa9e56e50418f2618e5f3f8995ecd40d1c07467867f543bf14236201e04e5b805619f338381e53a069284885fdce4ffd624dca89c43eaf7dc6d4ba71cb07933e452de541607fad899a22000575d0872e56113520aebd804f0e5b50633bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed979d7b026ae5d3cd383523a8006e4/5ed979d7b026ae5d3cd383523a8006e4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Melee",
+            "episodeId": "hackroots-3886?ep=35661",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/56fdccd106644d0f7e62efa82753cc5d005c39c37230e67d5ee3328467978f78fea717db0139a7d1f2b46abc45bfa75791a7aad212de2e2445244c9c44dfe500b38de0046981b0666ec144eb5c7aa33c941c2612bc32be227bc9550296a4699d56964aa7e04f592cf06f24db23a18c85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/200fc67eb6a9b26816f281d21eed335c/200fc67eb6a9b26816f281d21eed335c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/56fdccd106644d0f7e62efa82753cc5d005c39c37230e67d5ee3328467978f780adb4328347cdb43cd5a135ee8746c1303964d7f0ac9d474e695a7f21081aeb9591d01e77f48383e2ab4d40b6b8708b7ca84e91242f817c4b89c75c1af3bb1f3dcf505857f1116cab7c64194a3f4da80a6bf1c85294ccba56bce608804e351d37f541bb7766de43d20bb0bcfd93b5b8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/200fc67eb6a9b26816f281d21eed335c/200fc67eb6a9b26816f281d21eed335c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Missing",
+            "episodeId": "hackroots-3886?ep=35662",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4d0c5fcc1bd37e90682e7d22fb78228d8109d253ac3f4a3b9e138d3d58d30b4a554585320d9e42c698cdd4c678e4c85e38ecaf517d92c03a5fdb8431b3beb0af1a8ac12dfb09f0e4b7e173ae996fcca4b09c146034f5109c9d3be101a446953a8653a05106307f3720fffe70a67d65ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53888061693b7779be5283018ff31df2/53888061693b7779be5283018ff31df2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4d0c5fcc1bd37e90682e7d22fb78228d8109d253ac3f4a3b9e138d3d58d30b4a84fc698919e71dda1fd014c281206fdee50c5eed48a47b8516bd4bff89cdc3b8223d781545e754cc9436d800beb052debb19284d859b89457669fdc4d07026a45cac3fb457ce8858cc84edc54cb04d81d048fb549c8289e0d438ad8d94b73aa939faa51ea9e09e78fbad4f33a4a26869/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53888061693b7779be5283018ff31df2/53888061693b7779be5283018ff31df2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Discord",
+            "episodeId": "hackroots-3886?ep=35663",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7f27837480d7df8e9266abd7d84f38271235610c72c7b054313a4e8de4b21d4346b9f9c30e5d10460b005cb6ab52d5220ea3e687b26c456d4de0e66cb663b45c762ae36215e7d21788452f4060170585cd25b306dd863b010f8018f748bc58eb99baba74dbb7e14b1f0926e0bab476c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7380c3ed3913dc4a0a3932b4f2d4e3f6/7380c3ed3913dc4a0a3932b4f2d4e3f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7f27837480d7df8e9266abd7d84f38271235610c72c7b054313a4e8de4b21d43d7d51b995ea82a753ee8862017b5d1355fec95d98d75015b58cccfddcb23070f8f77f97059d621f718eb5cd3713ab146f4d25f61dfa528f3d3717676668a16e3af1dd3a1615f6380b7df97b939c9c370d66de48f2e208066e26cbdeb137f1a64eda239416440bcea93d24068f6a621b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7380c3ed3913dc4a0a3932b4f2d4e3f6/7380c3ed3913dc4a0a3932b4f2d4e3f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Breakup",
+            "episodeId": "hackroots-3886?ep=35664",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/476552d1dcdc52a6fdd1d07fdfe389cbe73c9e016d3ab6ac8dbae1be3e32f67c3daa10e9eff6a4f73684d019d853d0c194e488c021d4c59990d19bf5a19d981a57f53ead8ff5504337b0e0946a5b8d0da32d94840b8cefe2725a208db4645b413e37967a878c1afc108f854d841e112b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afa13bb1da5506449a952a0c8cfefee2/afa13bb1da5506449a952a0c8cfefee2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/476552d1dcdc52a6fdd1d07fdfe389cbe73c9e016d3ab6ac8dbae1be3e32f67c63dae6c3ae6fd04f1f999717340c22fbe4bdc5e6c10c1569a516f461a110db5b1c58e59e2d401a789fcd1ea4fa5da212f489ea49e15647fb6b179627712cd996650d3d7070f2390abfb26351546c3855aa69b27e1c0a4aa98542b5926456d5fe3e1e351725d0060487ce86ea3d84afb4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afa13bb1da5506449a952a0c8cfefee2/afa13bb1da5506449a952a0c8cfefee2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tragedy",
+            "episodeId": "hackroots-3886?ep=35665",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d9481d5feab6c744767c0a4e91078910bf14b189ecfd562356dc4f57b4155bbe459b7df41fce33c6f87eb9c7e74784d1268876c8c08502c679f63e8e478d238c52918cc8539f3d6d579830ad50d102cc41bae5c73a2e2c87048389d8ccc15a4760b569fb45f5fc4b5433d75f4b428a2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/973a2ad217bb70f6d5ad7a8494f7714c/973a2ad217bb70f6d5ad7a8494f7714c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d9481d5feab6c744767c0a4e91078910bf14b189ecfd562356dc4f57b4155bbecd845eb44558046225414ab3090a9ec4e118019f81857eae4e7d7cfca7376db64e53fe4ffad93d1ca8b8cc54df6e437a70ad6047d930b25ce5bccf2ffdfe06796d0781b13832ed2e01e5e769065d09de25a93334aceea61d8dbea72339b92be7cd85c0bdcff81f824bb1bdd139ef473d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/973a2ad217bb70f6d5ad7a8494f7714c/973a2ad217bb70f6d5ad7a8494f7714c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lost One",
+            "episodeId": "hackroots-3886?ep=35666",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/10c01f8ca7cab75d6621cfaac711ef6448c8cb96ec6ee92337c4445898eab43d82e83dca5c82d84e262b206d15bb1ccdc3a8b5085c6a7cdfe94595c13850d9ed4083ff0a6c5f92a0115b11001d91004b130285789c6a144a1c33bf48ec9444003a613528b038eefd218cf5ae44ba904f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95171f8f5bb79d40af9ae243923b82c8/95171f8f5bb79d40af9ae243923b82c8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/10c01f8ca7cab75d6621cfaac711ef6448c8cb96ec6ee92337c4445898eab43da2d4470129c595c2f44b38cbc534b98b0bfec47d403d6436557bdcd61dabb4d147d1ea95b766136b9e0863b619344a8db8e062e712b3aa94fede5b1b50a65394a11528b14b085f0194c52294a89b2df85d67b72e45835cc0d773d0d3e25f410a994d03d1c7ed84139bde4481a4a5b025/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95171f8f5bb79d40af9ae243923b82c8/95171f8f5bb79d40af9ae243923b82c8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pad",
+            "episodeId": "hackroots-3886?ep=35667",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cd01a227be12b833b3eb2966da7648c93181bba58ff5febee067325b89458b725939f2df6483de06a63992caa1e426c88e3673224d06a3d2b17408aee837e56ca4b3e9fdc38c5e6a1efbc14e1ecf07d02297c1b29dc243cac752c42092c244b04a5cf67b14e80c721bbcb9f554d34627/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60aa1195ab618285f6de1c56fe4aa94f/60aa1195ab618285f6de1c56fe4aa94f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cd01a227be12b833b3eb2966da7648c93181bba58ff5febee067325b89458b724c02d4d779625b0277b79f7fdb07eeaaa7787e7868725af00cf7d95098212d1a76c6ccd4d0a5fd0519ccf06d4d6c193b42ba9f1ce16f40654f5ee0f22919d49119df91bf96e1b1fe4f7e81057198450ff6d0a09fe827f3c678e4c12f487822394fb06683e58517d8597becf981209015/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60aa1195ab618285f6de1c56fe4aa94f/60aa1195ab618285f6de1c56fe4aa94f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resolution",
+            "episodeId": "hackroots-3886?ep=35668",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0e56674dce04295a5188a17235623f3f61d9ecf8dce47f7bb74b24c4c544f2cee765baa6890692331b7c66905a7f3c48bb3b06c0f02953ba6d60861582b754fcb44bb80a67d0d2cd8a726d3f3c468148bc916a7c616cef5dc8d30f81c95dbba3be575eb7fb4104693db3d61ed2649d9d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa3c131596688fcbd2328acf3138cc9f/aa3c131596688fcbd2328acf3138cc9f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0e56674dce04295a5188a17235623f3f61d9ecf8dce47f7bb74b24c4c544f2ce28af28832b9f7178c8702af0e0bef66475c1de31cc6c9bec2dc76480d827c46d63874aed6ce484923edd97143a852f28639bb77496fa690c170bda9b33eafa47d4f39303a556409093dec4ae824dc375613acfc86736e83c50ef4171fdd0fb365b22e2e17ff191092f8413286b5115c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa3c131596688fcbd2328acf3138cc9f/aa3c131596688fcbd2328acf3138cc9f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Painful Forest",
+            "episodeId": "hackroots-3886?ep=35669",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2266c42f8b6f0c208924636086f41aefc2d56e8f862d831110b86bc966e38730c4088bd70432e4c288ad7891738657fc4334465d10659e7ead899d5c98851c116d1bcb93870769b646c7704d400b46e179afafda399794daf8c2bb3b6da3f1ee960409f6e2811dc26d6263f714382cb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b40941570894f1103fdd314426f8fb4/9b40941570894f1103fdd314426f8fb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2266c42f8b6f0c208924636086f41aefc2d56e8f862d831110b86bc966e38730c6f87f32cd29c549b3c281b9c006370348aa2c993e7871a95e5fdf2a07a7427ac0c48bc16ac2584f19693ace11fd845520834ff6b648c4839a26084a02e9d33a5c05932833d2152a5d620711a2d0d04d1433bc7a27d141a6a50df0ea699fafcbe385f520ac3cfdfe90077363dd6be547/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b40941570894f1103fdd314426f8fb4/9b40941570894f1103fdd314426f8fb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Limit",
+            "episodeId": "hackroots-3886?ep=35670",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8fa18060e3c2410b45f0c1405751b669e5f82599b6e8036d561352710d48558f348ad510cfa1bcb12c421d25449f2a4d73b73bfe222229df515f3ad85a593ee67e5c65e424e9fc194b3ad5542efa6ee81f6cbda62827a7417e72816dabcd8b1d5d6939bf5acd8cb72742b01f1910f9ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a283e71616e2af79dbda9082feaedf34/a283e71616e2af79dbda9082feaedf34.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8fa18060e3c2410b45f0c1405751b669e5f82599b6e8036d561352710d48558fdf7bfe60a4418d4989180ba31bda9a6c3bd1050d56a107011bea81f7d4bbedc52aa23fd4ae1706bbb82f9e0640460659e6305da88f6694b6e29b03af87c2f4d3ff662d51b3c9a6c6a85bf206bed0dff776b3f4339e0139d313501a90c80891d83ea861e84fd48c823317b7d4f273c15f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a283e71616e2af79dbda9082feaedf34/a283e71616e2af79dbda9082feaedf34.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Violation",
+            "episodeId": "hackroots-3886?ep=35671",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/524b9f5988c7865be9f53c6ae0faf1f8206ec170a134b714e170b6aaa4673f42175810c9ef89c7d413b01fddcb7d6c9a9f1c5bb88add7a62d21ac925384385197feddad946223579b09160f17f5e247ee9067e24e290258700776e53e61b97359433e7dfa667fd6a2766b62e8bd9ad46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2d5b5ff93fd74499ce8d0834b203d0f/c2d5b5ff93fd74499ce8d0834b203d0f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/524b9f5988c7865be9f53c6ae0faf1f8206ec170a134b714e170b6aaa4673f42d06576ed71c27de0a00fbf0e967ab44e72d007ad6e979a9d57ee393ed085aa11a094a535204d6cbfae60d7ef29e10078db83843cf28aeb5a49775c525a5f623de9236481f4d71febdb988f1b2c93b4ca26ba51b1d7aeadeb978117cad7e1f2f27b279721910e94161db0c1cd49c525d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2d5b5ff93fd74499ce8d0834b203d0f/c2d5b5ff93fd74499ce8d0834b203d0f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pursuit",
+            "episodeId": "hackroots-3886?ep=35672",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5240d40c91d2e43af5c4b6932bd38cfed268dc689af4f656363080a34509db73ee6519affd1ad02964ad12216f48fd09f5fbd18b7ddda512321cb9a0a2d3fb539e3a9ba806713e2d053034a46af7e83d06eff0dbef6d6aecb4ab31116f45466125426ee5dc80c18d2533104e4b10c052/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8020368ec2251a939443d787bb74589b/8020368ec2251a939443d787bb74589b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5240d40c91d2e43af5c4b6932bd38cfed268dc689af4f656363080a34509db734dc36e307ef681855638b910db12063914224db3299f1bc54a6878f390084a38e3fee5eff3e79624f76013decb9f9b03045298d6098ff96d20a48b5d3f21a2ee707094dccb59e74acb662a6844675cc1081d0710a86f244d90dd2281244202807312fda30d31400d80243d9bf5eead2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8020368ec2251a939443d787bb74589b/8020368ec2251a939443d787bb74589b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Defeat",
+            "episodeId": "hackroots-3886?ep=35673",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8ceb10a1ea5807d504f89904c3c8a4739369c2804ac64b0386cd859c43172195c2638290b1edebcca69986bddc6b4075dca61c40aa556235aa1cff253d4fb57b6f992584dff174e9c69de5b860982e37db81597b88bf030a552cc66e0e4ed4f646a53fa9c9b157147231fea81e032b06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aae5ab384514110027b82492848b6e65/aae5ab384514110027b82492848b6e65.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8ceb10a1ea5807d504f89904c3c8a4739369c2804ac64b0386cd859c431721951c046e34052ae702e2510fb7f966db2d36c9fb89bf1f8fe8208212ebbb9d58c647223d997ff885b4e8981234db505425aa52655fe8fffed8d3fd09918396c5dc7052581ded52ae94b970bede977d12603cdce7ee6dbbf583eafa0d98e7be7c2de4c6cb6d524f06b50ce69becc6bb81e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aae5ab384514110027b82492848b6e65/aae5ab384514110027b82492848b6e65.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bonds",
+            "episodeId": "hackroots-3886?ep=35674",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/185d6fa3b6e9aad220946592408c13ad1b386af21f21cded702512fdfa06481240d26b19c6c8b34aabafb5c1928a6416ffa519ae4666cf945a3a9e9a62e6729bcb3e114fc46594ab9c3a7df517f5c1a48f5a19f980300f88f1fc886a98847724ee46625c81ab40feceae5eb5d2899947/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eced284315370feb9081611bc1f7fe5/5eced284315370feb9081611bc1f7fe5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/185d6fa3b6e9aad220946592408c13ad1b386af21f21cded702512fdfa064812c9705458e3abd6f0defa8a5232b2be142011d2ed16fd96f21b04866d6d43f99465197af897376ece9864584e3e914584bf19427dd97be784818990ab2a737bdd3eb544a50d6a082c22df94cf581c8911bc533e3feed915728581663eabe55696d7d6a50dcb851ec4e4c3d130031de2be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eced284315370feb9081611bc1f7fe5/5eced284315370feb9081611bc1f7fe5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Trial",
+            "episodeId": "hackroots-3886?ep=35675",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3af5695423bb2b819f4f63069247e39e0a9aabb6c77295676d83d06aeea793f266f27f86f0061906f02b3e3ffd7111e76ee19ae913f9ab3a9442153687353f55fad14cb7a022491b21a4a130f090fd31eed9e0a0acc75198eb58ce08a56e1a2a1fab9022168a83127943e1db43f6772d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4388c844af3d76095d07c6ec39632135/4388c844af3d76095d07c6ec39632135.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3af5695423bb2b819f4f63069247e39e0a9aabb6c77295676d83d06aeea793f261ff17b323a6625587e6d73cbc368c60595de1d21c0f7efa0057899e33f1ace389fe9303989b0f31bc55cd7076723eaf343e66222871bc372340779f3dcbb3d9e4b6409328d489c94c1e7da841388f1178d3bd879560af010f216d508523981834584d01a76175c1ab1fd9d2293ce17d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4388c844af3d76095d07c6ec39632135/4388c844af3d76095d07c6ec39632135.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Confront",
+            "episodeId": "hackroots-3886?ep=35676",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e47b7a0790a1434fac57f9a60a10a6f7bd8c8fb3d115a3ea104d93280b6db85e60fe7b763d7ba61de033278c368332ad3729ca833af435a2b8255bff23ff6d6b60d820ec60a90e051c348f554a59cd843320bce9acb4021f11261005209010b61f6fa1e72c992eb57718ec38f80fbd3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/900894ba7ae44ac5467231c2216b98fd/900894ba7ae44ac5467231c2216b98fd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e47b7a0790a1434fac57f9a60a10a6f7bd8c8fb3d115a3ea104d93280b6db85eaeb02cc01888fce852be8c79ed92ef83f6dfd252320bb82f2432cd9126c86601249899b06e320ef015c4369dbd731884af775484421b4b4f1503764870858937abccfcdc2f2f2e15c768cc62f1f19364731fb8f9c594153d43f219320d2aa6fe65165bc4672b8a2a9eff0c30d5e3bad4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/900894ba7ae44ac5467231c2216b98fd/900894ba7ae44ac5467231c2216b98fd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Truth",
+            "episodeId": "hackroots-3886?ep=35677",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0d681fba7af19400d4afd63d3b6479e2350727cc02c9f38bf71fa30e8ab89527b3916b68ed2cf8af22f009f9d90fed27cb89d94ac05a96b8f0a97ae1e6d182c1bbde2f4cb118f2f4cf986be94c11c7c2211c8898dd5cc594faa9d83d6d352bfbfb337a1463840fa7708ac3a659514670/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feb2fd9a3beafeb15110c712c0e2e8f1/feb2fd9a3beafeb15110c712c0e2e8f1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0d681fba7af19400d4afd63d3b6479e2350727cc02c9f38bf71fa30e8ab8952732c92f3e12ef19b1e9da6b0e90390925ec58e1ca9c8d39b352c2aec409ee5a68f09b61684bb8f8487082c92548afb77b0fb330a09cc8365c65346387562f7c4c8e748b31d1039e8e8caa1baa44891fedda00ff11b26dc065ef4938459571ef8ca653ce104a74b8b0cd0e8f015478c5e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feb2fd9a3beafeb15110c712c0e2e8f1/feb2fd9a3beafeb15110c712c0e2e8f1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Determination",
+            "episodeId": "hackroots-3886?ep=35678",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/862ebdd907f4e0323facf5c4aa99d6061b11adbdab71990bfc01ef581cae58660fe76d60e3e89c6b2cbb3e968cc937d732a967c77586867a4593c52cd7ac5fcf9f5500977a1cb8740528fae1ecad98113ad5f9303bb1b3ca05bf72609682fa365e5cf4694e3a53748786a35011895fb1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc35d9787476f067165f643be434aba5/dc35d9787476f067165f643be434aba5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/862ebdd907f4e0323facf5c4aa99d6061b11adbdab71990bfc01ef581cae58662773e053948dec849539658a7e736af7cc20b3a733bb91d67b43d9e1677bbad2d633bdf05a7a473b2a34a7e3e28a63fe4e0110fa18acf3d369b9559c310261ebd292c4a8493fab19ef59706c363ea0ba37a250598783243492a58b17be1980e3e41ffc50afeb8f1bd4b94b396c1c8d8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc35d9787476f067165f643be434aba5/dc35d9787476f067165f643be434aba5.vtt"
+                }
+            ]
+        }
+    ]
+}

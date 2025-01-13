@@ -1,0 +1,378 @@
+{
+    "info": {
+        "id": "a-certain-scientific-accelerator-2940",
+        "anilistId": 0,
+        "malId": 38480,
+        "name": "A Certain Scientific Accelerator",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b12906a176612fd541fc6409e3bd64d8.jpg",
+        "description": "Academy City stands at the forefront of scientific and technological progress, best known for their development of espers: those capable of wielding superhuman abilities that alter the rules of reality. The most powerful among them are the Level 5s, and the one known as Accelerator reigns supreme, even after being weakened by a severe brain injury. By his side is the young girl known as Last Order, whom despite his cold demeanor, he holds closely and vows to protect at all costs.\n\nThough Accelerator may be recovering from his injury, the dark side of Academy City never rests, and so he finds himself unwillingly caught up in the midst of a new conflict. When a mysterious young woman approaches Accelerator in pursuit of Last Order, the highest-ranked esper is confronted by a venomous organization that has taken root in Anti-Skill, Academy City's peacekeeping organization. With dangerous forces on the move that threaten to put Last Order and her sisters at risk, the self-proclaimed villain prepares to step into the darkness once again.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2 OP version",
+                "source": "https://www.youtube.com/embed/1En9K5B1jNg",
+                "thumbnail": "https://i.ytimg.com/vi/1En9K5B1jNg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 ED version",
+                "source": "https://www.youtube.com/embed/INGJtL8KpG4",
+                "thumbnail": "https://i.ytimg.com/vi/INGJtL8KpG4/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/eq9ctlKPr-8",
+                "thumbnail": "https://i.ytimg.com/vi/eq9ctlKPr-8/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/tIhEQOOFO94",
+                "thumbnail": "https://i.ytimg.com/vi/tIhEQOOFO94/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/IcpoRoxRCIQ",
+                "thumbnail": "https://i.ytimg.com/vi/IcpoRoxRCIQ/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "accelerator-127",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cbd5a65f57f2de0cf03af25e2e3c691f.jpg",
+                    "name": "Accelerator",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobuhiko-okamoto-13",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9aae11fde3482365907a4d59f655150c.jpg",
+                    "name": "Okamoto, Nobuhiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "last-order-1191",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e6877188abfd2e870aa510c21e39618.jpg",
+                    "name": "Last Order",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-hidaka-238",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fe413c7cb4a19508a3766911d01ba69e.jpg",
+                    "name": "Hidaka, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "esther-rosenthal-5917",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f5adf39e34015a8e8721591ec48aa8c.jpg",
+                    "name": "Rosenthal, Esther",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yurika-kubo-368",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e5f2ec63511e17060a8e25c4fa381cb.jpg",
+                    "name": "Kubo, Yurika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "leader-21226",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5954451200c65657bfc4690edd048a6a.jpg",
+                    "name": "Leader",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "akane-fujita-467",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb2ee77f588ad8f0da09d35dfb24105c.jpg",
+                    "name": "Fujita, Akane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "misaka-10046-10066",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/17d3bbbb24ba09db14d3b2d7c7239db0.jpg",
+                    "name": "MISAKA 10046",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "nozomi-sasaki-1207",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1513f2129c0ef43f72c54392fbfc81ca.jpg",
+                    "name": "Sasaki, Nozomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "misaka-19090-10439",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/730775002726f484fc48240f7c2e89bf.jpg",
+                    "name": "MISAKA 19090",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "nozomi-sasaki-1207",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1513f2129c0ef43f72c54392fbfc81ca.jpg",
+                    "name": "Sasaki, Nozomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "とある科学の一方通行〈アクセラレータ〉",
+        "synonyms": "To Aru Majutsu no Index Gaiden, Toaru Kagaku no Ippou Tsuukou",
+        "aired": "Jul 12, 2019 to Sep 27, 2019",
+        "premiered": "Summer 2019",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.16",
+        "genres": [
+            "Fantasy",
+            "School",
+            "Super Power",
+            "Supernatural"
+        ],
+        "studios": "J.C.Staff,A.C.G.T.",
+        "producers": [
+            "Square Enix",
+            "Movic",
+            "AT-X",
+            "Warner Bros. Japan",
+            "NBCUniversal Entertainment Japan",
+            "Kadokawa",
+            "J.C.Staff",
+            "A.C.G.T.",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Accelerator (Academy City's Mightiest Esper)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30608",
+            "number": 1,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8a371300affd04150b8c3b76a0a60e40af583a23517a25526bc41d7b7ed52781c80d314881c9cf62b34a3a3fed2e0e19d0d8f93a1ab62a01b4e89501d758414e7aaeb4ad6073c918fc0278f3e7b37d8618c63c20b98992f92969f907ceadff63d42e053b255e5f891efaaa0db93d4890870d1b776286cee443f92e505f1f81ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4207ab4a0ddb6661e8f540418fd91bb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8a371300affd04150b8c3b76a0a60e40af583a23517a25526bc41d7b7ed52781c80d314881c9cf62b34a3a3fed2e0e19f547abd356070c9b8c3d711378ff24f74946d2b15a59445b98e80bf161e72a60e442543ed8c1cc548b101492eb71bb8b3b1a6e74bb5ce606444419e146f74f1ef27843e3668b4b86ec31796d7e6714e28a13e366eda95debbffa625da627469f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4207ab4a0ddb6661e8f540418fd91bb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Necromancer (Raiser of the Dead)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30609",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7c5e7ba336f956f331177fd2a5ae6d99de9e1b2fefed6fd76af967f05945ef45d9e40d4c8e62e8af1fcb1ca2dd5c0cc10fd5cbe079dd0f87132cda2ec7b5be0f21393900ae0448976eaf2e4c59fd9def7407b3fe93e4d0e9a3ebd6cf2e751e2b7ab8c85f991b7a80546e3d8ac7f987fce5a92ff751b14f03388ff7c1fc85b468/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/359336e4ee89c06ed923fc036d833337/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7c5e7ba336f956f331177fd2a5ae6d99de9e1b2fefed6fd76af967f05945ef45d9e40d4c8e62e8af1fcb1ca2dd5c0cc1bb838ae40d2f164f7bcb4870121a7416dc788533927fefd78b2b4d08a0db7800112cb655ef6c33bcc059991eee0cbf4d893c2ed96b287d5555d41b5069941d428f1a98e30ee556b5d24c62a009ad9c48f329884743908a53ae9b36bd71df35e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/359336e4ee89c06ed923fc036d833337/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Numbers (Charms of the Four Perils)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30610",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2368f0f19ba7080a88da90f12990408474a54c029de3725d9f58539a2b0b55298e679812e25360a70a461872f807d1bd25f9d9aa61aa1e96bd25db4fa9aedf137cedfdcb69ea0dd6b4bd81ac78e5c45d6e15d1f8e659b00d33f93dedc9f70e1b4854edeef23c1d11697e074648e3fe7757c5a24db22165fd9c1d26ce29e36da5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22e0f3bb98d69bd706ad40f78710fc7f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2368f0f19ba7080a88da90f12990408474a54c029de3725d9f58539a2b0b55298e679812e25360a70a461872f807d1bdfb8113f42c6df900a09cf69bceeb1089d9cceefec2c6ea00dd680f3a2abe36f9eba27344174949cbb3a4e907668b7327c7892a53b05e8988193e23bb46f75bf12fde3a8a9d6194cb865b74b3bd13bb5105e3bf235e9a47a87935d2d02ee36b86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22e0f3bb98d69bd706ad40f78710fc7f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Third Number (The Pseudo-Soul, Huotou)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30611",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ac170cb5eb1d9dda5c5e540489076fdd504271c605f2f7ea4c86fcb7f0aa5c04a193b88eec88eb793a8f0aeb2c2779ac41e40e3507984fd7fb8de72124f392f286fa75aea3105202f40a2747e004018e915d3502a40a12189b38117e376c8851b200ea8777641625d9774b3efb3f35d22f0968073e150aa92c431982ff60a23b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb2e9eabef4c0c58cd41a32ec02a6de8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ac170cb5eb1d9dda5c5e540489076fdd504271c605f2f7ea4c86fcb7f0aa5c04a193b88eec88eb793a8f0aeb2c2779acf8c808337ab208c70827f2e92910ba003573a5503c441c284c913a22d02e1613446d82efb506a7004c1fceca7d213da5d1d8cfdfa9dc99c224b47bc3cc31bb58036a4fbb77343fb10c7aa01c5417bf00114857bb5fc149ee5fd5777f0ad78f21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb2e9eabef4c0c58cd41a32ec02a6de8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "DA (Security Officer Darkness)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30612",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/aaaf61b50161079434a21d4fdb4c499d309a4b8174415da14f25d519ac90093fbf2bf278cf28d3c70ea997202efbce9efee87420098c971ab47910b91a0dcc743ecdf99905837695a274b61c2884c7a8bf926dbc6351b2fed0c8cb6575caadced6701ed05690987001e7b6a6ea7027c3d3381971ba248fad9ae42868e27c6353/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4155ad8c65875cfbab2ca8146d7bfd1f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aaaf61b50161079434a21d4fdb4c499d309a4b8174415da14f25d519ac90093fbf2bf278cf28d3c70ea997202efbce9e5d3a69cac5081045412a5e0b1893758eada5c0acb8237adbda805ff7d54b70cb78cbec5746b4bab9f4ecfd60718d0edd24214a6892cf832034bdc1821a136a9a752b809c5637aa27a203821315f5d6632d7e54791b3ab61ad25dc878d1fd4798/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4155ad8c65875cfbab2ca8146d7bfd1f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Scavenger (Corpse-Eating Squad)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30613",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/af9a85520291d4b0bdfbfa2baeb8d415a12517ec604a5540a024f2a3f0492de0c9daaf3bd14753f705060eeb940d3db65724c29f5d53d67ce870fd83ea68c4f2e04680cf209a95c48cc4e3ab0b8f66602df2aa6c1c9a23a4cf2e7cda56c8721852836e738b0c5483d976795d87943e6e09d818f89f50963d124b11c27bdc9432/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a836b0a592990d4a36782d950a21da7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/af9a85520291d4b0bdfbfa2baeb8d415a12517ec604a5540a024f2a3f0492de0c9daaf3bd14753f705060eeb940d3db648934309fb00082fbce62e39c55a83ed4d95d9ab6cf7c6c5e78ca30b045a79908f4101a06f0d21c17e5c8bbf227a3b07130c70c86b6b0ece7edfb8f2220fee635e595fa2910fcf0eb8e64300bd3b10090a03d7ea104123683dae863c32490c9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a836b0a592990d4a36782d950a21da7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Download (Time Limit)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30614",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d8d1a5573a50911989dbdd6e7d6f8785c004d284bd6665afe490fe2be703af57dd8bbeb58cb7c9a71fb5b11d9718d6535d86367eb03a666d98e3b9c1014bd29351cb040bd66a0f44cc0f5bd7181054e5f49a9aee53ca764ad16300cd39048fc32f2f81d50716deae8096ccaa7662ed4dc07958f4ca48aa54b18c58e6dc308bc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aec9500322288f8ed321e3d84e1a301/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d8d1a5573a50911989dbdd6e7d6f8785c004d284bd6665afe490fe2be703af57dd8bbeb58cb7c9a71fb5b11d9718d65361e1f01d4bebcbdd70b2f02f2598403ad3b8f8d0621c647ed209e94a92fda5207790f8e7fa0b7b91cd795795a3bfe45328d45d0e5208e1980b02c59cdb356f1153a7a8ab499bec6f39c9c85a48a3aa828c1fc98cf86a609657129b2b595e7948/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aec9500322288f8ed321e3d84e1a301/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Friend (Hirumi)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30615",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d70e8d884f29f26ceeb88c1499726e9a3da4d72f3be5791f008d3097636c462504857d4b4a7f9c563ff435e86ba2ba5e33c40d505839e9645ae56350a0f8de47db7896ffa90fc7db68fb38f41e305e8ea6ceac51feb7a38ea84ac4ed5318d9ffbc924bb7cefe45a9f16505cfc72d98018332babfe777a087079fdff6a7b3eb9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34d482a77d1554397286d4da15a63d51/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d70e8d884f29f26ceeb88c1499726e9a3da4d72f3be5791f008d3097636c462504857d4b4a7f9c563ff435e86ba2ba5e4fe7df52340d21251484d26253ba5060491dc2ce1619bf89daa0de40b1f213dfa0fdc838dacfad90087192fd5ee47a663ee182c62c501f7d7e05493f5e474ef7270008f630574025a21bdffc68d2a609397369f0792a7fb2fa4487a40be404bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34d482a77d1554397286d4da15a63d51/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Memory of Death (10031 Deaths)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30616",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/251f53a2d6da67fc1c1c71b377a45ad51d846622b7aa26e146cf493dc0a17a3303866d146a3a7087f2953ff47f2a16ac9122812ac9e5b9be5fdbe62e5c7a22fd5c19da5dd32c886680b588d804cb18b787b0e30230d7a074cbf2f66ccad006116e02517a43d844262897602089ec222e7b7e8d9c251d0cee3cc39f03b09564a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb69a2db8704549be79a57b76eb888e7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/251f53a2d6da67fc1c1c71b377a45ad51d846622b7aa26e146cf493dc0a17a3303866d146a3a7087f2953ff47f2a16ac925aaee9f28c84c08289338d728657bf3f059ca33f74da7ba8e52bac58169f1c64f382ff516dad05d0702abb9ec20751f12b4a25d105c98008260d251336db7e0624043507f52689efbc56e7a6e59c0e8069bf71425b001ea1b3ec0366cc1a7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb69a2db8704549be79a57b76eb888e7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Catastrophe (Awakening)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30617",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/98e462e4702b1e7199ddde4a1730c4249bd34c24ba9f7d450a3974090b5cf0138ed63007d53f8e67297f144c8c97e3a4ccc21faac936d100875c6c4b2a003ce0228a6b079b9c08647e5fcec1489ec627cdd60f7a4562c3c97aeaf792f63a5f0b7f112713857e0c16718152983413d9a8ae131da0c753c45e73dd2b518cccedc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dae438c9a78c545591aa0bb3e8f65178/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/98e462e4702b1e7199ddde4a1730c4249bd34c24ba9f7d450a3974090b5cf0138ed63007d53f8e67297f144c8c97e3a47d367e262b88a530f3111cbfe4c1025d7a1ce40e5198cb177ecbb286d9b8f9699af7def8f6eef10462b144b78e3db72046e9de28dbc8db71e942f9567252c5f2cd3e1b3ab9e556fe7ffb2486887e90cac1049c131cc1f07c902560c742ab155d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dae438c9a78c545591aa0bb3e8f65178/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Perfect Golem (Perfect Body)",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30618",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/49b28b6e75957f34bb9054c5327e96e00bda7e4f3644223bc015ed3d564ebec8ac24e8ba14251ca1dffaf6180408d2144dcf7147e1bf10954a99d425adbdcca2138043fa563a500234a1b482d098eeca4491fcc74cdf24dd5b8d16f03679ebed673252c73ee064d00399915cb71e45d66b2f5fa536a1fa274633ed3ad124c06e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/238604315ea319b78446291f88efebc2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/49b28b6e75957f34bb9054c5327e96e00bda7e4f3644223bc015ed3d564ebec8ac24e8ba14251ca1dffaf6180408d214a6c6f78b7242d7865d86e9e7c7d867bb444e59417e029d00981bfc66e153b209132250feb690d2b3adc1090bfe6f9a00953bde3ff71b36860375f88c513b3b3be2a49e0244e165a57c7be26fa6fd716037f9868756c5bcc3e44fbcdf58d48fe8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/238604315ea319b78446291f88efebc2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Something to Protect",
+            "episodeId": "a-certain-scientific-accelerator-2940?ep=30619",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e0242f11c215a0cae43ef49b928416287a4a787358d19cb2b194fdf0574bac95de037158882e758956b6d62cac3622f6b69c785847a0b2c7f6d0a95d250deacde266b1569cc5c0d52d1ce591d6a39216ed40ca39bc478f2a755cfee714376e6f7bcc49647408b16e5648a10b98f141e271bc156b6184e12772f11d929b0452cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30ab680f2499df196a2fd80c116d760d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e0242f11c215a0cae43ef49b928416287a4a787358d19cb2b194fdf0574bac95de037158882e758956b6d62cac3622f60b4cd2312f8108f52e38ba57f618695d59bc93e4469a62a9cfef19650e604af213d9d69adbe9dbc8b4455b5a26897921c13b164880c0c1274e97f9394f68350dfe03ebb36813fab9dbda1a907e19889ee29ed23852663b9ea0b8a9a18d2aeaf7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30ab680f2499df196a2fd80c116d760d/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

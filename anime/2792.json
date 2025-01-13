@@ -1,0 +1,388 @@
+{
+    "info": {
+        "id": "buddy-complex-2792",
+        "anilistId": 20533,
+        "malId": 21437,
+        "name": "Buddy Complex",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be9199c27c733ff09db18ec1e0bd1d3a.jpg",
+        "description": "When ordinary high school student Aoba Watase is suddenly targeted by a giant robot known as a \"Valiancer,\" he is saved by his mysterious classmate Hina Yumihara. After revealing that she and their robotic enemy are from the future, Hina suddenly propels Aoba 70 years forward in order to prevent his death.\n\nUpon arrival, Aoba finds himself in the cockpit of a Valiancer called \"Luxon,\" stuck in the midst of a firefight between the military forces of the Free Pact Alliance (FPA) and Zogilia Republic. After he shows high compatibility with an FPA pilot named Dio Weinberg, the two perform a successful \"coupling,\" allowing them to share experiences and subsequently increase their capabilities and skills. Although Aoba is able to survive this unexpected battle, he is taken into custody by the FPA ship Cygnus, who wishes to interrogate him. While the student's main concern is whether he will ever be able to return home, what he doesn't realize is that he is about to get caught up in a war to protect the world.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English sub version",
+                "source": "https://www.youtube.com/embed/18kM9ePsURc",
+                "thumbnail": "https://i.ytimg.com/vi/18kM9ePsURc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/t_Y5PEEmwQw",
+                "thumbnail": "https://i.ytimg.com/vi/t_Y5PEEmwQw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 60-sec version",
+                "source": "https://www.youtube.com/embed/GuRZ9VF9TLg",
+                "thumbnail": "https://i.ytimg.com/vi/GuRZ9VF9TLg/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-sec version",
+                "source": "https://www.youtube.com/embed/W1BzZ6Sbdy0",
+                "thumbnail": "https://i.ytimg.com/vi/W1BzZ6Sbdy0/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "aoba-watase-8370",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f047ce33b09157c092b56243ff202437.jpg",
+                    "name": "Watase, Aoba",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "dio-weinberg-junyou-12940",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8c5b7cc15da29ff22ffcd8ae74cebb82.jpg",
+                    "name": "Weinberg Junyou, Dio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kouki-uchiyama-66",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dc2e780f93b97fdb4506fd5186ba56fa.jpg",
+                    "name": "Uchiyama, Kouki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hina-yumihara-6297",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30cc92817811bc41dd657c85acd11e7a.jpg",
+                    "name": "Yumihara, Hina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "saori-hayami-7",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76514edd0aaa4a15714bda55f5023799.jpg",
+                    "name": "Hayami, Saori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "garcian-bass-107690",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67f2f3343388d9bcb37f59371817c27c.jpg",
+                    "name": "Bass, Garcian",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "arthur-lounsbery-1959",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0ce15fcd03b88c8be1547a2cca0c5568.jpg",
+                    "name": "Lounsbery, Arthur",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "benesh-102762",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e06be451ce714187a65b54324f169970.jpg",
+                    "name": "Benesh",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yutaka-iwanami-12563",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/303dc9ba4f1719cfd103f094b805cb33.jpg",
+                    "name": "Iwanami, Yutaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lee-conrad-79169",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a6217da062811d4bc3ab949e09197c7.jpg",
+                    "name": "Conrad, Lee",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-sugita-8",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/deae516e8edb7cf8e1dfc709ea34fa59.jpg",
+                    "name": "Sugita, Tomokazu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "バディ・コンプレックス",
+        "aired": "Jan 6, 2014 to Mar 31, 2014",
+        "premiered": "Winter 2014",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.19",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Bandai Visual",
+            "Lantis",
+            "Bandai Namco Live Creative",
+            "Bandai Namco Games",
+            "Banpresto",
+            "Bandai Channel",
+            "Sunrise",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Encounter",
+            "episodeId": "buddy-complex-2792?ep=29826",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/577257f797e57af93d879da328f0694267f9c93d4c09a0baf4e0a5f0a36f208ac7cd29817c1ffaad2a98c2e85404af9feb5feabc296a2803f38535ccd47b7c782ae31a492478b2c8f10119d1d22246ab18926a4b49096e22af63507bf8ebbf213ccecdf5d4b097f41489e09bef4553813794c0d6677f2ee970509799dad576e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9fb842a487681510474188f3bdee1f92/9fb842a487681510474188f3bdee1f92.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/577257f797e57af93d879da328f0694267f9c93d4c09a0baf4e0a5f0a36f208ac7cd29817c1ffaad2a98c2e85404af9f2a1fd355071ee510d3c630dba44d787dbd454a2bc08619505efe211529701ed86f209888935799d4d81d0f68e91f5f4a922494b9178234063b1e53b73b958398e10e1f39ff416c67db3eb7b7001849e829ea6de497a32118bd6ce2b8069cddf1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9fb842a487681510474188f3bdee1f92/9fb842a487681510474188f3bdee1f92.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Nice Coupling",
+            "episodeId": "buddy-complex-2792?ep=29827",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/66575da7680a770c2af78eb46ee8c7ebe2d021f0b2f4a94643e714c85c706d25e93d3e55d488794d3facbb76d365d165ce19a0b55e61e76cea949da08a0f02efdfbdbe34ade1e29229b9ca286c2c58d5b51441f2eec4857373671169250e2a3f84800226cb0dd8f782b33b07527fa57e598016a40413cae165e4758129f96724/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d009cedffcb80b453b1ebbff162e0e0/3d009cedffcb80b453b1ebbff162e0e0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/66575da7680a770c2af78eb46ee8c7ebe2d021f0b2f4a94643e714c85c706d25e93d3e55d488794d3facbb76d365d1651d59189cfef0df4f25b295115007b536dc1394c2c8792743983945330374606cf8826525fcc67fe195da81380a1dd734b7cd35ac95007a6ef54f86ec9a7dd413e2c2ab2363b5b17f9fbddac03680844d9f9cb0cf69777d684b0fb9448de244ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d009cedffcb80b453b1ebbff162e0e0/3d009cedffcb80b453b1ebbff162e0e0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meeting Again",
+            "episodeId": "buddy-complex-2792?ep=29828",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ffe4e968cab374b4a84a0a449492d730bad0dc700db6d381fbcd0d1cb952197993e1a6a5715a728d323178b9fcff92896ac9825327b6e30b913224b13c2f64424b58aa6e462b29975e9cd243662b8396c40e7db216888fb8558d0f43343a4e952b238a09ed13020fdf82d3847fa7849f7c38dbdb58ce8a6d342c1f2284499ff0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f984d7e7d1d0b0f59daa5a78c6db3ccd/f984d7e7d1d0b0f59daa5a78c6db3ccd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ffe4e968cab374b4a84a0a449492d730bad0dc700db6d381fbcd0d1cb952197993e1a6a5715a728d323178b9fcff92898d712c5bba65daba43e479aacc49e2c28e64def352609454ff7d2d3a0d63a09c7a9977cafa031b93e6356404ffc0af7a48d01ce5f2e58541b861e76d4454e06edee08ca47a0ceabca749d67b9f627625e53f3d71c8bf0b9aee0deac3aa35022f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f984d7e7d1d0b0f59daa5a78c6db3ccd/f984d7e7d1d0b0f59daa5a78c6db3ccd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Time for Resolve",
+            "episodeId": "buddy-complex-2792?ep=29829",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1b7d2cd538602168f56ca5738809378ae988091c611dc95cfe0a87f9e20db336da9814ef9bf1d9428ace793fd3ed70a68daa252a065d059a1b107bd3d2d684a97525e4c74d8b9b74a890c365c23bf6185930b013194bbd8ec8e1b79fe793d16e741d1caaf64608cf1547e8e8d8c4241b3ebe361c55d930300eae7e88fa6ecf43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6d66e29398769274311d4ca01d13ab2/d6d66e29398769274311d4ca01d13ab2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1b7d2cd538602168f56ca5738809378ae988091c611dc95cfe0a87f9e20db336da9814ef9bf1d9428ace793fd3ed70a6d0d16060e20e341ed5d02bb52f9d310bd6ca71ec55c44fd1066b9a315854aa5b51e8ed4bc7058db65b741e7a06dd4529b212903501e34d92ec253589a959b5d302943a1e7edb8987aac8e6dbf3609ac91e9e0be7f74307a4a818f2dca2da7238/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6d66e29398769274311d4ca01d13ab2/d6d66e29398769274311d4ca01d13ab2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Scars",
+            "episodeId": "buddy-complex-2792?ep=29830",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/403115df3cb10435f86f251ce9e7a1e1cf5e20ddaa1ce5b29ac45323d2b1855c911adb8e7233d92213bf1b120b4a21d4eb2f37753cd5b1e760760be4d08b91926829c3a2bf5dee1e0793b6013908d3455920620936467de033cb51f27fa1fb2d1afab30770c948744cda0ac66af076f113d0587c1c2654b67fed838751813e25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a56c2525cfee7fc0970e78ee23eae88/4a56c2525cfee7fc0970e78ee23eae88.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/403115df3cb10435f86f251ce9e7a1e1cf5e20ddaa1ce5b29ac45323d2b1855c911adb8e7233d92213bf1b120b4a21d43b01d4ed3d23426f52ba0f9796749662a98558d315c0107f492ec77761b16707dca7e479acde0e3ec731408fc9d64f5f4690c1256b5d76f0d652f17a152533afafdbc3bd1b15d6c4d0e19a15244d7efeed2c13eb4b498933151ff3a45a35b3cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a56c2525cfee7fc0970e78ee23eae88/4a56c2525cfee7fc0970e78ee23eae88.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Other Coupler",
+            "episodeId": "buddy-complex-2792?ep=29831",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/183930a192da61d9ab7775784b53e14c31b5989bc2cf1c3a85cb39574a80a9e07c0256458e70f4390a5f2c0fffdd22c90df3e4a12821c66a8fbcd01e53f93bbe33caf9204fa380c3b33fe61ad8f9cff2c5dc6f58957ce3e88347a36897db8fdd64006faa918d1e947bafe5406cddaf006221fb1da61c49fcd174ac5e659bde51/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/262febbe8dfef0ff861a03e5f78fb980/262febbe8dfef0ff861a03e5f78fb980.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/183930a192da61d9ab7775784b53e14c31b5989bc2cf1c3a85cb39574a80a9e07c0256458e70f4390a5f2c0fffdd22c9ae4370fc06451100d35a136509d84bc4885a8033b3d12a94f3d6018b3ffda8ea156f0e5f80ef6cdb7185498876c2026d37f039c5d2e17480978258072461f43cf2f9d9674ffbeacb0df6c5d4963b238e519fc59c8fc1e756dffe51e05d618397/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/262febbe8dfef0ff861a03e5f78fb980/262febbe8dfef0ff861a03e5f78fb980.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Buddy",
+            "episodeId": "buddy-complex-2792?ep=29832",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0744a1faaa500122468444de689e3b3923fda4470577605e332b7fa34fd0d410ae01189a47126395073c86aca027b74f5916c60b5ac31bf0287f138cb7bdefb9642d92726e1276cdb3941defa8a578e3354ca36f9dc64cbbaad76647799ff1373ae43ff06371413ba7fc42ddf161936938c3ee5da7b1cd312e684b07a907af7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34d3a94827c37af2133d2257d248353f/34d3a94827c37af2133d2257d248353f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0744a1faaa500122468444de689e3b3923fda4470577605e332b7fa34fd0d410ae01189a47126395073c86aca027b74ffdb06cb047f7028feae299ef99134afc5877730a3c19a00b91c91b9f87f4560327a92776f884842fed3d9cccef818f05d39e1ea241ea8ee8281b3916d5f9011405acbaad9168f3627499dc7cb26c322bdf498ebaa4f5ff8bc728e14e288821fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34d3a94827c37af2133d2257d248353f/34d3a94827c37af2133d2257d248353f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stormy Night",
+            "episodeId": "buddy-complex-2792?ep=29833",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/daae0e3107f2206bba47d31213dd9f17a3d9ae7b34d3f799481edabe7643e8e56fd115a215c397debd694e15fbef4e1a80b0d5001fa3a81d392cb143ed0cb3615cfe1da9f00c790140037ac1b22f17d369103f42034483614c81b721380de411cbe4687f7acd591d8bcbb3b7c5c7d51d6c7c7c10b06a9df40eaf14888b56679c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/366f6d0b91ce39aad2f8128379f7c089/366f6d0b91ce39aad2f8128379f7c089.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/daae0e3107f2206bba47d31213dd9f17a3d9ae7b34d3f799481edabe7643e8e56fd115a215c397debd694e15fbef4e1a1e82cae8ea730517cfd694516fd783398015bfcfab525231fbcee21712f9e96174dc8e0811d18b702560ccfa7349c8132edfd452a94af641f1cf7765ceb2b9dd0d488e0b4622b56e1cac368ed5f9b5cbaf13c1240b832eac637c706c9e8f3ef3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/366f6d0b91ce39aad2f8128379f7c089/366f6d0b91ce39aad2f8128379f7c089.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Coupling System",
+            "episodeId": "buddy-complex-2792?ep=29834",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/791bf27bc25709b6dcea0f60d3f0af54d788cf127e4b69338a5f5f3e11c7559703a4407b1a90bb64d737d50b351a8da7fd1e2e01ab53f6b618b525f77188ab6e42a71698085df410419f7a4507ed2677295609d5e4b51196d99c5c95b9a8655aa4a926be2a9893546ff113d3dc4468ec89681755c6d1b3ac30ea1cbaa7b5871e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d74233e7e45f9928e02ca8b530f04b12/d74233e7e45f9928e02ca8b530f04b12.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/791bf27bc25709b6dcea0f60d3f0af54d788cf127e4b69338a5f5f3e11c7559703a4407b1a90bb64d737d50b351a8da724210b15f9a2fcd747bd68d8411112c9c400d07638b10407a8ff6d36522a1370bd41fbf93b24737f0150442872d83fa9b1ce52930771790dec639c0cdcd22fac3020fe1dfa4d0a2625a91cdb61825193c5384c6f6db5327709532f1860f05f55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d74233e7e45f9928e02ca8b530f04b12/d74233e7e45f9928e02ca8b530f04b12.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Father and Child",
+            "episodeId": "buddy-complex-2792?ep=29835",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/80f094ed15a77b63c7b35cd1d9c475cb83b494967f5944ad29728893f5f6c0f547f0da7e531a44b13057680e27dad0f142aaf532f41aa6ee43a6735aade32d49ed4a71c64ec1431327ade7492d5fd11570fd6a5368b9c7a452b156c922f4178436b46c247eb8e15bcf804e63b4bd1f76e3a2282fd04101af87537f6d540e502a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3d19dbc9b2d90f81212a7b6534bcc1a/b3d19dbc9b2d90f81212a7b6534bcc1a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/80f094ed15a77b63c7b35cd1d9c475cb83b494967f5944ad29728893f5f6c0f547f0da7e531a44b13057680e27dad0f1097a4150056f9f862f32a992167f37ee6a4f98aec4b17b0dca47aa4ab09aa21595bb4856112cd4b153c9a5a78725266baf9c690de4426a7cff606c6ae4497da53fc470c75ecc57f75b45d6dcdb77db1e190e374b469fc588c362e12156a63e83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3d19dbc9b2d90f81212a7b6534bcc1a/b3d19dbc9b2d90f81212a7b6534bcc1a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Truth",
+            "episodeId": "buddy-complex-2792?ep=29836",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/297ce1a2bd8dcbcc8116679bf1c966ea2e2754eae86cbfd4ca653ebcfe1be406529b1e8770f69ff08a17c083fc35a0e3ffd96501a44f02b4f16aa9f476dea5d4f3558f9f966434edcd20ea401c1b830aead116641c9f0d60b62a2b31dd3456461654f357de5aae2fe6beaf50bd51eab7eb7a49ac496499ef0e562a7059e5963e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/807e8bcce0bed9cb5e9669328aad62d9/807e8bcce0bed9cb5e9669328aad62d9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/297ce1a2bd8dcbcc8116679bf1c966ea2e2754eae86cbfd4ca653ebcfe1be406529b1e8770f69ff08a17c083fc35a0e334952609a12ff23ede5848492bcddb779bcfac2591f006381b377adda6491d6c2c913cdee9ef7db62ea56417445a858ef71fd60820ed7ca2d93baee0a250c5ebaf2710d2cedfef44d3cbe972ba6419095848f5a1157e5129d708ef6e24f18377/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/807e8bcce0bed9cb5e9669328aad62d9/807e8bcce0bed9cb5e9669328aad62d9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Bond Between Them",
+            "episodeId": "buddy-complex-2792?ep=29837",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/eb27eae009c2e23ff7cfe712f1bc65e3ffc7e7e1e12fbbaf67578cc3963457bcd17cf5d63d35ba9ae35bc59d53304936f2e2a0b73971ff7051b7a44b03883e024c8da473ab7039b61e94492577af66f485969844247189a1126dea5fb9454c50a6ebf5ed373a6aa306e8a916635d578df54d4012fa44926c2ffd19ccf41bf32d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7abadc1b96b7771bc39a48962e9e9de/e7abadc1b96b7771bc39a48962e9e9de.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/eb27eae009c2e23ff7cfe712f1bc65e3ffc7e7e1e12fbbaf67578cc3963457bcd17cf5d63d35ba9ae35bc59d53304936477740a1884b6a97ff8e87fa973006163219c4905865c2c0f33cb8d0b004afa5e16fac2dc6560c7b0f6a5cdbdd873afa9d5bed144869d5ae045bb039ee8acfc508ffe664558ece4d3e27d8c45951d39bebb91ac748463bd5080e4aed13d4299f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7abadc1b96b7771bc39a48962e9e9de/e7abadc1b96b7771bc39a48962e9e9de.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Acception",
+            "episodeId": "buddy-complex-2792?ep=29838",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e372fede3859d722281d7d160448a8519a858e69990d2d8fe1774a9f445ce88efc028e03aedc117c7933c8c0b895d27f32693bd9b242035287798f13683ee90e67a5a07be268d0c6d5879972018cacb06c3aa8b2726011cea058e891b81b42e074c1782a43ad10038e36385d5e17a152c3ec1fd995896ae102ec71c021ee497b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1db02cb0eafabb10f08721fad924da35/1db02cb0eafabb10f08721fad924da35.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e372fede3859d722281d7d160448a8519a858e69990d2d8fe1774a9f445ce88efc028e03aedc117c7933c8c0b895d27f84b83c86dc50ea65cbdb3019cae57ba86070046efee50363e286cabc8584246b25067303af96848c26bb118ffd515e3a13345101452c5e72e27b6c2c7f4090f4a5e50499dcd45a372d1a532c64377c01cffa3c43b89dc02a3d86b956262da335/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1db02cb0eafabb10f08721fad924da35/1db02cb0eafabb10f08721fad924da35.vtt"
+                }
+            ]
+        }
+    ]
+}

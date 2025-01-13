@@ -1,0 +1,613 @@
+{
+    "info": {
+        "id": "heroman-4202",
+        "anilistId": 4334,
+        "malId": 4334,
+        "name": "Heroman",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cb6582ae28740cb72416c266b11146b.jpg",
+        "description": "In California's Center City, shy but kindhearted Joseph Carter \"Joey\" Jones lives with his grandmother, working in a coffee shop. Though his family is financially burdened and he is bullied at school, he remains cheerful. A robotics enthusiast, he wants a top-of-the-line toy robot called a Heybo more than anything.\n\nOne day Joey and his friend Simon \"Psy\" Kaina come across a destroyed Heybo discarded by a group of rich kids. He takes it home and repairs it himself, excitedly naming it Heroman. However, one night Heroman is struck by lightning and comes to life, growing several times its size in the process.\n\nThat same night Center City is attacked by aliens called Skrugg whose attention was brought to Earth after Joey's acquaintance Professor Matthew Denton made attempts to contact them. Along with Joey, Heroman quickly heads to the scene of the attack, where he finds people in trouble, including his friend Lina Davis and her father. Using an arm-mounted controller, Joey is able to command Heroman to use superpowers to fight off the Skrugg and rescue civilians. As the aliens continue their invasion of Earth, the duo are the only ones separating humanity and destruction.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/cxxD9_260C0",
+                "thumbnail": "https://i.ytimg.com/vi/cxxD9_260C0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/z7FAAR7gUHE",
+                "thumbnail": "https://i.ytimg.com/vi/z7FAAR7gUHE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/yjq9biBm0Yg",
+                "thumbnail": "https://i.ytimg.com/vi/yjq9biBm0Yg/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "lina-davis-26936",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7b6d98eecf50b62aa9443a819f8307f1.jpg",
+                    "name": "Davis, Lina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mayu-obata-9345",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/729ce1808f2b89f95085806bc3cbe8c7.jpg",
+                    "name": "Obata, Mayu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "heroman-14449",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8d600a681d16b51d4cacb71ceacbd03.jpg",
+                    "name": "Heroman",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouta-takeuchi-714",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/930fb42c759d7eb930a8c2688904890f.jpg",
+                    "name": "Takeuchi, Ryouta",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "joseph-carter-jones-12229",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0922a5332c00bef9a50c70195501d5d.jpg",
+                    "name": "Jones, Joseph Carter",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mikako-komatsu-229",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecfc7c5c031a8f1c17e4aad34c69166d.jpg",
+                    "name": "Komatsu, Mikako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "simon-kaina-24303",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcce1442e35d75ddb92f6d17c53794b3.jpg",
+                    "name": "Kaina, Simon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouhei-kimura-142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c702e75fbb020235f8d1edff593fc79.jpg",
+                    "name": "Kimura, Ryouhei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "amanorich-91942",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5f2779dd86b4bdc1046ab985b7e14873.jpg",
+                    "name": "Amanorich",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "anri-katsu-1889",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4eabdc9d8ae37bf0ca297b787bd3a7d5.jpg",
+                    "name": "Katsu, Anri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "vera-collins-49336",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4c3849fb1673978940cff85341477724.jpg",
+                    "name": "Collins, Vera",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "naomi-shindo-998",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fc4d6884b8cd27477b37d947bc2dcf7e.jpg",
+                    "name": "Shindo, Naomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ヒーローマン",
+        "aired": "Apr 1, 2010 to Sep 23, 2010",
+        "premiered": "Spring 2010",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.85",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "TV Tokyo",
+            "Dentsu",
+            "Square Enix",
+            "Bones"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Beginning",
+            "episodeId": "heroman-4202?ep=36955",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/965f2a4138f4c08dd1d5d9b88bf216a1031690b737b9cb27ddaafc1a498c1c7adf5089fd9ae83ff6a90a6a3a90a229d53c518a137aedff83072f05ca49d8287a3ed3f81b5331381bdcd5c5c1684321a32954e798a3ad5e92af9af17f476e2feebdebf73d0df73e3ed7da64c23cee27178f1ebef232ab707984c8110f02aa6f7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ca8c212b9a44ade4a0ad30068824b82/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/965f2a4138f4c08dd1d5d9b88bf216a1031690b737b9cb27ddaafc1a498c1c7adf5089fd9ae83ff6a90a6a3a90a229d5f4b63e4dc8963c89e1f34ba18c7ebab7ecc5b37d3f3e6bd29a65dcbb9039a6dfb314d79fa7af2e2502ff18d7241af3b4a537de68634aa2207f345b34be6c5735f1d25c3f1d352d9c6ae153431faf04d8bb2525bc8702ca942c974e8e126dbce8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ca8c212b9a44ade4a0ad30068824b82/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Encounter",
+            "episodeId": "heroman-4202?ep=36956",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7da4e867b67dd9a451d77c2b204062684fa3a763c51ed71bf2e3044cddbae67a0640c1caaad6e64fa39a2469cae02c771a90647317b79ae5a92f089ad65daa907885eca63639f74700881802d18e7364380c15864d4e765b591a2794a06185e1a849534e40589ff58dbfe6239df8c0ccd86a831b026520530c75fab45526bab7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1edd581d62a6a40f92b202c2515e2214/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7da4e867b67dd9a451d77c2b204062684fa3a763c51ed71bf2e3044cddbae67a0640c1caaad6e64fa39a2469cae02c77c736bf6e5e6043492547bc83a978ec7a90f6d02ea232f03c0ee41de056ca5fe99c388bed9517fad8c1a7929a3981cedefc2d4a9931bb43dd831385150a08cc711bf2cf86513906d4e313ca7678a08a1dcad5d9b07d3587112caf1b2b70d05baa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1edd581d62a6a40f92b202c2515e2214/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Invasion",
+            "episodeId": "heroman-4202?ep=36957",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/1b8364ad68f775affd6d36f36e326a70f272d625db04263f0768a6619e67271a7aa05b6ccf1ba8699129c9b679ec3a954182ef19c87ecac814f75d2beb1b04d90b532603589c33b1fa7d00dcd561c48478b8afb9e96992306a7eb5da9799148b61ace800f4371d31ab732ee230d0174e107593f92587e1c122a4e6f2bdf86874/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8adfd681dd3c5e8f12460579a2c8791/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b8364ad68f775affd6d36f36e326a70f272d625db04263f0768a6619e67271a7aa05b6ccf1ba8699129c9b679ec3a9590365004e3598916ce741c43efb33d35d48b0c5319cb70b6d5ffb31795e41558f6fa2a8c0f6aefcc0e6d82c5bc553d6b077a5318c7c127d4d8379542baa49f66a5bc75aeab45237ea1456bd2dbd3007fb78d97ed56f0bf3a0fb7e9b2d37e2658/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8adfd681dd3c5e8f12460579a2c8791/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sphere",
+            "episodeId": "heroman-4202?ep=36958",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ea7e35729d6bbda9e257aa4b39b716dd4a1127e1d250fc764b0402d4e1f852a202d9ca20afd7f417b589d4e4a12d54e6002971722952dc891871a68254b6bd7da9f820d35cd7920ac116070305839844dcbd3b0037cc71ae7152697fad71249ddde5a1cec0cd1192d662bfd6e1202c21b331abae842fcbfaf2acd02cb3be47f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d27414ded7746a15f4c3e972173f620/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ea7e35729d6bbda9e257aa4b39b716dd4a1127e1d250fc764b0402d4e1f852a202d9ca20afd7f417b589d4e4a12d54e6ef440fef5f1ab225074cae2d05de4618d19470c5512a8ed8eb80306467accd77d0fb5d8d0b0b1a1a6c2cc43e2e005e1dd355a5e71e37844acdd7aea8b50236ed3f4d18c4ad6df15c309724fff6b6876abba05fef8fb8f48289d226d0dc6b5df8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d27414ded7746a15f4c3e972173f620/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Assassins",
+            "episodeId": "heroman-4202?ep=36959",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/13f8ac938b2bd4e5addf7b2b98245f2a5521a3b9c9874335ebc0a03241937d7b53feba04c724c2cf2a2090eb859d15c4e54a47a43bb26bdb31b57c5003fb803f44c46026ab5230c7e44e75860099d6aec36ead46abc2f96674380afee97e617308a379053e25699cc876f74de83ed4031afb27f6d6871ba01dd3ad19465148f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7800a28cd53a6ff3a440d05fe8a10b1d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/13f8ac938b2bd4e5addf7b2b98245f2a5521a3b9c9874335ebc0a03241937d7b53feba04c724c2cf2a2090eb859d15c46991c0ddbac48b66f4ed98b230b50f894437469534af64b0c209bfc34f6a66e8d2bb6ab11447fb1c4461996af6e0bb6740d049a793cf803bd21fc972b20b4a2b1cfd8169abdc27848371a78a13b33a42ad5626208717e17c46388f93ff333db0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7800a28cd53a6ff3a440d05fe8a10b1d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Backlash",
+            "episodeId": "heroman-4202?ep=36960",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e9a5e0ff5376d89ca4e702c276bbb4f185382020f4818be8df7abc39f55820acf690030a84bb423b8fdaf2216efdae3fcc89abcc1b60eb6b5c17a6b0d06db21a5e4d3a3aa1066b1a83156bc8bce86ad0b575abcc0453ef196077bcd3081aa65d93a5e7d891522c71c385a0c14f307ab38498d171f154a95436b7fcb7c9dc8556/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bd78154f18b1ffa6dfb1f4b4a105044/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e9a5e0ff5376d89ca4e702c276bbb4f185382020f4818be8df7abc39f55820acf690030a84bb423b8fdaf2216efdae3fbbe2296d5d7260947e09c8de98c87e2098e789d53501adcfbefeda91e383aa112ac34047be9a3fe1e2647ee8c9b7169e7d1b0774ba77830a740a391efd75927c4cf3db3ac3b4f858630304a1daf5cbfad034251d6b72cc2e95b3a05cd9a64c14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bd78154f18b1ffa6dfb1f4b4a105044/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resistance",
+            "episodeId": "heroman-4202?ep=36961",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0c88c19e65f18044a572de6f2a5062f76900ae9c9e259a78627d5ea5ceec7748d0de97f1f41ba8eee194f71e670c106e58c46d035380c55c61fe930efbfb8e584d8817c5cb65d08e1c4d79d44f7096dab247c9206e8f0c47f2d2b774d984f0dc22bb57946f3cd6e2f9c3432d8a9fde84970d66858e4684bf2df7fa74a8913c52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a80c736740005ff485d8ed1d0b9418d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0c88c19e65f18044a572de6f2a5062f76900ae9c9e259a78627d5ea5ceec7748d0de97f1f41ba8eee194f71e670c106e4aad7c37f19f502170d33ef23e4dd11a112d7e4b6d47e23665f20509d6089087de20f89688b5c96ba8b5c068865aafdc786e1de975ba0d31286d4824ca4921ff3ede0b68ca1cc9364400b07dd015d0b0520e3f049a644c9b24c3fa964292c8c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a80c736740005ff485d8ed1d0b9418d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Combat",
+            "episodeId": "heroman-4202?ep=36962",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/956721c04bccc20531f093d9f3a2e07515428ee03861529a1eecc1ba55781a43ac43a39e7814f0f935f3ccc7fc4a10010bd161da02c2e2c5cd91f3f532c2dc96e8086fc5b1337fd9b9d7bf466ffce6cafda241ef6eaa2c672e49cb6a9d43d17c793cc387f333a2732aa87e126ef7793bea668cfa4a9d26a01927dea8f09df8bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12a58304a160f82dca1b3219ed6ea0eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/956721c04bccc20531f093d9f3a2e07515428ee03861529a1eecc1ba55781a43ac43a39e7814f0f935f3ccc7fc4a10019644cd0eccf2d7e0587a6327482ef6cb93d1ce376bddc710ffe175887265ba9e983b0b4a754546afe09e637b22941ff965f0e25e3f79f70ff832b4eedb6785fdebc34a03d8833eea3fa0cc998e81c4a9afc83e6f518029bdc2608529a011afa2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12a58304a160f82dca1b3219ed6ea0eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Alive",
+            "episodeId": "heroman-4202?ep=36963",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4561cc610440c9f856dbc668db9c38da97f02f9a9669a4dad28460110e528dca4ccfaf574e4527d52fdfd85a32883bd132a70fb23ba8f381bd0e72d8f94c77a33522cdf52fca2573bc58b65136eee22e79131820b4f4c728992d4c5469ec4a39afef5e641cc60af20efd7019bda220357e9765e142bc7618eb7e99c55cc2e3f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f8683a3c9f8434fc2afe11a4e1bcef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4561cc610440c9f856dbc668db9c38da97f02f9a9669a4dad28460110e528dca4ccfaf574e4527d52fdfd85a32883bd1f7b6bbafef143f2562e97ae5155db5ebb46a5ade79152748084ff6de655bda17c04608563c3bdfe35020b49f039ba37fb8a6a8c84da46ae2ab419b6b91bf46e8bbf116fa03fc3db1218d720ab0b0dfc0986ef44a86f8bc1410e4d801d5494393/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f8683a3c9f8434fc2afe11a4e1bcef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Approach",
+            "episodeId": "heroman-4202?ep=36964",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3c36b8060acb8ce9ede425814c6bfcbfd4bae0ba659fd3ef332ddc3906e33ab689369c6976f3e557b2ec4ebef715bb5d022ad0393111648a4e9512cb2810104db986196734afa4f4cef967dcad928c90f510b99a0f42e10ec9372b01660d2884f2e96330ab6091fdc098ebf3abdc62b34742d74b6672641da34904a146f0deac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f707b79a845bb20118d53234a2210b14/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3c36b8060acb8ce9ede425814c6bfcbfd4bae0ba659fd3ef332ddc3906e33ab689369c6976f3e557b2ec4ebef715bb5d55e0667b665e5f845c4de7323ac812067d8392a377a763b861e00f5f3f13296585ac845c85b7d21676e6828bd85640c7b84119b2dff86be4b3fb13c8cb00acecd10e5832ac2b0a573277c569226ae9372e7765bcadcd9b337e419134a1003d7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f707b79a845bb20118d53234a2210b14/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Menace",
+            "episodeId": "heroman-4202?ep=36965",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f3c450b4d27de3fdcee896fc88b64a1ca4a692ecb9457222cc455f9fbcc85076885d9dbd35e18217f811b4973425d75b2f65503dc7f2f656a99e7d498c8bcb62b5536b7c8feed22f3146c589ebf64d2ce028c76448008c90fc2ed4696f60b71ef6c27f66b63f61c300f687d0d76537aa2349cc939bb174cd40023533981142b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf97de1bbb80e0ee9aee5e8a44a336ce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f3c450b4d27de3fdcee896fc88b64a1ca4a692ecb9457222cc455f9fbcc85076885d9dbd35e18217f811b4973425d75bbfbf63acfb676fbd888cd5d33fbca925cb719d40cc029799d7cb8c2a78cfef63b545c5f8eaa26ffcc18a83c3d773214067b3d5cde3730af3713c1acb85a57c7e908b6a17f8fb91144bf58169dc5e7faee57ed8993a9cf77188fc185ffa13d87d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf97de1bbb80e0ee9aee5e8a44a336ce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stalkers",
+            "episodeId": "heroman-4202?ep=36966",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3eaf2aa857fd2520ed8f324b88b2cb55ec2d9196cc30952a91da45607d89d1779c341d7187cf1ae1e602e93992b5dc735daa049cde94bfa6f681d1621226cc8f8c14e1c00850a6ec3778d64e6dfd7a77ac100adf0e31c4c61a0b1d1ceebba26149cff6b72a124e0846617a1a08fa5a6b0cf0ef994ebab49750fb059de0aab8d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5277651ecfcc80a7c9d5a12ef9a609c9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3eaf2aa857fd2520ed8f324b88b2cb55ec2d9196cc30952a91da45607d89d1779c341d7187cf1ae1e602e93992b5dc733daed01b06874b0399852d9168c847bbaab2a3f8eb2974f1eaeb03c2dc43a70db49dae94d36adb53eec15c3fa68b241525daf2d7912ef86fc40d4635b7b4b2e5281f67938a30a5c521a46f79eec8794d3d77446ecc6ca3298ed9eb5d7de727d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5277651ecfcc80a7c9d5a12ef9a609c9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Getaway",
+            "episodeId": "heroman-4202?ep=36967",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f96bf32c6c76d5a044f0b4723c992866f6cd00724930f24951e536aea406be66fc6f64458bb8f501b4fc634028cdbcf2b54de22cf71f0ab682d703cb86c79c8cb7d357308fcfe61c51f82579102ebb7fac1746e1c529f0a3eeacd17e82ceea2ecca9a04a43b5d74fd9ccdc1da2bc7a478ccb8a8ffd00b5e84022856af99dcb4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d09a6072b514fa28bec416663f43af/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f96bf32c6c76d5a044f0b4723c992866f6cd00724930f24951e536aea406be66fc6f64458bb8f501b4fc634028cdbcf2e42439ef800f01eb9254ce17f65a2c3f47881ff01936a078522d66810df61fe4c12f45baf1d6ea7c657f81178cc6a3fe640fee9d9ac11343ef6143e33dd70a917cae3c6e360eb457bd6d79495ae0432828a730930b1a7cf7ec779d1d9ab5fc38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39d09a6072b514fa28bec416663f43af/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Beleaguer",
+            "episodeId": "heroman-4202?ep=36968",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/086254472df886fcde9b9e44cab5e68092399a14505b26c24a9ef97111ef6a7c6b561abca3883fe0c6b784bb6a561817ea82badc6d8433d0aad4476d5512a00a91440b3d3199072be7dfa01c107bb785c1d131338b4074d1fc8db0b2d46a23721b1e7cccb4840b4d0a595082e799ed05cc33a16f42c417a8d94abd2859aa9f8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aef615ea9ff55fc991ef135adf817db/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/086254472df886fcde9b9e44cab5e68092399a14505b26c24a9ef97111ef6a7c6b561abca3883fe0c6b784bb6a561817fed09bd652d6f6378649bd118ad4463fccc34d4a2a92a2f754b59bbcc147e55a9dc97f77c68da2467b00124e28973330327ab675e10b2f5eec018204e4bfcd9b7c258b6e6c6dda1af299035a994b03dec22e7a8b9e70d86a644f60a798208555/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aef615ea9ff55fc991ef135adf817db/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Revolt",
+            "episodeId": "heroman-4202?ep=36969",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8557de6d6b78d3d3f7053e3b154fb6c28cf1c25d31f671360da85c09eaa0440e8cb09cbd05e160e8f073436faf4fb3d7d62a7909d95aec6fc9d6268a5acac038691ce03c46d81f199c29a928f9ed352280ad714e7a93c728e526c8c5ee884d562edd1e3b91006b6b0602d9592c88d9e11dc13a0c102f5fb009669159dcb2439f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26ff21241c68f3979addf97260d1ff9a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8557de6d6b78d3d3f7053e3b154fb6c28cf1c25d31f671360da85c09eaa0440e8cb09cbd05e160e8f073436faf4fb3d78e58f99d2ae8d8eba384f4ed2e694ebb5fff0ff188cbba5d37fc2cbc0c39d8219f4d2f9eb04b1060bf0d3fe1b83b9c27bb48d62fe1cb61c19185986b61b54f7a0c23fa4538235f064879db23962cac49d9fe0a7419f8ca700c983392dd2b8781/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26ff21241c68f3979addf97260d1ff9a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Decision",
+            "episodeId": "heroman-4202?ep=36970",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e20a1356ffc09997cbabb130590b5108d003207afa54912a79b2199cb535aa804f2361e741f446764125939a82bd4b446b4c49e9a474d36788c191243e8da4973605b77c4be84b70a04623175eca5b42700399159afcf3714dfa34b13bd7e933829f21ca71fb0b0e85ddac31fb271310f5b10a8ae438d51360d4f94fe608508b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee2606188ddc9ad9cc573914edbb8dbd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e20a1356ffc09997cbabb130590b5108d003207afa54912a79b2199cb535aa804f2361e741f446764125939a82bd4b44dc5c4fdf00d1a420f1c333bb7e98a76c5920c97d0891a8518870e53d016d27e0fa742c53cc5d0db7f68b39d236a49b28523d10642bf68482400285ef70fa2b4e5e22c6a45c0b56e7586ea8f46a08df25a9e388bdcf725461d2e8d5fa67abb7f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee2606188ddc9ad9cc573914edbb8dbd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Legacy",
+            "episodeId": "heroman-4202?ep=36971",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/38816a2ac35bf6e579302a9eee901ed08566132742ede3f4aeb6cbf603c968f294a01eebd1f4c3043a2be0c978e19f309687bd1a9dede5a1767cf6b2ed244cbbab82eda0f49d84b42e64783be81855f4821cd7bc4c191718c8f4193889ebf3a74c7aa4fa5e714e405843424bcb146358f66c20d47873b75619a698141e96e3fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db0fe108339d453b03ee03db9e1144df/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/38816a2ac35bf6e579302a9eee901ed08566132742ede3f4aeb6cbf603c968f294a01eebd1f4c3043a2be0c978e19f30b73a8de0e3d94c05e83bf628ae8f474759adce87c556faf8e5dbb58f1bc6efadeb9b810bbf13fa4c73ecbb9092b19b0a60f73fa299c4de8f6de438dda14f50ec92e679844a85df76ea20dd65aefccdbb05dab0c3949fd34a2fa711b54251ca3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db0fe108339d453b03ee03db9e1144df/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Separation",
+            "episodeId": "heroman-4202?ep=36972",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/572283e39119dc23f1e3b81cc13e165c6a7f010c2c3bc573c7f99dc7935409db33766761f0e99a6e8f68faf3d528a48aa0c4772d2894e6667cd3c3b052ad026fce09669c4e09571ae032ed91b16b623aefb5657b8467b0ec061eb9543ca718912415d877f634134fa024bd9931bd085d853cdfc748c3960424b7bdc09bc684c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e5d03a35bc0d9b335b95cf3ce3e69a5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/572283e39119dc23f1e3b81cc13e165c6a7f010c2c3bc573c7f99dc7935409db33766761f0e99a6e8f68faf3d528a48a71d29307ae03c69c7f728564304de082318dbea340bd31881d336cc662d7567a7a6b6c0bdb1f09b375292381b812e0f4c34b1a874caf75f97153b3d3b43e3ecb991eb20bb837b7d6a199c95fd5a9b3dd03188b99b89376d0ce593828d7d49746/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e5d03a35bc0d9b335b95cf3ce3e69a5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Survival",
+            "episodeId": "heroman-4202?ep=36973",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/93ae2ca03a9aec73408e9f0b6740abbffc288ed406e11c8ddba73e4933eec66a1babfa058163ab769ace35fb3743d97af6b330a6ac7cf7d57bca695ad614e30cc7154568ba84ede998755b457f55ba101c0cf8a2180233f2768c52ce45cd8c7101246922408fb52615e5d28818eca97b85a95bd76d9c3af38522a0414b8c8436/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5bf1da53d394325a95a41cf0ffda37/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/93ae2ca03a9aec73408e9f0b6740abbffc288ed406e11c8ddba73e4933eec66a1babfa058163ab769ace35fb3743d97ad6c190acc123529678fbffa18e9baa3057be3292206cc56466f214798b74b822c5a5fa45f9509ae2ce7c10f0df31eefd2d778403ac4b801bdcb01e6f4aab68df3e747d716eb573ec306c696ab128100419dd96c616a7af85d626a3ecd53b491b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f5bf1da53d394325a95a41cf0ffda37/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Missing",
+            "episodeId": "heroman-4202?ep=36974",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/6e1fe077bb99719163293f91bc2813d51740f93fa4044bce7702168241dcb1f431500c3d4ef9f6d51d80f9b812e1a3e62158d656285a02b26fe939772fa8d0975e92954919ee5956841d719e50e076dd34d8c030d986b0a9c5848910c51388c0edda05ec4f35a81572d82c94eee0cc8d5e7e591d94bb9b23c680cabd34528131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb5c90308eae3b3821a58df56e61c0ea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6e1fe077bb99719163293f91bc2813d51740f93fa4044bce7702168241dcb1f431500c3d4ef9f6d51d80f9b812e1a3e6a325272dc8b79a90d751ee7838d8c43fcb5cdfb0331e2d135179b1002de034d516753a42b213c64d4957ed50b8471e814734d7308963b413022a0d05b295f361b666412436b8c842bf5a556c587e87e2aeb718457f2d6d6ba1b6f65c72ed4f33/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb5c90308eae3b3821a58df56e61c0ea/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Emotion",
+            "episodeId": "heroman-4202?ep=36975",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/747885053964e4e3ff1410345099aa78d1b893f0b3bd92e3d1884cc938ea4ad713f3adb2ede0625df2019f8c13baf68f392d879c3bd08a125b919066a51ba2573994e50341d0f126111552c6e546ee0ce06efc68db5d9da87568846ade9f53fb376c9dcebb549503a0fe093ccb20a66c929d66a3e2f99ce927d5ce7a568a8a04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1daaf2ae248f25aecb5257e2c7d49a5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/747885053964e4e3ff1410345099aa78d1b893f0b3bd92e3d1884cc938ea4ad713f3adb2ede0625df2019f8c13baf68fc3b2f66b7d6c5e861077b039befea0cae0ba2a7942d95e2998d124eea245fb83f14c6c608bdc5fe4c7e55be4f257789a70a855b8caa456f13d87f5875e2438ef92637473c1b47b756333e671e006b0f90a863b2a76d03371d4c8ee552cbdc785/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1daaf2ae248f25aecb5257e2c7d49a5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Memories",
+            "episodeId": "heroman-4202?ep=36976",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9a3fb5607a109a714b31d297c85aae6bb071738695594d4a5eed861300a9c860ef3f82447058cfeefe16de1b1fa505969ebc3a5ad11e812c08586effea908eebce1f19f91120749b119e0261c4436650867c379bc98bd9c6a264f475ee77a42aa2d323b07b939c25ae10f4aa0790efe063fc4717c2f559885c8364c1ed7898ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473b461265c3df80b65ededc18ad4e20/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9a3fb5607a109a714b31d297c85aae6bb071738695594d4a5eed861300a9c860ef3f82447058cfeefe16de1b1fa50596557a5af5822f8f4b01391a3e32c5e770b5cf25b04ac52ba19d87f90e01fe75eb0dd7e6ce09c5c6e838eecaa307e3e011becfdb04f84317ff2fa9cb2fdaf77139d0c55044f041b580c1bb99c89209c04a1e9b2e833c8050963ebcef706847c47c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473b461265c3df80b65ededc18ad4e20/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sortie",
+            "episodeId": "heroman-4202?ep=36977",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4f305c0eeb24931abc25730d293f50527e8b00f18ad35f91ef168e545b67e6a3174d5c54626b542454267f84e48014b208147d2d20d81a8f4f8a89b83d069822aeb60e1b8428a02d10a7dbbd46e24ada23afa7b2ca46b2b7196bb5fbf9b9ae29e643fa4058a5017053dd08b33624bceeadb8d9a42cff20ab7dbc2b97d5fcbc42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac395ea1013cffeb034bb9ec975e7bb9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4f305c0eeb24931abc25730d293f50527e8b00f18ad35f91ef168e545b67e6a3174d5c54626b542454267f84e48014b2cf94c8a0527dd2a332eab714a74acf0c7513ddfde0536891ab1740b090c6a002ed57996659b8ae5c44f0c0110b37c4f230ce56bbf9f1d8e47a46e6dad1578364064690d78fa283038ca9e7ee2b679d087be8302e05371ced5a82eaf3a97ccb04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac395ea1013cffeb034bb9ec975e7bb9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resurrection",
+            "episodeId": "heroman-4202?ep=36978",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/59f087b89edd49f5b7e9559be1ee6a1e0f604df1d0d430c058e7cedb31f153ce8f53a5fa02dc3924a3883ffd4d52d8607d1a71ef5cba783522aebde9f10f5494fd730f0e0b109671ab305faa3c316fbe886a3971168c979fd81e37e0bec6b0e4362a92604f5c216b653e39243b0f99ffa47a39d34e75d4dae8c1e3d89bef40db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8f3323ec387e2bce0458e3ab9bb257d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/59f087b89edd49f5b7e9559be1ee6a1e0f604df1d0d430c058e7cedb31f153ce8f53a5fa02dc3924a3883ffd4d52d8604beb674ee1e3e9dbf2c0a6641af5a9b13d6abab7c15047e835859de470304d62483718b574cebd84ee15d888dbb3bcc4cef7916799c9b1f22a910cb5e1a35f033d3b2af3f267853e2917c7d73d563978a8383dc999813e8082a9570d683aa0d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8f3323ec387e2bce0458e3ab9bb257d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crisis",
+            "episodeId": "heroman-4202?ep=36979",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b527db62920e70607a7086ef8f85603152e611515213bb79ec437219a9ece4cac84001d947772a0de5ef6b6c91ed0b5480f26a161b38251f2495bf2a627d66a4a7dfce206a9c4729b7771979f30efd756ae2c0817ad963d9e4ce1c33a5f22c75c2d728379f62bd0abafc16ab20e1eab2d0b24da6f92b8a8fb25cc228a1017761/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a02bd4ca12beb14c512bf493679525d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b527db62920e70607a7086ef8f85603152e611515213bb79ec437219a9ece4cac84001d947772a0de5ef6b6c91ed0b5492e8fdf1464848cabce67fdc15438db729e176a77b1364841503a62c147dd650a628c35e2ddce10c09a5bebd8c81b77aa4202a8a33dc4a4f5f78221149b7c3b02e07b4a0daadb30418d67e48fc14146dc8f1fe3b48130a77ef3d4842125ce081/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a02bd4ca12beb14c512bf493679525d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Faith",
+            "episodeId": "heroman-4202?ep=36980",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c230ed14e3ca9c32e847ac6f01b35b7c270b2dc99d5ee75199329089de2c30710a8e272118b4bcb1cda325bfefa3913cc4ab46a6c235ead425652c7af12d3ac8e2526ae12223d263cd9114fa67bcb1e3f9930f00460f387efbdf502250827e1f09d964460727c9bcb083bbce8d542b5d8359dae4d39045390a0053a07a11d375/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b51d0091ad3cab6e76ad736ecd9f08ed/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c230ed14e3ca9c32e847ac6f01b35b7c270b2dc99d5ee75199329089de2c30710a8e272118b4bcb1cda325bfefa3913c653bae9adbf02da0fbbb057743cf999f8a0c3d2ac09ba48c125f9b37a53def8ecf542017f45dd052ddd53eda73a94ff8a5ce54f788d9a49c62e1b5992732d6e7b32acbaabdce6c13d86fc475437509e81759fcce88261af81ce787629edbbb40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b51d0091ad3cab6e76ad736ecd9f08ed/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

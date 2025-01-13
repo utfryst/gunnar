@@ -1,0 +1,89 @@
+{
+    "info": {
+        "id": "sekai-meisaku-douwa-mori-wa-ikiteiru-4256",
+        "anilistId": 0,
+        "malId": 3751,
+        "name": "Sekai Meisaku Douwa: Mori wa Ikiteiru",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7b276bb40a84478ac9d899311ca949b.jpg",
+        "description": "Twelve Months is the story of an orphaned girl named Anya. When a spoiled princess, who is also orphaned, sees a picture of a Galanthus, she immediately wants one. However, the Galanthus only blooms in spring, in the month of April. It is New Year's Eve and there was no way that such a flower can be found in the middle of the winter. The princess offers a basket of gold to anyone who can bring her a bag of Galanthus.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "5m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "anya-128440",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e7033bbf139c78b50c7501afedd156c.jpg",
+                    "name": "Anya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shinobu-ootake-7724",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47553e6e126ed29ef7758140d4867123.jpg",
+                    "name": "Ootake, Shinobu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ichigatsu-90308",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/18c93ec45f687e90833826b0c3870c5e.jpg",
+                    "name": "Ichigatsu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kiyoshi-kobayashi-1966",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c9469daef168d4ad391a2f7f8664f8f9.jpg",
+                    "name": "Kobayashi, Kiyoshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "森は生きている",
+        "synonyms": "Twelve Months, The Forest is Alive",
+        "aired": "Mar 15, 1980",
+        "premiered": "Winter 1980",
+        "duration": "1h 5m",
+        "status": "Finished Airing",
+        "malscore": "6.83",
+        "genres": [
+            "Fantasy",
+            "Kids"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Soyuzmultfilm",
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "sekai-meisaku-douwa-mori-wa-ikiteiru-4256?ep=90355",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/595d14319b3b3f84f42785a560e4e6f0615f11da65edd4530a02fcdae03c7eadfb59130346cefad9bb1c9069b81ad4276fde83e72278eb6a715c9caff6727babfa778305c999c680b09d26857b8ca44d68e80af7c0658ae421fce9403cea4a69c649f2a2a93f82acf9d573e2b8f12c97cc259df066b284746a0b399be5e836fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6335cac3f3efb4b554c7306245682751/6335cac3f3efb4b554c7306245682751.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/595d14319b3b3f84f42785a560e4e6f0615f11da65edd4530a02fcdae03c7eadfb59130346cefad9bb1c9069b81ad42726270c7ac0a273b2d5fd54d568cf803e06750939e27ca77a666c8fffa6bcc96d8006033fca418466e3f94f56c880e4bc062d005e823d3d22025855d8fde8d9c6f5d7474fb3721b50d815368e4e2041c06c5403a5490ccdf558a7e846c63c0fb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6335cac3f3efb4b554c7306245682751/6335cac3f3efb4b554c7306245682751.vtt"
+                }
+            ]
+        }
+    ]
+}

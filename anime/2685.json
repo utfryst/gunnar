@@ -1,0 +1,616 @@
+{
+    "info": {
+        "id": "yugioh-2685",
+        "anilistId": 0,
+        "malId": 550,
+        "name": "Yu☆Gi☆Oh!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/534dfad7eee822bd8109bfcf1adc185d.jpg",
+        "description": "Bullies often target someone frail and weak—someone exactly like Yuugi Mutou. His beautiful childhood friend, Anzu Mazaki, is always there to stand up for him, but he can't depend on her forever. Katsuya Jonouchi, who is almost always accompanied by his verbal sparring partner Hiroto Honda, doesn't seem like a bad person either, despite always bringing Yuugi trouble. But most of all, Yuugi wishes for a true friend who understands him and would never betray him.\n\nYuugi treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him—the soul of the \"King of Games.\"\n\nDark, twisted, strong, and reliable, the new personality named Yami Yuugi is the exact opposite of Yuugi. Upon any injustice toward him, Yami Yuugi takes over Yuugi's body and forces the opponent into a \"Shadow Game.\" The stakes are high as whoever loses shall have a taste of the darkness that resides within their own heart.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 27,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ryou-bakura-2138",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d0422f594c6fd6753baa1706303bfd52.jpg",
+                    "name": "Bakura, Ryou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tsutomu-kashiwakura-5207",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b267bebaab35c157d2a9078d0348d13.jpg",
+                    "name": "Kashiwakura, Tsutomu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hiroto-honda-11773",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f266fb08868f470493d3ea2f71bfabc1.jpg",
+                    "name": "Honda, Hiroto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryoutarou-okiayu-311",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/32a5d8d9910fad9a37893be7da47207e.jpg",
+                    "name": "Okiayu, Ryoutarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "katsuya-jounouchi-1549",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6e3bead5bd21d167bff249b5947c4421.jpg",
+                    "name": "Jounouchi, Katsuya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toshiyuki-morikawa-154",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7adb49d363a726548f0b493d20fa8986.jpg",
+                    "name": "Morikawa, Toshiyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "seto-kaiba-647",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b38b5de7962cf20f67ba045debd647e5.jpg",
+                    "name": "Kaiba, Seto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hikaru-midorikawa-138",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a47accb0b3a69149de4bb2bce3aee2f5.jpg",
+                    "name": "Midorikawa, Hikaru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anzu-mazaki-5685",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a1f90626b9aa7616910276c8874be676.jpg",
+                    "name": "Mazaki, Anzu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumi-kakazu-2367",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a63a0cb0a65947425662c6efa5dc458e.jpg",
+                    "name": "Kakazu, Yumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuugi-mutou-1760",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34f7e95a9d38c40f602579fe0d634e8d.jpg",
+                    "name": "Mutou, Yuugi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-ogata-92",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cbb0e1c755d39dfe46c83d01c90d119a.jpg",
+                    "name": "Ogata, Megumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "遊☆戯☆王",
+        "synonyms": "King of Games, Yu-Gi-Oh! First Series, Yu-Gi-Oh! Serie Zero, Yugi-Oh, Yuugiou, Yu-Gi-Oh Season 0",
+        "aired": "Apr 4, 1998 to Oct 10, 1998",
+        "premiered": "Spring 1998",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.22",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Game",
+            "Shounen"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Nihon Ad Systems",
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Harsh Battle, the Shadow Game",
+            "episodeId": "yugioh-2685?ep=29142",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cc1998b8305f29c4cf0f97dc3b4727774d59b9e33fc108d194ee923d27378f4c5fbcfdd6765a71c938f4487afced36e4cc6fd2263d0d66e87d86e9b594d8437396d8ff7bc21539808b091b83da74560325d23159a76f2aee0d165745786fcde4b143adbbe15f38135a3e9d1121c627e2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/cc1998b8305f29c4cf0f97dc3b4727774d59b9e33fc108d194ee923d27378f4ccc29f299c1669bab207067b38e33d8868df9f365f27bc32018c12a2c47281c043b53979029d2cd901f51956c909ea23a34f020b124ffbe499c6163509ae05481690bfeb32b460e38eaa6b9a16a338dab108a37882d72fefbaa2e5d9418e2ac8c006ef1039a9409af574fbbebf2104ebc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "An Evil Game Player! The Dangerous Trap!",
+            "episodeId": "yugioh-2685?ep=29143",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/885432d8502bef8cb399ce83e13544fbf52873f892d123d64b0574bacdb301f36ea7494531ad80e747ab84e4f2dab2ca375fb8c63be77018197b658c5c8e0556248c40f93f39fee5e1721669e4313ec50fbb616cbae876ca2ef35060f8b52672021836d1785ca4792254a6ecf7d5c9a0/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/885432d8502bef8cb399ce83e13544fbf52873f892d123d64b0574bacdb301f3b5de5957dfd85da3c175e5d2e2decea456c4c4081c858e940bc864e1a10fe7f18626b7efee2d2877350fa0cb40a2d7ea8452a55e98cf8abc6ed05607081f68bbabe95031721d3d2811799a4c9163f2ba227668f308ca36c43889db07cf3c8f55533c7eda31833f7114cc3e1d3e1ebf2d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Clash! The Strongest Monster",
+            "episodeId": "yugioh-2685?ep=29144",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5a3a3f0c7b7010da52871460ae734a636f214b9b5204772cdde1fcebf093055e9c2a8f65349c763e3b1439cc54121fa5743c47dd210b0865afa9dc3a71c92d4e136ae2f64b40dfb99092055b31bae1d1082c4a83cabf4a173537aace9cf6ea8a91b85d56ff5e5ab1cffe93d397a5aa60/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5a3a3f0c7b7010da52871460ae734a636f214b9b5204772cdde1fcebf093055ee2c234ffcff30c33721e2ebb7c0ff7449bd33578dfc0c9a57454feed9b98a8cf8982d99e187657158582d0020011b9ffc6757ff23cd11c71f87a49d92e86520e6fc00ecbe448e39dbbcfc70f298dd23f6b3ddea604f63aa7ca6d9c4a9384deb53f8ff65664df601887443782a8d3a07a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Theft! The Legendary Super Rare Watch",
+            "episodeId": "yugioh-2685?ep=29145",
+            "number": 4,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c901c6834537e901fdc00e6f0255d2a192d970df596ace8c1b2c6ae9b83e2fa66f0896026dc78a1f32d4af7ab98216a1d3c72c9865593a62848e5a9dda904f069d64fb6d656010cb98db0836773969e679b977213508f597c7ea844b91f71941e7222b543863d8050c3c66725774dfd4/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c901c6834537e901fdc00e6f0255d2a192d970df596ace8c1b2c6ae9b83e2fa6cfcfaf4754c75d6dfcc6d45cba5a4ebeb98a8f06851033284e366d1ca01ea18d94d5e9c91ac86743e6d56a05ded8858ef8373f19d5b2cf1c171e0921caf8ab528c5339b2e458fa40424bf7787423abeafb1ad9898eb3fb4a289592228079096099390250d249104674209573613adf43/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Now Revealed!! Yugi's Secret",
+            "episodeId": "yugioh-2685?ep=29146",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5d1b27bd127a45b4c7e81c8373d26c42ebe9c1ef7fe1f95051c0ce2cc1e9635a3bf21ce2dde551bf22af4e9f9c93b199d46416d1fc54ad9db5fb8a971de14b79126454af0b4edbfd9c8c5c0e96e820aa909762dc815e04cde74eb5a90bef85f31b3e4ccedc3769b5589549632cf8a50a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5d1b27bd127a45b4c7e81c8373d26c42ebe9c1ef7fe1f95051c0ce2cc1e9635a6c5eef5b190915eeab8c7b29ffb9d5e489e6e218161392d6d1567d5e5ba8f3e086faf3a9ba2ad2af8f0791f74168ef1ef159246e441c11b851a6a6b85c98c0a7a51c6f05559df397464677dfe188c1bce7a277a24ab8d2cb73b640ab99715a13bfa74c056fac3e060546b0d2906bfeb0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Desperate Situation!! The Passionate Battle of Friendship.",
+            "episodeId": "yugioh-2685?ep=29147",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dea2db6aab68fd4d3b1c3c27f27351383689afec24c0ff2276422a1956bbe57e47873e48ad4d0b74128b8c9c733414d287e4a62ef9092b8517c777494ed97cc5e4525a07cbe919bc996347350bc9895871b3e0b6e5704604682e0cdd19473c9bfd2d5c577ab8ee936fa0528b3bb86abf/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/dea2db6aab68fd4d3b1c3c27f27351383689afec24c0ff2276422a1956bbe57ed41ba2db4ef5ff5ffe83d9c2ca8e1746b85c2930478cdbf2ae2ea460badedfceb899b39252f0ca70902cea0336c8c14f220c1db14ade69a1733e936a5249355152b7165826edc868457df0cd40a48c1034a14a4eb44253916f64c41265411f53cd32041ff9a11e075f0cb5ced06b4352/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Underhanded Digital Pet Rebellion",
+            "episodeId": "yugioh-2685?ep=29148",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ee7545d91134789348fdfe1603f7953c490f6743e2833baf71ad2a57d6c984e7a278a93b752837a1448516395ea9858e88b432d6b5776055d772347fe54be14c4b997a12698083ee478f2fe0b13cec06782a2620694c5b7e4604fe606011fb17e1d5c0031c054eb76acb2e9b1ac6541f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ee7545d91134789348fdfe1603f7953c490f6743e2833baf71ad2a57d6c984e76a047a6516fbd3b64e5bc1ddd0187c92dd3601a35b4732d99d30187ade72b849c33f1192155c77e9f191efa165a2410cdf727c224c4789cc54c75b24b52922fe4fd01722081e42c6c4104e8056d32e5deca99d3c7ae78fb169f5228f85033d2465e0fb56cdb875134d451b2276d5e009/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Four Game Masters Finally Move Out",
+            "episodeId": "yugioh-2685?ep=29149",
+            "number": 8,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ce3a9bfc1906fa7603307748782c74bc8f34209af66c5f31a1bdb523822cb72ec2595ae41eabd2821a3a858c5ff4b6255ab72976c6e11c2407b6fa708811c03bdca016ff0642e621ff93c4991e8fa8f8ad9bc03f69c4c34ca85a63582529e7f305c14a70448ea183025745907c25ae38/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ce3a9bfc1906fa7603307748782c74bc8f34209af66c5f31a1bdb523822cb72e8440e52dd8260b88d7f75b414c3372c2e2a88cc8d0dd37683b74c835823a45204af7fe3d74e225d577dd35a46a461f6b7040cfc31c250ce0598d174107b758b9c7018c8279ec009da6e286c9f4fb0c1263c4ecc3d476ce214d8ea0245d1ec2f7588a3dad5892d6684c4fcd17cddf3fab/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Come On! The Great Yo-Yo Style",
+            "episodeId": "yugioh-2685?ep=29150",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e338bf94fe09d89de7997ddd7a402c6c67e26acf5b9233d966a5da574dd00e3b87d798dfbb011746c8608c53c5f05ce4a0c32365cbf363e35c317f438bfbede13b4f1ea049edac81bc10c62139a3a0ab04def60d0cfa2779d3610f9f1bf170e34f4d60fe69bdf611e2f7b5ba4784ca3e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e338bf94fe09d89de7997ddd7a402c6c67e26acf5b9233d966a5da574dd00e3baf12ed7f7c095ff6dff37b646568a2a549a0f38a1e4f0944e3bd66ee6265bfdc21b9504d0d7d987159176abfb33ece2c5becb33228f497ee8f77d0bc7817cf2e84cdac844802ca61d6a09c6f41465b5bcf43e3b57a922e282159b45913b1e55c23e3121f87cdd4b1faae38d00c524f0d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Beautiful Teacher with Concealed Face",
+            "episodeId": "yugioh-2685?ep=29151",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9aded69a5f8e6d6a5c7c5b1e83d9d23688b845850cdd4507ab084cd9033f61d63a6bb60452067099e596551acb1cb3191eef6f650480652ac0caba8af892a3b5f689b6b4b425b41551e08fc8279e2b555c7339bed76e0bff3dc56563b2a94cc6707b53792f2b2078c7ebe715406b462a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9aded69a5f8e6d6a5c7c5b1e83d9d23688b845850cdd4507ab084cd9033f61d6e10f84f447920674869fa4b9ca17225ede15d3c530ae99e546b34fe33c60d1b41f554ef32b70a075f6d6ea18d88c1613887dc4b6513560413d314098a55cb7aef4fb279d712d2a7bd4fc09ff5f037cddb7733479360a21792dc2d5496604cf789514ebf6ec23b1048da6a0c9ed94cd2b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Opening of a Rumoured Monster Capsule",
+            "episodeId": "yugioh-2685?ep=29152",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6b71b16653bca2db52959ca6f391426a69cbd64d40550016caaa5c41022094dfadd3b3beb298387f1afb5471f3c04633b7e9c9bd7cdcb30e4edf79843dcfc641bee0cc3aa526715d3ad23630e937a62d5d1bc1774f0273029e33d1655782cf164143c634d445854ceb1d3406a0414749/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6b71b16653bca2db52959ca6f391426a69cbd64d40550016caaa5c41022094dfaa66714b7a3db999f383ff675beab56d695d8d5b388bde6d046b38303f5b11b91722ccd0d44fc2d4492f5fc9209993517cc6672739c4b32bfd908915592e2dfed87a3f62f4db7763bdc9e049ea0f3da429788add4e43b77ea2d2cceb87140c04332f12a670359e5caffd6cfef1d4f339/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Extremely Lucky Enemy - The Invincible Legend",
+            "episodeId": "yugioh-2685?ep=29153",
+            "number": 12,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/086e23dfddf58f2a29f69ca784cf50b7145986cf5a04e6c79d5f927db5fee3273695148c3b9349f140fbe08cb94338234acef15a2651cc688d6472d9a7dae4fc2209f4b90ad765c661fb04536bd4ef95c387545ba68fc227cd2c064fe71c7e12dc9f74ec90ef303eac2b19f8806256c0/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/086e23dfddf58f2a29f69ca784cf50b7145986cf5a04e6c79d5f927db5fee327ccd30899a76f65b17de3df672a81c6155ea177ccb82b9ff32f2569dcb4605592fdbb05576f1c3bb10994310f1fe9ceac628e96c614c3194525c8885f98ee180bde0997c0abc3f794ec73eac242c8627bab5db092193fe9102c564a264c366e102606b535ecea7c3286d16b0d71618fad/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Target the Schoolgirls - The Fangs of Great Prophecies",
+            "episodeId": "yugioh-2685?ep=29154",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c387df09cea55e1c393b194749284ad8043195b100790333a01a41f759b9ae099af38ef32c32fd2f798ad8b2125a525ef6b4a6c6037de7183ccfb3f9e0c88c652ddb212d6954067c120b5e79b0d0996a510aa353533e07f77a16b268838d04822248c47d6bfb83898c940bf2d46b6c74/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c387df09cea55e1c393b194749284ad8043195b100790333a01a41f759b9ae0934e7a6bb86abf0d3ad1a75950469ed6ee650fdeb7344e467d93afdc88e63694bea672e5ed8279a4cac19875bb9d04594292ef42d8c7411ea75c491c12a6aeaec03a1e75318dd564c680c146ff3cecc4de691dff6a37a2c0d3dda6b3720a42794c73ca0c0f7c34c224f04c0f873ff0551/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Bomb Game Makes for the Worst Date",
+            "episodeId": "yugioh-2685?ep=29155",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9d8b36b62ca63d987360a83164fd8fe777bf2e90dde73bcdf4f2d83a9ee3aaaf3b54166af709e96a1f2333e817519edf4117a93375c39423039192ce2b97cc387eee8d0984dea6c04266811b310d386a34019f6c9736ad9f045187cc7c62f7f005952d45030af76ec642dcb564f1ca2a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9d8b36b62ca63d987360a83164fd8fe777bf2e90dde73bcdf4f2d83a9ee3aaafa5bdd2141ca4234e963b18aef18f3ec239a4045df944dfd436700c402846b9a5b5fce58daa6013e414ee59b6a9a1c5923988433d46b7278847002cee85e2ebcc097951a2b51ec7ca6a07492334df0eed6f5f3fb17189e569772b1210a0b477eec3b3a6a4cf6810c101aae7afed454d23/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Scary Woman!! Unable to Transform",
+            "episodeId": "yugioh-2685?ep=29156",
+            "number": 15,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b10bd22f6edfc5fcbbaf2c046810a0061921e9a2f074684e3bf4c350af0a963bcc5dc6312c715aba7b066e3a4b1a1aac723b959f81c96f9019ccc954345f29e76abde2ecd9d7f13706d060a9294cd02a1281f58641fca76c0a5b3524fe98b085dd47bf9fc30bfd083240e621395e93e4/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b10bd22f6edfc5fcbbaf2c046810a0061921e9a2f074684e3bf4c350af0a963bfde650738e783b43854596cb1cd8b7c8d71ca1986f941bf35d241dff7fb9b01e9cd8ad933af680bde288892711f853683dc66cdc512daa1e78f02b1cbcd2354200c298e0a9cd00970cdedb01d133c6b47d322ca538d3e8571939af712041483928d669d74e22ba28bcb5872642641e84/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Turnabout by a Hair's Breadth - The White-Robed Crisis",
+            "episodeId": "yugioh-2685?ep=29157",
+            "number": 16,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3ce1bb60b8fa10e81b8e0dbaaa2bdd1bcb3d7717e8e8fd3e2397e66527fdd5bd197a4b547d03139f781960b0673e59aa1976cbd46cde10c9782b98ee1ec53928b9560ceb1e7fea4b06c6ac82468b1c85c73767cb89962467fbd6f4b9326dccc5f1288640c51433f4d9d735e2cafd27d6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3ce1bb60b8fa10e81b8e0dbaaa2bdd1bcb3d7717e8e8fd3e2397e66527fdd5bdea17b76906a851be236889921e388126d913ff9df9c1c2320242cd3cc33f06adfd798c7bfe1d8d8cf8e8499b19f0b4510424bcc40948934e24e062d9001e5d19272fe11fe5b6d244a2b75439f209a2fbf241e0de7be556fd383f6836fdcfe3e51ddb80f5fc34797465a1f06924295a54/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Last Minute Match - The Model that Invites",
+            "episodeId": "yugioh-2685?ep=29158",
+            "number": 17,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8106a562c6c7c3d647b7c128033dc5b0665ebf8ed808aaf2e8ac6955631df18373fd76e4f117f1011925dda250b1f4283206183c642a3a6ba0d9c828c8b25713b6ad90d85eab9a582d5431356608654766569d68148b2c7992850fadc2e8241e9c34e0a7c761431bd87bcb5a55e07d1c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8106a562c6c7c3d647b7c128033dc5b0665ebf8ed808aaf2e8ac6955631df18307d9cd1e2cf81f41dadb35082a158361e2106ec11473569860f7448619c5377a595c415dbc7b501ebe3f628987907c557d6adc180fc884434925fe22af8c39365d6147b005cd2a3add6a0917539731b29cecd15c1b8a73537e6067ff2bade523d96e2af94c399dfa4b337440def0b5ed/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Don't Touch the Forbidden Game",
+            "episodeId": "yugioh-2685?ep=29159",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/102faee378b0404cca3bd8bd2293b5f959d1875b902e9c9f812c8123378dcf5ae7287e814d41a52b54b1cc9d36f4e86d889aae428c56a1f6b26db598c2c5281bc70666b0b498182b114961498a3cd8f106c4461860353eb0f95ad4d5c1b0a80d12fd24a65022ec75a94a82fb00bb2569/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/102faee378b0404cca3bd8bd2293b5f959d1875b902e9c9f812c8123378dcf5add1c2a65b98496532ba8274a73d1b5eefba18cdb8ae2baed3a32623945a143f4db2261d8ea9187175502441eb2cecc2950624fc034ca2f71b0c79bb9fbc49fa16f4f521065cc1702fa1d3e14d69a4ae94bf940ed7159895bdd56d2221153034a956e389367316d8e3e14a972a50d64cd/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Great Melee!! A Popularity Contest",
+            "episodeId": "yugioh-2685?ep=29160",
+            "number": 19,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/57a00714291cf63a02c35301062f6ab901ef770ad6ad382d73eac8cf46ca31049cbf65eea8a70250769de5e633f8a68895ae8d46f696cb7a8023029239fa051ca6f1f3871805bb001ad1e5a2899992a6c935410d090af916a428a6c65f1d242f92eed7a117bb85c1df9af03affe25820/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/57a00714291cf63a02c35301062f6ab901ef770ad6ad382d73eac8cf46ca3104aa36a81d19c19d58afe38f559b26a3a02049c9bbdf0229e5718e365e755d714cc357572d72925631403d4a2d0013abe2e4e1d051c865ba6e8252f73cc77818b861c6fedcfe93ddb979dfc41287a99fb5f1d27854cfd12763c2d2da7cc440f2c12fb75f5a00a5645243b3ce7ca1d6bb23/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "It's Here!! The Strongest and Final Trump Card",
+            "episodeId": "yugioh-2685?ep=29161",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/813cfcc428a6bebdce25d6ae7d97b810ef2879574b4d93fd17d6e558a7cfcdad43dbee979ba0cb531b550031c92ba2c48cf95e68da4189e21c20d8479dfdb9c86d0486944b8697cacd6f1cf6efbbe353b8b4941145d4247f285af2351ef3a3dcd8a756f56a4e2a31bec5ff961288de32/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/813cfcc428a6bebdce25d6ae7d97b810ef2879574b4d93fd17d6e558a7cfcdad9c3c716d633dfdfbe4fec501dcbd5c41b3c6c33848e6a696e422ebaa42f926039b89cba8ed1d35bed31b7c4f0e1f0a13151c58761da12dc6fd7901aaa2d5353c0e53d3ec0b2f65b305c28ef89d435b01fedd1dd64dac4c69589198fa9d2cb4bc8324c5ac370ed2a357986f951b303c4a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Complete!! The Ultimate Game Land",
+            "episodeId": "yugioh-2685?ep=29162",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/061a59d2ebacb2d25862bb29682cde1e2548e4ce4aa51ed2973ba7b89b56999e033f826e1809b8d542a2598a0d1fb64e97d20a05e864a53ad37dd6fc5b75b955c4d231be4a12dd1f1f30e8927393b80b62f720d15cca8f258855cfc5fba41ad6f0ec623eea40bd478ffe6e01f13f57bd/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/061a59d2ebacb2d25862bb29682cde1e2548e4ce4aa51ed2973ba7b89b56999e6fd8dc4721365f3a390be092cf2708a8871a1c7ddd6da0c94209ddc4cb59db38072972f1e87f724fb4f66ff7c3839541f7ddbaee8caa0fd1cc401daa4c59d57db429949725eb9100fa0b5e3d1b7297c0fefc93f66627aa459e10fce47a3c41448ba7381010b28e79d54e7629b2673cf4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Breakthrough - Borderline Shooting",
+            "episodeId": "yugioh-2685?ep=29163",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c9c4fb48b1f7f8d27b37072a193147026cd6c19ea5f259b4ee19b4b8d75a6f548964534ed2ca529127f31c88f8615c15530166033c1b06384e1cfc8cd8f947813fd8c2dea646b19b06c068fde9ea438f9c793316b7966607388ca5a17cd768370767c991a603fd1f989b117c7b7bb0b5/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c9c4fb48b1f7f8d27b37072a193147026cd6c19ea5f259b4ee19b4b8d75a6f546c9052f5d59eb1e02c7bbf50017ba09141762b68ccdc0d7a1e7867d5be991f055d2fb51ceaa578ea05f3451b1483839b8f48dc1f625a1ecf0c5f9a433d24504f8863f321a7aa6934d891717b39d9f7a98d76fe844ac73d4aff3254de1e5b2b3eec8157facf9352a6ad778690657010f5/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Capumon King! Showdown for the Top!!",
+            "episodeId": "yugioh-2685?ep=29164",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/49dcef65ee28aa8fb49e3238c29861974dcefcb74ab79862638ef7e0040f81b81f784315009864d6c786da1026f2a40c770e801335e051679c7bc838960ad1fa65f836c21dc6e8038998d63ef936d048d7f4c7076e82fa4029c665f437b7922de6fe9f82a066dd146330c5b2a808ad19/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/49dcef65ee28aa8fb49e3238c29861974dcefcb74ab79862638ef7e0040f81b81ad3a96555a0d49d0edefc05e77a491a8dca47cb801153741e6bd12519557f432a81671b4c879bd5b55ccd792624486d8c753649f7c8d3f700bd71b689cb0495d44ff36b0c6dab48de9e1482a1049302fb7da8a1f5368985eb04a88624a63480ff7af0b3a72d2d8937753a3e64c39deb/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Now! The Time of Decision and the Miracle Friendship",
+            "episodeId": "yugioh-2685?ep=29165",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/65bc5a90020358ab7a18d985567720ff517b3bd7979a5f2c7ceeb9b84b2335a3d7bf0b8d074251afbec2a37e58ab7d7da67e379854354fe17f14cd13800ae2856688443393dd132dbb672c38a1caddd368d07b280764a8477c4e78fb1ff005d0d7e356c40faf107d4a05be5a88ee55d2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/65bc5a90020358ab7a18d985567720ff517b3bd7979a5f2c7ceeb9b84b2335a30a740fbed91c9241330cf6aa5eb5bf1ad3d283c7334eee76f0c764b48108ad605bbeea69f182442c8661045d0e59f019d5a3eab3b78b04ce86a9dce7e38e343a12e709fc4c689041901120ebf9251f63a7b078d51164dbff09d6e6cb94a0efb64f87fafe4432370ba55ed76239600372/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A New Development - The Handsome Boy who Attacks",
+            "episodeId": "yugioh-2685?ep=29166",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a26dcd6dd5e2e0588caabc39e1d9366ac71b604d493e16763160e64ed43c2499ec6212e281ebc18d028364e76d3f2c820fa4c1bf2140600b6cec2580d179e48c00e02fdf5ed838820c153d3ef818a673fa360c92eec154b45a2c833b1f428332e65fc197d5b4ad6d6f90470ed9504e96/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a26dcd6dd5e2e0588caabc39e1d9366ac71b604d493e16763160e64ed43c2499d70b3e082ff153f722ff6978bbc8919a4c0e7df4d57bb5b46b138ae3c74b518b419e77209c8e1207afcf2b5b9073f9cd2dc78fdd439c6ed8a9d205677d1ddf31685d18002ee341e1183a6b15692a3cf28b3e600021297d4e6336293de63d3460d48818a9e297051e32f176af19da3b70/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Clash of Rivals - The Greatest Pinch",
+            "episodeId": "yugioh-2685?ep=29167",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1e3b28c41cd779ce33379f0f25baedbcbc04d042b75fa92dd8e046456c2779e9f15d20a676e436a41a98bcf3dbce7d1fe3f38f37ae9e43003306b228a4d70d4de0878391bdcb357323349402776718fed0be8fb5637993a10283ea367a58c81b6088ebdb20b988cea37f18acb643a5f1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1e3b28c41cd779ce33379f0f25baedbcbc04d042b75fa92dd8e046456c2779e93145b37a39b2f8c414f21eaa57da7769fc424f5d1a044d50bff28ed6cad7101ff1182aec10abf7ae5501ca9416b4bd75a548711c5c60ca1475770458c9259d9cecd274399807f6ca8bd647f7fb8770c4427e4ff9ba839c0066ae28d50633a42d2e69eeee448362a27e424523de6b56d4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Friendship - From Legend to Myth",
+            "episodeId": "yugioh-2685?ep=29168",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c0b0110df1ef2bfe82b0150463e7112488307dd4811a75d5c1a3066fbf5137dd11a44423092d900b19a1c74f6faf757da25aa75b1ce6c60d2b4d09471ddef64cfa822345028523f9ea262e32d3c58760a6407432e0bd1b4571d467292f262790d734f74118fc56d52c61d6f8769c6eda/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c0b0110df1ef2bfe82b0150463e7112488307dd4811a75d5c1a3066fbf5137dd6a58ccbcc1bf73030be2136d4fd1bf248aa927520ff4b0608a25f25d3bee97ccb6fd481d45c902d81dc24005f815db146bb948e5741e799cdab63fef411a677f70c811bbca6e4d5369fff3b62fd8809fcee807c54a9cfddfd2440fd8745f2310dbcf62d61ff5990d0756ba995e4a9c09/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

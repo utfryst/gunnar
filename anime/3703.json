@@ -1,0 +1,418 @@
+{
+    "info": {
+        "id": "bang-dream-3703",
+        "anilistId": 87435,
+        "malId": 33573,
+        "name": "BanG Dream!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a962de08cc4af29bd3fa06bcf119c4eb.jpg",
+        "description": "When Kasumi Toyama was out camping as a child, she heard the rhythm of the \"Star Beat\" while admiring the starry night sky. This sparkling, heart-pounding sound left a lasting impression on her, and since then, she has constantly been seeking to rediscover that exciting thrill.\n\nNow, as a newly enrolled student of Hanasakigawa Girls' High School, Kasumi is more determined than ever to find that long-lost sensation again. She attempts a myriad of school club activities, and even considers taking up a part-time job, but none of these feel suitable for her. That is, until she chances upon a star-shaped guitar in the storage room of an old pawn shop. It leads her to a live house, where she is captivated by watching a live performance for the first time. Spurred from the adrenaline, she instantly decides to form a band without even really knowing why. However, such a venture requires her to confront various hurdles with new friends she makes along the way, all in her pursuit to encounter that twinkling, heart-throbbing ardor once more.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/yNMj1ZwB9QY",
+                "thumbnail": "https://i.ytimg.com/vi/yNMj1ZwB9QY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/VOkYgPqp4Io",
+                "thumbnail": "https://i.ytimg.com/vi/VOkYgPqp4Io/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/2fwO33SzAW8",
+                "thumbnail": "https://i.ytimg.com/vi/2fwO33SzAW8/hqdefault.jpg"
+            },
+            {
+                "title": "CM Tae Hanazono version",
+                "source": "https://www.youtube.com/embed/O5q5KEmqA7M",
+                "thumbnail": "https://i.ytimg.com/vi/O5q5KEmqA7M/hqdefault.jpg"
+            },
+            {
+                "title": "CM Saaya Yamabuki version",
+                "source": "https://www.youtube.com/embed/5Gw2mcIhNXQ",
+                "thumbnail": "https://i.ytimg.com/vi/5Gw2mcIhNXQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM Rimi Ushigome version",
+                "source": "https://www.youtube.com/embed/4_CFIadMcO8",
+                "thumbnail": "https://i.ytimg.com/vi/4_CFIadMcO8/hqdefault.jpg"
+            },
+            {
+                "title": "CM Kasumi Toyama version",
+                "source": "https://www.youtube.com/embed/MRgX0qZ5Q4s",
+                "thumbnail": "https://i.ytimg.com/vi/MRgX0qZ5Q4s/hqdefault.jpg"
+            },
+            {
+                "title": "CM Arisa Ichigaya version",
+                "source": "https://www.youtube.com/embed/6wMIVAuWHy4",
+                "thumbnail": "https://i.ytimg.com/vi/6wMIVAuWHy4/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 Animax version",
+                "source": "https://www.youtube.com/embed/-fCVJQKqYj0",
+                "thumbnail": "https://i.ytimg.com/vi/-fCVJQKqYj0/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/i0qI91knEtE",
+                "thumbnail": "https://i.ytimg.com/vi/i0qI91knEtE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tae-hanazono-3518",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/91b610bcf58c92128035bb277d670fda.jpg",
+                    "name": "Hanazono, Tae",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sae-otsuka-1504",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/413a0fd73d1ed56b48b28bdec684feab.jpg",
+                    "name": "Otsuka, Sae",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arisa-ichigaya-2658",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df0f9447cdb075db8840798811450e9a.jpg",
+                    "name": "Ichigaya, Arisa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayasa-itou-940",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f91cafeb81960135829058d9353801b.jpg",
+                    "name": "Itou, Ayasa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kasumi-toyama-2839",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d1a6fa7916c4905bf204e0db1158729.jpg",
+                    "name": "Toyama, Kasumi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aimi-terakawa-566",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2111bd0c891d81a1348a743057d271f7.jpg",
+                    "name": "Terakawa, Aimi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rimi-ushigome-5066",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/abdc7e539aed32be2bb60da031eccbd3.jpg",
+                    "name": "Ushigome, Rimi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rimi-nishimoto-2090",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6a4749c7e4bd3938458f9ac7599fd661.jpg",
+                    "name": "Nishimoto, Rimi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "saaya-yamabuki-3255",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dcd2139f51efe4037ee7c0288a628ebe.jpg",
+                    "name": "Yamabuki, Saaya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayaka-ohashi-482",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/770fe48f9db02b5a7bd0a69ff83bc29c.jpg",
+                    "name": "Ohashi, Ayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "moca-aoba-2525",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6da920fb0634f92ffe3e4ff5bbd0e03.jpg",
+                    "name": "Aoba, Moca",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "sachika-misawa-431",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/664953d7e82f62fd1d32a14e53f2b3c3.jpg",
+                    "name": "Misawa, Sachika",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "BanG Dream!（バンドリ！）",
+        "aired": "Jan 21, 2017 to Apr 22, 2017",
+        "premiered": "Winter 2017",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.97",
+        "genres": [
+            "Music"
+        ],
+        "studios": "Xebec,Issen",
+        "producers": [
+            "OLM",
+            "HoriPro",
+            "Bushiroad",
+            "Tokyo MX",
+            "Good Smile Company",
+            "Overlap",
+            "Bushiroad Music",
+            "Xebec",
+            "Issen",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "bang-dream-3703?ep=34606",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ad222c93cda06093edf7a08209e911c4c0bad74dc2bd542bef3bad5c39d1e43715d8deb9f92c8689a04af94e798711eb20af1d5a8fcfce4f2140de147a67d303597e0d604c3c390247573ec1deb15b6d85b6a6a14f9e39d75aec2acfb3f1313e6b2fcf20a73d400e606ef4b2f66e55c70e53b730353a747ec4ad4387b940643c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87c504c07c076b815d2a8063ee1f027e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ad222c93cda06093edf7a08209e911c4c0bad74dc2bd542bef3bad5c39d1e43715d8deb9f92c8689a04af94e798711eb39be74dc23888bf29bcfaf3fba9bb40b7ba9f32910f26c335e6f76bfecb57d466b0e9a34e5d68368ff2081d32e20571197905fd93e530e6868d84403cea030d2565ec6eef5927c5cb85355707a3cfe32b7500db3212c6ee7bc71eb1639972909/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87c504c07c076b815d2a8063ee1f027e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "bang-dream-3703?ep=34607",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/751a98c4bf27abac7994ea11d322fa8f2d74cfbc9a1598c254bdb37215df3a11dbde6db9e9742ce36938e1c4543bec066ea45f35804631af98b3ea56e903b2b9ee176eb089f53322c85173b6f58d1e8edf1c1ecbf3f42a489b1e938ee2efcbdc52c6ca08730229525ab6475ba58c057d8ebfaaa9b4d0465a7f5e2237f1f047b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c165a98d98f0d1df9837835b9d8137ed/c165a98d98f0d1df9837835b9d8137ed.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/751a98c4bf27abac7994ea11d322fa8f2d74cfbc9a1598c254bdb37215df3a11dbde6db9e9742ce36938e1c4543bec060ab7047deb32855a902deedef60702666160bc9423169f08a17617c7fb5e1a52fa7171217b868c27c19b9673ada582884c92fdc6cebb0c7660d060f6ec75425034b4657799ec4fe21ab9fa203dbc3ec234c103450e31f1c6ed1054cd1bd88036/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c165a98d98f0d1df9837835b9d8137ed/c165a98d98f0d1df9837835b9d8137ed.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "bang-dream-3703?ep=34608",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0d1d808de2a242f9a95d9a8481077886958b7fa57e826583a5c099090da204674ce114df79a55243b24bcdff5e154e6c69fcc4f7e255102d0f5618c7f9b4833c72d3bf2222ba3d06480fad5c65c9285ed8a226193502eeff096a6211f53cbd73e1ae4e39a6ac6583579a9332c6d30180c565418cc0bb841c83cfe75cf9d21bac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/358ca4ccc5fba8b2bcad3b428157b55a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0d1d808de2a242f9a95d9a8481077886958b7fa57e826583a5c099090da204674ce114df79a55243b24bcdff5e154e6cdbc297faf68639f34c0bcca39a0c5ce492d7bd5cb6619614d35867e66365df68a2fa9ce64ee9024096bcd1de283d98326aa5ac6c2ba79999ec37cbed80f0730e9c7769b76c2eb87f829a21a7dc7b4d2d879c870e54fb34266b7f085dec598270/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/358ca4ccc5fba8b2bcad3b428157b55a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "bang-dream-3703?ep=34609",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/6eb8781f93591fe457805d4c6d1921dcbc3be06633051ceafe886d677e84ea821fd919f1b6e3393b19ed2aed153622884713e7c07d4828032dc4ed3914cb3d7fed62d2e0543919e570a171b4dda41f76588b3015dae9645a4cb7e6b8a56613049698f6d6d3f10db70be0b7c0af818423cd3ed4226885fcac18311bcb10cd37c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aec220ed0c95bb7c6982a683196d2cb1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/6eb8781f93591fe457805d4c6d1921dcbc3be06633051ceafe886d677e84ea821fd919f1b6e3393b19ed2aed153622889ac2eabc549f6d500acbc1ce283fdba1271a8b3826885981e9e2c272e734f2666fd81b952b74b08deed6515b3023a31b46c514d0ab789495cc2660eac0d771503c477b827706b11bbeb0ef1ddfa0c4cba577b949713e4f1b7e3198404bc49071/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aec220ed0c95bb7c6982a683196d2cb1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "bang-dream-3703?ep=34610",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7817d53083d46bf96f8267740ca6bdcd096df9d541b1272e0fa864bc01bde669f741fe15508f34885730e2e5c396ca9f020e1d3ad8f60b7c354067d53e653b2b0c7fc0cbb93137b31290aad0567c02f4a05b15fdc5f3d50f9d1ef82f94e32df9db232cb0bbd4ebaf0e2eb899a997382a023c43ee6a1fa74253ce6c4d480334e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/baa16a6e5743817252cde9684df985b1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7817d53083d46bf96f8267740ca6bdcd096df9d541b1272e0fa864bc01bde669f741fe15508f34885730e2e5c396ca9f2ee19c25c7c7a5c29cbd903402859f2ece90c36e7ec1a3928125e666e82ad8c44f8611938c46174a9650cf06b7dae73fa52f0b23ee160c67bd271001bb93e8b86ac70153bbea5e7023b49b0d03690ca72fefcf7ecc220e5ab12e81157af411a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/baa16a6e5743817252cde9684df985b1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "bang-dream-3703?ep=34611",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/922e758a49d925e3172a123ce7b9c9a605913f95b78d335e3fdb08dfa2bf8f442b7ddb8dd76040ebed9763f9f8241618bedf1c66bf90faa027ea1642df5a102f2ab541fdfab2f3dc7325b0b6e832cbd93738cc36dce2fa4234c97a539d5449235246f21bdd7a52bf9958835b0993568145ead0ecfe945403ac02469b3ed400f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b181c5a09bbe14f218579a8d90edd9e0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/922e758a49d925e3172a123ce7b9c9a605913f95b78d335e3fdb08dfa2bf8f442b7ddb8dd76040ebed9763f9f8241618bdc4c4288e7360517674fc97eaf4df7b49b3d530ce6e259a89ed0ff35e2289a826bc28458e4e7b1853d90f0470e582fac1e963537636a5cf965e7ee7302cc7bb073282d7ce94045911b106f3786c9a43e1744fd568043fb505b847a28aa93ad1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b181c5a09bbe14f218579a8d90edd9e0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "bang-dream-3703?ep=34612",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b1b9ba1622ea152fd63904ec1284f369bc277dba776f1f17140532a813db0f01743cd72d7264cbb7f24c8cc6f468b8519a978d8a0c9b05260bbfe4336f2611c1871eb85178a88b8ac3c7f33ce1d6e854ffb5bc313c81dd737a04f4e4760601ee53225384f8467366acdb8f59f23a247fd538c07c3912c3de506085d6d7bcfa8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22a2cb39c8869a672fe74c26136275e1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b1b9ba1622ea152fd63904ec1284f369bc277dba776f1f17140532a813db0f01743cd72d7264cbb7f24c8cc6f468b85125caa4aa3ada2b9d7a68bdf0f5a72afb1535403579a37df04c60febbc9055bd264665e32295519518cb2686cf42ab57a9505d81c81f4725bd34ebda48b72a04df12c78c1b79e76580fb2dc0ec58b77a7ff57506c095b53f0b068c73a56e7b6ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22a2cb39c8869a672fe74c26136275e1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "bang-dream-3703?ep=34613",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/64ab86199a5176492c40b11e45413602b0600ae7b9f06da2c5b86c9d4ea7c1cb23d713bdd7af7c4aff4926cba3e5e604f065950873509d6808b5d87cd597a84b7e4d17fc23d1fe976732b4ea6f4b607ab2bcc94309e52420bc640197316cb058321b15626d6ba09846eb12289eabbc16b2cd29610190e79b983d8094096882d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69413aa60167d3ea8fc2c9b7d14156ae/69413aa60167d3ea8fc2c9b7d14156ae.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/64ab86199a5176492c40b11e45413602b0600ae7b9f06da2c5b86c9d4ea7c1cb23d713bdd7af7c4aff4926cba3e5e60475cebc279e1a125769c228a3fe301467f1c70d53732a4657714f1051ce483fd9f8cc31e06760d34b48b8708c1426c24ba6f1393c295b9f87a8a7211d7a15c4a12c9403be53709ace109e68bedf992053a158fe5b58f8d8be19124efedfc86871/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69413aa60167d3ea8fc2c9b7d14156ae/69413aa60167d3ea8fc2c9b7d14156ae.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Got a Job!",
+            "episodeId": "bang-dream-3703?ep=34614",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/967829adbb80aa23eaeb00f6042aa77db5153528a58d901fab5926b11adb9436decfd86737b60c0a84bdd8bfcc104db470a9b50d347935bf3b19eb3d78f396ed132d6198f656daab55dc7aa5d61779cbacf1846bf57efec1be2273ea81a72eca5eccb912cef50285cbd4fe6da45c73bc8627b027dbce50c59d767b3be2ae56f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/155c306d485dcca9f23bb6b2c645f9d8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/967829adbb80aa23eaeb00f6042aa77db5153528a58d901fab5926b11adb9436decfd86737b60c0a84bdd8bfcc104db4253c8a69712e9f90a2229691dbfa64808f9910ee2f7021d338d00249bdcef00a5f5df884ddcbdd5671ed1a5b0d3f15c79962ae27a00bf31f0eb40381de217025a548672658f017b7a714cad2dd12ef0910647cd9266290025b226afaa82d6ad3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/155c306d485dcca9f23bb6b2c645f9d8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Was Surprised!",
+            "episodeId": "bang-dream-3703?ep=34615",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0a06070e52c44fccd11ac2bfb7fb7e3d45680761f3844e671c1d902fa44081fd5db28fe1494b553c31121554dab7b042cf20000beefe762a64b921e32656143450d861a53a4903d4e3e4809b19f21a641198461640181ac0f1a6d156cd0dc5b0075b61e1665470023c82945f02acc125a72a03e702cb642cc8a048c890e8c24b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f349e859fc62149c7b8b8591674676bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0a06070e52c44fccd11ac2bfb7fb7e3d45680761f3844e671c1d902fa44081fd5db28fe1494b553c31121554dab7b04246147927384fe6711bc62c1fe4c2adf9e6aba09576c5aa9be682dbd9e0202697fd5effa7d0395865d970c6276a8d3e9e47518d373f7277ebfb7a371ac92b65d2d950c30d0ca707db08ae5862d8201de5ac28b428e68714a36590048a620ad313/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f349e859fc62149c7b8b8591674676bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Couldn't Sing Anymore",
+            "episodeId": "bang-dream-3703?ep=34616",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c9a2074de806f792c81ec04196112a2bed4189f88263d12e747c0ee60d7a29feaf1d7f789b44a776f6b2863ec5fff93a209669d9cf2a7076808c357f75041cb09b03ab8c9c5742e5814b21f0970104dd245b6d61cfb206b3383099d32772f52844b1b910651bed63298a2ae9adc6f53705986d6727d481befa73561b47d92896/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd90b4c9884c7c48cf8c7ee7151b7d8f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c9a2074de806f792c81ec04196112a2bed4189f88263d12e747c0ee60d7a29feaf1d7f789b44a776f6b2863ec5fff93a21e2948448903e0e14d4a5b6ec54a383d5d555269074b1d1f6dbebed95551a29f934fb7af06b715d03a210b253dd934fe9dc9b0b8caff7fec77269e7bbfb351d42ed7453b4e55469301848d277870acadbed394385417fbda5ba725c6a9f6b45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd90b4c9884c7c48cf8c7ee7151b7d8f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Sparkled?!",
+            "episodeId": "bang-dream-3703?ep=34617",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5475bed6549a421b91f04e9485d96366b734f6cce1a707fa7c970962b24f9f6e62c6c8001fafa62892e70b165d2554432e9de3b5bbf69738364745dd46a087793cf482216c1d11ac40f6f39801b701ae04bf0e8695f7043db87e3f53959007e37d608fa2aa0b66c4987727341bba391a5c970264f665b551a517831c9e9522bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ec4adad573c68af177c914beab22599/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5475bed6549a421b91f04e9485d96366b734f6cce1a707fa7c970962b24f9f6e62c6c8001fafa62892e70b165d2554434bd70d0cb37d91f42be109769f1ab588f9a64c25b8939dc17ab7fbda91c82b6945d168cfd853d815180ff242f440f935dfdb367b988df58d111ed540ad39e64666f1492d0c4d9d713b3f298b9f09637db11a81808e51fbef60ce5c42eafdd9c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ec4adad573c68af177c914beab22599/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We Sang!",
+            "episodeId": "bang-dream-3703?ep=34618",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/77a6657c50464179aac8985b8d0f8fb1c3647fe922f2648262f5e9ed90c48250c86e942de27a15f1c8bdfa2744b1265e2c5494deaff625d997f6690cabe849f1b20e9297698b38574b227de83d225c3174286d465f571e5a4fe5949b8cd86c9eadeedc8d2e99ccd8c717ff4c56696ff6dfd2fa11450186578a0eb8f042590780/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/822ac39709c6a4ecd31ad5698dd22b04/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/77a6657c50464179aac8985b8d0f8fb1c3647fe922f2648262f5e9ed90c48250c86e942de27a15f1c8bdfa2744b1265efd2b7c6a7ed3c73e6a0275509693f34dd455c42a9f4f52b5e1e8ba05b621103abbc4df1f386f4d387c700884e9e13f5325eb7e691e6d940bf9948f0be3340ab8cd1950a1815616aa7144a9095cbdc11a812891671dbb388ccb5e49ce9101458f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/822ac39709c6a4ecd31ad5698dd22b04/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

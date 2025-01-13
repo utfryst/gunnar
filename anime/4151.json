@@ -1,0 +1,99 @@
+{
+    "info": {
+        "id": "galaxy-express-999-eternal-traveller-emeraldas-4151",
+        "anilistId": 0,
+        "malId": 6734,
+        "name": "Galaxy Express 999: Eternal Traveller Emeraldas",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85c69e9f9af67a178a0a8558f9d4c4a7.jpg",
+        "description": "A remake of episode 22 of the TV version.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "48m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "emeraldas-4788",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/deb10fa99204230fa6d0db46167a02e4.jpg",
+                    "name": "Emeraldas",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "reiko-tajima-3865",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/395b265401abc7bbe2d641c5bd0f0deb.jpg",
+                    "name": "Tajima, Reiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "maetel-2610",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b73ae737dd067cc0297139a9c7d0cd54.jpg",
+                    "name": "Maetel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masako-ikeda-3294",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/afc8611b8bf1fe126590046923a0da45.jpg",
+                    "name": "Ikeda, Masako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "the-conductor-14715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2b625ea7732f3549ba68ba715ea4067f.jpg",
+                    "name": "The Conductor",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kaneta-kimotsuki-4834",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d562b55ded78948f4eaf87625e776f9f.jpg",
+                    "name": "Kimotsuki, Kaneta",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "銀河鉄道９９９　永遠の旅人エメラルダス",
+        "synonyms": "Ginga Tetsudo 999: Eien no Tabibito Emeraldas",
+        "aired": "Apr 3, 1980",
+        "premiered": "Spring 1980",
+        "duration": "48m",
+        "status": "Finished Airing",
+        "malscore": "6.85",
+        "genres": [
+            "Sci-Fi",
+            "Space"
+        ],
+        "studios": "Toei Animation"
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "galaxy-express-999-eternal-traveller-emeraldas-4151?ep=98680",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/812038ddbeca671ff84191004169f4cb32b12f428af1c885735c8558cf851905c812b584d8229c898ce31518bdbc81b4654a5cc07ceab6ade1aab726b50c98a9baf2c664f241c2e7a6e9deccee758f2f3b3c2adc24f589105b108f5a4fb2dc12f0e22f5f8e0d677d18b46cbd9996da23cb9bf2929d8bea5b7fdb98528a47ba7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c9e1961099be4ab4896be3ea4734d48/0c9e1961099be4ab4896be3ea4734d48.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/812038ddbeca671ff84191004169f4cb32b12f428af1c885735c8558cf851905c812b584d8229c898ce31518bdbc81b4f2ba8ba8644cafc7687d32be7af996472f84215addefbdd8b0f661f82aeeb599126021e0c37e3569fe29ef9e6ee27d39dbe7d1efec7c45f653e92f2415e3f28809205647809f247e33d8b0cccb37f866903603f2bc6ae9f041ef78ea5262140c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c9e1961099be4ab4896be3ea4734d48/0c9e1961099be4ab4896be3ea4734d48.vtt"
+                }
+            ]
+        }
+    ]
+}

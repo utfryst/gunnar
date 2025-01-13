@@ -1,0 +1,618 @@
+{
+    "info": {
+        "id": "umineko-when-they-cry-2960",
+        "anilistId": 0,
+        "malId": 4896,
+        "name": "Umineko: When They Cry",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea5b33bd65dc81a248062d626b2f1112.jpg",
+        "description": "Considered as the third installment in the highly popular When They Cry series by 07th Expansion, Umineko no Naku Koro ni takes place on the island of Rokkenjima, owned by the immensely wealthy Ushiromiya family. As customary per year, the entire family is gathering on the island for a conference that discusses the current financial situations of each respective person. Because of the family head's poor health, this year involves the topic of the head of the family's inheritance and how it will be distributed.\n\nHowever, the family is unaware that the distribution of his wealth is the least of Ushiromiya Kinzou's (family head) concerns for this year's family conference. After being told that his end was approaching by his longtime friend and physician, Kinzou is desperate to meet his life's true love one last time: the Golden Witch, Beatrice. Having immersed himself in black magic for many of the later years in his life, Kinzou instigates a ceremony to revive his beloved upon his family's arrival on Rokkenjima. Soon after, a violent typhoon traps the family on the island and a string of mysterious murders commence, forcing the eighteen people on the island to fight for their lives in a deadly struggle between fantasy and reality.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English sub version",
+                "source": "https://www.youtube.com/embed/dcPNaY3EIUc",
+                "thumbnail": "https://i.ytimg.com/vi/dcPNaY3EIUc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/nNQsCXcU_ow",
+                "thumbnail": "https://i.ytimg.com/vi/nNQsCXcU_ow/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/-1skt8N3f2g",
+                "thumbnail": "https://i.ytimg.com/vi/-1skt8N3f2g/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "beatrice-621",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/33a81defa76993b0b67b41c0d9d9aa7f.jpg",
+                    "name": "Beatrice",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sayaka-ohara-114",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43fb3ae698fd8ba8a6d55ebd22a0e096.jpg",
+                    "name": "Ohara, Sayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kanon-3429",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6995a4aa14f2b62f4ae3187625520dd.jpg",
+                    "name": "Kanon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuu-kobayashi-106",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/372a5a72a8b41d84eb03dd71af12e8cb.jpg",
+                    "name": "Kobayashi, Yuu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shannon-7215",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a23c580e9a78deec81e2c3b02ab6fc8.jpg",
+                    "name": "Shannon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ange-ushiromiya-2300",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4be22054e863db54bc3fb9fe130d3b8b.jpg",
+                    "name": "Ushiromiya, Ange",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-satou-210",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9bf4fc8f2370ae9ec4c1db1bcd50a8f2.jpg",
+                    "name": "Satou, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "george-ushiromiya-11393",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/00369b84c2437567f8004086bb4ab49c.jpg",
+                    "name": "Ushiromiya, George",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenichi-suzumura-104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af03c6635afbbe5fc9608b10ca96d11b.jpg",
+                    "name": "Suzumura, Kenichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "battler-ushiromiya-942",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8e01bc1d79edb26494bf02e49f5e577c.jpg",
+                    "name": "Ushiromiya, Battler",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-ono-10",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f596d8104e8c64fa6db9e76675c90c67.jpg",
+                    "name": "Ono, Daisuke",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "うみねこのなく頃に",
+        "synonyms": "When They Cry 3, When the Seagulls Cry, When They Cry: Seagulls",
+        "aired": "Jul 2, 2009 to Dec 24, 2009",
+        "premiered": "Summer 2009",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.15",
+        "genres": [
+            "Mystery",
+            "Horror",
+            "Supernatural",
+            "Psychological"
+        ],
+        "studios": "Studio Deen",
+        "producers": [
+            "Geneon Universal Entertainment",
+            "Frontier Works",
+            "Sotsu",
+            "Movic",
+            "Studio Deen",
+            "NIS America",
+            "Inc."
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "umineko-when-they-cry-2960?ep=86629",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9c1379544981d7e3065a37ba09b188acdbd3f0ed31e437e76ebcaade9c77ca1ca1b654ea949e9151593457702bc9fc413dabbc985037388f44111bccf02ce9f70c0ad30eac56b4233f55aa5067fb97440e36a3f9f3207fa657cc010a1b5511967bc76cd9269c6cd7bc65677f42f7be9033a70b5037b285bfe66a3584ceb95001/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2edac1490a9efa7c84ddcf5449ce829/b2edac1490a9efa7c84ddcf5449ce829.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9c1379544981d7e3065a37ba09b188acdbd3f0ed31e437e76ebcaade9c77ca1ca1b654ea949e9151593457702bc9fc41ef67a25e500b3b57e6c940208faf4758e59ce48603f4aae4fe79290e5ae87f23531f8d359b777be3daac68dbb06edf63d8238d8c88f1339f13a0caeab909d04d9353bd9540b372d56372ec8ad4cad4489f49ba3786624e1101661cc85f272f24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2edac1490a9efa7c84ddcf5449ce829/b2edac1490a9efa7c84ddcf5449ce829.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "umineko-when-they-cry-2960?ep=86630",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/67955ca0a0caa1bc2c97be6aa028c42cddcc8e8b6ee8d9acb96b58eae2bb12648c41ff1243bc6411962f896a13de52a70f278b47f13de98a8f1cd302d3abeed8b0a3a91c0b1908edb73675395257e346659abd341b800da945026e9f3a99bfa7ec43fdd3a08b08e0f43f12267805b741ff9319be06b46c908af2b3db0cb31e3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f661b4e90404a218f3c671ff4130b7ee/f661b4e90404a218f3c671ff4130b7ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/67955ca0a0caa1bc2c97be6aa028c42cddcc8e8b6ee8d9acb96b58eae2bb12648c41ff1243bc6411962f896a13de52a7b43a38bdc9f90ad3fd8aad11ed35ce8227a7e7a9c64f439ea3e07c41f7ec3481e41579845e9cc5bf7664867b21b52efa84208d01b0ff988c7aee576dd129cbfaf2358bf75b22dd93598af23c94b9b7fe312c54b7ec359fe44f08d88657bd4928/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f661b4e90404a218f3c671ff4130b7ee/f661b4e90404a218f3c671ff4130b7ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "umineko-when-they-cry-2960?ep=86631",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d6edb335dc67736fdf0e4df7a503d9e1d98d1e174eb44da4d2d29541b94aecd6f5a914c173f8bea98b5d94e3d91fc53b1d140e591b3996fea922d30c5dd476e11498b9b5cf8f15de2774c2f970bb676744e39b6824c1c62ead2c9c5ad5cff32f529522570495295eeb49187575788b6d3809b5404079e67640f5dac9d28eb98a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d8afdca3ce2a279354c536726a49044/8d8afdca3ce2a279354c536726a49044.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d6edb335dc67736fdf0e4df7a503d9e1d98d1e174eb44da4d2d29541b94aecd6f5a914c173f8bea98b5d94e3d91fc53ba4874551755ecf561b2a8ff17ddd31414ea542026e4a9d4a73389c4e39096fdd1f69e0f949875cf1ee1ba682ade155ca1e209edd9fdb4f71001288e302ac392867060df5348203e5ce57e49972855cb754d01b246c36cde045a460f15a7ff890/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d8afdca3ce2a279354c536726a49044/8d8afdca3ce2a279354c536726a49044.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "umineko-when-they-cry-2960?ep=86632",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8b22171e206def8163f140ede59170f92779cced7490119f2973dd63152bef44b58e3cad23a43fbf391cab24f34f7835e7f21fdaeb5348745694cb56f8aeb025706262a793a6fba7f81744377a5b58b75ab071d72ccc6a3f9628137a3dec75d5d4499df8028995a2a96adbe268068663ef1d6388c95d6fccc9b5057df1afd8ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c79f29c7bd6c2281545106aaab8e4f11/c79f29c7bd6c2281545106aaab8e4f11.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8b22171e206def8163f140ede59170f92779cced7490119f2973dd63152bef44b58e3cad23a43fbf391cab24f34f783582420b52ec7fb4c6a08ff8f9706c42171725e3e39be40838efa3e739cb7558c10371b59a1325d5ed09667bb69f8a6aa0675dac11ff8ad5161d8c3623a830e63c04ee4388c3f48c432eb000d9aa9362875d2bb9254dbeeee04f08276eae7acdd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c79f29c7bd6c2281545106aaab8e4f11/c79f29c7bd6c2281545106aaab8e4f11.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "umineko-when-they-cry-2960?ep=86633",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/baff7659a88883a3c747cefa3b441d618dbb94b71eae35a9abde3d4fffa586a539dddf7fd9124b0640b79f7c02746382feab46b842a8312151afa6a32539732edba3387a2b4138aa794dac288ff7d89e47dec1ada14854a95295a13243038c009170291586e7a181bb67ba7b923a726924606bc70c9c5650b07e4c084f4cb568/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43fad25e7d2bb58b00ade8fdee8f9a19/43fad25e7d2bb58b00ade8fdee8f9a19.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/baff7659a88883a3c747cefa3b441d618dbb94b71eae35a9abde3d4fffa586a539dddf7fd9124b0640b79f7c02746382eb2ca3176598aac907db1c275ce805cd3b25a10227293fc374485c9a4d99b8d459cd4b57b63ded65a03235dd28ae86cde6068b87da603e75cae41e0db1ca50fa9f11b6bde30d7a7bc071f6ffa267d60484744f25c4a8c3abd60fe405d32e584d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43fad25e7d2bb58b00ade8fdee8f9a19/43fad25e7d2bb58b00ade8fdee8f9a19.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "umineko-when-they-cry-2960?ep=86634",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b6fe4f1eda96a13424c4bfc71e2ff88bc4dbd88575e93b1a0adb30c07c9bd879d80855a2a27b78b59ef2e8a8e76cc6ed107918a007ceb0cc3f37e256646b2b36413c773de82c0983e578c282df3156d693451f954b02f0fb39b991561ef403eecda612ba7489aca74ef7aa2361ecf404c8f5d3fbb2fef136d51e7a84589a2f12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40330e8f0432fb2f12868b9bf651ab9a/40330e8f0432fb2f12868b9bf651ab9a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b6fe4f1eda96a13424c4bfc71e2ff88bc4dbd88575e93b1a0adb30c07c9bd879d80855a2a27b78b59ef2e8a8e76cc6ed3cf891d5e77432e8878e44d4de0b500c714180ab17cd1b9a6b8ae0bbd52376067bdda6db6cb18c7aff34093aee0f5883c7efe95c3dd845acadd9acc856137379a352b3cb7ffe76b6d859ade2d7cc15aca3c0d2810b45c58a2f096ab6f03b2536/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40330e8f0432fb2f12868b9bf651ab9a/40330e8f0432fb2f12868b9bf651ab9a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "umineko-when-they-cry-2960?ep=86635",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/610c42da2dd2703e4308dca4322cce74b0e3f410dfa2d65f2ff4b630c41bf05029b6947a125583ed6165bd44a7472a83d5639ceee4abcb33908a9350f3422eb36b9084efa357653be53598f89c3c1edd7cd1468e92d9581591c2bd41954e2690d38c06f26ebee3d66e8d290dd84d752ae5273dbf15eb51676c448c174652e6a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4d066ede76c7adeb37d098d2167f002/a4d066ede76c7adeb37d098d2167f002.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/610c42da2dd2703e4308dca4322cce74b0e3f410dfa2d65f2ff4b630c41bf05029b6947a125583ed6165bd44a7472a83e47a1a67a9a4890d5c2cde0deaa6dd29a5bc8b438d978e5f41fe7b3913ad1157367f367ebbbdb4f0316f7c8099e12be0e24aa7e132b3fc51a44581c83aedb79f9f4934f37bf4e7905c041c88e38b640591daf9c265eb6a7e7bec965eeb64876f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4d066ede76c7adeb37d098d2167f002/a4d066ede76c7adeb37d098d2167f002.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "umineko-when-they-cry-2960?ep=86636",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d80d3158ffc287d09898b3a05a9f095cf7b9debfe22771f7ad15f8c11a39f6c02616bf03e325a9bfab137daccf4fe9d8ef6e44d361a7c80f065367a65b702578b6fa7df6fdda56514ba0acac3df406f622993032687a71dbe2303b932cfa6b26d23c551c816a36d56718cb34040b8a34f6f8aeb847f6ba2794540320a8246802/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e461b8df773aae9b691a42d097c73f93/e461b8df773aae9b691a42d097c73f93.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d80d3158ffc287d09898b3a05a9f095cf7b9debfe22771f7ad15f8c11a39f6c02616bf03e325a9bfab137daccf4fe9d853e65ddb29d83710021bebdd15885d018650456d7cbd12bbd7a12b33dec61f3fa905501553f804e39b596acf5e92e39f925347ab3f6f1834fd5104b6210b10f2447e214686e4a2cb1a6bf352dfc099b12797c6a189c706581a92aff16c57af42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e461b8df773aae9b691a42d097c73f93/e461b8df773aae9b691a42d097c73f93.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "umineko-when-they-cry-2960?ep=86637",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2afa62b7b504c27a281f66e17446c9d7003626a6b16f3fc1c0af3394297a7d89ace4f89b25c2daf3f261cf4b7433162b1f89b4312faf40971ca7c792d310bae9e5b6261af45a3817354fda872366d8c10cc718b8c49d62698c1edc10f3f8050d0d25349e808f9aa87a647c16b9d9b85310d1fec73206cc9b345b1f745f5beb3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c04e3542c1ca9e18f8d2906c1f2567b9/c04e3542c1ca9e18f8d2906c1f2567b9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2afa62b7b504c27a281f66e17446c9d7003626a6b16f3fc1c0af3394297a7d89ace4f89b25c2daf3f261cf4b7433162b020d5103caa78131fa15594fa4a00906b2add1c4fce558ed32440c42325bccca6b026b7a0a042ea4edc1ef56c8f72af5d60a1506d97320f50d8595c3a85d4ca902a0411573c1f451d74a788b6e34e6385acf2e2c07055f241409ec04a99238e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c04e3542c1ca9e18f8d2906c1f2567b9/c04e3542c1ca9e18f8d2906c1f2567b9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "umineko-when-they-cry-2960?ep=86638",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/32b1204366bf2ec1e6421f94b595e090eaf674051c84db9af449ca3eedccdf8e3ba9479f2b0745d8fd97b100e815733974a7f5636d4b35f37b5275c7b48d62affefa2bf6a26fa759b7705cbf92be258f62fa25b1381bd448447c95f4b113e6970abad4fe9b65826feef315c7de82958503c6be1929b0cdf2c9f73e5b3d2ce226/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1a094524c77122981c6bdccc9277e64/e1a094524c77122981c6bdccc9277e64.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/32b1204366bf2ec1e6421f94b595e090eaf674051c84db9af449ca3eedccdf8e3ba9479f2b0745d8fd97b100e81573396b23e3e5595852571246052a56373907281fa83b0db9a440d6dd9118dca4dd86785c833020b2d79a34326ba97661b3819ab8e948423050d62b946cf6510a067d806dbed5bbbafa62b87328faa48e425a8fdb545c4ade7a7aecdcc33c17f12dc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1a094524c77122981c6bdccc9277e64/e1a094524c77122981c6bdccc9277e64.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "umineko-when-they-cry-2960?ep=86639",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/14bcba61812e87d63eef2d784e09ff0c9041947d810bf1c6f3a8e8744a4708c0ed47a6ba3128f5c5d0978a9759f4ffa5055234d08c6ed28877ee8eef7997a5413f44598b6c4f49a3bed1a6486727086052998c4216c2300777ceba35bd2b00b8f62a1db48010647fd5caad3134f4a9070caa3aa0ffff030a9fbacd60a998dc6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e8de47fe1a01856f51eea2195ce113a/5e8de47fe1a01856f51eea2195ce113a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/14bcba61812e87d63eef2d784e09ff0c9041947d810bf1c6f3a8e8744a4708c0ed47a6ba3128f5c5d0978a9759f4ffa50d7373e75a96291272f739a5b600a268c6ac2b926a11331d3e6fccb12cbe58d320fc20fef5ec3e7bd23b49936bff1a25eccec5381b85faa02f077982da905961d3da24a6635b8c40944c1646d2f1e7ebffa97a1ab52936080fc444756fa67a3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e8de47fe1a01856f51eea2195ce113a/5e8de47fe1a01856f51eea2195ce113a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "umineko-when-they-cry-2960?ep=86640",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f478bc667e0350d8b6140fddfb736dec6193c018621d05e3cee2de8fdc8b4c0048bf104c4202d39dbb6d9395ea013ff0d8f68b6b219e5263c948037e9ac5f4a443453efbbf3c84df68e5999037455ee13fccc2a7449ac0ef847170d4f9bebf9f93f8e4428c59e40f01845f6abaf982e51997fdc6e57e3e6db38636ffd44b848c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8380e43fdc7a409c47d5b6fd58fe313/e8380e43fdc7a409c47d5b6fd58fe313.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f478bc667e0350d8b6140fddfb736dec6193c018621d05e3cee2de8fdc8b4c0048bf104c4202d39dbb6d9395ea013ff08b6953d701d2e258d139411de49b3602961326bc147fd4590c702658a555336f00c6825eb3f02a7403379373ba1cac96abdab401b140e6a8c2d63918b51aed44476c8322b31bbfcf6b8fda97c9155849dede5de4d4144f80b2265a4c4d00bbb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8380e43fdc7a409c47d5b6fd58fe313/e8380e43fdc7a409c47d5b6fd58fe313.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "umineko-when-they-cry-2960?ep=86641",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a145a448bdc208f93306df90f61b0074aac072a84e70fbe870b58d9292d5cfead4013f4954b90dcd06fd454440635a703816ceb721bc5baaa8e00d7138bfb52d057a0d9fd9f582b6dc1461e80f427a009e317a4f531ec0e89b77766afb0c967c5c8d1cde9776d8db8471cad99e0f3137491b1484a8254d4b58782a37ec644ac7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb5cee985360b218018121c31bbb558d/cb5cee985360b218018121c31bbb558d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a145a448bdc208f93306df90f61b0074aac072a84e70fbe870b58d9292d5cfead4013f4954b90dcd06fd454440635a706eb2ae7b66cfd87dab3686262751949587e3d09fc564b9d6e5b2130b7ad8ac5f6b9ee32803a1237f3050fa690fd8d6eabc75770a6fe47c44bd8aec47f4db9e859372dbf587e5a907d8ee9cc261e3fefc7c82b62b22a2e4828ef0e71477dface7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb5cee985360b218018121c31bbb558d/cb5cee985360b218018121c31bbb558d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "umineko-when-they-cry-2960?ep=86642",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/344a54980a495f95f39a4ce34afaf99c2d5bfef19a0820235c9284215334159f8b7e6bc133d456e80adad5fba32233fc10e0911efc9d0fa9b2d30bf75a9ab8001a7564f25839b1e1046ba71dfdeaf74fc0dd198e5179cc318bf4a90c084961b9b416661ad064984ad36841c1aa78145937a2183281ac30645c7268e2e8e5f7f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f954ac97d23e1d8e7c8dfd00a2d13ca8/f954ac97d23e1d8e7c8dfd00a2d13ca8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/344a54980a495f95f39a4ce34afaf99c2d5bfef19a0820235c9284215334159f8b7e6bc133d456e80adad5fba32233fce4f8e8644fe9884a019fd287203b587d05a62a42aec21abfe7f5b1e5755fe282478b44911329a718439a69acb6947c91fc4f76bf98e89983e2d616415cfad75fc23111e70489ddb09008f697dc0a1cf507a08908608b817d97940190b5d0e59d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f954ac97d23e1d8e7c8dfd00a2d13ca8/f954ac97d23e1d8e7c8dfd00a2d13ca8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "umineko-when-they-cry-2960?ep=86643",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b6ea2f57853db1a9cd12c0fa7a10b4571bb15ba851b8aa028014bfefb2a4f04b9a92c7efabb44f8afb982c9ef02896dcc1602c547b3db3e30954364c02836f7812189fab4e5aead1596d4bd2b51b950dfb17b0c1019bfd0cbf12b8e7f6c68010a9a6fe023e314f70032edf860159b78b6d05c8513ca98d1c91cc103a956683e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54f6bb624bc2a502c92dcfe38921716a/54f6bb624bc2a502c92dcfe38921716a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b6ea2f57853db1a9cd12c0fa7a10b4571bb15ba851b8aa028014bfefb2a4f04b9a92c7efabb44f8afb982c9ef02896dcd4d9e3a2aa5e5f4c3a69c561829892e294920b8e4636fd12121c173c0fdd4dabd7cd0d3cb099b8754e95061ac89b41dd19469194968be53b386716378f7c965cadf3bbf2cc9b1b90f90d2c50284ac3c76ee07215e361d3ad1afce259ca29d072/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54f6bb624bc2a502c92dcfe38921716a/54f6bb624bc2a502c92dcfe38921716a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "umineko-when-they-cry-2960?ep=86644",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a15356706deeae4deafb5a93c688472b6c640e23e4bd407c971e906208012a5abd9f0a8edcd5cdb5ad202a140a7cd9054455638ebdd55962f48705274ba3f5bf1d82b048f02a6234fb85d96c02f9eb9847a55a17105103c375d5b30b6fb849ebf3c985f9b9f3eb02ccf70556e7c0304c17042abd5bc3768a8c67fb34962b55b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c95e0a236b4dbafe5457fbaa05c9a06f/c95e0a236b4dbafe5457fbaa05c9a06f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a15356706deeae4deafb5a93c688472b6c640e23e4bd407c971e906208012a5abd9f0a8edcd5cdb5ad202a140a7cd9057c51539f02f7914970c9598e15eb62ef26e65b2cb2c66a0a0171bd8d60a83bbfef56cdda3daa71e5b1db2177dd1879b7e15f89a83b1749c131168bd5e405ee21425b141611f74460b962320ffeff33e42dbf0e3afba5e76678c7bf3eec3f81f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c95e0a236b4dbafe5457fbaa05c9a06f/c95e0a236b4dbafe5457fbaa05c9a06f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "umineko-when-they-cry-2960?ep=86645",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/19631f726a251636f333af62ba9c4e75b42af79b3166191cf0c0920af256cc88ec5598b2d302d675b2ec2ac940e14895b5ddd2c1dc1a7db4930382dacfdf56504eda22d63b9210cf89b0b169c6e7f1ceb7486f8d7634ca26bb5ddffdc3e156a40c869a7f335d71cced7edcc6950b9c14cb2fc335cb512c77bf2acfee9bc261d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2657b031743b60a1374afce88183cc6e/2657b031743b60a1374afce88183cc6e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/19631f726a251636f333af62ba9c4e75b42af79b3166191cf0c0920af256cc88ec5598b2d302d675b2ec2ac940e148954cdce0e37a6bf9dd5f0656b68e08ea18076e259e7828287735a4cef2e5861116d10d80126e41ca7574eb8c33a35b18352aaa8f40b929d618df9867b62ed88be94e0702f44ef9839fffcc8d007b1366916969661cc54e310aead86e5d2a459acf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2657b031743b60a1374afce88183cc6e/2657b031743b60a1374afce88183cc6e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "umineko-when-they-cry-2960?ep=86646",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5cbe0d72d2cc64daff25200999bdbc8391f8b4662053505e15a7cb9710780f2309e09a204176f36f48ad39a4ec42883730eacbf7b2d9545fd58d02ef92b4bf50f328ec75c531bd782ce765a9b67d6ba6baaa403362a8e2fe71314c92f2efc487ccaad7f828b835a08ab08888197a72320a44f95b420f2fc218b7ea0f89fdfd37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eabff66d5afeb1b95d42b09855ea7f7c/eabff66d5afeb1b95d42b09855ea7f7c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5cbe0d72d2cc64daff25200999bdbc8391f8b4662053505e15a7cb9710780f2309e09a204176f36f48ad39a4ec428837e990613087258725d2ccaaa9232782751870ba14f8400e9d473b0e7968b00007e53a074cc3f73dd012cf27b7bcbdd4c28e76043891bc4cfb77a0dc16a61b6094e762870dc582fc3936a0ae224a155f5655c16ad1210884eb02ae0f2cdf514917/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eabff66d5afeb1b95d42b09855ea7f7c/eabff66d5afeb1b95d42b09855ea7f7c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "umineko-when-they-cry-2960?ep=86647",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/946a8b3fa087dd52ee354a3f873d1ef9730e02b3f171c877c75f0bfc16cc9c5256cd202ca928c16daa99c31b8c05adb2eddf070d4a8b5060330b69015d377ca4f28e428ab97e2adbcc91cdf1f57d140b571a29792ab81606a2048763d8e03956eb0a2f50b4eb09417f5bd0170615cf670fdacf6e98746aaee13f575dfdcf5583/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec28f893c9291cf400d1e0874f9c9496/ec28f893c9291cf400d1e0874f9c9496.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/946a8b3fa087dd52ee354a3f873d1ef9730e02b3f171c877c75f0bfc16cc9c5256cd202ca928c16daa99c31b8c05adb2c0fd691e33d7fe1787597e2969d72c61bcf953163548e587d08b2ac8998f37dabb5e67df7676675fe8688a498635b1c9af3c9147096fa2c3cb4bf83432d78b4cfae7a4b2899e327f1a111e4a52a2bcd443df403f357fe855b704a8dda594a7f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec28f893c9291cf400d1e0874f9c9496/ec28f893c9291cf400d1e0874f9c9496.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "umineko-when-they-cry-2960?ep=86648",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/57f1b908d024371a1fc4dcb3db4c4eadcd10f5b4e1b0e31204b09656c45f83d7516a6219fd7b687718f078f9c62d8605c18726230809a3fa3eab96cd2ead442c225b50d0a5f20ba048f25b3e70450da307b86cb2f934e3a78ae6f691d6eeb9b4c491589bc41583ede61c7bc509ea5c612513b2bd78384497e6751f6a32a7a635/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d4be037f8c9b20617ca92787dd9f8fb/1d4be037f8c9b20617ca92787dd9f8fb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/57f1b908d024371a1fc4dcb3db4c4eadcd10f5b4e1b0e31204b09656c45f83d7516a6219fd7b687718f078f9c62d8605ae6e286ae1df9b2165a0f2b855bb8daa4ba9d9e25c0087c6244945829090e0cac2922e7d76cec1496481a8377765e05fddc8c5e26d17ccc9bc0c209c2b88f78f02aa56811d20e1acea5326300c04c34ccb6bbf45bdb287e5e2c782eb2c25893c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d4be037f8c9b20617ca92787dd9f8fb/1d4be037f8c9b20617ca92787dd9f8fb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "umineko-when-they-cry-2960?ep=86649",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/23d57d74a70c7842bc324342f9705b2b8246be0d58b6c3f88e42b4477ebf2203da4c7c0aa409d72611cd5de79764db5b5d0ce679efb2c37211a0da67f12371e548cfc049c1b5ef4699f8e6f4a1e2bee60692e78c2c1aed41f534e81850bf2dd20cf713182c355700340948caa886817a2e5744c8041b3ce57d7b5ab10a71da9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ac1720b930311a4d028abcb25bbbfbd/1ac1720b930311a4d028abcb25bbbfbd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/23d57d74a70c7842bc324342f9705b2b8246be0d58b6c3f88e42b4477ebf2203da4c7c0aa409d72611cd5de79764db5bee78ae0e16dcc3592babc10a546b52055842c54f86746f639a449b232a36fe32381f570c77ab5a1d21ff725fd02c4af06fe7c7fd4851e9bcc953b440ebf0336b709629f3c33d22abbaeda56556b543a451169a4af7ed51a9fa72709fb0091511/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ac1720b930311a4d028abcb25bbbfbd/1ac1720b930311a4d028abcb25bbbfbd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "umineko-when-they-cry-2960?ep=86650",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0a07bbc04d25ead57315922b6fe8bdc2b1cce5deb1f86a62bc3df5644a1ca85e5d3f1d5712d522a42a1363bd7f21538c279dce404e5390c9d714133784130d707a4d307b40dbdc5c90685a1f552f9cc370405301d45daf5190dc61883f6499f45bf9aa1e379ee865159826f51783469560283f66eb9e8346c6c2ff515032d882/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89156718f8439a235cb5ce070a7f938a/89156718f8439a235cb5ce070a7f938a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0a07bbc04d25ead57315922b6fe8bdc2b1cce5deb1f86a62bc3df5644a1ca85e5d3f1d5712d522a42a1363bd7f21538c9810e3c998faa7f898b3884a13c4894677f5343eca64114805cc95a5e31d2ae15876ce329f22ef3d47359a1781e78bd11bcd4aa03ed001ccc762460da104c8ff6474086641556c893b8c99ac9aab18b1bf5ca9cb6800bd83bfff9d0c53ef4e57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89156718f8439a235cb5ce070a7f938a/89156718f8439a235cb5ce070a7f938a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "umineko-when-they-cry-2960?ep=86651",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2d528e2e210f4544503c9d4d6ae804b0e1b22c3caecff59aa36635a805fd8ef5d41d65bb81735ae4f7e366a98936e8b83bdbc2c8dca35211cc85e2360bc7305b8bef9b3606d8e0da3b61a764f0e5644e23887a671dc734c4bf6c893de160b1c68e001e8b98fae7ca9f9dbb35c8238b69259cd72f1e199484848e47f5c7070b03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3e36455461b4eff5e82acff68475a2e/e3e36455461b4eff5e82acff68475a2e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2d528e2e210f4544503c9d4d6ae804b0e1b22c3caecff59aa36635a805fd8ef5d41d65bb81735ae4f7e366a98936e8b87c9a5e981aa380a22ae0d3f3c02c9651020423d4d060b02a9bf940bc45abe7ab6940eb6e5ff72ff3a075a334b5feae6d35d645d96b2f6654a539204eee187a38f7845e5f000dabdddbc6a51bcc300c38bfff48e4e5b0f5deba08b23a20288276/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3e36455461b4eff5e82acff68475a2e/e3e36455461b4eff5e82acff68475a2e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "umineko-when-they-cry-2960?ep=86652",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/086c3382bd11e68c44e4f7d900c82e88dc436c83490e0ca3f88537a3b92e95e3f189608a117838bbb199ee8ed67b206b95a0db8d7d94b4e5f1d466abb4de7cd0c5610d561716c3a3933153c5034e14af78105cc26ab4bbc36bbd0001306cf5a200a7836db649007e0a4905d5e775a38ec8a1d215ceb6c387dc84857fe29803e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55883128e4e981be6f337da1049275b0/55883128e4e981be6f337da1049275b0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/086c3382bd11e68c44e4f7d900c82e88dc436c83490e0ca3f88537a3b92e95e3f189608a117838bbb199ee8ed67b206bf0ced2fcc7e7610b4bf446cc37686e89a44d6b2d2413d40f4d1d2c7897ece2590d9d0801f57dc7e4be333c1bf4f221ee763e6e3b1f21c441ec4d33bcc2168ece77132594a27a80d868cb4078b394c45b241f8906d1fcdb34519c8802939e245e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55883128e4e981be6f337da1049275b0/55883128e4e981be6f337da1049275b0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "umineko-when-they-cry-2960?ep=86653",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/961846dd893adb9c5c030c7956a4de14a10618fb0877c8870e2b10b0b53f13fdbf7e4583a7a2523240abafd34898ba5c70b736785d4260b0b1550ca272c89567675da0b8a02b47b35ec8c7f025dc9413ea3ace3fdd13bc8b34753914cf089ce6ae22592bcb2106a38b6a6c94457a68c4a8f5dd81f5e9ea18290b2e0e0b88a949/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77a791a7996243c228804688e5716684/77a791a7996243c228804688e5716684.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/961846dd893adb9c5c030c7956a4de14a10618fb0877c8870e2b10b0b53f13fdbf7e4583a7a2523240abafd34898ba5ce56cc0121afb7f7e3ced0557f049a283afa691a3d5f0f390a84cd25f3c5c1b5f7bb58efbb7d6a969c4253611c3f2ea2ea7c7732536ce2a9984736b5dcf88c487cee7a64936f0daac57bfd14854e295c4f6599ec5e6dc150e4092558450ce7072/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77a791a7996243c228804688e5716684/77a791a7996243c228804688e5716684.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "umineko-when-they-cry-2960?ep=86654",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/03cd013df6b15c79a89b5d45e2ed51f8d85ecc1fc3e0798047f21357660946b50da0a24d8e6d6c3625ab22345275f55e668a001a840fb8e7fe5d19cc307b6d90a67fdfd0b7784f6921b23edf840e6b35382eb4ddcf91f3c7a9656cd30a50bf04e008b33330ac45856249b12465d69847deab85b4fbca43a50c4505d90b0878db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e94b81e6707fccd3575c90f2605826d3/e94b81e6707fccd3575c90f2605826d3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/03cd013df6b15c79a89b5d45e2ed51f8d85ecc1fc3e0798047f21357660946b50da0a24d8e6d6c3625ab22345275f55e9bfb60fd8f9f1416fcdbaf98944937553c08a7990d463677858b6e5b7bc0f28ff84d6a8fd219470985470a5bc714382cdaeb68a29a86448e4c9758179d89caf24a2000d00fc97485ec84cd9c17e769f531c294ba36e9f666fdf0d0e3642ba33d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e94b81e6707fccd3575c90f2605826d3/e94b81e6707fccd3575c90f2605826d3.vtt"
+                }
+            ]
+        }
+    ]
+}

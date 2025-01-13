@@ -1,0 +1,373 @@
+{
+    "info": {
+        "id": "kinmoza-2418",
+        "anilistId": 16732,
+        "malId": 16732,
+        "name": "KINMOZA!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca0fa3c8c8b15d0114a0899668e59c75.jpg",
+        "description": "Shinobu Oomiya once left Japan to participate in a homestay in England. During her time there, she became close friends with Alice Cartelet, the daughter of the family she was living with. However, when it was time for Shinobu to return to Japan, the two were able to express their sorrow despite the language barrier between them.\n\nFive years later, now a first year student in high school, Shinobu receives a letter by air mail in a language she does not understand. This letter is penned by none other than Alice, detailing her own homestay in Japan. In fact, Alice will be attending Shinobu's high school and living with her! Alongside their friends Youko Inokuma, Aya Komichi, and Karen Kujou, the five girls attend school together and learn about what their different cultures have to offer, day after day.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English version",
+                "source": "https://www.youtube.com/embed/qGf5rZ9iyfg",
+                "thumbnail": "https://i.ytimg.com/vi/qGf5rZ9iyfg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/i4FnbWiscNQ",
+                "thumbnail": "https://i.ytimg.com/vi/i4FnbWiscNQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-sec version",
+                "source": "https://www.youtube.com/embed/XW4JBTCYGFI",
+                "thumbnail": "https://i.ytimg.com/vi/XW4JBTCYGFI/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15-sec version",
+                "source": "https://www.youtube.com/embed/e_wpneDBkN4",
+                "thumbnail": "https://i.ytimg.com/vi/e_wpneDBkN4/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Kc3Hna15Cbo",
+                "thumbnail": "https://i.ytimg.com/vi/Kc3Hna15Cbo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "alice-cartelet-3885",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64a98a141082709100bde8f37e0934a2.jpg",
+                    "name": "Cartelet, Alice",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "manami-tanaka-2884",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06ad21aae288f509c145b02b465a60e8.jpg",
+                    "name": "Tanaka, Manami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "youko-inokuma-5483",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/774e727470574cb4dcb3fd404a2bd351.jpg",
+                    "name": "Inokuma, Youko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumi-uchiyama-627",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a151fad3aebc1074f76fa54212dca7d7.jpg",
+                    "name": "Uchiyama, Yumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aya-komichi-2251",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b3e202cd87504ece2d78208b2321bbb9.jpg",
+                    "name": "Komichi, Aya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "risa-taneda-73",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19b89e30261bfe5753ffef0e2057843c.jpg",
+                    "name": "Taneda, Risa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "karen-kujou-786",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df178d68db7fea55fdc1549bbe9158c3.jpg",
+                    "name": "Kujou, Karen",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-touyama-41",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aaa7817d97535166c8338bd9254b67.jpg",
+                    "name": "Touyama, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shinobu-oomiya-6629",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7189924173b0d353a685df57619fe377.jpg",
+                    "name": "Oomiya, Shinobu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "asuka-nishi-1637",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fc45743ec2f8e4e942086010d854eba4.jpg",
+                    "name": "Nishi, Asuka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "father-cartelet-97621",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c7c519976612745a6b81195e4a812c25.jpg",
+                    "name": "Cartelet, Father",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shinobu-matsumoto-5062",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3ec447987127af8ff9643c74f21f5388.jpg",
+                    "name": "Matsumoto, Shinobu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "きんいろモザイク",
+        "synonyms": "Kinmosa, Golden Mosaic",
+        "aired": "Jul 6, 2013 to Sep 21, 2013",
+        "premiered": "Summer 2013",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.28",
+        "genres": [
+            "Comedy",
+            "School",
+            "Slice of Life",
+            "Seinen"
+        ],
+        "studios": "Studio Gokumi",
+        "producers": [
+            "Media Factory",
+            "Showgate",
+            "Studio Gokumi",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "...in Wonderland",
+            "episodeId": "kinmoza-2418?ep=27552",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/631ead140ac177ee2280ecdb57f8c09387824acf9394ba0582b5173fbe99e38cb1d2bdd01e95325d81b55b594ad238a1a3ff7d9f05952b8b92980509013c337a6dfcd4008e08077a9a78ad9f65ebac7482d2082868a8e99d6df50e3aeebd08787900efdf6c6d2a0a5b2cd2db22b129aab772c84396b60d2909c3ceff597562a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0bf35f9d34f79b14b2a1abc88915e024/0bf35f9d34f79b14b2a1abc88915e024.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/631ead140ac177ee2280ecdb57f8c09387824acf9394ba0582b5173fbe99e38cb1d2bdd01e95325d81b55b594ad238a14b43a68fc35949f1c6d6d4f8280c24f54f77f9dfcc22e827c57309405afbc31aee3fa0a1212daa5e86dd94c2a1a10502195612a142de43285192a7350be9e647bb111aada4180870dda1ac44aa88a01aa247049fcdf81423b58d261364ce4231/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0bf35f9d34f79b14b2a1abc88915e024/0bf35f9d34f79b14b2a1abc88915e024.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Even if I'm Small",
+            "episodeId": "kinmoza-2418?ep=27553",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ddd0bac7f476627307f8a4ca39430bc891b3ed92feb2ae2bfe7373ba08d39a7227bb9c5c04d5e23f286a113973de844099107489e72c53ec7412e6c6b7d9ec922903b485441007fb37abf477adeec9567ccae67d9113bb8a5cd39f1af06ae43a36e28b737aa3f72935836d894e98d86aad4f165e191bf9dd43d5f8f70e9536d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/480d83d867075ad8b08b0badb333e860/480d83d867075ad8b08b0badb333e860.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ddd0bac7f476627307f8a4ca39430bc891b3ed92feb2ae2bfe7373ba08d39a7227bb9c5c04d5e23f286a113973de8440c1bc29091e6420eeabf0a881a1931e4f7d2ee8d918f7f3c099d10debf6f81a88713b4ce2a4131c97bdda70e8652e7210bcdc69a1876fd2daa29d0285f4daa60e93ffe503364c68219b61b12398d19ab4451369491796e7d89fa8101fc4a1569d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/480d83d867075ad8b08b0badb333e860/480d83d867075ad8b08b0badb333e860.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Kind of Friends Will I Make?",
+            "episodeId": "kinmoza-2418?ep=27554",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bf1f24485949eaf75535ca117b69b2edc12a84283ae8aafeb4367cd674fb35741eedc38f91eddd1169120df682c34cfa0cb95f589083b5458c5fb56e5e9bb8b57ed4ba726487d13bf42eaa94fcb69181722ed09357a6a059651c780afbb626179b6037396f69eddad90deedfd6d9284e117c3970a97b3d6c54c788851b0598b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f69529cdd01fc4b2d568552d480760ec/f69529cdd01fc4b2d568552d480760ec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bf1f24485949eaf75535ca117b69b2edc12a84283ae8aafeb4367cd674fb35741eedc38f91eddd1169120df682c34cfa18c7d5e1ca74dc7fef2a9b5911b606413a7a30f144139893f46b92b8edb49e23e756bb97b4c55e67d067dfb1d6f3bcac006912c38e310bfe79f3384fc8e338c0a8c3066ed88d376f9387ee6fc89851c720409713428261608b33a6af4df6df35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f69529cdd01fc4b2d568552d480760ec/f69529cdd01fc4b2d568552d480760ec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Aya, Nervous in the Rain",
+            "episodeId": "kinmoza-2418?ep=27555",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6ed0a9ffe14792fd56b9c98b93c2d02a3e44d7e035864045272b1c0350ea5ea53a933afefcac1a3486048ef961c334437232d2f7ebdfd4f8670bf8375df7d67c8b17058f1fbc0c23e5792ad869f9483f6a2fa2533398fe5dc3104d23efa2b44d863d7bd11415daff9a177a24eb7d7a02eeb186a634dbf95514672d85514d7af5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbc95d956a6b3da86818d3b6f50093b5/cbc95d956a6b3da86818d3b6f50093b5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6ed0a9ffe14792fd56b9c98b93c2d02a3e44d7e035864045272b1c0350ea5ea53a933afefcac1a3486048ef961c334434e1e8e63ba87c9e1d3fbe1e3a3d2b32f8f67f6e9129db005f28ffcff3aede7818c72ccfad1f13acf613b2c44549345b1e9afdb579aaac4984ffce2f8d1f58f1b1e3107555cec0bf703a10b1f9889775bee2a597002bff5758f0b31430b6f5fea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbc95d956a6b3da86818d3b6f50093b5/cbc95d956a6b3da86818d3b6f50093b5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Together with Sister",
+            "episodeId": "kinmoza-2418?ep=27556",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/73c944a08581204565dbaac7919e7d4641184f1d0328d23259701ab8634b297f046eac403cf276e5261aea8f2d86363c55e014b97c89423058f2c69a264444c4a7fdd26ce7d8cfe981fb83f68a18f6440116fa80f5ef03d7d04574b7f45f5895ef20c65045f76f8edc8d3bccb10e4bc7d686ce812ee11dea7b1f3dd230bff228/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e7e06425df232feab2aa1747a72cd73/7e7e06425df232feab2aa1747a72cd73.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/73c944a08581204565dbaac7919e7d4641184f1d0328d23259701ab8634b297f046eac403cf276e5261aea8f2d86363c5ad845de7f8a149eb60172ed1002586f5c249043273a00fbe7f6c4fa72c309b7dc5758e9e9c47c6476755126e5a95d78119fbb5c808e95a6c536eac745b6ac9247fdb2b7ad69e65bd41d0259e6fbcc4632912dab3bf5d6a9cf361cbaacafb284/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e7e06425df232feab2aa1747a72cd73/7e7e06425df232feab2aa1747a72cd73.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Golden Alice, Golden Karen",
+            "episodeId": "kinmoza-2418?ep=27557",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f2f583c2e2ad7d7a0cbe58c4ccfcc8434336ebe33ad866483414db62a0318e10f6e45d55026505e610517bf55ee249361b29fa95bcd70f09039836846730fa6fd473620c0fd6b0a472115b48b4b8c1a7a7987ba36fccf466c86e6c640e3b1fbcffd5eeb29c814060869888a08da67d05ebded76d869156342eab83226d3547a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ace11adc75e35826bdc5880adb6af4eb/ace11adc75e35826bdc5880adb6af4eb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f2f583c2e2ad7d7a0cbe58c4ccfcc8434336ebe33ad866483414db62a0318e10f6e45d55026505e610517bf55ee24936daf76516a15940cc4f5581a437d5cc159db11a8c245d02990d7721ead0fbc2d44284b9c7da82cddc068df575be2d4f6226e400fae08a42aa1bfc7b5eede7ff2ff26afce45737f068478c716d7b1aae438f1df9a471e3ee180d13d794bc8aa278/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ace11adc75e35826bdc5880adb6af4eb/ace11adc75e35826bdc5880adb6af4eb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hungry Karen",
+            "episodeId": "kinmoza-2418?ep=27558",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1e9ef2616bfbb2a961913586224d6307244667dc2410d7cc748a6c46f1fb8db7f7c8b73592215c0f18d65642dcf3d915241dfb0df405ba9d3ca93055459cb313b21b7df73b0b02a3ec50eb2696a2c622b4329cad3d206857f98652babe6b2357bcfa9071b629e7bb8c1a8ef7a6728baf3ae9b8da75f129900064b40fe7e9e542/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41c2273b5bdc8d8a0d70006d795fe2d3/41c2273b5bdc8d8a0d70006d795fe2d3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1e9ef2616bfbb2a961913586224d6307244667dc2410d7cc748a6c46f1fb8db7f7c8b73592215c0f18d65642dcf3d915ae7760e0f3727672d9fd8deaa2d919d65e6203c9398f9054af7fe9f85d17fc686b07e6ab3b94b20578f837811d807bf3692f91ed9cb4e90fc2cf694d5a6fdd04a74de042139dec092f1e530a36cffc61a03b2075e6601422b2c4eedfbd744b27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41c2273b5bdc8d8a0d70006d795fe2d3/41c2273b5bdc8d8a0d70006d795fe2d3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Day is Today?",
+            "episodeId": "kinmoza-2418?ep=27559",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8965459269ce6f1cf5e07529f03ae0ca08a026d1884b03d1fcfe8766f01ae0d8e75cdee513d1f8bf22718908cfff6ffd0708890cf2252a6ec8b174f5521319cb5f1ad70cb486fcbc03c73f3b388de37ecceecc13eb1761bf75997d18f1e3c3f568013b5671b5701559274fc651eb79eee697c6fe014b9aff7d975cf896fa6622/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2223139414d97f7f35c5e935dbf996ce/2223139414d97f7f35c5e935dbf996ce.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8965459269ce6f1cf5e07529f03ae0ca08a026d1884b03d1fcfe8766f01ae0d8e75cdee513d1f8bf22718908cfff6ffd732da3f752c99369f874bd91c3ae1465b7f6c1ef427683fcda1813bfcaa27908034c9cc441629888601520049e1e94e67f0ebaa27a1e96567b6a262d0bababe5deccc8d6309f25e798e64b4f30e19801fc4663a2d2fb6632dc3ba23d5b7bbe42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2223139414d97f7f35c5e935dbf996ce/2223139414d97f7f35c5e935dbf996ce.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Who Isn't Sleeping?",
+            "episodeId": "kinmoza-2418?ep=27560",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/872802c6a8476c91238660c921858d7f01c342b1e83de0937dd86e444ba821560403d7ce8427f84b5aeeed9b842e1f038e1822f3807acb7e58e13d3abce16056883cf98643cb6a00328cc1cd6c3b1517793abffef330273d87f3c486087d461323277d1b68bbd52d53a931a15a2d37aaa646ef573fd9f8652aa123ab0e6cb497/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c80c67e5d679b0f8297729a02af50a41/c80c67e5d679b0f8297729a02af50a41.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/872802c6a8476c91238660c921858d7f01c342b1e83de0937dd86e444ba821560403d7ce8427f84b5aeeed9b842e1f03dbbb19ca522bea06d5904a315f028e974900c43a97096d837dae9dc4a3db4d5b76da9c4fb74a82005744f3be44b6f2bb769aff27d1e22b296278c45f59b1ed3a4926787412be6ad9fa94394354df98f3e00f5b2d5914fa179fbe193220356c96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c80c67e5d679b0f8297729a02af50a41/c80c67e5d679b0f8297729a02af50a41.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Wonderful Five",
+            "episodeId": "kinmoza-2418?ep=27561",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c731a5b889af89214953fa5c41416f73c59e65a8ad76fa691fbfa2955768f65babce50c103b1ce8c1cfe7613208a133ca89e8a37c7374c86c03e5a72136232b52236f6227b8d2813ca768acb3d775de509d4ca4dc89131cbc97be348ca3a9f65b5bf78acaefa34df9f34b186d69acaa427a2822f3d4d8bb106a2e529cde0d507/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0dad7f0a7ecb8ae458547f262c525a2/b0dad7f0a7ecb8ae458547f262c525a2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c731a5b889af89214953fa5c41416f73c59e65a8ad76fa691fbfa2955768f65babce50c103b1ce8c1cfe7613208a133c9fe980da6b899e9f5c568d1f391ee75f6be6d13ff169ec243fa44a048b15f51d41045d15c731d304936705874b47e5fce04bf801fd2678bfc7bd2ba0ed344cad73ddf59acb6eb20aeca39987898d1804aad52826e4a4886b73d515a12106700b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0dad7f0a7ecb8ae458547f262c525a2/b0dad7f0a7ecb8ae458547f262c525a2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Try Guessing How Much I Like You",
+            "episodeId": "kinmoza-2418?ep=27562",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0adce88e4bf763d87d934f7a588c92110c58b570bc2cddd4df65bfdb5825fa9d61d67c0d153db8a3ce4516fbf4ffc56e82ac6c0425dcd2439989ffd08cefa448029a214e2f77325ce52657720b8675004575686361cfd7f9acd09337b45ba742b273ffe46f4e2efb089c633de8be2348d4eba4c74eafcd2a931309050e09c27f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4558b8f839a15d1b07a544f4873103/6d4558b8f839a15d1b07a544f4873103.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0adce88e4bf763d87d934f7a588c92110c58b570bc2cddd4df65bfdb5825fa9d61d67c0d153db8a3ce4516fbf4ffc56e3cef2b2f2dcbdfac9beea0f30a91e2186caae03dfbf6a312b6b4ff8b421f3ab6dc734bc2243ea7276f4a5d7c6eb7d579b75f918d052418245efbba6e845a4ddaec3af85c3cfeaed815385e4272100606e2396e0a3eefb2e0825d7230e6eab664/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4558b8f839a15d1b07a544f4873103/6d4558b8f839a15d1b07a544f4873103.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Golden Moment",
+            "episodeId": "kinmoza-2418?ep=27563",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/535436503a13f1fc2c2699f98c052d8363d4cc8ec0e2e6e63dee03819da5d4868c0b402868a4a8f798a82c9a080d18391c7842dda98dea35389107fea1aac379f77304faee18f78d936dfa3d8de570b4b25e34a0db93cb43855845902630528db4d62bfe0975ca49fe899bd18518a722b863f023b3214e72b5c7ab70c6bd6140/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8887fb6345224de50ef7dce5d5270f3b/8887fb6345224de50ef7dce5d5270f3b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/535436503a13f1fc2c2699f98c052d8363d4cc8ec0e2e6e63dee03819da5d4868c0b402868a4a8f798a82c9a080d183945a40683f7c67a2ed37ea007652fdd576833ee2b0a2c0f5313a003d9ef3b17c56686886cb68090ebd19bd48ea9decc655f298f3fcea052bf2337a3201e38354b3b6f3e281388a2360cead29be2efcb64f7f2c14f525d5dc97529eec6a1d921c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8887fb6345224de50ef7dce5d5270f3b/8887fb6345224de50ef7dce5d5270f3b.vtt"
+                }
+            ]
+        }
+    ]
+}

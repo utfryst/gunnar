@@ -1,0 +1,620 @@
+{
+    "info": {
+        "id": "days-2653",
+        "anilistId": 21578,
+        "malId": 32494,
+        "name": "Days",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b8306220e5980f21e40073b75967003.jpg",
+        "description": "The series is about two boys named Tsukushi and Jin. Tsukushi is a boy with no special talent or traits while Jin is considered a soccer genius. On one stormy night, Jin meets Tsukushi, and they get dragged into the world of soccer.\n\n(Source: MAL News)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/VKavtkIZXoI",
+                "thumbnail": "https://i.ytimg.com/vi/VKavtkIZXoI/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/lw35GUBeLko",
+                "thumbnail": "https://i.ytimg.com/vi/lw35GUBeLko/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/nWpOXJiBqH4",
+                "thumbnail": "https://i.ytimg.com/vi/nWpOXJiBqH4/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Tsukushi Tsukamoto version",
+                "source": "https://www.youtube.com/embed/c1aGIU3tMh4",
+                "thumbnail": "https://i.ytimg.com/vi/c1aGIU3tMh4/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Susumu Inohara version",
+                "source": "https://www.youtube.com/embed/3x3_PWWoXLo",
+                "thumbnail": "https://i.ytimg.com/vi/3x3_PWWoXLo/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Kiichi Oshiba version",
+                "source": "https://www.youtube.com/embed/EouuyEJL3qM",
+                "thumbnail": "https://i.ytimg.com/vi/EouuyEJL3qM/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Jirou Haibara version",
+                "source": "https://www.youtube.com/embed/uYI6bdqopmQ",
+                "thumbnail": "https://i.ytimg.com/vi/uYI6bdqopmQ/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Jin Kazama version",
+                "source": "https://www.youtube.com/embed/zBS-foxak2U",
+                "thumbnail": "https://i.ytimg.com/vi/zBS-foxak2U/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Hisahito Mizuki version",
+                "source": "https://www.youtube.com/embed/Lg9BcDxstPE",
+                "thumbnail": "https://i.ytimg.com/vi/Lg9BcDxstPE/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Atsushi Kimishita version",
+                "source": "https://www.youtube.com/embed/Jv9RAxpx8-Y",
+                "thumbnail": "https://i.ytimg.com/vi/Jv9RAxpx8-Y/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kazama-jin-7199",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81d3db55af7e18c4696497a50ddd1d20.jpg",
+                    "name": "Kazama, Jin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsukushi-tsukamoto-5136",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/193740d8b8260886961d0ed6af5c0a5a.jpg",
+                    "name": "Tsukamoto, Tsukushi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takuto-yoshinaga-3256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/459dfc457493486f27abb7ffcf3b30d7.jpg",
+                    "name": "Yoshinaga, Takuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jirou-haibara-18971",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/63e022c1d410636457121e81401acf55.jpg",
+                    "name": "Haibara, Jirou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiro-shimono-72",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f3d8de1d0339c9ba323e32448a0d029.jpg",
+                    "name": "Shimono, Hiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mayumi-himura-123543",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/90c774c12c419e7b5731c6e46e1e569e.jpg",
+                    "name": "Himura, Mayumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenn-298",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7adadfad90bfa5741d587a20acabf0ec.jpg",
+                    "name": "KENN",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takumi-hoshina-98722",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1ee78e1588631f48b26eabcd8f5befed.jpg",
+                    "name": "Hoshina, Takumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuuichi-nakamura-22",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb5bf905046aeba973d1b3001de50806.jpg",
+                    "name": "Nakamura, Yuuichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaoru-indou-18587",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a2fe78a985c2a3798523b7b48aefeac.jpg",
+                    "name": "Indou, Kaoru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-seki-101",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b30017b6da7c11931379c4c2be2577a3.jpg",
+                    "name": "Seki, Tomokazu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "DAYS",
+        "aired": "Jul 2, 2016 to Dec 18, 2016",
+        "premiered": "Summer 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.22",
+        "genres": [
+            "School",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "MAPPA",
+        "producers": [
+            "Dentsu",
+            "Animax",
+            "Mainichi Broadcasting System",
+            "Pony Canyon",
+            "Kodansha",
+            "Tokyo MX",
+            "Lawson HMV Entertainment",
+            "BS11",
+            "Animatic",
+            "Techno Sound",
+            "MAPPA",
+            "Ponycan USA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "With Just That, I Feel Like I Could Keep On Running Forever",
+            "episodeId": "days-2653?ep=28942",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ad7fb8bf00193b42d83604ce2039c92de70c049087af29cde3ee3bfb82953636df377b057ead066c497771dd1f5cd2a7fefd4098cfd18e0cc7a594ceb06ef4047f03509bc223a4c8d2fbfd945954108ae8fc76f8897c92c2c9fd7b561e563f83eb82105029585f1eb0e7f6d9a1a487f511158a6dc7c63d80c21f9fb320548c15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71325b8f6e5e2c60eb42fbf4293710bf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ad7fb8bf00193b42d83604ce2039c92de70c049087af29cde3ee3bfb82953636df377b057ead066c497771dd1f5cd2a72309e3c55aaa3c426daa4c913896b38fab4ebf651170cd023ab9be287d0dfaeadebf6a4484fec9ed9c4ad498d2c0877521f6a311d8e1066c4d137b7a5e8c269b20dfcd74567223f694910df876948b0671d394f317a13f7d98d7ab2d9ef8ee55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71325b8f6e5e2c60eb42fbf4293710bf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want to be Part of the Dream",
+            "episodeId": "days-2653?ep=28943",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/dceed8e7946fcb7e5b46ea41abca7cbca8b9fb8151913560dba91f2bcad0735e1867f783d0a9d00119970684e0f27cc6b0444a10a2a0b8451ac66790a0f9ed8d904500a5983b3299f7afc62585437673b5535708e1ee460d724dd59ce8882ad4a86436d3a7aa0a273b9813964861cc67d5ee6f4f2e03c6da5ec1119c45413c49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee96cc7685982b8f1d1407e47221a509/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/dceed8e7946fcb7e5b46ea41abca7cbca8b9fb8151913560dba91f2bcad0735e1867f783d0a9d00119970684e0f27cc675ec5d6e654af86709aa94f5bc799f1fe1d2767778eec3608884df97d44dfb6588713d8527c55233ca3aa67b0c7cc81613ff5b407064b474262638f62f98c40dd854289d38700a2a505e4df347b52c3d919fd79be983fef385f2391fbe9d1ae6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee96cc7685982b8f1d1407e47221a509/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Playing Soccer with You is Super Fun, You Idiot",
+            "episodeId": "days-2653?ep=28944",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3acd8805e801f994cf4ce0c36196b57548a3964c1b67045b0a029476d020c41ba3ec5bbf43d9cfbaf16e22cc55846062ad0cddf000be4c4120c97628b0fe278b122aec58c1070adaceed7a2bfc4deadb0883f48e870c19b0e27dedc0b4c7c94954f840cbd767b3c2faa5b57f1f87502e2eda004403e78ddc11d9031a345e39ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54e8cb28da6114304843f6e7fd3107a8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3acd8805e801f994cf4ce0c36196b57548a3964c1b67045b0a029476d020c41ba3ec5bbf43d9cfbaf16e22cc55846062c01aae12dfb2dc9d7eedc139536155bab2406b7075b36db3e541743c3065a0aef97f7f3c5a05dcb54d6dbf2a64434b18dec5ad88fef3f1e614b2e625f7e804a1f2d21f123d2c8e519c1d46b8b7790e0f886ff502bab9abd2c62267a18c34e3c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54e8cb28da6114304843f6e7fd3107a8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want to Put My Life on the Line to Live",
+            "episodeId": "days-2653?ep=28945",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/06f088d2753e8bc5b5991f29dd1d2e665bbe1bfb2bb7c0acb7b73acb92eab5ec99477c3db79a263e5a42ad45431a80e36dfdb6189c26f72e7be5919b788a1f5d2439fda34bf53230fe14d7ccdb459b1914f17c0b9b4fa1f22cee5f20b8fdbc9b6164230349258533a552ffb2c0a9e30423232bf7128bfbc8d4d47d814998b7ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c124f86b1658870ce49ae0d9644fe7eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/06f088d2753e8bc5b5991f29dd1d2e665bbe1bfb2bb7c0acb7b73acb92eab5ec99477c3db79a263e5a42ad45431a80e3de1f21a601de0fc5dfdf5d4df51f362e62c761482994a0e13b684cc1825d157d9c253f84140c10ef2e77926e5b123fb20758c9de7f13cdbcb5e002a4f72e4741e54453fd4fb9b968be21d16d29a014a58079ccb9e319c87149eb6cf69ba0fa21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c124f86b1658870ce49ae0d9644fe7eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That's Why I Will Keep on Running, Kazama-kun",
+            "episodeId": "days-2653?ep=28946",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/843a24ec05e993bb859c1cc41cb7d7ae496d3e17a674b881e6d6d358a5ebe7a7e020c62b189021ec1a9640d4c4eb05b1323047cbb98188b33cc6af7c855ecbcdbbf77cf3d90d5e1383fe7144cd5f86bf146ae1b886b315aa721d5bb32e25d38e78842498be11af54aee7a0b24912916ecd5575835154f5d660a51db6e00ad333/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d72200109c4d29b2cd85e937b8e0448/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/843a24ec05e993bb859c1cc41cb7d7ae496d3e17a674b881e6d6d358a5ebe7a7e020c62b189021ec1a9640d4c4eb05b19d781690e540efe7b71293c6738c3f9f2cbe0654a84521f5732945eaed283197ad720919e82ff0f668c5f593f5c89e52592955fea5c2896c20c05e5998d4d4aa4eb1017c097ac996c89914054123c350c47f010805e0786bd9519dac9217ebf1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d72200109c4d29b2cd85e937b8e0448/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Running for Someone That's the Kind of Soccer I Want to Play",
+            "episodeId": "days-2653?ep=28947",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7676e5afd02b1542d5460fc1a1ec33560c1a1b0e0dbb10f2418366bbf692247940c6bc6fba28b678c1bb45a2169811bfc6036e0f5b4282d66a919aa6e8418505c229e161d81d51c4fc2dcf093092e711a394abd1f218839ba33ab54cdb1c51dc7a4fd3da3f9ad94ab9bf8e856390c2c708ce908530e08b12b7e3c2062fdce9da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d926c12cdcae2692c8561eb0ecec80f3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7676e5afd02b1542d5460fc1a1ec33560c1a1b0e0dbb10f2418366bbf692247940c6bc6fba28b678c1bb45a2169811bf9c49f966f26c8de957af797a7e52813661224a4142107551e40b9e4bc75ce9b88a06d497abb4996b4ba52caf5b9257bcf26afc39efc5abff39fb6024367825425501c7d9b0c21433d2912f7b4593db4d5df4bc04669c7bc1bb94624535587a50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d926c12cdcae2692c8561eb0ecec80f3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Wish I Could Repay My Debt, if but a Little",
+            "episodeId": "days-2653?ep=28948",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9f93ea3c302a9b2b69178d1d227ea9a506819acef22172ffa7e44aee12566b644128891284fe79079bfbe46c50d3be77fda1950f18267578df6ff14022c8f7c67b6c5bc32376a11726bdb7479ef61c20b6db4c8798a41e7251516891ac31735e46c7cf898e49a3c1c3e5ad8658917df56f9535ee75b49e3b05e6a3ba515676ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59855188b3b981cf570d39e29f4fe179/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9f93ea3c302a9b2b69178d1d227ea9a506819acef22172ffa7e44aee12566b644128891284fe79079bfbe46c50d3be775e7429de5e3cfe35250d58334366c29eb52559ce038ae5032293d99ac6bbb577b6d6a5debc8291fbd4e6c1659b804e01c6866a772f35fec77c5e5ff4372fee39aeb6f95812488a351618dda8896340c4402c750385e4d53c4a9b429ace9ba8f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59855188b3b981cf570d39e29f4fe179/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "If He Gets into it, He Will Become a Bullet",
+            "episodeId": "days-2653?ep=28949",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2448683e16111734ed5d23ff90114d204e66beddd798063da1f885aa254ac1b62322b0bafa8ce2e6b1f88bde0db049044867edcfc0891094b867cf45d8bc221fd5b57e1cfcecbebbe4939e3ed520cca5094dc24777c675b9692e79ed870cc247a035f071a7be7407dfc4e0cfedf5d6e65c19a6c9ca4bd7229a7611b81ecde9ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c73ca56a05866c848769632553990736/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2448683e16111734ed5d23ff90114d204e66beddd798063da1f885aa254ac1b62322b0bafa8ce2e6b1f88bde0db04904992a4ae9d444de4463448e26e75547ea2aed266e7126094dfbd3c59c2b3f665761221f14269a574732de1b3055e435828fbce4a0287598607a6339ef5d2b6a1acf513fdd1843618df7579fb39187e23f826c02007d646075d08b3b9246c8a4d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c73ca56a05866c848769632553990736/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We'll Get the Ball Over to Where Your Voice Can Reach Us in No Time",
+            "episodeId": "days-2653?ep=28950",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/351f91fe94d20d565a7ff2227c9c601e07aa642fe1602f9d2736e62341f9be7ebea443950bfdb50ea1a5bf02a57e1f9a334109f1229deffbcf60d48da51a691b3483f4b2b7d846b2939a26db970d3f1ecf07af9ec136c7a68e31e8b10c7acf78b673dba7db323749b80d0267fa99dfdb9404d48634cb21d5d096e7b296d722a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/baaeed6f9df7e77a9e5d91dc782f57d3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/351f91fe94d20d565a7ff2227c9c601e07aa642fe1602f9d2736e62341f9be7ebea443950bfdb50ea1a5bf02a57e1f9a91bf69f2f552141a5217d88a4cac71658bbf656dd1576d9242b162397b0bf57afc53820e8b45a2024bcfecfe090246737260a09ee682abc764beca1d25f9852926d7ba0a47c8ce6cd0c4e287c662128fe145655fc7646c5042fcb574aaec0d13/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/baaeed6f9df7e77a9e5d91dc782f57d3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Won't be Defeated by Such a Tiny Setback",
+            "episodeId": "days-2653?ep=28951",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8b1487abb59444b8de9f2e914f2ae0a9f2f5a717b21279a78c9e68f033cefb658d41c74450f304013061dd985264281e28a3ca7abb295062f8317512fca10260b73242a2130cacaf24c98cca6e4405312d8847cee3d983b78e7ae13e1c19562acbc087c9f86a9ca60b4ef66cf72280cb1e702ff221cfd4a988864fb84232a367/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/999238ddad600e63b6a3f1db4ee2ace2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8b1487abb59444b8de9f2e914f2ae0a9f2f5a717b21279a78c9e68f033cefb658d41c74450f304013061dd985264281e7794f91e79e6310857904f6905342b223d1a007e4ad1a287a2c862d3080061ff36b62a8530a7b89414f5e0f6eac33888aefad06a20fed9813191923e56cf4a03cd7536283274e8308fdf3efc131e8858c827d5acd4ed8797a11c4f038e88a0cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/999238ddad600e63b6a3f1db4ee2ace2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "In Order to Connect These Gleaming Days to the Future",
+            "episodeId": "days-2653?ep=28952",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7dd0918529e35cb888d604e97237454493aede04a06a23dc61ddf0f39ebb3fb6f25a7c4cacec0618f84920f5444d80087b5908d3165f63db955b9d7bb7db88beb61cc16bdbc66f889533369b365b2d1b4f7d54137cb105e432e60b346efeaa78ffaf0908770c8c943e78c52c3bc52a5f49932525273bfb1a7e50c27a4d8372a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee8014e4d85a97a680dff490b8553e5a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7dd0918529e35cb888d604e97237454493aede04a06a23dc61ddf0f39ebb3fb6f25a7c4cacec0618f84920f5444d8008333f535e5013b1af0744747bd73c9e23670945ade4430daf26a1c44cdad7fd1c133bfb4ba16d032172585cc8511b3837218e58ed89554fa76e74e557c9f47490ee352cede52f7fc0ba5b8d93211b0ca276fad0a2ea21b4b98e43e74159b0a99a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee8014e4d85a97a680dff490b8553e5a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Won't Let Anyone Be Disappointed Again",
+            "episodeId": "days-2653?ep=28953",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/10e94086b1a59cf10d89c1e6910cc8719f315d348f6cffd47e2f4d68dbfd77f407f6b7498455bb14050b4ee063cb754065e442da0d892c2b1e2a0f376644a23ead58d26de63a764f134256a51a212efe830e8a125872929c0c2c8b5b0f2efca42cd819da9f7280695ee5290bc6c8344a23958b858b028be3db4f2c098e77f7f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5cb98ffa401ee2ab16053ddcd7a7dc5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/10e94086b1a59cf10d89c1e6910cc8719f315d348f6cffd47e2f4d68dbfd77f407f6b7498455bb14050b4ee063cb75400460a3fca1e2bad46393cf0c8d8a556bb56a75eae73317c360cb6425ebff60be6a2ff0d18b697881f7356a91ba72404b1899cd1b837c56a446201de7f0a04f211f88904d57f12ea9015d98bb9fe8d3e2b991101df055b627e85abfff3c0afcff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5cb98ffa401ee2ab16053ddcd7a7dc5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "days-2653?ep=28954",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a35c1231cb72d34eeef9ff94ce5418a58944b806ecb3eb89bc5d45df6216e34b9a05ba70db979751e318bc9afe56c55b9e007fbc6339c472fa8bcc8acd98d4f8b383660de609c2ec02d63d0f097bc7e7b6858e560e4b0f544efdc99a35fbc67e4ac025c2f36733a1017a291fa68532e101d17869d681bd69c99b8e948f59021d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/771bf9c4fc6d429f296f6e05a9b65e75/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a35c1231cb72d34eeef9ff94ce5418a58944b806ecb3eb89bc5d45df6216e34b9a05ba70db979751e318bc9afe56c55bf1e9f9f38cc057d43d8abefaa1643d222008279411db18d947202470a4b980e7f19a7b4f0c9dfaeb967e6c16489f586b8b99d9335730a3309bb35700f13f6275bccc9a52c26d395423c70ae5a6926c19f929ffbc9df96e89938fd91164f63ed9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/771bf9c4fc6d429f296f6e05a9b65e75/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "days-2653?ep=28955",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d39e4e47603a39b9a8fccb0c0bc22ff2f9998677989d0c61fc4510e049bd4b2163874de499974e2adf4835d52d3dab5015789380f9465440de9c6471d2d7d341d57b0bc30d70ea893562941e5f99ace2b0f0a0dc549938addf1122e981a18530c069b0d7dcec8a36a9f5e4ca0e83bbff3924b819f6c643a00abfec8b63b4bd5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ad85a6d2096a7a0ce800ac1f8cb14eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d39e4e47603a39b9a8fccb0c0bc22ff2f9998677989d0c61fc4510e049bd4b2163874de499974e2adf4835d52d3dab503c85b4d99f2b1bf545bfe8516f05a5018eaf91caddc69d3135f596c24f4838c4b36529750fc0c51bcec37f09b325bf020ca4ffb603359656555cb19a93f76058e54a7f28208820e1a2b0489644755cd3b24285fe526d8240bd396ebdf29aef5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ad85a6d2096a7a0ce800ac1f8cb14eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "days-2653?ep=28956",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a3cadc1d13b9e6ba0ad82935bb007747b2c15af0335a49d3030189d1051196c224235e237b11eeb50d9063d5ba2197989f1c0564f56f00810424f4fa3370f2749b1883583df072dd2d9297b95967842a80921be191cfc68dc22f4820ac36c9ba74a312a37743daa7126db7f9ce378cb4e8cf4f162046219cc6ac1fe383f12212/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce03ec8f872bfd0d34d9db88b54df3dd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a3cadc1d13b9e6ba0ad82935bb007747b2c15af0335a49d3030189d1051196c224235e237b11eeb50d9063d5ba219798e42e3c6b413c11cb82755c7dabc2cbca1ef33588fb730b65ee2230c09ab458555a40edf4941d89cca995f36088e9a67b0b810acb18e0335a502ef49f67841dffe88a20b96207e71448e764f5ddd3ebc7bb2c0885544730da27ef95b1522d96e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce03ec8f872bfd0d34d9db88b54df3dd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "days-2653?ep=28957",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d4c23f150fec444136ec8204f55abcb2adcf008e2ad3accd21e2baffe76824d0cc39efdf40545fd2098d137306866c9ae6c4a73e7adebb5cfa4d0d6a0e616aba5d48c89b4a1ac71599ec0d116d9348aa6c1fde55dfbf9f843082084987e2b2bfa1565995205e22aaaad2bd11e5020726c06b8dec045f1e75e2cc61b763bb0e69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3676baa35579ca5bae14481d95967f27/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d4c23f150fec444136ec8204f55abcb2adcf008e2ad3accd21e2baffe76824d0cc39efdf40545fd2098d137306866c9a11d15f9075fbef06f873e74ed42b77e44a6cf722c9f75ce52ff573c4ef9ccad42d014df2ed2d3097b432801e82236190ff1fd83a0af901c0ac9b0c17a4dfe8fe1319d12800668a9cb07395d8f400ee22689383716500e98d39abd8914c63368a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3676baa35579ca5bae14481d95967f27/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Love This Team",
+            "episodeId": "days-2653?ep=28958",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/108ae60fe90b0b40f3230550628d7db0a45040ec0657741f54ce620b42d938ceaccc64447521ef35e5a3c2b87d2a915d1b6299ac09ec0b21a5c9dc2848ea8b88749c089dfbee9587d2b9427a881c197f83e92956cb6deeadf7655f45089ac46623eea88673e160e5afe095a8e907f7629a4b1b5bb26b9a2294d42a41e199cba3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e8b214ce3a4bf0a621b28adaf98f23e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/108ae60fe90b0b40f3230550628d7db0a45040ec0657741f54ce620b42d938ceaccc64447521ef35e5a3c2b87d2a915dde5f4c5f3572038a8f9799353d501b5574e94bd52844441dea366c720248367186fa63a56912ef25d33a904cf81d551ca9ee41cdf1237b2446d3be677a2759449d7b7b114f5dc0b39d4b552cd12a7de7cfc75f1e568a1d4102b98c9dae05aba8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e8b214ce3a4bf0a621b28adaf98f23e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tell Me, Kimishita: You Can Do It, Right?",
+            "episodeId": "days-2653?ep=28959",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d73164f899f9270a4e3045459cf1f8c30b54d8ce83edd9cd189fb7cbf8fec112b2982c5357780ef696d4998f9caab8f21caedb96b424065dc41bcf4ddbffa9c685c52c9063c09ca9b94d5e259d60b669b4e72e3b63598e37be883028f5d80f13dcd2ec43bae5dce77ce4c016741c0b88b0d1b019b07483d43b947105b645ce03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f37ff172890d537611ca23627e0c714b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d73164f899f9270a4e3045459cf1f8c30b54d8ce83edd9cd189fb7cbf8fec112b2982c5357780ef696d4998f9caab8f2625d12b1aeecb254a263140560114682388b52829bc8c329f7295b439398dcae32dfee39a7a0bee70bc33075814d9b6659e19d4ddda7c42bc00053c7deffa25868d8683308ca16f54c8e1674450196e445b361508f0c1543e6a1319a75bac733/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f37ff172890d537611ca23627e0c714b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Come With Me. It's a Straight Shot to Nationals",
+            "episodeId": "days-2653?ep=28960",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b8a4e84f635eaace85ee485c5c792cde01b034ce86e46c9eaebe4e70a230cb387b0b499d3a07e51a4419f90f235367e3e961e708e6801b8e6917a7647bd617dc80eec8b4db37ba1fdefcb64e72dd9e74c0bd9d69df9a8ad4d47d268066b89d04a3bd0232193d8cdfe3be70d48b99f7dde906c7fd5944fba838eba29e7ec9952e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/222859e8ed1dfc1edd05a79ee6f3363e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b8a4e84f635eaace85ee485c5c792cde01b034ce86e46c9eaebe4e70a230cb387b0b499d3a07e51a4419f90f235367e3884eb1f9b3e61f9d8d06b09458a22935cc0844c9ae0fa0c5f5bb875ff4bed105a78a8cc19a3057bb53f9a8d729bc0f1d5985424bf64a67dc639e4e71e1c195364f5d602cf46dd8848b8d2a31bbea1f1304cc9737416afe0d03cc9be632e4e08f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/222859e8ed1dfc1edd05a79ee6f3363e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Underestimate Seiseki",
+            "episodeId": "days-2653?ep=28961",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0138e79059662df9443f75097edcda1931c290de6a267be8b1d3798e3c85172b57136449269ced782b1cb57257a1857d8ede1c6f559dbefe155f93b4e4d3e5e6ecdfea014383eb58351a65b4fbab89f5e1b22ec18ac286a072ec740f606cb85393dc080c6391944c116e8c0e346d41557a885dfd215f4863a5d417bf3ce19721/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ac40a584cbb96fb5ad1b9aecf6724b2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0138e79059662df9443f75097edcda1931c290de6a267be8b1d3798e3c85172b57136449269ced782b1cb57257a1857ddcefea964c4001ffce79d85ce424042ad09d897b927776bde484c4ad33b4045f4c1026d00ac04f4ec979ce1dc6e8ec6b1cd7cb70d102013614b49d1716fbd162cc7f7a19c2c42c0c0d1d3fbcab75603b42ad9c528a7554a5d50934616edec0b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ac40a584cbb96fb5ad1b9aecf6724b2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Isn't Soccer a Blast?",
+            "episodeId": "days-2653?ep=28962",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7a5882fce0a653c2f0fea5ec4fce10d7ebaadee940347b9a0463b84f67040ad221fc4d0da6a60f028bb704fa58f4872cbfeb1962ec85e29a6c1f5d9b42ec5e5e66247575fb50cb933b843a740300b3b83bcd463e1bd29210614a0d69ea94a8485a41d2153198734fcfb721f7354b569c413e57d6ab57a40df21b0f593be15591/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96ac285474bba9fb70a0c6acb2d80f38/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7a5882fce0a653c2f0fea5ec4fce10d7ebaadee940347b9a0463b84f67040ad221fc4d0da6a60f028bb704fa58f4872cd24f5c3260643e78ac47a54efe7bb8b9378b7751843ae68fb7e7cc0a81fcaca6cc8964ddff5ac76df8dd451e611e96cda52398f5679c2d882a3c17a4a374fc1bf988826bc8eee1f1fd31d3594abed0a08b04f0ba282146b92d7b59aa696e985b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96ac285474bba9fb70a0c6acb2d80f38/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Right Now, I'm Seiseki's Captain",
+            "episodeId": "days-2653?ep=28963",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2e0ed210579c930ebc4da24917da18dda1bc3d981a252da5eb046371fd31cc4deb1b5121b246104e03eea4f287a49dfb462c551c224df58a1c4d6b7efa86d7a1f6163105d9a67dfb5f8d73ec436906c2887d7651688a57c5ba246b796bd1af6896467c63dd00fe71668e48e8cfef71d21cc0e9e00d26992d894f03a6bfac1dd4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/879508a6d66172c1d3063bd8f6276dcb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2e0ed210579c930ebc4da24917da18dda1bc3d981a252da5eb046371fd31cc4deb1b5121b246104e03eea4f287a49dfb06248a42d8c46e123d57963ded5aa9f7c893562fb6a431caa8d61967e07bb61c1f354cca2a3b52fb476fd3cc731843e41acaa285dffcbc2a0967e74957fccf32c6a8893458a56279cdb05f3743286002555ec4184a3f331de3b1a526f7951e82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/879508a6d66172c1d3063bd8f6276dcb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm a Member of Seiseki's Soccer Team, Too",
+            "episodeId": "days-2653?ep=28964",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5da627c44927e0df2923bd9015aa058fc69c80ef6202e3e84152777f48715884a31efb2916058356b557e93cdf95a84c73da6dd244acecc9b6ce3f1136959d2dad917d5844e5280fbe75ce940595b3886e3c7f21723d9a5d2b805fe28e5448254a39f93f87281b25ea4f245a025d8a06acbe1ba805fe4e0114d4556c7e8b491c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f7aae251a32e971c118bf65be6483d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5da627c44927e0df2923bd9015aa058fc69c80ef6202e3e84152777f48715884a31efb2916058356b557e93cdf95a84cc117089b417e757491b75e12d50f5286f72a6dd8c939515a23af913802f9535965e1a2ff1e9d689be7ae37c9d7fdc29128b97cc4456108f6b25142aa9186a18862e4d1cedf40d2750bc4d85c4c47d84321b9a33dee16181d9b40c8b196462768/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f7aae251a32e971c118bf65be6483d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want to Play More Soccer With This Team",
+            "episodeId": "days-2653?ep=28965",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/17694de65ba2999e46defb4b5a70bc9001e159f9302c30f2cb19c7540949b1138c670cbdf66fcae82707a12171c5f269b3f0757f44e06e74fa13871685822f8d9e93b7639b3ca3b614092caf6c854bd962f3d5b883bca3e11135eb3dc92dcb77ef88e031a363f8d72cb2d009a44202dc6daf09a7a9d7e555d56c1c0f9dfc1002/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6eb10085a90c0411dc5ed6a83e08cdca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/17694de65ba2999e46defb4b5a70bc9001e159f9302c30f2cb19c7540949b1138c670cbdf66fcae82707a12171c5f269bb1e7799f30feab8bbd68bd2e3ad659a34e7c51e188c00c7d7b12481a3b7826ef41fa38f01e925158283644a95f8da0b6cb3b9d5dd786385f26fa67df4e0264054678e757192c97ae806694c6690871f23c503f665a9c838f13a5a5c677676c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6eb10085a90c0411dc5ed6a83e08cdca/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "info": {
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days-4063",
+        "anilistId": 0,
+        "malId": 10948,
+        "name": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35f25a2a42bbf84d69ea1ec20b33a11c.jpg",
+        "description": "Tachikomatic Days short that was released on the Individual Eleven DVD.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tachikoma-1260",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e36ba9f8be6c8bcdcdcf97a17832f6cc.jpg",
+                    "name": "Tachikoma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sakiko-tamagawa-2001",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6270f588f9900e74124d3993865a9073.jpg",
+                    "name": "Tamagawa, Sakiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "攻殻機動隊 S.A.C. 2nd GIG Individual Eleven タチコマな日々",
+        "aired": "Jan 27, 2006",
+        "premiered": "",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "6.89",
+        "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Production I.G",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Individual Eleven - Tachikoma na Hibi",
+            "episodeId": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days-4063?ep=50479",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/11e3501f282043868e15f5e89460783095b8c6c08a1c2a7df4f5afe0ca345016c9ac677a9b071688d635d16a15098209ab3829f16e1aa60afe4fce3f61040ae6de1e54b8d74287fbf1ab24057b36818314c431bcbb4ad5a2d5da06dc10e0224945ebd387d0c14ff1eb64165fd3802010ad043cfc28feb0751c28047ccfaec1dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74e8a6061b09bc7024c3f741bd822fbe/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/11e3501f282043868e15f5e89460783095b8c6c08a1c2a7df4f5afe0ca345016c9ac677a9b071688d635d16a15098209e905e9ee1d83dcb7438944b918bec9080d0ae5dbe5a09db86577a2bd4ba361324e31d7050cf69bd95d5080a5641d79637601065aeee31b98617944dc3af0f43413f959f054546e642e9f0f12bcbdd25f7f8e4ac4c23eb297e27712a56201f9eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74e8a6061b09bc7024c3f741bd822fbe/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

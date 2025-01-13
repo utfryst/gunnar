@@ -1,0 +1,620 @@
+{
+    "info": {
+        "id": "aquarion-evol-2897",
+        "anilistId": 10447,
+        "malId": 10447,
+        "name": "Aquarion Evol",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/894fed76bbe61961af0959e1634aedf1.jpg",
+        "description": "12,000 years after the events in Genesis Aquarion, humans live on the star Vega under constant threat of trans-dimensional beings called Abductors. These enemies originate from Vega’s sister star Altair and raid Vega for human life. As a countermeasure, an organization known as Neo-DEAVA formed to combat the Abductors. They pilot advanced mecha suits called Aquaria and are strictly separated by gender. Boys and girls are not allowed contact; they are even restrained from fighting on the same battlefield. However, events take a shocking turn when an advanced Abductor mecha suit joins the fray. Two teenagers, Mikono and Amata, are dragged into the conflict. Unknowingly, Amata performs a taboo when he summons an Aquaria and initializes what is called the Forbidden Union between male and female Aquaria. Neo-DEAVA is shocked, and the repercussions of Amata’s actions are much farther reaching than he realizes. How was he able to summon an Aquaria? Where did he learn to form a Forbidden Union? And why was Mikono also able to pilot the mecha suit?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/uZrWpmKaWzs",
+                "thumbnail": "https://i.ytimg.com/vi/uZrWpmKaWzs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/N1onzPrdTac",
+                "thumbnail": "https://i.ytimg.com/vi/N1onzPrdTac/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/02IgnKL9Co8",
+                "thumbnail": "https://i.ytimg.com/vi/02IgnKL9Co8/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kagura-demuri-5674",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e1d22633c50450fe51951e8e3b34fe0.jpg",
+                    "name": "Demuri, Kagura",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kouki-uchiyama-66",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dc2e780f93b97fdb4506fd5186ba56fa.jpg",
+                    "name": "Uchiyama, Kouki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "amata-sora-7624",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b4b7499af2a37c0d2746f765b6a9f93c.jpg",
+                    "name": "Sora, Amata",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "christopher-bevins-2860",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/039b251f8ce6a025b14675f52be9970c.jpg",
+                    "name": "Bevins, Christopher",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "mikono-suzushiro-5076",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f23ba74e935e8122b0f58701fd65494d.jpg",
+                    "name": "Suzushiro, Mikono",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "brina-palencia-192",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67b617fb3bda293fea66d48b0d4034b2.jpg",
+                    "name": "Palencia, Brina",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "zessica-wong-5603",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ac227f690372199c69a6635f1fcc061.jpg",
+                    "name": "Wong, Zessica",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aika-49299",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68cebb06cab5cb0651d61480b321ab2c.jpg",
+                    "name": "Aika",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kara-edwards-1809",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb7599132a221e7cd20a586cf471675c.jpg",
+                    "name": "Edwards, Kara",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "alicia-30623",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8d7993efd638ca9c2a14519d42c2dec1.jpg",
+                    "name": "Alicia",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "rie-tanaka-171",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dfedb8b1dda740c289305110567aff1a.jpg",
+                    "name": "Tanaka, Rie",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アクエリオンEVOL",
+        "aired": "Jan 9, 2012 to Jun 25, 2012",
+        "premiered": "Winter 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.16",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "studios": "Satelight,8bit",
+        "producers": [
+            "Media Factory",
+            "Bandai",
+            "Tohokushinsha Film Corporation",
+            "Overlap",
+            "Satelight",
+            "8bit",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "A Myth That Holds An End",
+            "episodeId": "aquarion-evol-2897?ep=30332",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/06b8d2f2da2e76c11644dc80b49ef48e3769d321690a84220c47723197598e4c71e0d4f510f21248460988516551b16ba39acf76b71c6f0d1ecfcb1a2efc7fec880320c45bf19c77d1aa3bccf6aa3e3d730be6b489721e670e7a34e6199e98b8386b6676234d418c7bfb3740ee500c90f1d338ac78e08d1d45080c590d967d88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e842bde0a9536d0e3661af4b0bec4670/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/06b8d2f2da2e76c11644dc80b49ef48e3769d321690a84220c47723197598e4c71e0d4f510f21248460988516551b16b1fd3dd2a354a67fbdeebe33d24cee5815050abd2a3640437d01cc4f4d61635fcb390c093f944cf1655df362e09212257f8f6740d5051d0e1691ca6617530ad1cbe7a9acd65ddaace379aaee6b7efbb1c11fcf129e4dbeb605da2588d8057a0b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e842bde0a9536d0e3661af4b0bec4670/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Forbidden Gattai",
+            "episodeId": "aquarion-evol-2897?ep=30333",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7b219c0d7f6f94f4ceed7b818d2f9919bfa7452b16b04dd90ccc2e7d785354599ded1118013d63dca8e8b2a085e991d084c8706345940a854140a24886792a173c1e52897ea122cabe53d1da7fff69bec10f141fb578d91537ab331d4e68d80302dbdb22feed5ba199d4e834cfaa66a923b2737b22fafda6d1498c83cea59d25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c1dd8b513ace350028155efacb91c86/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7b219c0d7f6f94f4ceed7b818d2f9919bfa7452b16b04dd90ccc2e7d785354599ded1118013d63dca8e8b2a085e991d0f344b2b6222ba63b8df8c760d3b7185db17fb7679d9fa159751c98f452f2d71202d9f1dd0471230dd91966666e49596aaed671338b5fb3be66b55659fb3497c7f1de4a244c7feda73acca35fd62bf5aebbd915e783b041fb734e5d34ce46e97a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c1dd8b513ace350028155efacb91c86/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Index Skyrockets",
+            "episodeId": "aquarion-evol-2897?ep=30334",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b746e667b974459e40142ac861ea028efb617efa5d811cfc0f412b5a163ac830e275da67624a8de76b664022c7a70835bc00020fb3239fc83c0043d30e9359a74cb5f286c3938f5d7ae343896e08a109e2e9506ff6270dac30d9c1a37c35b91493588a3bb682901ce1a784976b0a0719da14f367b8d72fdf2c2befab556b11d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d61ef5ca4de510430e4198b565104c05/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b746e667b974459e40142ac861ea028efb617efa5d811cfc0f412b5a163ac830e275da67624a8de76b664022c7a708353a8aa5418e7e9245024a9fd1db1e8d05fe974805ffafd720c708ee5ccc87881615fd028c4fc01b13f2ca36283f97cd20aba13090c204c7137ed705a6a398eacfaba69d92df24257b5b1c170ee45f97ffd35325500c2404160f2d6b3a42a49e36/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d61ef5ca4de510430e4198b565104c05/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Wall - Conquer Oneself -",
+            "episodeId": "aquarion-evol-2897?ep=30335",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/dc7e184149b689d7c5f1bfaedb4df6977575695d0bb5d058b9f28159765dd18a8b55f88c920c6c1baa70c1401f3ac447ea12ddbfaba5833edf5711f7cf9c78f15a66eb6afc0ac83aeec77e699d85c7c941424987c400a310ac83efe780fc242aee3c36f2b257aaad461c98b8e447b28831fd1ce54f4d5a62ef64468e866fd7db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83702adb36b5fa3a8cb8bf977e8073a4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/dc7e184149b689d7c5f1bfaedb4df6977575695d0bb5d058b9f28159765dd18a8b55f88c920c6c1baa70c1401f3ac44770a811ad47f602b791768393ab536b74b9a585afd72384871083b7432e0640e14b31ec501542d912ca20a8b2953bc75804599cbc90fd5dbfa57a03cabe8e9cb3f0e00054ebebce0357822bffdcd5306ba08df70df1ab4d4f96aa8d28fa6dafad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83702adb36b5fa3a8cb8bf977e8073a4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Romance Prohibition Order",
+            "episodeId": "aquarion-evol-2897?ep=30336",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c82583190b5eec9e162c9f186a4185c764b2708b52ad4fe9c70b87b4b41808b05ae1a63936d75debe1e81029a0c234386b8662930912a563c53c98148d32644001f462a9c1d9b7da35c9b4bb8db664e3b80809aaaacceb851d42ce4ae063c90feb8a8968c76b75111ed1adbe8e8a087996478995c2337306a0b73b473244c8a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7fe3e2482d26bcd97a2761dcd13b08f/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c82583190b5eec9e162c9f186a4185c764b2708b52ad4fe9c70b87b4b41808b05ae1a63936d75debe1e81029a0c23438da58d77d10b5188f59dde365f5adb64caa965677056e0c4652afbf0f91a215d5f34f9acaaa30209418844f457a0616159b19531a2113736199d4220a4b9df7301be189f2928369d3cacfc83ab9753edc4ef9d048c05e0120446d0929c24ae14d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7fe3e2482d26bcd97a2761dcd13b08f/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Agitato of Life",
+            "episodeId": "aquarion-evol-2897?ep=30337",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/38ea27c2dbcb5de5553a4b3283da0c525aefeaf0c2faa4e1b03d9d6ac5ad278ff6d0cafc396d123c7dc71a98969792b2b6c3b0810db30986d7495599a4c3661b60af77ff43df50f29fde0d67714098c528c4a930907f847dbfb857d1b53c71c59834059189618a0f879b07a1f9a1fa9da1d406e62f79151d414ff1419b7183ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f9275b2628bafc76f076f54c238c265/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/38ea27c2dbcb5de5553a4b3283da0c525aefeaf0c2faa4e1b03d9d6ac5ad278ff6d0cafc396d123c7dc71a98969792b29f0a17df771f62bd0ff9a0611f9f298fc236f3076576f0c060a8bcd77de58efae82cfa44ccb6f27a548cd945f745c02ede630d016ed4750fb9f64e8883db66447079ab8c04be6c182fbdeb0e19e859e058acd001f74bc0b2e9aa7542f415b4ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f9275b2628bafc76f076f54c238c265/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Midnight Girl",
+            "episodeId": "aquarion-evol-2897?ep=30338",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2544c8a94b42d83dd7cbcf7a721f6c7719854e4358b0f8893a0178f477d2b20aac25d0169512919a499977a12645f75e410fcfc1bf341cfaa50fca69f3836dc59f60007db9ec5d7dac6335b7d4aca9bdf9ef24cd2fff929f4a278c0ff5f03741deece08ce2225601452a8128602aca6a1ee53726eca131e06165f75b9f886a09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0277d5dea0079a4364b0c9302b2efeac/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2544c8a94b42d83dd7cbcf7a721f6c7719854e4358b0f8893a0178f477d2b20aac25d0169512919a499977a12645f75eba935f4a0253609cd35159337166612457f2e40d4d25f808c33792cb14f6b1991d2efff5d8ef7af9d4cc03368c6bc2b52e991ef2ac122b25f2c0c5f3f4822e87d38018168cf9fb39d18046b64df17e967cb03ca9084936196c7e80452ce867c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0277d5dea0079a4364b0c9302b2efeac/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Expose",
+            "episodeId": "aquarion-evol-2897?ep=30339",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/380aef4a48912ed52ee95f094a2ca8e4f5942360bc99a218029fb2d91c83afd8ac7b63fe2af718c49f8f1ae61fb2e20faae580e6029d0223256190072715827d4494b4bc2f4828e4a4da2ef235f923b186a20336456995c6ba22e78303522d8a390244d15f8e49df249723c5c47769fd373828d6624a88d8d51764b1835443ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2056afdf07554c38cae3cc564290644/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/380aef4a48912ed52ee95f094a2ca8e4f5942360bc99a218029fb2d91c83afd8ac7b63fe2af718c49f8f1ae61fb2e20fa4748e30744419de020e003d8001b958444aaa19369a2c6b04616f4b6f0e11ec4f49c53ec46e6d2a5d1cc0fa5595f6b3363b080e638b9f8cfd31c16b7ebef46651b54ada60a0b3fd8e6d6ebf8e07024c178b5d64579c59f6dfbef047929c5a5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2056afdf07554c38cae3cc564290644/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Anagram of Man and Woman",
+            "episodeId": "aquarion-evol-2897?ep=30340",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/58ac87c0d9a4b7051712ccbe050432b0aab830a7529e43fcdd36de4efe7de5f78cf9066e8dde89f467daad04eb1b14281603202a08ead0b81bc50406f4f8a889f28a32f7ff8a45a29477bb7345434017b2a371aeeef67b96dcd58240a6b5d36c183aab4ea2ac619c9f7d420c26986db478525d66b39b0d20fba246d89ea9d754/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e28c832cd5b1e38750b787a32ab59d8/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/58ac87c0d9a4b7051712ccbe050432b0aab830a7529e43fcdd36de4efe7de5f78cf9066e8dde89f467daad04eb1b14282c46b524840481f1aefb92545571d5de86eb81296e26428710b38800cced9713b572ed05404e8ad4ffbee2c6f4aa75857b4854c05d697d1a6961935b5a20b81bc302af42111f9e290d914e4326b2cef7cb6eb1637d346cbbd27e1ddbfc7ba78e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e28c832cd5b1e38750b787a32ab59d8/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One-Eyed Transfer Student",
+            "episodeId": "aquarion-evol-2897?ep=30341",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d6b02fdf5f527539e307000ba17b5aa1fd13b0aaaa7c452be5e07fdaef8b6ad1f61deeb1aad4a1a40c533f741a685d824aa52f2718ec44b2b1f547bfe8670d104228f9c20ec78c32e5142f4652a3d1d6795dcc2cb8b900efdb87c8c5374396c681119246a5a50704cf918f245fb32fd4ead38c05e72192f4bbd1297644933471/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85758f02f750a98a843cb20a6b634df6/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d6b02fdf5f527539e307000ba17b5aa1fd13b0aaaa7c452be5e07fdaef8b6ad1f61deeb1aad4a1a40c533f741a685d82119ad1787596573f8505458fab3a9aec7112d90744d97cb88b8728c0a420888c350cdb931c471cbd99b09cbc558a885129ff63b894243db25831d2032cd5a2ea6d8181131427b2e9cd87d819316527be0c436a62f150dffdab3066bf10cd3b20/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85758f02f750a98a843cb20a6b634df6/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Calling of the Wild",
+            "episodeId": "aquarion-evol-2897?ep=30342",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9ff99cfb657cbae545bfbcd39b693869f29a8e4224f23326522671ed2a2b8b6704c76a46c07cdb9bdc13b0e0ba1e8e2c71f3779666dd4d1f83f58c093751a4ffe8c9d34a40350a430dc08484c0cd3632a265fcbfbf2a339158bb13d909372cc247fbbbb42f70e14947e2ed4bc3d67c922c11615786d17d3b4606bcfb01a6e44a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a0adcb6cd206051efc7b67aef3a1d32/0a0adcb6cd206051efc7b67aef3a1d32.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9ff99cfb657cbae545bfbcd39b693869f29a8e4224f23326522671ed2a2b8b6704c76a46c07cdb9bdc13b0e0ba1e8e2c556b9accf4f37ef9d51baad9972000846989d12d4067943d58dc2d5553b63e4f81c269b959b71499699ec5335c8dd51ccc197e0ed85d6fde9bdd0ee782e5c806c9bf8b2f2df1ae942d5cd143f1f31dec71294140149d861ae62162a5a3e6413b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a0adcb6cd206051efc7b67aef3a1d32/0a0adcb6cd206051efc7b67aef3a1d32.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Skies Aquaria Flies",
+            "episodeId": "aquarion-evol-2897?ep=30343",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4b50f64005f4bc745e9651bdaeda51f54381b6e6e8799acc2c71d3de769357490c68fc421ecd87c0b5ceab8a53eab0f434e26714fd7ee3359b736c4e9008969c3e95bc4b059f8b97c9ab743a1a07b449d9dc58987fa6d93b613a17adeb5fcb0db53c22055308fa69ad07acee1383f328ded91ac582cd80bf24ced9fb72608493/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1dc0a6e0ec12793d3caae1b57726b318/1dc0a6e0ec12793d3caae1b57726b318.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4b50f64005f4bc745e9651bdaeda51f54381b6e6e8799acc2c71d3de769357490c68fc421ecd87c0b5ceab8a53eab0f45acb6938444c2cf3044ae80531b7c6d1324a554aab2c01142386227513adf1df9142fd844bb73688c692750932eaa9c009b10e5cb0b0a83d2430689a7b85c3fcc62e3cc8c1663ccf47ab79e2b503310030c0d3fe8df93133083a716cacf19f80/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1dc0a6e0ec12793d3caae1b57726b318/1dc0a6e0ec12793d3caae1b57726b318.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fallen Giant",
+            "episodeId": "aquarion-evol-2897?ep=30344",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a32b2ebf39749b64e367e34e41e775da3ad98b5ab2524cafd7a3c6b3a5cd8c2b6757b51c60d1c8ea8dfdff41c66e1cf5d99f0edba2f22161ecb3c4cd6930f4125fc99dcd942e42bea827617ce3395fff1497570c4f50c19bfc95d0be39a45a5106a185e85a37cb23e882d7401f55201645a1d405669c4f26173e62e8b157d6e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19169e042c779be5e0acadbbfe6dbd8f/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a32b2ebf39749b64e367e34e41e775da3ad98b5ab2524cafd7a3c6b3a5cd8c2b6757b51c60d1c8ea8dfdff41c66e1cf592bef20958ed54a14c122f2827312c7dbc68b3661a75be39b1073958b57ef2128a888950a7c4d25d482e01b7badff01f5792b74149b8e9a7f43b78f3aafbadbf28c00223f762e3c7df68f05985067032df4e1eb301962361d8b37eafe6f1c620/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19169e042c779be5e0acadbbfe6dbd8f/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Beyond an Individual",
+            "episodeId": "aquarion-evol-2897?ep=30345",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/dacc2d42b31ade63c71a8f02029d9358d68ab04e91aad6b9c14432708f412470ba94a99ed99f21aec2603e60933a44abbeb75373e4637cea0bb062d4a4e07a5d8410d228ba5707deb1d2a46269823297b455f77d0eb8831e2ce7c34623801f7d1666ecac9818ee87d7d48760c554c538bb4db7a004a95871ff724c64bd3d83b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50953c7e42346c57378e407659302a67/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/dacc2d42b31ade63c71a8f02029d9358d68ab04e91aad6b9c14432708f412470ba94a99ed99f21aec2603e60933a44ab7d8199ed546af000fefbdfe89cdbe649fa1140b9e2fb085eac82dd0861fc13ce1fd284dda02adec413cb7949aa018021e22322a98d3e1463d0ea40a0d082bb5ba8dd5b7e4a3e1c7879ebaaef2d00b67702adb1dcc08ea3b2423230cb9e934858/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50953c7e42346c57378e407659302a67/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Beasts",
+            "episodeId": "aquarion-evol-2897?ep=30346",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d1d7d3982fea001530f506557211d505aca3bab5143025030a99ee80751fc6c1f3bae82fa0dca464b10de79a91fad7c75178112ff9792ea50a764cc8ee1c3edbd9e6695182327fc4eef8289688688c424ffa3b614256924a2e94f7c6e30a7a8f97cc207518af197b10d6afc059330bfd489a11a3b1d0979a0560f236da09324c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fce69f401d12e1eed0495bd87e5a3afd/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d1d7d3982fea001530f506557211d505aca3bab5143025030a99ee80751fc6c1f3bae82fa0dca464b10de79a91fad7c732c97699dc5aca0cc16d3aa7159fa11704020563b485325f23b90673dcc85e660a06c440177cbf4fc2c3e01458b2bcd348e983bb830afde0d060095c7a58223948cee2353a4476d24a202df85b69bbdd182aa59820c34f4172524099b7733480/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fce69f401d12e1eed0495bd87e5a3afd/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Soul's Confession",
+            "episodeId": "aquarion-evol-2897?ep=30347",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ec76b2b2fc648df1fc215e6c5e146af6d4ce9fedff149be473e6f7f92be2f96fc760a9eb7f981d52829245bc4b04cd17666c336091b6ec6ac71a6b7a488e731155014850c8dbf3291f829591917c883a408fc54bbdd9a3476f673aa0e15bd43635e50de79ee616233f20b9d7b28328beed39782c6ef9efe5302ab8e9da169ec6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/199473c8a6b1f111d82e4eed31375b1e/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ec76b2b2fc648df1fc215e6c5e146af6d4ce9fedff149be473e6f7f92be2f96fc760a9eb7f981d52829245bc4b04cd172753624ab32624f74086f5b70bccac3ee5fb79d7962351f39ba84871207e94b67d18e01a8f10e76bf753029f0c24cc707df29af4724f9dcfba79fd26c71457945b73ba904bdf0339e3f85fd67c91d5927f4734a0a18024acad12c6d72e9d4611/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/199473c8a6b1f111d82e4eed31375b1e/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Well up, Life!",
+            "episodeId": "aquarion-evol-2897?ep=30348",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4f2d99dcab9142fa821fd6cfb18f4c0b7e9cfdfc0e34367db4979c4a06b261b574e450a4f6616696c4a31db70bdd04caab7f8178b1a7b4287a3faa5da6a2450068e29fe1172a951b81d8e1d9cb5eed2376fe86c5bcae121e0f7bda7377b7f18c274800d27a20b7a08071db0a2ba4c057dae0ab030e17f169448b2f0056e51cb4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c29a3cf036634ce3e624bc165c7d1305/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4f2d99dcab9142fa821fd6cfb18f4c0b7e9cfdfc0e34367db4979c4a06b261b574e450a4f6616696c4a31db70bdd04ca0a55940820b200d283349a1c92167a78d2a7666b40cec6d45402a97683bf35ec7a183c4cf00c0eff4f6b841223977ded051186d1cb4a05ee8853f5f371f202bb1f3e9b2344f72921cb4d50f41e6ee386b1b776659a8c60dcd321c51eea5dcb02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c29a3cf036634ce3e624bc165c7d1305/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rare Igura",
+            "episodeId": "aquarion-evol-2897?ep=30349",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7d778b9cf31e06d851e122dd5fbebaff871877cb61c923bf025f6fe2d09d76aa2f35eefbe0b17e2e49123523d2f9ef1c45e477f85994cf2911b1776faf9b5806ec91aeb15d8217f3778edb24b32b35d3eeb9abb306fe2f7be372c840733eed03595b89ff03f7a31b87f743aed7cf48d830d5f4ef510510614fa946f2a001a218/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7490504fecd9843b9676f123c8460c3/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7d778b9cf31e06d851e122dd5fbebaff871877cb61c923bf025f6fe2d09d76aa2f35eefbe0b17e2e49123523d2f9ef1cfffec8f8887ee2be609777b5a72f5f59112a6f8d4ad9295081029c0c9295cb37ef7f9a0666228cf5426f0c317097740b3bbc79959e3a768f0a52678ce378d447f60fb04cd2aebe1762bcad77991b6be7f1e886bb702ea47c59f2f7925cc8a022/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7490504fecd9843b9676f123c8460c3/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First Reunion",
+            "episodeId": "aquarion-evol-2897?ep=30350",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/fe0dff0b252391701b52c7c5dae6bf1427cb66a83a36bffc240beadb74c1dd4a63bd3502107cdbb9434d228a58b97c4a71136793b364efb0b951bf10d313c08dd1cc539e4b4cbab65d51b70f74c3362dcc46121adf9cc6b43446658f15ed191310400d4e9ce9a81a67acd45948449bbbf66514c89680386a755e33b7c72e9dee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/269bf89570eb385509c5c6c5bca05e2b/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fe0dff0b252391701b52c7c5dae6bf1427cb66a83a36bffc240beadb74c1dd4a63bd3502107cdbb9434d228a58b97c4a1da650814ebc80baad6b4d3ac9f1562d522054b5453b1bbc6ab7e5a3251c75ea7dc4811bafa5d29ba2ec4ae726278403e914244e057365b65c8d26f7ba0c1f4de3e9ccb84f553f70e8743bcbe05cafc7a03c2693ff01592981d4edce7f6db0af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/269bf89570eb385509c5c6c5bca05e2b/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "MI⋅XY",
+            "episodeId": "aquarion-evol-2897?ep=30351",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/443cca978df8c8360d45ddde5ec8db00389248b7bfbc5b5d3039a111cf40a002eecc2750c2ab77ddfa8d6c9fc8c7f140f6446c7482fbc3bad4743222ab07b7e98d286abca3a3edb275f91e9c44e869c46aa914ac368351baf26416f4a6c16de97046fd18da14b0f9e6f8d8fa7862d52bd714151b03892ce65fb37f03bbd038d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7756e43964778a99001c1f1f52afc11/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/443cca978df8c8360d45ddde5ec8db00389248b7bfbc5b5d3039a111cf40a002eecc2750c2ab77ddfa8d6c9fc8c7f140800755a8c0727343b2e0fca9bf009f87b4219a4690309b051ce9f4fde743fef13b1004d112f72f1071e077e497f8bdde6bf70b9950e4c5305e3bbaee3dd7399ed65934255aae02950fd85b8053b7ec02f15ab42bdaa8852fb5c8003262fed089/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7756e43964778a99001c1f1f52afc11/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kiss",
+            "episodeId": "aquarion-evol-2897?ep=30352",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1e7e23d94a3253773cd6e6227aeb9d83fc3212e37aca5f1a86e8e747f1eb9dcbaef53f2e2722e09f90a35e1c6a9acf97419d6283e1de64797e787a6d43ac93571bcbe58df114710498d9014e534862cca1f2f237ac35963f363e433cd6a193647996980f101f8597ff01937cd6604fde080fb5f37f7f541dd53461d50abf7b47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68842ec32211597ec066749266c4b2a3/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1e7e23d94a3253773cd6e6227aeb9d83fc3212e37aca5f1a86e8e747f1eb9dcbaef53f2e2722e09f90a35e1c6a9acf977c03c1c9d14ed759c1ccb9677a64189ec20227b5373113337574a9faf7380280ca513038e60f205f9a0bbd65968126d118ddd63a8273d3cd6b37432b683d4c8dbb1c9c6900d64a436fa99a42008f44649c8f43403d231d671a19a70e9391aefa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68842ec32211597ec066749266c4b2a3/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wing of Revival",
+            "episodeId": "aquarion-evol-2897?ep=30353",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8ef1aaca2f74eb8a5b5a7015720481760b483d5f7297d2259bf819e8c23ff54a87d52c8685cd261d17680191ffac35dfbf967f0cbc37743252f0d7489c175eaf479baca8d6ac9d6f7e77a5144427a9046cdc2df3aa19f879c63ccc9562e5455995ecc39a787035f83dd6e7966fd044dc0b34a4a0e57b2e310e843c22a003286e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/402100041a574386680e2be2c98fe482/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8ef1aaca2f74eb8a5b5a7015720481760b483d5f7297d2259bf819e8c23ff54a87d52c8685cd261d17680191ffac35df2d35313255b0b07059a8588a09b252597b342583bcad917941d455894346a1af0e789ec63296b4e2993b929042e68c67f83df55aeedcaeaa0963cdc08adec7372b9499caa0c79376814c7eefc93a525211234f8a5e9ae609d4499e76d260e4bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/402100041a574386680e2be2c98fe482/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Melody of Myth",
+            "episodeId": "aquarion-evol-2897?ep=30354",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ec750fd2c654662949b8c70207a61b6cea3f13d35571c5d06f2cbeb54f5bb7a6161682f68b89e2edd16d210fd2c3a3f924ed39227d11490dcbd5761e915447f9e83dd6bbbac9ca0259c5c7d18c61c3c18c1a14078f67c5c9e53cbd158f51ebe0096be5f317f32ebba5f2a7033f8aa348175b911bd1a98faeda3c8bffafc526d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/531764e539863e59a4bf95e265518d5f/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ec750fd2c654662949b8c70207a61b6cea3f13d35571c5d06f2cbeb54f5bb7a6161682f68b89e2edd16d210fd2c3a3f9e76b9097b68a5f90035bc13a9a4808a05690e9498c2ac9760b17cce54b1134771fa9bff81c641d65ef46e91ce9ba55060aa09a6838c0a01fd1c2a5edc14f083eaee07e88b2a8aa945ff545952c7d70c1fe051bf0a774d09b5bde06eca2498b5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/531764e539863e59a4bf95e265518d5f/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "ephemera",
+            "episodeId": "aquarion-evol-2897?ep=30355",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e0f3d9f934bd6c76deb52a4c73641d2c7700c55d69da2d18438a7cde8c328ec92c5020ea781892e3795c3b2e5c4b27e41df65d7b05542a95344c9a84ae3b60004eea317ab26aa9090b12fc072abcd3a72a20246ac2c08e162be981fb86af29dcf5e85742ce1239813d90eab0849e6cee7b0d644d62e4ccb7478bea0c52c5c961/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae05fa0bf6a2e2a2ccda70ecd57c692d/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e0f3d9f934bd6c76deb52a4c73641d2c7700c55d69da2d18438a7cde8c328ec92c5020ea781892e3795c3b2e5c4b27e4619075ddc046272e5fe43b3f5bd4b859de7f099a6f60f4597b9fdb91261b7015a38659f1c8fe2da04029b420b2b23db9c84df20669738631a604af26a5187b9c55c7a0ed9863fb1f7194668adf0af0a3385c78f7bdd1023daba7530ba8b88f1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae05fa0bf6a2e2a2ccda70ecd57c692d/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fragment of Adam",
+            "episodeId": "aquarion-evol-2897?ep=30356",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/578c4223e969a6699f619e9c524a744b81a15178d986835111c250a0648ffa8a3fe224cbe36e780c7711cb012d324dae6fe9cd74122046fd46df465a776483463b3a1b782e1d866a61b8d705bab9e5bc9e5c3b22f4c439e8a42fa804f09f0217244424c419cee36d974c8b583f6614f95b04e58ee1de8486133c264199a50903/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/367fb04c9f10a14d11acad034cc482c0/367fb04c9f10a14d11acad034cc482c0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/578c4223e969a6699f619e9c524a744b81a15178d986835111c250a0648ffa8a3fe224cbe36e780c7711cb012d324daee6c7e0968842283da934ce974716a0959b9a29c14243474c68881c889bb52ef21a9d8b7091624fd12e63dee1ddb15cd3c065827377ede3ac2b892473e790ee63d8cc69a6f83784fa4018faf8cffff256d8a9d29b8bb659c656503af55d2298e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/367fb04c9f10a14d11acad034cc482c0/367fb04c9f10a14d11acad034cc482c0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "LOVE",
+            "episodeId": "aquarion-evol-2897?ep=30357",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f0e02d2052822a3767d2609667b8805fa790d1733d91136a13c481960794689ba4b156538e2c91287739d42000f008ee7da49fa22b7fd4aa9e6502f02b192ed95121bd9ebb7083c70edd688101f63a54e4a837baf31ea33dea9e8e8ab8b0713d981eb68c1d2bde754df208e8cc8a557a6d9779e6ab763c7875ed820a9f8d5966/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c8514e83dd4e5f1da2a4037c8ee1408/8c8514e83dd4e5f1da2a4037c8ee1408.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f0e02d2052822a3767d2609667b8805fa790d1733d91136a13c481960794689ba4b156538e2c91287739d42000f008eefdcb2adeb6b8a236b2200cab1ef3dc5cf4f9f3f94a1a8e3fe3e34650fa9693f25fb9232c5cff5c5f48371d886e8e75a81b711306d7b28c83986327c2bb01d0f27ca9752dcb9f8ba436efc58202178019373ec0eba93aa7ff266d358db5956b46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c8514e83dd4e5f1da2a4037c8ee1408/8c8514e83dd4e5f1da2a4037c8ee1408.vtt"
+                }
+            ]
+        }
+    ]
+}

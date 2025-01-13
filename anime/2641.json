@@ -1,0 +1,634 @@
+{
+    "info": {
+        "id": "kuromukuro-2641",
+        "anilistId": 21516,
+        "malId": 32245,
+        "name": "Kuromukuro",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b3d2bd1eb1061e2e69579e79ec38e2b.jpg",
+        "description": "During the dawn of the 21st century, the United Nations Kurobe Research Institute was established in Japan to investigate an ancient artifact, which was discovered during the construction of the Kurobe Dam. Scientists from around the world have gathered in the facility to study the object, while their children enjoy their everyday lives attending Mt. Tate International Senior High School.\n\nYukina Shirahane, a reserved high school girl, is the daughter of the facility's head scientist. While visiting her mother at the facility, Yukina manages to solve part of the artifact's puzzle. To her surprise, what appears before her is Kennosuke Tokisada Ouma, a young samurai from the Sengoku era.\n\nAs a threat approaches from outer space, Yukina, along with Kennosuke, finds herself defending Earth against the invading forces. Along the way, she discovers the mystery behind Kennosuke and the reason he is determined to protect her.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 5",
+                "source": "https://www.youtube.com/embed/SinP-fWnv18",
+                "thumbnail": "https://i.ytimg.com/vi/SinP-fWnv18/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/oIOgBRsCsUQ",
+                "thumbnail": "https://i.ytimg.com/vi/oIOgBRsCsUQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/wBGN0Twj2eM",
+                "thumbnail": "https://i.ytimg.com/vi/wBGN0Twj2eM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/YBkzBuLf2Bk",
+                "thumbnail": "https://i.ytimg.com/vi/YBkzBuLf2Bk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 Netflix version",
+                "source": "https://www.youtube.com/embed/LrDfpKyvXUc",
+                "thumbnail": "https://i.ytimg.com/vi/LrDfpKyvXUc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/s4cmZ5FnHjQ",
+                "thumbnail": "https://i.ytimg.com/vi/s4cmZ5FnHjQ/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "sophie-noel-12130",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/659fb6237292a119f836131fe8ae1117.jpg",
+                    "name": "Noël, Sophie",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "reina-ueda-269",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6a604a7d5bba81980b364bf436fa929.jpg",
+                    "name": "Ueda, Reina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kennosuke-tokisada-ouma-5642",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16ac9d62d0cbbe5b2fe55608242cf947.jpg",
+                    "name": "Ouma, Kennosuke Tokisada",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "youhei-azakami-3926",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7937378664db484ed54af90f74b1fcfe.jpg",
+                    "name": "Azakami, Youhei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yukina-shirahane-8953",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/73ef4b8d9a37027c5dfe114b77cb07bb.jpg",
+                    "name": "Shirahane, Yukina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mao-ichimichi-249",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68623c432335a61f4ac977a968c5b558.jpg",
+                    "name": "Ichimichi, Mao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryouto-akagi-26845",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f251e1b7040f35a602adebf8a8b0d21.jpg",
+                    "name": "Akagi, Ryouto",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "minoru-aramata-90987",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cf83bae5888bfe0604b3f3101985aa30.jpg",
+                    "name": "Aramata, Minoru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kouichi-makishima-14232",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/431a344d32bb6e6f8cffb0711b1515a7.jpg",
+                    "name": "Makishima, Kouichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tom-borden-24288",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f8c6bff90a91accbb2091e117998a45b.jpg",
+                    "name": "Borden, Tom",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryouhei-kimura-142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c702e75fbb020235f8d1edff593fc79.jpg",
+                    "name": "Kimura, Ryouhei",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "クロムクロ",
+        "synonyms": "Black Corpse, Black Relic",
+        "aired": "Apr 7, 2016 to Sep 29, 2016",
+        "premiered": "Spring 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.23",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "P.A. Works",
+        "producers": [
+            "Sotsu",
+            "Pony Canyon",
+            "AT-X",
+            "KlockWorx",
+            "Tokyo MX",
+            "Medicos Entertainment",
+            "Infinite",
+            "P.A. Works",
+            "Ponycan USA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "kuromukuro-2641?ep=83599",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6637feb7e0a56bfb3c28115ad58e7d468c58aa1f58156f682080deddd1595253bf8ad7ea650af071fe4f6b152dd75b9b27b01ba282cc766f5d47324d6078a316a767de2e61090eb0e7422001619dbaa7bab46ddc56c21501b319b7b483b21cbb605315286db6726ed81b46d15ab104f2a5588e4ecf464f752f4ccdc149966bae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/128ddd78c64fc656b20f3da6e2e36224/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6637feb7e0a56bfb3c28115ad58e7d468c58aa1f58156f682080deddd1595253bf8ad7ea650af071fe4f6b152dd75b9bf1ca60e43f4487d77d27d7f6fd7ef56d10282af0f1d50de2a4987a1a71da8b9f4e6595f23d6711571e2e3b3f52507b8fdeab9434bf61c993ebe7b19fabff89debec3d91f8383b1fc9276ecbef693af97d5d3e864a1dc118d8a5560764d7050cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/128ddd78c64fc656b20f3da6e2e36224/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "kuromukuro-2641?ep=83600",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3a8331d98f8fc0c118c405de3f03becd7f8ff2bd5178367f59ccc5a8b987796446d8e4e3cb0f0f2540792b7b7bdac483a2044b31511a81074123a62f07d19fd805015db988116d22b140da8e5fa8b58af0043034cb5a318b9d65cbe0ab0b30d9919274ae27c29cfaac7a242594a9991c9fad70f4c6dc84fe8f40b483747036ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99192a2cf325e61b1c3223d1793d4552/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3a8331d98f8fc0c118c405de3f03becd7f8ff2bd5178367f59ccc5a8b987796446d8e4e3cb0f0f2540792b7b7bdac4831c078ccd433d2ff866d1e545bfd533840e9600f4c95935f5dcad03e2a80ea40107c06e74443c9e39bba5fad90fce3d5181f8c8f43608921ea3758b3a0377aa02cc7e3e6d84e714c67ecfe7bce0c5fd14cc41e13efb0e330bf90e368026b9d941/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99192a2cf325e61b1c3223d1793d4552/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "kuromukuro-2641?ep=83601",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/25b38f88ad6d2c3475b3a27a256e248a0f5e488414074f87af757f488a4b73739b8e4832cb93e99815b393ee31dc6b2870736e1d4257e25ca5b0ebd20282113dc9d4a0bd059ce6fec77bc99b13803630b5d5bbebf9901745679e250de936b14ecb5ba0368478052acd028a65cd8e7120e674a8e2af4588431e7ec6499f9ec65b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4dda10cc035e4584eef73d98d348b94/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/25b38f88ad6d2c3475b3a27a256e248a0f5e488414074f87af757f488a4b73739b8e4832cb93e99815b393ee31dc6b28a607086a4025583393628fcf283034a6ccf22b6da2c02136bc9475f85730b6a652026da9fc1880145d60dd863724bbd4490b20b391abe4dc7fd9aa480b942b51f92dd124ed9358c9d146cafa675b52427b5ddedf55a1988568faedbc0e30b2a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4dda10cc035e4584eef73d98d348b94/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "kuromukuro-2641?ep=83602",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5bc554fbd3f71d83c827e719da37325fe69984c6b78d8f33c38cad36270001ce34e04a6757abd7635b59e34dd9c385af8c1ad59fd4b856399bbd4095637b02d8017308d6ee2a4deb069a3e8b719fc44089c5fb5cc22af7f4fef0ccc27e3c6f258a245f441295ac413d95d0016a8094b4b1c4e82f19ab583477e4d1df29a7f0af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ab667c9c5c80cfefefb72baf11a410d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5bc554fbd3f71d83c827e719da37325fe69984c6b78d8f33c38cad36270001ce34e04a6757abd7635b59e34dd9c385af227e7917ac3f71b7591d76f99c81f380e30cc4777bde918e9a70afd92a889de5c85b06258e6260c37d3ea5d7c9827430d0e007cd189052f5b612467e095f40dcc9e438d5e53aaafb8c750d0a9effcf9a5a480a4d8091a90e3bcb76326b0d040f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ab667c9c5c80cfefefb72baf11a410d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "kuromukuro-2641?ep=83603",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6c76c052e1cea0d69f14525ad7f4f8f7a1c386aaa8f989c6fd2144e5d3cd09702109dd5d46c77ded91386cd99a4337d73c5373bc4ea24910cab81481cadd9e272bb718a4350f992baca6f74d0ab29b2b814d47959639c18277988be0bdc22af9181cf5250e25b5c994c7b8f2aaf703115f8a5a64b78057638dc643931264cf8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/087d862beae9bbc6e81d60495e2c93d8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6c76c052e1cea0d69f14525ad7f4f8f7a1c386aaa8f989c6fd2144e5d3cd09702109dd5d46c77ded91386cd99a4337d7a20111333210cc27adb3cf13a51ff4d5ed5143c52f77c26f767a0e19f75a22b94526caffba8ec2624db44147f1a94db70978579a2a8e58545b0792478c8814120a97dd16ca0d92d093d52bb30c4af908234042d175fb2de11cca272b4a8ac6f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/087d862beae9bbc6e81d60495e2c93d8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "kuromukuro-2641?ep=83604",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1e9257234ad1b9bbdc03961a63863ffd79383e42bbfc78600a9c3385738400b999133547a936440b745235f48cf1d56021bfa6e1e2ce0aabe07ff3c050798f0d8e74c27071298aad2bef374793148097ee14896d98328b0f2f0b2a2f74a4aad7b38e5e605e8e15000e4db1c2c51a979b25341500ad207c7407fb234cbc88881e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1ff12659c3d95cb06a06cb2b12faff4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1e9257234ad1b9bbdc03961a63863ffd79383e42bbfc78600a9c3385738400b999133547a936440b745235f48cf1d5601e1e0e1c7279bcb01d814cb48ee485bbb324300f56d452ece78ad8002bd55bb5acc63a27e2063ce1186ca50c551dc8a3463834cbf60b4f4c0479e9635a98eb347859b5f992755101054fa6e588dfd54daa62b7f095d4098cf23ff7b156254367/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1ff12659c3d95cb06a06cb2b12faff4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "kuromukuro-2641?ep=83605",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4e29b7bef1fd341d86f50b0f2a850494b438105d8ca86efa6903c8ebfd3e6b8523877ea2dbf85071a703d0bfc62aead2f12f3a8e39e131a20df2394b910a5b738ef46e34acdb45ea1813ee7bc73a7615799abbd5b65086419b351bae09325c5f0d9c03baafbe8f768440832321cf5992efe09e314648b48296d5fd902adfa156/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f44c25ceed2fcf5681468599f9eff10/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4e29b7bef1fd341d86f50b0f2a850494b438105d8ca86efa6903c8ebfd3e6b8523877ea2dbf85071a703d0bfc62aead2113fa4b6bd5f02e31bb91758a03a798d3e127dcf5092ec142955135927f587ee5a711e66e38486e7436c77c011dd8d5c871093c264530a68a4d4c1b478c271a155560c34d30a2deaf6bb0279a09754967b9aeaaf914b582c844389413cb64c7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f44c25ceed2fcf5681468599f9eff10/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "kuromukuro-2641?ep=83606",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/bd3ba308194f6babecc75f32020240dd89d61a430d865b4ac949483c4ce863860851a6dbc6b39ab82d086696543d8ce192c9f8f080274f0b2a5d200a60df03d81e6aae4380b33dec2d1fe1854c061f054d56ec0662b1f692a2848e41160dc349ba5861a4518c298f003a94939662b123a6d2971f52ccf4726b4b8be73f2b0bba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd1ff800498ede8f57a07a6226d7eea1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bd3ba308194f6babecc75f32020240dd89d61a430d865b4ac949483c4ce863860851a6dbc6b39ab82d086696543d8ce1e341a3f82dcc8748f9af76618817b5dbf7193a95b026e26405e3b47b7159a9b0c650aeca9505a899c2357b8f50e2d7703ddb6f5c4250cb9a2b57e4441df19437bb25c691a8719a1aff6a38961cacebde97dc65cc7929498aacf13b324900a702/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd1ff800498ede8f57a07a6226d7eea1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "kuromukuro-2641?ep=83607",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f24ae7acb2a9089dd823d41aa533f320597a4e86ab2a41f6af1dd8d3e33483f25d0465267a5925241b69ffba3cb53b354aa5ef2a5210ebae7e239009a3848a977dcb836ec8f83dcb4d90105f99fcbedfce22c84bd3bb75b661df267a6609431995023753918b0e1488d691fc9d6dff0c29e3e7c06cd4985f163476ea092c29e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99f3d59a3b096b7fdcb61997aa5abdd0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f24ae7acb2a9089dd823d41aa533f320597a4e86ab2a41f6af1dd8d3e33483f25d0465267a5925241b69ffba3cb53b35ed707ffd9c01cc7dcd6958c9f3eefc824d6420c11037f36dc46814e9cdb0f052660f77ba182408c13abff5e31f0166420391abe9b9085b1c6bbdb8ef7644c83e25a4a2b5c34257d6ae0bdd02f65c015ac3da1bcc6ded20106095fac80d762177/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99f3d59a3b096b7fdcb61997aa5abdd0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "kuromukuro-2641?ep=83608",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/436f3f7c915fb97dda23b3b92ddc1363a579383ad9e2eb6510cb091db97a94e7c33124f6e31634518b8dc872007bccc3ab0730190baeb2190e6b0cb6a6acb02920835ca9a922d88ae536a6bdc60b7d09a04aa379dece9ffa60f1195f5741be15bbb22ee2d13644354b0f2e8815708620867a3c2763fd203de2dc884c85e69faa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c211a6b1e2752925cf3b7bf4d28643cf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/436f3f7c915fb97dda23b3b92ddc1363a579383ad9e2eb6510cb091db97a94e7c33124f6e31634518b8dc872007bccc372be068c02214021ae9d675f4873e5cfbec6c0874464e5339f1f2633154ed1a3cf901e2a26710e7b1d1c0543f5abb86f37e5206f043ddde4f194b02f70468c45424f1906dea0a074e78c19bfd373a5d6b1d172ee8c5b8826e0391c7decc84f70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c211a6b1e2752925cf3b7bf4d28643cf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "kuromukuro-2641?ep=83609",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/017791ec784a9910c3ecb6d2fe263a17017b700c99ffd43e87547e434492ab07a4521de1ab1a3bd47c02b1618ee44406915d927bfae8b48b940b72521d6070526e04282205303426abaafbadc2070b4de7a11810ea23242c40a1845b8c34f4d79709cc6c4c9be0927cf7c81afde3acc0703ec37af06f592ca5b456ab8810ebe5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1aa6a4f0d2a23c15c0f20a1ecdc3f23c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/017791ec784a9910c3ecb6d2fe263a17017b700c99ffd43e87547e434492ab07a4521de1ab1a3bd47c02b1618ee444067b1872c1ab1b7701095f330a7aec623fb57ee880e38460eb258a512ab9c48884943759b34b1f4b57892ac666f8230fca70d9d12ff7458b9fcf8d6187728bc2247c01527a6b8bd212f2dbd1f2a136cefb1f03abc5adef185072b6e188ef568efc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1aa6a4f0d2a23c15c0f20a1ecdc3f23c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "kuromukuro-2641?ep=83610",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fe3f917e02c2f692960e152dd29b4afe6fd4e478f02b5de2e237b4dc9be32755498efa72e882faf0bec4c3274a64562b180c9ed7d88c079bdca004f2976a8158dbd9113cc2eca0a7eb4eb7eec499dc9ef4f0fdb3bd53d5fdf5ffe19efe327d9ffd762e3586b386dcb195d040cc25c905e787765ee191bf9543facb212be6e448/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb9fb6e01aa231ca337a2caaf7ea2ceb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fe3f917e02c2f692960e152dd29b4afe6fd4e478f02b5de2e237b4dc9be32755498efa72e882faf0bec4c3274a64562bf7382c94c9a01adcdd7f9b30a856d4a09526e94c70ce334225e7899d0302d9788f8e37af1381c8e148a101c201251320da5aee1f5a847ef064f230ab0811bc216eaa458d6774cd0f6c2389d875e7e3dd1f3cc142ba4273b670018d6fa843b112/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb9fb6e01aa231ca337a2caaf7ea2ceb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "kuromukuro-2641?ep=83611",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dbc089cfc2fa406cb49e6c1b078f74cb9d5a67c82567ab19fce419866808978fecf12f1b8db160e03060ce75ef3567c4aa572485a961fcedc291c88bc3b25afda681ef0811dade0388b0fc0deadd28f23ae424a51d18f902f870b30773aace468a5ee9ae4649f85f212eeeed4cfd499e655a28be2e714655906d3737bf633a15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29b34975591da40aea70cd32bf5c031c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/dbc089cfc2fa406cb49e6c1b078f74cb9d5a67c82567ab19fce419866808978fecf12f1b8db160e03060ce75ef3567c43a593a09270252a823d84d0b7ce37e7ed436e17392d9d11b42b55287f42b7418dc72071f67aab8ccb2e01eca8d858f3206378bff893be9caf6de7d949163daf0cd1009a86ccfc77d0af41f2e8abea20cd55f647898d84ce6ad0ff2da6f9dfdd6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29b34975591da40aea70cd32bf5c031c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "kuromukuro-2641?ep=83612",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9012341b93ff1670962c094639b5e9b81349f446f70e78e533aebd34fc33b875879296111161f0b470b232b78e301d78b0a377fa4fb979a8831751c26c1a08e43ee140f7920ac3cf1c8985a7e226f26fa1ccf4b668a3703468375b9723b0b78fb9418004edc1256e25b0fecfb030114a7bd5823996197c2d9821f73face629dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78cf46f40d3cfa4c5244574e89ef7d8c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9012341b93ff1670962c094639b5e9b81349f446f70e78e533aebd34fc33b875879296111161f0b470b232b78e301d7880a37d21090a1fc2005bf762265ddfc542bcbdec9b639d42766dee2a631fab3fdd56f29527187146348650d289d0128472697571c7f7de18c522f8438ed406075f7ccc77d3a2e9d2a6a4542278343c5634e2e5aa4f3eb20c4d9f9f294fca021b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78cf46f40d3cfa4c5244574e89ef7d8c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "kuromukuro-2641?ep=83613",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f05e7878976cee316bffa8c5cc2868f989b7cb017ca9a4188891e2378e89669ff99fd0786f25c31440614c3a93eb67a1ce26956e50eedae165dca2e04356ab3d0d26989625f9e6dbcce1df3cc43454c49f26949e34e97d3cf72624b23b36d62762c5aa9708976af3c4a9c3069d7517091196dacbb2686b1126b25e746595a962/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff10884d3ae27c45b63bf47284c6daa7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f05e7878976cee316bffa8c5cc2868f989b7cb017ca9a4188891e2378e89669ff99fd0786f25c31440614c3a93eb67a170997ae0c2958750ba07d72e9da1fdd4fbb33fbc2acc20ba0f9c4e41154b4d8544a53ec95f7698d96308e4d3a7fb287be27aafca10af7b1438d7568a00800331900aba450be0b5304aec6ad2a3f1a4d19f60e9ab096d9bb19090cfd64accb434/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff10884d3ae27c45b63bf47284c6daa7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "kuromukuro-2641?ep=83614",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ee40bfdfb5bc53c7a3d9b28ad55e1eb192195bcf9c7c29b2be986491be3f912497197d98c50b8450cf1b119db92448f9d7910bb4a63063aa5cfb501e1f95371d5e76fcf7a154267179277989e354474aa4415aa61a468e03c335d8aa371d06dbebc39fcdb86caf6a94d7096e231fd32aeec6e4c4c528f2964880c48b9c463329/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d822823ba547d6a851e76dceed962f6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ee40bfdfb5bc53c7a3d9b28ad55e1eb192195bcf9c7c29b2be986491be3f912497197d98c50b8450cf1b119db92448f9e2d7f3c0205ab4799dc71829898ac9be8c770e544cdf7fd49d61f272be7b45e2fe732d9fc61bc46a97e296837efac153fb61e22716c9d6780d4fe7e7974fc122d272a4188420be1822eb6898ddb368883327ce602216242ddc72c73cc410124e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d822823ba547d6a851e76dceed962f6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "kuromukuro-2641?ep=83615",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/055142f5c88e5bbb3c57129817c913feeb536f2164dc9306ca16142052e5b8bc7d2d48a6604e3961f5fe79a00b68431a1ed775c9da03de31ef5f2a9ebed440e3574aa0b2200f1a8cdf54cf13a0ca48c0218146a1e41f0d14406f48a40561aa1eb7dac59bf0ade33da87fe7c4f8bdaf176a2b365838bd3579d00b55aeea540841/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/48cc3a2ee0ffe1628568e4e191297f40/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/055142f5c88e5bbb3c57129817c913feeb536f2164dc9306ca16142052e5b8bc7d2d48a6604e3961f5fe79a00b68431ab13d78e666d261b87f415ea74238fd42ae9468a45b6cfe4b40de9ff645a27c3431ea0722be2adbe12a8c3163082a59c0e3560fed7be9c79b36e51efffb858d967a2b81b0f33231293af2c2f37991082f158daf9a2487f80b364e5ab399ccebf2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/48cc3a2ee0ffe1628568e4e191297f40/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "kuromukuro-2641?ep=83616",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a958f6d53df0e03ecf746d6f8f8f10684dfd1a1396a27675220a5fbddd9b682340a9f4d11a81556e668342c540810c59b7a2902724ca70d0d9269109a8ce658c3dfa48036e8f4c73abc855b13fdcb10244ec6616e391452dd2d03a9c2981cf9b6e1daa4e1ecf20dc6a3793fe31b93332df333ad5c684736e922cd9b0dfdb9154/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae4ea705126ffdbadeefdb7561bcfe14/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a958f6d53df0e03ecf746d6f8f8f10684dfd1a1396a27675220a5fbddd9b682340a9f4d11a81556e668342c540810c59ae4b7b49b94b9a2265030f4719a825ca12136e7584f93f6fb395b5c5d46ae00d08184e890e3bfbe563a97d84bfd9fef7e9cd5de10ca595955ae528986c9aff4c3da6178fa900d1bd3634af946413bebaf85149c153c02315482a4471d9f54605/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae4ea705126ffdbadeefdb7561bcfe14/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "kuromukuro-2641?ep=83617",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/73a7e5c2fe6217c1d425fef44926162f2c5e2629383f21d0cd69827899c26be6705e815bc9b3d318c63510ee40edc292394a3db2049fb7164491d87311eff8d239425c6a54d956c627d348c2b0a52601a0e168e2cc25fd4e790cf29b56caff50580455ca9aeb1d2d6ac7e8d0d58c60e0e85ce76affaa878a982018af7b99ec83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d89540ba6a1a2ee778014109a1bc192/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/73a7e5c2fe6217c1d425fef44926162f2c5e2629383f21d0cd69827899c26be6705e815bc9b3d318c63510ee40edc2927260803bcff1f4acad9dedf61824d4d9b6c94358235a465ec49023975f560d5be3c1d74b1108e1bf50d91285c464cc2343615efac3f090638070db5d04bc74ea05f8eb72994882aa2488eb7338bcf6672f778eebfdc7ced86c2a6fbfd3248118/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d89540ba6a1a2ee778014109a1bc192/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "kuromukuro-2641?ep=83618",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/97341079c22c762d98de212a77ca37f4538da9c1f5afa0ed51435b472f73b1acb3593951874e60ff8ba9438b6a052bf654d802e248976c23b22de1607c44e7ea4dc68ccce766354ba055015188c7644ae56c216e8bc39f9970f6f25ab706b622e8d3f50638027fcb7c40fab9efd00af825175757a38520f8a194c90916e168b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e64d285a9eba48dde2b03b698ce05949/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/97341079c22c762d98de212a77ca37f4538da9c1f5afa0ed51435b472f73b1acb3593951874e60ff8ba9438b6a052bf646a8f7df361b4b7924c45d447d9176178caabd53c6e4d000fc88882174d95e4fb3e3d54aaac87fe04927440c079df371bd665df000cbbe54ac5cc7b49e3ec730a659429101d4416eb760cb0f39b8c5934e4fa7ac2c1eb25bdf061ecf89f1df36/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e64d285a9eba48dde2b03b698ce05949/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "kuromukuro-2641?ep=83619",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/171d83b3c7ecd0e154cdc2ae1c2bc107b171c3f2a261c72c728d39b7404613eb816e07205cb65995700e56ef58389f892b8e4be185b3a40058e2e6a718643f5c9f2abb145108e4abdeceaea9c9fc614e2718e87cba0f2cf52c163077c67a7b7b602d284bbc4a97eadd4b413ca509d6b918455a6e9f071a54f874e690c7389954/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f740e6bcc111407cc208f55506240345/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/171d83b3c7ecd0e154cdc2ae1c2bc107b171c3f2a261c72c728d39b7404613eb816e07205cb65995700e56ef58389f899593e83e124bf08c54be38b6aa78e63b04f2c228872194d1cb6f11e00f1cbbe129a316a4fc82b36b0ddf1ee665a40a57a589e66f2a5dc1438c6f15726cb7b86f427b116417d1adc88ddb36b69413ffcd19d6be6809487ec88ef75188e64a406e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f740e6bcc111407cc208f55506240345/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "kuromukuro-2641?ep=83620",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/80ae582ee09c75ff2609978b36531ae6d45e701589c345c7e340b30575fe213eaca219d64d30b31df4d61dfcec271fe44bf92828ac9a323f9b84c700f01c8491692bf34373dc291dea7b1f6b6f6b2932d55f556b314a240ccdf0c71679d4b824b27fb7ad39b24cba9fa9547f03b022dc955d125e1749f22c2d5aa7b64a121424/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6204a739da9b5d4888d7b2c81a24f007/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/80ae582ee09c75ff2609978b36531ae6d45e701589c345c7e340b30575fe213eaca219d64d30b31df4d61dfcec271fe48cb79d659105c1a321fa30435950055f5244455d0bab6ba6d4c7651267721092c51659065f9bd1837e38f522b97ef98d10d237dfd01fa059de723f7cb078713a5cfd4f1021285a817dc2c528ce2d46b282c079e3209c68f3d9e12baf78d8e9ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6204a739da9b5d4888d7b2c81a24f007/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "kuromukuro-2641?ep=83621",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f27b166618bc0413eda1a1e273b5afa175f2b7fd18a7941159846fca6fd6d4a242e84da4043f07fe3504645ee2dbb3f2c07317438196a2446fdcfc7aeaac6f855c4b4a923d95338e81e96408f68f67e5225a6816b03e34c33eba10725955eb25a03f8f8fea8b801d28127110c1ab9dedf85ceed5998bd5d993675a41c437857e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e64dd258ac101d8db5ab5336693a2da/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f27b166618bc0413eda1a1e273b5afa175f2b7fd18a7941159846fca6fd6d4a242e84da4043f07fe3504645ee2dbb3f24800705cb785df513846cb489bb741a2e4beaf91a81297d0f057c33bb0e11c017b71fdc5d56e54d78f5360ebb4ac642f559e8d7bb0b7af82f8685d15614bb09c0cd9040f54f2e212152b4928680a0a5f35a1997e545b962b40555e85cc658289/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e64dd258ac101d8db5ab5336693a2da/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "kuromukuro-2641?ep=83622",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/085477fe960a6b697bc45c0e80288afa3bf6798679bcc6a2b0b4bdd7c8b8c3b98ebd1cca155c7e7707126ab89350b74086f0bd489fc72ffc38759ee722fb88b670f9842e59b792b86266b2f38f1cf55d9eca6a889527f465b10ece5a519b7ff03063b65cf781f7308a033ae752af49bef5c53763c26348bd94e2b3b68062c996/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a521e4d87e99b12c7f78f18e8879224/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/085477fe960a6b697bc45c0e80288afa3bf6798679bcc6a2b0b4bdd7c8b8c3b98ebd1cca155c7e7707126ab89350b7409280de54f1f26f960cd2bfb19d6f21a2c4d5cb273d93bf943dace53104397069a5c853a94543600cb52b1480195a72f6efc33e1e9bb3b2be43563324f7db7b1f8de2b6737f8244ddc5d4870ab83e0c4c31c6efc1f4c2d344a13f316171e3d03a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a521e4d87e99b12c7f78f18e8879224/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "kuromukuro-2641?ep=83623",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/25fa2642a7cfcf8ac618191f155e61959b4e9d18e3d144fe0c8bd1fb1c7d837c56aa41b814b348734d2c2883850d7e88165fbf080486cd645086f051991d3d41c35f0eb9a8afee004d87830115c873ac5d46c608910d928c8948c12c54948169f32947c4b5c48935d78a560b8d00aa5cd61d3d8097be4c5596c2b699bf93c8bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63c4eeff142ee490397928bc871e4760/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/25fa2642a7cfcf8ac618191f155e61959b4e9d18e3d144fe0c8bd1fb1c7d837c56aa41b814b348734d2c2883850d7e884abecce153eff2751bc4c48b2545f0ebbc13f2bbc1c74a7df2c1e2f329207697f41d5410c08143a0a7f06c5cac85ca9d3351a60b2bee52623d891971d67a18ae4bfa57bbd46425e51bb86b9611bb6815744e346864efda5bde49dec37c3f605e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63c4eeff142ee490397928bc871e4760/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "kuromukuro-2641?ep=83624",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7762a48afbe81d88597f2812827c01cfb1506a3ef099db2f97e3c181aad72573caba2dd6f38e44b09e47ebdb6db1b05eb75be3a404b22b90f10fdf45c1f879065a877b61a28e6cdfae2257557c05090e944ee5ddd52e9ee88aa7673e59e7d6f74b03e776723080ea387556f3881b8bf99dcfde64c3535ed5121b974d3815b500/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50c9eea6f9c8db085af9114a53fc23f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7762a48afbe81d88597f2812827c01cfb1506a3ef099db2f97e3c181aad72573caba2dd6f38e44b09e47ebdb6db1b05e5f616361780b99b684481529a43ada39a5619c1d2384c517655d762aa948cd9a06f3434d78830a71c0b15cde6b1f837f5a39f9774f788696b14829d3399e3f6ebf1203e3c4ea02e895238173ad4bce5d024e391e5c28f4f141c959d3b7b0c9f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50c9eea6f9c8db085af9114a53fc23f7/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

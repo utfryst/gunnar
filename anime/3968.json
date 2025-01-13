@@ -1,0 +1,364 @@
+{
+    "info": {
+        "id": "kancolle-kantai-collection-3968",
+        "anilistId": 20553,
+        "malId": 21511,
+        "name": "KanColle: Kantai Collection",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96e33265c9e7d7eaced8dcb9f77e57a3.jpg",
+        "description": "With the seas under constant threat from the hostile \"Abyssal Fleet,\" a specialized naval base is established to counter them. Rather than standard naval weaponry, however, the base is armed with \"Kanmusu\"—girls who harbor the spirits of Japanese warships—possessing the ability to don weaponized gear that allows them to harness the powerful souls within themselves. Fubuki, a young Destroyer-type Kanmusu, joins the base as a new recruit; unfortunately for her, despite her inexperience and timid nature, she is assigned to the famous Third Torpedo Squadron and quickly thrust into the heat of battle. When she is rescued from near annihilation, the rookie warship resolves to become as strong as the one who saved her.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/3u-WE85ExIU",
+                "thumbnail": "https://i.ytimg.com/vi/3u-WE85ExIU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/ABZN292gvRo",
+                "thumbnail": "https://i.ytimg.com/vi/ABZN292gvRo/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/M9uafzMgkhY",
+                "thumbnail": "https://i.ytimg.com/vi/M9uafzMgkhY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "akagi-4888",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bbfbf8676c06a4a319ee040ebd74b5da.jpg",
+                    "name": "Akagi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "saki-fujita-402",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52066975d8b6d0ff3c99606e0cb272c0.jpg",
+                    "name": "Fujita, Saki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "fubuki-3552",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ab31291006164cea76aa2b32e5bd1c59.jpg",
+                    "name": "Fubuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sumire-uesaka-175",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e4c27a0964009f2c8311fceda75108e.jpg",
+                    "name": "Uesaka, Sumire",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaga-3287",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8b74877d70e90d28b856e132e6c66c35.jpg",
+                    "name": "Kaga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuka-iguchi-194",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af1495a21bf8ea92c7ceb350a5144031.jpg",
+                    "name": "Iguchi, Yuka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kongou-1146",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/80cb4ff5ef35456c83a2bcfe79030c5f.jpg",
+                    "name": "Kongou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-touyama-41",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aaa7817d97535166c8338bd9254b67.jpg",
+                    "name": "Touyama, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mutsuki-9420",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/21cbb0e839b3f3c06ee3486b9de2c57e.jpg",
+                    "name": "Mutsuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-hidaka-238",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fe413c7cb4a19508a3766911d01ba69e.jpg",
+                    "name": "Hidaka, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuudachi-2099",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adeb27b2675ce345fad8409de8d05189.jpg",
+                    "name": "Yuudachi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumi-tanibe-2415",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b15b7e14f295611ba34f6a5bf2377662.jpg",
+                    "name": "Tanibe, Yumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "艦隊これくしょん -艦これ-",
+        "synonyms": "Kankore",
+        "aired": "Jan 8, 2015 to Mar 26, 2015",
+        "premiered": "Winter 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.9",
+        "genres": [
+            "Action",
+            "School",
+            "Sci-Fi",
+            "Slice of Life",
+            "Military"
+        ],
+        "studios": "Diomedea",
+        "producers": [
+            "flying DOG",
+            "Diomedea",
+            "Funimation",
+            "Crunchyroll"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Hello! Commander!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35964",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c24bf03b503812e59769807b8634c4561be2a1da6265d27542b4685533b9a3b9c4ecec3d133a28ebef4b325bb457fdddb3de98b79d85e1c2749406b80dce3766f4b1630cc4d62d08bd6bc18bf7fa0e2db4749d9a1de361005163064f854e41a61a7549e6807f953d03dae7b9dfde25f125e762bbcdb2353bea88e24f3d0d610c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f7e1d37cf7498a009248edff252130f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c24bf03b503812e59769807b8634c4561be2a1da6265d27542b4685533b9a3b9c4ecec3d133a28ebef4b325bb457fddde3843423e3fea7940c7c5a50b5a29f2b0ca4b370726201439563998a31a50695a68cee300f981e7c2f18017d077b5d371993ea47adc9659234f8c4e2ff5d75f4e97cc2e09fcf183762e51e3db12e885cbf137e104ba2f8ac680b155e25855e08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f7e1d37cf7498a009248edff252130f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Without Dissent, Without Shame, Without Resentment!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35965",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/421e9152179cbe3570ec75e18df6c19b9690249188043dc41eaff0bcc9af3016c983c77a0826315395bcd5583101c23f96b271140b9c00b0067394df643a6c7598efc10fbb27a9d35e7dc854452998b0df93aea88627f353a7988ba36be77ebf86cf39d32a6158c9d1ea7d9b0fcacc981c7944b2be1b1f2bf1ab417ff103212f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7ed8bfc00bfa3713a01fd422257a26d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/421e9152179cbe3570ec75e18df6c19b9690249188043dc41eaff0bcc9af3016c983c77a0826315395bcd5583101c23fe49c2d683359bac68f434944615d2c61d1a8a282ff9fd7bf216172f1546946152a58f9318cb56794104b3620e5a6525d37d18d1c5f7fa791bc1da35cf8774a57e9069c96805fbd9ed1b7c4f3dfaf50f68b3a5219c78bd0b11bd9c5502686544a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7ed8bfc00bfa3713a01fd422257a26d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Operation to Capture W Island!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35966",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2efa92b7ce67f13a029e35a97f17104344789512986615804a0324711acc8a1ba54ef73b1895b30a6381f4581f60bcec715517268569b15446c94cd3de97266a82ac95209b6b9a7150f46aa94d123e210b7e3f2212529bc6dbc6f6e55c3512f2202e5a6fd9b81b3c2db2a5eefdf3e142ab1d88f44d1230ecfaa30b806e9aeef8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffb7b5537a8ee901216f6cb87eb280e9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2efa92b7ce67f13a029e35a97f17104344789512986615804a0324711acc8a1ba54ef73b1895b30a6381f4581f60bcec7d3641eec97d1345e2ecfc3455f37caca57f0cfadf5f37f46f9e27ff27c2e21f8bec039d71db13c7849d39b4d57584fe4074f3b71ca970192442c5766925a2dd7903d4d069b6f6e2dad479f7d3c4bba622858f6112dd88ce7fbcfd99b183cc47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffb7b5537a8ee901216f6cb87eb280e9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Now It's Our Turn! Follow me!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35967",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fcc0a0164d72c70e0590dda097492ec979c7bd888e6439b1b4f346088c77358c1e60bad40b46c8f1789b8ed0c976f5925beeb3c4ec3ac74935fffcf27b9f784112da4ae81d70e74168e8bcb396560415c0d310dc9e683aa551311dff44dde8c50c5aae7e045e76b5c764ab9fd28aed16d78d27849c06c2d8e4c291e65e0417ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16e9fdb94946c090a37ca63173821cc7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/fcc0a0164d72c70e0590dda097492ec979c7bd888e6439b1b4f346088c77358c1e60bad40b46c8f1789b8ed0c976f592d0576f0718a6dfbc5e7aa785efdbdb4bdce2ffe7fb2da61d86cb508429213d5f6e603e7db6405b338525b233149e17a52905ba206608a4e621c9824ae9c715afc70258fdd4fe007455ac1d00f8bfcab2d927039b0c8f469596b4927453dc6b6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16e9fdb94946c090a37ca63173821cc7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Compare Me to the Girls in Carrier Group Five!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35968",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0f7c0b8e7bf8b11b87a2939848ea1caace1f4468f0b4169bf805ca7155d179fd592263a5f868ddcba817df3a76a906a88fd6a1f246c0e56c4e0a8e91f82f92abe53befa4f3fc05304d3d7b8519a563a045e43b4694b4ea9e8188c9dfb7517b2cd5bcaff7827bac312091825dfe940c70f3db06fdb65f47f1567e1f3630843464/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff42fffdc70da8253ad5bd0a50a4d823/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0f7c0b8e7bf8b11b87a2939848ea1caace1f4468f0b4169bf805ca7155d179fd592263a5f868ddcba817df3a76a906a88c29bf2bc98850261194c793fbf63a5198f64c47b571a5a6b5bdbd3374c2becc1b1f63ae4f2b391d1c93558de1b8c616658fb0b2ab1d58026b46b101916723884ea44fdaea5511e9201b1791028fe8fb2e08abb73984e066c3633e42fa47cfdf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff42fffdc70da8253ad5bd0a50a4d823/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Destroyer Division Six and the Battle of Curry Seas!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35969",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4eab907ab63f30f33d5cb35946d28049a806b7fcea2bb421bb507b5009f08770070b5fb26a17db5e4bced2bfc1dcc548d8481750db31ca40365322e12ef36673bdb1141174b1872696f4b4dd7ed721f72e2bef7f4a4c854f4e561a1083aac97b010025e7a5918b80e9090a5d377782b7cce89c20a54f02370fdaf4f893d34766/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35fc7bdb7c9f8e25bee41c1cb4878f13/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4eab907ab63f30f33d5cb35946d28049a806b7fcea2bb421bb507b5009f08770070b5fb26a17db5e4bced2bfc1dcc548ef3095ec6497a5daa4807e14fd6cd1659782e4f922e9968637c888cb70f76354239394d20a243ed1397b0bfa8b7de8a7df91e2f10d868e78405762cfbefd201c46d86531d71495af0597494005f6971ec12a8e7023d477b1cbdfb1074ed940ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35fc7bdb7c9f8e25bee41c1cb4878f13/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Hate Carrier Group One!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35970",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/968c01d736d3c31e5ab7ad05ec361b55ebbf979608176e1af548f7e93c7c49464e0377865c249659c2052339abc462cfb73295d6f3322ff0b5d4baa7edf806ac324448ebe06faa88086be790fec05ea99f445a23968aeccdab8f444a96a1b8d4ffc0386f410b144b0da2ab7b7e76d16766a8bdb630afa80c444f2ece9ab8bde9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/910a894834a660f2462df2a0803dc7ce/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/968c01d736d3c31e5ab7ad05ec361b55ebbf979608176e1af548f7e93c7c49464e0377865c249659c2052339abc462cfb137c0859a790245a34622d425964a939cbc0788aaaf4ea4528d91c15f76d5442b19e5ef7b521d7d694298f879328c9513ad803e38087188b914931b7cae5e08030417e8cc0d3609bf404d66683bbe1076f9d3a7b4a0ec67dc9ed966673a920e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/910a894834a660f2462df2a0803dc7ce/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Not a Hotel!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35971",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d7ce9f37d141d90141ac7be12e22b8e0cf296bbdd54e570308667a934b7125ee10975b478968cf9ca1f0df19dd2563ab325173639920863ebe2240e28594561bca3c7b9da5bcfcb1dd2e44e9ff252c4bff7f6b94b9aeebfb47223a6cb0327ebf6e53e16576b89d1080b20c7348bde4710a9806774415b0390f4ca03e4c8e3a75/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dca63bdc296e7f8d16a9411bc635dbe/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d7ce9f37d141d90141ac7be12e22b8e0cf296bbdd54e570308667a934b7125ee10975b478968cf9ca1f0df19dd2563ab139ecde4beb733a81529c8802e1d2960068657f2eae918b107539554125e997033d93e341777e60c735a439aaabffa49f7dc39a3688d319887118ad5013532740e24e578bc4169476e448535085846a5b99882472ebf7f0558352f66690e3935/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dca63bdc296e7f8d16a9411bc635dbe/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Second Remodel-poi?!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35972",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/151e69f70e776a75aeede0bd7e4c4c9aa3e638947c351fa27d596c1c8a92ef8da8c277c39303ee0cf5252815dc41e4db428dceb7826c0d1b0ad68a226e607c7fb31465885a979425b3d1d21ab19098f1fbd75b52b180734e977dfe0760559da168647e04b1298d50121c86d683f573da3e34700930ee1354387ae783aa7d3a25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36585ee50ff480e0354dfc82c850f662/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/151e69f70e776a75aeede0bd7e4c4c9aa3e638947c351fa27d596c1c8a92ef8da8c277c39303ee0cf5252815dc41e4dbc9c50fb2c36e6113acf72ad0b2ec497a71c9c121c4b4931af0b8ffca9b16d5b0a16cc688fd19c48504a564d6435d90738d8c6ca066f9e70cc9cb9c96e6e3988d1855bc6fb792e0623b45577d0a64c0974f668df58444093273b1a3f7aa49cc96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36585ee50ff480e0354dfc82c850f662/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Do Our Best!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35973",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/61389212648f6a2bd772417c9c3b4d54b27cf80c6fe25101384f5a52a3f90849d9afa1289ddbffaa8a3001314a9ab97d190630172eab4582704209bf45f283539049b31a280bf66428acb25865ebed8b42b3cf8b84d54bb938f4adce704a0c81e5c4e3b254adb1586cdb31878dcc8c58479d55dc255e716207bd7b1781962146/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93f81ed78f818dd33d442aac424c681f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/61389212648f6a2bd772417c9c3b4d54b27cf80c6fe25101384f5a52a3f90849d9afa1289ddbffaa8a3001314a9ab97d04a8dc2fcb78f6c49e24d5e2abdebdbb4d22b227ae7c0a0ce43e41e061114030b9278905495fdb50863659a8d85fc4d134cdc05ec34d37b84b415bbeac69ff65395d052ae281fd5f5da171f3a2cdde8abfba4c6e781e0c0c6eaf5c9366eaade4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93f81ed78f818dd33d442aac424c681f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Operation MI Begins!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35974",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a33be045eb41b621f887d4fe9c41de43c5e0488ead706e8194ed95058367cbe063ee184ec52034b2f2b249fc9349612f8a1abcb92e07301bff5c7316785a91e4bf6ab3c2876350072ff01c6e9ebd74783326fdda57ced0496f0796bf43b0c0d9830480d6c27a209b2a108b1750d5572eca894ce65dada411cede4fdc0c2132fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a17ff591fc97762c5a203d43a19f285a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a33be045eb41b621f887d4fe9c41de43c5e0488ead706e8194ed95058367cbe063ee184ec52034b2f2b249fc9349612f39fc42c69431178a6a9833588ce7717366e7ce5a615a69720bb4d191cde432ed9c706be147b8478f7d48839874528cab5718511b5d7a91d6cb7c4eefa95ea799297c0bf63e71b1a13bc757c2f3c9b1fc27fcb1ca24866ec06a692ca79d2e10ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a17ff591fc97762c5a203d43a19f285a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Enemy Planes Dive-Bombing From Above!",
+            "episodeId": "kancolle-kantai-collection-3968?ep=35975",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a3dfadec1a68e55f1a7f132c19cae912273b66c8edc08a7388c8ecf377b35ead69cd208cd586ac20adaf46754ce41ba9bef1f8ed8d517e9de2a60308862956e76bf982f3f91331463e881527e51072897725489cc4622574df55d9d67d1d985744692ff9d72b109209da93a42067be74ba6e24d5c63f53bd9d5361a87b0d100e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f02e23f6d81381449fd3b3c0dccd832e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a3dfadec1a68e55f1a7f132c19cae912273b66c8edc08a7388c8ecf377b35ead69cd208cd586ac20adaf46754ce41ba937fef7ad044625a7b4158594165fe48dcdc5b09a15a4e91569e0bab0761ecaafc4b234594654c5e8d70e9f143d2a0b214908f22992f9c554f5f0a04b5077b52f0804d0975c9d004441ab9f39a237171f80c567b2f006a2712eed213211eee7f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f02e23f6d81381449fd3b3c0dccd832e/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

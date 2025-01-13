@@ -1,0 +1,103 @@
+{
+    "info": {
+        "id": "maison-ikkoku-shiki-utsuriyuku-kisetsu-no-naka-de-3724",
+        "anilistId": 3483,
+        "malId": 3483,
+        "name": "Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ead6c4b2f3422bfe3bcce9d497e77bc.jpg",
+        "description": "A recap of the Maison Ikkoku series that focuses on the relationship between Godai and Kyoko. The entire special is taken from footage of the TV series.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "30m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yuusaku-godai-3304",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7ee5e84307e5bf33aa34ccd1b0efb8c6.jpg",
+                    "name": "Godai, Yuusaku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "issei-futamata-1776",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a3346c7c293bfeb28a7b1fa2b5c0a94.jpg",
+                    "name": "Futamata, Issei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyouko-otonashi-2156",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/11e9a6e0d11577dad35cc027ef3bc457.jpg",
+                    "name": "Otonashi, Kyouko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "souichirou-18383",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8afacf92f3fe6332ee65674523341575.jpg",
+                    "name": "Souichirou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "めぞん一刻～移りゆく季節の中で～",
+        "synonyms": "Maison Ikkoku: Four Seasons Through the Passing Seasons, Maison Ikkoku: Through the Passing of the Seasons",
+        "aired": "Dec 21, 1988",
+        "premiered": "Winter 1988",
+        "duration": "1h 30m",
+        "status": "Finished Airing",
+        "malscore": "6.97",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Seinen"
+        ],
+        "producers": [
+            "Kitty Films"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "maison-ikkoku-shiki-utsuriyuku-kisetsu-no-naka-de-3724?ep=58364",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c18b7fe146e4f0f0da603a25b3895afaffc55c1a26f357f5d73c8febc1e6e62e658620c51b6106561d58b0d532968d2c9e8fb2f8a27b21ba5062d12a5df5fc94b4ea10e45f7d7d6a56ddeab033eb58e5d30eec11f31d8d65fd9e464e4b1813e4d3667da1a8956b3d2c6eda02c228a9efac3139a58727c902f89470621ae4437d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa5d6b6a42efa587cf5839be59c2edbc/aa5d6b6a42efa587cf5839be59c2edbc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c18b7fe146e4f0f0da603a25b3895afaffc55c1a26f357f5d73c8febc1e6e62e658620c51b6106561d58b0d532968d2c1ffe934354b6ae3b2af5849efee0da0e19f305f31b0c856f0a69f0c1ac538bc7838da097e177124f8fb389ff26872e00e09d866cae89d029e999736525c174f7d0ab3595094daf11a13269883fc95629e1e5a885aefb5389c9ac20bca8dc9f1d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa5d6b6a42efa587cf5839be59c2edbc/aa5d6b6a42efa587cf5839be59c2edbc.vtt"
+                }
+            ]
+        }
+    ]
+}

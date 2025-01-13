@@ -1,0 +1,823 @@
+{
+    "info": {
+        "id": "blue-comet-spt-layzner-3810",
+        "anilistId": 3079,
+        "malId": 3079,
+        "name": "Blue Comet SPT Layzner",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285293c1597248209b1d1fa1bd5a2d15.jpg",
+        "description": "The story takes place in an alternate reality based in the year 1996, where humanity is advanced enough to develop long-range space travel, as well as bases on both the Moon and Mars. However, the Cold War tensions between the United States and the Soviet Union have not ended; rather, they've escalated as both sides build military facilities in space, and the shadow of nuclear conflict looms over humanity, both on and off Earth.\n\nMeanwhile, on the Red Planet, an exchange program created by the United Nations to promote peace and understanding is about to begin; the \"Cosmic Culture Club,\" consisting of 16 boys and girls, as well as their instructor Elizabeth, arrives at the UN Mars base. Among the passengers is Anna a 14-year-old girl who serves as the narrator for the story.\n\nSuddenly, four unidentified humanoid robots classified as Super Powered Tracers are detected, engaged in fierce combat with each other. The UN base is caught in the crossfire and quickly destroyed, killing all but six members of the \"Cosmic Culture Club\"—Elizabeth, Arthur, Roan, David, Simone and Anna, and leaving them stranded on an inhospitable planet that has suddenly become a battlefield. As the battle ends, the lone SPT standing lands next to the terrified group and opens up revealing a pilot, who simply announces to them, \"Earth is at stake.\"",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 38,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/ufM8QaPomzs",
+                "thumbnail": "https://i.ytimg.com/vi/ufM8QaPomzs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/6R_Q6m27Lqg",
+                "thumbnail": "https://i.ytimg.com/vi/6R_Q6m27Lqg/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "eiji-asuka-18116",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/862b098cf91bfa95b8fb018bc6508b4d.jpg",
+                    "name": "Asuka, Eiji",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuhiko-inoue-163",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f491720775bd33ffbd32617ba1a8bb2f.jpg",
+                    "name": "Inoue, Kazuhiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anna-stephanie-41336",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8814cace8232d31bdd0b6c336db90410.jpg",
+                    "name": "Stephanie, Anna",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroko-emori-7364",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0bd383275d2c463c166fba2958ab0f52.jpg",
+                    "name": "Emori, Hiroko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "julia-asuka-74237",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8211b900d10d844d524045f07c3cc80c.jpg",
+                    "name": "Asuka, Julia",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mari-yokoo-7975",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b5082cd996a809411b45f1467ba55a95.jpg",
+                    "name": "Yokoo, Mari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bohn-127033",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/deeea41d21001b8a98c6e0a01192a706.jpg",
+                    "name": "Bohn",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kouichi-hashimoto-4624",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d4a23ea92dad8937951d15c516748ee.jpg",
+                    "name": "Hashimoto, Kouichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "danny-carks-124913",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/07544cac9639c50e62c900047fd1cd8e.jpg",
+                    "name": "Carks, Danny",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "daisuke-gouri-2167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1860675867bab660efe5b53925b60d57.jpg",
+                    "name": "Gouri, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "elizabeth-clabery-73944",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d3e51d5679d2ca176f640d3b0af13974.jpg",
+                    "name": "Clabery, Elizabeth",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "keiko-toda-3670",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ce39e76e93579f1c65789a02d8ba2691.jpg",
+                    "name": "Toda, Keiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "蒼き流星SPTレイズナー",
+        "synonyms": "Blue Meteor SPT Layzner, Layzner, SPT Layzner, Aoki Ryusei SPT Layzner, Layzner Super Powered Tracer",
+        "aired": "Oct 3, 1985 to Jun 26, 1986",
+        "premiered": "Summer 1985",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.94",
+        "genres": [
+            "Mecha",
+            "Sci-Fi",
+            "Space",
+            "Military"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Sunrise"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "On the Red Planet",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57417",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1c9921c4f3cfed30ceb0272e9d413bdb7c1c5170a1b19b05e4f9ba65502eee0a12c49455ca5e74cf449ade0be678bc9dc4e5c73e54dae832d6f7f16296f50fac7f08e34cf0d8574c885b94152fa204d7a4504abfd365c6a575b6476eb001a3ecdd4151b72fb1b383e7b2888533390a89a9493dccdae94aff39af7902e2a17f5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a91239676e8a3cb78b76e3f91939e2e9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1c9921c4f3cfed30ceb0272e9d413bdb7c1c5170a1b19b05e4f9ba65502eee0a12c49455ca5e74cf449ade0be678bc9d287e1693321c9586dd8a43e9ba84cf89f271ee7fe9056987a2f92babf5288233c8ad08508fcbec00dad7a474e513bf2070a85dd61401db4deffe3118bd15734bcfde2f5f47c2504ad1e1a8519a82211ed3e6bb754824631317930e73c5c7b863/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a91239676e8a3cb78b76e3f91939e2e9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Name is Eiji",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57418",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e7eaa3a80edefc5866e130433ed99593adeb5e9e45a11c41ba81f80d6a7daf1f44af88117f255807bc184e988c8f7c30653309a43c5cc984e9d906f067dfb21399f6320975bb514d0db20af2a2c6b545f1be36bc860fa6da77ab1446629ae0ed3f518aec81aab5167eb491c1b322145a52b97b68b3e337edd6eb9a06a4cfe2e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ab405640627bfdf2086610f71e41d42/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e7eaa3a80edefc5866e130433ed99593adeb5e9e45a11c41ba81f80d6a7daf1f44af88117f255807bc184e988c8f7c30c8aae53374a573d75559ed5a369cb77a467a01e651f2691884cdcb34ec0a955536213df4ce186b03cec571c4dcb29ff7e71a1b9d97a37d7cf9d97d77b3c5fcf38fef607b4214c881a5400c3e81145a69606eb49c819afd3d20445a80bba419cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ab405640627bfdf2086610f71e41d42/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Believe in his Eyes",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57419",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/717efbbe4f0063d57ef7d01d67cdf724b76f425e12cf26dfab4561dbfecbbdce58d9c1a5cd7b711dc3d186dfea9767a358daa761838ef7e87e3dbf5ad4f19eb598fbb39d61f6054ddef7d52762cd48d36dd232833f75467fb5dbf7767f65bd14d99d6f03978d5f794d920a753ad91ceed258d0bba20dd2e84cbca1c15134aa2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca9202dc52daca1f5032e8b8105cdecc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/717efbbe4f0063d57ef7d01d67cdf724b76f425e12cf26dfab4561dbfecbbdce58d9c1a5cd7b711dc3d186dfea9767a35ad0e5a99d43857d9d2527bcb63eea77f9eda317540bcfc4503cabac39f1f00a75d0043be4ea455dce475dd7483a3e178f67a7b8710e660962cb93f566e070c16454f169de09a62ed17aaf1b78055c5638a76acf84693c8a40e6730610973635/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca9202dc52daca1f5032e8b8105cdecc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Escape with the Heart Left Behind",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57420",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fa5abf542fbbb87c0dc1ca2598835909d0683a31e1cbfc2bcdae9d524a52badd2914b72b1477c81e1be503e97f7fe2a5380c10e44bcda8243a5944d20447264ecc8120424c3d1752ee035d2d0d95d331714fb011d3901672b585a8ce6c945bd23a8ac6af3905dbd0385653b77c498fd53e714f1e7782c5ec5fbbec4803ddffdc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb30e5b83b63cd62940f0db894f3f71/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fa5abf542fbbb87c0dc1ca2598835909d0683a31e1cbfc2bcdae9d524a52badd2914b72b1477c81e1be503e97f7fe2a504e646f4a54fcfd833c7e766038c350b4eeedc19a0dcf9b2354390f9ed94b6e65cc443f86a69dcc8fb4f3deea45655fd6403038e78b1ffb19d7560154e584aa47bc7fd9394140fb6b9dbc596efb086be4f5c515d7dbd7b072c2221c3bfd84bed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb30e5b83b63cd62940f0db894f3f71/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Even If We Are Protected...",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57421",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a1bd47cadece318716a01d0e9fd8f06859662b9dc0699c689cbbcccfb385ddaca49f5594a3b808e81f82043d98eb9325b25b320c0949d2415d8b7c69baee4566b14d472e642ae62244e0f4e406d14e19855c2fec49aed0a9d61252c776c960ee9c9b4670cdf493e39a40f20d48b8ad03c98b8849a09d8e0e5405439bdd54e524/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eadc555fe41aa0e516878a4cfde7bc73/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a1bd47cadece318716a01d0e9fd8f06859662b9dc0699c689cbbcccfb385ddaca49f5594a3b808e81f82043d98eb932544713c444fd8ecf59e1493ae82242500f773106826ec92aa4fefb7c88b350c114569f6d4eb23a2ed00a58494714a80e552b98a43e06ad750a232a5b7ea794b98d93ab4e3d762b1eaa4b1df272648afa4e8394c3706ff64d8c6f50fba80a2970a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eadc555fe41aa0e516878a4cfde7bc73/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And Then Left Behind",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57422",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5c5f8154b5302f047709d27439ca075e8c30518b42a5f8ae6aea79e351518fd71c73080f3dc238ee55ba5d7909a6d848f2b0de9ea5062ef67cea6148425232216545f79fff716d57e67167e46197be5c53e121ba88029b8374bb63d4eb5a41d4fd158781c269591917ffb778d8d1520301fefdb3b4c3a88141c0562da5f81d9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6cedb4e7fca835a627da30d8e99b7e6d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5c5f8154b5302f047709d27439ca075e8c30518b42a5f8ae6aea79e351518fd71c73080f3dc238ee55ba5d7909a6d8489ddf9d447f9f327eeeaa05f8b7663509976338df030ca3eae46c857022cbfb6c9224aca994e0b4f1601fcbaa7da452cfc21daf728d769b56d3bbde84b28e3112c3657c4f7f9e55bc1ce8d0ad3798a6ca05374d7f3842dcd86cbd289c90d90957/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6cedb4e7fca835a627da30d8e99b7e6d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Blood was Red",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57423",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cafa89445b3bf5ce7fc0544de2e44fbde090c28a2769ef71d93eb92b5fe171fb06bd0e8c612442abafa9085bfdc9e74244331a65969252d596f339e6b68904f465fc6c55777cbddd6b1c4fde8fc36929357e536e24c8893e93340c3a0f6b2715839f24a69c94bc0846857063f08914e1525551f11cce1492c90d9e0ce4d7e891/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58f470ad1d208236c1bf8af1c03c1940/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/cafa89445b3bf5ce7fc0544de2e44fbde090c28a2769ef71d93eb92b5fe171fb06bd0e8c612442abafa9085bfdc9e742c8717136edc5b043d63d3cba6e239df493a27b06e16f65e5c51996562372d39319a258bb3b911d36aac0c9a5c6b37a87991fe0c511671e54a267f55cd6b6d82fb81f95ab98796727cf358f8cdfcea04910ea328536d1924863d238727d293782/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58f470ad1d208236c1bf8af1c03c1940/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Answering that Scream",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57424",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ddce6050be33eb1a4dd134312f2bc3fdd5503f87190dc305c5dc430a193586a64e339f62fc2bec74a664d600b7768e0ee01c6fab86c867e95d24952cd2cbc0e2082f21f2e7b1d5ecec919e6d2e6de6c281d1c87ed90373df9dd80b6ff4386eca188bcf1910bffc9daa45eed691370b82492f4e6cb6cfb78e2afc21c070342f5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0059b9695dc040eeb50acfb6c222fc2f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ddce6050be33eb1a4dd134312f2bc3fdd5503f87190dc305c5dc430a193586a64e339f62fc2bec74a664d600b7768e0ec45cf7913e554f6be294b53a3f313113b4ccced6e5f87f761a0b84eabe046c8a0ecc1e5bce60e1490a16ae44cf76c58a2edebeb4cadcb7ebc673851e2d0c281927f1ee28ad623d593458528ca6de325bf91a9c9fa45d05c7c3f4a1bc59141519/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0059b9695dc040eeb50acfb6c222fc2f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Searching for a Way to Live",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57425",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f94b1b167a6384440819d4a01738c45aad8818095a6c4ea348321a10417ed962dead76accf842edddf377cb044564f72b26d4612839d15aebe68c7f047ceda81091572eca3cafe2cb1edf7ee0c71a5f2b0e58404c9329460258a396c6dee77d3e119c48b6a5e8fd301196e0e28374b8c5751ef36b7689ed98d7aca5154363817/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1a7bc2e50f5ba5c8a1037c19a18f6e8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f94b1b167a6384440819d4a01738c45aad8818095a6c4ea348321a10417ed962dead76accf842edddf377cb044564f72474347723934abaf73bfeca272bfb98f0115b0d497afe4add593c84e9f9ba6b6dd2d60b22e44a8c58225c99fadefdf0e3e68dd7e45e1e690ba769f0c895a1730b3fd1e8e36d8df3e75108abd4a85876f04aa299823063424cdc5d71b07cb21fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1a7bc2e50f5ba5c8a1037c19a18f6e8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "They Called Him Eiji!",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57426",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9aafc974d425b75e5bb994dec256d1201408cff20b8203b6afa06eee6418913a563eb9020b56795363413aebd302b65739058043ff6e2158c97ad91052e74b51bc94e664541a3f02f9aa11b876960b5fb7d5dd12572773f4084c99ecba4c77ecbbb0454460660c4f5efe65b363597ff23b4a7434be3953353b6658d6332906d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0bddaa0803baae5cc53e9cdf27e09ae/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9aafc974d425b75e5bb994dec256d1201408cff20b8203b6afa06eee6418913a563eb9020b56795363413aebd302b6573473a4dda436428d833a61c3f77d9e9afd487d4d38243e9bbea4d09e3f89eb9fbccf5d7b210aa3dc9f9d9725f9207fcee0f187d22d5f85af7bc57294f7c74f3316069f02fb17f92f1bc5d3de7a6247637bf48e93e978f919c7bf6cc9c489bb7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0bddaa0803baae5cc53e9cdf27e09ae/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Ship from Earth has Come!",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57427",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1a79aefe194416c23951207965e624026affc5395aab38265841f92172c1d51abbbe8cc177d62fb0b821a9a48650e2c40401a9b04d2451e29897bf315e9ce4c4b510c9df3d41c58dd7069c7347efec48f6ee020288955a1b19d5540655bef444cbd55310174dd46099ff3ae2d3a05db6eaee761b8b8287745ae1773fe1416b48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fba4dc7396fbfde13afe57816d268ea4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1a79aefe194416c23951207965e624026affc5395aab38265841f92172c1d51abbbe8cc177d62fb0b821a9a48650e2c4855ca0210f1e8351c8035f95b080608a601c7c68af00bd59488d3f312686e7c1d225837d03321a7d7404649933c0791b9ce371969952a577cbfbf20cb13dcbf43b3bd3f71840b605d6564dc766830d55a66a1ccc6bb60852a41b394723868630/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fba4dc7396fbfde13afe57816d268ea4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Farewell, Red Star",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57428",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2c1b9e9f3bbe9fd51aac4beab62de77476bbf3f3d3cd7cca3260cd1252b66a8a1dcfa87462c38196ed72ec8730e50f0630380b83bfb3271c57a21e22b4bb348af42c4ba8047941e135acd77d040f1986a6b5357ec67ed1011c99815758f8e5aaf358aa9b17ee9592dd824a8c86eb88279e8a5e040d92e8e56c70724050a9e89a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9745f25bf96640aca56bc29aac5922e6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2c1b9e9f3bbe9fd51aac4beab62de77476bbf3f3d3cd7cca3260cd1252b66a8a1dcfa87462c38196ed72ec8730e50f065d59a3df922ca37bf1a87775074da41a1f6e330a292826875b94fadcaefac233d8607ef12fcffe6bc6d6f1f07c5c7903387de6f604d54b0a6b39f89a177486bdaff37fe74de39772ceb47b90c153db8906fa35b20d78ddb7878c47e222ad71c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9745f25bf96640aca56bc29aac5922e6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57429",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a766386898411fe75f05fe68059e1bf7388ecfe00b59335b7a30c7f1a1029dba8a9ad5f9f0e729ef0b87b5cccf54543c0115e4ee2e4459244a24eafc916279081ea6d14b3173bc12a458fd48a22039378c6cc8b589e1f94989630d6595fe3f4e21d384abd0fde856a7b35b5856658f816f3c4387d68e090301d982f893af9fbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8c81ff5208f319d2e5a7bb0ebc4bbe5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a766386898411fe75f05fe68059e1bf7388ecfe00b59335b7a30c7f1a1029dba8a9ad5f9f0e729ef0b87b5cccf54543c018b3d52b0ed65aaeac7a013ed9782d7d581690d1f3308a16bad1863532048ff4dbd9e752118cd6f09981a7ebe5c3d2c163ca96e32c5d4eb17cd6ccf9f02fbf76522baae450e79b8cbb97ac4932bfc9dcaaa6285872920d2e0c87a6665fab5d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8c81ff5208f319d2e5a7bb0ebc4bbe5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Imprisoned by Aliens",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57430",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/de5890ed24c601eae5f73d01714e85fce465c439ea4ccb9e01955b4f26fb465abb8f031c93c8a6090c077c708d4b76d689926a306192c50c53e8b74e68e888f35860226248508691b1db5890e9f780859c608ec1a8f19eb08fa62d371e108f074d118d09bd94b8197ca892cb433a3eb1ffd61f83512298900753dcf8fba87f2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/345fe135018e06f70a478e31f65ec4f8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/de5890ed24c601eae5f73d01714e85fce465c439ea4ccb9e01955b4f26fb465abb8f031c93c8a6090c077c708d4b76d611a9a4997cee843912d24a8fb2df840952aec4aea1bd8d334466f2eeba690053d646237e348ddaa7a21fa1297229eb3ed6f649626efb171b2690db73aca2c9124d837a97389b3f0f4d983c1c641caec82a76f8ddf1df8770f30d3e36a1fd720e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/345fe135018e06f70a478e31f65ec4f8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Become the Blue Comet",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57431",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1cb12b91bab79ec869befbab2d5b1011a9ce8268ce4e6b581910b826f76a392841b80a16dfa380fb56245d81d06ce58fb49564a440c867cfa99a6b6759ab977b045b4257e811bcbca480bde5c91c902e3091f0f95fa16618fa1a4028176e19482b80cf03c63ea21e956d79eb1427cdfdec01b1bb13977b94c4e7b74353d18469/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/130baacbfb2bd4e587660ef4a53ca988/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1cb12b91bab79ec869befbab2d5b1011a9ce8268ce4e6b581910b826f76a392841b80a16dfa380fb56245d81d06ce58fd660a0ca42e7fb659a7421426a4d4a1fc6d53af234a6fb8b30e4d334b3753351888e0ae4bece55e429031e68c7dde445958c94dbb233c52756569888acbcb0356906e2b6cde2b9886b9a878eae9b7474f19704c6eab65f7ca705c59678deffc5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/130baacbfb2bd4e587660ef4a53ca988/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Answer me! Moon",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57432",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7eeb4cb1fbbc76f0d309b86dbe2fe7b9ecf5bab5bd49e47cd6fae93853afd652c851864a02be1bf6bbb9ad6d784d4d9662e7f1809dc492d5a57293ce46207c14747910348652b32b517c6859df4e19648aee4308a589d7e2ab5809798c55da01e4b9128c8bc0e6dbe0f87f02dbd9f481769a587e4d8ef3f3f1e0f51819bd8c56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d18b78263c956818118b6fe915ff92/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7eeb4cb1fbbc76f0d309b86dbe2fe7b9ecf5bab5bd49e47cd6fae93853afd652c851864a02be1bf6bbb9ad6d784d4d9647aea02964963168f00d28496f50bcf68b47ae4a232545f0d18bc3d167cb4cbaf412c785e3b1c1ec859da72b28f9ac6ff6d98c74d5205cb92c295688c6fdf49d19614d8a626a25bb61930358ad206169bfc8e0126ae08dee21884e2e18477fea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d18b78263c956818118b6fe915ff92/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Swarming Machines",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57433",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/36e831ad46c52be8ab479edd00c281b9e11ab77e040476be78e338bc071fa6868f56266a821180304d1522e53031b8df0e1701d5a050ff97087b360003979bf6cfed9bc32b76973636921234aa5428231b790f5eaa15cdb4f8771336836054f7eec320f54c8e9ffb358f8dd7db1762d9d11eda80e4513471f6e8fd6e7bc9186d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a03f4b8c8a1aaef332cb7fca4879d981/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/36e831ad46c52be8ab479edd00c281b9e11ab77e040476be78e338bc071fa6868f56266a821180304d1522e53031b8df4af7b2559a4ba597ca4cc986eeb61eba0ce4bcbcef3e66c180e80a6ecc2dfedd91dfefcb012b78856a3361e3bf2a8576ef714150b80e51aab11f59a60606187f5140c0bffcc4c56fbe3262cc78df51c2c89847b4a1089deb2b0e87e737785d4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a03f4b8c8a1aaef332cb7fca4879d981/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And to Earth...",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57434",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6dae383d8e951939ce44e099c8c9989e2d08457fc6573e2d76334cea31ba6f46305bd6c9000b0ee3412e08c433276f3812bea8c8e860c4df1f361ceba2caa8c04b3f036db350677d5f1ebcba705757fdb9fc001dc8469aa07ef04df29f8e8b7134fa64529b7afb52b9bd7fd42559622a44eb28c12456e9a4769a165be744ede2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626ef774388fd570758914698715fec3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6dae383d8e951939ce44e099c8c9989e2d08457fc6573e2d76334cea31ba6f46305bd6c9000b0ee3412e08c433276f384117f60803d702c995ef848f4e35a4fdc0d85cb7df9226da291546f3e60b7f4421ca78aea1a7b02eac73bf5c258f1dcea680483065d69e43e9724b9a9734892141b505f5ffc8306585b4886796ff74efe544051d542c00dffb3097c4ca5f21ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/626ef774388fd570758914698715fec3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unfulfilled Emotions",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57435",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/247bc317cefe660e5f4c8d952052e234b4192f504b23d204f3c9842fec0db8b068f9855e8d7051ba22c4086baced973359c4d54e3624fc7ce5667ccd29460fa50e532e467ade1afd57eb44fd76f47310f82551959ec92554cc93725912dc9515c9a2d083ef2a97ecbd78b3d838fec69e0c037e105fcdca3d91de78095f76d3b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9d0f13894ea24a2958d1b5b0f81868b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/247bc317cefe660e5f4c8d952052e234b4192f504b23d204f3c9842fec0db8b068f9855e8d7051ba22c4086baced97334e7c301c23414d439b3eb19d2dbc9a5262d0be0d33394d14966498bb914d5a8cebe52f0898e65d085f92b1b300a84b28e4577ab809a78c5ac587812347c254ee9d3a862f23ccc9a97e0c676b5805f0c959a4283f3c7d0bcd0ddcfab85b24dbd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9d0f13894ea24a2958d1b5b0f81868b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Layzner`s Wrath",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57436",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/098c43625aa1f473d3afb6d43cd2f6ec55e132a5b67aa4966391a65587f1e7ca7fe32fe9bc1afbe85febb02f4edbc734cd1f67b57aa64bf5807e7639e477826688b0f165aa15e4de054e7eb93bcea55b5bd496869581927c954d714093dec6239d447376da571649fdeaa02ea19341bf996e48940dec8ceafe387a383920b356/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95431b67b9706000b03baa51f664b80b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/098c43625aa1f473d3afb6d43cd2f6ec55e132a5b67aa4966391a65587f1e7ca7fe32fe9bc1afbe85febb02f4edbc7344772b070951db31a8c5a5556f24c77f94462f03ba62a9b3f94a94f002db317d07e7de01d7b23e8ce1b91f090e1ae02e070744ae3cc2ad7de0215cc7c00685aab3da4947ca1c61f8067c1c85ff0808e912c1ecd5e2fc87fcf8dbb5d1386c1777a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95431b67b9706000b03baa51f664b80b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Name Is Phoron",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57437",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d57de18c6d391bb0ac8c0f58e278a287f7a52acec719cef18d27115e72a3e020d22557f4a89f84b6e905252b8e614ebf22fcaeb2be34e28eeef93b7d595ddbefdc34741eefd1c1cf4ab3be76e5df25482dcc65a22dccc99e7dd54f55ea117c8e8458fc431f483ded1dd02535f4cbce87c72d2963889d8deccd0ff2a10ba04643/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc280fcc0df01b3cb789f249f72c457a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d57de18c6d391bb0ac8c0f58e278a287f7a52acec719cef18d27115e72a3e020d22557f4a89f84b6e905252b8e614ebf0d47d0e3ea178d07651e0a60f9d78ff5a74db7303e0c20dcf9072a185933e2fd2fbb32ef5d3fe6189c25d3a205df57eb5ceda1cbdabe3efe3f3eca8c71746a1843364f0e318a79147917bddaa34cd36ca60509790c1872179ab67cf8c5d57ec4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc280fcc0df01b3cb789f249f72c457a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Confrontation with Phoron",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57438",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/bbefbcdda5c8b1fc2865add111ced8da53750f1d0e4ef745d9ccedc0034fae68ac9963f547674961b8b3be270f291c10966269db7c8652e12efde51b903d9c80e7d90412a57d4b136f0157349c7d326407a997ccb69477d22328c3a78bcf33404a381ad77f9285992f1cfc7a5653e4d7e2220606880c480604038d5489e5efc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f0a699c6be17d8115d8d8ef0c0330ea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bbefbcdda5c8b1fc2865add111ced8da53750f1d0e4ef745d9ccedc0034fae68ac9963f547674961b8b3be270f291c107d897e1525704b8a6088bf3f4238dd8602256cc0312776bb77f376d89f76c17a9fe1af4971126b6662cc474b45483b87d701ba3bf857e6b510a4c1937afc6c762a11b565b3f8de04e88edd8fe0a7ed07641c8ca9a3fdef028e3a0cecee7711c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f0a699c6be17d8115d8d8ef0c0330ea/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Seeking a Miracle",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57439",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7e68aae84764a784a3323224e7953d2773fb09cbbddfa8e186f0944a087cbe9fe74cf4066dc3b54a612d88578fe022493883cff7bca1b4fd989df2bb7e64abf6d883cf0c25cf65b1cc12b8bf0f7777413dc06c477cd40e3894bf79dca37e7a4b352bcd38e938824333d9243859009708e553785b8585341cd6fc0902c0ea60cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d171933761c7dfa4ad7a246bda27f75/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7e68aae84764a784a3323224e7953d2773fb09cbbddfa8e186f0944a087cbe9fe74cf4066dc3b54a612d88578fe02249adeb6b733393c68d4912156298e1bd3bc0d90fc9c3b7008df25a87d1c3959e61b8e33aa126359563232b7ac3d0c724bfdefc7058e9cd990dcacd58bedc869a838456b635f6ad658784ed7fb14a83bb38caedf01601d18efa385e6d536f71d3fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d171933761c7dfa4ad7a246bda27f75/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shining Eiji",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57440",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f320fe1a6421fd34bd42600fab0465367b6eb7f9bfb2bc574a6d5fe172ab77935d3928da58fc2922e97e879d20cd0ec5ca3dd309d20e278c9f9ca6db121989d12873b3c8d0d34a4a639ab91126c2d7956484609ca195767b1ca07b79bf529901b83e5f426685cae7bb199728111b9451738e89b518576c2a781f8060d4f57caa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b577c50b930a9b950e07b35d0adb8c9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f320fe1a6421fd34bd42600fab0465367b6eb7f9bfb2bc574a6d5fe172ab77935d3928da58fc2922e97e879d20cd0ec5b077863c220dc8d33a7baecfd9a4e0a2220890c5361d2d60ccaf37d4938800fee42a5e6d40ea0875497792ea921e776107d3d03f04e8e92695d5932ca724180036b3b94f3ed106896667444751868833988823b8a1d187a99a93b02c017f64e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b577c50b930a9b950e07b35d0adb8c9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Space We Passed Through",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57441",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/66463c9fb32bcc8663dd722faaa6e0fead314eb580c974032045a5de97701b10725a6ac194701d99c94e354aa088a9881c4e4c20d8f1ad663f0bb4e7e776c08d5d973bba75e439bed08a693516293fcb3565b0b7365657350918563d53478f75ac5e3d33e737e8e87486a251fb89925bddff5a71bf2bd9fe2853c22dc1482f4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e578bcfb4eaa8d32d32ccdaf975050d7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/66463c9fb32bcc8663dd722faaa6e0fead314eb580c974032045a5de97701b10725a6ac194701d99c94e354aa088a988fdded617a5a680cd7f594256103ef98ee89808882cf55ae29d939ccf069c60aa226178dd7418c306f1e54efd6b3a27101dd72a97b824140b49a4fba1625a9e80f6de308bfac6025c5e71fb08e75267d376cb982bef3f7cab0166983df8603ee0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e578bcfb4eaa8d32d32ccdaf975050d7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Time Has Flown!",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57442",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/df9e0bdf86fb1ffacd512e715fd384383d87374aa616db55954f459ad51f28e64901c247b3cca06636ed47359e6970ad469f790ca5cd67494baf0792bc9bca91123526df61384fd0ea7500df72f1b7b07bc13a3cde3899d0e5fd45a3e9035e7fe3cb33d77df7804174d36d7fa63a29ab5e00981017a2285963786ae9728a6afa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77825d2f977974336dbe15af85bda776/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/df9e0bdf86fb1ffacd512e715fd384383d87374aa616db55954f459ad51f28e64901c247b3cca06636ed47359e6970ad6273456ead44ac2b4693ef475d3b36cada4a8496248019f83162674fedfa788a8eaafd1b4f736aa42251a390b5ac8e9d52a4a68b5253c7e33b583bc7dd0fdc7d5f814d48ebe5302c76d7dc29cce9b07a94bb43fec13cd133b682661a1556a058/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77825d2f977974336dbe15af85bda776/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Magnificent Le Caine",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57443",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d9ecdf2591c6a419af8643a5399d0302917432943f59970154ce5c18ff15fa367a539148cd55db6ae6d8b452cf8ebc071c36570012651d8864cb85344c64b3a71a8d7c5c3958a30e0f86fe0b0031f4f0fb1ac1f1ba0a56d707d6bd8aef9a73d7640a75f5aadaebed3c3b83884e44b64b0e0546ab584a7a9a9753454f5209eb19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23574ba1fd9170a121feacee4dc35139/23574ba1fd9170a121feacee4dc35139.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d9ecdf2591c6a419af8643a5399d0302917432943f59970154ce5c18ff15fa367a539148cd55db6ae6d8b452cf8ebc072a809816b4d6b804d564a8365ea306d90530a209c641cfe01f3a68f1330eb63d8442fde292e23f151b09455da622777daee4b6332a77040fd19e11b39b687998150a09803cac9101c22fb725f75c1d3c0567f67e081ee4927f155f74ea04ca40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23574ba1fd9170a121feacee4dc35139/23574ba1fd9170a121feacee4dc35139.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Holy Maiden of Cuzco",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57444",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/35f7335babbe7d506a9d74bbfd1d5b680714f7367a60cfcba82ee1fec0cbcc89ec84f8584d54ec58e542c3f85de9b9231fe8dae091a6f3b50a35fb001e0e7cbb43db68288b0eab8f3830f2795fcb7b75c81b19666fffe90917214302506f645726daaf6f0ab613939d7b2761c91ab8fa0d1936c38ac3fb100c98887ba9099c1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6241d3d9e9e4e8a8ab369747f3015d72/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/35f7335babbe7d506a9d74bbfd1d5b680714f7367a60cfcba82ee1fec0cbcc89ec84f8584d54ec58e542c3f85de9b923a7f4e75d900b209c14a56c10c94988db5dbb31ce30e8c33ef2fa4dd9af7d23ba6d85f6ae00d0cb92d13397c42a58812364bfaa6a47e042f90dfa13ba41ce0a60bfb39f6a71734270446ad84b3800887e20386b360053a4207eba22574a8f96e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6241d3d9e9e4e8a8ab369747f3015d72/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reunion: The Mysterious Invitation",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57445",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/007dc6a9c6c595ab459a7a6631ee403306c04ac1eafc3c2b44574e7c575b59c67582d566050334b61d8d9b0461962c21ef71b114f51ab7b4079b56fa0e3ac53857610510b79ca26f3c27073d70636c41f34430a7ad28b598d648267d6ea36a31751e16fbd2bcc18cf41378d13f22941dd14323c52001ce270928cd845d26c3cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2ea85d04b655b0a06f4ecfdfae4ae64/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/007dc6a9c6c595ab459a7a6631ee403306c04ac1eafc3c2b44574e7c575b59c67582d566050334b61d8d9b0461962c21f7577095d3dc0929593a85656eb6207c9c47e023089d2c5ea0a22931661232a95b2f3091c15cbd4cb9a89e526d92358952ede29892353bb47669b5f0fac84f493836ddc4cab4af9187ebe9e23ac68a564adc1255f7e788a978d6394b16556953/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2ea85d04b655b0a06f4ecfdfae4ae64/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Baybull Recovery Game",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57446",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/24df19068cac394d8091d9e7a60c6b611fba41dd120dee0d544349cf48003dcae5b4346df4da4f10990351464ca195fcfcf38dd5e8a4b30ba6727f3ae9c2103c23aaddb78a413dd45a5059d578b45771846ab18f9d6420a390be67b1abae52344c92b7efd57ee9ec3b0d27e8098556bd00e4385b8b4abe0322f8adac949af8d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4101d5fe14adb36426aab2508b7e7eca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/24df19068cac394d8091d9e7a60c6b611fba41dd120dee0d544349cf48003dcae5b4346df4da4f10990351464ca195fcc3cc61c73606bc4447911dcf17dc9687f54f8fcb4a2174e7757d397730afb00c86e6cf1a1d6d6378f08ca790d6834474d3cb63396748e39ac218315a68f7c3f3d961d907f739f53aa86b62cbda3727eb3ce55d801936204cd6c5f7f0e22d8565/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4101d5fe14adb36426aab2508b7e7eca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Plotted Crusade",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57447",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b2e43cf02ac95f8a7d3457a76db38dc86b6e1cdd0b9225f0981109fb09382af5f7d53605d01d562f34f16620ddd894a04a378a595a366fb0f00a47b0a64a00fcc8f8ca17dcd35cff20043af30a121ca408f18bc44c44db07311b4d003e2370ecf96aa12bf50a95fe454c6ae58ee5ec9d06707af4162d2e33471ea160c4b001f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/239c75d0e59cfe15b304fd7f21a5fb65/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b2e43cf02ac95f8a7d3457a76db38dc86b6e1cdd0b9225f0981109fb09382af5f7d53605d01d562f34f16620ddd894a0465f25d7e0c1ca66c070b6b48144b6a4a90b729ccfd8b0121e6327129a1b87b732e5c60dc5042f6ce49d0e4773153c4c821af9e21405c91cb0fd914b3bfafb075f033e72d122d7f65320ae5b0a87dd5a256714d76c6464a27d17afa7f748163b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/239c75d0e59cfe15b304fd7f21a5fb65/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ah, Gosterro",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57448",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7608cb0d652e362ed023405078fd73b3928e7937cfec0a1c3c9583db2fc074da0b8cb3562df0450c5506e2644f60779c1873768d870a3ed1fbd441875125ca932e23929f52d8256da663016681bd2e276ed03bd7e2e27c04c98292ee53d021394f2b8abfb456573fea9f51618c106467124a13c4a504fb52f3152c3e9bf3ece1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16e075c5a101cf3ec0f8be334145e825/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7608cb0d652e362ed023405078fd73b3928e7937cfec0a1c3c9583db2fc074da0b8cb3562df0450c5506e2644f60779ccef6aba0160c7aa4865a722856825d926424b488bc02c529c41b38791127ad984b66a9bca23e1a2ab6bbcb70c855ce3989369b6c00c17f71cb8aa74e700eff6b308350ddf1abd7178ebf02bf0b369d3ed8bdad80813567fe645c1cf73588591d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16e075c5a101cf3ec0f8be334145e825/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Challenge of the Death Demon Squad",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57449",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/409f451c24d9def150ce31df461d61dcda8fb125754cb528a7c965d82036fc5f10ce1b0ad96548a7467b31d7511c4188d4c07af63dae384524f2e0e0ae4186586df442e05a8b7679595b9741dea78c72ebb854e095bf36e10af6233c443b1af7031f60540bef39a84847bbb112b0a3b639d406f089871da5de89bb74ab833564/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2351db7478d9b6951667079b26588e1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/409f451c24d9def150ce31df461d61dcda8fb125754cb528a7c965d82036fc5f10ce1b0ad96548a7467b31d7511c418830d86f7c2323ddab5b99d8d9145a113cddf9ac29d2ffc7c34386a8bd5e030bb94de219b523bdb587e88f1a79f601c07f6594d00487fa182fd23e1e6cc18a8ddc3e468605c264e4e0acc6697408376cd2358d33fe7bca78e75c61fcf5b226e667/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2351db7478d9b6951667079b26588e1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Anna Under Attack",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57450",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1809276411d4ab90e16b1df77b9edc3e4042b20370a7b6eb802755880b63bfe249a036512f14ce58aa0a1191e396780f438980437b8755774c5f0c29af6a8f958cd5dfd7a75b0b16105af0fd772e37ace0c4926144d89d7c82eb757ddf1f20f5f814da45ac104e6a9526d93135dfd1a31ca5387f2f9550fd6adab6801929a2d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/892e341219533157700498e569eafcec/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1809276411d4ab90e16b1df77b9edc3e4042b20370a7b6eb802755880b63bfe249a036512f14ce58aa0a1191e396780fe94638a5b56b4812963319c9bf31005ba215f0fc2fea4f0f20d06ae9cc8aaa16c0ec2e5cffbb41cc27ea0e8af7e2ce5fd163564bc24573ef201da1aba53d1c0cda3b345ac808a360ff12c0edba333445ecbbf65a6232cd212122180b16a2d4bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/892e341219533157700498e569eafcec/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Seal of Grados",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57451",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/42b0b44918aade9c59dcaa4c87f029e23df667e660d0208c59ba5f4484ea9f4c4b78a150b22b795a405f250944ec7be871e6d21d04cbed33e367a42630dccb05232c8474622a3d6e69624d1a5a54ca6bbbced6f17f5b53d3dcd757f2b502d7e355c61e17956c70a9763b4e8c190328dcfa17b1215d40e01a17e65c3506ae559c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8312e8eeb18907cd3e64586587e48969/8312e8eeb18907cd3e64586587e48969.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/42b0b44918aade9c59dcaa4c87f029e23df667e660d0208c59ba5f4484ea9f4c4b78a150b22b795a405f250944ec7be8f17118b251724baf65846c5a2e07db1710ea69a7ed4dd5b8754d0532166a74062902287dd3ca79f71836aebf9bbed9e478e482a5dde430a3e9d2ab2016d28686192132fccdd65c0a0a552c5425fe18bbe593fc492b4fd98ac100b8314bc6a60b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8312e8eeb18907cd3e64586587e48969/8312e8eeb18907cd3e64586587e48969.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Enemy V-MAX Activates",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57452",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/36b5d73602f43823ea127a76aeef4ff7af227e980586c0d4f5c4f601a33b728c5cd38fa6b1ab4827f0ac829036a32b90cd9b6eb42b7d12bd4ea8612890dda0cca127ebaf0156013a9624d5eac6c58f7c3b6708d78d9b9029e9705e25806a3d327ca5a0b517295a04035a843a10968f4fe249efc8ba21e2c7369edce6736e1315/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dcb00c8f32ea6977971a586af66de2b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/36b5d73602f43823ea127a76aeef4ff7af227e980586c0d4f5c4f601a33b728c5cd38fa6b1ab4827f0ac829036a32b909ced8e8a4f1822733cf61d1b3a8818caefd36a85a396deed3f9b9eb92d5cef7f49f410e23401ad5d471937da7e25916ad4fab4a12d38c793dd2ed1316384dc1ec5a68d017dd90c8832cf55f57c5e95394203afae17a0493eaa84635138236a90/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dcb00c8f32ea6977971a586af66de2b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Eiji Versus Le Caine",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57453",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/fc77a69444351e829f943bef338bd9137f823a1086445ac200566f8a3964f511e67528755c8072e422f8c262063a9628d71a8664db127d93ac1a572d55b7102ce65a7e1084ac574e5083593d1b85b8363880abb566fd1307f0cc00f631268bdc48b1b412b1c4ec4f65f88a587b158ce3211898ebc910c9d6fd93367738b1433e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feeb426e8d7de042575d1c7241296dd6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc77a69444351e829f943bef338bd9137f823a1086445ac200566f8a3964f511e67528755c8072e422f8c262063a9628970f02406feb2c3131b0f680fdb37d10732a3bad33d281abedaeb3a1e28a9a9a08188ae3f3d8117e4cfc3d0d309f224eede9e02bdc590ec5b99fe5ecb88cbe18a78c11bdc8f214b95c4e34e38dcd3852e5a796b87849bc6ff9dc570c4d4d5c94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feeb426e8d7de042575d1c7241296dd6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Distorted Space",
+            "episodeId": "blue-comet-spt-layzner-3810?ep=57454",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/83dd4f62d12b78adfe80761aee4dddfb9f56c7a3eecd74354499e61dc572af30942d7c31c66fb500edb5c4e80bd69558fd39bdb77247ddeebadb77006a07f99ed3fcb3023ec943862b0f9a7ede4dc246ae0cd26bb8d3e3a05336fb39f9ff8064298553c932774ee3eca45e28f20b0d1bed60465dd3abb4df0008a793bd4b2d34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/663a2f7e74850304201284e219fe42d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/83dd4f62d12b78adfe80761aee4dddfb9f56c7a3eecd74354499e61dc572af30942d7c31c66fb500edb5c4e80bd695586f675f69519f8c0f96813fe75ca308b6bac1f815538acd5f56725ca5de5184c40d81f0b0bea1b75bd87fbd037e1067507cd1ef8902813192b318f5e133e50facaf60e34aed1d3021f6cc9bdfe8be95782251640ef76dccdeab77851a9380326b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/663a2f7e74850304201284e219fe42d9/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

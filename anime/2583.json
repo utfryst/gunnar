@@ -1,0 +1,93 @@
+{
+    "info": {
+        "id": "genius-party-beyond-2583",
+        "anilistId": 6795,
+        "malId": 6795,
+        "name": "Genius Party Beyond",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d44c8d03b149bd8ca6b79057cd82fe.jpg",
+        "description": "Containing shorts that couldn't be included in the original, Genius Party Beyond weaves stories that are both deep and insightful: the idea all life is relative in size, the consequences of an oppressive government, and how to deal with your darker desires, among others.From the directors and artists of works such as Samurai Champloo, Neon Genesis Evangelion, and Akira, come a multitude of thought-provoking tales, to create a collection equalling the original in storytelling genius.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Movie",
+            "duration": "15m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer Toujin Kit version",
+                "source": "https://www.youtube.com/embed/XFP4KeirxSY",
+                "thumbnail": "https://i.ytimg.com/vi/XFP4KeirxSY/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer Moondrive version",
+                "source": "https://www.youtube.com/embed/NW4xF_PJ9hQ",
+                "thumbnail": "https://i.ytimg.com/vi/NW4xF_PJ9hQ/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer Dimension Bomb version",
+                "source": "https://www.youtube.com/embed/GQhJ1VpzGuk",
+                "thumbnail": "https://i.ytimg.com/vi/GQhJ1VpzGuk/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kuu-22913",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b93817aabc6d08ac485a90a7a3245486.jpg",
+                    "name": "Kuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoko-kanno-56",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e8a0e35f556f4ca77d8ac84b4bd97be1.jpg",
+                    "name": "Kanno, Yoko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ジーニアスパーティービヨンド",
+        "synonyms": "Genius Party 2, Gala, Moondrive, Wanwa the Puppy, Tojin Kit, Dimension Bomb",
+        "aired": "Oct 11, 2008",
+        "premiered": "Winter 2008",
+        "duration": "15m",
+        "status": "Finished Airing",
+        "malscore": "7.24",
+        "genres": [
+            "Dementia",
+            "Fantasy",
+            "Music",
+            "Sci-Fi"
+        ],
+        "studios": "Studio 4°C",
+        "producers": [
+            "Beyond C.",
+            "Studio 4°C"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "genius-party-beyond-2583?ep=58372",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d5112b6ceea66ba62fc2f843e4dce1cf7177cd63e64b1337334a4a7c8fc96acf6f0c543d06ea24ab14317165b94e08db0b7579b5416672b3dd322bc50eb3fd385f461a5bf5c6f47c7af853c485c5dac81376ccbb56dda82f0d37beabe13125dd6c8433edbc8b2d8ffd427860508bedd784c731a7bc8b4dba2a5a2f5d000246e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c4b8ee6648315ed9b3ecbb3968f495b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d5112b6ceea66ba62fc2f843e4dce1cf7177cd63e64b1337334a4a7c8fc96acf6f0c543d06ea24ab14317165b94e08db76cc7e095dc45668b5fe2b98bff4b1deb08d12f63857f0fe58196339ae65910f5f9b3d6c00988f2a3e842c2a62458067f2d0ca6c3a8549f2f9cf8f81f975acf91c77a6d159814873acb86d5ae0139bae2084655a2a4746653a00975cf6d67100/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c4b8ee6648315ed9b3ecbb3968f495b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

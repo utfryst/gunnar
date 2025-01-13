@@ -1,0 +1,1358 @@
+{
+    "info": {
+        "id": "digimon-adventure-3708",
+        "anilistId": 0,
+        "malId": 41074,
+        "name": "Digimon Adventure (2020)",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/423e43b04b4ae8d1398afd17cec6cf3d.jpg",
+        "description": "In the year 2020, technology is everywhere. Every digital device around the world is connected by a singular network where data travels. Unbeknownst to humans, this network has become home to life forms known as \"Digimon.\"\n\nFifth-grader Taichi Yagami is preparing for summer camp when strange occurrences begin in Tokyo; certain electronic systems have started going haywire. When he discovers that his sister and mother are trapped on an unstoppable train, he rushes to the nearby station. Suddenly, Taichi is transported to another world where he meets a strange creature by the name of Agumon, who somehow already knows his name. Taichi also receives a strange device called a \"Digivice,\" which allows him to communicate with the undigitized world.\n\nTaichi discovers he is in the \"Network,\" and virus-like Digimon are attacking the areas that maintain Tokyo’s electronic systems. It is up to Taichi and his new partner Agumon to stop these cyberattacks before the whole world is threatened by the actions of mischievous Digimon.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 67,
+                "dub": 67
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser (English version)",
+                "source": "https://www.youtube.com/embed/0C1GNBG6ZbU",
+                "thumbnail": "https://i.ytimg.com/vi/0C1GNBG6ZbU/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/CPC5C1wvV0k",
+                "thumbnail": "https://i.ytimg.com/vi/CPC5C1wvV0k/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 (English sub)",
+                "source": "https://www.youtube.com/embed/4hfbk27guzc",
+                "thumbnail": "https://i.ytimg.com/vi/4hfbk27guzc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 (English sub)",
+                "source": "https://www.youtube.com/embed/HW4rHohJexY",
+                "thumbnail": "https://i.ytimg.com/vi/HW4rHohJexY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "agumon-3297",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/36f6a28955203c4cfcf8fb5b1bce1ab6.jpg",
+                    "name": "Agumon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chika-sakamoto-2259",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e4bbd2fd81ccc0f5db87e4d47e6a7fb8.jpg",
+                    "name": "Sakamoto, Chika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gabumon-5592",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a9241c096786fe5667b0e090d2ad427.jpg",
+                    "name": "Gabumon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mayumi-yamaguchi-2255",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/484dee8f7d52e6b7fc80755aba27a730.jpg",
+                    "name": "Yamaguchi, Mayumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gomamon-6696",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81e0dde0557d54affa31034c4c14d68a.jpg",
+                    "name": "Gomamon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junko-takeuchi-103",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/085b74052135dff713b4e797bf9d0214.jpg",
+                    "name": "Takeuchi, Junko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yamato-ishida-2269",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16b60398e9e81515e8b18695fa8a121e.jpg",
+                    "name": "Ishida, Yamato",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-namikawa-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99bd324a9350d978a0f2d10b871944e1.jpg",
+                    "name": "Namikawa, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "koushirou-izumi-3320",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3fd95b632f91bb79d5ba5c154f946637.jpg",
+                    "name": "Izumi, Koushirou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yumiko-kobayashi-947",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a10a7cdcfac3bcc3770d28b5c810410f.jpg",
+                    "name": "Kobayashi, Yumiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jou-kido-6617",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7607f948fb0954b9662697dfab3edde9.jpg",
+                    "name": "Kido, Jou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takeshi-kusao-530",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ef00f68f9d5f18d32dd85efa259115c0.jpg",
+                    "name": "Kusao, Takeshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "デジモンアドベンチャー:",
+        "synonyms": "Digimon Adventure (2020), Digimon Adventure Reboot",
+        "aired": "Apr 5, 2020 to Sep 26, 2021",
+        "premiered": "Spring 2020",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "6.96",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Kids"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Yomiko Advertising",
+            "Fuji TV",
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Tokyo Digital Crisis",
+            "episodeId": "digimon-adventure-3708?ep=34619",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5dce1df33f9c4d0dfb9b6f1b249030541e2a71cf93051d69aea1825ca619e0f8c83e5b125e961e1a8ee64cf0de83399b2b375c56024171e49214dc823a65fa5258f607cb49253cd98d6111d4b1bcdbebdccc8d6e7c295ca42f21a34a71aa097b6727a5f91bada23133f44215f29dc64259c4eb5588ca1a8293f0661915398a92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d0abaa5ebc6568cfd297f1b185aa27c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5dce1df33f9c4d0dfb9b6f1b249030541e2a71cf93051d69aea1825ca619e0f8c83e5b125e961e1a8ee64cf0de83399bd28d827f5e1c4e018a25881467c39c74e1f473f8a6a87a962abfafd2e8569b0fa74467b441e3b3e5dc81bae2fc805f343bdba9d9965dd92dfae5552f6ff704d0dba8ada3e077751b82a4d409f811bd4254876ef3415fe5b5b582c917c51fa40f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d0abaa5ebc6568cfd297f1b185aa27c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "War Game",
+            "episodeId": "digimon-adventure-3708?ep=34620",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4bfeb1d36cf41e41748e68b97ddbd5f0f49ae731caaa85e44218ef2ba358a90034b00c1686a0b21ed66ce23260719be9b9af2b9cc2bc78ceb47d245af2b52c0403b5a02e506f64c52aced9c808cb530ae5e487e2d9e4e5893924bf72f4bfc6b1f97b5624a0d8163731587d1d049721ed4a462a8cc6ca9c1edd051d1e6099a186/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6df4533bd9f63f59e90e4b81d2bce8a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4bfeb1d36cf41e41748e68b97ddbd5f0f49ae731caaa85e44218ef2ba358a90034b00c1686a0b21ed66ce23260719be9cb9b3623c30665fe8b940bf60b50a3d2ce50fb8ace6d21914efa7bc957ddad2e3793ccda8245b8c9c39a038df72286d94572dbc1690c6117217a8327ea00034e0c42322657dcd7656d9e549abeaacec5c2bd64d2e5dcfa4f475cf7798afacc2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6df4533bd9f63f59e90e4b81d2bce8a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And to the Digital World",
+            "episodeId": "digimon-adventure-3708?ep=34621",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/267f13977feefea43cf6e6365ea3f1e8f3616fb29b517ad5f9077373898f952c73f2606888fc3a2d978b9bd889db94e6c44e32968f34b44c573f77ed3759c4fb925014f3eeb8ab8349d157e1ddc7d029c41ffa41bd3b5896818120c17aafc744f6a1d50d15821a452bcebbb299840ccc12cdb5222db39b590d79911089a4c95e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e6f9ce53d5142bae135daf8704d086a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/267f13977feefea43cf6e6365ea3f1e8f3616fb29b517ad5f9077373898f952c73f2606888fc3a2d978b9bd889db94e6a7ecdc7af8f227a190329191f45e9deb8e63f42cca13b53527768d1e8aebdbf0f4148979508b61737568751e1d1e61bf2380962d01727f244a786b406683c11eaa611c7f6b65c18003d34c2cc580aac05a795d8ee4770027c80ee846594f3897/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e6f9ce53d5142bae135daf8704d086a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Birdramon Soars",
+            "episodeId": "digimon-adventure-3708?ep=34622",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/296bbe144a0864ac383f51fc242f5053771a48a08ce02c2448d1a5443b17ffaaa5bded68eda5ccb959cde75330023e93a9212bb4205b624b631aaf7c6aa030cb8eb04237320f443c05e76353de32cd2ba0553731fcc0374ca0ad4d5b37601bb9a51e296eeadf8498698ba9832cd32d0dafea65559def8c26bc52e2d40dbc5965/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45f4d4cf5ebb9a82f193eb4c98772266/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/296bbe144a0864ac383f51fc242f5053771a48a08ce02c2448d1a5443b17ffaaa5bded68eda5ccb959cde75330023e93a07aed1de89ceef495785ff7f57e31d27d77f7457cba87213169d6ffd92de4bc0da7f43663e99c3c8b3ad0ce5f90844d2e24e1ded126b4d8644d965a3833ecc43149c680484b338c18967f5347213b3042929f8fa84ad37c27c7af25ded472e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45f4d4cf5ebb9a82f193eb4c98772266/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Holy Digimon",
+            "episodeId": "digimon-adventure-3708?ep=34623",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a3ac07ed04fdfa021a023ba0406ca22ea92649be58ab44e93076a808fbc94dacf11932286cd8242e82f50a2b757231dfbf8130eac725525fe38a584ae3accb381225cb608a4cf21496d6907148db8c6421d52affe211663461234caddad873953b7427a0b27d227145942630ec781ba8b4d200c1ce0106809c6af93f3c9057ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42b3fcef236755a85cf669bc4665eb56/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a3ac07ed04fdfa021a023ba0406ca22ea92649be58ab44e93076a808fbc94dacf11932286cd8242e82f50a2b757231df2504c43b56fbbee15583022f47a4f651ee84ac40500d1c14d4e40fb56a7f36e4c561b438d760972886fd79815edeed991349652557a629a622aeb05feb9ad5a4af655dd3b95eadc06be413216abd9f4beafc80216f47003772bf58fbaa802104/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42b3fcef236755a85cf669bc4665eb56/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Targeted Kingdom",
+            "episodeId": "digimon-adventure-3708?ep=34624",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4f1f3a9fe751dd2ee903f7ac15d955d876db8c402255cf1efdf8812b00bbbfb882e446484f6596856c6ba60916feb947280c8193b06b0e44e5623ddf5646f76f1a099e30150633a1892b726496a10aa0be28dfb6403cf7b7311a5b67510b2fa2e61a727a1f3fcc4612dbb1644492b8253948477ed9a862471f03dfe46a1a88f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4e532cc6e720d220393ee503f3ae5c6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4f1f3a9fe751dd2ee903f7ac15d955d876db8c402255cf1efdf8812b00bbbfb882e446484f6596856c6ba60916feb947819eb3be200ed581a3f6046bea1a7a80d336344d658fcd38c8985006278dc56085e0b00e9ec198608fabbb1549ff5c24caf7ed57aa4f26eb4bbdf5de0176c947dc24b93b006bf5f9a03fb30d11d0423dbec0341fe82b48644d782eaeccdc73a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4e532cc6e720d220393ee503f3ae5c6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Boy is Joe Kido",
+            "episodeId": "digimon-adventure-3708?ep=34625",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/40ac2fcc0bc57d6a0a22bd07f62a0206f2d0bd57a4e538041a881ea9bdb8d463b2dd00ddea564ea2b32b109b7842e6c7d9392c9d87c7cd0687edcf70be86116f7db650d0156d7494b70e5cb8b1d29722c32a7bc5f8f38ecf726f64dfffa4bf8b3ba23f1e57f92e724ae45d015b995fdaafc8774bc5bc1f0131a2825fd2095d5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dea60f6c6f06dd02961c750ba13f52b2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/40ac2fcc0bc57d6a0a22bd07f62a0206f2d0bd57a4e538041a881ea9bdb8d463b2dd00ddea564ea2b32b109b7842e6c771368ca639ce926cdd4892f8a1eca862bf1681d25ff826234021b5bbd8253aaf4a8e3e233b749707f0d9db2b40af314f19f9db00c2f44b575755ea6a363cff9b275409cd35d3fc5c5124e0d847771a037a661c7c7799f38a4c5c060021f00c12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dea60f6c6f06dd02961c750ba13f52b2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Children's Attack on the Fortress",
+            "episodeId": "digimon-adventure-3708?ep=34626",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/458c6426e7927e80f356064a5e22424cd50d8e1c4b21715c1da737e5ad36834fcbf5b706c4b93afd0b2341a7230388b1c488d662a1ae92bd7ac4d6367789c0e67c68e989f1c57ef86a06bcaa0fc83704afa2a9b229025c1344dc47dc39459482be66362752041ce27f6d6e079fcb3808503fe036fc558401144922b9f6475903/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc3cfcd75d7bed26bd89a94e44b277ce/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/458c6426e7927e80f356064a5e22424cd50d8e1c4b21715c1da737e5ad36834fcbf5b706c4b93afd0b2341a7230388b1442b631bd8e579cdabfeada5a70fbe2406482532877ee2ae7049158de9f2a4e8b9d79602be3b035497d42739eb4bc4f40fb67d10d3ec4a9e49b7d133fdd1748777b379bbd9d6041361ca8c4870a0298923bd89b2867f383e6da5b4759dcaa77c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc3cfcd75d7bed26bd89a94e44b277ce/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ultimate Digimon Attacks",
+            "episodeId": "digimon-adventure-3708?ep=34627",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/90fc34b3753caae9f14fe235f92f323bac1262cdba4601723ea40fb995f570a6d78848e13d94a77328d9d91870e2988ddf6c9bf53bb1ab84670578b36f1df8f9471af0794ee4bef58925dbcea1b561b1f8cc36104a1f3bb437e14bc2685d4f3cfe792348931783e1c79d3f9924ddaddaed63d4751ba12b564f9de3a1b2600202/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/310b4bf201be8eda50b2168711309ded/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/90fc34b3753caae9f14fe235f92f323bac1262cdba4601723ea40fb995f570a6d78848e13d94a77328d9d91870e2988d4e70b94337806d79fd16e2bb7db2d0d494c1ad6484cb8d88a48f7cf5d1097934f7b3ce451a16048939c604e6a6aece79940883b715c1ce6927636fdaf0e31787a170c7d0ae389ad122b72b4a1cef965476dc448d40f2f0e0e9abaef9fdb3e57e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/310b4bf201be8eda50b2168711309ded/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Steel-Solid Super Evolution",
+            "episodeId": "digimon-adventure-3708?ep=34628",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c855f1347077d39613a7654c54e43f6bc932639423d38ac64cb393f630fd9d819a3413856d30d93209d152b5dfdfac7e22d9b236d0c1e841ce04d5dda9b21d9954fc608ac06d1ab1e74685b8c1ede278cf9d77d3cac47a1120a03bc98bbe3ebf6fc3aca8af21f9532a9367e1902972e5979e0b0eb781af832441fa848738b2d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66ab6418dd4277883d8f8acf8c738030/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c855f1347077d39613a7654c54e43f6bc932639423d38ac64cb393f630fd9d819a3413856d30d93209d152b5dfdfac7e892f56a4407177c698b659a7c600d3d49996a9f870272133ecef4b05c4e77d8f24e42e6709b7b9d82f36fa9fea608712ba775ff7ef6f9b1fc0ca76264b3bf0612cbd4b829a1308125d0c103be695d5756003fe413433a05b537ca7d7fe2794bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66ab6418dd4277883d8f8acf8c738030/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Wolf Standing Atop the Desert",
+            "episodeId": "digimon-adventure-3708?ep=34629",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/063dd82512a679ef50f8a3857474f867fae198a1416579f9ae457d70288ec0e9a3cb6b43f67bfd2987192a9044b70a31909b91015e6901ce24680d0c5e6390da218033ce5e0e5940aed6c9849af5dcbd412d68c8e536caa3da02abc2c27ca6b8c8c01f04cde629a48b122207fe3982879cac6dc0ad51593fa2dbbe1751f98f9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e960dd31aa1e3e849e3e68959c70e948/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/063dd82512a679ef50f8a3857474f867fae198a1416579f9ae457d70288ec0e9a3cb6b43f67bfd2987192a9044b70a31b413d58db72366410db635786ff368710af4e92b031f53eaf58f94d489cfbba431867f408dfa1b2efd3f5a94bc423b6925294149c29166fde32871da6bbbae43d298fda45125bb88e0c734479c1bdcd02a069abf893aa131092e53c171d81151/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e960dd31aa1e3e849e3e68959c70e948/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lilimon Blooms",
+            "episodeId": "digimon-adventure-3708?ep=34630",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/092c0d5fc536f4f98b5c2a8f06382e9a99c4895327f52242c48a6cd370c8b0b863056c41e02b034b09d034d437c72dbb9743a9b928b4cb98164b4786ab2f47eca2ae027a974fa3bef03869dbb17bfe00312fc057351b2c70effcc208b83c5521742333a0afad870fbbb8acba43cc346bd57056a99eb9480bfd7a48bbd9bc0690/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3761e2b45e9d3c5dd1b06fa62eea6826/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/092c0d5fc536f4f98b5c2a8f06382e9a99c4895327f52242c48a6cd370c8b0b863056c41e02b034b09d034d437c72dbb7d2e715c02d84bc1e1a649bbfda43ae17bcddd9c2eefd9717ab5a7da066c13a3f1b8597f25a800b5b72afb0bba5f2c038d874f0aa442aff0e9a5c38b7bac2ee7f0c78808186b0f946f9d510f3ac82733b59de8fb4095cbca2cb31a012177ceb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3761e2b45e9d3c5dd1b06fa62eea6826/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Garudamon of the Crimson Wings",
+            "episodeId": "digimon-adventure-3708?ep=34631",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2941a19c30c8f2dc2dc1eeee29e6d2a922ca430fe3a40b7322879a84348507e8bd5c848e6abcdc471ee8ed348715501910381d24bdc96a4a3c1a8a279cc64ff9c52e26476751f68ecb7f14947eae2bfc2db0530e65b3362cce8252625fc103ce68326cc7c9a248f68152e42ce8603c21083d58644da5f8c213072fdc06aa8598/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/304e557d9fa4d30c36adcfd98e487179/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2941a19c30c8f2dc2dc1eeee29e6d2a922ca430fe3a40b7322879a84348507e8bd5c848e6abcdc471ee8ed3487155019dab38eed93953da887083c8d6f760e5d21c67de65d1edd7aa18029f37b2cca0d0c7ca2d9afb347891343ab19ac5ed9a40200ee31488f2489e1a3a3421d689e0d1ac037e0deafd7d8906357515695592961dea738191d30b13035441f8d89f9b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/304e557d9fa4d30c36adcfd98e487179/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Kings of the Insects Clash",
+            "episodeId": "digimon-adventure-3708?ep=34632",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4e19b34612e37be26652f487af894ee094f6c8b5392df97bdb563c57c8d1220b34dde8dc385f7ac0621c22921095e09ec817394df2eb8b47c74745b374f5173c2cf47c71f7d456862cbfdf551404b263bc604b55c77205a93e3dfa5565470c4f56d70f93c6c04f3a1acbcee23235cb4dd47b698ac645ed94f5d92eef1ef209b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70061d12e669b77e3e252a76803e1bec/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4e19b34612e37be26652f487af894ee094f6c8b5392df97bdb563c57c8d1220b34dde8dc385f7ac0621c22921095e09eb9d93ea513d2c503e1ed24b6e612bb6d3a1ed705e1450aaeca264f0b862ace30524a2df5b430d1400e5079cb5a6bf3d2425c66ed10986861b10d1a7e8ecba18a8bb2c39e84e2c4541b376dadeab84e188e22b81467219de195b8677b4c30135b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70061d12e669b77e3e252a76803e1bec/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "ZUDOMON'S IRON HAMMER OF LIGHTNING",
+            "episodeId": "digimon-adventure-3708?ep=34633",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/1987e8ce8aa6b3731c08415c131ff2a12590f1fe61baf7c95da9c369c5a04eee5c66d013dd7c8c7da56539fcad65002be9972d1e8416b4f9f0a0d64a6e2c791b332abf0b8d9917914deb8cd0f513eccca62b0afd538985b4e1153f4fdcc044468e68c46b2679aec1f47b41ff8073e2f9458ff8fe073eafce7c1505b0acf15180/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbd7589220f8170f30ab9288acd9ef1f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1987e8ce8aa6b3731c08415c131ff2a12590f1fe61baf7c95da9c369c5a04eee5c66d013dd7c8c7da56539fcad65002b12b446ea1be3334c8cdcf8f7aaeb1a45ca6130171b052c98ba21495d745dd4d8b5612a09475209d1e4b4e5c6eb21d30e71128d4d9a7ae920b873956fa6bd959c0ee436d804102d4895512286dee0c7112d405a7138879af066c3b0b8f7f37977/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbd7589220f8170f30ab9288acd9ef1f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE JET-BLACK SHADOW INVADES TOKYO",
+            "episodeId": "digimon-adventure-3708?ep=34634",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b3884d52f73169e0baac8cd87917c5dd85ae8743824128893ff350894810e1101c27e398173ed58fc523afc7ea08bfcea0210abd7cbcbb3870d8a5f82ce880c52ab6804034e60c154d01248f924d33ba29ed7b2dd50d5014ec9b78410bc3bf4a23c2ea7a9587acd9164020852be33cebfaf618687cf4068ce6a3e719093628c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bdd3cf47247ededc99df99707182d6e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b3884d52f73169e0baac8cd87917c5dd85ae8743824128893ff350894810e1101c27e398173ed58fc523afc7ea08bfce6fb257c7ad0c0fedb2ba721bc970a95c5e10e385562b362ee593c93914e0dea2307a6029b5feb88481ed0743d6cc1e05fe4926189a5d62127f806fcc8013c8a2ab384a9ed842d561c33ffcbbba87b66abad5ff3e7d79d36440464d144f6c0ef0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bdd3cf47247ededc99df99707182d6e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE BATTLE IN TOKYO AGAINST OROCHIMON",
+            "episodeId": "digimon-adventure-3708?ep=34635",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/303d26cd0b4968ae99cf711cb0c31f0fc6961426b903fe1525f4a0abfeec1f7ca960e8282075479647f45522c21f2f58503b70cfecbb19eb5f5a60d9856f34e1fe1994734e7d48b3978dc1c1da150f757df9fef900a9add22f0a63ecbd69a2f0613a4f00523bb3fe18501a258f044b3417c96f92f8aeb9ef6b58aab4809a5be2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdfc11e5185cc63d3cd39279cd39a5c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/303d26cd0b4968ae99cf711cb0c31f0fc6961426b903fe1525f4a0abfeec1f7ca960e8282075479647f45522c21f2f586c982b3eaf5da18375d01d15a6a628fd1450ddc12c6611dc54bbc97eb011393b2853e16738f53da761f00685a48e60cd698518dbb2049ebdfbcb36c889d994f8b15ef0bb093ee0169b4e0cb70af66408e2bb0a74ac40e5cee84ce6009a4e5146/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdfc11e5185cc63d3cd39279cd39a5c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "COUNTDOWN TO TOKYO'S ANNIHILATION”",
+            "episodeId": "digimon-adventure-3708?ep=34636",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/29480f6f19f724a19145cefeae5f9435ea3e704c938cb04ed06699e57b7c2d6895c5835eb5604ca08fab49d05547abe2535a9cc8dd9a2f2889221478889573549d93c9b072eddb887e58fb3911cddb2aef3dda07b6fcba3848049155b39bec15661d422caab513bf55b00dc11f7f6b90b901a0e7ec264f1f09491298ed19e9a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c168227fc523417f374d57a4214fdb4f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/29480f6f19f724a19145cefeae5f9435ea3e704c938cb04ed06699e57b7c2d6895c5835eb5604ca08fab49d05547abe20cd0ccc39d25de7b710c542d1d6bb73ba6fb70fac5251905c222a4bbf5d355c737cecc2d9b9ac9c6aa1bee41f7eb6fffec08fac5c6e0f283570f7a68f3792dee857c2ba3a0f5d81345c9381a4ffee1f58c44b825207d38d678a940d41a53de45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c168227fc523417f374d57a4214fdb4f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "HOWL, JYUOKEN",
+            "episodeId": "digimon-adventure-3708?ep=52269",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/95b77044d29774acef793b070fe697cc0da728c3eef3bd76eca0f7074c447a34509b36b5f937c26e7fb311465d8bff4310f6cda5baf8ef75004407bb113dc0c7d9eac0aaf9f0defcf728f29d0c9ce1f52cbf0e3507bee874f0ff04b9996392378ff4b6fd6d56c2967c8c35ea4edcba96facdded877009215ffeca5b804080fd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54cd08580a769a77aabc6af6babb25b4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/95b77044d29774acef793b070fe697cc0da728c3eef3bd76eca0f7074c447a34509b36b5f937c26e7fb311465d8bff43f36e87936cc004bdea351f0f812346b0a60a769b45a82f334b07cadd5d7346984f1e4baa3625a14c450dbd068a93b8ea177d9d8fda54b177007fdb37a2df0315a36a245548d9a04fb80eb1a59986af68239502e683141d28551d45effbe1f04b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54cd08580a769a77aabc6af6babb25b4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE SEVENTH ONE AWAKENS",
+            "episodeId": "digimon-adventure-3708?ep=52270",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bcf8a9c205913e78b895a35947f00290696202aecf74bdee095d1b78930c4e7a7ca98458965e3860c9c85550a5531e5d129a185cb653006e1532e710ab781685055fdbfad3a7afd3ada2a7bcc9cf3aa6cef0963521e892632d02fb0b1279cad09106a38a9813ea4aa9e060dfe40b66edf81a63df3aa3fe3bb72063e541c366ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db2e03d7e1af3ac8fc00c09223a47794/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bcf8a9c205913e78b895a35947f00290696202aecf74bdee095d1b78930c4e7a7ca98458965e3860c9c85550a5531e5dda254637e99af9ce064e31ce1745ca49bac13ab869ea30caf4e769f435fbe7ed6e25a47d6bf7abec96c7a7d9ee481e7582e172e642c8f3a24bccb5b9be9b0981ee8a330bd693f9c6deb794800475672b926baa8dab8fbd5935aa2af262d67923/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db2e03d7e1af3ac8fc00c09223a47794/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE TIDE-TURNING UPDATE",
+            "episodeId": "digimon-adventure-3708?ep=52271",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ce821336c20ae3583cf8614edb06281c8e07e07b52033fd6a78fd4efe9c8647a3d35de8f8229be351ab56f73ac34996d2529bc7b48e62a45c5d4bee3c92af7c9ad7df2a95cc31c9d15be5a7d9813f8c9f918e9d089cc227448a5f4fe25b192f7fc6ce2ae7932e0d5e878fde0df4d22687dbdf83584f034d1f8164a46065d77ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ee38bce3c779080e939e4598510c7d2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ce821336c20ae3583cf8614edb06281c8e07e07b52033fd6a78fd4efe9c8647a3d35de8f8229be351ab56f73ac34996db67a6f3c355b22e696619ba274a0abf9e993f178018f40304b136824085f2089d6240cecd18d25a1f3d43defb42173dd1f7d4531d952ab594fafcd8dd2e4fa51cd78bb5cd0dd8cf734f107d9b70aa2ea79de21dbcb329be4e1ce0ad6c4d435ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ee38bce3c779080e939e4598510c7d2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE UNBEATABLE BLUE SAGITTARIUS",
+            "episodeId": "digimon-adventure-3708?ep=52272",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/37ed062ad9907339f5a6dc96a763774aa7523b45a2bced3fb47c4605906ceebca9fc7fb83e32343cb32b13c2c35ff8da746a4c0a8f2d5a7a520d6cb29ab4a9d41e8a912cc546bdc76701d7715e58efc4c612c7f2a43a11662c711f2399822ea63645cafd290ec14fb4aa5bf127ba54016ae482d9b9d5f4dd806b261042a4342d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77b40f4a0ebbf9b99447c47f0c8cefb0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/37ed062ad9907339f5a6dc96a763774aa7523b45a2bced3fb47c4605906ceebca9fc7fb83e32343cb32b13c2c35ff8daab59b4f00ecd353a28460595bcaddc8ae6925f06e84c2fb37daf80d7bc2b91ea34a88d77f7d998fd024ee9a35371aac4fe543625daea5d0dfea9e899409272ca4c9ab55cfd75f26df01d8cc7fdee51ced277262a24325d8fdcfd47eb0817ab20/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77b40f4a0ebbf9b99447c47f0c8cefb0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE MESSENGER OF DARKNESS, DEVIMON",
+            "episodeId": "digimon-adventure-3708?ep=52273",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8d4f6f463633257a3a1d9a04a3559c73c67439d7b30e9fe1c7011478bab68204cad265344eaa60b1c2ff7f556e2213480934dfb94cde534faf85cdeba95030d9787983f9bb055068634321bd84ddc176a689bc33c8f5e36ddb16b709af1296f46a0ef290feeae05b55598a083465b87179a9f44ccec25be5e16833d4a91b8d9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a5c373d7eb08f5fb00a4c8fccbb4ba91/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8d4f6f463633257a3a1d9a04a3559c73c67439d7b30e9fe1c7011478bab68204cad265344eaa60b1c2ff7f556e2213486ba3e5aec1a56264cacb109f5e9485723ffe78a24e89949e893febca1f0bfbfc02d626488c32f311afc26c4f32ea602a1637383f4797bae1e42bb4070e44689c5539763fd07f615178aaebad06e0821e47273c2743d7138b87fd446ed4ad51a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a5c373d7eb08f5fb00a4c8fccbb4ba91/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE FINAL STAGE, DONEDEVIMON",
+            "episodeId": "digimon-adventure-3708?ep=52274",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5df85262af44ca968cf69c6c2ae2a3a4bd6e3b5439f0c6fb5fe1219a49332f95c3985ab49f2f534873794f006e5a50cca124f53a6c6c5e314907c7f2cc9a7dda169714f8925747d1cce2b7ee598e4317e86fd3f1b5f2fa1c60190f42ebe26c84700823108211b0ed792d60f93256d5fa6ae7a1f67d6fb56b398d1c9fe8cd6c8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f2ef6431e368a7dbb7e0c2cea6fc784/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5df85262af44ca968cf69c6c2ae2a3a4bd6e3b5439f0c6fb5fe1219a49332f95c3985ab49f2f534873794f006e5a50cc71e44504c67cbecbbb8df58bebacda54fc7687f4d8e07a4a22b6ee81ea6737ef76e10b61a6d56ecbcd8d39416e391e9624e2bbd47e9a0ce0caa9199a76e8b93ec57abb8b1419d46092ff8a10afd005c7445d4788d31488565380c90e8103b050/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f2ef6431e368a7dbb7e0c2cea6fc784/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "DIVE TO THE NEXT OCEAN",
+            "episodeId": "digimon-adventure-3708?ep=52275",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/824e87b7cdd6527cc12ed10f48f3a3d0a4c3969e5cf51c0bdf190c5719ce2ccbdad8aa0964966616accea070df45d8571b71c07f75b9d74e6dae5c85b67cfa2f825e0f007bd8a57ec2872ed83fb4f1a38542fccfb29d3914b5d2c71cf6204f6a351fd4dec421fb932e27cc68b30145a0701b603405659e0d6707cef4563275bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0b2a1d3f82ced4191dfb28e5e5284ba/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/824e87b7cdd6527cc12ed10f48f3a3d0a4c3969e5cf51c0bdf190c5719ce2ccbdad8aa0964966616accea070df45d8577e7b068cd7372611e8c7129974798207352c33191a4ae21a94504a2160e8a2cf2abf28a0646ba97a8286ffacceafed6f417bbf0f136b7578b47a36af4aac0f60634f6aeb5409033018b98897c57728d32f684263c45206d0e5444cd250188796/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0b2a1d3f82ced4191dfb28e5e5284ba/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "BREAK THROUGH THE SEA MONSTER BARRICADE",
+            "episodeId": "digimon-adventure-3708?ep=52276",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/660b4d4bf28ce0c154f3be454fa549868a7c0096bcbdb84554f77d8fd01b1c9aae57ff16f97bcb58c750927ef60d7d3f569f143e889c4a77744a273694e2e683c97e7f6e24fa514201588d85ae78f4d3f1286618b6d4f30cde4aa1f61ce34abfc8b1d96da61f7b05112730022e8c6ba1f8d71cfe9dc7a719aaaf7c725a007d82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e137ce28b80825d93e9fdec2d9ed8f7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/660b4d4bf28ce0c154f3be454fa549868a7c0096bcbdb84554f77d8fd01b1c9aae57ff16f97bcb58c750927ef60d7d3fd46267488cf0fcdd2c60a1da53e4e46f1c717a85832540c7d01906dbf52d9ce543230187e4cc38c6fd0bf9820b977dc04454e9ca9249901dc8348949ce1928f0d0ac3865ee2b879fef6fafbec58ec3419e140d7372056e770966b91de109646a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e137ce28b80825d93e9fdec2d9ed8f7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "TO THE NEW CONTINENT",
+            "episodeId": "digimon-adventure-3708?ep=52277",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a718fe8a6d5b4a0acd8f643b5837c491a9365252b1ae06286511c3f7085a991ea7e4eebce2e437ba0b7d54a0a19df0d9bd184184e823cd53f298543ca848fbc1229fb74540e965a10b88f4a7e0f3b949e314ad3b18be7380324e20218932e71e674239bf01fb16a515f43e32b5cb9a8d044d4d81a7438b4d85d667e0911fad35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b3f126f7ad63effb67f4c7e6599fc41/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a718fe8a6d5b4a0acd8f643b5837c491a9365252b1ae06286511c3f7085a991ea7e4eebce2e437ba0b7d54a0a19df0d91e84f6ed4c9acafe5f5130d9bfd077e7c920826647f6538941bda11d53201f1dcd8e7988b60a4fe3b507ef47a6f6bdaa465b027c33dbee62fba93efbad19c56acb308d4760d35add9565917b75acecc2c2907e869026b9ac1c3887b8f27ab065/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b3f126f7ad63effb67f4c7e6599fc41/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE CHILDREN'S FIGHT FOR SURVIVAL",
+            "episodeId": "digimon-adventure-3708?ep=52278",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8e9d6617a13067747437ed8fbbe504e0b6d97e10c7a39f46deb981e13f9ce802d9a14833c74a284bf99cda3081e27b10b92b48b0fac4ff8f6b0136c4608dd170c1324e3345b9443a9975dbbc59597aa2358f70f49fdef182662072bb46c0faa79e826f65c7e8bd81340330537e6c34eac325970518530cfc3ab70e2537b3836f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fa7541e1f6a60fd06d4775572591039/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8e9d6617a13067747437ed8fbbe504e0b6d97e10c7a39f46deb981e13f9ce802d9a14833c74a284bf99cda3081e27b10bf801736f9c4d977821fd246f5e4089c4a6dc2bd93b729b6c32b1b350bb23d10e4f92e596cdb885c62e9275d3ef7f704edd0274b41575ec441ee6154f3555ca27fa44a12b0dd8ffd45cac2f468889e94d97f14f87c946dc61a9c225b4a393fd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fa7541e1f6a60fd06d4775572591039/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "ESCAPE THE BURNING JUNGLE",
+            "episodeId": "digimon-adventure-3708?ep=52279",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1862a1c4b472c5db722c8be5750ba05e392e28920c25a7c4726863f8630a20521984c203a818d890ea67ce1174b46b61e63988d851be2336e1b9f1f10e15ad7469adccc122c3ce316e25bf2268157ccb8f54635200a67368974951827b2b8d1dff615c9378a11e0d67f5ac2f51861f2291fbe3e54d18c41154c6573d1d4fcabd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78594c4ad88cb31c8fc43a0fd3179f3e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1862a1c4b472c5db722c8be5750ba05e392e28920c25a7c4726863f8630a20521984c203a818d890ea67ce1174b46b61697c74bf80a3cf99e76bffdcf67642bb645f7e3869fc8eb72fc7362e5d17a263282e74acc4c8180692156b0ee56baea84c3d747ab4ba1ac573658d7866eef2833a40ad70a95e28cddb558a3d6e64c120fb0f7805d0dcafed6be15b0d8c7a11d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78594c4ad88cb31c8fc43a0fd3179f3e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE MEGA DIGIMON, WARGREYMON",
+            "episodeId": "digimon-adventure-3708?ep=52280",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8b9a05f8549274622a85ab0e16fc5613c84ad01ae98b2df57d573447d08699dd2a0379445e9078265f66802bbe9e305aeed1727ec8c8af30c870f230185e5e63f546eaa1a2b4399c53cc729cd642c43fa5fb94aba6aa934a9c4c6443e4448f292675c46a5839a5cba432e2950ac299aaeb2b36bb67e80a023cf46ff5de8216b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc32d559de028db35ddfa595dfd10d91/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8b9a05f8549274622a85ab0e16fc5613c84ad01ae98b2df57d573447d08699dd2a0379445e9078265f66802bbe9e305a63869212f88671ee5480003df9bafd10625e0627af25c17ea690f580a1318b3f0c3142972d4c10b644e799f74d8757402430806cb365504381c0ec72b11cef1fc84ed3e77eca432751e60cfb13c2372ffce5590ada6852a5b18d0612280e4a4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc32d559de028db35ddfa595dfd10d91/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A NEW DARKNESS, MILLENNIUMON",
+            "episodeId": "digimon-adventure-3708?ep=52281",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9dafcd863865380624ebdf6aa32395b44e4f2949d61a45ba33d3b40192cb475c95356f68407e8b18a6196219bf8bbe108ea4387aa9f0b9263d5d5624915ee3d0f7aa00398b4c1f49a7801bee961387f44196001facc15ff98406a870dab70e72bd13eec37bea720853e0a2c0cab969cdd69b11a5f002fcfc95cf776247a7a887/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6dcb06e444018fe61348f34ba8093e6d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9dafcd863865380624ebdf6aa32395b44e4f2949d61a45ba33d3b40192cb475c95356f68407e8b18a6196219bf8bbe108a572d5b53e5dde383601c1e91aba3b0dab88963fde507dd4a49ce8d6f277b418fd96aa251e5d9def9d3e4f89362bcc1118409ef855c1320a79a50ad8e4698e7562bfd18a521888a6ec3b937bc9a39235beb3e3e46b313518f901c561fa951da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6dcb06e444018fe61348f34ba8093e6d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "SOARING HOPE",
+            "episodeId": "digimon-adventure-3708?ep=52282",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/fa19c9edcbc8cd032b6aaa6d2c1503f2830483279eb197128a707de167ed66155eb2c74df19868d8f217216672ed1c5e3a2f0d4f8be6193786f4fd7fb1d2d83823047f8a790fd4398cef9e07522b1a8dcb0dbb21ba7f5915f92c33267e1625c22a20a0a7e3bac90b429631d9145298ab70ec69972b69f3ce4b8a626f4fc29695/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bbcd7a91bd9b31126a4a5d7c52eb053/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/fa19c9edcbc8cd032b6aaa6d2c1503f2830483279eb197128a707de167ed66155eb2c74df19868d8f217216672ed1c5e35cd8a154a358b3498cc0f817d46895027d6ca624a949c25f09577010c762dab7fec0da23aeae88cd9872a477fa1bb671f6009ebabd63a7e2d51540e6f2d24333282360749faeb8ce9ade9a30de33940065aec5c5796f1659fe1c4233441a49c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bbcd7a91bd9b31126a4a5d7c52eb053/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE HIKARI OF DAWN",
+            "episodeId": "digimon-adventure-3708?ep=52283",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7f3a7f90136df9e7d06b7d6f56b79214398b6fe336246982f58179e01d010a4491900d3843c98bf074b7e20957980790cdb776431b66d41df6bf00adc6b70fea4734c0a4baa3ad5630b651148d5b657d2959656be9273f30238ca3282941907ac304f71645ee3ae6bebd1437f82c1a3a1ad8f0d5e409e25945042ac13649f57b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9526e3aa274c0620fcfca6d4408e2a7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7f3a7f90136df9e7d06b7d6f56b79214398b6fe336246982f58179e01d010a4491900d3843c98bf074b7e2095798079098e1593510cbbaffdc0e3221a6baa8084a0abc74f35c39843dce1f30b1b4ee4d95fde2a284775880dd7b03b7e5a550f4e65dd8d57ba0fd15e0b63cfc4328432447aecd95fd6e0fdf52d1222576f63208a66676c6e7ebf74aca0a726311c9131c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9526e3aa274c0620fcfca6d4408e2a7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "HIKARI AND TAILMON",
+            "episodeId": "digimon-adventure-3708?ep=52284",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/168dad4802b9a8d12ca4e610a161e4a124d784efa2051b88462a0c51f575615a65d9bc0b63d77ca87665e17d07eee09b41cffbe7d1c1447c78616d94a420a66747078b98d7d6ed8f021bf431201c8dbad581cc6f62b9e39b7fbbedf700b6dcb16885283fa3462192ccc6bd2c298dac1773af654dd289b47fb191a07afb8ced72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f5ff3c4952c1faaea3a2624d9afe3d2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/168dad4802b9a8d12ca4e610a161e4a124d784efa2051b88462a0c51f575615a65d9bc0b63d77ca87665e17d07eee09bdad8efebf9373e33d020fc3e3c1df89285663b9bdd705a0d4470d2cd27fb157846d282139e31c4ef54cb7eadc4cab4ac430df0077bbb3ff6eb2d20f84c81730bb49a3665f4d145f52787be41984c724bea3908268a02dce72cbdb6643983c8ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f5ff3c4952c1faaea3a2624d9afe3d2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE GLOWING ANGEWOMON",
+            "episodeId": "digimon-adventure-3708?ep=52285",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d1989f21410986ae5c719153d6b337e20e8808d23e94408548384fb3c0082905161f3590aa30a846172c70590de7b2c6ab2b13d88e2564af26bacdd2260bf589eb010b8d84e0f008ba903ea4c09c0aae03bc011090eb55c5712fc19e23cd98fb81473bd8f4b419ba9199fa75f787bdb915946f418e982e5cd88d6ca3efd66408/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/893074f24a1138bb292294f450421250/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d1989f21410986ae5c719153d6b337e20e8808d23e94408548384fb3c0082905161f3590aa30a846172c70590de7b2c641ff815f37e25c70edbe4b14c6bf719a0f0a4abbc93e1ba36ae2b2d7b19d73c3b5dbd59b920ac59656c8c69c72f29f4c1bfea93c79ceb787343a917e4b45eb74478bf7f8f148f5d4666d3d4ecda3d0a1eb50ebf7aa475828de9c630841985bee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/893074f24a1138bb292294f450421250/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "OPERATION SATELLITE SNIPER",
+            "episodeId": "digimon-adventure-3708?ep=52286",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c22201c921c1631a757bfd8cc4249e90372ccd967508e0762aaab81433b6a1a1f34688cf2ec70c15381758e1d8aa69e547674864a79f0ff9932795fe6a0eaff1f7ad309495285c8c729d5dfc6f62a28ae9177c0916d313fbe376d275fb4e6592b4912bd8ed8b669eb5cc240b236acb1363de2a61cf644777af7a45839d21c25e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ef374ff805cbf092c468408b812864d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c22201c921c1631a757bfd8cc4249e90372ccd967508e0762aaab81433b6a1a1f34688cf2ec70c15381758e1d8aa69e58cfcb52811a5fb486b07d92e2907e03e6f2c92e676f7838aa10e4cb324e86e724007a380c764cc1e4aed0223aa8995abf1ca68e0abefd2d59ab0a71a33bd500e901896f46fb4150d1fd56a98a14002352a0e82199d6b780086fafbd3a073af7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ef374ff805cbf092c468408b812864d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "MIMI-CHAN WARS",
+            "episodeId": "digimon-adventure-3708?ep=52287",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/93603c5df2d2076e4dd386711c4a7f99a75c9a64af0589957c69895101ef07b7aad621ea032acbd501fb5f7e5e834eebdb83838977fdb56d6ed51c13e9b315b8fd9f2c9f77a4a2f9faee0d5aed212f2d2c54eb7b60972920eca37dabe04376d9fdd081c83512e6d030d2dd07da09fb678a8ad86f97b88841eb8cecb0aa7500e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01c4efbb49a3336a96e806e260ff9257/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/93603c5df2d2076e4dd386711c4a7f99a75c9a64af0589957c69895101ef07b7aad621ea032acbd501fb5f7e5e834eebed4862798d6979f1557a26e5352e1209aded8def272b9402d23d7c95c409dc098d633a70983c7c3f661f83494b68e07ec3711a3527bf0189674b68dafbcaf1d799cead618b16dec75f72150a9af2fc113f8224841cf24761602d279eda942f26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01c4efbb49a3336a96e806e260ff9257/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "THE BLAZING BLUE FRIENDSHIP",
+            "episodeId": "digimon-adventure-3708?ep=52288",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c44781aca206523c7cc059818b7255a5d89f0e24f328a57bd02f7252eb2a5c07857d550a5064e5f9d747cf5840cf596497b99dc3fd9a253fb154c52b370b467961903455553fd0c202c3a99ba907f80af0a113f2ae53689512a335a61bccc6a2e88c803461d69d8a111ac31c7688071449aebfda0ee0dcf36653ad1990ee5c6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b984d2c63fdccd6f27ac8d8b25fd7c91/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c44781aca206523c7cc059818b7255a5d89f0e24f328a57bd02f7252eb2a5c07857d550a5064e5f9d747cf5840cf5964403b1ce0082586220b0e3d6c64fd12553ea597018f70e84d8c5d85dfe1f6ff6c0111928afb41ad21276f533a950487bc36412ce4538410b9cf7789bad5ef8e61438b9e798d3caf4913aac63ef15c57adda6b6ca391f7f76a368db2b361fac47c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b984d2c63fdccd6f27ac8d8b25fd7c91/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "JYAGAMON, POTATO HELL",
+            "episodeId": "digimon-adventure-3708?ep=53244",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d4ab6e15ef36cceffba1ea00bd6620eaa3a12f6dc616ae4e85793b93d4798f7277c7063cc1254ae7359e8b0e60ed1637ceda40aa13032ee1cf2aa58ba0e8bf6356b93b32892176c9db78e379538508a7afe10e960e86446c9b45591d507f223d21c7c7b148876a376c71e8f2f934ed3873e242f35aab553ce021b5be4ce4275c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24ff63f44d796231e393efa8844c7071/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d4ab6e15ef36cceffba1ea00bd6620eaa3a12f6dc616ae4e85793b93d4798f7277c7063cc1254ae7359e8b0e60ed1637c9aa0f59e8c2214ee788766536f3ca516d1d91b50dbd4d78eddec0752b5fef4671575c5309dd4d8ba8b0192c2322660f52bbb2e5909a0f43f5ebe778e31f2217e0cbdcfc82b7740dd2f6bf740735fee9f50a90ddf87c6c78bbfd4c4dd4a8b8aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24ff63f44d796231e393efa8844c7071/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "STRIKE! THE KILLER SHOT",
+            "episodeId": "digimon-adventure-3708?ep=55443",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7def4c97df5664fb0b8f17b181ddb9391b869694a5a78ffade71a41a40c5d219f952ca4bb645b11e36a0fbe05a9a7ac7ac13419dbfb851ee9bab754af851421317d12c6cf1331bdaf1be0fdf98b5f80429024a57200c2a04f591812e34cb660be23ae91c95fb36329bcf3f2dcd15bc0b72cb9f7c365b15c0ec773c081a4c1bf2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/436ab21705c135372b065585e479274d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7def4c97df5664fb0b8f17b181ddb9391b869694a5a78ffade71a41a40c5d219f952ca4bb645b11e36a0fbe05a9a7ac737d4eb522a1cfbccfa39c3bc0582607efa243ec3f1d9d700d0a69f84b9c0531fa056cf759a2af0237d7dd0587dcb70d8eb24250be5951930ca26c6b2aefb3ef655d283a95be90857e863b45771d34267ade5524140814679e9bb00585550700e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/436ab21705c135372b065585e479274d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mon-Mon Park in the Fog",
+            "episodeId": "digimon-adventure-3708?ep=64516",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c67e58e4803d80205cd9ff750ddc529813b666173056319ac11fc9936b67a3ae7e5cc4ed9c5ab02616d127b882aa442bec45ce5ad6cd730c408d9711c2fb89ea1d3610a7349440217de0db77df242dde44e3d51b308968cbd4f21c1703696c7d88b9c7f74274a7b2483de9bb154c4eb16bc0ea0da71416f7bdce6237e9849792/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f0f62f77447f15d96c8c47b91f7799/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c67e58e4803d80205cd9ff750ddc529813b666173056319ac11fc9936b67a3ae7e5cc4ed9c5ab02616d127b882aa442b4c3989293ce4d30b30c80b2e947e4ee0e8996bad1c77d13c8e56cc4b09ab88838d990def56511a473ca4bf555e82ca166f069bcfdc1aecfb97833b4dc62206c4cef4fb8f47c998bd0b08a0763af568f513bc317fc42a01396098cc46f7420186/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f0f62f77447f15d96c8c47b91f7799/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "King of Inventors, Gerbemon",
+            "episodeId": "digimon-adventure-3708?ep=64517",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a63b5f3d7b9afc48b7203417a847c37bceb7f4950b9300348b47adf753dd2271b84405d5313a562b3fd34d2e2c3038a75e10f89961f7ebf3a7cf2e2ccbc795ea07ac4f2cf12d70933158b09695f8e77289017f9cc1c13ea36f0b6a6a1ffaf7e0378832f109f942e2376f3e616fa577a1c30714de57c2650a582f92010fad91b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acb6a4314d322efc7e516a4bb06a2a82/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a63b5f3d7b9afc48b7203417a847c37bceb7f4950b9300348b47adf753dd2271b84405d5313a562b3fd34d2e2c3038a7f3406b1aa022e092eef42d930b715e12f784e4bb126f8caa1525366b683c078780e90f7a81bf6d96427b2ce8b1842f64cd68ddb6208c50c81723f6c0b471675932931a354f68a14d127caa6b1b7cdf865c75d344d426248440f8249b9dc1be81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acb6a4314d322efc7e516a4bb06a2a82/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Clash, the King of Digimon",
+            "episodeId": "digimon-adventure-3708?ep=64519",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c3623967a53899fa201fbfe81e0c7de3679d771cbac759688be58be4d456068517e1b541e379004653dc50da77e0a5fd3534e109e3165f2821e79a484e596afb3b053ed38895b18466a5617b898192e7ec3f6619f459e00da5618f0ae6a522743c0f6271c09603601dd663c1f93a56310a0582c367747a01661bcc7f7d415fa2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c311bcafd3db57d26e358f5de8cdc46/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c3623967a53899fa201fbfe81e0c7de3679d771cbac759688be58be4d456068517e1b541e379004653dc50da77e0a5fda6af6cacc3b0e319d071f5be1ad4f15b48eb9260cf07173c2b8498ec145f9010cf80a8a53d8b4ce6b5a8e5b8811e5a270d559926771f18e65f8b7287f7ad66e8e47180b5859854454fe6d2f19cc000818e370105a2ea8b0ad473ff9475df648a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c311bcafd3db57d26e358f5de8cdc46/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hikari and the Moving Forest",
+            "episodeId": "digimon-adventure-3708?ep=64521",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/07c902a6cecc22efca4e26cad6bc50ff416df5574ada7b6cfda91f78e65731eb6a67583e11efe183aa9dd962130f5c436bdec5db374c1c027656fb07d04096aba9047ffccd2c357625399cf3daaa940d70f8ba55ad6832cfe160cbfcaeb20df11a7da8ccd8dadf241bf3c9a0b1233b45388c2a2052374a5b9ba48da2d82d9789/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fc49ca47bcb489aca04d53c2615db84/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/07c902a6cecc22efca4e26cad6bc50ff416df5574ada7b6cfda91f78e65731eb6a67583e11efe183aa9dd962130f5c4345bb652f4c9ccb8d66a4c51f4d1cbc80e2f6a9253050d69c5e2f6c7d490e1ae9eaa9c0e06dd299be4add2a47a687243ac928951512c0d2c7b411d597fa5b509d9318da49ccba539733b422a929c9b18977846ee0b18c870121964b0799250696/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fc49ca47bcb489aca04d53c2615db84/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Activate, MetalGarurumon",
+            "episodeId": "digimon-adventure-3708?ep=64522",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/516a7858e81eaec496b74c0eb899551b8b5a18e006888aca8d1282cd69a8645bc2816035cc914cb24ec1a425a8d37c8c18fd1cb519015c9208517805038e5f9f0ee46d5438cf3b6a039981d2d6cd1894276af0d11609c7d850bd6b24d4105d12f3b3b0fdac7e63241c2d49dda1b6ca3752201714ad8a1fe01e16e1940400c9a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cf0bf339413989338be22d462d5a1c7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/516a7858e81eaec496b74c0eb899551b8b5a18e006888aca8d1282cd69a8645bc2816035cc914cb24ec1a425a8d37c8c3c27c457d1dca6ebc8ec55cd6ba08a3aa27de9a278e2d44ee0c0a8eaa5264916bc82967d5e73c6444f9ffffae52fa9f9741ec3bf5c30333b795770e21c461ed88b36d7b834660b5bab1f80a083d4dea168d80792fd69a93dc69bd4c64834e48a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cf0bf339413989338be22d462d5a1c7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sword of Hope",
+            "episodeId": "digimon-adventure-3708?ep=68177",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/50da487c7894a35a18588eac3ea0a6c5ba8691ef21ab9bc71fc9ca823b49045abba2754c0d12b24ac0f7a4f58e788866d8986642dbd0a3808f82ec5a4fbadcb12c8bca25f6080c673116bf0d422c10576c3a6958d99bbc526f264b3c4f33b8667b67e28dac46edee8ef9329f06f5c3fe97234aaac332cdc0f4f4f5f2b3af27bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e98ebdc7be0a3575049c40538343998d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/50da487c7894a35a18588eac3ea0a6c5ba8691ef21ab9bc71fc9ca823b49045abba2754c0d12b24ac0f7a4f58e78886644f12b457fd6d91007fde7d0757539c82393575e753ea48dfbcf7ce6ca0c3892d101981f3e742a18ac08a407771943bfc525195952c4e68e754fe53636e03ab271172c4706e86729ce62469ab784e1ac1bf79077daaf427328f3a096b80cfb6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e98ebdc7be0a3575049c40538343998d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Villains of the Wastelands",
+            "episodeId": "digimon-adventure-3708?ep=68178",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9c7a6ca9ff2b3806faa2c0c150ef7392217076a5298a4868f0df3e328f12f9b7d3a6108e8ef26db921426ad0096717d583274a0882f70b2f3c66f2cad1babda45ae998b7e53c4273d9fc2ccd87554ba23bca17651c2100bf3baf5ead62c32def0c8132ab4554055dfb8c9a1bae328c1f0bbfc6684670528223df9d00cf001b94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7852c9ccf87904aa3cb1684b3ef9a090/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9c7a6ca9ff2b3806faa2c0c150ef7392217076a5298a4868f0df3e328f12f9b7d3a6108e8ef26db921426ad0096717d58f3f3a1f5ed70e98489961f8c8de66c368ec99bc24ee213e6f2eae2f20e2c580ff5ae4d5fda4735ca2277811c2a211b8c0a9717e3554a994e58db38cd382726892f7b22b4e0a29a5c91dc60c77544be010dc6ab76a7f6c80f69a461015a19808/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7852c9ccf87904aa3cb1684b3ef9a090/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Attack of Mugendramon",
+            "episodeId": "digimon-adventure-3708?ep=71465",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/062a8fe6835665bfe149132b2026afaaebdeb30ef9478a98aa372eac70d15f77920a9e5e7f64e4667a87795a754148eea35b0ecf4325ab68c080fa692934441f7d101a1e98e7f2976f345b41d951bb969127693eb9935752ff1db844f63fb1df078a1b92ffe7f6103c60d6a11a6d87547532da589c48debead03608f44876153/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/616e0813fa757877816ff009a9c19b4b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/062a8fe6835665bfe149132b2026afaaebdeb30ef9478a98aa372eac70d15f77920a9e5e7f64e4667a87795a754148ee9eddbe2b934adb6c23225c05c643788186eb93486eb21d1f213d3ff78ed3a33f4124cf933084bb5863ad61ef620e5f231dd76f067a4178c2e3cfc89184d94d0b13a6dfd2ed5893567bb1b609b4c255f102edfc5d284f9183dbdce8f235d15f5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/616e0813fa757877816ff009a9c19b4b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The God of Evil Descends, Millenniumon",
+            "episodeId": "digimon-adventure-3708?ep=72200",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7a5b9f1ce9e9836d7416bec2a8a90a1ef254561cb51ecdcc1e01803e1a621a776aecbf7400bca0876249ea745edc635358b15c2e68dfc96dd68b4c7a209ff2bf26af31a8b03ffc1d1fd4fb30746fe5b48b6303e7fa1a27ff9dccdf60037e9d197131f2007beff8e931957cec8d1dcb2b55889559881aaca66e0f40ac9dbfd6f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/388f4e06b9fda968ec608bfb99c0dbb8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7a5b9f1ce9e9836d7416bec2a8a90a1ef254561cb51ecdcc1e01803e1a621a776aecbf7400bca0876249ea745edc6353f7dacb879ee649b260c7d845a236c375d27cae8472b75f63fd88523cbf7bebcb6a823ec713173ad1dd4fc9f2817dc3c02733df12548ac2b945bf983bfca98a248656822f535da7b33c474a84bf109d8c4a9482e4fa0ecee2f8c78da2d114420a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/388f4e06b9fda968ec608bfb99c0dbb8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The End, The Ultimate Holy Battle",
+            "episodeId": "digimon-adventure-3708?ep=72721",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8028e886ac9e34fc88bd7a569cf464d7cd23f0948ac27e900369057bae6bed4e31346c8dc530938f032c52e47c2f73d1a7412371666f3a1bf3b13aa66b9ee3b9826e0aa2752d24f96231f3a804945e1274c43d89954728b83644d6773008ba2231ecd36c8cfba1bcd277a7f7b2553f25386e798d2199ee358bab75e4996c1f84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8d96f518e6d1ecfdda2033ee230aab9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8028e886ac9e34fc88bd7a569cf464d7cd23f0948ac27e900369057bae6bed4e31346c8dc530938f032c52e47c2f73d18c4ce03dbcba1ee5d52fa369ff48137d227fc1bf4c34a7ef2950f36e1d6fb7743890866654fad6fbb2dd7cfb04c36221c578604e07e30ecab900944ecd7d7e64628dc6bca99a7dba89fc0f9049bf10350123a6aa03dda4d9fa726895cf4c2cd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8d96f518e6d1ecfdda2033ee230aab9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mystery Hidden in the Crests",
+            "episodeId": "digimon-adventure-3708?ep=72722",
+            "number": 51,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/699ed3116d8ad7d99975d37b0c694a9927d630cc5c29a2691585ffa96522f0c141c165981bbb6edbfd9252477e3043086395eb36c838b973b9af099eb23f9b28bc094fd4f1311653f41068cb65d949afbc29f444f574097ef7515c6fc6473b28143a6c3d1cafc8ce8f8401c984c8c11e2239959f1a5c1d71b4da2020c7eedf28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3989ff59a063abd553b5500201135f50/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/699ed3116d8ad7d99975d37b0c694a9927d630cc5c29a2691585ffa96522f0c141c165981bbb6edbfd9252477e3043083a90b9ff2d42efd98e3ad91faf74cc5e26b2691b689104ece770a90f2d65a888908d702f28597543183bdca5118f502cb28bd1b269bc2e6f301decffaaf54a07ff6c17de6a70d354927cc61a940b6e6e9685a4110dd4d3ae2e37b149814d62fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3989ff59a063abd553b5500201135f50/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dance of the Heavens, Hououmon",
+            "episodeId": "digimon-adventure-3708?ep=74108",
+            "number": 52,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f130723ab77e8924455c594eee4b3472ffd973f71501eed67cdc34d4e86582b60556668d3c051d2c8bae036b97b8ed42c770aee7eb3b442f8d2c7f4ae38167be3526591d713f1449118399b04a663f822508b6e2daa1caba5345dabeedc13db66dfaeddbf4fe3ce948af2ea85ed2c5bcac22cebd49b362e76e3b5401b1444c39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff8bb58688861f8b7ab32f0967ef937d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f130723ab77e8924455c594eee4b3472ffd973f71501eed67cdc34d4e86582b60556668d3c051d2c8bae036b97b8ed42196c8781979a5a368d0f8d4e46f0cda3854472534a2113fdbbc8737448f77b0c35529522205d0b55e15333bead236ad9b6cf39b9e3ef5632fd497d4b198051607dbb1f57c33b49f6f24c84f8f6e82e1e44b2f34e20148251bd39a9172d2bd77e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff8bb58688861f8b7ab32f0967ef937d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Geko Hot Springs' Revolt",
+            "episodeId": "digimon-adventure-3708?ep=75757",
+            "number": 53,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ce44532f7e958df8861b84807b2cd887fd6dc04d1846ea20d18dd62246c26e82079ca9f883dd915a25b073e0b731013c69e4bb5fcd6950ba6aebf362acd18715ccab5c31dc559675b2236c45248068d6826cecd2dd7c0b9138f7afa5e36b6ac20ff2b7cd0da0ca9863ab2c5514e07d19a850885e797551eb2d5c5796cbea0c6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7602c3a3dc122f3af347a4996760f1f4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ce44532f7e958df8861b84807b2cd887fd6dc04d1846ea20d18dd62246c26e82079ca9f883dd915a25b073e0b731013cfc60484e4d67befd8b6bc34cf3256619763c38cac9f3cbca0a45c02c40e2737eccfa578b20e7c65b64f5ff38df32bc653f28aa89095136e57e16cffaee9ae6a85321f405906dbc4ac125ee78e57606cfec64b7e2a281f17e3cb5c25d06806a61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7602c3a3dc122f3af347a4996760f1f4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Vagrant War Demon, Rebellimon",
+            "episodeId": "digimon-adventure-3708?ep=76324",
+            "number": 54,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fc3a52b5e9c042e988b509a11c979d8d8bf527494428124585f81606e985d7d62ff8d10b46da00bef2e733b2dc29e325bab4a9d2efef180c8dee463c05e898d68417ed7ada09252673f202ab835fbb2193ea55f972872f39af10c83b9fad1b16e45483e0dbe07e1fbd45aab698eb84c5b0741b916b178645719aa359a35a933a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ea8c09c7e75d287d298e08a870a62ca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fc3a52b5e9c042e988b509a11c979d8d8bf527494428124585f81606e985d7d62ff8d10b46da00bef2e733b2dc29e325969ae4858de128719e0fb35e4055df133ac8ea061219c3f016282eebcfb9816a9629d4fe25dc67fad0e8736c7d16c9273845fd65a3e20e0ff9b27296620c79367a0d104b0e98c447a5dba8828ae3373f401d175d241fab31b1dab520b2465959/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ea8c09c7e75d287d298e08a870a62ca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Targeted Digimon School",
+            "episodeId": "digimon-adventure-3708?ep=76325",
+            "number": 55,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d639f69445be950b520477a83ae347458c37b9f6f3eea51f8dbfd9974a57fc087ff843ba5b96e68040ceedd6fb41a3b1728929c1bdf7de493f3f807859354284e9d50bfc26bfb0e341f438f2e0a58c906596b8e982273b5db4e839947fa2ae69f49310b4d2e37039a3dfafd898b9d25674381fa379ee437cdafd37de929f4edc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96d29221ea2caf89a15c80a45b1c5695/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d639f69445be950b520477a83ae347458c37b9f6f3eea51f8dbfd9974a57fc087ff843ba5b96e68040ceedd6fb41a3b1b049297700d0fd61c2979fddc90f0a6f08db4183f27da624ed1964286286c37e404256b8b7eb17f701f14a1e69bbcc42f4033fe7e4eb5f83840f429d70d30147f1892b5798f2cf3b9cd1296395de5b875df7cb06bb18c77e069f6a812af68842/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96d29221ea2caf89a15c80a45b1c5695/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Gold Wolf of the Crescent Moon",
+            "episodeId": "digimon-adventure-3708?ep=78853",
+            "number": 56,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/05c47376adabb5a0854592454cf9a91715a247f10e3a70e7bae210f7647e530b3a40073993f27428a6e2cce915ce31c1ce43aedd2c12e63f504e8de6bf3146a0ec27ebc6600646a0a6762f75f73ed5428a0cc28092e93560e729290aa54e83d6555881dfdaea5706438543d79d588ac5a143618f573aebee93a9bc4f0f22f039/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abc2b011045cbdeb12fc69205d0c2ce8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/05c47376adabb5a0854592454cf9a91715a247f10e3a70e7bae210f7647e530b3a40073993f27428a6e2cce915ce31c1b87c564fd780294b07f78a396dd5d44bbda6961cc82204105829a1948608f0cabd6326815efd7fe16d9dbb8ac5c5559b1d7bfea87b99a1bed26b0018ea697461fd56e94f3231d33504b6fd6377d23dcbaa0ab6efe431534d54ebbae753ea5126/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abc2b011045cbdeb12fc69205d0c2ce8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Contact from the Catastrophe",
+            "episodeId": "digimon-adventure-3708?ep=79051",
+            "number": 57,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/87297e7d0c250615eee16a9bed131adcb5241ea0f1dbdad8f4a6ad06db43ddf4997c26854c344ed53d77a6b4a7bfcdda87fdc99d6440e3085aa0f92fed776bba3113d22dfba54ba9e926432d676df3d16807a0ddc761d55ca5730095324a1356494942c991dad6a4bb682f9a15edfd0627be8f67ff1f49644f129309ae902a5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c9dd25339e5368b73ed93846d0e0244/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/87297e7d0c250615eee16a9bed131adcb5241ea0f1dbdad8f4a6ad06db43ddf4997c26854c344ed53d77a6b4a7bfcdda43dc84c668a045694a394e22077b2d7ef7ec92d13965c1df49055290169d31660171b6a8a670eef83271189290513ee3bf93dd3a59d3d8a67a02a0a81aaea432eacf561faff0a9e807c73d67ad2c6b0cc39352fc732ae8a6bf4cc191f17d6159/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c9dd25339e5368b73ed93846d0e0244/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hikari, New Life",
+            "episodeId": "digimon-adventure-3708?ep=79052",
+            "number": 58,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6376aaf220622385025d0b7108859473480e57b2a566b3483edcfa8979200c07d3b7768550a08b464843a496a3ff932732ae6ac8bebb4107fee76dabd759f571a26ac4f31e76540a5e84a9d1992f6b1564d6948f106d8a95359909c0dda4ca20895aa34cb21b7de3a037956dda82dea2979795a39ddfdba6819fef44d8ec50ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ff56144a2d65e63b49ab4f31d66ad47/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6376aaf220622385025d0b7108859473480e57b2a566b3483edcfa8979200c07d3b7768550a08b464843a496a3ff9327e911a33680f5cffb16681cfc675125a41dc07887ac8b9349a2884278e8d519e042090c5d2fdedfc5ad06232461e686fab96598b2f022d718fe9767377665629780dc8f8971a6f1a78d23d8cb6826da5e9a5d4a09580cd121ea6e99b6304e7876/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ff56144a2d65e63b49ab4f31d66ad47/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lightning, Herakle Kabuterimon",
+            "episodeId": "digimon-adventure-3708?ep=79053",
+            "number": 59,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2f663e8c98b2ea346832d7fd954dc77cdcdf42714e9d5c02e71e451915e2118557c8cbadaf4819ca11dc933b2e1971c2b3e50877d66dd99858444ebe12ab76d327717e9f0c2647f9245d603751e35688bf52aa8bb2bd89acf7407c9ae1c4011ab8387232665e766672b0b4b70a5b3cb46b32fac105a20315761105759998b8b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0535f839c402a9f20bba64309562e6d2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2f663e8c98b2ea346832d7fd954dc77cdcdf42714e9d5c02e71e451915e2118557c8cbadaf4819ca11dc933b2e1971c297eafbeccecb6ff8ffb7b62e72c8abcde67cc6a9ad582c59f63d9a5f6f08b92684be7690004d12f3a37b482a3fce043bf6171ab3cc6f28ba29f61eb4fbd004ea51a4882b7e161085d04a506077d665d8e3d985ebab11dae9dff1a77e2e4d5f92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0535f839c402a9f20bba64309562e6d2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Conquer the Glacier, Vikemon",
+            "episodeId": "digimon-adventure-3708?ep=79054",
+            "number": 60,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b08dc0d5bbcca0d072b2ac69d89678fa03bcab00dac92f548fa62b5daf6dd579b3f155936f6a0f89829e5d59b7410ab2b8b388321b773ba581478fad7be8a597fd3162474527ffc53e523eaf4838cbea3506d2e6d7fc780262cafbe205fc44f005d24c6c1fb2fb8038392c4c31bee379ee799d341225793cdc8753e2249101ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71eadc976fecefc74a7438e2b4a82bfb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b08dc0d5bbcca0d072b2ac69d89678fa03bcab00dac92f548fa62b5daf6dd579b3f155936f6a0f89829e5d59b7410ab28007ea5727418567ab4c48855c74f33cd1a3ead96345c8e4d0e22eab23e5aad1d0ad4b626c15d5b52eba2eb85dcf7f9b710c8117d3591a42db9f522d1799bc980bc96a0b919c8f2648decf3b31e4b6c3a9fb3c5948c96418ec833777079cc869/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71eadc976fecefc74a7438e2b4a82bfb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Place to Return To",
+            "episodeId": "digimon-adventure-3708?ep=82420",
+            "number": 61,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/fd68b061299c556e50bc7beb5f1a1ecaa7f94b1e85fdcdd44b73b606cc3e2ac62ee48bfecad87d9976ca44a237180a6ef86746409e648f725508ea7a8beb875655622794fe15611bfe23c7c0c4ee8776c2fd7fe34a325969e6e8afc0b013b8866880b239256d84f3b694b7811dce4a7802cd884f299dd5a1608d1332c0070ab1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ed9349d5d52da96f2eb0226c923a478/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fd68b061299c556e50bc7beb5f1a1ecaa7f94b1e85fdcdd44b73b606cc3e2ac62ee48bfecad87d9976ca44a237180a6e066ac096acccf7e388f17b06332b67c2b7750c53ad2147fc4c84110eef49f2987f0a65c641aa70c27276e37375e1913fde35d9635a1a425ec68fda7e1eafd29b26eaf770217f89d811754f6f1e81b1832c6222d3394703b64ecde1d1cbb49ea6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ed9349d5d52da96f2eb0226c923a478/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Tears of Shakkoumon",
+            "episodeId": "digimon-adventure-3708?ep=82697",
+            "number": 62,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f02b066958fd8c126a961194a571915cdaa16a184f36d32d3c0f71e7e733641550be7066537fe60d723072583922744535d17d0e45570150f4e232f15526fae044dd7ec4740677a652a2353d42d0a384627f044e43f51a788592bf7069550b2c80837c6e5acef80c978a9919d546a23f2f7d931dd126ae73f97a62546676afa8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d15ff4aef27447a2550416e451b9972/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f02b066958fd8c126a961194a571915cdaa16a184f36d32d3c0f71e7e733641550be7066537fe60d7230725839227445e27940591b162e3057696eb9ee9b4d1e8cd451e5f7d564a1f8f8be3a881b434a279e3e2442ee0d73595a45858446a3c360d450903e92e39a41347acb47148339e4e5dfa6104218d88d7053275924d7d9febd11f073f84e50feb8ff716a21ecc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d15ff4aef27447a2550416e451b9972/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Crest of Courage",
+            "episodeId": "digimon-adventure-3708?ep=82698",
+            "number": 63,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a6042e289519f18bbe6f7a17358862da24ccd262d4411c78949895e9a6efdcb3c981b965f6a54096dea8cd91a8ab714a83db4f371fbb4eebde726b67b30f6358635ef2d98329c415e6fe51dfd645b95b7c577afff29a8d81fe8bf8e7df3719f0cd6ea55614cf88ff9791b59101c4d83886f738d471a00e27da2cd36921472131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c2aeb414e569b043c6ed660c45a5cc2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a6042e289519f18bbe6f7a17358862da24ccd262d4411c78949895e9a6efdcb3c981b965f6a54096dea8cd91a8ab714af92c64787d6819d94513ef81ed65cfc9b3af85dff86f58f851c66ca1d9fe02080db8b03ae0be00a572b1cfa7f69ac686f2f789bf39615e79ed397c86b8d84de3dd2c0fd504e81667bb7ec72d1c676b0097bd1d7c4a41d8f8ca48c5b2141fc657/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c2aeb414e569b043c6ed660c45a5cc2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Angels' Determination",
+            "episodeId": "digimon-adventure-3708?ep=82699",
+            "number": 64,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/84af45111b488c75e6c191c994654cb0b7a1fc19dba898c29a02c3e7f099cba6f9b3b6e1395b09cfe47f2faa3739c721225bed177c50151e7f9f6ea66085508efcd4538506b6376a58a18ad2141c75cbfc218938e41e7205fa5a4b33f063a75421d75567fdc3b7359ae5267626907384e926784ea9e864b1ca9b4fb8094038b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/800a440ac0ec600738fd3209ce90229d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/84af45111b488c75e6c191c994654cb0b7a1fc19dba898c29a02c3e7f099cba6f9b3b6e1395b09cfe47f2faa3739c721cb66a8b087a319cd79ce5f1f42b9529d9539409f978df9b56fba74f5fe5aa53f4914bace7040c1e7316601845a4f5250da6e8075b0376ad9d36043d2b3332d6d818e2d4a7881db1c5bb3445f8a9bb4cfea19285bf3314bca18269ccbfdbc054c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/800a440ac0ec600738fd3209ce90229d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Great Catastrophe, Negamon",
+            "episodeId": "digimon-adventure-3708?ep=83190",
+            "number": 65,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f58e49565e1825df7b57335d1bc1437063443296b18bb418471439ef6d208ce98cf0a0badbf6f4f706dd7c713d965e6cf4d4f8f04c7ea148951f6422145662201ad324d95c3e813eac4323008636bee99fba0c9c2b907fe0aac80f2bf5ab6044e85e0060ddf5ea9da0291dff2c3fcf3a145a72b0005747578398a1be8b4e6fee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa9c8fce9e6d6900e54d77e254103ef6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f58e49565e1825df7b57335d1bc1437063443296b18bb418471439ef6d208ce98cf0a0badbf6f4f706dd7c713d965e6cea037e1bea24a619636c1c6c857db098f00e25f44bdccd4c99c307113f918c3b030d6bc1f084b468def1d42b6e90611f501f9b7e7f440ab7b3ee9c9c9b91324c22e7e27c6a4ff92cdc7d7cce86d28839975be5f129510bb31a9a4a102bd0558f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa9c8fce9e6d6900e54d77e254103ef6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Last Miracle, The Last Power",
+            "episodeId": "digimon-adventure-3708?ep=83242",
+            "number": 66,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b9e43d71be6834eb9910639114af1aa491d55f7242374f9d0d543d4b6964c0e1f80ddc0cd9808f1488a0f54c65556b0e9a63e83e5d3addb098680a9c74649cd36eb20e343c7d2f5799834e03b2aba3f5a2a5c474dbefe36fabc787fa16c4678b524753981f3a97e6caf8640c709a8ab46db457752c23b8a3268258a85d68bbd5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21067d8fdbd20b010d1c15721fa135ba/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b9e43d71be6834eb9910639114af1aa491d55f7242374f9d0d543d4b6964c0e1f80ddc0cd9808f1488a0f54c65556b0e5678a3e68f45683181cd4d9b634b4bf3f0c6b17338bfffbb89a19853ff3c4d62d4ef954dfe017f27dd925a3e7292e8359f7c03db22dfbbb930b087d8e930e2c7f33d3abf6c5605a52915bd7edcb3f9832b4157c0540ad230ae3468d3b6f1bf2b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21067d8fdbd20b010d1c15721fa135ba/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The End of the Adventure",
+            "episodeId": "digimon-adventure-3708?ep=83325",
+            "number": 67,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2684fa2e8376a8f8589fed5bd6c42082f8d8136cd87d9e0d08c9b29fd1a60400dd72c530002f0b48599e17ce7b568a802090c5b349983fe432bffc8414cdec6a0e43b2e24cd99ba9a507d4d19e874a884c9840763b404a56d99ab649da981beadd426317ee1417c56889865550aafe89a0c9efed5698b345154d750230f5a493/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70bbebf0048a309b67ea5a491e23f9ca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2684fa2e8376a8f8589fed5bd6c42082f8d8136cd87d9e0d08c9b29fd1a60400dd72c530002f0b48599e17ce7b568a80767fd45e4aee5277d7304f28b3e2a070d5f2b4395e1e294f579783887fd88496cd741df43707abf1b53e8d3c257e3c61990ee40a2f8f7369bb5badc31c3c6c32c626d1649f97cd0283d86f94ae38bdd5b7d457a2ad9f16d17247a37d317277ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70bbebf0048a309b67ea5a491e23f9ca/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

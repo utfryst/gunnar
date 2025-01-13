@@ -1,0 +1,93 @@
+{
+    "info": {
+        "id": "spice-and-wolf-ii-specials-3309",
+        "anilistId": 0,
+        "malId": 6884,
+        "name": "Spice and Wolf II Specials",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049e151bd6c08f16add931f8a573486f.jpg",
+        "description": "Extra short anime featuring Holo from BD volumes 1 and 2.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 2,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "3m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "holo-37",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/32e77c97a48053122ba3877859836d62.jpg",
+                    "name": "Holo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ami-koshimizu-112",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/099eade37d4e48d42fac02eda385d4d5.jpg",
+                    "name": "Koshimizu, Ami",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "狼と香辛料II ホロのショートアニメ",
+        "synonyms": "Ookami to Koushinryou 2 Specials, Spice and Wolf 2 Specials",
+        "aired": "Oct 7, 2009 to Nov 4, 2009",
+        "premiered": "Fall 2009",
+        "duration": "3m",
+        "status": "Finished Airing",
+        "malscore": "7.07",
+        "genres": [
+            "Fantasy"
+        ],
+        "studios": "Brain's Base,Marvy Jack",
+        "producers": [
+            "Brain's Base",
+            "Marvy Jack",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "spice-and-wolf-ii-specials-3309?ep=82757",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cb6102ce913fb58b20be8e1fac39cb56cbdf6df46c392c2ecb1035bdabe4a8271042592d3cc8bb61f951f9a34545fff9da247a4f15d588941e72939f83dc5e34c0045ba0824db174850cb61582f66508e0e998fa2d340483b9023076f7f04f88035298498a390ba5860d2d2fc31ccb62c871bb13db3cca1149d2374c77960b0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b248d740d7026f95d8a21aca82f418a/8b248d740d7026f95d8a21aca82f418a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cb6102ce913fb58b20be8e1fac39cb56cbdf6df46c392c2ecb1035bdabe4a8271042592d3cc8bb61f951f9a34545fff99557b4e54de0a6895cdf8e26258aeedbfc9ef9299af1eedcbc42c0e7d634beec686a101778b805a5b4a2c5100eb75eb0323bdfaea985d6f5500f38e19d26ab457e5a291913f16688ca53d68db88c34304724e141abc98112408dda5d9116dc5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b248d740d7026f95d8a21aca82f418a/8b248d740d7026f95d8a21aca82f418a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "spice-and-wolf-ii-specials-3309?ep=82758",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/af160aee0fe546ecb20b6d70d303618cfeb27d24b8fcc5a6f978e7140fc92ecea6373bd5040a5db2065fb2a90d7d70a438f3082d07479459186b62a8a0344cbb8799218576350361a2dcc0c352c4555475b0d6034fdf81e46dc722b3c21f1eeadfc40d56f5a90a4dfc453a08ba6e404a982395894af97d9a19df17c6cb3d6f08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d36a8cab7e8c6b0a40c6f3644956e211/d36a8cab7e8c6b0a40c6f3644956e211.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/af160aee0fe546ecb20b6d70d303618cfeb27d24b8fcc5a6f978e7140fc92ecea6373bd5040a5db2065fb2a90d7d70a450e091769c9c6bc4f4656551d84f6c46cd49d1eaed786fd421e23b7785100a9c21a115bcba663c8cb28729abc46e2b77e4262da38624f5056a602533782968090177ca14db68e5e9569963465c8d118a292fc2fd485c2eef656da881fe2b9664/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d36a8cab7e8c6b0a40c6f3644956e211/d36a8cab7e8c6b0a40c6f3644956e211.vtt"
+                }
+            ]
+        }
+    ]
+}

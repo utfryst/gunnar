@@ -1,0 +1,377 @@
+{
+    "info": {
+        "id": "occulticnine-3748",
+        "anilistId": 21708,
+        "malId": 32962,
+        "name": "Occultic;Nine",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f41682f6a6c5d13b8beb0f52801e340.jpg",
+        "description": "A blog disproving the supernatural, co-run by NEET teenager Yuuta Gamon and his enthusiastic best friend Ryouka Narusawa, becomes the catalyst that would bring together a group of people who supposedly have nothing to do with each other.\n\nThese individuals include high school fortune teller Miyuu Aikawa, who joins Yuuta to work on the blog; realist Sarai Hashigami, who is stunned when tragedy strikes his family; doujin artist Ririka Nishizono, who has an uncanny ability to predict the future with her art; black magic practitioner and local curse expert Aria Kurenaino and her ghostly friend; Shun Moritsuka, a seemingly childish otaku detective; and reporter Touko Sumikaze.\n\nAs this unlikely group, bound only by the strings of fate, find their way to each other, they are confronted with murder and other events that are shrouded by the presence of the supernatural. They must band together to solve the mysteries interlacing the city and their lives.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer Aniplex US version",
+                "source": "https://www.youtube.com/embed/e9Ie5wXlELo",
+                "thumbnail": "https://i.ytimg.com/vi/e9Ie5wXlELo/hqdefault.jpg"
+            },
+            {
+                "title": "PV Aniplus Asia ver.",
+                "source": "https://www.youtube.com/embed/NyIruiDmxgQ",
+                "thumbnail": "https://i.ytimg.com/vi/NyIruiDmxgQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/Moe9wrOC5n4",
+                "thumbnail": "https://i.ytimg.com/vi/Moe9wrOC5n4/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement PV",
+                "source": "https://www.youtube.com/embed/ozD5-Xm5P9o",
+                "thumbnail": "https://i.ytimg.com/vi/ozD5-Xm5P9o/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement CM",
+                "source": "https://www.youtube.com/embed/N_m_CSkFgIo",
+                "thumbnail": "https://i.ytimg.com/vi/N_m_CSkFgIo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "miyuu-aikawa-8677",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c376e5145b89c5c01c29ff2711599828.jpg",
+                    "name": "Aikawa, Miyuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hitomi-yoshida-2301",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/788f6083a9c18de0a68794dc0c03dc74.jpg",
+                    "name": "Yoshida, Hitomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuuta-gamon-5336",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8497b1b6b473e75bfbf40195b89cc7ee.jpg",
+                    "name": "Gamon, Yuuta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuki-kaji-5",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+                    "name": "Kaji, Yuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sarai-hashigami-17776",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/11631f20bdbb4cc1053bf689285fb1ec.jpg",
+                    "name": "Hashigami, Sarai",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aria-kurenaino-7752",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1b1565b118575cd55e1777c79dc660bf.jpg",
+                    "name": "Kurenaino, Aria",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyuki-sawashiro-9",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dd2106c7f911d17d5a23ef1e0126f6b1.jpg",
+                    "name": "Sawashiro, Miyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kiryuu-kusakabe-19466",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/599a3b1ff1d5ce16855df2aa51655826.jpg",
+                    "name": "Kusakabe, Kiryuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kishou-taniyama-200",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/88d5548a199ca286b235759c110b71e2.jpg",
+                    "name": "Taniyama, Kishou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shun-moritsuka-7069",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a54690140cc00ee167ab0cf1204992c1.jpg",
+                    "name": "Moritsuka, Shun",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tetsuya-kakihara-102",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/50aae36c659f646e3602a34a56bcbb09.jpg",
+                    "name": "Kakihara, Tetsuya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Occultic;Nine －オカルティック・ナイン－",
+        "synonyms": "Occultic9, Occultic Nine",
+        "aired": "Oct 9, 2016 to Dec 25, 2016",
+        "premiered": "Fall 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.96",
+        "genres": [
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "Aniplex",
+            "MAGES.",
+            "Hakuhodo DY Music & Pictures",
+            "Lawson",
+            "ABC Animation",
+            "Contents Seed",
+            "Christmas Holly",
+            "C-one",
+            "A-1 Pictures",
+            "Aniplex of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "A Lot of People",
+            "episodeId": "occulticnine-3748?ep=35103",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/386113c6429e85fb7baf57ee785bb8335acf458f35851005d8f00b9221a0c3242a0532f5caf6b1c1f4aa6f42286ec07467d9f341486af28d3992aabf0696d572d6b44a72801ea64386f57a381b592decaca7628a62834d1c83ba816b2a6be4a0970afb3d9d913a252823a11f2ad9d080412bb0cf16be7bfea06b211f8c409c75/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df3db600bed7fd6fab305b61604c4102/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/386113c6429e85fb7baf57ee785bb8335acf458f35851005d8f00b9221a0c3242a0532f5caf6b1c1f4aa6f42286ec0743fbe59a5fb1a4165bd9e80e072e13bed21800f5c0777cf970a8a629f1f303d27d7e22b0f3850055e580a0586362780e6cd752fd72d53a8bf03be1fee9984e3cb625673e70f8deff80260b5eeb232e9d4c406be9091033addcf2e7bb176eba01f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df3db600bed7fd6fab305b61604c4102/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Don't Have a Power to Change the Destiny",
+            "episodeId": "occulticnine-3748?ep=35104",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/561532e2fde82138e91a1b4cf8b2017b91ae06077eaf12c2e1dfb5a7d6fc51e648947f20d67dcaac33bc5994fd5fb4333f28168370854a05fba3a18d3fa24e3b74dded0f8459d74e7eec305d299f82efe9321dce400461874a98e77d9b00b11fc78dfb54f0f13d0a8e22fba07a8d7bee7ac52c9b502fe2a5e36c1e16ffa37f29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a01ed2abaff27a3e4687f51920aa144/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/561532e2fde82138e91a1b4cf8b2017b91ae06077eaf12c2e1dfb5a7d6fc51e648947f20d67dcaac33bc5994fd5fb4330c6550a060a186f6ffc09bd598f01987a1ce09f813b00ed72ed95c312d8fc3264dcccafd838060e80b4b86a70dfa306c038615ffc629335be18ac966e43ad986a8c98fcca42c02475db3dcbcbb2460aa0b9dbd642690f832b4de28ed43d934db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a01ed2abaff27a3e4687f51920aa144/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Was All a Delusion",
+            "episodeId": "occulticnine-3748?ep=35105",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9b991709919cf3aa828565cc83b00a2e7df96cfa3eb7cc52f6cfcf36e302da3bcc0af36ab4d88e028eca5b132294e6da2647b76c1b661b930f948f21100ea97201e4709a0d774cd0b30ff70cc97a4c73a474ecf5ff708817bc43bdc7553e52dbe54c1cee678e32a42d9a9d1adf056a225d42ea7a142914c5266e7aee3776c43e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1fb85671d9bb6347e87ee83bea7fa113/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9b991709919cf3aa828565cc83b00a2e7df96cfa3eb7cc52f6cfcf36e302da3bcc0af36ab4d88e028eca5b132294e6da30036bf0836c0bde4ea55aca2e0d39087ab815bc0f83607fbd28398efed605736af5027ad92d2077ad47f16fef0b53976a9a10dea367fef8d6bc00f64b3221538742b809ca0be9f443c2bf5bc3de033fe15f36eac214f773888cfa988971f796/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1fb85671d9bb6347e87ee83bea7fa113/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gamon Yuuta is the Curlprit",
+            "episodeId": "occulticnine-3748?ep=35106",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ca0cd210ebe42e5b7b3b4bf7b4fab4825d4e0afc946926104acc506a300c60fe5b1cf4f091d7d99da9a2f3aa17412c3d4cd8fea96cb2fa0dbab64d72d7b1235019b67eb9450a4c311f1a05be7cf78194eec68b42251c81b78c9b6d1cb7cab04c94ce5904e11d6152d65ec9d91937fdd39333d7398410de4cc21d6266241b99ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c98cb15529f7fad27418f466440b739/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ca0cd210ebe42e5b7b3b4bf7b4fab4825d4e0afc946926104acc506a300c60fe5b1cf4f091d7d99da9a2f3aa17412c3daf4cc26c1166dc380388c496a4bea20d7b897243f4c3e819d9debfefa396546293e078ae4ef37cc4261d6dd709190e6fb26d49b1a0a838bec86f9cf703c06db41dc63e9392ea14c272c7b4dec7c0a8c4f75602d7fad5eb231f3b8f59cc65adba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c98cb15529f7fad27418f466440b739/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Here Is a New World, Right?",
+            "episodeId": "occulticnine-3748?ep=35107",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e66abbe0c4fca5f33bfb6781f440eb4ddab3a0aeae7b2814161bf1c1b45bca4bd2c5115943a795140d3d66c8428a121ab43d80019ad472c469dfe5027a55902393127133b40f97e05c17edd5a6e3ce71c3b841f494d53eb83c54dede7a72585a01e65b734148b08aa82b3edeb02149b5d3f9c0a9c5fd77b317198ea3dec3c735/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23ff8a7993be5783a8a5dd37aa5162a7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e66abbe0c4fca5f33bfb6781f440eb4ddab3a0aeae7b2814161bf1c1b45bca4bd2c5115943a795140d3d66c8428a121a512d3717d1b2238fed1bc00048ec66741c285d8e9d80587752604e602eddb5deaebfb75b35b3516d5f9f401e0fcd45544864164cd6b3a732e223cb68d347e44c2fb05752e9a56fc9730dc609e08a8907b211ac2caf76d8f9c69b22ac0054268a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23ff8a7993be5783a8a5dd37aa5162a7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Was You, Right?",
+            "episodeId": "occulticnine-3748?ep=35108",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b5fbc812c075c4d5049351663650cdc510629b94559bb7f6f8f16badd6b94a9f6dd70d6b8677f19c54943db1b70371a1f93be399a940daa67d3414d297ddd4caa5c280cf73f4daa6ea7d0dbb0b7d7d518199bd888a1b896e195597084fb8db6a41d4fbeb6678368ce67d73f5e282830c994ef26632c59799cc858cf548fa4254/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5df4b9391bf56fe174c1e2dbd53709dd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b5fbc812c075c4d5049351663650cdc510629b94559bb7f6f8f16badd6b94a9f6dd70d6b8677f19c54943db1b70371a15cbabf62294d573a24cca64ad864f1544b5767292dd9ae43e8a4badebc8fbef281d44f30b99b901669d56a7f10984857ad7af5fd205b6c0e5e9fa82e780e2e4e0202ede933f97fed48044ec5dacfde93a229611c6117d0b3859cf3d5744fcfea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5df4b9391bf56fe174c1e2dbd53709dd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Projection Start",
+            "episodeId": "occulticnine-3748?ep=35109",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fa5d86709c40b2d55c3e599313b762187c27b49d878bcda65ebc1ec2c4e29665df5c3524b91acd9bc6c93019256ea40aee3764be3336f181dc946ee82cb94a572d3a94344f11fc09886a8cf9b81ed97c79b4b2bb7a6f562f074fcec038c9233fa66758d824fcb7fd9ddbfca902ca8017f0cec67823c208f836a9819830a9b44b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2e57b654c021fea44a2ee43b23b75cb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fa5d86709c40b2d55c3e599313b762187c27b49d878bcda65ebc1ec2c4e29665df5c3524b91acd9bc6c93019256ea40ab48a44394159a167745a219ab535d61bd58f8405cb64aefeffaf405608c8e91ab0b82f9cfa2a6083a0ad3e1b433feaf1a98351bbbbcee97d3394a9bb9f70bae7d8a031a57769e110f57e1f153406c330adbf13344d8b3c8885f98476b41848e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2e57b654c021fea44a2ee43b23b75cb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "This Is the Ultimate Treatement We Have Reached",
+            "episodeId": "occulticnine-3748?ep=35110",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bdd6dac59078bcd1990694d7cef78bcd5a33f6571d54c3c690377f4781b642c56d1e91838d67cd7645aff04acad2a80229a8850466ca43cbecd73c1792cc037f6c51329be52eabd195fe3d8e68ddf50e824279cc4a1d293ae785af34141ad62d9fed2e37d6e27eb8ce91b430d1048d18b6d1bac20006d147796907de40190dc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06593b82193c253bce57f70c25422d6f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bdd6dac59078bcd1990694d7cef78bcd5a33f6571d54c3c690377f4781b642c56d1e91838d67cd7645aff04acad2a802e6575e180ba6dc271d125bdba9c34eee02e5103236549892796c8b3b6e0c20547018a4ffccb6ad58b02dcb9681adc401ebb0a203bbd989af4f4be23b1cb554b8fd6bf48e6f72975f43aee7d43613ac09651351fbdb13cddcaa8852172f452524/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06593b82193c253bce57f70c25422d6f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Suerly the World Will End",
+            "episodeId": "occulticnine-3748?ep=35111",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/63237c3292c2308dcd96079008a66edf7831249848b52ed503d7c808d83b0f2e5a8e6dd9fab7d6df11a41f1a5d905f8a091973ace9c9d5917d3aa1e440854b2c4a7aeebd1bc3b06a3b4d355dc4cdba6a462b9a65a278ba2d6c782f7b3fa415744ebcc33d4b6dec9985b8a25144c22f43d360a68fcff8d88ef4b107436163021e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cfde7a27fc41c18d1a646b981d5b40c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/63237c3292c2308dcd96079008a66edf7831249848b52ed503d7c808d83b0f2e5a8e6dd9fab7d6df11a41f1a5d905f8a113c66076ba8abe1dc79f3a3429b0b7e32a0c4a2aad0fcb9eede4d3a37925f75d8dbf1e69e7bc95b753bc83f58ad2e13667ff7d3afac493ffa677304896a3d17cf378039b539a2d2d58bff29acf2de81eb4883e44ba123518a785ca1fbd39edc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cfde7a27fc41c18d1a646b981d5b40c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Real Me",
+            "episodeId": "occulticnine-3748?ep=35112",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/61f3517a9b44108ffbf46f686e85b5e24bd33448ea65019e326a40ddd4403f80b3fc3bb6928432d24c9e5219ea353546d6dcf84fb5c54b916995a260d4094f81825242c017fff557908ba4cd677e56cfbd2afe518ae1fa08bafd0bd7739faa09b5515524518e3b8e44122c07085caec0604f7fbd19ee4d52d9eadd4870e7eb57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a08d8fdf78b9051da528872f2af2b640/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/61f3517a9b44108ffbf46f686e85b5e24bd33448ea65019e326a40ddd4403f80b3fc3bb6928432d24c9e5219ea3535466eb73e493e8f535380b350a5bf338b84efa4018c5e17f6bffda9684000c55a7ffd319c08e1fde5750d00ca32124938e6d1815340726b03c4292c90fa41af2f24eb6a896fa784972d9ea790f86ee8ce864f979b2c78c0e418ca0704c50437df2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a08d8fdf78b9051da528872f2af2b640/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For Our Great Objective!",
+            "episodeId": "occulticnine-3748?ep=35113",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b26d4355ac1c37c4d6e83725bc4cdf573cc00e4640466fd403ce2a3c04007bd40987f5ed4e752fc24dd4e506f70529683e63574fbee276e7671aed0594aa7e6ce519f2010672b2dfee416b18c01bc2963ff3fe52fda839f015fd43d1867b4ef952f7517f65683c6489d2148a3848795ae21df11ee80f0d986c2435b0c89382fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d319aa87342b3acbe5eafc31ed881204/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b26d4355ac1c37c4d6e83725bc4cdf573cc00e4640466fd403ce2a3c04007bd40987f5ed4e752fc24dd4e506f705296814d39b945260ca0d1346c6c2cac8e185665dac4a5ca1842e8a0537474063aa6d09bf7f0c59fb0d02bf0ac542279d91a8ab526c4084fbb805a19ca469ae0e9665d26cf9b0e5c7e52b49f453bad5a5ca5a9884bea243f244d5528c0391b913b990/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d319aa87342b3acbe5eafc31ed881204/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Occultic Nine",
+            "episodeId": "occulticnine-3748?ep=35114",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/64f5ca6a796acfac03e8d502e6b9fd5e1a201c6fd473e5710b3661468ea6d4fa59ba393b455899e35fbc863813c0ee2676891bf9a09facf6098d9d46d6d7818f56ecbc0683c6152b323580d5f9794d585aa61d8d9489d67136165e295a5b631ecc2560066e1dc7a0a0066725dc07ea9209aba6531a5fefa8f580f7371d81e87c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/852d65dfe8f15b7c4fbf6708278b864f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/64f5ca6a796acfac03e8d502e6b9fd5e1a201c6fd473e5710b3661468ea6d4fa59ba393b455899e35fbc863813c0ee2690ca211bcd15f63d812570a7413d9c5f5476ff049f7b420e2231b2f0faa07f48b88b61e9389aeff57b10de8e243f5fc328e5168b7ff75a39ff60f9fbc8a059bdde595fb11500bd8703cdc38ae49e7daeb4db0c46b807d2cef7031cef60c84ecf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/852d65dfe8f15b7c4fbf6708278b864f/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

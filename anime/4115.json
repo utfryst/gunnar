@@ -1,0 +1,103 @@
+{
+    "info": {
+        "id": "candy-boy-ex01-mirai-yohouzu-4115",
+        "anilistId": 0,
+        "malId": 5116,
+        "name": "Candy Boy: EX01 - Mirai Yohouzu",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/093ee0ae8629cd86c14a3a8d34eb9695.jpg",
+        "description": "A dvd only prequel to the Candy Boy series.  Twin sisters, Yukino and Kanade Sakurai, move to a new school in the big city of Tokyo but not everything is quite like they expected.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "7m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yukino-sakurai-6125",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3cb4215840a4dbc739c254a95a16e753.jpg",
+                    "name": "Sakurai, Yukino",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouka-yuzuki-333",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/958327552733e7d2b3013d1b2c8e39ec.jpg",
+                    "name": "Yuzuki, Ryouka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kanade-sakurai-4038",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/78bc5f4e4f2513e8e91ea5de76bbf3a2.jpg",
+                    "name": "Sakurai, Kanade",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hitomi-nabatame-468",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/404a113a46a25c840033f223947c595b.jpg",
+                    "name": "Nabatame, Hitomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shizuku-sakurai-16795",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/903cf2f0ccd047cf250bd4f0317fb4af.jpg",
+                    "name": "Sakurai, Shizuku",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Candy boy episode: EX01 「ミライヨホウズ」",
+        "synonyms": "Candy Boy EX1, Candy Boy EX01, Forecast of the Future",
+        "aired": "Aug 13, 2008",
+        "premiered": "",
+        "duration": "7m",
+        "status": "Finished Airing",
+        "malscore": "6.87",
+        "genres": [
+            "School",
+            "Shoujo Ai",
+            "Slice of Life"
+        ],
+        "studios": "AIC",
+        "producers": [
+            "AIC"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "EX1",
+            "episodeId": "candy-boy-ex01-mirai-yohouzu-4115?ep=75765",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/bf1a319fb42b7e75b287012a61d592c31ea774db6c3517adcd12a7fea887de255e371f3615dfdf3dbacf59c2bf7db06e2fa4c92c3efeec3b05aa947f2f4cd54ab0057851f70407857dc6ffaa5aa14202ad5b7cb26fcd6e40af840712418d4a8ad4c926fab7f589a0f0498dfcdc5360c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc1c79f807fe44f4d80c83b27e0b6c6/edc1c79f807fe44f4d80c83b27e0b6c6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bf1a319fb42b7e75b287012a61d592c31ea774db6c3517adcd12a7fea887de2542849412b92e48447c316f779ec909393dc4cab423a9fead32313e75f5bb3d2bdeff5d4f149ed0a6f8566857b2a4bc4fd22c330af80b725a1d1f7c7be7101da15a3bfc0a286191eff615e0e11865f3097c85dc9d49f8d710f278943f6643ba7dcec5b64efdabfb60dd2c5a0ec5c6e80a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc1c79f807fe44f4d80c83b27e0b6c6/edc1c79f807fe44f4d80c83b27e0b6c6.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1008 @@
+{
+    "info": {
+        "id": "inazuma-eleven-go-3588",
+        "anilistId": 10507,
+        "malId": 10507,
+        "name": "Inazuma Eleven Go",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d2ed96b2d49b3456b94704d9ec36251.jpg",
+        "description": "Tenma Matsukaze is a new student at Raimon Junior High. Due to his love for soccer, he decides to join the school soccer team, which gained its reputation after the amazing performance shown ten years earlier in the Football Frontier International, a tournament that hosts the best youth teams the world has to offer. Unfortunately, the once renowned school doesn't have the soccer spirit it once enjoyed.\n\nThis is primarily due to the fact that soccer in Japan is now controlled by a dark entity known as the \"Fifth Sector.\" They alone decide the fate of every match, instructing teams to either win or lose. The actions of the Fifth Sector have beaten down the country’s soccer teams, who no longer have a love for the game.\n\nTenma and his teammates will look to shift this paradigm and fight back against their evil oppressors. Thankfully, they will not be alone in this battle, as they will get help from a group known as the \"Resistance.\" Cheer on the boys of Inazuma Eleven Go as they fight the good fight!",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 47,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Season 4 version",
+                "source": "https://www.youtube.com/embed/RIj1JRQeGFg",
+                "thumbnail": "https://i.ytimg.com/vi/RIj1JRQeGFg/hqdefault.jpg"
+            },
+            {
+                "title": "PV Season 3 version",
+                "source": "https://www.youtube.com/embed/9wHWPse_Nl4",
+                "thumbnail": "https://i.ytimg.com/vi/9wHWPse_Nl4/hqdefault.jpg"
+            },
+            {
+                "title": "PV Season 2 version",
+                "source": "https://www.youtube.com/embed/KEagUIOG7bw",
+                "thumbnail": "https://i.ytimg.com/vi/KEagUIOG7bw/hqdefault.jpg"
+            },
+            {
+                "title": "PV Season 1 version",
+                "source": "https://www.youtube.com/embed/JBOPi7RcDaw",
+                "thumbnail": "https://i.ytimg.com/vi/JBOPi7RcDaw/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mamoru-endou-1565",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/747b896ae4ea9ceef414e42ba4d053bb.jpg",
+                    "name": "Endou, Mamoru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junko-takeuchi-103",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/085b74052135dff713b4e797bf9d0214.jpg",
+                    "name": "Takeuchi, Junko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shuuya-gouenji-1945",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e93f5b3577cef24fabf6bd9f11d2384.jpg",
+                    "name": "Gouenji, Shuuya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hirofumi-nojima-1263",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/062a88b5bf1e5e4d625dab7fe09b4fc1.jpg",
+                    "name": "Nojima, Hirofumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tenma-matsukaze-5451",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb7c640c0a684e73ab12cd077d124242.jpg",
+                    "name": "Matsukaze, Tenma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuka-terasaki-1004",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea757797c158dcfcb23e96a6a1ac32f0.jpg",
+                    "name": "Terasaki, Yuka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shinsuke-nishizono-13717",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e77ad505ca6d1ba81de68e65c05d8e17.jpg",
+                    "name": "Nishizono, Shinsuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "haruka-tomatsu-32",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4742d0f9506930c605738ed0189d2d5a.jpg",
+                    "name": "Tomatsu, Haruka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takuto-shindou-6327",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8be5b06fe0b1f17a859671bd0861a205.jpg",
+                    "name": "Shindou, Takuto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mitsuki-saiga-416",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b880f4e08f5e190fe1f72129f940185a.jpg",
+                    "name": "Saiga, Mitsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyousuke-tsurugi-4127",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb17530da4ec1ab70ccaa840e6ed54f6.jpg",
+                    "name": "Tsurugi, Kyousuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "davide-garbolino-3453",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bc02dd0a2c2e3c47a44198de111703b3.jpg",
+                    "name": "Garbolino, Davide",
+                    "cast": "Italian"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "イナズマイレブン Go",
+        "aired": "May 4, 2011 to Apr 11, 2012",
+        "premiered": "Spring 2011",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7",
+        "genres": [
+            "Shounen",
+            "Sports",
+            "Super Power"
+        ],
+        "studios": "OLM",
+        "producers": [
+            "TV Tokyo",
+            "Dentsu",
+            "Half H.P Studio",
+            "TV Tokyo Music",
+            "Studio Jack",
+            "OLM"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "inazuma-eleven-go-3588?ep=70392",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cadb9c9d28cc2a0a67c244a368bdc8086ed34cd8c9211e8df9b1562a219f741f93a31ffecba9e6c852509d94881ffaf7d902e1a62a4b6785074a009ac057c5a66685f031266ec13055dcf1fc909cc610c01d6ee8a089f3e533c373c1055657de9a9082bdbd6de9e86c30c8c88ac96f51/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2156d79b0a8dad313e925aa9c5f9059c/2156d79b0a8dad313e925aa9c5f9059c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cadb9c9d28cc2a0a67c244a368bdc8086ed34cd8c9211e8df9b1562a219f741f94c5f8fa6042e45ceea5dbe8a637fb3b6b5982fc01957cc20ffd566ccabd8c9e924cff23290a5867ab3d3c8ca56b4548a984fd90d5281cd007ade81aa9a5a8bbcd7479bcfd41e30b75c554d54986c918a3d1f708b2fed13641302dd6b66f4add0c8812593d004206433efe2798cb7d27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2156d79b0a8dad313e925aa9c5f9059c/2156d79b0a8dad313e925aa9c5f9059c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "inazuma-eleven-go-3588?ep=70393",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d798f7dc87ca2dbbb75537fc52979e0cab7b6b845e6f7d5acc442377ac169ef8a065e92f0c5fdf12a7d21f0099da3e45f49b480da1474c884b5f893e46070d48de640fb031c3a187893ad741b52bfa094b382415e39d1284200926d79f04b87610fb93d667f1ed8be6109871ccc0fc1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a19feb87fb035bfcfe9689c3ba4f7909/a19feb87fb035bfcfe9689c3ba4f7909.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d798f7dc87ca2dbbb75537fc52979e0cab7b6b845e6f7d5acc442377ac169ef8d1a5aef308a1dc49e5aa69e414d1c91cd704aa0535143c187daf1171d97876856132648c4203364049713b77b3d366a13200b55d78016893a9a0a9ee956826d7ffc065a92dd7f3d49d9787118259ad70b40fe498259a56e06b5f0cc60339e6e72a75e648a504d61c946ac35c23af1f24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a19feb87fb035bfcfe9689c3ba4f7909/a19feb87fb035bfcfe9689c3ba4f7909.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "inazuma-eleven-go-3588?ep=70394",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/031645414a9dbe3b38ca2e8bf1b7aa0f36e151ebaf99432b75f9d8daaaba5655fbd493b2bb33726fae1e8d966edd4082b6ffcadfd77687519a7e6b2900aa02c8c908a3c74fa427f4999ca5a57fa589d3fcd80820bdcd80b413f3132e1b1995a95f311de624a86da5561b095c7a3dacae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b354184349aa21cd8e47443c8ad07e0b/b354184349aa21cd8e47443c8ad07e0b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/031645414a9dbe3b38ca2e8bf1b7aa0f36e151ebaf99432b75f9d8daaaba565512dd0443bb0134521e0e7fbed352d747e42aefb4f030701214d817bbb5660a259063153f64c19fbe7f40e61b35a13031bf676c7ae67ac4a59eed123c91abfd684b7407ee6f8259896105f08b592e7850b4fa0e0cab10f856eb3bd8de8c322209a234be1739007fe4b688b2bc424aae0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b354184349aa21cd8e47443c8ad07e0b/b354184349aa21cd8e47443c8ad07e0b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "inazuma-eleven-go-3588?ep=70395",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b1c635f589a4cc26b6355c51717ac6a719187174503f6aa66c70613ca7ec5c613013e751206d45e172f8a40bee856425c5bb83835913d65207d19d1efd6410865a2c4e65b1fba0ecfdb9cac17939f1988980d26d52ef08c97955f1cd8a305d657dbbe55f288813c61f9188c280a35b64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77b2f838cfdceaefe8389a8c6fb06308/77b2f838cfdceaefe8389a8c6fb06308.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b1c635f589a4cc26b6355c51717ac6a719187174503f6aa66c70613ca7ec5c6178ed6e46becc2f5fb2c01966d3a44b1c103e25f859b892a2a89309caebb5363992abf07833af0533fccae46380b79f2de06d8073ad95fd3e06a398e57d55c16a554a290323d874f10f0d475572a21788c6a36c71588b6c6c8d75d4de3d53d8f549a1053189e4cbd03e7bd533a728a2f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77b2f838cfdceaefe8389a8c6fb06308/77b2f838cfdceaefe8389a8c6fb06308.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "inazuma-eleven-go-3588?ep=70396",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2db52dc0b0dc055b044f2418bcb40279eda72d2ae3638b6f656c39f88f6910de3224ac2f729bdbe776eb045806982b3496a9c3b9069430efe4d86e3e7aa5c61d7722199ccd185d6cce521dbd7acf4ab8dea1ca883e507d7efee43c7994a9de01e8a5b0fafc7daf49d2d0bdc5a6843371/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81d9ed765b839040c11f1ff68503190d/81d9ed765b839040c11f1ff68503190d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2db52dc0b0dc055b044f2418bcb40279eda72d2ae3638b6f656c39f88f6910de12b29002b653c226aba8b0a42c132fee8e471d52f1bf4335212f55251df9be110dd1be84fdccfcedbed3e8d2f99d2028a135350eb54f06585a301518716aef64758dc960eeb26a207daac7529a4b374bb4f7d114cb008e180d5ccae5b2a2586402e6a6dc3d147caf6021b97abaded0fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81d9ed765b839040c11f1ff68503190d/81d9ed765b839040c11f1ff68503190d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "inazuma-eleven-go-3588?ep=70397",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2313d70ff9a0e7cb89fae70f941b1e393e710e98b578c9e67111809317dfcb365015625975daaf28b28bb4286db0e5246a7873391d5217d3d59dfcc3ab06fa92a807a6790a9bb69682f14fb92680e987ff90c2cc5c3991ad5cd6dc54d804a8c8153a7537a1a9eedef1e0f50cbfd2eecc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54cf1ee76e7d2b70e1f2952994734a98/54cf1ee76e7d2b70e1f2952994734a98.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2313d70ff9a0e7cb89fae70f941b1e393e710e98b578c9e67111809317dfcb36f25964c038bb9b8a7b4b5f7128e8acf628e459e42f31b07e6b537ff540f6d457a5dcce83fd8bcbc500f7bfd6afa3a99d50f361f0a6b45b758ec8f9f36e6529da6a7fa087b729a60d8b301279e748ed8247c230d7a70db813db82cb9481f81fe3aabc29436dba18123a25e87829817d79/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54cf1ee76e7d2b70e1f2952994734a98/54cf1ee76e7d2b70e1f2952994734a98.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "inazuma-eleven-go-3588?ep=70398",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/087a77c24d07ecaefddc93a8afe622f1910242afed1ae334ef82565ceb55028933eb2af09a89911f358387186148e4e1f8d108951c642c03224b051aab3506373c1b47dfa526e0125120d3afa82681bf00c69bbca08b7938c241d04d45d6ce02be0e5b25fbcf9062e7956cbc81fe5f8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afd65a797558c299286bb19883f849f9/afd65a797558c299286bb19883f849f9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/087a77c24d07ecaefddc93a8afe622f1910242afed1ae334ef82565ceb550289a564f7eda7f8cabda8e5b22e1d60919713b569e13785f8e1626b98c4a27f750840b3e7f192820805a9b898342283b7dd44528219cc2f4b234bf51db57d2e34e6fe3392149b2733805ab54e83d9cdcf7159b73f54afc86e3bb72954479e0f2807c256675ddec8dc910f4fb29e1ef7d151/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afd65a797558c299286bb19883f849f9/afd65a797558c299286bb19883f849f9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "inazuma-eleven-go-3588?ep=70399",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9a62a7ac9fd167e0277d0d87d7e18fea6df008aab17271c1e9b8eb0380e936fa79e279aca64a84671541bdbf329a22f15db4224a562ce063097c04f84abc365a0bb00f567dcfbf54dc153ae7775ab7591840eb03a97582f4c87d15549c30390e45f150d1c81d49d4a9c271ab2ac7c6cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1685fb7adff25b85a641fed10983d56d/1685fb7adff25b85a641fed10983d56d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9a62a7ac9fd167e0277d0d87d7e18fea6df008aab17271c1e9b8eb0380e936fa0aa72c098401354f6546b9368663ac551033f6e887909be9a1f6a130e0b29a537139f0902558477c42d37d64ecbfdf68ef93f20a92ebae3460b09f8ee1d45ad3155a15431f43e0c52d2c78118a73b9594088164880745b7ad3b02ce3224166a0a218dbf9358d9aeaa61665194dbd3a35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1685fb7adff25b85a641fed10983d56d/1685fb7adff25b85a641fed10983d56d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "inazuma-eleven-go-3588?ep=70400",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f1aa4137796854b930035029970094b20d57aa1851203cdd9985348d8781a225e292b8adc829039c5dbc063debd8cf8094e8c01d65f1b56139cb926b7695e783076f9e0cff75de605e8cb2179f33a3ffdefa9ab047c78b73a15affde44834891329abbade15d20967df1511e08974ff8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e86a4ca37a953be44931394c780e301c/e86a4ca37a953be44931394c780e301c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f1aa4137796854b930035029970094b20d57aa1851203cdd9985348d8781a225c285997e90378a2fcce535e322c15ed2bcbb901aa2714ec5f15fd7280ff5d498e98351ee2d01cfc4ab69499af93ef2bb381c3e96e52f8cc9a32f789df279bf9b032c7daa2f9390d64f9037857cfed4ebf18186d9b7c9b4d1420dd9066dcdbe07e5a6af089b42b5f94e5be95a3e9bbadf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e86a4ca37a953be44931394c780e301c/e86a4ca37a953be44931394c780e301c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "inazuma-eleven-go-3588?ep=70401",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/dbf80677d9da151f4cec73bc86467059807bbedbb28fca3b351c38d2742bf8da5d9e81df6f8ddeb92968ef234128dd4a3ed788853fb818cf6daf9ae66ca9ad6345a257399c22e07a07a62fac01866db54efe3d40018b1576d0b961c6949c0c7e6aeeaa394c915435ca347a4c9e7da138/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09f9f37f67f22cd0e98dfa9ee3422c38/09f9f37f67f22cd0e98dfa9ee3422c38.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/dbf80677d9da151f4cec73bc86467059807bbedbb28fca3b351c38d2742bf8da6b967ec6d59d670f2479a20e0ed30faa9a4a272629b2d1c11bd58d0053a7dddf5e00a7e6960dfbb7bee5292d58278ed38354f7a5979f6c92934dd07d5c4499c1bc47b7007f7e639aab579863cc128bbb85447a8d3b6e36c541e55cfb719e1db4e07b0cf914912d71c6400e056e1f44cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09f9f37f67f22cd0e98dfa9ee3422c38/09f9f37f67f22cd0e98dfa9ee3422c38.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "inazuma-eleven-go-3588?ep=70402",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/70f6d881a41c085c63782896391007c0d856688aa63b02b9a9db27f9ddf3fc06b0ccc19cf64361af25de25cd047529f6a622cfa66ce7a69c87b39e01d9f70f4a5ef82c60201884dac328f36f879cb74fa44c647efc1301c55ea6d849ae081e3106bcfd321f5a3433e2932768ffde4b99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7dd95511bec71683350c3f2306a20ecb/7dd95511bec71683350c3f2306a20ecb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/70f6d881a41c085c63782896391007c0d856688aa63b02b9a9db27f9ddf3fc06b8fd61f36d1dbc995edb7e2ed45f169b4c399ab1e85971dc2e96dcff17a62e00bffb95f0d70a92e09632b5d885584e80f15889a58e0af20ee142b0cab3db12a8753f5b2df487dc17c8b4666e71f8df4ac030bec121eeb0828444096571b60b4efb25d97cbdd459c66ac852fa444c461f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7dd95511bec71683350c3f2306a20ecb/7dd95511bec71683350c3f2306a20ecb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "inazuma-eleven-go-3588?ep=70403",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e7ed4a874ecee690f450ead63f8140ed2919af2b77e836923100206023634c8a028c26d8869a6adbf7e0df3ca9e1fed5ba96a5efc2ef79756e1caf5a43439dc6e0b7fc7b4e8558135beacc436d82ff84c82a43d9a0cec758d7de92f01e5642233fbe93f956171f5ca172f994ea72cd3a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f08ca4bd0f48193c069dc4c4de3c8e5/4f08ca4bd0f48193c069dc4c4de3c8e5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e7ed4a874ecee690f450ead63f8140ed2919af2b77e836923100206023634c8aa9e32434d0da5197322b37d7514a08fa961f77579794e6f8938e0e18867e885a22f36e1bfa86fbfa03d70aef1a3f0eeb1465352c86d5f0586cba5ac69944968dfb02387abf89bb625e9f921a40d58a8ca87893cb688e044f21e0c58eab7328296405cabaf6523e3cd432148beaa04467/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f08ca4bd0f48193c069dc4c4de3c8e5/4f08ca4bd0f48193c069dc4c4de3c8e5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "inazuma-eleven-go-3588?ep=70404",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/38c6c3ee5441cc64a6c2617c57692509c7f9b814324da652aacd81fc9136c5da8b2167555430517d0789bb19f9432ee90bc5bf461f015e203bb6945fcccb018733f5c2a718f0f5efcba05c68ce6c0628b5244c5409144c5d1c96c3964f5d6803895e92dfe25c81540f53e84e5287472b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c41670764941d9d36f7b789e13072e55/c41670764941d9d36f7b789e13072e55.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/38c6c3ee5441cc64a6c2617c57692509c7f9b814324da652aacd81fc9136c5da914a351c88845d64afdc3b308875f33f2c20f786e06a7c5e185d1c3f6321e14dd5fc6746ee1b4dee0b448b4317981136cb89fead142461d701becd5a3163c28daf13bc6a540f529dce703bf9104e7e615031445f4867742ee26febb7f120f3c797a49f956df37dfe985cf00e33f04d31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c41670764941d9d36f7b789e13072e55/c41670764941d9d36f7b789e13072e55.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "inazuma-eleven-go-3588?ep=70405",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a1c2d64235778d6b0502060329d9b3fc9de8da7e64964bf2e4699a857e75583424f4545e37185fce21a3661b0b22350b2c0966e5c7b7dfb1c978669e2a9075ba51920015757b718ea1af5995b4f10986762c84e896e75532b7e7d7c7b51ccaa5a237ba42905e61ddd9808673bfae2340/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2180c66cef999f316b0dcaebb47f1c10/2180c66cef999f316b0dcaebb47f1c10.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a1c2d64235778d6b0502060329d9b3fc9de8da7e64964bf2e4699a857e755834883216907cc7f86eaaf80d4ff193591c46e962c1f6dd84160b4561201cd7b0a75e0218353f581a4378559adba66a043f4200e56947bcee963e9a05391c5d1077ccfbca78a872939ef282f603b70937e0b43b75b34dc544f7c7a9864dc42f9e2a191bdc7c33fe5b69b9004bec63c30839/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2180c66cef999f316b0dcaebb47f1c10/2180c66cef999f316b0dcaebb47f1c10.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "inazuma-eleven-go-3588?ep=70406",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/152179f79ac5506e798895acac0016791e599e5c2bd5e60aec264531fef264bf5fb50be8806e503585e076c776e4c1f49a441ea1861b183b477d8a13d35acf6382d6eac91dee12082bb1c485987eaa5a69b87255fb2186893f5e1039573f8390a16a17ef9ef388435c3d2e342e1a7807/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bc6ab17c651ef9120e801843a540cf2/4bc6ab17c651ef9120e801843a540cf2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/152179f79ac5506e798895acac0016791e599e5c2bd5e60aec264531fef264bf8ed4cd19a90a4f6156975631ee7cfbd9e3a4b6a7aac09783fe5789b6568d39b3e0123cfa709b9136c536f3c8207f619be08598d7e0b233fc34995acc1eec042e0225aca3eb1c835e49433e9933a8f525a74f323205a157546f714d60f5c9bb3607b6cdcb9d666453fae044c384c1c670/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bc6ab17c651ef9120e801843a540cf2/4bc6ab17c651ef9120e801843a540cf2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "inazuma-eleven-go-3588?ep=70407",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6bcad92c2f3183b0e5a0d822127187efe02357945888bf28430fc19a9476b159574de30018d9eef3ae3a65cabe5be3c8db7552b97c417dbcfa78b348b774f86fe64974a6dccdd51504c78c9f5e5527d715c28e8a575844850e79017da6583d6387ab2013225d5725b9893131147aadd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/868292bcb77db50b0eba37f9504a5bad/868292bcb77db50b0eba37f9504a5bad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6bcad92c2f3183b0e5a0d822127187efe02357945888bf28430fc19a9476b159f20e12b733f72530e9dcbecb8a37d86b3e200b06a214a4bd37fd0898e3399f6f403757dcde4efadbb4279748ea32e36d3ce63549318c29a1911fe51a403ffb915037ab91c1b9220365bcf92887592c1a52148461520416c0465920f41dc7e7307cce68084232c87f543fbe6c7746272e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/868292bcb77db50b0eba37f9504a5bad/868292bcb77db50b0eba37f9504a5bad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "inazuma-eleven-go-3588?ep=70408",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cb3817ff5f3bc6768b034a3cc8e7279fc9c4f538f935731aa043325195f5ef99f75ff221ad8722f27e525b867ba7d284b458813a1aaf1bae6c3bb7b9922e98355a1f30ba9bdf6e114059174ef724e25a6a7453a179b9c441bd4447a7ba6f2a3cb98e8125c14f3c37192008700d24dfc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7edc57b11c44a50cbdc26c23de471c33/7edc57b11c44a50cbdc26c23de471c33.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb3817ff5f3bc6768b034a3cc8e7279fc9c4f538f935731aa043325195f5ef9941c0d244bb3ffb2c6a08b0c9b954da90dbbc80f03ada7d300e7d430a4ca99f60a9b86c4aa5e393aefaf1a1523c4108d25239798845235c907775c4fc6adc2d389f52801a828ee402c180ff88cd703e29b45036cd11d5e32c05d049d0e226848e728e537e514d3919174657bd370f7269/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7edc57b11c44a50cbdc26c23de471c33/7edc57b11c44a50cbdc26c23de471c33.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "inazuma-eleven-go-3588?ep=70409",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3ac6d5e359ffa4d6e559dcda662150524c8b160cd87cd233109ff353fa3f61d59db73fb19bab03bd36d317de8e2e24b59075ea19173075c137d82bd8c0c3da592bba5e0da92e1e0c2180bbb525da33163751ad06183a9d1ad4ae63ece1b63c8e0ecf6ca0e8fe64835041ce340304dd60/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ff0277d6318683c8df61949724140fa/0ff0277d6318683c8df61949724140fa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3ac6d5e359ffa4d6e559dcda662150524c8b160cd87cd233109ff353fa3f61d5d4ec20af5045dc688112fda842c180d4a8f3f5bc30961952b9f14a25dbec8ce7bef0c5e320d162f91cc6f463cb77bdba99ea8a92b5a2c51f3c7e082971f707ff643ad69702654b9d9e0e73981e02b9bb67d7696f9133837604c2ca189892af4e9afa19a2cefa70699bb961a0c5d34f9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ff0277d6318683c8df61949724140fa/0ff0277d6318683c8df61949724140fa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "inazuma-eleven-go-3588?ep=70410",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a7a5bc137161c708e506935d228e2f1a167f216a3856049ac53df60729843f2cd4cf46407aacd03ed20aa7cf88364188220df4714f4900da894e95912a3095ff90afccbecb949d71ad3caf5998bac6eeae948139ceeb591466380e19924a33a6073611699b8ab085fbb25011a7a26202/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/126524ccfa2c8ca9ce12bbd85b968b91/126524ccfa2c8ca9ce12bbd85b968b91.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a7a5bc137161c708e506935d228e2f1a167f216a3856049ac53df60729843f2cfa454d6eb8000d27b784f693e438d79a5c0cb1b017aa34835f2721f309deced425fe4edf9b153a1f6903e676abac7ce0f27ff9bff92d289d21f9f3bed050267626f06bc4d93d0831927cd276b930a91b3d12b3affded849f36bb9500771f17185301b552b6686f5251f402106704d8e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/126524ccfa2c8ca9ce12bbd85b968b91/126524ccfa2c8ca9ce12bbd85b968b91.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "inazuma-eleven-go-3588?ep=70411",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ed64f7a2b43947846e1fc560e460875e7e0e114ea67cb4e200d9abaaa304bd5d7574cfd046a342c77291054b55a0deb4dce27cdb03191691d5a15aa8e4dbb83928adaeffb24aede8bcab25e89f8ebefca3bb2119b1824b0bc9ebd6d0f96678ba43dc2541c7acde8e7086fe462f66a379/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e451a3d9cf83552a492c469e1b27d7c/9e451a3d9cf83552a492c469e1b27d7c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ed64f7a2b43947846e1fc560e460875e7e0e114ea67cb4e200d9abaaa304bd5d216f653859468b38a77b97e18e5c82fc167ff3b4197e5df8f690fca7307aa61a07dcf991583b7dc7dddfe1b1d0f4c02f39c98ebf3f2dcc7fbf988974d7f3b8f5862610ed7af5c634f04554e26b526be839e88097037ca45623ad65dae24fede74c929faf6ca3de194b80e695801d724b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e451a3d9cf83552a492c469e1b27d7c/9e451a3d9cf83552a492c469e1b27d7c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "inazuma-eleven-go-3588?ep=70412",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2e6d944d89f374f362cd426f23612e4bb889b5db33fd910d965e4a3d2db60994d4e943ea16e18f74c27c3841988e0064a2d2662017d6a1f53d2c94e63631ad733f1eac72c191a15dcf73453813dcbcd4801fcea7fce24888aef2f25f65d9e5e178fce4484613af4054efbff86f40df62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09cc2d81230b276cb4037003b5b28b37/09cc2d81230b276cb4037003b5b28b37.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2e6d944d89f374f362cd426f23612e4bb889b5db33fd910d965e4a3d2db6099433bc4312c1595eabd15ea7759a87f21a0d1939538ff9ac481241e9a9db254aaa36b3d4a39779521ed076962ac424f83944c5c76f995b927fe9880eea6a0b16effe78cf9ca022cd67084376eb31eb9fd0e5518fe4c581c06b480ebe2e98fbcad4db49b9608deb48070ae0d5ac4475909d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09cc2d81230b276cb4037003b5b28b37/09cc2d81230b276cb4037003b5b28b37.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "inazuma-eleven-go-3588?ep=70413",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/14329de726d05e170930fb75b76ddd087c18ae3b0e5f5d307e209a82749838f300cf455c6f7937375a70b29e7cdadb935d8aa97813e85311608c6bb2af5dfbfb130f8cc04629bf97df3ece3c5f35460b6baa78ce30b44c9ba8f80b64f600fdd0a3c480fc94470985e91177b68ab0d7ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/949ddb74c6e8acc29426dafe4da8be54/949ddb74c6e8acc29426dafe4da8be54.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/14329de726d05e170930fb75b76ddd087c18ae3b0e5f5d307e209a82749838f37dfd9b1548d21502b33a301bb4cd0cc4b288177a2dbaf98982cbe46fcacfab056c4608574841845cfc8e42d11d64d7bcd3f6d549fbbc35b79361b68bd918af72ed0fbc571e2075e30e5a271bac7f2d8700cba6b52108a443d59e01adf7acf3626bf5a652bbeecab1cd64cad8dfc9a648/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/949ddb74c6e8acc29426dafe4da8be54/949ddb74c6e8acc29426dafe4da8be54.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "inazuma-eleven-go-3588?ep=70414",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/80395cdeede9d64303852e85f894867e6e977ad4dc31bdb3e85017c3de46651b40e7d05096569c936ffd12ffdbdf35d413449440449bfb16cf1b5aba59ce71c5c17478f27aeb146373848d4689910cd1bbf6ddf9500b2ab4d36fc744c03a98805dc365e79656a9b03799bcf7de5e9ffd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc40c30192115ee3c72f466a8c79e0a4/dc40c30192115ee3c72f466a8c79e0a4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/80395cdeede9d64303852e85f894867e6e977ad4dc31bdb3e85017c3de46651befe9641f9668beb5dfa7b275c67c8b3d0e98589e6fbdf0fefef24aaa6a2913656fb2febec9f5dd8ff25e8e006687a3e006651639bf882fdb7f559e87e959e50fbd818020fbba3688e9f56fe2677ff48810e9026e4ae24af3646b0992f9583f4c2301a037f82092254bce083bcc657fbb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc40c30192115ee3c72f466a8c79e0a4/dc40c30192115ee3c72f466a8c79e0a4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "inazuma-eleven-go-3588?ep=70415",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/88e96d71f0ade0178e12f684dd6a0eab3792eba1c491c676433b341d9b5936ea977220c0d71e698f05f3a0f6f0ce0124978a5dec7b1b922a74fb27bfd10ecc03e7bdaba279652d9363e278e4269ebfd2c72f7cbbaa05cc57fa3867b5e5bc1c5dd796c353c9d64470992ac2ebb0083ff6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/685f689bc65168d07c9cdec50adcadcc/685f689bc65168d07c9cdec50adcadcc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/88e96d71f0ade0178e12f684dd6a0eab3792eba1c491c676433b341d9b5936ea5e9d4ae278e03502d0c57f9cc9c4c7aee98c2dd9516e8b1e4bf4209dc35d9fd35c6a831f2068adefa05165536694967776696f1805d5a6f50748a143850ba6a57f7d73566c0c4e250ce5622af49b52b7286cec322f0df9c254ef7f73a85a73cd52d54777a174ab0b861dc85f79b61b6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/685f689bc65168d07c9cdec50adcadcc/685f689bc65168d07c9cdec50adcadcc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "inazuma-eleven-go-3588?ep=70416",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/183ae1fa9c2539ea751a900c767e09e02405d8c5dee0fb7e8c9f9c0362121335d93334ef2e08ccbd95dc3db61cb28fd272911d6d5075a3546e7c5b861ec10d8d7197d9872b0472838d90cf05ef416501283616094b17a56072c3c65e6151bd06b7ea0ea316467bcfa7b4f29c53c24578/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfe96f7ad7f97dbeccaf7020d6d11955/dfe96f7ad7f97dbeccaf7020d6d11955.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/183ae1fa9c2539ea751a900c767e09e02405d8c5dee0fb7e8c9f9c03621213355256d1ea44eb50eb40eb3c1338058b896e3f6094a6670cd56c81af8810d55fe6fb592863a19607cdf1247c2d2fccf041d288359d7e7c302e858f61afbba32185f7e7d4d1791ec6d526f3b81e31ac74b24336caa4f706a2788bc45633874b4b409e09c9e50ab6b4ceddc58b8ce279e771/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfe96f7ad7f97dbeccaf7020d6d11955/dfe96f7ad7f97dbeccaf7020d6d11955.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "inazuma-eleven-go-3588?ep=70417",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7e1f5be9df1ccbe24f476b83a5b0f7d6c7968cca0ed0be2cb2d8da9514a50fbef7b84a28b85f896a0b73ef39b52386dc6d373f41ba9eed3f346397e79966853aed56ae365e2065dc293bc0fe0594fa322eed6cb8d32218c7332da07cc17c73c01d5c69714ec38faa25e40ca20507487a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee29a650b2af9dfbefe044cffba90471/ee29a650b2af9dfbefe044cffba90471.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7e1f5be9df1ccbe24f476b83a5b0f7d6c7968cca0ed0be2cb2d8da9514a50fbec15b2e6002f5aebd2c30d6fe33da62175aee51c5478f1fb37362e9e2ff462c69d01935f137bc011479541c798de5924716921670ab174e7e4c0dd6997074be8255a26cb4aad784048fb860adb589bc4e72569925c31dec02a850f83b7b84e98a394d5e51a42c8fe0f8a5db13914c7632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee29a650b2af9dfbefe044cffba90471/ee29a650b2af9dfbefe044cffba90471.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "inazuma-eleven-go-3588?ep=70418",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cb74d46d37223fb2f258ad7e626fd764f048ea5fb930630a37a21622e9a2166e7bf0cfaef21601c092c8b656af0d2a16a909db0a9565e7f09105355993db7ef364600fef6900e5f7d23e14c3aa19275d32ce7b9956d0583a4d52abb17d213e07f6c907e9f52103f2ac8af88cebb30705/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95fbf9239545e64e479eaa95a9a4390c/95fbf9239545e64e479eaa95a9a4390c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cb74d46d37223fb2f258ad7e626fd764f048ea5fb930630a37a21622e9a2166ec4d1c16767bd3e4dfd643f392ff40190f00ddf7e956b61e951f3e6de5bdf79cda29fe05892a7c75aca1cc2dbf4e1c8f50f2068ad332dd763462dacda898b5357929549260cc5df374afa9b48ad990308ea5b81ec414d570ab4fddde93d372fb0085bfef4219da20d720f16c24c938e30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95fbf9239545e64e479eaa95a9a4390c/95fbf9239545e64e479eaa95a9a4390c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "inazuma-eleven-go-3588?ep=70419",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f23a27c5908af0e46bc8633a3f5c9ecfe452e340f6b4f719c95869338969f87055fa9f92154c5f43eca8355bb5f95bd96c97b20a0229be9018274874e41368f7c97ed124fc35e170a22e4d4820cd71e0362c5fe42edf01acae44cc54b8a70515a25f47a868283b4f54df27fd8d86d19e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/391d2460f31012c744969055337265b8/391d2460f31012c744969055337265b8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f23a27c5908af0e46bc8633a3f5c9ecfe452e340f6b4f719c95869338969f87044c2ed86ede6d1ae14a098a587991a24fa1889b252a0ca38f135e7604487d58a245f37f93cf55bcbe007febc0fc3e6a5ad3ea5389e3652121cf8f6bcfeb7cee4d3bbc84f751abe7f97631f45e4228bee13a6f9ae56535e8f08c7fe07913893f8db2ba383e879548fb097d64fb62777df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/391d2460f31012c744969055337265b8/391d2460f31012c744969055337265b8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "inazuma-eleven-go-3588?ep=70420",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/be44c9439d0f6ea478cbc0507f7403bde9e47adc1996d8af060050aff6261579da89d6d7af4c74be653dab9fb4edf963a87f6a956deb23213168ea8e856aacd82b08f50a0bfffb0c32d4a252db313e224ae6adbbe5bd754d200e4e0f191758aab63f02c62813ee1de03c2695c7427548/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b4061df649268b7a24e140ea3750b7c/5b4061df649268b7a24e140ea3750b7c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/be44c9439d0f6ea478cbc0507f7403bde9e47adc1996d8af060050aff626157944ac9534c6937d4d4a5e1244bb783a5a85b87c4d026b2e7c894ef1940da4c2680c6c617ff7c3e8f29b71e1e87f78962b01150e7459318ef4b4f188acb2c14a335873d052c85d97388c2be59308e12d8eaea8cf0cd0b6ddcf4d238c59fd89085be84ee5733f63ae7128535ebb9d006a9d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b4061df649268b7a24e140ea3750b7c/5b4061df649268b7a24e140ea3750b7c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "inazuma-eleven-go-3588?ep=70421",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/26c0b9c6a4d21c209512044e2412d2855991b31db688d955947829bbfc22e4f991dff397a68bd0557f6a72332a1d242bda94be11464841989815253ff41ec7973806ce00e3076659b8057ba1e9e8107e5f6af6ed62ba6badad8d250a7f6f424ddbc41db132566b7e8de867f21a773829/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29ca4e98328cba8fee0e769ad2fc543f/29ca4e98328cba8fee0e769ad2fc543f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/26c0b9c6a4d21c209512044e2412d2855991b31db688d955947829bbfc22e4f9cbc4bd6fddb2cda7f6c87402943fa69195cbe53ce86f9c6a8d8ad82619d539e6ec50dc8058d6cd1d5cda15668bb9002e2112e8ad7678cc188c01625d94c1208d27b41904b3313d651280df24f6e6d65c30f2c33327033157dff0961337ee0e4e1dee8a30aac710f7661876c438584da4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29ca4e98328cba8fee0e769ad2fc543f/29ca4e98328cba8fee0e769ad2fc543f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "inazuma-eleven-go-3588?ep=70422",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9d9220b6176d321b96b13204fdf208972cabf4033f6162d49810e1529f08fb0c631bf51545f8920f19b849d8edb28831faa04b6f6a5242cf305b2ff47bc85b97e18a95234e9eb9685d75d2c2948ce861c11d50e0d2b6f1bda7dfeb0e9a44e3d2095bf7d6bfc7f4c74eb4fe240b1c0fbb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5527aae71a2ba5da45d7179778132ed0/5527aae71a2ba5da45d7179778132ed0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9d9220b6176d321b96b13204fdf208972cabf4033f6162d49810e1529f08fb0ced99bac6cc2edfb5473d22cb969efa1caf50e32ed12322722132780e96689967849373c0e56db3e9adcd2c349429e53bf2a0d53185d832da844430b32220d5acb13d91eecf889c2042cd2b59f51d0d8199cf7eba0a4916511c1cb3a5d49bbefb1496cdcd0d4af254dafe0c7dd5a95512/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5527aae71a2ba5da45d7179778132ed0/5527aae71a2ba5da45d7179778132ed0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "inazuma-eleven-go-3588?ep=70423",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/40ffa007ad9e43dd9e2a43af25a043eac05c49863255e6dbe8c6b0578d34f925216386f315f40df07a723f49b30ab5278a09f74e9dcbfad1704b8d919817890c1d310c95367b82798b82b1b429e01be1e04e951e2446ebdceda7ba095edbeee003833e4bc7fa3eccd75f0a931b7b7389/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6872406a9222eac26c7522f5837a6c8e/6872406a9222eac26c7522f5837a6c8e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/40ffa007ad9e43dd9e2a43af25a043eac05c49863255e6dbe8c6b0578d34f92524a43c271476d795573698cfe5472627a211529f45d338fb04ddc1abc9fcabd5dbba9afafdaa66e152cb2360a864cd5f527f8df63376dbd22fb4a7d4bc1de6c75cb2b1e256f4a748f45c29bc2e3aaa479697abe08598aa8341468297829f73c1260249e0dd96dec90894f121fbfd14ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6872406a9222eac26c7522f5837a6c8e/6872406a9222eac26c7522f5837a6c8e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "inazuma-eleven-go-3588?ep=70424",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/851cd5e0f157ad77fbbc193bc4eed6ceb36afd485026eb1b2739a39653adbea84c5a9b656cd14dcdf627b9c60724968e6202c6995fdf73c57a85772a7d7b78479ba7360cfa5a914edd59cbd00c9a146af5a0a48894ddf5ae1c563033870c5ddd3e55a0ad99cba303875304395180bd6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/294265fccdc34e94d69535c3139a45b4/294265fccdc34e94d69535c3139a45b4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/851cd5e0f157ad77fbbc193bc4eed6ceb36afd485026eb1b2739a39653adbea811371ac96afbee508bb38f7e4a7551d51bcb56a14849767e2ba10041a651f19b5845065756cfd4c0a26f44076bb1d432b91d6c2ea866dd4ed5b2c5811836b0717b0804df2b003294cd2e839169f970519c1b712644da92f2aac466ec5c75216b78b82a033a2117ac6d5b7f5073b6bc5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/294265fccdc34e94d69535c3139a45b4/294265fccdc34e94d69535c3139a45b4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "inazuma-eleven-go-3588?ep=70425",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b287308251bb6ddbd7f619960787fe02f6edb1fbe6a5ed3a2cf9dfb8138eea7a926f73dadd3ad45ffbb9b36364d2e15fc03fcbdc44af800a325a4fab10faf08afc9cada07f25c468d3992d21816e78d2764402d54552083922db5b5f935291924a153716e43b3fb11f1d5750d3f03fb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88ef671d797687f2f1404c0cd965287f/88ef671d797687f2f1404c0cd965287f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b287308251bb6ddbd7f619960787fe02f6edb1fbe6a5ed3a2cf9dfb8138eea7aa9762d495f63312a6c6aad00bff0267173d44b72ded338dfdaf418681d8f69f2ab4af481210ba279798769cc47cf521cb8c436b01675a0f1d6f5063e443491085db3db4530068ed4424a163663c66175c2c5f838f4e461a976edb45b6cdc8f0be4cb68fe12f6adc8d741ec8bd4e32fdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88ef671d797687f2f1404c0cd965287f/88ef671d797687f2f1404c0cd965287f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "inazuma-eleven-go-3588?ep=70426",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/98fc1610fcc19998903085e6a3b73f0fdf257a9ff26a119f3e571c8f3bf1b5a67f0e4ead0e1fadd78cacf7ee50d6fed931502d977223616dd4ec14d1cc0a92d42a196bd2cb226009533765e68773ec2770ae8cfc0e0151b0f3c0201981f139ff4ad3afba58203c88725ef04dda23e3bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f18e683144177e054c00e36ed48aa85b/f18e683144177e054c00e36ed48aa85b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/98fc1610fcc19998903085e6a3b73f0fdf257a9ff26a119f3e571c8f3bf1b5a6b9df21a6e572ee829092e8635c5666b7f4a2c38212c7183ad8149eb13ffe872ab4674feeb811ce5518c38aa520a56b5c6ff439eb0fb19281bcddbdd4c4531fa407784a82755182a59d6623bbaa9947d184c8cd1f18d087cca4d97d464353ef9a9aad1f568e7c936f9a9351886e75ab92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f18e683144177e054c00e36ed48aa85b/f18e683144177e054c00e36ed48aa85b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "inazuma-eleven-go-3588?ep=70427",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e0a896f2b4093e87722dbac6cc59e0d3b5d987e86b7e59fe3ab2f520589b6bdeab1586f1e96aae31d04a285c7b0364fb8149b2f0b7495306cc4d72c5e58ff855d64189745144a573632e8107a89119399034842d86157eabf37542f7c87f6d3e018df3b3247d44aed1412f2170cba4fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f34ae940b963d964e30078b214bdfd/a3f34ae940b963d964e30078b214bdfd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e0a896f2b4093e87722dbac6cc59e0d3b5d987e86b7e59fe3ab2f520589b6bdece6523d52955e360f17e5a59a6d349fe9dd589908ee13696dbd4cb383b45b5d2563a95003d3e3abbec5c70270fb6878195731ac3fc17a3b9c80517747aac6261811f7a6e6956cf62f56e0ae8bdd4a3d427acb679f0737d1134006dee5366009325fb93f4ca6f19b731b44221a72229d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f34ae940b963d964e30078b214bdfd/a3f34ae940b963d964e30078b214bdfd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "inazuma-eleven-go-3588?ep=70428",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/afc71b2afc64c3f40593f672a57ca04f141d627cbcd059e854b24eca1972ab8d2026cb5c9e07d4e80f38243e4f09f64356f5626506729205b04af60e5f11d35f1dccd13cb2a1cec7d0396bc83636ee907e0f60fdfab08972032d90f6e0b149b0fe6674bbd7620af0aa9354ae881dd3d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/affb8c8f9138409abbd7d178626d816d/affb8c8f9138409abbd7d178626d816d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/afc71b2afc64c3f40593f672a57ca04f141d627cbcd059e854b24eca1972ab8db75b4336cbdcbe83b53348cbfe20af5f25a49d1cd2858802876ca9ddeaa0c5d588244cf1afc2eddfe7c362d7c40589af32ffb23c23a68763df88c4dcece37d57ca5405356a1b39dce9041fde620744d9f6789762841c3e18fbccd94be2b28cec362e592df0d3ab78d55e367cdf01a845/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/affb8c8f9138409abbd7d178626d816d/affb8c8f9138409abbd7d178626d816d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "inazuma-eleven-go-3588?ep=70429",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fff29d908e9dbce933cb1f34581307f331aefa07ace81c44160a0bdf58c1fed58d0d0079cdaf21bdf388ff413c2ceea30f8477a9a82a2957b5dad42b25fc530c2b9024bd25b900c42f2d1efaae9d75df22bff13f6387cc30a8acbf34e839a6d09252f404d595ee7de257f5eb36669e29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/283992f906a15fa2d71de4fa3b67021e/283992f906a15fa2d71de4fa3b67021e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fff29d908e9dbce933cb1f34581307f331aefa07ace81c44160a0bdf58c1fed504a88587aab97dcb58f9d233939f68b42a88aef7898d87f22cf72a285061eb47cd1db70d8f1a34c6dde2f90a8eba747560fd06a46905bd37bb3c24c3f36e1868908ab2adc572b8561f2e4da45ae637b57c68d2f5655c63cecfd85a6c2cd300d86cd32a103b967937f98a247f6598a038/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/283992f906a15fa2d71de4fa3b67021e/283992f906a15fa2d71de4fa3b67021e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "inazuma-eleven-go-3588?ep=70430",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4a93085b9e5233f765209f4561c7200f0a5c40dae6ac19de60924c2606a832dc9fb5afaba6ca8c22af5d923ef6bfd17cdcd2ac2793465bdf560c3f594582a655d58cadb9dbf7555f0740c9cb05924c1d1b9273d0326b6efa429c79e14ecb0e1fffec7d3ad3b6f154d30e73117444ec41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6a6203bff59fe95cb2dc14c4a2a949c/f6a6203bff59fe95cb2dc14c4a2a949c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4a93085b9e5233f765209f4561c7200f0a5c40dae6ac19de60924c2606a832dc048baf55a4b17115b78444a98e62a1dda784c5f04ed7241af35461e5b3a74a9e5fc783c10f641077b1cf07cc8ecb7b2b38038373c259341fa604fd804a20975253aa50bc56cb341d3c67c9bfe5517907228ed479fdced316dca994c0a09d02ffe787864c34c8040677be84e02b7817cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6a6203bff59fe95cb2dc14c4a2a949c/f6a6203bff59fe95cb2dc14c4a2a949c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 40",
+            "episodeId": "inazuma-eleven-go-3588?ep=70431",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bd4f630ab399c5586ae5c26f3624d7b0e5d4645dc61a7c72bcc82d1b0a13115c12a9f3f36989582bc50c9d9f686d7b0722d891f13b5d1e7ed0746cafd9c2db9f888c004cd2ad18a3a09d6f4752dc89f5358e567cb6ad9753cde6a0bae1a77d9198e805259f5fd6c90ed734ee2956d95e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0811c8f53a4703f7691e4312575e9417/0811c8f53a4703f7691e4312575e9417.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bd4f630ab399c5586ae5c26f3624d7b0e5d4645dc61a7c72bcc82d1b0a13115c4a38c7aef98aa2ad09d40c3e3bafc1375e672c65901212def9911c08e55c39c279c40f048f380271935f95788604aa652455f6f4ddc855eda6a8320993c81f2e56c6b4a35b4f05aabe0908e73b7e456ba253a6e6042c621190a9bfa0b4e5df8d0f0d539994d72bc69d0495579db07d37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0811c8f53a4703f7691e4312575e9417/0811c8f53a4703f7691e4312575e9417.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 41",
+            "episodeId": "inazuma-eleven-go-3588?ep=70432",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ecf835a84322bca56ede649bc2915fb8043727c070fd269e78a6a08018bdfdc92066b91c8dd278fc9eeced9d64160c07d9d09ab5a5557acdf57184f6a26d083a8c9b0698d456d6e0bb354e62f9b4849dfa8f7d4d87168adaba606f706071b72f8940123825e367af84b038613c79e47f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acace76287fa976c0519847cd19bfbc7/acace76287fa976c0519847cd19bfbc7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ecf835a84322bca56ede649bc2915fb8043727c070fd269e78a6a08018bdfdc995c6a89be44f8a0d489102642d13ba525f81cb729208b9f22d185eccea99bb610246ed8219c4422becf843e18b59e22491da51d7e07dfe0338875cd21fc3a7af3188f56385774ebc555082184e69c084e7b42228361f1f43c5c5bad074ca4a74d9c638eaa43668825098d77169a7a7cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/acace76287fa976c0519847cd19bfbc7/acace76287fa976c0519847cd19bfbc7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 42",
+            "episodeId": "inazuma-eleven-go-3588?ep=70433",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fe4d744e34d1a71b0db08c99b277a2f4338643de4dfb10eac3f7166f42def6c4a54d51bac2ffda7dcbc4d37f0a3aeed04aa7823b63fdf556e3014feac0859bbe145ca08773d0074369f2e63066d04b9e4844c10013199fcb1e8064f7e7302a3ba68cf4e7845e3e434f39021741014e9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/416d92d925cfa5e0413df8718fc22c2a/416d92d925cfa5e0413df8718fc22c2a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fe4d744e34d1a71b0db08c99b277a2f4338643de4dfb10eac3f7166f42def6c423f7ef8ab80156d4906c2fac17201cc461fd5a9eb821b0a87606ad323bd99f5d892072519eb707895c7c4ab909374cba2cccb7b12ff56906efd9bf193d52ea15600d5cd8f9b539f0edc90b162fbd41ea6f4352326f64c2e469acb74c57931103c883c42bdc5d1d1b4eb5463ca650fa1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/416d92d925cfa5e0413df8718fc22c2a/416d92d925cfa5e0413df8718fc22c2a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 43",
+            "episodeId": "inazuma-eleven-go-3588?ep=70434",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8eccc1dbb894fcf1891fb546def7c45dca8e040f96f2151d75fc8979d99f45af6083e2d19b3e08a61a7f752e992f1bed8a3eab8f93adcfc65ea36585c46918e80e7bfd949621463d24075a9f8933a99911c7f7c7a7bbe0b60c6a756d501fd412918c5cd64ffb6c25b660d47e8962b859/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759e0b986583549d04e9befa538e1f46/759e0b986583549d04e9befa538e1f46.vtt"
+                },
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8eccc1dbb894fcf1891fb546def7c45dca8e040f96f2151d75fc8979d99f45af6083e2d19b3e08a61a7f752e992f1bed8a3eab8f93adcfc65ea36585c46918e80e7bfd949621463d24075a9f8933a99911c7f7c7a7bbe0b60c6a756d501fd412918c5cd64ffb6c25b660d47e8962b859/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759e0b986583549d04e9befa538e1f46/759e0b986583549d04e9befa538e1f46.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8eccc1dbb894fcf1891fb546def7c45dca8e040f96f2151d75fc8979d99f45affba5f42cf671fd9ede07175d0aada579ca564557afc410174730f1f231b7d04ba9a8d5851214c269d4ca9cf3d699a825ab43abc66f558257c32098b29d734d9a43bcb76f24d1f803b469745fe67c70fc4287ca115ddcf0748d99c18c45fd5edbffda282f81a7ceecb64cbc362545321e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759e0b986583549d04e9befa538e1f46/759e0b986583549d04e9befa538e1f46.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8eccc1dbb894fcf1891fb546def7c45dca8e040f96f2151d75fc8979d99f45affba5f42cf671fd9ede07175d0aada5797a1d21e372a672dfac287b4ec114548dc35d3ae803c4b12cde556cba8acbf521cdc29a7244dc046b174181961ec233abf75e5e81a6e02ce78ebf3325f4fcf9f6204400f9a17233facefc5e139ad8b3532d0bbd7310bda89abfe35edadc5bb9fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/759e0b986583549d04e9befa538e1f46/759e0b986583549d04e9befa538e1f46.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 44",
+            "episodeId": "inazuma-eleven-go-3588?ep=70435",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/461d25dd9a3343963fd9ae91cc98e82b988fd5f7111a5d7c16066ecc137cede466e1b69a4ba2460ed65131ea29497eabba05824eebd402573e2e0126d7f03412dc11a46861dc7f5c6c81952c81d58d8d16de75771ae994571d273375fb2884f98a96ba12fa900d9dad52723fb18adf4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ea69d4279103824ae59adb65c41603a/3ea69d4279103824ae59adb65c41603a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/461d25dd9a3343963fd9ae91cc98e82b988fd5f7111a5d7c16066ecc137cede4fc6e33aff5513e878f65f5d515457459338d4c90103f591022fc9c7c3485c1a531d4c6dfda8ebc8dda41b132a59ddccbb3dbba535839baaa073cdfd030d32f508156dd6b722f98d0f06479f838e0625f34a062da1c3413f2e409f861aba853eddfbc2d5ae66db358dbe985d54559d2dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ea69d4279103824ae59adb65c41603a/3ea69d4279103824ae59adb65c41603a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 45",
+            "episodeId": "inazuma-eleven-go-3588?ep=70436",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/80cde00f2155f0a267f4fbdbdb516ce683a8eb120ca8a11d4fbe8cf677ff0a5d1dd014a904be1115efb3ce5ad97d68abc2b715086e3280680206c4676b98ef24b2df031e6416f1653e8773f98db2613e3cfc1742f0cdc002ab5d854e9c98fa1372bc8aa3939f0ca1de0fe62d1a46ec29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/532797e2daab29401490d06a90a1da83/532797e2daab29401490d06a90a1da83.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/80cde00f2155f0a267f4fbdbdb516ce683a8eb120ca8a11d4fbe8cf677ff0a5d34bf1a8d9be3c9660e11d36307ec6f2f076dff1223943d11dfc8aeb6bc58737f788d3567d25c7295078bf1e5de7607c0dcd9852ca63f8d7ee17eb3155134954a303e9b5ef2ed14929614d890f1a3a7c17ddf4df2ddc5919501368ff2ad26487d4d2d158fc8cc3e960b158b768a43e924/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/532797e2daab29401490d06a90a1da83/532797e2daab29401490d06a90a1da83.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 46",
+            "episodeId": "inazuma-eleven-go-3588?ep=70437",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8b28205cbad6ab9a2180b3ec8416f91aebc311c90f8bcdf282f751e08bf68caea5cfd3683a71dcf7d372b382813acc5132ca56b17cfdf8e82aab5e725aa54b05c6cbb0fb24bd5347e867b19baa1bf7fa2a04c842137f761abe4d21afa8f048a605eaaba1b6910ebe0ae437dce74f6947/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6aad2d8143c9d088c32f067b37c2261f/6aad2d8143c9d088c32f067b37c2261f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8b28205cbad6ab9a2180b3ec8416f91aebc311c90f8bcdf282f751e08bf68caeebef0bb95b1018268c0e11f36d72c6933f65b1ffd6f19f0f2484a25c4a8747fea21897b21c19bb24c039b2df3c28476d58a1e7cef2bb74691cff01d8f134b3da6a88a1bce5f83b39dc6283eda8746f2fef0b44182f97364d142fa05c8e84ebc76657e4f4b37524e6ad28e69a7aa6bf6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6aad2d8143c9d088c32f067b37c2261f/6aad2d8143c9d088c32f067b37c2261f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 47",
+            "episodeId": "inazuma-eleven-go-3588?ep=70438",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9a61af29fb0b9c0508160e237c8a55a3081b47fcb9264cc957c6cd46dbf7842fd10f4d7918be3922d0640f9f16550944cc47b27ceb117e3d6534cb5dddfe07c5ad0045bdb3fc3699fa5d19b428ffaff1fc2b0d706327fb6d1b0b17ee475918efd608e56274a51a9db2b4e048ae4e9c1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e8898cd0f41d68bd3a363d6fe7ab501/4e8898cd0f41d68bd3a363d6fe7ab501.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9a61af29fb0b9c0508160e237c8a55a3081b47fcb9264cc957c6cd46dbf7842f3396bddce9fc6179206c2640d6f7b6191825c9c0ae62425dedde1ba899a5e834867b67805565b11e00f5d17b88120abb917065f41a692f93144b8b92c66817b0017f5e55ece8819e8a4fb60bc72976f830d518495be4472de54adee0dabd06c749dc71b3aedc29f479b6b9e3517f5598/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e8898cd0f41d68bd3a363d6fe7ab501/4e8898cd0f41d68bd3a363d6fe7ab501.vtt"
+                }
+            ]
+        }
+    ]
+}

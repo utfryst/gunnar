@@ -1,0 +1,90 @@
+{
+    "info": {
+        "id": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-2427",
+        "anilistId": 0,
+        "malId": 36616,
+        "name": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/766a68b4445551c59593f6a9deab987a.jpg",
+        "description": "A summary episode of Mob Psycho 100 which features commentary from Reigen Arataka.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "1m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shigeo-kageyama-113",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c73d5e67f2d46b41aa5540e0f30e1f2f.jpg",
+                    "name": "Kageyama, Shigeo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "luiz-italo-16134",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d0a4a72746a9557226b84abd6834f88d.jpg",
+                    "name": "Luiz, Ítalo",
+                    "cast": "Brazilian"
+                }
+            },
+            {
+                "character": {
+                    "id": "arataka-reigen-64",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/27c0bda4d7894b0b5c7210cf257682e0.jpg",
+                    "name": "Reigen, Arataka",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～",
+        "synonyms": "Mob Psycho 100: Reigen - The Miracle Psychic that Nobody Knows",
+        "aired": "Mar 18, 2018",
+        "premiered": "",
+        "duration": "1m",
+        "status": "Finished Airing",
+        "malscore": "7.29",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Bones"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Mob Psycho 100: Reigen - The Miracle Psychic that Nobody Knows",
+            "episodeId": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-2427?ep=51223",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/da28ea95442faf09cd950b9240f30824e788b3795e5e10c8a65d4e26c3fc34c3bba97c3caf061db70d0440688b7841ed067b7f7ae2c4e94db416602a34f660c2fed7680309795281e2001e9785b6718d890e40543a27af69444b27e156ed027cb83d42d15303ce2086630405a008b23482f39c4925e7a84feeeab17f1c87fcb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/733c28ec4050758a6c70472db3174a17/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/da28ea95442faf09cd950b9240f30824e788b3795e5e10c8a65d4e26c3fc34c3bba97c3caf061db70d0440688b7841ed641f7d06c5b26d1e392dbb38404126494a11a15fa6ba926860407319f3eb5ad05dad7ae0cd68f3711d96b3aab9366345b87cd05f2c1b2373ae0ea38ee0266ecf52c00e3205e2a17cb63de7ffd0d406786418fd8ad0159a3dee9d950169760d55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/733c28ec4050758a6c70472db3174a17/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

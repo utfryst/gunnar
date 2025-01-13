@@ -1,0 +1,574 @@
+{
+    "info": {
+        "id": "virtua-fighter-3203",
+        "anilistId": 0,
+        "malId": 961,
+        "name": "Virtua Fighter",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ce29baf2825896234a712281b9a1bd6.jpg",
+        "description": "Akira Yuki has spent years honing his Bajiquan skills under the guidance of his grandfather. He yearns to see the constellation of the eight stars of heaven, which are only revealed to those with real strength. This burning desire urges him to embark on travels, so as to learn more about how to see the stars.\n\nMeanwhile, a nefarious robotics scientist, Eva Durix, desires to create the perfect soldier. Eva's group, Judgment 6, tracks down and kidnaps Sarah Bryant, a college student and close acquaintance of Akira who is investigating a mysterious accident concerning her brother. Akira must now fight his way to Sarah to save her from the clutches of Judgement 6, a perilous path sure to be paved with countless challenges.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/CA4M0zeB9ZU",
+                "thumbnail": "https://i.ytimg.com/vi/CA4M0zeB9ZU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "jacky-bryant-34172",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e1a632f34f26256892ff18447611a7a1.jpg",
+                    "name": "Bryant, Jacky",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yasunori-matsumoto-2187",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43911599bc6bbb78665dbc3027cd35fe.jpg",
+                    "name": "Matsumoto, Yasunori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sarah-bryant-27085",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a18ce1d13be918ed2e5c8cb0eb7088f3.jpg",
+                    "name": "Bryant, Sarah",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "maya-okamoto-4348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16702a1b4ca6c974582e568127fe8dd4.jpg",
+                    "name": "Okamoto, Maya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "pai-chan-28751",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb4b2b3783f69d59893f4f489732658c.jpg",
+                    "name": "Chan, Pai",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "naoko-matsui-2209",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b923ce29be0bdf311b35c4137004daf5.jpg",
+                    "name": "Matsui, Naoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akira-yuki-12696",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/511c4ff60b465b0554c5247880e06e8c.jpg",
+                    "name": "Yuki, Akira",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shinichiro-miki-96",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8556745f224ea14b9da8bd71b1294ce.jpg",
+                    "name": "Miki, Shinichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lau-chan-44263",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9855d2d7211ba34adcfd424ee46f4d48.jpg",
+                    "name": "Chan, Lau",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shigeru-chiba-715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a294d6d5231766f86a0210d54245fe3.jpg",
+                    "name": "Chiba, Shigeru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shun-di-85423",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/685ca4c98a0f5a4a4a17bfc3acbfd9ab.jpg",
+                    "name": "Di, Shun",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kouichi-kitamura-9346",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e5c2d10e16b0b0734a063565c762e115.jpg",
+                    "name": "Kitamura, Kouichi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "バーチャファイター",
+        "aired": "Oct 9, 1995 to Jun 27, 1996",
+        "premiered": "Fall 1995",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.1",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Martial Arts",
+            "Shounen"
+        ],
+        "studios": "Tokyo Movie Shinsha",
+        "producers": [
+            "Aniplex",
+            "TMS Entertainment",
+            "Yomiko Advertising",
+            "Sega",
+            "Half H.P Studio",
+            "TV Tokyo Music",
+            "Sony Music Entertainment",
+            "Tokyo Movie Shinsha",
+            "Media Blasters"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episodes 1",
+            "episodeId": "virtua-fighter-3203?ep=32506",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d99ee51b4d94b2fc77000b356f8a55284309cca5270d9b9a0a145c5a9d7d9b6937ff445deb45f9eb5447fda4f397980513c4dbd168e06e0e33ebc0b6735d6fc67cf325c0aad8304bd9bba3ca8299939a4a23a719ff336a5d7de2975aa00bda5ce39e10fef1d34ac9a1e7c856cb2121ad653d9546b3e9ea52d61ca4e518b44f1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47366de3e0cd85cd05a56de87d18bab5/47366de3e0cd85cd05a56de87d18bab5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d99ee51b4d94b2fc77000b356f8a55284309cca5270d9b9a0a145c5a9d7d9b6937ff445deb45f9eb5447fda4f397980524f92766987de5dd22015cba66f68614fae367613f1309492b944a519807e70d93732f1cefdbd95898fe0e39617f26fc8d0d165f144da32748b82f6eac28b491c1bd739b2d13f099a7405f3870f97113a4fac5e6ac17d8f963e8d3f53645105f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47366de3e0cd85cd05a56de87d18bab5/47366de3e0cd85cd05a56de87d18bab5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episodes 2",
+            "episodeId": "virtua-fighter-3203?ep=52313",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/50b3d43e9c2eda0489fa4c2090734f0e28219903f2aa7cd2394a9fd3bda901f19abae4d3648b32823830bd1dd092fede58a12f1bae9367e8ce877097f7cc56da13acd5a46a5ef81b464cecaad1e75644840444c0ac968fded8a509a316b9271db1e2bbe113a0e46522e5b55893eb2a3d5b659c1416333f2deb7bbddb4e5793ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b757c729e3a3b0454df55cc9002ac1e/5b757c729e3a3b0454df55cc9002ac1e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/50b3d43e9c2eda0489fa4c2090734f0e28219903f2aa7cd2394a9fd3bda901f19abae4d3648b32823830bd1dd092fede3c77cf7ed30840b7db36c5cf8c97d0a1c6c22e4cb0cebb516d1af36035b6aa923883e82afb333b3b3df544039a139cceaeabf464d765188c5c0e20bcc88ddd265717cdf0467cd7d8b74525f44b79420e9f57cb8e6954f2feea98937414641fa8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b757c729e3a3b0454df55cc9002ac1e/5b757c729e3a3b0454df55cc9002ac1e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "virtua-fighter-3203?ep=91830",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e12a777c761b97d9749098e37fcd2a766762d92294beb94a0b4c0a937a5f95ec154b3fc4ce10ecae8a5832a2af52671410c36541c93d589990a056409af7fa1f4ef0cbb6cd20b181875580cf4e55e5cec0de311ca01465f5911ad450242a60045020117121e9acb0a7652c2100331124c22d5f35a1c0014dd9194708c84e3b8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f25fd8753fb67c3c3ba673f93417387a/f25fd8753fb67c3c3ba673f93417387a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e12a777c761b97d9749098e37fcd2a766762d92294beb94a0b4c0a937a5f95ec154b3fc4ce10ecae8a5832a2af5267141a4a7c28ffa9e18a79d98f6e7dd4094d8fddff2e40423229576cd8385cf1647b9bc46768ff3f00cdb5e279182f4d4900e67ebb0b1b8b2d67841c843bebeca64b70b43c18bff185b1de102e9ae987a88f6596fe9a1f812c25efc5c801b32441c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f25fd8753fb67c3c3ba673f93417387a/f25fd8753fb67c3c3ba673f93417387a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "virtua-fighter-3203?ep=91831",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b9b61b39006153910e188994e9c1cc3ead34050682123dd51aef765aad26816caf5a37f9b6ebdbd6407ccec6ad2f3e0e496114d09f3e30a3d2c61c818463132a56f55068ae8afbaf28997614512c1eb953cb3ccb4229005d20186d8cda71bf585a00dd2714ea4e3e4c87629d299abb77b1e36d869fa2cd8d8301bc8460ea7a78/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9ccfd7264a2dc1490d90f06ff77969c/a9ccfd7264a2dc1490d90f06ff77969c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b9b61b39006153910e188994e9c1cc3ead34050682123dd51aef765aad26816caf5a37f9b6ebdbd6407ccec6ad2f3e0e4670a1947f676e66c7b4de98f771bb93e96d356e995f63878cd144b601dd740184a6c1a6e7c43bac61bed42f9f00195a7445c2bb7bdbe0637c3d375e85b1c5bd573ff47e59e0cdc6a516fb7414bc3d00c40c466ca6fc433c6bf626970ce0d090/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9ccfd7264a2dc1490d90f06ff77969c/a9ccfd7264a2dc1490d90f06ff77969c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "virtua-fighter-3203?ep=91832",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d130e84c509045359ce72bcaece443ed41edb3f3da9f19db2f22287813b4b487637302373c6f2d602a07d78b747d031003e50120cb5019ac876cba64e4be7be13524719827f63f10c8518adb186fc2a0ad6171bcc53ab64bf53756d80aadb841d95c662951523e7db6a801f9842cdd4cf48e7c54f378d0c39c8ae459541959e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8057e2b3e7341950f60451d3c708b4c/e8057e2b3e7341950f60451d3c708b4c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d130e84c509045359ce72bcaece443ed41edb3f3da9f19db2f22287813b4b487637302373c6f2d602a07d78b747d031067a8d6eb90e1de5a83335a7b402b89d60e07dc1ea96cbfa3af89726a8d0aadaf55b1ccb89a2ba1257a4ac2eff1e2dc2a34c663850170f2d76c7cb53cb59a3cb89218e8fe7987fed3975a41195aa09fe6b33c4bb4c02112d3a560ce71475aea7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8057e2b3e7341950f60451d3c708b4c/e8057e2b3e7341950f60451d3c708b4c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "virtua-fighter-3203?ep=91833",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/25d61e138eae4cb272feca3d1d2788c1a9d562d07724fb2fe9a9e6934ead2137623336652692c0ac5910ee6092c0b0d1a2aed311710fb337bee856866c37994582eaf088ec8acebd9f3d90943cd2261a1454286cc5f792bb559fa5cdac1b244155f10256d824cfd62caa4d805a20b57fc5c2b6291b1bb2b1790c03df0202bd48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4236576aa4a626c6c83fb9f5176c16aa/4236576aa4a626c6c83fb9f5176c16aa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/25d61e138eae4cb272feca3d1d2788c1a9d562d07724fb2fe9a9e6934ead2137623336652692c0ac5910ee6092c0b0d1b83c3a088b26179319fde0f977d02b169e8bf298bb7b2fbec951cc1621ca0fd4dcf4a0506bf96e777ba775a2d388d04996542d4b45a7da1f51c7d78bf92f67c3a9bfb0115e639f339705d21b59a630460430e55c0319d36918210581bc25cb86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4236576aa4a626c6c83fb9f5176c16aa/4236576aa4a626c6c83fb9f5176c16aa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "virtua-fighter-3203?ep=91834",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/cdc11165b5357c7b223835c3d60c363c19c67ac780573fccb65903d7637ae48742e5e3ae3ef16046ca4aa8e0d8deeb0c9e1a7669f8ab6582d60d2e26499aa39560a8c9e06d8b6bd89e884e28ca6317abc8d3dfdcfa0c49144d068c627ad9f4e4ff05cf126914970afed726f446edf7cddc85436c79cebb159b9f9f312507515e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21845f562b679e69c296546ed3d2045e/21845f562b679e69c296546ed3d2045e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cdc11165b5357c7b223835c3d60c363c19c67ac780573fccb65903d7637ae48742e5e3ae3ef16046ca4aa8e0d8deeb0c59381a4f69dad8d15725baf73d0a9ef3a53d65a45059f11190d41f0366b72b0b021ba80951d0f5f7469e85f553a75255b345eba95eaa3659cfe1d54eb53c19258607825dd0e9a3f74a5b4df72d90d4c6cca4c7ef9d65117410acc6f6ccb4d261/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21845f562b679e69c296546ed3d2045e/21845f562b679e69c296546ed3d2045e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "virtua-fighter-3203?ep=91835",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f290e61f265b12f64761b6e885d328de0c8b16de9a66fbd35c701f7cb30595e873e6dd149e139f280d417b7398f21c620e1a3b7c4bf7a4a157f9f4d31119e47766ccf4937df4a77c410b2fde7bc087e8ba5e87c8161bbe385fdfd79ead8c7d1bdbb68239a86502423448cf5d59cb17c6ab533fb3afdf956a08448d7432ad3b90/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea290df43abace9ad448918a203e5ad8/ea290df43abace9ad448918a203e5ad8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f290e61f265b12f64761b6e885d328de0c8b16de9a66fbd35c701f7cb30595e873e6dd149e139f280d417b7398f21c6212ca095ff67f57908b345eeea8c61cd440eed6c47d64dc97dcd8ce95a308cd64fa5b3900ea49460371606f7367a1e45aab44798403c063f573d2b1cd921c2ad64f78e879d42ca093304ed9d54d404754320ecb26bf618da0f08303e71db95226/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea290df43abace9ad448918a203e5ad8/ea290df43abace9ad448918a203e5ad8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "virtua-fighter-3203?ep=91836",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/30ae6845121f6a56e910df191a663a1511351477d6282ccaf3539c8e8cdfad914174ab3c73deb5646abff9d4ef17bc8b62c5e82662ed7c64657b456e75ce230d97a7e3315b05c808443c43bc486ede90f8ffafe951a49b8e6977e241b47191b2e977d5f3a729f469f3d0a266eb74c06cd417121de120c0b93e046fa27ed04d18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c7a1241c72db8dfa5fe6685ed612bb4/8c7a1241c72db8dfa5fe6685ed612bb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/30ae6845121f6a56e910df191a663a1511351477d6282ccaf3539c8e8cdfad914174ab3c73deb5646abff9d4ef17bc8b37a69de537c0a6988742735f903a7d05f25574c81c4b76540d4e0d40addc2d78d7eff7ec88bd133e47d4bd8596750ea4d379acf83b60a9437f993f227506bf9364d045433f767b13e7fa0f83ae1f46ecfc3a996ad959b135fe8765364063f472/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c7a1241c72db8dfa5fe6685ed612bb4/8c7a1241c72db8dfa5fe6685ed612bb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "virtua-fighter-3203?ep=91837",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e09212c60fd403f8b2676d5038e9084a678229fd876e5416c0343924577174830ab5e0275bf81aea062560ba7520d7b3e81bd377437c09b7558f252e68ac4ea7b3d459b84fc24acd682a25290bd3ec96990a38d1a97aa9f2babb37848bd217a185fd9922ef52dac6fc20bed17dce55228c5027d46f6c0c64cb2f1d8a5cc73325/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa46fd726c54445206c913de33db9ba1/aa46fd726c54445206c913de33db9ba1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e09212c60fd403f8b2676d5038e9084a678229fd876e5416c0343924577174830ab5e0275bf81aea062560ba7520d7b3c902ff3a26bd9cc9865a91073dc5585937de87b2db0e7f875983f235eeee21cfe71945f82937bdd086a0e1b2fc2ac740f7284302d872692674f92617a52709e253f4a2d629db258700b93b6c532fc7888da849ca1212b9707053e1dc3f3b7301/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa46fd726c54445206c913de33db9ba1/aa46fd726c54445206c913de33db9ba1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "virtua-fighter-3203?ep=91838",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7be0df73e8249f9a33da53137e9b2ec70c29e28c0dc35d0243f48c2064f27a91ac5434c0c3b356324de24758ad4355b515d36d3990913848d4854ae13517309d79e81e1f37f72e118eadb5e465c9c6a45971eaa61b9862e0476f8771c8417dd0fec271baf77f547ad683613961b90ae1396e94584a385f71856326c47aba1383/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35b3da2161c140859f8869ab0764e359/35b3da2161c140859f8869ab0764e359.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7be0df73e8249f9a33da53137e9b2ec70c29e28c0dc35d0243f48c2064f27a91ac5434c0c3b356324de24758ad4355b58f1e84ee93c4ee7d0fe284f5bda11c6a334ba04eb2670d2b9b1dcd8add46fe39c3fb9a18bd008193468710a76d18f1debff217591bcb964f04df78387888d7435eb892e7487beeb633a895bed7b7f161957ff6cd6a10d0ce48234cfa3461f367/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35b3da2161c140859f8869ab0764e359/35b3da2161c140859f8869ab0764e359.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "virtua-fighter-3203?ep=91839",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e9623b044b103cfecb213f66be162ead6b92e8e100c158f323e70fa97751ead2cbcca96e2a2f9a04e7a2805a4bcef43a2f8c73bbcbec9f72756912f3e479fb56084a099c0803e4fc8381498fd6f172ba752faec7f7e79fb6a9d5555df6d253f9f728de7a9946be752897d66fd05ad240004fbcdbf326b275008cfdac93f92275/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb9055d2256da4aae9de19ae66a6a555/fb9055d2256da4aae9de19ae66a6a555.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e9623b044b103cfecb213f66be162ead6b92e8e100c158f323e70fa97751ead2cbcca96e2a2f9a04e7a2805a4bcef43aeb2578eff1041dba5f23d86b2c7579c94ce1c3e1adf78073465fd1d74af43f6bc4df1a2e52a13d4cdc9748a9481adad7d22a7944244ba89609e81840ca3c4f3b0bf43a31660a6e0039d4197cbf66b723229478c80f89b6fe9eaa20a8fdfd94bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb9055d2256da4aae9de19ae66a6a555/fb9055d2256da4aae9de19ae66a6a555.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "virtua-fighter-3203?ep=91840",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/83d155103df3ca74489fa7837e2ba51a8354c2119f4ad0734df0236b6c967284452a28d1293432baf975fb9a1f9248dd9ea8cae1f6dfb74b5cee07fd457c8278bbbb0d1399078ad6348446e40814e7fa9f44acbc118492c5698ce723094c9b7863e0c89e14ede8cf974099cc2bf845f19594bcedeb66c17553c204b6c2d45bf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3875bf6118c4d0c2afd95263cbe2e3e5/3875bf6118c4d0c2afd95263cbe2e3e5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/83d155103df3ca74489fa7837e2ba51a8354c2119f4ad0734df0236b6c967284452a28d1293432baf975fb9a1f9248dd023d938298b2f24b4c9e229160de0c0551fb844e19e4fa45cf371410099e4526a96cb14ccbc3c680378b40903713234d80289a8b1713997d653edb89dadb5f6b8c31cd29c6a9f5e0c43519d5154c894613c12644775fe7b1bd7eab5686c2e8a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3875bf6118c4d0c2afd95263cbe2e3e5/3875bf6118c4d0c2afd95263cbe2e3e5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "virtua-fighter-3203?ep=91841",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9fca5aede0c6ae17c068c1b47375dbe43a8e359c464f4bfbbeda782be30a5edabc729819ae4c9e9a61403b3e60958264faa9968537528be5b0fd9cb96058bcbe5ec6af6dd0932a5f585040dfd61004d2e137ed39c320fcdde92ee13617954432c5b88ed375e65f4e7acfec922a9e45d3facf7489196b9efee2645e03bd8d6883/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95904dc14a7d54044a9bb2d70f1f05e4/95904dc14a7d54044a9bb2d70f1f05e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9fca5aede0c6ae17c068c1b47375dbe43a8e359c464f4bfbbeda782be30a5edabc729819ae4c9e9a61403b3e60958264e4de75c807c63bd817b8fec3c5b2fe2e0b2a933304216c4beca17d1032a72115cff4fd0c02ecba045ca01adda986774cb1fbf24caf94c243e1a2cc52371ac52354389ab44843efe8c452aef7b26fa9a80a4bf08d9530123f50a4b6bc3cd7d8b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/95904dc14a7d54044a9bb2d70f1f05e4/95904dc14a7d54044a9bb2d70f1f05e4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "virtua-fighter-3203?ep=91842",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6f0d0a070b596a5c8bcab0bd1e33c67c92a104f52ec44e259a87f990e55b7858e9703b319cbaf04052cb7548847d06327a32b731aafd8c0c03ae58e941760aa9f94736d916495097383aba90c6603c1b41d3dc48d0799604f5cb1b6c82eeb7ec47400b4709edf3599cfee70701c735275af2a5a1f47f3858157fc9df3af91626/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/685231136532f1ad818888f0e80853d0/685231136532f1ad818888f0e80853d0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6f0d0a070b596a5c8bcab0bd1e33c67c92a104f52ec44e259a87f990e55b7858e9703b319cbaf04052cb7548847d06323f8ff22235567792a9fdf7e14cc32a0800f41a70d2d88b23d48deb5c62891fe1838d273e3924edcfb78b0142c619b343997fa6f5eb26b3d40064fb86fce0ea8c70a42ffa716f5e6756955a399a3d341eea57b82970bcce1c90a2087af8f0bde2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/685231136532f1ad818888f0e80853d0/685231136532f1ad818888f0e80853d0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "virtua-fighter-3203?ep=91843",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b3a3aced41273f0125da37788604f2a174bb09182f50a9bdaa8c44052171c1531818c5694f33eb6d7b33153034ac923d4413e4d7119c7f58fa1949de5fc73c9b202c00d45289d16f0544570cd48c4c81e0e8926b7267036d1e852471fde9581d7a14a65737c8c2a0bd068ba7cfeb4ecc15b3ec489680a55fee5c485f2206dcb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab4853595f099b8a4714692ec7d795c9/ab4853595f099b8a4714692ec7d795c9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b3a3aced41273f0125da37788604f2a174bb09182f50a9bdaa8c44052171c1531818c5694f33eb6d7b33153034ac923df284fc85b7eeb42c255f99337df6c3f4291cda87f503901b5c8e955f68ab9dc7f1683425b49f8c52c0a32236e465e186284b539c7db07a2ae97e9438461f39f2a6a58143a546a4fd9aa03d2b994c1e88a8fe305d7c84f639ef461ea42631b0de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab4853595f099b8a4714692ec7d795c9/ab4853595f099b8a4714692ec7d795c9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "virtua-fighter-3203?ep=91844",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/70acac099d5907c39fce9f93df2bd62c4f8bfe1da1008dc00bbeafbf09a6abc01a82bc084b23394defedb5efa82d28f5691dcd0866cb80ae3e5b810ed1c421e04554f2ae9eb639c2f05955b8a2dc42f0b3308162ff23726e06c183800531f3627f9d208f96249299b6e2c13d7f04bb8324e62ba73e6b53cba61e2083879ed3a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6acef9239f202d9c8575657fcc81231e/6acef9239f202d9c8575657fcc81231e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/70acac099d5907c39fce9f93df2bd62c4f8bfe1da1008dc00bbeafbf09a6abc01a82bc084b23394defedb5efa82d28f59b53ab6562070ad421f0c410201f451b872b7282164d173bc576d587e001536a3a9a753d3d92c367f96e364e606e6be6c8bd1e0db5df83e2a4dd75a3f2838c8153c9ec2296ea3abf30f6b1b2dc67b60db82fbd3f529f6fc243ba6320b55e2945/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6acef9239f202d9c8575657fcc81231e/6acef9239f202d9c8575657fcc81231e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "virtua-fighter-3203?ep=91845",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/54492cfa593cbd1c2f572c91c0c37a507cb0ea4167c435d619f826a432e7dee12f3c78da237a416c5eac9fece142de9024f24ed556faf65041abe9ed94d0ec018b507635d07e3f45b6336aae6b182cf79bf2cc6d838ce46bee9264d67f2b6ad9a56e532f80c7ded4382c70038a2e9907269964f2f7268c059d465cea1c93c3fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6a74052f0ef38e66a74642492641bf1/c6a74052f0ef38e66a74642492641bf1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/54492cfa593cbd1c2f572c91c0c37a507cb0ea4167c435d619f826a432e7dee12f3c78da237a416c5eac9fece142de90e5aa253600cef441ca1e319c258fabc1325e7cbb124c77972c14768f954aeb6711cc33dddd99c18023d08d03276189eb8fa58c7ce40317f884a32ad1aeb93929802bc16244b658c0554f7740849814ee52aabd15e43188af48d2c6447af4e967/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6a74052f0ef38e66a74642492641bf1/c6a74052f0ef38e66a74642492641bf1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "virtua-fighter-3203?ep=91846",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e3c344047d31da9c5cc6936306196de4293ecdf85095731f58edae4324c1684dd40993925fccb61a46e4d1d7eba776d1655805b18df207daa7bfd718980d0e11d380a9d05f88615c8fde2a0b7d49b2d2fc0b56b9c7d5b9d64a0a9544a9024805556522673381b062b2c3202bfa9bbb7998947f69c8fcbc8a7af0bf31a09f0bf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1acc50fa1492b34632fb33ab1f05489/f1acc50fa1492b34632fb33ab1f05489.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e3c344047d31da9c5cc6936306196de4293ecdf85095731f58edae4324c1684dd40993925fccb61a46e4d1d7eba776d1b60c04f8aba55cb3b09cb92ec5788398e82365e78ea431e4985ac043f0937a633d51ba2e5b442e1dd4112ec753848db4408010b8d712fc89db30c5e1b876d6df6c0b96c9f302a0c8361e2a21eb194f07d06f7945a41fee5aa03f6605529e4990/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1acc50fa1492b34632fb33ab1f05489/f1acc50fa1492b34632fb33ab1f05489.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "virtua-fighter-3203?ep=91847",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b4a535eb1d6664a3c46496fb97a9e192b9dc1a0a776e60de880b289f5dfe9a8f0c2bd2a023922a38117e8623a5821b2f31f44bba80faa70a5a5d027de6b81c92cc5a71b0b7dea55fde3d1994e927358e63de6a6a622a3f9067966d0390286293b269a8928ca6dfd21ddfb0b61e42b3b6c9bac4ecdae239ed8f342979f534e837/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67ebdc238fb1c3e59613787b18a1e32d/67ebdc238fb1c3e59613787b18a1e32d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b4a535eb1d6664a3c46496fb97a9e192b9dc1a0a776e60de880b289f5dfe9a8f0c2bd2a023922a38117e8623a5821b2fc94c84b56d6ec351d015f1a1726abe5f075d0a39561fd5f821f577f90e2ca9541747e403a19da5970d30e24fe0a4c3b49a27b28840ee99d1ac7c8db373a93af8575dd9a8abb94f03b326505e01811b432c1df5cf21d597c4011f73c80dd8301f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67ebdc238fb1c3e59613787b18a1e32d/67ebdc238fb1c3e59613787b18a1e32d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "virtua-fighter-3203?ep=91848",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bbf5156056223a781e8fbed6d6e9940a84af8cff714fe98acf79c8cb1aa5a1dd177caec338b672755ca096451a8317ea08fd9c8e0dcb5133534a72481d45cbcea29468e94d7e56dd399e23a886a8d6d749231b23250080e8a3e7edb8c9a625063dc7a2e37972b8cfa6d92c12a6472aebe1130b7c0451019c6ac2392b78de1487/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78d1af5ab50f00caa6f943b19e587a43/78d1af5ab50f00caa6f943b19e587a43.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bbf5156056223a781e8fbed6d6e9940a84af8cff714fe98acf79c8cb1aa5a1dd177caec338b672755ca096451a8317ea8d3f445c5fe83a23b3b6eb8e48668a3246ba7f27d86bd7c702e4fe2eb1cd326943ca3ef77145c760bfe40637b633e4de5deb790bf9afa8f2482d5c32fd99db1b12fdfe8fcea4a3c9844ea91019cc9be8de3a1dcececc912194f6e717f1816603/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78d1af5ab50f00caa6f943b19e587a43/78d1af5ab50f00caa6f943b19e587a43.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "virtua-fighter-3203?ep=91849",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/864d1074ea99d44736e1215b6d292fef0af41420bcdcf7acc7396751416d364396fc4d4d768471ce16b372882b525d67cdaaff722d64130588552fe34878b8ead0aa9284a660b755e3b912b52b28f01cff2f1eb938218f33ec45c6335a441b39c04014b601d61f45d0df50d6f4bbd1ad4f6d3703a92ddec9f782fcc2c80b6321/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b22d4c05d1136777d9857e033f83c40/7b22d4c05d1136777d9857e033f83c40.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/864d1074ea99d44736e1215b6d292fef0af41420bcdcf7acc7396751416d364396fc4d4d768471ce16b372882b525d67384fe233c0fe6afaa1d0894a305771495807afc7f3cb2f1392f6518f15ac983a81b4eb3eb1f0737f4c8a92c9bef5b811666dd37a5f3b8cea9b5a2c6954e1becf6cfe04a222fee0d2baad8713ad656b2ed5ac9280385c07850e9961cb0abb9fc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7b22d4c05d1136777d9857e033f83c40/7b22d4c05d1136777d9857e033f83c40.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "virtua-fighter-3203?ep=91850",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3d2bca7de396746609c2ee07adc123be802a65528e7a5df244db0c51812619bc27b86fc6e040fa18ab2a91c02974e75a86bd4ec64397e8d76fc6307f8db27e495e40e01e1b0ffc3ffe1f43a2c3c66eac7405b003c78c227e7801a6ce9acbc9cacd3e364855b9433c41fde7eb5d50b9c521895d5e11a819caec79d758b228b3f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d4b383b1c1fdac4724670bf24b5f565/7d4b383b1c1fdac4724670bf24b5f565.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3d2bca7de396746609c2ee07adc123be802a65528e7a5df244db0c51812619bc27b86fc6e040fa18ab2a91c02974e75a54ee7ee6c351af93191525a34f0231e74dc06d7e3e875aa66e802936612f50cdc3b7a38046441b3891407a3e2bbf8a024a1466508b9d97f6f2597aaad48a19c739e829ed4f286022dab2b2d6281862e9d383820d373ad862fc2671d362f22499/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d4b383b1c1fdac4724670bf24b5f565/7d4b383b1c1fdac4724670bf24b5f565.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "virtua-fighter-3203?ep=91851",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fb4daf745497180ce46478eda53f671d3f5f315e953506026e6453c8ec74a3d4c43d5f2a442b23e6ec45f8d233974c956017f1f8476d8302480c794f242ce4566da15d28168d2babed416c9ad5529eff553062e502f12b936d5c27b5261622dc57d72643ba868bb110822955aee51e196a4d36b3da454e707b94ad368edfce85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f0fb34885f1c3c41b4672cbcd2f78a/a3f0fb34885f1c3c41b4672cbcd2f78a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fb4daf745497180ce46478eda53f671d3f5f315e953506026e6453c8ec74a3d4c43d5f2a442b23e6ec45f8d233974c9586d80d7157ba4cb09e4185347a5a6e42887e77e7bbf961467c245b3280b3b93cca06a29d071aa0977fa4a02e538dee5c3d0d6cd81b7d5491cd6e95b2721175dfe054888e7ccb57c854d2d3e6e8d73dd9f4a3588c313a56140e4fbc22d584f8d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3f0fb34885f1c3c41b4672cbcd2f78a/a3f0fb34885f1c3c41b4672cbcd2f78a.vtt"
+                }
+            ]
+        }
+    ]
+}

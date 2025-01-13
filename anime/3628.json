@@ -1,0 +1,100 @@
+{
+    "info": {
+        "id": "tekkaman-blade-twin-blood-3628",
+        "anilistId": 0,
+        "malId": 2300,
+        "name": "Tekkaman Blade: Twin Blood",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d03b0de793efcc5d62cb3ee8a626a885.jpg",
+        "description": "Twin Blood is an alternate version of Blade and Evil's first battle, with drastically different character and mecha designs from the rest of the series. Blade/D-Boy does not need Pegas to transform and the armor more closely resembles the Radam humanoids from Tekkaman Blade II.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "10m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shinya-aiba-14173",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/935700015f6eaf93357aab397563ffcf.jpg",
+                    "name": "Aiba, Shinya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "takaya-aiba-7152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/237ed3d83e3f2c7e081f4792be13a2e2.jpg",
+                    "name": "Aiba, Takaya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "aki-kisaragi-17105",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05ea2215768f81bbba0bb9fff2424104.jpg",
+                    "name": "Kisaragi, Aki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "宇宙の騎士テッカマンブレード",
+        "synonyms": "Uchuu no Kishi Tekkaman Blade - S1 Twin Blood",
+        "aired": "Nov 17, 1994",
+        "premiered": "",
+        "duration": "10m",
+        "status": "Finished Airing",
+        "malscore": "6.99",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi",
+            "Shounen"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "OVA",
+            "episodeId": "tekkaman-blade-twin-blood-3628?ep=76781",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2f61f7c11e05e0d41a91bf770973f43ec0e2139ac5cf4cb36e6e2c2735580a640318fd61dc569bc875611f49aecc089e3f5886961a187af2af591c64ead8527e3e62f985527a350e9ba3c6a89f9609f88e6427af6de018a864e7cafef374c8e1e82b8f5d6ec5d52a32e486fb7881ef56586260fc67e0aec6386eae0e12e7df6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbe807660c351ca351a7a53bb137c024/cbe807660c351ca351a7a53bb137c024.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2f61f7c11e05e0d41a91bf770973f43ec0e2139ac5cf4cb36e6e2c2735580a640318fd61dc569bc875611f49aecc089e4be6272c441e6842c8163f7ae07fbc71e5215b5e87255440019f3ca662df82ab2adddadfa444c9ddb4f945d8c8d700022576b6b3f7e0de732d8ba09b6f66b651be98073c1b3e6fbe857d4f158b04cf869b6b4f30b4c006f3ae14b9d874525215/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbe807660c351ca351a7a53bb137c024/cbe807660c351ca351a7a53bb137c024.vtt"
+                }
+            ]
+        }
+    ]
+}

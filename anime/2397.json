@@ -1,0 +1,64 @@
+{
+    "info": {
+        "id": "mitaiken-horizon-2397",
+        "anilistId": 0,
+        "malId": 40245,
+        "name": "Mitaiken Horizon",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec5f0c3f3246feaaa8e70b79762c6b9e.jpg",
+        "description": "Music video included with the fourth single for the Love Live! Sunshine!! anime idol group Aqours.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Music",
+            "duration": "8m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/TJ20hjGgVag",
+                "thumbnail": "https://i.ytimg.com/vi/TJ20hjGgVag/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": []
+    },
+    "moreInfo": {
+        "japanese": "未体験 HORIZON",
+        "aired": "Sep 25, 2019",
+        "premiered": "Summer 2019",
+        "duration": "8m",
+        "status": "Finished Airing",
+        "malscore": "7.28",
+        "genres": [
+            "Music"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Lantis",
+            "Sunrise"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "mitaiken-horizon-2397?ep=101527",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dff4fbca8ef27ee7957f87e1afdaa04acf441ccfa36b986b30d1ac0065e643c51bbc82316c694526f9f8dd097d7844e57c7e7f202c02f07a6421ae496b528214e7b5a6e74f73edfd1bcb2edd36be03c7dec1f6da51c90bd825bf1feb152589a49754dac21f6924f097b6bb1b07252cdeee156dca9e1a473153077ec827972c98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44d8788878489305ed344ddf29271912/44d8788878489305ed344ddf29271912.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dff4fbca8ef27ee7957f87e1afdaa04acf441ccfa36b986b30d1ac0065e643c51bbc82316c694526f9f8dd097d7844e5a541dfdb67698ecccf5ff18139e3b1d7eba7b5154d59abef39d64f20dfe5606cf1f6b195f28be8e6f21224552f0185e361e558ca247ccf4a716eaf5a694521efa0a14f40400d53c1eec42ee213c967aec8b39f70c04792f0ed111b8e41df3e9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44d8788878489305ed344ddf29271912/44d8788878489305ed344ddf29271912.vtt"
+                }
+            ]
+        }
+    ]
+}

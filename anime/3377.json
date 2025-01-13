@@ -1,0 +1,382 @@
+{
+    "info": {
+        "id": "gleipnir-3377",
+        "anilistId": 108241,
+        "malId": 39463,
+        "name": "Gleipnir",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af53ff68b87e37e2faa4f73043cac3b1.jpg",
+        "description": "Shuuichi Kagaya is what one would consider an average high school student, but sometimes, he turns into a monster. He doesn't know how or why he got his abilities, only that he would prefer no one knows about them. One night, he finds a building ablaze with a girl trapped inside. Deciding to save her, he transforms and carries her to safety, but accidentally drops his phone.\n\nThe next day, the girl he saved—Claire Aoki—finds him and confronts him about his monster identity. She even goes so far as to push him off the school roof to prove her theory after Shuuichi denies her allegations. Desperate to save himself, he transforms, and Claire snaps a picture in order to blackmail him into telling her everything he knows about monsters, which, ironically, isn't much.\n\nAs it turns out, Claire has a secret of her own: she has been searching for her sister, who also became a monster. She enlists Shuuichi's help to track her down, but they aren't the only ones searching for answers.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser PV",
+                "source": "https://www.youtube.com/embed/Lt8zDDCXHlo",
+                "thumbnail": "https://i.ytimg.com/vi/Lt8zDDCXHlo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/I_TDPwt7iEU",
+                "thumbnail": "https://i.ytimg.com/vi/I_TDPwt7iEU/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/tdrYtiEPr7w",
+                "thumbnail": "https://i.ytimg.com/vi/tdrYtiEPr7w/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "clair-aoki-2651",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3c9df5a0a4d2dab6336ac033bb8d8be6.jpg",
+                    "name": "Aoki, Clair",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-touyama-41",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1aaa7817d97535166c8338bd9254b67.jpg",
+                    "name": "Touyama, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shuuichi-kagaya-1540",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81cec915eb76f3fb34b8503dd5290c1f.jpg",
+                    "name": "Kagaya, Shuuichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "abukawa-42547",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c744ca1b9cf3c3020f9b29c4231f054.jpg",
+                    "name": "Abukawa",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshiaki-hasegawa-4752",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e37fc6a9b1f7581dc3e641fadd63d7f6.jpg",
+                    "name": "Hasegawa, Yoshiaki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alien-15693",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fae48de2a734713cd99d4a31f28cbabb.jpg",
+                    "name": "Alien",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "erena-aoki-6812",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e0efab8a9bd2d4da631eb32b6d9f3f1.jpg",
+                    "name": "Aoki, Erena",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hikawa-21227",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5cad1dec9c17b6ca0e6d867b61ac60f0.jpg",
+                    "name": "Hikawa",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shizuka-ishigami-459",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/546ced833732cffa7e3350e28229a8c4.jpg",
+                    "name": "Ishigami, Shizuka",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "グレイプニル",
+        "aired": "Apr 5, 2020 to Jun 28, 2020",
+        "premiered": "Spring 2020",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.06",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Ecchi",
+            "Supernatural",
+            "Seinen"
+        ],
+        "studios": "Pine Jam",
+        "producers": [
+            "Kodansha",
+            "bilibili",
+            "Good Smile Film",
+            "Pine Jam",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Something Inside of Me",
+            "episodeId": "gleipnir-3377?ep=33384",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/335309ec99b204976e38196cbc230a2fda91c13f8f30511dbe72722fd6e411a1e59964266f69ab0a7207d9a00f987be4b7fc94a217912b0fa1fd71488ff097b04737a6d73b9c623cfeaf95ff5c668a67127463eaf665f4bc2258deca34556c0fd9c04d1aab9374702fb6c447b2c0f9c4653dfe9f9b59e14469777aecfe825cdc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84c86d29935d0def6311fd7afa81dc1d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/335309ec99b204976e38196cbc230a2fda91c13f8f30511dbe72722fd6e411a1e59964266f69ab0a7207d9a00f987be4abde51e90ca1611ab31b2d5e4759450a22491917d20b105d516da0f0785d34034117cefbbc7412cb6f9cb60921d13319f4fb2d2c112b24add4bd1d8542cda041e6149b38b1ae5ed45e8f75b90907b483de15a151caab1570a9313115b52cc22f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84c86d29935d0def6311fd7afa81dc1d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What It Means to Be Empty",
+            "episodeId": "gleipnir-3377?ep=33385",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b1dc4eea7593b8377ad6d782d17a62b080a2576743a12f80e7b9b7b0c5a88e136adc8cb7ff3312252b5a708990e9426fdc42f6df2336b3f69d5c6b9f63ac3bfdd825712e5c874a8fc04db329b64fba14c270889a13f1d1a156b52e8320a558cece4d9bc2873413c0d2b7a57b2348a6c53db4285dcdd91da530380a17a90b7dad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fa5e835458fe20618a25fcdd252c036/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b1dc4eea7593b8377ad6d782d17a62b080a2576743a12f80e7b9b7b0c5a88e136adc8cb7ff3312252b5a708990e9426f6549d1fe17f1580dd79d7b20ba986fd451b6b35c701ef110f0afc7ead10db38a0baf8f4250ed6eb8373a64d8f4109d1fb3277a7acfb66a286754b03700c4245454c07210d3f3501843fe6c94fd4d6b2d1f910402f9b771ab0af07d743204e8f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fa5e835458fe20618a25fcdd252c036/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Elena",
+            "episodeId": "gleipnir-3377?ep=33386",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/761bb4bd78ce3560874167eefdec144b51c168961ea1174f40999d1d86059cca33eefac391f62ebdad0c43a1f933845f81609263a23d1096add8ff1b5fc931f4f817b08d4eab3277a07f1a5c68f25fb05be377744a32054183890c4fc63ce9f69688db07073c46083cc683846b9650d9305a1d8670627c06eb211e88ba6a4340/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a87d23fda39a3f45ba7c055f1c56fc37/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/761bb4bd78ce3560874167eefdec144b51c168961ea1174f40999d1d86059cca33eefac391f62ebdad0c43a1f933845f4862b94be60170f88dba70d7b5f104cee623c4c2d24636cad0d194ecd05bcafae9a7e5f5f42671eea8e943d7ff00690f5eba59c32a1c4901a0ca1f3b0ecf1a6391fc15117717a9c99e4e5b481542428d43aeadac3c2b05139dc632ea80ff9969/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a87d23fda39a3f45ba7c055f1c56fc37/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Wish I was Someone Else",
+            "episodeId": "gleipnir-3377?ep=33387",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f68cfe8c3b6d31f2637c050b559fdef2e3d688d77594d13cfcbb043118137211ac8cf547bba362093bbc6d8712af4a27468b94b82dca1fb1afa6b268120add6806443ab5224dbf2c18496118643a91dfdfb225f9d1bb6b6670a444ab74801b6709eb3d52226bd3e715803b2a63bfc177645f0810516396692d72ca0bab5ee7d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f840b8766dc07c6684fde508c612814/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f68cfe8c3b6d31f2637c050b559fdef2e3d688d77594d13cfcbb043118137211ac8cf547bba362093bbc6d8712af4a27e1484f267325f8252edf79148b4e45b26c849c3f53fd5c4a0bd7621f61c35cb8f570d4ae8b71faea69765c8756ea98e0d9f7c3cd8a6cd4513f6440f9e436a2e749dd9dfd66ad2b4ba31d4076b1e204978d22b69c81f27528f1030a979dd19cc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f840b8766dc07c6684fde508c612814/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crazy Enemies",
+            "episodeId": "gleipnir-3377?ep=53130",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2afca70259317c4feef9e1d8826d296e69099b0504e383dcc86963b2e7358e62f0fada5a3a227b3388338ae59e7ab5f415b7fb64925f38bdbe93c414ec164c85b605b6d5a9dfb5bd80cd5b90442d5634682ef78e8868e0da7ca24bdfde7ff8e392294957ad1a98a3a16a9fefeb3cf126a7700e67d8902469c0849008f9ecd4d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e74f69a83ff1b5cadc811935a9fb3eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2afca70259317c4feef9e1d8826d296e69099b0504e383dcc86963b2e7358e62f0fada5a3a227b3388338ae59e7ab5f40c240e0c05c3686466ecb4ef9b9b2aa611b46825321c842f32d57a4443750d4bcf18b9f312792d93628f330a1fe5fb844ad8ace31e5ca07773c43556e50df8d048ea541867d73ecdff53209c70d3cda7ebddf1585b720d0a99f8ec27d476c9b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e74f69a83ff1b5cadc811935a9fb3eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gatherers",
+            "episodeId": "gleipnir-3377?ep=53131",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/64bef364b0abef82409ea67d7a3e94c004c05435a04c25c2cf39441686ac688199d0c537c7f3f36fca1bff473847e18bc2509f28a79887fd56ad7d1a04162aa9ba942875de47f6bfadb84356f38916ba82e46cb4d58b001decdd7ea3e3943c87b75fab828bbaa01044d6cfb011ae535eec8eee26fc06e017ef8f9c760cd1791e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bf6eddd2d58c9de65ac4f9773b75dec/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/64bef364b0abef82409ea67d7a3e94c004c05435a04c25c2cf39441686ac688199d0c537c7f3f36fca1bff473847e18b407f00a49c88868d08a6eef2157ea3b6ee42adb5083c9c6064d23add853bc467d676d7f493b1460167fa96083b2ae82d472629ecf96ed0b67c34a9b751b1b4a9e0ce687110c9383fe317fd25fb3954cc4930e428e6591b3f43c7a7f5b0a14f66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bf6eddd2d58c9de65ac4f9773b75dec/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Metamorphosis",
+            "episodeId": "gleipnir-3377?ep=53132",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7f1cbc774f21a1fa437d039f9f9f4030a2dd2a867d0d7e9944056036c6f99dacea532862bb87ef1f6fc4212699b3953c3c04750e7ced9f9e1b3bad30ab7e6c586f7535ec084bba473c800725d2be03a571955e801ea1b58beb457a447ff14963c15fd03178d83a42eeb09bab7ede441d34e7c2749da4a1a748a3b0b757ac97e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fb09c74cf96662aec08c7467cba6aca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7f1cbc774f21a1fa437d039f9f9f4030a2dd2a867d0d7e9944056036c6f99dacea532862bb87ef1f6fc4212699b3953cf01d17c9115815b1f088d5b21caf34281f541a470172e467da4e362e3fd881db47f141bd486ec282ad3ac8c61d43fd38b5647847c4333a5ae88f848835c48877de4df7bdc9cb6897edf86aa5d2d9ca1adacc5ff1482e6121f41a4a7d3b555da9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fb09c74cf96662aec08c7467cba6aca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shadows in Memory",
+            "episodeId": "gleipnir-3377?ep=53133",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/26b86d211418e3a7ea9c92e46ac05c7ebc87762e0a82b979fe37d9c37da55a76a02342072267da29a768a428d98a98d3e93e818a62d42243598253b66f5fe55f1e62b78131a2f18356152ba2868ad5fc6a8ecf2e1bba334f2eb292c297379622d0134afae58206cb8869dbc3f5546bb305ad3d47401badb298b904e0776312b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40f3c318f0958305a6950e1aad4bdaee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/26b86d211418e3a7ea9c92e46ac05c7ebc87762e0a82b979fe37d9c37da55a76a02342072267da29a768a428d98a98d37464f52c1c4b934f5dd101d81ec29126693c4cd407e5662333c2198287c691555cfafe68ed419c631905818059df4e38f7c2ba2302b34cd639a92ed9b56c79b1351032d953dec5a45c0c41348c75925c34e8fb62d2063f539db876de37e5ab52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40f3c318f0958305a6950e1aad4bdaee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Staked Claims",
+            "episodeId": "gleipnir-3377?ep=53134",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/768c61755b51d6d139b0159954ce25d754c6b3a77490a3c5cc1f9793a50262e1f38001ebdd11e1f7411fb7a0d75364f239246136ac889daad808a86d08406559470fa0b58d43d4d1d25e9e0e4bea5f47f0ba269826812d0c501da41efeb70f60a4acadc50d13b4c9c9a6efc5286d530e6d471206f8efa6fe1a9d4ca82cf9ccb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e971a4f161d0397df8f289f92022d2b8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/768c61755b51d6d139b0159954ce25d754c6b3a77490a3c5cc1f9793a50262e1f38001ebdd11e1f7411fb7a0d75364f2ac934ef72c78e88632932d8dfec7977039353f33da508d7a8ddba4f0e67a5033145d3b5c459b4fd3be3e1ad6bc7eb7f95fc3dbbdc78d51b64b4425edbcbe99e27d7fd4121e47e1f2c856bd3ece906029ef4fd1dbeeca20b9a0698214cc768a26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e971a4f161d0397df8f289f92022d2b8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Beautiful Flower",
+            "episodeId": "gleipnir-3377?ep=51544",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/98b02488f1337a3a086fefb5e6632889e1c47f66f18359b483092f9fad9fa1a8c6b1e5a324b1fba3d9242fd03dd9d3e017fd7c9a1526b80dbf54b05ac6cb60dcef516f5d798536a91771be81f9289a5af437475982db4398394626ff05a6a3bd2413264bfdf36a6bdf4b68530d47cf3198adf9ba597b9b9885c9e26fbb3c1576/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe45598093fccc8c8b854d926f5f9a66/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/98b02488f1337a3a086fefb5e6632889e1c47f66f18359b483092f9fad9fa1a8c6b1e5a324b1fba3d9242fd03dd9d3e0c13d0c953ab8876d924cb8e5f8d5e1074a716184c7c9f65ed04daa0fedb34d4c0f8bdc0ee4108bbaa507efb764da8d82e906b2467b8809fc8ea5058ddb08650fbb20b42c396c1719069b45e05aa4288925c5b17725ed002a307ebb53bf780df5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe45598093fccc8c8b854d926f5f9a66/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Price of Resolve",
+            "episodeId": "gleipnir-3377?ep=53135",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/63b0882641e9e1e8daf31a84823bcb1cddaf190a1f0ec99d23a8baf90d4e66a80b3ea70ef82445292802cb4d1bce9788906788cc9a6ebca9d989544c87b878d9156f637fc2177d025dbcf495fec185d3e614d17e5114aaf3abbb04448412d8b6a305129bcf40af4ec17871e8ecbdd7429c44745b7bd352492cfed40573d4db37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a3d1f094c73246e3dd6bbe0483046c3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/63b0882641e9e1e8daf31a84823bcb1cddaf190a1f0ec99d23a8baf90d4e66a80b3ea70ef82445292802cb4d1bce9788c2f0783dd7fab1953193f3efa769e77eb1edabfdabbd04ccdbe802342271f74150e7999a2a04b369427a7a604110b519f7437fb0f9a278e94552c666cb374c9d054adf6acc4e1b67dfcd9a68796416d1d873a6feb354707196e58d8e0fe61bdf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a3d1f094c73246e3dd6bbe0483046c3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Where the Promise was Made",
+            "episodeId": "gleipnir-3377?ep=53136",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d46de77b828630385cc8dd3a264a4b1fc9bd9c0610a3872f8a0f391f99a978e4f5a7a7660501f7f353aba988b92e82dc052b7af0d13aab6998540f6eb432e525414866108786ae9f418c663be2be84b66a8822fca1577454e4d1ff2edca8c779b3114acb2d4ac81cc3283500cdfe46944e8f59dbed5ff5c1cd495c82c61c530c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9718f744c1e6b2e3ccae58ce63255003/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d46de77b828630385cc8dd3a264a4b1fc9bd9c0610a3872f8a0f391f99a978e4f5a7a7660501f7f353aba988b92e82dc36cc64eb3e26a3b3a7add87a4f536f51578191f6f1bb3c1f119d23ba7fb2a5842fadbda0d187ee10602ed182d11045ef2efb67b535bf79dda88f82288a98a06f968c1d756e4e1ecc418f226421d79388d0524d25326417637dc5405daf3379cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9718f744c1e6b2e3ccae58ce63255003/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We Two Are One",
+            "episodeId": "gleipnir-3377?ep=53137",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/de68959fe98cb4cbaae08d0a29b2b8f0bf4428f192bf20606b2a08aa9362b033dc131553f69887dec4dbb15b8a7e4db59880f1a534d71309c888f7762b7670a50c3516aa10c8537d3f6ac5dbc3ed08da7bb3f2f9102f88cd1fb7bf2adde76964fb22491593defe4236fd4436d34bd14b591a42e50de80bb099bb38c1e99b984a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b25080bd04c0e18fc6d14e0756c555e2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/de68959fe98cb4cbaae08d0a29b2b8f0bf4428f192bf20606b2a08aa9362b033dc131553f69887dec4dbb15b8a7e4db53c7075fde8f277776af3b90db364c33cf2460e526320ea6e2794c0d4f37e4371c443653959c6f77b90ee27a82365924bb036ea067a509c97330465fb9fbaf4e81055cf458f1d2c8447a7577540cb739451ba968028c194e8fe6f24974218051b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b25080bd04c0e18fc6d14e0756c555e2/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}
