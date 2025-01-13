@@ -1,0 +1,119 @@
+{
+    "info": {
+        "id": "cross-road-1825",
+        "anilistId": 0,
+        "malId": 22839,
+        "name": "Cross Road",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d838118ad79f8a107f713a89c612f55f.jpg",
+        "description": "As college entrance examinations draw near, two students living completely different lives decide to enroll in Z-Kai, a correspondence education service. Balancing their studies with their daily lives, the two diligently work towards their goal, unaware of how much they share in common. Will their hard work pay off and bring about the success they desire?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "Special",
+            "duration": "2m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Special",
+                "source": "https://www.youtube.com/embed/AfbNS_GKhPw",
+                "thumbnail": "https://i.ytimg.com/vi/AfbNS_GKhPw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-second version",
+                "source": "https://www.youtube.com/embed/LuZrMBdsnsY",
+                "thumbnail": "https://i.ytimg.com/vi/LuZrMBdsnsY/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15-second version",
+                "source": "https://www.youtube.com/embed/2ImiNUroz44",
+                "thumbnail": "https://i.ytimg.com/vi/2ImiNUroz44/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "miho-19325",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/755c77a6c61a78912ba9b8ec1f7cde77.jpg",
+                    "name": "Miho",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shouta-30363",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fc77b1d71032d77eeed337de4f81a6d0.jpg",
+                    "name": "Shouta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kensho-ono-100",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9a4de954ab9aba29a5cc8ce71516533.jpg",
+                    "name": "Ono, Kensho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "z-kai-teacher-36713",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2f5ca62f2ac97cdc7e1f3a7243f18aac.jpg",
+                    "name": "Z-Kai Teacher",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "masahiko-tanaka-2942",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ce29db9443e08340f5e7379a580a2753.jpg",
+                    "name": "Tanaka, Masahiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "クロスロード",
+        "synonyms": "Crossroad",
+        "aired": "Feb 25, 2014",
+        "premiered": "",
+        "duration": "2m",
+        "status": "Finished Airing",
+        "malscore": "7.42",
+        "genres": [
+            "School",
+            "Slice of Life"
+        ],
+        "studios": "CoMix Wave Films",
+        "producers": [
+            "The Answer Studio",
+            "CoMix Wave Films"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "cross-road-1825?ep=85232",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ee345f6ec070b2a62aec2d947fabaac2849d1aba82cd43c0fa5ede380e066b62866010160023bb70850615b53b164447751850fa4b29be57b9268e58fe1d665dc260524fa4583255fc475f7be61343d1837fa02f5690719b0b378a8c9343efee7e34196d4b796a529db2961669ebad29fc7c1cfca2a8d6da366fa62c7cbefc49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ba92c306f190694d31c8ff00834f2ad/2ba92c306f190694d31c8ff00834f2ad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ee345f6ec070b2a62aec2d947fabaac2849d1aba82cd43c0fa5ede380e066b62866010160023bb70850615b53b164447a68b152be2f2b2a196bbd378133d7b6d0373cf15c45359a8a87b3870bda9403e3d135697cb123b86fff7d2b4d85b987623f5ac3beb0f38406dd10bc3738aff3fb38901db74a5cb89f03a6a31bc6d420e0e9577e226064b879c50c1c98e917f36/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ba92c306f190694d31c8ff00834f2ad/2ba92c306f190694d31c8ff00834f2ad.vtt"
+                }
+            ]
+        }
+    ]
+}

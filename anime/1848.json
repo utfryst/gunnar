@@ -1,0 +1,578 @@
+{
+    "info": {
+        "id": "scrapped-princess-1848",
+        "anilistId": 167,
+        "malId": 167,
+        "name": "Scrapped Princess",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d15ccbf11180c4c6882c6c5c979a7c0.jpg",
+        "description": "Born to the royal family, Pacifica Casull has earned the nickname \"Scrapped Princess\" after an apocalyptic prophecy foretells her destroying the world on her 16th birthday. Rescued from certain death by a kindly family, she takes shelter with her adoptive older brother and sister, Shannon and Raquel Casull. When news of her survival reaches the ears of the God Mauser's worshippers, they issue her death at all costs, forcing Pacifica to flee for her life.\n\nPlagued by threats from the church, the nobility and even the common people, the three siblings attempt to outrun the fate Pacifica is destined to bring, all the while questioning if one girl's life is worth the world's demise. The true nature of the Scrapped Princess, along with the harrowing revelations of the world itself, becomes more and more apparent as the princess' 16th birthday fast approaches.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/B0NwbDAZz5Q",
+                "thumbnail": "https://i.ytimg.com/vi/B0NwbDAZz5Q/hqdefault.jpg"
+            },
+            {
+                "title": "CM Blu-ray version",
+                "source": "https://www.youtube.com/embed/-ZT2CwDT-zY",
+                "thumbnail": "https://i.ytimg.com/vi/-ZT2CwDT-zY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "raquel-casull-8449",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/970c61ad4db866337156b2748c20efee.jpg",
+                    "name": "Casull, Raquel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sayaka-ohara-114",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43fb3ae698fd8ba8a6d55ebd22a0e096.jpg",
+                    "name": "Ohara, Sayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shannon-casull-4358",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/18aa45a34b8769883759dd9192fc7606.jpg",
+                    "name": "Casull, Shannon",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "crispin-freeman-89",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/54e0bec1e96812747791cc31811086b2.jpg",
+                    "name": "Freeman, Crispin",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "pacifica-casull-6336",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f529fea0752aa9d6470d286edb3975e9.jpg",
+                    "name": "Casull, Pacifica",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "fumiko-orikasa-240",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1b39cecac882da18d881983afe252d6d.jpg",
+                    "name": "Orikasa, Fumiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "christopher-armalite-16121",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/33937aa8b0a2d37b9af1c0975a90dc00.jpg",
+                    "name": "Armalite, Christopher",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takahiro-mizushima-874",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/db2f7e092e6b561291a18da342948ef1.jpg",
+                    "name": "Mizushima, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "doyle-barrett-92198",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2073136202af70a8b12556fdbb5629ae.jpg",
+                    "name": "Barrett, Doyle",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kirk-thornton-1081",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9954dfae31f1948998dee96d3b2e826.jpg",
+                    "name": "Thornton, Kirk",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "berkens-42218",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ae82142f2ba0d2d49f2d1181b3382758.jpg",
+                    "name": "Berkens",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "bob-papenbrook-6467",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ffe2875aa829a868c181e5cf0c5d03fa.jpg",
+                    "name": "Papenbrook, Bob",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "スクラップド・プリンセス",
+        "synonyms": "Haiki Oujo",
+        "aired": "Apr 8, 2003 to Oct 7, 2003",
+        "premiered": "Spring 2003",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.42",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Kadokawa Shoten",
+            "A-Line",
+            "Bones",
+            "Funimation",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Overture of the Abandoned-Cat Princess",
+            "episodeId": "scrapped-princess-1848?ep=23481",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b429330abd6009ed4d04a424b6cccf1ebcc9874ee980a643daecbfade28bbf3bdfa9b97a2d3f5c80b68d88add26465d4c1e67e1f5c2342284d3c1b8853c5e6f5bc4172257b2ce2827b5b2c82797438c2af6a774da1bebfbfcd2eda61e4cae77e373bd619359f8549103b624a6cdf08ac80a2f0fbc371809b5026764fc3190095/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4227c9d01ae8fcd2771d8584802ac40/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b429330abd6009ed4d04a424b6cccf1ebcc9874ee980a643daecbfade28bbf3bdfa9b97a2d3f5c80b68d88add26465d4fc649f19c6102b1ae131d0705d0a91e347a1f234872aaca22b5e573c54bfb61b11350991ccac2362a6b8f9e7001ef2995615d41845cbd9dced563f1df019b42c8ee2c505fce58f70c66cc373efec1cb278d0cedc6e488f8714f789ebcea52407/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4227c9d01ae8fcd2771d8584802ac40/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "March of the Half-Baked Knight",
+            "episodeId": "scrapped-princess-1848?ep=23482",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/efaffcf08905b426c5a499efb32d22d8e7792e2d397680b3994f964f9883f5a8a74bca796f8e847d9374a88ff40c68e38e94c084555d8849ca80448e31899e8b346da7a1405cd7e38e303c70a7e63748ef502b38405210ebf60d26d65c11867589c8f63a389624c408e53b914d663d789b2895eccd99bd7e3c7f1c2b579d7378/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0540a850626810f9b93983c978e4f205/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/efaffcf08905b426c5a499efb32d22d8e7792e2d397680b3994f964f9883f5a8a74bca796f8e847d9374a88ff40c68e36a689d4d2cf496dbf52bbd1058ac7440e6935b2d6b987f7eaa183d510db9c9213937f616baf2f92d6edef37891b23e80b887da0ac9753ec5e36e4e35278ce5057e74ff53576f9b7ee18ed8c829bf7597c0e12428ad4b2a9515f64ccb6591b41b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0540a850626810f9b93983c978e4f205/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fanfare for the Unforgiven Man",
+            "episodeId": "scrapped-princess-1848?ep=23483",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3f54f83d939ef7a0170ac71458cab1cb56a2c683122f4933f88897110568eb7b404faa6c20f62209215ee38ed15afcd3dffa754d0ffc4560281a2aa8c92113993ceffc7b07e5caed5b38b8aa891c81b8f10b02ccccbf4ed436914e938b42c4651ad920f763222f05afe4efc65da47153f4f25be0699267ae6d3f66f711481ede/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/33e54a069c1e92bd1842a1906894bbc7/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3f54f83d939ef7a0170ac71458cab1cb56a2c683122f4933f88897110568eb7b404faa6c20f62209215ee38ed15afcd37138ffdfd3a419e3fee20771fbda8a5d9c6fd7360521666c4ef32533ff608526fd65363083843fe597351c8293c9b423ad5d9d3baff298eecb50da3f01946f3f5195618c4f8f4b0cf96140b76bea925d7c230b0dafd1dccabbdcd666dfc1dcc5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/33e54a069c1e92bd1842a1906894bbc7/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Concerto of Meetings and Partings",
+            "episodeId": "scrapped-princess-1848?ep=23484",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f86b8f8c0c1886efdc0bf8ff606dafa424f5bc8a654c7c2d0149dfea440e1aff18f8fce4b639a70f1444b7d33a9f6f0f045d51a6b98aa53aea3c3968e4e19581b7ada5f01e97f206b8f96ec35ea8f6fccad3d3f32ac79ade672647c1f35c461d9836c4d154c3e80cde03a94fac43ef4fb1eb8ea95a1f871b6cbe1a5f09408ba9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10af0b804761c27227a01e0608166be4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f86b8f8c0c1886efdc0bf8ff606dafa424f5bc8a654c7c2d0149dfea440e1aff18f8fce4b639a70f1444b7d33a9f6f0fc367b27e9721ab45f6272bcf0d3b2cc6a70b69b81d142a8cca8ae336c0f0aba6bc30909def01902e17bfca4be4c02d1b26c85630d9ab7ce4914c4d000c3d372143f8f56cb3edc68de0b037891ba188ee736ae0c263ea5eaba0f0b2c217bef6be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10af0b804761c27227a01e0608166be4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lullaby of the Troubadour",
+            "episodeId": "scrapped-princess-1848?ep=23485",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0539ad506b35cdb9ba70b786666b05bfa7486636052666d8f244392288a6f140b824f20f7055254e43da560b1ab65300c941a32bfeb18d89ecd5e798aacb427a97446f0e776ab42b56d6137bb0e703a3982afbfb36a703d0021e306ca40dd9f8466ff70a1dfea7507210c7435e6be0aca8e72e0edbf020f6c94e3c67d15fb6d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/944b5f7a582f798e0635f6d1c0d57b70/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0539ad506b35cdb9ba70b786666b05bfa7486636052666d8f244392288a6f140b824f20f7055254e43da560b1ab653003debd3fc21bc288f05c8278baa57eec95a3c69f370b6ccd82e250f2dad99b158c71a6be571433b498cee15742dd2271a94e261f7ddc29406a68f0b1aea13994a885b202c677fee683af4e3718c62ddf1ff5fc82e2e950809316098d792f99f19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/944b5f7a582f798e0635f6d1c0d57b70/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Pied Piper Song of the Knights",
+            "episodeId": "scrapped-princess-1848?ep=23486",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/68a2aba9deff0f3b7c016b2e00088bb7544b214d5a68f4ce2f9c48dcd1b65c2e03063aa9cfa33938c518462cf2b0134488c7fbd60e233dff384927e7f0b4a1e48a458e06b55b028cf1d50bd015c950a99d824f12b3bf7f589cc3eecd6e9b760449a900e33d47a765b4704ab179c00ce1363d612ddbdad8415bffac604c963a3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31ec73ab69340ad25106e84d4893dfeb/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/68a2aba9deff0f3b7c016b2e00088bb7544b214d5a68f4ce2f9c48dcd1b65c2e03063aa9cfa33938c518462cf2b0134491b190b0c480ddd8c754f1a6aa3c9e4cfbeac43fcc3e8ddb3a595a440d13945a615a723c8e2350004030b753a759bba1afc37a49aaab4b7e8c5f967711eb738f30e2941b56e9f68d74e23703850ec6d27c40c83759c59d42c883f4172e18797b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31ec73ab69340ad25106e84d4893dfeb/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Waltz of the Abandoned Dog of a Girl",
+            "episodeId": "scrapped-princess-1848?ep=23487",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/30840d8d021bff5778f8f27c1b435221637563a6397c7854f8bd572e72cb43a8b9486a649ccaf792cf7fa7ce917b4de78c6575fdc9590372b9ed334a4c6887b50cd6b707668e0e1f70d664b8a93c93103de858a2a33fb55e01b0c3e4fee9dec1d0c959c01f03f0867e1394bd273410001c60fc948934d02351986de92b516cec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59b6472355dc286763113d55e270622a/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/30840d8d021bff5778f8f27c1b435221637563a6397c7854f8bd572e72cb43a8b9486a649ccaf792cf7fa7ce917b4de71d8e764cabb8937174e4d47b59513f435d5d72a995e5957cbf990cbf40eb8a8f5f16224420a05325a0b5b95f0b7fc2da9930d35e029b8cc7b3897788fe5371eaa7ce1e8ba7134db20311d587c118a25251172c188e30ddb28a8d37f6587fdfaf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59b6472355dc286763113d55e270622a/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Nocturne of Bonds and Prayers",
+            "episodeId": "scrapped-princess-1848?ep=23488",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/64d720f4d8b35daafdb3e942df6e4a2fd38b02aa0b0b717b62549bfe7a4c73ac8b0def78215eee7dbcbed78e07970883d582774f3ed82cb90f181e49636d3a8adf37475e5851c13681ec5c4f31a19d2f7795b3f896ab2164f28ff7c8a2a7bf17eddfe07475e592826298a911a77efcc76df9c3a5e03d536610d8d402e021fdd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3002289212f4f2e8be7b8fb36a745f28/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/64d720f4d8b35daafdb3e942df6e4a2fd38b02aa0b0b717b62549bfe7a4c73ac8b0def78215eee7dbcbed78e079708834d8ed2af223e3c0b88391cd5458cbd99c79ec8b09c32ecbb08ff28f9e868d6aba994d48c859f1caa10e0338edba09ddfe67748efc8ac425155651da37b11abc9edc63537509150b43e0ddac91577116c53b2f9b2ba13ff29f22dbba7cca540f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3002289212f4f2e8be7b8fb36a745f28/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Requiem for the Heretics",
+            "episodeId": "scrapped-princess-1848?ep=23489",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/aa6409f9358620ae5ea92d3f31c6af02b2c8230c5c8bdd6224530d7e9a23548984aaf84b858f18be0efc59389260c01341c9093f62a0e2938425639e8447daf997e3c65da5254a38e5c58b969abdaf77d5acb102afbe183aa139940ea04ab97c7cc3f26235d13a0c32b85c2e11c77719fb4eb7e0fc981f8a399bab1886582f5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c177e78696aa7a2f043833dfbc05b35/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/aa6409f9358620ae5ea92d3f31c6af02b2c8230c5c8bdd6224530d7e9a23548984aaf84b858f18be0efc59389260c013a56ddcf90a67a282cc396d8748caf18b746217d6da5dcf32cd557e3a72942262eaf6d600e9f5f09429017c14ca5e16b9e8ee9927e5cc6224f83fea296311854bdc44042c1536d65dba4a3f39f0bbf253122d6f7a210bbe3d66aa75062438b229/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c177e78696aa7a2f043833dfbc05b35/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Serenade of the False Princess",
+            "episodeId": "scrapped-princess-1848?ep=23490",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/33f6e3c8163d3d3c2ffa4ae2d69c055ec6874aac4574a8fe9e666de948d7aa1299f8fd9c463c25746dfa57906f40ae0bd4a1fae2a40cf30081ec6fc67b91a353de94b9e02a62998c9b086a4ece9f4b4a9fa330b64578c848ae44e3491c622bdd9eb05115037755ad1fb1b94e96770d59c103c467726ade3fed5677babf9cc529/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dacb309b3511335c37f4ab15510b051/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/33f6e3c8163d3d3c2ffa4ae2d69c055ec6874aac4574a8fe9e666de948d7aa1299f8fd9c463c25746dfa57906f40ae0b346188174af4937f43416cfe515402d7d99aa1a8be1dd0cc04afa00efb7d5ccad97b1cb1324d2a251a4c5b1a9eed0446a23641a66007df8703668fd1480eb6800687b00ebc3d2e6d0a67f625fc450b3780c782b7deb09830f6a5eff6a3687ef4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5dacb309b3511335c37f4ab15510b051/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rhapsody of the Beast Princess",
+            "episodeId": "scrapped-princess-1848?ep=23491",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6611072c989f9339de261fbca94746309eefd185db8083f169b57f7d185996001ec04a7488558624dd064f03d162d2c1168eb184f391a38c47811505684cb1c9221ece37ca9b8c617767f545fc3b32cd2dc5c3fc1d49e0885c65ee94beea1e59f42d5a130547137c63164d350fccb54d800b336ec8a078c0cae4cb4e7d935416/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e18e73f5ff8f54a9bf3e6a34355bfc3/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6611072c989f9339de261fbca94746309eefd185db8083f169b57f7d185996001ec04a7488558624dd064f03d162d2c16ef6c4274ebed0b95d7ae921f8cefa67463eb29e540f98d67ea3d4db72b98067b6bbc3de963d93ced72a048f7840f3e89aa12e6d44eea76f15b54e91295fedfa41ca311b39819facab6c4af56afaf3f584278e5539d8895654dbf8ae3bd6b1ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e18e73f5ff8f54a9bf3e6a34355bfc3/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle Hymn of the Two Princesses",
+            "episodeId": "scrapped-princess-1848?ep=23492",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/fe416472c90e7956d35f67d950ca98fe7a37ce84c42bd5ca482a19cbef58ac1433175fc3358f51178473c7b09a364a498678e67bbb93b6b3e1d5bd307c657114cd53fcebc8ce58984340b9e99d9b98e5348598763463bf61e2070f211bcd9f4cb12487b616c34252d057b6089dac46fec625def4c9fb8f5b05caa1703e9cf1fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f8ece825f01e3c2af3d7f717697823b/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fe416472c90e7956d35f67d950ca98fe7a37ce84c42bd5ca482a19cbef58ac1433175fc3358f51178473c7b09a364a493eb8567d07c9a875866a912a395881adc9203e2ab2c4823774a4ded05c9c48ad23bf715064e446837fe735a6d36a7f1c659608d96db93cadcbac450104168ba45b702591f629a044d2fae7e65c24bba7b40256a24bb7e0bb01f4b4a4ab5386a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f8ece825f01e3c2af3d7f717697823b/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Distant Ricordanza",
+            "episodeId": "scrapped-princess-1848?ep=23493",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/df36a4c0c05541012f8989210c31e2a42b8a7cae308fcfd44600fd2a5aecfe97caad584cc791c7b993446f87c0268e541bbe6d8c6de55a90d2e736778cfe68b53fdfea9889c11df64906d2cbe948e55730a7e3bb2d05e357647fb16a63a0c4a495a10f044f46948460d2cb9b658a8050656f0a4317a86c624f14d39c52af5f17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa1b99e6f52a385bc5192e33a8e26f54/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/df36a4c0c05541012f8989210c31e2a42b8a7cae308fcfd44600fd2a5aecfe97caad584cc791c7b993446f87c0268e5479aa80270c3a396acb6aa64058f2e14cc14d0136200498f1697a07cd53cb7e2679d14d437fe196a9bd188a3ff4eec4dbb48c62cbdded6270e3775a15e48260ca0a16eb8c0466704add8d90c401a6c8a4984bcafe1be09e6ff8cea40cd39eaeca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa1b99e6f52a385bc5192e33a8e26f54/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lost Quintet",
+            "episodeId": "scrapped-princess-1848?ep=23494",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/082d216905414860acc39420d8e9a4453ce2aaf3053ff61d7faccd9fb861fdf50666e2c814b4fa959b94576fe68306854a7928c8d57b5668a801a8ed3996d089fba81060d2501c9ad2794f98076900f241186576a7c14827e5ddce77655cfa1d091fecf0dedb5804535b2b71940dfb4f12da9b0bf5f27caed35ae990ea602667/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84ba732e4bcb6c10a201883afb45fde0/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/082d216905414860acc39420d8e9a4453ce2aaf3053ff61d7faccd9fb861fdf50666e2c814b4fa959b94576fe68306850469a798cb02db379f7630cfd78dbac2d7437b444048275272c265041abd0c1e173089b0ab3182a378f40259f987b7a707df70443e4e8aec113564682ab818e9afb0d169ff4a1b8aa0ca349a31f73c107d72067923832f9f502d25bc2fc7e49a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84ba732e4bcb6c10a201883afb45fde0/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Opera of Powers and Plots",
+            "episodeId": "scrapped-princess-1848?ep=23495",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cd14432dee9c8ef2dd2b456667888fa181c93a11f9377ec076726f8635a6f76d2da74bf1c5117e2674609fddec9f83b92de190a722e2eb9461860dc2443ac915f7f561c00a072def74524e0dae0eafb74d0aaedd55c70efc72c1902e34f8b3612fe9a10a591ff14d9dab6e10c833e3f837be618edaf00393c2b8da4c5017016d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7f496ce9175b5e33d6f74f8bc167447/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/cd14432dee9c8ef2dd2b456667888fa181c93a11f9377ec076726f8635a6f76d2da74bf1c5117e2674609fddec9f83b9401ac7aad3eba03d8e8692b7049f34e2e3052feab1259c609d33009594305c608288d891d32c6ce8e81a63ac85f6014e2d10af685c8ad8b96e3290738640f835f9c87dbfa0242790fe6ba70b19e821423394ead488d0d70b980d36051621df0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7f496ce9175b5e33d6f74f8bc167447/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Duet by the Riverside",
+            "episodeId": "scrapped-princess-1848?ep=23496",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4bd00b22e441df98b772d57d95add807d405151acca49c4415fedec7312b66a77022cc0bd96cfad12e5b9e5c4da2e52a586fbbde43d5abb044e49d8dad34435d07f16e6e512cddb9c5e2966f9f25914c2e15fd04499c2f447997d11691ac6e5d7aa6bc81fc0a242974669684f61edbc29203d6db61340bd90b10a98298e75be8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cda7a59ef293db956fb05f798625d68/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4bd00b22e441df98b772d57d95add807d405151acca49c4415fedec7312b66a77022cc0bd96cfad12e5b9e5c4da2e52a293105a08ce35d6591f528a2206b3900a9328d7bd8896982f599c2de2edb062fd716e037374e8597cc32da3780f63f2b162769365f6884a674d112a8671478baadde469493d7ae5f584e3db9e245e80fe724e348aee59b3ca318b7f1f5b8205a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cda7a59ef293db956fb05f798625d68/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Chanson for Fleeting Moments",
+            "episodeId": "scrapped-princess-1848?ep=23497",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d943e85b2a889ace805ba95013d54139e6cc34a2b9970c3dd84873057df462976fe249f46afa935fb2c13ef0457eabbc432551cf8bf95463c337acadf36abe852e66f347705cfb69acb4003b7c2d0d5d81b8ad47056512cad871a0093df66c456ccd4b6881441fdaed602dfc451ec75c2da67873817913733a3c26809e0190f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/750682519306a6bc1d4c618fb0790fcd/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d943e85b2a889ace805ba95013d54139e6cc34a2b9970c3dd84873057df462976fe249f46afa935fb2c13ef0457eabbc9ddca46d77e6a002fdcd77a199570d5d62540ce08a619ac9bcf0eb94094614e6d85a137bc66a249f98072bd961da06372b99f352a47b769b602de52a57e473bbe10df76b732bb5ad10209a8379d05469485c301bde1bf1863793684c5609fb5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/750682519306a6bc1d4c618fb0790fcd/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Back Alley Elegy",
+            "episodeId": "scrapped-princess-1848?ep=23498",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/28195a73c2c324c12bcbc268c32bffd23fcd37a5020f126ca412ce23a3e530ea38c5ff5743d23a0f9f0e8102abfd46cc471b14ccbbfc4b356347e8cdc0a12dd24775ddaca38d6132a25e21b4a42b410d88bed048fc1d7324ecd774b4a99feab7834b85eae6d4a5346366834fa1d5505019ade0766690de900e82a6b8d9d65936/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5601f4018cb724a98ff19044f68084d4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/28195a73c2c324c12bcbc268c32bffd23fcd37a5020f126ca412ce23a3e530ea38c5ff5743d23a0f9f0e8102abfd46cc573af92ffe596c8554dca9a2b2a555c204589bd744b6ac59b3ef2ec7e3812ed80b858fe55bc6db83940bb6c32067a5572e0f521e953860e4a428255bd68ff7ffe33beffe4f4f67619ba531636480bc032f5a60908582adfbb712a8cb99ad09c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5601f4018cb724a98ff19044f68084d4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Aria of a Mother's Sorrow",
+            "episodeId": "scrapped-princess-1848?ep=23499",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/777ef2621f50d6e031cf581caee252f3f197a50c0370ec7f83f5a0ccded6f590863384f350cb1f5bbc7f5f45bf0818be465c88c9300e20cf2a5f66e20627e8188646d0d22569295001bb25cb596dda5e421565f12ffc2384386764c623d28e08114950243b2572bed227d2461689b8f935c22ac88c2ed59b3c922d497ae5edd6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3be58e0b24a81dd3b2ce45ec37d84d04/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/777ef2621f50d6e031cf581caee252f3f197a50c0370ec7f83f5a0ccded6f590863384f350cb1f5bbc7f5f45bf0818be802ded70d83fd3b70b219a5ceb1fe45d9551760882faad348245cc8a9fa75a87b2e1637a6b28ef70e1d8b66182f70c42d0319f5622633e7afd0f688b9caa8c05f79d1c90d35765d689a14a543e208c50ec102dba93fc992f21d12b410e65e590/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3be58e0b24a81dd3b2ce45ec37d84d04/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Prelude to the Divinely-Ordered Collapse",
+            "episodeId": "scrapped-princess-1848?ep=23500",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0daf2f659f27bf870683e99d9aa73b71aea2aabd32277472df4519e8f6b0790b0a3dda6e241a03623611e825a7e51a19e3238b107e66c813454e12e696288f3d44f80263475baceec6b609de8168b8e817c7a81c3ce935ece25038b401478501141cda4f63ad069336548fcda26aacbcb5e3519ec7b6cc7bfa50f9e13a5e05f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2fefb2b0efa7d52b9792d9220b03f0d/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0daf2f659f27bf870683e99d9aa73b71aea2aabd32277472df4519e8f6b0790b0a3dda6e241a03623611e825a7e51a19b4ca74d92be6e751a90be14671b95c31246a5eed701328ba81b686fff97ab3c291b7dc98e9f63f2cbe327d0868b2aac8eae6e2e8105669d2d95d3216204539c242cf497c980763bb1da4f2aab24544ab0aae82f426ed29877a87fa6b936c9502/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2fefb2b0efa7d52b9792d9220b03f0d/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Passion of the Lonely God",
+            "episodeId": "scrapped-princess-1848?ep=23501",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8047cf192916e62dec3173d97fd2829cb95a6671fbd6d8d1635004949a71e7c395af82ba0a9977e0dd609206abd90019cd447aeb147771d2f13987d5aa86bd0afe29a1bf057f708104863ab53096abd10b8616bb2c80e25b4a5d538d69a04da5f96946050099d61eda48959bf4a53765be1add61ee15de8c4652f22d51b154c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c19b713cb379a9a38c40df7609f8eda/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8047cf192916e62dec3173d97fd2829cb95a6671fbd6d8d1635004949a71e7c395af82ba0a9977e0dd609206abd90019c4f0d6be75c6da298abe2864e8f7b095a5ae146ce80e8ccdbcc2662fe54d714f8126a397727283089cac67edd160db23a16c89c219c63e1a8619c315ccb1947edd627fc485b819e6035122558bfaa9d2b1e3098b412f273c18efe6f7b3f0258e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c19b713cb379a9a38c40df7609f8eda/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Rondo that Transcends Time",
+            "episodeId": "scrapped-princess-1848?ep=23502",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a1bb07c741ef41ab0ece987ba0d5603b0e55065da25e802962152c3409868f9f2cc3475ec22656f99b17f314ad15ec07358d68647f851094ab93d034a4b0b4e9667ba7fb7c62bfa7eb212e9fee0a8a3b498877c784ba9e1a63cb24b32d247cf073f507054aca566f5c1a69cf576e44640e3ca52f932b11abe107f63dc8446362/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec5db5f34e6843aaae12111d82c43ab9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a1bb07c741ef41ab0ece987ba0d5603b0e55065da25e802962152c3409868f9f2cc3475ec22656f99b17f314ad15ec074a67ec5233d54b8ab0577af1f08d4d40fd4d82624bf6aace34e9827d312dc9e6311a499f5e2b954b6e148bf360987b6b2710628d79b56914ffedbf2288c1a1eba89a7d052bc05eb048de4e90e5c17cf2ea963235a350fac9f40401db52d3e3c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec5db5f34e6843aaae12111d82c43ab9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Oratorio of the Mortals",
+            "episodeId": "scrapped-princess-1848?ep=23503",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/04b291501131c0605285d993937a4b05c935d7ac5abafd08659763b62c36e432192af46d4066b86349a1e52d010fe26881107130dbe23c35739ad3a6e75653f558effef5d653275b9356ac8185fa61bd578df477ce13091ee8ec4a86b6ee49ee925b8000c996783e1437986411ae44bd35b671867500eb106c63c37048b34242/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee083300b89d09d4aee22dc2e2191c14/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/04b291501131c0605285d993937a4b05c935d7ac5abafd08659763b62c36e432192af46d4066b86349a1e52d010fe268b9f7f8c55d9917efccad57a3303217aa628b4d00b8b142d931fff9cc68f0ade00702c368a2cc4a6b19a7acecf09bbe59e58e66fb9159ce7968fbe77e08ae9c1eb3973be5c3f11dccaf8a41e27a335e843a4b4dbb9cc7b5bc7e3216c45772aea5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ee083300b89d09d4aee22dc2e2191c14/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Symphony of the Protectors",
+            "episodeId": "scrapped-princess-1848?ep=23504",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0303b4d9f073b15a25f6ffdb7b1e1d4076557a364e72b6062ff2464ce99a99324fce59bcd7617090c1ad6ec78acb3eb619310406ed0f3690cd67e6ca53f5a09cb4010de334310754e9845f1e90e67af80096f001a37a778710107fb0222001c1dbe5bc9a7ef2abc2bc4e86a4f7e1556c70e84ef02e499247406e5deb57af7405/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3724aa2f6294158b08c411c23dbb824/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0303b4d9f073b15a25f6ffdb7b1e1d4076557a364e72b6062ff2464ce99a99324fce59bcd7617090c1ad6ec78acb3eb6d13ae058debe07c85ae02838f776407ec42fefbf5fe58a6d3238c7b95cee620c6fc563a154a2793ed030eca8d87ff956d128c890a4dc29e32b1d83b571b73730b196e7948e1c4586de5de2af74a3dfa248bd4b453873686e33730a482b34e820/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3724aa2f6294158b08c411c23dbb824/eng-0.vtt"
+                }
+            ]
+        }
+    ]
+}

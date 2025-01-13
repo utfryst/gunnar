@@ -1,0 +1,613 @@
+{
+    "info": {
+        "id": "noir-2253",
+        "anilistId": 272,
+        "malId": 272,
+        "name": "Noir",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/134370d87ec9c99a77b16fdf1116bfd7.jpg",
+        "description": "Noir—a name that strikes fear in the hearts of those who know the history behind the moniker. Long ago it was the code name of a very successful and feared assassin and now it is being used by two women who want answers to questions they have about their lives.\n\nThe main character in this series is a highly skilled assassin named Mireille Bouquet who is based out of France. One day, she receives a mysterious email from a girl named Kirika. Following up on the message, Mireille goes to meet this girl and discovers that not only does the girl have no idea who she really is, but she also has no idea why she is so skilled at killing people and why she feels no remorse when she does. Realizing that their lives are linked somehow, Mireille and Kirika team up and begin traveling the world together as they seek out the answers to their shared histories, while avoiding the grip of an organization known as Les Soldats. Will the two find the answers they are looking for? And will that truth free them, or ruin them?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/jcx6upBbaS0",
+                "thumbnail": "https://i.ytimg.com/vi/jcx6upBbaS0/hqdefault.jpg"
+            },
+            {
+                "title": "PV Complete Collection version",
+                "source": "https://www.youtube.com/embed/sVIDwll91Hg",
+                "thumbnail": "https://i.ytimg.com/vi/sVIDwll91Hg/hqdefault.jpg"
+            },
+            {
+                "title": "Blu-ray box CM",
+                "source": "https://www.youtube.com/embed/TEuoV863Wso",
+                "thumbnail": "https://i.ytimg.com/vi/TEuoV863Wso/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mireille-bouquet-2940",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d5b15e38d08a583007c0f3cd635c88d9.jpg",
+                    "name": "Bouquet, Mireille",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kotono-mitsuishi-111",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f3cb0bb540e4b64d7039a5cd1975d8db.jpg",
+                    "name": "Mitsuishi, Kotono",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kirika-yuumura-3090",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/199b3a5d3f46e53f39d3ca97c0f4586b.jpg",
+                    "name": "Yuumura, Kirika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "houko-kuwashima-348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2c4b93c4df004d37772ded08780064f0.jpg",
+                    "name": "Kuwashima, Houko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "altena-19428",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3e3da68ca2325433e130a47b2b3b34a9.jpg",
+                    "name": "Altena",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tiffany-grant-952",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d2172796f11ab41d07922c6a1d1d5bf3.jpg",
+                    "name": "Grant, Tiffany",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "belladonna-53776",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/858d8bb35e3422b49fbc53ac7d2612f8.jpg",
+                    "name": "Belladonna",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "fumiko-oosaka-9906",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a5d2ed84d931595e055d94ab49cbff0e.jpg",
+                    "name": "Oosaka, Fumiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chloe-3965",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aac83520651c75977e327a2b1ed825e0.jpg",
+                    "name": "Chloe",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "aya-hisakawa-507",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c829f80ebf796183734ca37a45ce05f.jpg",
+                    "name": "Hisakawa, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "dominiques-116265",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3c535d502f71a38501d2470eb01cd116.jpg",
+                    "name": "Dominiques",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ノワール",
+        "aired": "Apr 6, 2001 to Sep 28, 2001",
+        "premiered": "Spring 2001",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.32",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Drama"
+        ],
+        "studios": "Bee Train",
+        "producers": [
+            "Victor Entertainment",
+            "Bee Train",
+            "ADV Films",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Maidens with Black Hands",
+            "episodeId": "noir-2253?ep=26461",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6250833e0d24c03cbf1119c2fcf7b5f968555e6400b067dd34ab4424f7be86a4527f8c5c5bb7ea505a76513709c45b714d05199d55a21108a710b178481ecd25ef87e8edb52e0406479193c8d674842e4435b5d52267932f654532f6e782d683a871dd87e4263d225036e28e6ce0849db45eec1973cc930f5930af38fbe4c155/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb0da8d30aa71f98e14e6d1049eae7b4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6250833e0d24c03cbf1119c2fcf7b5f968555e6400b067dd34ab4424f7be86a4527f8c5c5bb7ea505a76513709c45b716740249ed83ebfa72c3684e70a84cf26fe88e466db5c121645a861b0960f5c298685a6d73d8a90df0b9ca17d12d70d7592ce1709128ae5b2fe10c983fd40ea9eb238d8f99d8eab51b586c83598e09dc1609de63850afdb5b0b459b0452ab1c26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb0da8d30aa71f98e14e6d1049eae7b4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Daily Bread",
+            "episodeId": "noir-2253?ep=26462",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7931f8905bdddfe838c7b9839e10bdc5601235ed9c025755859ee0ff89b7638979217eb46af6faaace3b5a969ffe8039757a8fb9f66a2aa040cede8a8409e8abbdb4738c786f1fd386f12e19f9435e99f6a534a1308159ddc10c9eef5efdc979334ccebd49392b8592ec2c5c8b1ee4611503e84dd93bca666a97da6b11313865/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28da6f60921396d95db00b9350f2324a/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7931f8905bdddfe838c7b9839e10bdc5601235ed9c025755859ee0ff89b7638979217eb46af6faaace3b5a969ffe8039652e9749ed729ee692d3840e01ec0a75238f28d9cbf3be1f7c1def76ef6834ec5e27562e8c438fd194b77ac7dbc90c74e8679d032d81c96fb782462af4f27c12a83448de0769003c392eab944b01afa945d66a21ab14562d7a3c5e261c303041/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28da6f60921396d95db00b9350f2324a/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Assassination Play",
+            "episodeId": "noir-2253?ep=26463",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8a8d671ce115b92126959c53909a94b06065ded3f6fa20c9b314796f548c8556ade59e51fc660079124fff6a70aad4cf81a59d40572ef447195fc28921fdbc0275ab985e19339d3efa76e70ba434be713be5e79932b2f9452886e7b8b7319733c9511df7382f04c12e385af6e0cbf31dbed3cc14f3b262aa4a8e62d332062ac9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8474dd5ddac45972aef16ab1d9c8a662/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8a8d671ce115b92126959c53909a94b06065ded3f6fa20c9b314796f548c8556ade59e51fc660079124fff6a70aad4cf0c21a20000e00308864f35ce2716203a5bb156053fc6165059d3bdb0a632788eb800d9748276468ef26d332573e3d0522b48c51b79e14c7cce8e9ff6ff6597dd7fd1e4a893611ed358fae40dd61eb595e168849b5e92ca2eb54ed62b609c1427/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8474dd5ddac45972aef16ab1d9c8a662/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sound of Waves",
+            "episodeId": "noir-2253?ep=26464",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ef3dff2275d331a3509ecbdc0527bdeb7fe2711323757091760d979193f38198b62e74ec29b8fbfd57d86ccb8d6056bc56964221f45acb1867bcce715e5478a7c07425bd83ce31917c7fd409b2161ed1ea4305f403ffeca6cce9c9b7adec7c7950ce5b07a927906bcbdd171376d4d0d25b2efc27e2a3b037b5c84c02c1c8be96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/008eda2ecc31010f39c19cfac410a923/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ef3dff2275d331a3509ecbdc0527bdeb7fe2711323757091760d979193f38198b62e74ec29b8fbfd57d86ccb8d6056bcd470177fc34ee306b1e04d7e5575888ea112021a3154d6c4969bdd0c239969867a42c57c9abd36222121d4faf2fd9f4d96e2220e8471c0127a831dd8f3b96c6865693228ae98aebcfba3fb5bf70ab397d1d73bf4f0f624da214e5191f3ffb75a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/008eda2ecc31010f39c19cfac410a923/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Les Soldats",
+            "episodeId": "noir-2253?ep=26465",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/460e3bb5326378f7144cd1e85ada152ce5f8af12abb06d365faf3c549eb9266d2d7c8835e223789e0149ae92e8be6d7f7da4ceebb915d762b1551be170f639c8ae76f299528e1503ab2a2859f9278631fddba9bf517def722d30a64f94ce3cdf3231e27a1333149ae69a4deb9682ebada2b9794196dddb1c4b4a30428c723df6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b72210c959fac07439e5892641dd7912/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/460e3bb5326378f7144cd1e85ada152ce5f8af12abb06d365faf3c549eb9266d2d7c8835e223789e0149ae92e8be6d7fb8dd3ff4363a0568bf884bc6d75a52af3814230bc823835f683edb09c8b3138b5aee94a6ff6ae0b9cac3581826989a1eb1801b484e40008d340f75892e27aba3feb6ace16503677b617f280fc4e6c9f1fcaa91a152628b0f62d5624cedb66cd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b72210c959fac07439e5892641dd7912/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lost Kitten",
+            "episodeId": "noir-2253?ep=26466",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dbeaa3667a91a3f018aca5ee153bd98716ba477976e0527a3924caa8b13b3a1d82cd549678c53dbcbac072b91071ecc39febfbbc5275052e7421df71a292f16df156ce81b684336a5bb7e8f68ad2eb33dddc430b773a04b2682b6506cb2d5a4e964efdc7fcbe63c5adb06c21f777c724063dd223d118356c817426f37c6e1a4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/20ea67dc7e4135ef41dea570b63a0705/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dbeaa3667a91a3f018aca5ee153bd98716ba477976e0527a3924caa8b13b3a1d82cd549678c53dbcbac072b91071ecc3f646894971ae035b468096b75cdcf0d20df0abffcbc3cf32f4ff42fa95a06fac9a76f7b435457eccc2e3be28c53923b8c287d77fdabeb2213eeb03e0f3af5ee342602ce7b1ae0fd57d4bc17f3631d168d8c6c22d8a3efe824e2d6d46a8a5752a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/20ea67dc7e4135ef41dea570b63a0705/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Black Thread of Fate",
+            "episodeId": "noir-2253?ep=26467",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9a6687e136b112155fd58772ff6639ec8bb0bd0f5e13fb4fe39106a3001dea9236b777e078adca130cc018b3dcc8dadeb438b5448f0a01e3d8b459d24421679c0858250d9201b2e0c47cdccd0c72679a7b1eb91bf2ba4117b371b40116fdabe2cb223bc79a5ad849bb0ea2e62ae0fb244d3f61cfa656b9762e046d4ba5956e40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b7d2c16223188abaae7fcd8f0e8e21f/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9a6687e136b112155fd58772ff6639ec8bb0bd0f5e13fb4fe39106a3001dea9236b777e078adca130cc018b3dcc8dadede7124c8de76e2a8c464f7885c910616646e9ccba9f431478bcedccbf55f337913566588d005558f007a414b12b2a0b9ce337cc32bdc5794613f15be02c8a75864cb0362d57c6723c4664e394926517cbade8bfca169d05016d35dcdf21b893e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b7d2c16223188abaae7fcd8f0e8e21f/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Intoccabile Acte I",
+            "episodeId": "noir-2253?ep=26468",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5b13a40285579731b6d76fd7dc9ae10cbae4ca4db2ca58b6a12cff0defcdc5236f850581152fa749b83969c595405f9fbda55fd5c45133523d40eb356c09b6d9eb5431363053a58e3c0094874cb831da854c146eefac42416f22c47e581dd2756444d173bf2b7158a0d037eb9f7c019b97d4f739e78fd3e0ebbdfcce8982abbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e13370ea353d9eba92d05405d9a7e59/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5b13a40285579731b6d76fd7dc9ae10cbae4ca4db2ca58b6a12cff0defcdc5236f850581152fa749b83969c595405f9fdd4aa0b773e8e050b47a16cf6e0ef47bbb821c8e919f14ddbfd5b31b5b8b960ca38e967a3a8852f7488e275aea99cc503af683b80e8be434c17ae907a7dd2759deda5eaa3241713d418eb9e3d5256c0973b8753bc3f0720a507348b4d06d79df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e13370ea353d9eba92d05405d9a7e59/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Intoccabile Acte II",
+            "episodeId": "noir-2253?ep=26469",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e2291053b6c46f058469a75b60254118c8b28ecb19f6972b1beb8b8104194013c46ec9163b690d3c7b77c4c4c1c4ba260934cfa08aa11cd956d00dd2400989fe189651bc4ed9ce10717fe8ea39d91c690653ae8bbf4374b11cf2729f2962d3a205929aff18e2ca41838d40f3d5e6dfab0b2526013ea569af566634767165754f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d7b51b6d989886cccd86e274f67eaef/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e2291053b6c46f058469a75b60254118c8b28ecb19f6972b1beb8b8104194013c46ec9163b690d3c7b77c4c4c1c4ba26bc5bc14b88ae937dcfa2e3419792159b5e8a6ea44c1cbb1aecc74a15b2c701252303512dd5dd96acf8bca9847feee98977e005128157a7c81b4ff6876c6c638ccffade179e96062d16a4a4c5819098806f5daa3ee782ae20bb8d61c020edc662/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d7b51b6d989886cccd86e274f67eaef/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The True Noir",
+            "episodeId": "noir-2253?ep=26470",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fd186e4f48ad207bdaea63c1f1b4c6a25c2ab6c9556526f8ad457dfba5e61c159c26a7e467bdd827c6b7867067ae6bc063e8aee0639955c2d8f576956740852f6456d671a70b7a95acd614addd502648fd9b924fffdc1a2eb4b491768bea55f4964590ebc0085d86457ce11ff62a9a13768374e39a30a9ffa1bfdfa1a597ab0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1c71b0b269c36eb2eb63a9141f03b64/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fd186e4f48ad207bdaea63c1f1b4c6a25c2ab6c9556526f8ad457dfba5e61c159c26a7e467bdd827c6b7867067ae6bc0cd190b2e8f8830529cce956683d37dce5129017e8f3ce009a79669ed1887cc3b11a272e92f50140d0b9f1d49d43b2974b82a339cf2052c95a90d66912a0245fdaa85704ded3c73ebe9406c1b381bb71548a20a625976f1840974b264988e74e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1c71b0b269c36eb2eb63a9141f03b64/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moonlit Tea Party",
+            "episodeId": "noir-2253?ep=26471",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5127af8901dd9a5c6bebda64127726b116287e9ab2a0365d0da3143406e54771def50554daf1bd8546ae84d112ae85583663a1574aa2956c435149f8567ec3502477126938fc7a1ada21ad2238dd7a1482bf40d32699f9ed25cb0e38cbda90358395279d480625121b79206ff0344757218b518db0178a5f54c9ae4aea5598d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e37dec93ccea72850b19d6c0384fd12c/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5127af8901dd9a5c6bebda64127726b116287e9ab2a0365d0da3143406e54771def50554daf1bd8546ae84d112ae8558dc219b1e82d5752ca8fa79ab0d1fd642b43cd5ef4bc122703d23d4c12c7a403052ab7450a113a43c3b14f77c26437ac88bcd238c32e58412632846df0c1ea610525e5b630733673903808422148664a35c39904dde74462d2c56a6afeca498b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e37dec93ccea72850b19d6c0384fd12c/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Assassination Mission",
+            "episodeId": "noir-2253?ep=26472",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9bbe7a55ce1ffc10eadc043491438dc641889a476777917a0d9642ee318c0ec8c63c09f64fa1f3abbe4c2297531f245153dae09af313c74aa2004c3e1e576afc7ff626bb398d5f782d191e054a53c16cc5c98a9eef1edf6eb13c04d9b862528ad872e9fa691eeefc948b0bf00865cf4f8f333b8ad24188039f9a7b8f64c1c0fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09df770259d4ea63114401e836e9c9b5/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9bbe7a55ce1ffc10eadc043491438dc641889a476777917a0d9642ee318c0ec8c63c09f64fa1f3abbe4c2297531f2451b50f111c900951195f02457e1c62dec9bf26ae3b11beb96d2a8c680b86c4bbc395e581f909a2a3f2f7ffa7cdfba55c937f48068b1a36b3d1e3ccac274a2675287da7a4d3f706f65538dacc8a9f31e10e12498af61a18598bf7cc7d44dce70022/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09df770259d4ea63114401e836e9c9b5/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Season of Hell",
+            "episodeId": "noir-2253?ep=26473",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/75d560a0ede2740e6a0b1ce13636a212384741f9dc794c835496294ecfb2d822be6367bbc721a9b2ce4de82c91094941fc94456254775cc987ee08b06ca96cdf5714d82f844a29c87c6f702b8ceab9a510a0bf90c46d7d3e1e70610b314667df6395df54a540a44542239de5e48a3e07fdfce2faef27dfa310b3bf1d51ad1333/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db1e62e0faf945abaa909b92be8ff618/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/75d560a0ede2740e6a0b1ce13636a212384741f9dc794c835496294ecfb2d822be6367bbc721a9b2ce4de82c91094941231720a0bea8620cfec58562412c563cf897c019969d356048d8a4a8afb75b489a4e38f6ed089a0a42d4c101d996dcbbe53e4800bb74d456f9ef0b07d863d7b72af8ea274fe25157cb3b6acc844e4498abe8e1702800cec0bcf7c2a4df6a5bd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db1e62e0faf945abaa909b92be8ff618/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Bouquet of Flowers for Mireille",
+            "episodeId": "noir-2253?ep=26474",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b7192b16b27ba705bffd8ff2de3e22bd7813f511f070e3b061516906d5bd24de028b0778cbaaa6a78625096b7b27b5c417cd86baa07479ea50d1c9c1410ea74d81091ab854bea4bb02bbf694a8bb67202cc2b300962b3ae3e89891c049da07213db4a5a414a25f4e2bca411c3d4124fee29605c15c98c6767230e78832e9b77a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/331f470846bbf47a4b0c919f7241c9a7/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b7192b16b27ba705bffd8ff2de3e22bd7813f511f070e3b061516906d5bd24de028b0778cbaaa6a78625096b7b27b5c46390e6ca35888bc36d0c0100cfd7eaec94be3303036618afd4ddd955ff21a8f6dab53fc031d0fbe555fe6006cb7c50669fa77cc834332a4ba5286625bba03865b4f6360cbf7e24c1356db36031cd79d0ce8d1f4d826347c5cd6f9fdbe2a56db1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/331f470846bbf47a4b0c919f7241c9a7/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Cold-Blooded Killer Acte I",
+            "episodeId": "noir-2253?ep=26475",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8db4b2f39cefd2f3e9c8083d1119e2542370214ec6b8cfa6b510698543da9dc5ab6390fae0ad1adc3eb0c52c1302151c94c556107b29db4b61fa9a245a180fab03540f8ea64192566d5de131d1972e0c01093682444d80db37f0953d15914480ce25274d61be0560493ca4ff54f4b0022761d83333ea4d5eff351611767ad158/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd56109be497ac1db13a5d786b9dfb62/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8db4b2f39cefd2f3e9c8083d1119e2542370214ec6b8cfa6b510698543da9dc5ab6390fae0ad1adc3eb0c52c1302151c2ccc79df27df2e7af627c2b0daec7e074502a3aa9f72c58685e11a7fcb995564a71c9e57302cf7b8d701191efc648420911156b4f3a1699358c0ff565c778145ea13b32ca769299a09347bf8c69d30b53747e0a9386ae945e04f78486f4de2e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd56109be497ac1db13a5d786b9dfb62/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Cold-Blooded Killer Acte II",
+            "episodeId": "noir-2253?ep=26476",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/acf7278980371bfdf25be22d50e2a0505c430f7a7c1d7a119dd070c48e4f26e5b154001cbca03bfd9cdaa6b007246cb480846eef253b13bdad62f1f97e8251b4d2820041e242f460ad6c0e9a5459cb848d689a4f110d970c4927f701684e3b6f90f86ff09501cbf4b599b4a59e22f97d50ae6e9c75cb1e359fa7cbac66e18f96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57fd449fda671ad4f0f27169b9a01abb/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/acf7278980371bfdf25be22d50e2a0505c430f7a7c1d7a119dd070c48e4f26e5b154001cbca03bfd9cdaa6b007246cb480cba614b709d1785a9b4a3d7c11da5bf25ed345a2b4e154880fd7e3e6a1794ac3684ec18dc39d4d388bd6f1db1f2513abebfd69cf9cae379dffda0232b6bd6c2b94fae914d23587550a34c1c444c694dd8808b3aa3cd7a4ca0cffe8865806fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57fd449fda671ad4f0f27169b9a01abb/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Return to Corsica",
+            "episodeId": "noir-2253?ep=26477",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f93b8925e3a82e711970640fd82f26e25c30f9040bde335d10ac66b2d500b4f8bb793d08000f405a007400d9d66ade27935e43a1d19a3f55d6bd57c253a5823075f18a56f2a384c1357281affd94534fb4f57d831549bda27e4e36a3345730754d31aa847818bbbbabc8663678d9a30ac759704f85d85a196635cb8b06cdae34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0951584d1e127baae60581698bc2f017/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f93b8925e3a82e711970640fd82f26e25c30f9040bde335d10ac66b2d500b4f8bb793d08000f405a007400d9d66ade27a13ec74bfb11849272e18ab688475b68053569c1f94918ad22bcc24f042367e087979306b716abb23396f7fa43e9c5a4ab51ed53cae9873ca878048064ddd27c1e95ae314b624631ebcfe20a3febca219e1e07797528e8c610c04a44eb25e27c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0951584d1e127baae60581698bc2f017/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Darkness Within Me",
+            "episodeId": "noir-2253?ep=26478",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f3a1d41123c84e763a74ab134e6b1956dfcbdfb0d935cfa35d0693163f8c55af1860a7019cf154e6ab578c707057d0a2be85c32a7632ddf366b03cdd10d6831ee33168680f1986c2454fc5e34ff08c061d41bc738ba65808d1f358eb4fa17d91a13e6a5dcbe2861a7e80fa98f073bf254c3a780cc57de580fc0459658a6cf0be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebbae68bd62385adaef375eaa3a3a0b3/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f3a1d41123c84e763a74ab134e6b1956dfcbdfb0d935cfa35d0693163f8c55af1860a7019cf154e6ab578c707057d0a23cb52d38207a2b0f8bf96083de58e51150a186533d60f4bbb248c3c3278d7a29d9f7e45be5e55c08ca450730f0fc87a307ff15218886d41392f6b03314959977b25645ae4b535e3ca212fc31b5f0695b011d22b98018db05ca74551a37c8c2bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebbae68bd62385adaef375eaa3a3a0b3/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Two Hands of the Soldats",
+            "episodeId": "noir-2253?ep=26479",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/80485c51d0a33004449c818115f9b5729e443dd60808bb0e598aa57fc8a7bc6aecd5bbc95404154ca34fc375b0cc51055bae8f77a139961adb16ffe413be4e5dcf0e2b7e5b395b14887a04b24582792b79f37256f8702721e2e28563e9b44ee40279867ddd2050da99b9c5618fba3ea4a4c6546ca029dd989e9ac1e983fadd37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e80e4cb2f07beb656962aede7f93ec0c/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/80485c51d0a33004449c818115f9b5729e443dd60808bb0e598aa57fc8a7bc6aecd5bbc95404154ca34fc375b0cc5105fcb3d55b08ec07cf30302331bb569bcdee86c114f475af6d123b457631f0c54ab7ffe6d2df96325555dee41fcd49df9dbe3d17016642a489d20ae569fff3d7fdf3275cbee4f1630fdbeb29a7546797292290e124f418e7108cc9b1e0156a5984/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e80e4cb2f07beb656962aede7f93ec0c/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sin Within the Sin",
+            "episodeId": "noir-2253?ep=26480",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/89bcdea862207dc79eaa63706ef63ef49d3c04c618d44fa39f36a0562246c078803236ab6a001ebbb67736c154c4060ffc5c5c67e79d98246154fd2dd72e468f42ba6ea3a33239b087f4b3f28f92da5c1674b2af87604fff2c72da8cb709401782898af5383e4d4737c07590775b96cfbeec004d2e75ef58ddb35dcf720b41d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b996a5d0335eedc6cb47de49abf5f04b/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/89bcdea862207dc79eaa63706ef63ef49d3c04c618d44fa39f36a0562246c078803236ab6a001ebbb67736c154c4060fe60b5702f0b24c134d358d6daf1e4c18e5fb6662bcaa96e765bcecb5fc81fb3be979c3e630fb2b19ba5e149e2a5aa62ccbc19f580ddda098825fb640f84fad7f38ced314d6a885bd82a71bb8cadd419e8a81a9c70aa9ff104b7b2379842da825/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b996a5d0335eedc6cb47de49abf5f04b/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Morning Without Dawn",
+            "episodeId": "noir-2253?ep=26481",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/363e1c61d357f74089a51cfc5438f5d97adf79ea71de0b5d03c0311fdcc288914449a5d83148012307069bacea791c01f9de91de4c9bf7fe53380f36fe2d540f77384cb0db749d69b1eb197db865fc38980221c86f0f56ee48eb503a664b8849e5aceb8eb94c13f934f8c63839650e48df007cdd609df6f1f4849712ac0ae138/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e7a7aea0ba38d31063a05a73498b7b4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/363e1c61d357f74089a51cfc5438f5d97adf79ea71de0b5d03c0311fdcc288914449a5d83148012307069bacea791c01e50337950ca356f58bdb7a027f4cbcf877bbe749fa2c6f810922e7cbf6e1f09b847ab47e204130d22c6cb507773f1ea76b2454d693a59bfaf53be5f7277543ae46605d3d76cdce5dc39c25fac330b2568b6a186e845ba448a18df0a762c22e1d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e7a7aea0ba38d31063a05a73498b7b4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Journey's End",
+            "episodeId": "noir-2253?ep=26482",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/94ad1c255a688b37460e0d3ee898616209cb160b4eb1ac55c002e2f55a88ce10ba130d458d12a6c139d2830d846fb74acb69123773528fce8bc7e4df84c26b7002bc0056866eb0cff3b92c802a3ed68a80efe13915d7c3e197f884cb8cb46f6a09487a170fd4fcff7fc3d9dae0d37efedf2f14e4bb39e2bd377e4eb8fd2fe28f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7ff25c5fc477a9eb2982ac21d047563/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/94ad1c255a688b37460e0d3ee898616209cb160b4eb1ac55c002e2f55a88ce10ba130d458d12a6c139d2830d846fb74a2dc03773f2b2f4c0e951330d29f2bb4667a6278816681b153ba0e654d16f09f9f8e4aea0e6e490da3f3c0aaa667e67093d041fe0a53fcdc4be6b7355884c2cc654e2c87ef6d6b931323d391dba1f70a110a91a28a92bef981ff10e8f7e489bca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7ff25c5fc477a9eb2982ac21d047563/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sentiments for the Remaining Flower",
+            "episodeId": "noir-2253?ep=26483",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/060825532d96058c2fd8b710b64881b0cce3c8c4a407c68231f0bb2a86196142f98ed9de02d7ba5bc22a8dbf568d3f2896c30545bcaeb8c5071f87e4ae6175c789a3d272eb45cdf2eb54e2c5a5d7f60792e8b564a7045ebb9f258987966cf976509b3573fb3609db98edf91dc372cc0f9a499a20e5e35887b0fa4246b5599d6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/871558acda83589b53abab3f8b03dfc1/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/060825532d96058c2fd8b710b64881b0cce3c8c4a407c68231f0bb2a86196142f98ed9de02d7ba5bc22a8dbf568d3f2828459977e5ff6386fd04a2101d9442066eba9d42944d459d5617d4c442878b0fb56fb679d0e86cfbb2a81321cc9e433be6c74741fe60947d03e03d662b8170d9b59f99afb9ac558a778f05463dcb22c1f7cd0718793b6faf6f19dfc6b2dfd48f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/871558acda83589b53abab3f8b03dfc1/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dark Return",
+            "episodeId": "noir-2253?ep=26484",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5e832ee3458520550bc0e0f2a07742cedc77f7b3f4443d186c29e6689bf14e5916e0a24980177aa0315760d39011e85597d46edaf9f40a6567630c793dbf7da19deb852c2edd409c55b1fcc53f14decbeb4652b8bce187d69ebd7aceeafa0a2acd91ce03fd396dd4e25b7066093c82da62ab7395ca58a2676e855b7101f87559/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57200940e5afc6b46e9513b0a429a0bf/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5e832ee3458520550bc0e0f2a07742cedc77f7b3f4443d186c29e6689bf14e5916e0a24980177aa0315760d39011e855da09f45ba05fcacf2924dfd7554fbfaa25cf265f1555f93b67f4b0b54060b84560bd1b6f46d3624d675f61262dac431dc37c2d15867a0f5537e4d1d0e4f38d946ccbabf875e7ca3b3eefa0ece0bbcbdbafbc3e773bed8d858f265560e4a7474a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57200940e5afc6b46e9513b0a429a0bf/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Depth of Hell's Fire",
+            "episodeId": "noir-2253?ep=26485",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ce73b9ef2d66c84dbec03ce91929c410f38243b49ef7355a75d89de683041ab6b1a265b6d7495e109968398d1e8e8693b1f10b49761f9b30eb563cedb4e771750595c84534b077620cde505134c9877d72dc1ea333d09208feeeba6ee7c55b73146064f95c63e7f792f5aff0d133f39d140f598204b32df0116e1d2258062296/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ec4780b1a759b4468915ffbc7f73f92/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ce73b9ef2d66c84dbec03ce91929c410f38243b49ef7355a75d89de683041ab6b1a265b6d7495e109968398d1e8e86932a4309aa7f7adaf93cea4712f631f92a5d26fe025df42cd41d1552c2ee39a354bdf3fd30091b681e754a4b465ddb5267fd1982251007de163c1d9758cffdd2b8cbfc598862bd61892981f9da3a7700d7dcae7f7ac49e0fa8baa389a92f6e318f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ec4780b1a759b4468915ffbc7f73f92/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Birth",
+            "episodeId": "noir-2253?ep=26486",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/78ff92291ca94cf942b5ff7547c660bb331b18d52fe514973ac9c96011cb08e561b1b5e7949f95bd547e8ddc79918a75821c7ca586ebdf0707b4a14a2c84ba38d038f5df6f56587f6f7aee8a4a82f3d846bab1acc3401857a512a9eb75dad9f80d4dcc73dc64ecdf86ab6bb617c7b98ce9f5e391be6ae54b3ed474811373174f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5358cd65088f4081a3d8de01912f2c67/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/78ff92291ca94cf942b5ff7547c660bb331b18d52fe514973ac9c96011cb08e561b1b5e7949f95bd547e8ddc79918a75fd56159169f37e5c183e2f0e4376bfaa9796927143bb7cebccaaac15bfcaa6790a05a91de7ddf68ce9a342bb9893e0e31bb4d181ae82bb281ba45491bd5f7455d88692e72a8b47ae22ed99ee3a2f98527c7605a0aea0a79ddef6002b15e165db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5358cd65088f4081a3d8de01912f2c67/eng-0.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,960 @@
+{
+    "info": {
+        "id": "kuruneko-2223",
+        "anilistId": 0,
+        "malId": 6604,
+        "name": "Kuruneko",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87002bef15ebd308fcdfa26cb3db7cc5.jpg",
+        "description": "Based on a manga about cats and their sake loving owner.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 50,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "2m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "narrator-102540",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adceabb10b9c5cdd0865cb829526ea7c.jpg",
+                    "name": "Narrator",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satomi-kobayashi-9546",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76be0f4babbd2707e533c25da385f5a1.jpg",
+                    "name": "Kobayashi, Satomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "くるねこ",
+        "synonyms": "Kuru Neko",
+        "aired": "Jul 5, 2009 to Jun 26, 2010",
+        "premiered": "Summer 2009",
+        "duration": "2m",
+        "status": "Finished Airing",
+        "malscore": "7.33",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "studios": "Studio Deen,DAX Production",
+        "producers": [
+            "Kadokawa Pictures Japan",
+            "Kansai Telecasting",
+            "Tokai Television",
+            "Studio Deen",
+            "DAX Production"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "kuruneko-2223?ep=130931",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5523887848456a15c4613e088814d3722c21e831c27548ec4827007014ba5392810e427a7a59d598bf065ac208c7bbb2d61f687c7b7ebab7438b49955c8ca0e5466903a377db7020b54e6faf26225a7b188cabbb31d37cef2d184c13f49a691a27f673f9cfe35f523c2f90c653d492cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b730e978f5f88e6df7860c768ac0e21/9b730e978f5f88e6df7860c768ac0e21.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5523887848456a15c4613e088814d3722c21e831c27548ec4827007014ba5392b457958f072b72d810f0cfc1e715259163f9d2697ba015dc19041d163029eb8adf633657045a7496346f7ee10abf9017452f4864cf0eb0ac47a1e69058d1377c7dbebad80497df1f4fce54b4b410fee9d4303f7bfd016b82ff7f908c0abc2d53964d67bb77fd636877f869956c281017/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b730e978f5f88e6df7860c768ac0e21/9b730e978f5f88e6df7860c768ac0e21.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "kuruneko-2223?ep=130932",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/719c4b385432b4a2dac278f33e2fced3e5ebf53c17bcfb1c896391f61e00d4bda58e5834d763516ab38ca98dad952b865b9578d0087b7605fb9ab9c2e26f593b268da6145c3a655949088767882ce2ba4436ad8ed546b124aa6607781ecc83f9550448e8bb5902766b2a97de9140eb61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7319d9eb1d7e532fd0188aa5e67d74a9/7319d9eb1d7e532fd0188aa5e67d74a9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/719c4b385432b4a2dac278f33e2fced3e5ebf53c17bcfb1c896391f61e00d4bdb4eb47fd1076eeff17a603d6bb06bc2e1b6339114d42b6304908df2177bc0ec6f080c3aefe2b76462b6eaeed69d3e49c840e220c6ba88e8addca43a75c48a1628aa89747a517cba94c8d1b38d9c097b680e9b587b66e38726eac092d221745f46d64798f5556ad6cec00be7897dab1ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7319d9eb1d7e532fd0188aa5e67d74a9/7319d9eb1d7e532fd0188aa5e67d74a9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "kuruneko-2223?ep=130933",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/03b7e45ecfe7255307c4e29bf97e18b58313fe63ff01b554dd0536f41bcb87422e8e887b9c0b49249e7e553ca5755b169ade63467d88630f9a6df295e9234f7136dd848b8cfbe70ae94cdd8509699afdf61c21a564bbdfd9b98671da848324457f254c4f14476e83cd62085453f72f47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56b92ab6dc13ef8b71b3dbac9b012c54/56b92ab6dc13ef8b71b3dbac9b012c54.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/03b7e45ecfe7255307c4e29bf97e18b58313fe63ff01b554dd0536f41bcb8742cd648bf7a26cd459b2a1796a100bf9061b4a35b4a9587fa0ecbbe6fc1d570c16da45f27ca3a769dfae921b71ad8fdc6292c1ff01dc30d41ce150e657a84175f263f46c66210fb55ed56e66b3f21ae3ff1b36417feaa73950d8a7e5c726276201e70c12aab0e50503f3568630722e9594/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56b92ab6dc13ef8b71b3dbac9b012c54/56b92ab6dc13ef8b71b3dbac9b012c54.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "kuruneko-2223?ep=130934",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ca1ad9d05c950c38603c41ae25ba6e1141348e87cfca93f73d95889dc43fc0e7e2ff9490dc388127ddcaedd9ef05d6ce4c7105c0c2da422d217e345e8e8191977393cf6d6eada76180fe5e00188e80622ffdd8049e40fc1665b2faff20a033adc647e1ddb79f510896feedee38f914dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ce364ceb94f973a43da4078d50539de/4ce364ceb94f973a43da4078d50539de.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ca1ad9d05c950c38603c41ae25ba6e1141348e87cfca93f73d95889dc43fc0e79ebdb27e12f1cee3b554d777ec37c9d7ed74b7b694b9587adf456b6d843ec20e8175d68e2ee4e6ccf3e66dbc5687936317da5d4451748ea7e35745d4a5527ee5b326067ab61af3f565041a91fa26bba2723d03ae554a3575c034a064c2168b1d7fbe26b266986242aafe280e50cd194a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ce364ceb94f973a43da4078d50539de/4ce364ceb94f973a43da4078d50539de.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "kuruneko-2223?ep=130935",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/45b2acbd159211bd8db4c41f49e38bf32e046f8c5c5125ec39acabece179d6bba59c67ae9e3566dc17cecb944a71e41cf2e6b804d83f1f7563df68d0cefbbcadf9f352741734e6105e41fd9f09e218c63ec9527af8a5b8352aa5fc97751ed76be6dca10c73ddfff0d0d2a6968ab29cb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e7c720b34036a886f23a83bb57306dc/9e7c720b34036a886f23a83bb57306dc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/45b2acbd159211bd8db4c41f49e38bf32e046f8c5c5125ec39acabece179d6bb4140507ebf71845238a4f8d49d081b33faad13d5b9b5d6892756cb3e534b7982353e2e42acdba731858731fe0c02930d897d2f5e1d7e82aba992c43d65d165aa76358e0de58063210bd758aa89023ab805d39790138310e28e2548ba908e5e9f546e75490d1570e8aecebb8e9ede9649/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e7c720b34036a886f23a83bb57306dc/9e7c720b34036a886f23a83bb57306dc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "kuruneko-2223?ep=130936",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/aa03939a2f5c194b094d0b3df6c6e9c89a8478e04422e5b066f81873c9b582874e8c53334d67a7dfd841ce61b23cafd82605f4143c0ca48d7ee06f89ef9679c9857b093d00eecdd8c528adc44968bc13657ac08907451fc1a5ddda0747b0b21e3c0997c931fef3da5c46e726fb730cee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1def5a91c29f40946199d2b488301a89/1def5a91c29f40946199d2b488301a89.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aa03939a2f5c194b094d0b3df6c6e9c89a8478e04422e5b066f81873c9b5828760ed6867e14e47e9a920876be7eb8fad5036b1bb1785d98f1710c6c75299ae7ae2e9b35d49a21d8dea3723cf4f902d89069adc644f851cb1610796b1a63aaeea6dbc584448796973284c2867faef77960c3c69cd9b792f785b34baea5c159adc25d0e927f21cccd33e7797566dce15b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1def5a91c29f40946199d2b488301a89/1def5a91c29f40946199d2b488301a89.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "kuruneko-2223?ep=130937",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/996b67b1179fee9702a8f75da9cdff272c11f0f6030f184f1707ad9ef8b2039826e43d393be57fc1af32fe0ee3e18258ba6ee58aeb9cce15e1945a06c3cedfbf021e73d735237b8c964c37ca960e480cb6263bf1cfe32a42b49eff97e5e6e17eb6d556ad82d479c167f49c5bc105870f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0b6227379eee5246469fbb757c5c751/a0b6227379eee5246469fbb757c5c751.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/996b67b1179fee9702a8f75da9cdff272c11f0f6030f184f1707ad9ef8b20398f12a313cd9b86fbf115332a76ab957fb0a36aad2ca5cdb43f005d62c095103ff86d5a15ff7faa62e77e665a075244a01e67aeb0f20b8563cb699bd7e86896d00b10b43f6a42b719ce2a0f276f97f66849803879f77c45b68f6cbca68412a8f5c0efe3edd726cb04b39e33852c1c6c9d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0b6227379eee5246469fbb757c5c751/a0b6227379eee5246469fbb757c5c751.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "kuruneko-2223?ep=130938",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0a0217a8c4ee3806d506d861ba0e618dccf3dc38032855f60c1e0b4cdb25b95a5e7c83d1baf372b0c333e7b764f8c1bb637d1f799a1a36ebcc680b2a89fcbdfef941432d56696589850c49ad082e50191325aa73eeb33e64d2f578bf7e1b714efb8a0e5e4367802942fd8c5eb657d4e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a34c11a2da715aebf67d681abc6cb55c/a34c11a2da715aebf67d681abc6cb55c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0a0217a8c4ee3806d506d861ba0e618dccf3dc38032855f60c1e0b4cdb25b95a4719111ca3db6130a7b7271ce6533bdb28414456295a64d7edf4009d251bcbf7b6ac0f6338afea2f0631c213d50a034c35ff60cc6be5997b49c1c6a10bde04d3dae0dab4c82e3b8b65231e60fefcddc2d119bb86b23aaff7a9fe169464d56aee31057923a708a01d4caa68e1e0d60f7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a34c11a2da715aebf67d681abc6cb55c/a34c11a2da715aebf67d681abc6cb55c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "kuruneko-2223?ep=130939",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/17aef8230eb67363d12c4489ffda635511e53ce595ccfb584e1b984b8e2030f3caaa3ebf9ac74502e405d3ec3dd9f441e769c6fd2b10f2144a46799b22eb8952fd1ba7e6405798b8c1cc879697874657fedff2a9907bf5a49f32decbe6fabcf03f51f386249b07121dd61d3f7957978c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ba4f3ead4e3c3306aad0ff568204538/5ba4f3ead4e3c3306aad0ff568204538.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/17aef8230eb67363d12c4489ffda635511e53ce595ccfb584e1b984b8e2030f34f93d5341fae0e162be6ea481f3f32eeeb2c079ac9daafeca6759e0591562cb5b634ded49bcb02efa17d1d07d32450ee35a7a2398110d0b870482923b578b2f3fc6823606403fd4d3a9990f4e2f089a7b32f0e7ff281ea7724b66949de5e0f3497c8b7c18d8caac70e130d193aef6110/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ba4f3ead4e3c3306aad0ff568204538/5ba4f3ead4e3c3306aad0ff568204538.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "kuruneko-2223?ep=130940",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7c919a67061681511fce94ff52cddba5fd0f828d24ee6c95fca36a6d8871aae361387a6b52f426982434b6a3f5f2fe21ae39c7d75a23854fa6f08fa26a80f9460f12406c7f66d26d10d04f9228ff324c5a34a8ef93cc2a8017445f1b599db6dc168ba5d94fe3d9046d4eda46623cd074/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cde2cbde17423909969f863ceaf8f43/8cde2cbde17423909969f863ceaf8f43.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7c919a67061681511fce94ff52cddba5fd0f828d24ee6c95fca36a6d8871aae3d770e79299caea19ea8baf7512e7a4372455ddb0ce57b24559b255d8f539e2d5efda4b7d5ec87a74a60d40a83b8a8f48e0e25d2fa9c0390484d751f782f636bb8a56de052108425112fb806cf33bdd8878b2c22f4464e6f8e4b12746b57167f459538392c6c29dd225eb33c876036b4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8cde2cbde17423909969f863ceaf8f43/8cde2cbde17423909969f863ceaf8f43.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "kuruneko-2223?ep=130941",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4b315d95023d974890358cb36e60ea241b82c1583ded2a79a6244b06fa980acb1ffcaa52a7fe496327846062d26d4091929692ba99ec86870651b7fba78b0a2a47b7be759de79e490b2c991ee829c0cd44a70198b07a7ffe333101db557304d38b029377cb1657c0cd4491171ce4e486/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67eab95227358e9dc1fad73c5c9f7614/67eab95227358e9dc1fad73c5c9f7614.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4b315d95023d974890358cb36e60ea241b82c1583ded2a79a6244b06fa980acb29191efdeac8d2b8fce5a817d36dcecdeeda366e0570068637b861c27e380fbeebc5a6decbb1f66338290961bf448cfac6a3bfa1b31c5b78841dde4d185be7f57ec03fede35d887ff5456f2706cf237a8eb23f9533e7b70850a87e0307662e1a7e91bc9e9d43cb6eb39ee56d80facc8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67eab95227358e9dc1fad73c5c9f7614/67eab95227358e9dc1fad73c5c9f7614.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "kuruneko-2223?ep=130942",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/90f5f3775a72f5751496ab36b81aba8cd21e58ec6de60672ffba32f30c5d1d7a913e982cb9d8697b1f737305495ac25f1df318f79ed01fd7854b3dccb06316a7656dd8513a08f3ad1b6459b66a448c3d87c107060ebb79c27e4388b652142ab5b278c105f520bac1a5747328756d1ac7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6289a25588a6b2dfa5624831659a78af/6289a25588a6b2dfa5624831659a78af.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/90f5f3775a72f5751496ab36b81aba8cd21e58ec6de60672ffba32f30c5d1d7a4d093c247e0144ab58b9af238077c0f08ea175af0e87f9ac27ad0b335048753a772585fc5e4437a646ea2f79e1b37f8c370fc76253078518ae608011487b7963369578389a98d1b8566cc90f982bc854de754fad2e52c97f65e10477fa2baf72061f51f70e283b47086c197d56b8538e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6289a25588a6b2dfa5624831659a78af/6289a25588a6b2dfa5624831659a78af.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "kuruneko-2223?ep=130943",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e8cf2935a0b72269a053f2e28fe1b810df7e08645c3bd0892f34234f1285ad0aeeed4d01ca40bc6cc46c4cc88c6a5fa9c7e5d708fb55a58b1cc53fdf88310f874919cbfba0d3eac2b44c9e6daee52bee47e2d7da9d8dbd0569132210e7ff3fac6bc6dbb0b9554a6260af0c3ea56b70f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27e18b10c8941015244084655b1f3457/27e18b10c8941015244084655b1f3457.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e8cf2935a0b72269a053f2e28fe1b810df7e08645c3bd0892f34234f1285ad0a38b99570e3d76ac887162756dea5bd64e48bf203783e13bb01ef6c4cfe8b7ee6195a0a44716c47dba69fda57cfb691b0f19bd6274b0289a74348ceacb9e40dd6940ead604a5823150ffd6421067046e57b27321c2e6215d0ede276bd2d7468354245a0f223ceaaa14aa38cb89c8e693b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27e18b10c8941015244084655b1f3457/27e18b10c8941015244084655b1f3457.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "kuruneko-2223?ep=130944",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/653228b2e11f55619aec055f1179809d28f9e1c8694394cd7287ab822c1b99b6ab4370afdcb8491b3e3069b53485f9b16a6e0ccdc429a549f94fc546dd89a23d65830cd54410a7c9f7979a72820ee8ae271db877571a0eade93877a3b2c5a231260c083a1647a30198cad16880e538b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dd0623bf3445ff814077d2eaf3bf679/8dd0623bf3445ff814077d2eaf3bf679.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/653228b2e11f55619aec055f1179809d28f9e1c8694394cd7287ab822c1b99b65877c7521b3a0169b0d2884bbf2fd7daa5ecfaddacec5e89b67fc58edf503c674e4cc795f7a935a81bd15e75a0b7ba399305a77d49894d927abb60a3079813a3e488c3c96c94644abbc87d7fb59df8b539eeb93d3b9167d5bca7ba8b3d1e25fe733e4a247551d5d3bf9dfab32315dc24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dd0623bf3445ff814077d2eaf3bf679/8dd0623bf3445ff814077d2eaf3bf679.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "kuruneko-2223?ep=130945",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2a840c646791b5ea4a2ea5e9a2bb37328056170cacd17e7a80efbb8232451a54170c66100e54e5d5f4274e80f6eb4c4c4e800d3360bb46d04ac430833917955fc2ba70db8434315a040a6ec433a6bdd50d54478c63808750e98389af1862b64888ba7060bbd004d7bda0f423a7766782/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d437486a337ec779fd2738414e68a4f4/d437486a337ec779fd2738414e68a4f4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2a840c646791b5ea4a2ea5e9a2bb37328056170cacd17e7a80efbb8232451a5425eebc220751945ad5dbb5e6b79029c6a2bdf623c103af31950c4f23497f0269cd8214d63c212109e22ea88e006cc8360f80a5506e80a27a60a9a9706d1c03b6c15a30dc1db5174d026b4c4fd3211d3be128aa7e4e7ee8fb70fe45b554496ed005588792cc1fdf33607683970531ebaa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d437486a337ec779fd2738414e68a4f4/d437486a337ec779fd2738414e68a4f4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "kuruneko-2223?ep=130946",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cb5f56f40c326114d3b45d2ff1fdf8be49934d43547572f942022dee3909c7068712ae88c4b45f32c053e22f878e3372ad8c35a93c411889c75fef71b3d081e8d972b863329862024b6731be0e57c98ebe61708b328242296b65a14b01e8292633e535790deecd45143a6f0b8bd97526/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0edce7cfaf8111ecc4e5aef913ca3f4a/0edce7cfaf8111ecc4e5aef913ca3f4a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb5f56f40c326114d3b45d2ff1fdf8be49934d43547572f942022dee3909c70636ee699ba737ac99186056425614b8069be58ff24dd84efe079291a9d67ced37ae4e36fce7e612c27706f6867c5cf6f02a1c8ccd071c2b5b7359d62ab454742c9ff0e92239dd59c32d7df35cce7a0ffa1fadecd3f0c00a434289409e3d2f0d928ae558addbeeecae603467c4df03af18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0edce7cfaf8111ecc4e5aef913ca3f4a/0edce7cfaf8111ecc4e5aef913ca3f4a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "kuruneko-2223?ep=130947",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7ad831639f4c4567485f2425d3021b92025d2d06ba7e1827882a58b14ba5aab0a07ff8eac3f076ce5102273bbceb8e76f80871842bc9358952ff3bec74d5ca550c8a552205bdadf6946663faea58bfb6bc155e315d330532b58f6300b0e918f244789786d56e21fc0d4c4f9ed010fc7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b88de767751f9748d3c5a37a0239710e/b88de767751f9748d3c5a37a0239710e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7ad831639f4c4567485f2425d3021b92025d2d06ba7e1827882a58b14ba5aab095f079c806dee44a3057c8573e47210b437c67a7260558904b48af4e8ff705cc542bff2df923dd3ca78ed0d4fdb5570fc6dcf454ad2729997b42e963bd84ca6615f016849a96519d1cb10e8bad82bae7f2ba99e5bd967cf0db6b4ef1e984ff23039deca689a8de2c61c5bfe334855343/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b88de767751f9748d3c5a37a0239710e/b88de767751f9748d3c5a37a0239710e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "kuruneko-2223?ep=130948",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/699dc633c152bbe5dfdd5097a666bded27c6da5ba48f92aaa5e57e1049a4d8ae263e49028a75b3b95880132036e92f3513381aa2f8f793819c703f278d801ef3d3a71dc25d9b846dbc2c304536a1a9e9bc2ab8c3315fe02e9f0550edc83db4af75f7463f95b814a30c95006b5e4a747f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5068513f24fbd68d1cb2a82bf81503ba/5068513f24fbd68d1cb2a82bf81503ba.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/699dc633c152bbe5dfdd5097a666bded27c6da5ba48f92aaa5e57e1049a4d8aed593af5526f1470ce07ae7fc8ea7aacda697e8d97e13694d3e845b3d4bc268a7c45b7d26d9313d05dc3d7c858e7f4ba1fe18451ff6d1638f0c896e96727c75ae3997eff546fd9d53ca97c9715c89f3441b967abefcad810649a99ece912440a440578e95fa518ecc3ced9b9972c3eac8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5068513f24fbd68d1cb2a82bf81503ba/5068513f24fbd68d1cb2a82bf81503ba.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "kuruneko-2223?ep=130949",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/057dc3fa5945c0e1d887d5e70aa67753a326b247ddf4e861116d38e02d76c996aee8098241b7ede65969f79e73160787295728c34d287d45ccb4d12f0a8368003edf9ebba3715bdc51481fa0ea0299c3443004e969206f8fed2d5984244608111da1d6659c6bf7f68de47d3e276155dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d01ef33310c2881a1a32c6082ccfcc7/8d01ef33310c2881a1a32c6082ccfcc7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/057dc3fa5945c0e1d887d5e70aa67753a326b247ddf4e861116d38e02d76c996815faafb907d7dae776ead51ba804c7cf5385bb9d5f8e2caaad83f343a0d352126f2e2f925ee4fd344f7b663d6b1ab763a1531b62ac0d6b908f8d7b061f55af518849cd82b0e7613cf6edb9b7eb93186355770250a91110cc4d4842b3544feb246bfb9feda8f2077030a00492ca9fcfc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d01ef33310c2881a1a32c6082ccfcc7/8d01ef33310c2881a1a32c6082ccfcc7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "kuruneko-2223?ep=130950",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3d94be87755225c8320de958a9f6d1234376273c777d527c3e6dd9ef394ff23b8dbfa10bd8591c8dec3d12072dcec2f107ba40577038510b4b6d73bf429f71bc97ef23831663837b7b5aadddd7bd2c2988af9e787b154561b5b515647eb6d93b4e77dc930512afc5f98f5bc83589722a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/241f0a20e944d5fd43985e172903f343/241f0a20e944d5fd43985e172903f343.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3d94be87755225c8320de958a9f6d1234376273c777d527c3e6dd9ef394ff23bcaeddd4aaff2750a5854e85f33dbb16b9d35c315dd104cf0a4904998911429bfb54e124fe8c053fa909a39c156e7beb0d92284c59bebe8be6eef6bd45b5c9f4eb12b7f7e6c912a019536095437b2843257a17460abc3f9261f0a0188a12796d0ee3614d887f6a3e76bffff8f053f1101/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/241f0a20e944d5fd43985e172903f343/241f0a20e944d5fd43985e172903f343.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "kuruneko-2223?ep=130951",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/93b1f2383473d502769f28ebd70ab8f8998167a8ab7a91014d147c61bce87a7eb1e6f7a0eb26277f08df19279ee0bb76dec9f3d3b7f8c513cda2409e06fda153509283c15a9b7a34fd56fe36002506d367adbc19b4230709f1fccc9cd7eb7fdd73a303f796b54dc186a8a4a67a236a4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a16a73b5f40729012449a6e454e9816/8a16a73b5f40729012449a6e454e9816.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/93b1f2383473d502769f28ebd70ab8f8998167a8ab7a91014d147c61bce87a7e0b5202f871a98af95d6399dc7aa800b9f1965ff0d46b27e32cb605617ee1568fa1355aff224d51e9d698d21792547a88f60d7ab2655ae39b81e5d41136246f7ae0c4bbe3e1eb0f15bdd0c54c0a31e4ff1a52bd7aeb59480ccd04e20e773da02ca42a63001ab96183d97ddd7de1c520e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a16a73b5f40729012449a6e454e9816/8a16a73b5f40729012449a6e454e9816.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "kuruneko-2223?ep=130952",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/30be4e969ecfdde0fa27bc35bf3460cfbda3edb02d8dfc4ede3dfb4a8e693e9e3ca49a3de8f59dabd87cd9f99f5ddc49fb096328bb538c00105833baf9fe0387c53510f1f9c4c1a2e1f5a3e78c7657596a9d143905d4ed37a0e37077cb20c7fa40e02a713e9e16972f61ca9c269fb64f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6f370de9ec4431ff7f1aca27793a272/e6f370de9ec4431ff7f1aca27793a272.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/30be4e969ecfdde0fa27bc35bf3460cfbda3edb02d8dfc4ede3dfb4a8e693e9eddc360bc47de82f5111e04cd4e29e6f13730af3d48de2f237413f21edfa1eb4fb3d088c3930a73e4e9a97f9ef8a3e8d9f638009b1d7636bb23005f2b86a96be8172e899fa8a2832be91fcc1012eee7d9cc6947155b3c9d0b01e522b91eb7cfb17a83b705a466483b2cce1481d97933da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6f370de9ec4431ff7f1aca27793a272/e6f370de9ec4431ff7f1aca27793a272.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "kuruneko-2223?ep=130953",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c4440e7c927532181b13c428ac9cdec6a2ca56990c539ff42fc61806db3038d76a47a0a3387add8f13342e0f0c3bcdc85147990cee34bfebc2c69c949eb6e3fc0e2056fdf8e2f84cddb27e99162f75b7878167beff15e44b3a6fbe323f3301fddc8e58e9621cb4ecb37ede446e9ea20d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc44fdd37fad5e9f577d38fd2dac829/3cc44fdd37fad5e9f577d38fd2dac829.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c4440e7c927532181b13c428ac9cdec6a2ca56990c539ff42fc61806db3038d7a18231abd966f30abd7aca0dea466673206b40836abc0fdb110e0d1bf0112f9004adf812250939acee13e1aabaf3526c74e78c47528211548243761a5d806d020a005c3d7d6ffc42e2a927382ab69a55daa28409cc4fc1d77d852d172eb149ab6260e26b0a811bc751a458964d8499c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc44fdd37fad5e9f577d38fd2dac829/3cc44fdd37fad5e9f577d38fd2dac829.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "kuruneko-2223?ep=130954",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b69a96cee1f6e55f8d78d462b71da9902b0bba2d4d9fa8a9e6f9875588512d3e727ea5e26e1051492afaff841f848efcd12010cb2cd824e0d0ab988802818a653f58dca72bad9b3ef661b11d14864887c5ea54a5c8fdb0eed02158e6c45e7b3bfe994f7d2d10911653c6ca6115a6a3d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba20888df01d0134185952d0fda84ae/eba20888df01d0134185952d0fda84ae.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b69a96cee1f6e55f8d78d462b71da9902b0bba2d4d9fa8a9e6f9875588512d3e3ba44d1c10476190685665b727f9f4133cfd89710300ae2636b679fb21c54a187ccca12a838d80983326efd557c137000bbe0fa4c1f0e118787e3cffdb765100da71d12dfd968090d3c1d139523de4464c258cfe1c6569e9c8f86153eb285bb22c987e17c9e4bd61547a5aabf84038df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba20888df01d0134185952d0fda84ae/eba20888df01d0134185952d0fda84ae.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "kuruneko-2223?ep=130955",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/01de22507f40fd79dbacba996047f13079f7bde6e9b6003ca59b8117e73dc822ada778e13dedbbe78f2a7ce73493b8fd5fa7b740fbd0138e52f79a672d00f2b630984ad93ef835c57975f6ab4b33115b95e136e1ca836aae20738640f45d1c18722153f5b797649aa4f520137481fa3a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/192360e075ee99ce1b7d3410326dec28/192360e075ee99ce1b7d3410326dec28.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/01de22507f40fd79dbacba996047f13079f7bde6e9b6003ca59b8117e73dc822af65e0541998c884dae9ada9c8e2a454be0417d9afdc0787324d26ad3e0362f80eb8f7e43f70328c6d34840585ecdd01428c651139903abc0c03d1572a61de0ac56c14caebae694bb55a06c3340647c98e63f5a43c62835eeb42e72cab31e4f75480ab94f5d1e2a58065c4741a9f3fb0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/192360e075ee99ce1b7d3410326dec28/192360e075ee99ce1b7d3410326dec28.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "kuruneko-2223?ep=130956",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/90e08a11be161dc03a56d352718a5b1d2845996df8b6b40778cc2237db007bb448107478470f0a7bf8ed94b4aa944d5d2e2a732ec7770d7a03722aa28fa5cbc07afaf6e375b9c575e699ab6768e2c89efeacf55eca3a729facfac41d1b129918ee266180cbf499f07785d1a14acc1486/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96272fad95aa8972806f33f80a0442b7/96272fad95aa8972806f33f80a0442b7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/90e08a11be161dc03a56d352718a5b1d2845996df8b6b40778cc2237db007bb404cabbc9187e3982661aceb73e7364ec7ce057e6c897c544600057e49f92b9b31b3fe333ef02939085f60d54abc21b66804a5d225f9b33a833aa38b239ba5d472244aca42a15af07b48d84cef3d89f29f3faaa7aa641143c701c15fec9b9aa5d584250e385bff808fa6e48b467559c55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96272fad95aa8972806f33f80a0442b7/96272fad95aa8972806f33f80a0442b7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "kuruneko-2223?ep=130957",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/755fb4aadb5876627e84c892e8ccb02dd2ff5d14d603afdf3bae5cff0d7167f059e418781e0aedefc57e0920e340137ca531cdcbb2047d1c16af219dfeb2305c163b6bc4144030107beb9d0d1735a2dae40875077551b12075d9a409ebcd4a2e4085ee625e27e3de2ff777b12dec65ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d10efe755c5a6f43c9df795d97ed3e3b/d10efe755c5a6f43c9df795d97ed3e3b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/755fb4aadb5876627e84c892e8ccb02dd2ff5d14d603afdf3bae5cff0d7167f08e777fb9de97260d9c6813f431e666fd68e114ea7a43bcd864440fc2b424fcc889c4726f6b83403bec30f04b502381ba88dc410c3f1386aff7fd2af9f114232ef2bf43858b82d47cc2cd323d4daa4bf9808acd5bdf4e77b537f14511dfb38047ad8c46dfd2796531c4da1c8d1db830c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d10efe755c5a6f43c9df795d97ed3e3b/d10efe755c5a6f43c9df795d97ed3e3b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "kuruneko-2223?ep=130958",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b677d5aafbf925c0a99c11bdf1afc7a1ab505a7f953c9b64c479e08e6bdde9d64bccd657d365cc87ca4789998b2f84b40cbcb2ce281c2e4d87d87e6eefcdeb442812524b82f018cb91f1ffd74abe284b27badaa0db3bd61ffe13879ec9640aed2dad20fe0f3aa624e9d671b8ad928b54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d846b8b5ce6108b380f6c43f51c1172/1d846b8b5ce6108b380f6c43f51c1172.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b677d5aafbf925c0a99c11bdf1afc7a1ab505a7f953c9b64c479e08e6bdde9d607e599adb072e9ad4bdf7ae498027005e79a6469c083ab0e1af9ec4573625120934fc12819195e9fd2029b806dc0a688540be440ff7657d5760c002c2a5e6cd5da1442307049915394dd8350a0af12c884354b24d0d1e3760231342cc6bbf50a328f9dd87c0875c766e6577d2cdfe8ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d846b8b5ce6108b380f6c43f51c1172/1d846b8b5ce6108b380f6c43f51c1172.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "kuruneko-2223?ep=130959",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ae5e1f36f656c85115e46767f9ee6a6fb02ae84e68d6e86c7c4f780dbbe36e28342e5f3983ed3740e2d0a1e71a45898eea8ce56b5bc9cae9705af3639ba3db14eeb9ec8d8fb09b6d70f40077e5696a65c8b3ec39a85fb50c11f8ac571715638a9f5a81190026411aa6b751cc53db130b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efb14b728a0613a8879f435e9ff8f681/efb14b728a0613a8879f435e9ff8f681.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ae5e1f36f656c85115e46767f9ee6a6fb02ae84e68d6e86c7c4f780dbbe36e2812138ad750d44a7fecfc50377d36ecbac5ca51d9b370db870133d7afc4ce63119574ec110a849095647246994807e78799b4f3e93af5d7acd6e10a709f8f66ab159dd1782ba190197b47cd6925021ef26720b2578bcdcf8071e5aa29b86e968dd8888592f19c5e10fd10dce5e675fddb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efb14b728a0613a8879f435e9ff8f681/efb14b728a0613a8879f435e9ff8f681.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "kuruneko-2223?ep=130960",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/41b05057ced18fb2286764b612c5836e91f57ddde240c634241780c32db0721a7ad0b0db0f252e340e9ee9e48b8efe73aaeb2e442e4d53b590dfd33c34e7f81cc9a6e0719507bf619fd4101251fe59f6dc6099e4a32cdada84c5fbe352bbe3938f0317d236aa0113dcc0455d4a6e872a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eded92e7a565ce838a19a84579545dc8/eded92e7a565ce838a19a84579545dc8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/41b05057ced18fb2286764b612c5836e91f57ddde240c634241780c32db0721ae571e6bd4ec3408b932bd902da5c7fdb7d3120694184329366ca3e562cb881244742320eb1a3192727d22c563ef188b8b91357aa85fbeae31b014eb89ccc0edbb08467dd84e6e72272bafe238eafcbd149862a90849659027d21bc131d6b70ce1177dd3f3ab5e5433b475f90a7299e45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eded92e7a565ce838a19a84579545dc8/eded92e7a565ce838a19a84579545dc8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "kuruneko-2223?ep=130961",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ccb914fb07388856f0fac7c182b7283dd927c2fefb575dfc4f2b8e1929dd1ca4ee3c2198d339825bd1a03d3c47d25e1c021e5502e1141f215d9cdde149b3283aa1ed150ae2a1811780a23a71b12271003335778a16bd5338a8cb85d479eaed6c2752aa34912a95d972bf27a58f363512/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb6a3b3201d2fc8317443e206b7c615f/eb6a3b3201d2fc8317443e206b7c615f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ccb914fb07388856f0fac7c182b7283dd927c2fefb575dfc4f2b8e1929dd1ca44ab5e4862f5c73f6b8b08e6a54aeed6e1fe50d92206f5f7e73b73b03fbeae05b67832ea50f83755b0002e2abebbd570ebfdbafc9e0c4803f990f260ff28049c512ea4f7b6ec32d8a346c2b52e3bab019238c9e85021015448a82c87d4e577d4e4b122a7608ff9a238ab578cb45583aef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb6a3b3201d2fc8317443e206b7c615f/eb6a3b3201d2fc8317443e206b7c615f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "kuruneko-2223?ep=130962",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4a502c7592cfea360f56b2c1cdacb23a5922609a14531a5c39038d00dd9ed01c5d02576fb146f327f71fc040945d5e753b68ff9bb3c46d1726dac06f0f78bb85a06243ed69b52959765072b4f32cf255d65fbb979cabce855cfa9b0a133d56ec6905e60f0b2d86da90763678d89d995c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9447d26e7c8ff937202dc55de663e972/9447d26e7c8ff937202dc55de663e972.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4a502c7592cfea360f56b2c1cdacb23a5922609a14531a5c39038d00dd9ed01c5f834a47a3a28754d96614876367c5a64ff4a357d9113cb609ca77b3ec4439a243ca9108ee32d6e785ec3b2060aadf0650d4234882b0e63037c935d3be07c664bb897fd2565e80a99621fb54967cfad71e22eeb9b7c11f30e3a4990eaae6769f5420fa2047c066d56aed3982c4029d98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9447d26e7c8ff937202dc55de663e972/9447d26e7c8ff937202dc55de663e972.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "kuruneko-2223?ep=130963",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9dba467ea1e90ead1539e5d05cce143db673de2692e2b618d921aa2291d41c83b8b749d16d9ddf8f6dc5a4f34da4ced1a9aa2fd12d5d6fc7b954136731b7f9139dd062675c6ae1f3ebba462ee81be96580bf4daf4ff47d38ba06c681d15a2f6554bfbfe4c67c7dc87ed6e7874db0148e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68d04a2d5e40322d2ff5d6f640625f3d/68d04a2d5e40322d2ff5d6f640625f3d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9dba467ea1e90ead1539e5d05cce143db673de2692e2b618d921aa2291d41c83cd37590c2d77915dee9033ed5224ff510b1ccd516212c0588f2787703ed00e9407be61133722f7c48480b28e16e1837d78ddefcf99558a7e9cbfacf0254dbe039ac75da58b4571a5fe1e8a6b23153e74e2826b906e6d7ba75a2cda67f38371c556dde44f1a9021afbcca2050fb791ccd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68d04a2d5e40322d2ff5d6f640625f3d/68d04a2d5e40322d2ff5d6f640625f3d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "kuruneko-2223?ep=130964",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d5b42f4956fbbb9181d6fd2953d20c1b05185ed29903a52a2a1bc94ef24d54bd5fb62cc6967c81664fb0ad6a9cfe4eaee2c1a9e252e2dd9cb5087853305ae18faaacd182d762e341aaa1d26a2300cf2e7cb25b1ac64dc807dcd42cf2b37f47cede5fd6b5987cc65d305179332f4649e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9504ace2b197c9e951fe9370e7c60546/9504ace2b197c9e951fe9370e7c60546.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d5b42f4956fbbb9181d6fd2953d20c1b05185ed29903a52a2a1bc94ef24d54bd2a03414f1a866a465ee73d21f3a5f1a33060bc7b148e07c1e88af0f7f610c6fd58d4a4fa04d2989a3359ee74f0e6a19d0d74d47b326976bf31ef387b47cf27ad42b2844ed40f11ceeb8a13e9c3ef8672ee3256b84e2f4510ed05530f807810869e20c73aebfb5f89c44feff94ba38b31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9504ace2b197c9e951fe9370e7c60546/9504ace2b197c9e951fe9370e7c60546.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "kuruneko-2223?ep=130965",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/fc0299f2efd707324ac4d7f8af6ba5c7833677f0f116eed90ddd50665b3b432af4051e48bbba99004169be23be663e4ff63ed02da4ab65748e41227c917a7a017284dec908d43a5cbf116ac107608b8875985392e1c48bc5592c422f5aa5ae34eadcb8546e2262b31c824bb8e50f442b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e070b02170627e76db094c7334f405a9/e070b02170627e76db094c7334f405a9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc0299f2efd707324ac4d7f8af6ba5c7833677f0f116eed90ddd50665b3b432a3c370cd849591466df0218389c39cc78772244ec5a07e8614f6355c1e5c7b5d18d0b3e315537f7a723ccf17c17b1ebfce895ceebc3412b2d4c387820b8ed5c28daca27f534ac046931892ebc432edf784c53a61e40086a959212ce69ec9b67e7a6c4b8eb276d7e77ac505db29e4337d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e070b02170627e76db094c7334f405a9/e070b02170627e76db094c7334f405a9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "kuruneko-2223?ep=130966",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7305eea9f5d59bb67da008f7b6ff37af39704ba8452fb852b82fdbbe16483416b31e022c867386519c10dc15ea83263f84da27356edb57d6bb95753811d92f5b4db657984c4bca830480cc017b5c08714e3abc6040248718a589197e2f1762dbea8a8d334f154b922b8bdf6f01f243b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4fc7a9b9b153a11a0a3bfebb0ea4123/e4fc7a9b9b153a11a0a3bfebb0ea4123.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7305eea9f5d59bb67da008f7b6ff37af39704ba8452fb852b82fdbbe1648341681a0af893a8f900016e237a906f8e5c1f5ba4025fcdf2e20f31f26269fedf5767dc6e3ede95490c96ea43bac5a4056993fc4e7510639998d17b103e026e6fdbb160e63010db49da312366ed0ed3ad428b40e468d6ced8d609442667b25ebb0dcd727dc984c7c80a945c958b3b1c61478/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4fc7a9b9b153a11a0a3bfebb0ea4123/e4fc7a9b9b153a11a0a3bfebb0ea4123.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "kuruneko-2223?ep=130967",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/897c927de171a1793e307b413d0a726cc3da5fe279bd9baf25ded05b9d1e55c10166b2fadab7be7ff96baee27e74061d1896c210a40c388f960ff47a96f02fca86da4e9df36695686a90b69e0c7cc5f0502d117a7b5bb9a6c9f3e06c4ae62e4eedfc4f1c0feabf5eafaa3a9497311f86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cda69ecb3bc36b88241549a1a92cb2c/5cda69ecb3bc36b88241549a1a92cb2c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/897c927de171a1793e307b413d0a726cc3da5fe279bd9baf25ded05b9d1e55c1d2e63eab6473e8bbe496d7fb38e7ffcbe3f7456db9ed0d67c58a4a4c7b99505e2193b1abd5f1f356852ef76403e3766f7e3fc2841e6f2dd034320b87af1dd0ee5361e5a0f9e3c87900d102efbeb3cd0909d62111e21d8a4cc798624d317fa797e211580dca9a4f58c2259ca5c65fe6e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cda69ecb3bc36b88241549a1a92cb2c/5cda69ecb3bc36b88241549a1a92cb2c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "kuruneko-2223?ep=130968",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d5e739d33e944c5055cec5c57c9609497a9b1d02958361ad72c08c8628e910e3af1cf1515f3d8f22e19c06efb592805c357d2cec040023756d80e4ae38b1ccbd823c08f257630b9eee9ca4accb0dab648ce74714e7ff1f3e4ce48d36e3b0ef4729fe5a443056a14a1c2a6a1a9c2f8806/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e717b356c2ef793a7d3d357a2c6b15ac/e717b356c2ef793a7d3d357a2c6b15ac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d5e739d33e944c5055cec5c57c9609497a9b1d02958361ad72c08c8628e910e35e5e3063ad10498c10a5e538928588b03060de5531f2374fdcdb07fd570aab60b1c6d8ea3a9116de2489261653faddb1f681b76496f10ced83dc863b4ee483c95c71e50f2a1960d4ff1c4880f9eb54627011b2bb359a6d5f9f9a28b68e8c48ff9a5a10f943fab063dd35609494d2c3fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e717b356c2ef793a7d3d357a2c6b15ac/e717b356c2ef793a7d3d357a2c6b15ac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "kuruneko-2223?ep=130969",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5e6f30065856636824a2c5945d0cd6e7cf783a8d273c2035fc6e2e285b943a98e0c8202959d1b44440b7e5b400a2c13ad98256e32192d87a28f0aac9071d51719250e4a5d31759ac12f227bc6b610ed419eaaa4fd0ff2d631bdb1248b36fd5f960f5f8d00a5feeeb439641b050838e48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ab8d4dc7963331a439483364b760653/5ab8d4dc7963331a439483364b760653.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5e6f30065856636824a2c5945d0cd6e7cf783a8d273c2035fc6e2e285b943a9864b1238df0cc2d244bb24b9e38e4ea7b1124fd33d1b58b21931bd26454268fc5dd6956bf41e6e5812ddd10e4e89250919788d9cff7036c3548bcb39575f83ee68d06921e670768355aa6436017f940a87a64c11b69e483d1389d24020166ebd32da8b3718b66f9e029e7e9c027d61250/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ab8d4dc7963331a439483364b760653/5ab8d4dc7963331a439483364b760653.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 40",
+            "episodeId": "kuruneko-2223?ep=130970",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ba7f53556cf1eeae7fae1afb2c5db01e0a4966426872a490e317005ffb136e18381450daef10f919f9259ec730dee04dafc45ffe74c2a3b8eb1c2146611584ace89586e387b6cea9bf034e590dc3ec8bbcf87321f6e117b3071c5aa5e34271e7e8932be5d10c1e54de19307d400c6b40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef9b10c84c192d660bf93ef2eb5712f6/ef9b10c84c192d660bf93ef2eb5712f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ba7f53556cf1eeae7fae1afb2c5db01e0a4966426872a490e317005ffb136e18f000f9059436163b48a958558dca595d91dcb4c2d04282edc6414951fbfbf1d95d36d727b2018292c2286699d0eb96440607f38e1276b271858cb782bfd98baf431cd23e79cc7125a6c343d1515b3948d672cbfa7be9f73265149ea180497978bf6720c17f636eec1bedd876241a3528/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef9b10c84c192d660bf93ef2eb5712f6/ef9b10c84c192d660bf93ef2eb5712f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 41",
+            "episodeId": "kuruneko-2223?ep=130971",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f8d183a5c928ee1ae617cd64b617259e6d779a8676ec146f10914f0a5527475ac919f9f94de006e65af98a16f517c49ab89ff9bd8d11c356d2b28a1997bf39d60fb22c5987178cbd5645813c46c05a6d97f4f2057f250444ff58c3fe6be99965b23359e2abfee31818601153af6d641f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3dffc27d1dd2a1bd20c6954c8e870a7/b3dffc27d1dd2a1bd20c6954c8e870a7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f8d183a5c928ee1ae617cd64b617259e6d779a8676ec146f10914f0a5527475ac19e6b4367a1ceb0eba00f8c904d6e3e398917b645cf92d1d4d31b2dfca125717d2b406a326b0ec85f1be01420980eee79125e0d1d71d38cc4ea41a1f2e01f3bb93dd5fead1a7716a28613cfbfd706bcf872f46fd20d35026272583431a1a6b671e117783efa35a9b450bae063133f9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3dffc27d1dd2a1bd20c6954c8e870a7/b3dffc27d1dd2a1bd20c6954c8e870a7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 42",
+            "episodeId": "kuruneko-2223?ep=130972",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/311d5ed2d69442605c4435fa353ae34070cc72220af480949f67efe08608da0a450127ec6001bed4bbae9b019b07b6f33119dc7d353a1426cd2f1f8f03bfd30b39e9fb79a6acd826af4c28816ad34f41adce00ac84aedb396ac08aa6ff5d39ebff045f40d3b5a9749bb837d4441718dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/61933b9ea15be95af98356d2e1638f36/61933b9ea15be95af98356d2e1638f36.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/311d5ed2d69442605c4435fa353ae34070cc72220af480949f67efe08608da0a8b27824b8324343db287618a322e0ee58826b7fd1786bb240bcd1779be716ef2cf4f38ad586b83cc5b4ff2f39940851eb67da943afb76aba12922fa7af3f6273a74bddc5eefa34b432ae97da0543ffc07cbca2906338d01a295ffd70cf69dd3689e13b23a2c2f2871849a807f169bc46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/61933b9ea15be95af98356d2e1638f36/61933b9ea15be95af98356d2e1638f36.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 43",
+            "episodeId": "kuruneko-2223?ep=130973",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c7a668f801a50c3dc06c9cd2f1ef09ebd76336e9dde20329d4fa5c3b96d6276431a00e415e72d4bc8d0db2843ce4aed915b2462ed7e6045c95b6a02a73b476fbf1cd5d486d2b86ee91dc7bf88a5ef1492bc3ba42983343c4daffb010f2dafac611468bdc258cca5b3e9fe22fc6380aff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23e0a0a95681435aa3e263ed1df606fd/23e0a0a95681435aa3e263ed1df606fd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c7a668f801a50c3dc06c9cd2f1ef09ebd76336e9dde20329d4fa5c3b96d6276473ebf6d5f61e1ddbd2ff87bcee0547f049444a8d644a922e454cc9b726b3a0dd3b6e2af9e9cdde9be419135207168725d39e0e6a9256b9d4dbe80c06ef9f58c151979f873f0898d1301aa378050863aa3a8d2ed43bc492eee060ce18df4f493ee36c0c8b6dd7917f0d0d624a5df2223a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23e0a0a95681435aa3e263ed1df606fd/23e0a0a95681435aa3e263ed1df606fd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 44",
+            "episodeId": "kuruneko-2223?ep=130974",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a8c50c5bdf911d6a25b267671bdf048b48d9d31386a0bb067697c65509c3cb5b131f56044e92c6f8091d8a99124fefbc02b4879b30a9014d235fc8bf3d6c312954cdd0118b3af30aee8f834bcc5182930eeb08e595822f119bc35aea2c3edbeca696f105650c57afa0957ff96d3aa2d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19ea3af58f42e13b7e35497b4a120200/19ea3af58f42e13b7e35497b4a120200.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a8c50c5bdf911d6a25b267671bdf048b48d9d31386a0bb067697c65509c3cb5b324e98867ed8c621b032873f4083178a1ab71957594b7ef892119b2479e2d935952d58362e5ab1b65d7f40fd58941547f0a409640483f905e5e9a14d4d6f85e7f09967822318b3662de54820caf485097837cfb92041699a25afd14219485d094f3fdcd2cba80ddff3e74259abf00f48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19ea3af58f42e13b7e35497b4a120200/19ea3af58f42e13b7e35497b4a120200.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 45",
+            "episodeId": "kuruneko-2223?ep=130975",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/986477dfa412479899bbe0a4dd09c58517e8215ab04d795fb1fa34eb7b0d38a4b9a3d9d59097ff42d8b5f55c24586260c6c3d839e9bd1cdae7c85bd74452bb49854f58fa91745ad32dcd212449f3a604b22226154b4ee444978b6e89c97ce35c869c0bad7d72ad12f6acab0281f73555/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ba602eb24caae2c31fa167c549aa535/9ba602eb24caae2c31fa167c549aa535.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/986477dfa412479899bbe0a4dd09c58517e8215ab04d795fb1fa34eb7b0d38a4d567a4e53a5937a20b2f17d0fc7ee9236559db0600b71842397acfda543d8bf7d74616c183a55ece3469613a014fec6291ee073381e8b68f06de66029e197a19514ce0a8455fead86e5ca09bcdfad606d48c7dbc19479c21154ff0867afdbf427b0ef1bf254b5a4e2d92808e35d1edce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ba602eb24caae2c31fa167c549aa535/9ba602eb24caae2c31fa167c549aa535.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 46",
+            "episodeId": "kuruneko-2223?ep=130976",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/cb394f0104e5e7c2d0e59fb552088ee970cf334319ffa231200a0a1eee9f3f469335217e52c64374d7f36c96f24853c7daeaea07e612854743ade7c2feb287cd7e1eec748075c88a811eae3d7a08214b3d32c551d34ebe3f8193fd18340b2386304cc3b05ec3475b5ed3b17b30affcc9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e28bcc6625d340cbe61d483a61e4535b/e28bcc6625d340cbe61d483a61e4535b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cb394f0104e5e7c2d0e59fb552088ee970cf334319ffa231200a0a1eee9f3f464811885862d074fe013461b842ee38abd9c160e8d67ab296341aa71b835e941e80c7fb25a7dbc92eaf5fd349fd62f681ae94f4796f52060369a94adcba4fa4b140246ffa1d36080d602eef0b38c02ce7f2c07632891b243b0e7f6737b6500fecf7661242abcdc0b19da69c54df860626/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e28bcc6625d340cbe61d483a61e4535b/e28bcc6625d340cbe61d483a61e4535b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 47",
+            "episodeId": "kuruneko-2223?ep=130977",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/959f2a5d0325e8a22af6785c988ae0cbafc236aa6bc9e00c3ff40df36ccc15fb8e1656bb0a37683d60de5c22d095bf6d9c647792313fdcc981673c140a5ed09554e521ad878e3c49cc959748d87d8bd3d84593ef63366fea14cf329d0572581b69e6115d95ade3046ff058463f094992/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/019c158af5ab5129e1479cf85a1ce32a/019c158af5ab5129e1479cf85a1ce32a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/959f2a5d0325e8a22af6785c988ae0cbafc236aa6bc9e00c3ff40df36ccc15fb34abe8451eb665b47846c03bbad8b6e34044d0aa6a49536d67f5d3fc0de63648cfa425fc60c7344c2deec5ec60d6dc88ab7b1409904e240653e1039a72604984eb8069e70f22f84cd1ef0f4793ae60d2538f28030232f849ea1f8b0ad5f3fe380e58b153f7a5f271d3ba8ac2641f6039/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/019c158af5ab5129e1479cf85a1ce32a/019c158af5ab5129e1479cf85a1ce32a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 48",
+            "episodeId": "kuruneko-2223?ep=130978",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b382eeb1294d040b17b94d8cd1969fb483ba63d8cc09a8298528fbec4143a227289dd04dbd8187dfccb497356938324124d743e05d2b05b1977fc064c9940f4684a4a519ad3387c0a4f24d1f7fd435f6013ae95166fef31ad2a4d86fef0364bb8804e7e7f06e090a2a3a4c135b0f5c92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b898072cde29ebc61aa33cd9e082c97/9b898072cde29ebc61aa33cd9e082c97.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b382eeb1294d040b17b94d8cd1969fb483ba63d8cc09a8298528fbec4143a227d07b8257ba43c2f449c892052802401841500983144456c225c77c3a21c7b95aa881109551765ab3a1394244901afa4f78942a6f84921ace70e4d3aa5c223a50fa717ea4f2769ccb0825615c4ce64c44bea7a4489f9598c3b8c64fcc7c3de7d00cfb5f65e191427cd17708938651cc3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b898072cde29ebc61aa33cd9e082c97/9b898072cde29ebc61aa33cd9e082c97.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 49",
+            "episodeId": "kuruneko-2223?ep=130979",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7654a7eb6100b03fb992fd2a62bf5fd09eb754452273af8ff8899eda088e09cfaa5a921d8ddd5ed2e1489a36191043dbc2567efbdfed2112a0052cee7ec000ceea5b1265227db66e652811a12e0ecf65643fd30f06e75981364b67b046483e92447f9527a375fbb9243417caacac1a57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36f21506af96ae3af127c4f1ba9c6eec/36f21506af96ae3af127c4f1ba9c6eec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7654a7eb6100b03fb992fd2a62bf5fd09eb754452273af8ff8899eda088e09cfdfdf82a4174de6f12e95aebcacf26b29bb8de48a65762e72bc2b81e6bbb668a58bd53c4a97258753260b701c628ba19e472db4c8d7351f87b38ba6f4a7c4f7556bd90b2544747fc22c0331f5a140301393cc29666d9db3a6cc35c895c96b84bc4ddbf7288411a76852d325b9b8928b3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36f21506af96ae3af127c4f1ba9c6eec/36f21506af96ae3af127c4f1ba9c6eec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 50",
+            "episodeId": "kuruneko-2223?ep=130980",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7dbd2b5f907e184452a66d42f5e12e513686c253abb6c538bd851e5561594c927802e9c4df05aab4e9ad5de4e29d6a0eb7b07e6f76383346b014e36f7f26ca52e7e5b4788436a87f1b5a2ac4482e36b8a1350c15321eb7e1fc23fb271174305142c222244f688b41c3d1a56d97b083a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d07562808cb42701dc751edec426b74/4d07562808cb42701dc751edec426b74.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7dbd2b5f907e184452a66d42f5e12e513686c253abb6c538bd851e5561594c92c3e645161c26aa112abebde126cd01cb763b9580368d3f76a04e859f939d54d6a41175ed0fb3824201e7b64c5206e340bb5d7c36901e01cb019771b2de4e9aecbf92833a8fbba4217d9399cc6729d0c5f85ea397a725798ae73d9009e485fcf41ae192de839d9cb23944d6a0f48dfe14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d07562808cb42701dc751edec426b74/4d07562808cb42701dc751edec426b74.vtt"
+                }
+            ]
+        }
+    ]
+}

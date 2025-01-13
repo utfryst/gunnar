@@ -1,0 +1,562 @@
+{
+    "info": {
+        "id": "roboticsnotes-2079",
+        "anilistId": 13599,
+        "malId": 13599,
+        "name": "Robotics;Notes",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/882cfa0623149e217c6aec38246cc03b.jpg",
+        "description": "It has always been the aspiration of the Central Tanegashima High School Robotics Research Club to complete the GunPro1, a fully functioning giant robot. For years, the members of the club have contributed to its progress and it is now Akiho Senomiya's goal to finally make the dream of all the past club members become a reality. However, things are not as easy as they seem as the club lacks the funding for such a huge endeavor. Aside from that, the only other club member, Kaito Yashio, shows no interest in assisting his childhood friend and instead indulges in playing mecha-fighting games on his \"PokeCom.\" \n\nAs Kaito is in the middle of wasting his days, he receives an indecipherable message and hears a voice that seems to be drowned out by the noise of static. He searches for the source, only to realize that it came from Airi Yukifune, an AI which only exists within the augmented reality system accessible via the PokeCom. Robotic;Notes follows the story of Kaito as he discovers a peculiar report in Airi's database, one that would have disastrous consequences in the future.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 22,
+                "dub": 22
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version 2",
+                "source": "https://www.youtube.com/embed/XlRZAKcqIJo",
+                "thumbnail": "https://i.ytimg.com/vi/XlRZAKcqIJo/hqdefault.jpg"
+            },
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/MOHvUD3qFOI",
+                "thumbnail": "https://i.ytimg.com/vi/MOHvUD3qFOI/hqdefault.jpg"
+            },
+            {
+                "title": "PV Comiket 83 version",
+                "source": "https://www.youtube.com/embed/2uuFwIt-NJY",
+                "thumbnail": "https://i.ytimg.com/vi/2uuFwIt-NJY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/BPb5s1tBuD0",
+                "thumbnail": "https://i.ytimg.com/vi/BPb5s1tBuD0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/p0TmNCwX_3U",
+                "thumbnail": "https://i.ytimg.com/vi/p0TmNCwX_3U/hqdefault.jpg"
+            },
+            {
+                "title": "PV (English subtitle version)",
+                "source": "https://www.youtube.com/embed/Qv14xwN3Syw",
+                "thumbnail": "https://i.ytimg.com/vi/Qv14xwN3Syw/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "junna-daitoku-20575",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7b040891d904a1561358a08be10441d4.jpg",
+                    "name": "Daitoku, Junna",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "monica-rial-166",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a6f75f8b306cc7cb4c125a09fec22c2.jpg",
+                    "name": "Rial, Monica",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "kona-furugoori-1746",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5c353294ee71a799de40cbf8a31331.jpg",
+                    "name": "Furugoori, Kona",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-nazuka-310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/088c8bd885eb238b4fe53eb492aa1705.jpg",
+                    "name": "Nazuka, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "subaru-hidaka-16694",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ae8eff9f1aa8726fdcf3f6872ee5ec20.jpg",
+                    "name": "Hidaka, Subaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshimasa-hosoya-76",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b3a7b74f06e525bc10aa1244578db5e.jpg",
+                    "name": "Hosoya, Yoshimasa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akiho-senomiya-3381",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1c66cecd68282990baa5af7a05706cb1.jpg",
+                    "name": "Senomiya, Akiho",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshino-nanjou-248",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30975a01d62d10412654b0fea0bce38d.jpg",
+                    "name": "Nanjou, Yoshino",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaito-yashio-7840",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e6bdd08f601f14a9fb9a88a3120f190.jpg",
+                    "name": "Yashio, Kaito",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouhei-kimura-142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c702e75fbb020235f8d1edff593fc79.jpg",
+                    "name": "Kimura, Ryouhei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "airi-yukifune-10948",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5bc3846da4a50e9986d16748af3923e5.jpg",
+                    "name": "Yukifune, Airi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ロボティクス・ノーツ",
+        "aired": "Oct 12, 2012 to Mar 22, 2013",
+        "premiered": "Fall 2012",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.36",
+        "genres": [
+            "Mystery",
+            "Drama",
+            "Mecha",
+            "School",
+            "Sci-Fi"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Aniplex",
+            "Fuji TV",
+            "Nitroplus",
+            "Sony Music Entertainment",
+            "Fujipacific Music",
+            "MAGES.",
+            "Production I.G",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Because GUNVARREL is Waiting",
+            "episodeId": "roboticsnotes-2079?ep=25062",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bc7e9980920b962ac3738e71ae47f9b48a1ae52436eb445cd9226a5cc8ac3f44ed93236b299e47e31339c824cd85f2ac5526fb60c85760b384bf278e2945280f93e0985b2b91e01056ce144e9882f061ba0fc44b90c04844350e31e7d64602c607e94c7baee310834f3e3ae5f59293607457da57f4c228789ddd75dcd7b9cf03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7c73d8144eb90a04f53f61a1751ba83/f7c73d8144eb90a04f53f61a1751ba83.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bc7e9980920b962ac3738e71ae47f9b48a1ae52436eb445cd9226a5cc8ac3f44ed93236b299e47e31339c824cd85f2ac59458c8fe638b3687ec0d274ebc30ae746a47c5038cf357b8e5ae6762de0617d514c9c60ab8c2f8b7f786f3e3a501b97e0e00b575acdb1d6ee8027c8b906ce184106b2f2469c323c39cc9a38f0b1e269858ab035ac9a1913bc64fbf978d05c15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7c73d8144eb90a04f53f61a1751ba83/f7c73d8144eb90a04f53f61a1751ba83.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Because of Dreams, Hopes, and Passion",
+            "episodeId": "roboticsnotes-2079?ep=25063",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dabd0690913d13bcd5ffcb669728d1f2615fbd3f9b357ab7ec655c2937b54b32a7c65f19068f133ca74d14fd975ffc27e104c9e3c2ea9640f9002a3ce5b494329e74324ce1aee2f6da6c4175c28c45daee33478217c3f32d0bd2488e06e3701110b43ff038036cf65d8c55dd44669da22d8d4ce957cb06000793b6f55e832457/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/907dce534b0d388343b66a4325173749/907dce534b0d388343b66a4325173749.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/dabd0690913d13bcd5ffcb669728d1f2615fbd3f9b357ab7ec655c2937b54b32a7c65f19068f133ca74d14fd975ffc27d0ed84797ed66a58383f3a405ac5e8bcc60b7e80a5123d5054054a65b00c998713449deb3f27503f0e26d8a298acf81090159be821a9f4ecfe47b791a5743f5020820cc41843bde983881481ba8f532cabf2e036f35e4e6890feb073713938cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/907dce534b0d388343b66a4325173749/907dce534b0d388343b66a4325173749.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tanegashi Accel Impaaaact!",
+            "episodeId": "roboticsnotes-2079?ep=25064",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ad2ba8d7119ef2b676eb5eb0728a0c8995eb7b13d995569b53c5634eae3fc58911b68e0da31691b4c9b754d93f77e37afd3e2d5d879127c5213292fce64d71f82569e358adc6a81f5f4cec2550cad37efbd3e0246a832aa6db64b5de5a18824b4616e00708f18428474c95bfa8f1a4c2340385212447c28d9c51d80f8a23f5e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d432b2965d66b9b77d69684fef7b009/1d432b2965d66b9b77d69684fef7b009.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ad2ba8d7119ef2b676eb5eb0728a0c8995eb7b13d995569b53c5634eae3fc58911b68e0da31691b4c9b754d93f77e37a5c8c517516e8c66f39a98a53395c1744cec542b434d8b63cc815b82eb615403c3143cd9b72a68289b9c8d5f18d4782421aa7eb9ffbad7b85e9ed7702e3899fa8872aef28d90c378ce1e54ccf43470817eb6112b1e0e94bbe3d14eabf0572ae2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d432b2965d66b9b77d69684fef7b009/1d432b2965d66b9b77d69684fef7b009.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Build a Giant Robot of Justice Together",
+            "episodeId": "roboticsnotes-2079?ep=25065",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/4ee48dc8d749df846d5e755241750c04d89c8e0182b831dc7b0920a05d12f92a804fbd321fba1dd4e223fa97d016b73fd92698dae8ef5583a48a6a90ac47fb03175dfb5d4577b7c76eafa1f757dd4deb60829288a51d578373d849cc2a470d23c99016fba9b834cd8d8e948c4a87b4e816d145870edaf749b50162b709f1d63a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac48aa2b551a458a55ecaafd93bb19ad/ac48aa2b551a458a55ecaafd93bb19ad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4ee48dc8d749df846d5e755241750c04d89c8e0182b831dc7b0920a05d12f92a804fbd321fba1dd4e223fa97d016b73f2eba2f669a20d10abab846fed1de2ace9c6b915f5b151318bf0305623a058a60b08135ef92042dd624cbf574aa70fae12037d67618ee0080a4bc399a2dde6322429c622c346851e8f0cefbc6dfa3b485bd242d1d975ffb673b83d07431603fb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac48aa2b551a458a55ecaafd93bb19ad/ac48aa2b551a458a55ecaafd93bb19ad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "May I Call You",
+            "episodeId": "roboticsnotes-2079?ep=25066",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/77f140d3c090c8521179275a88d17e47ead8602fb7b6a5ac9d7f508a6ad46bfe09f024370faf09d9c2f0b6c78ab4d29a40665a14eea0ac13522eb19ea59423b70c0fa269eb77bec058054ce55c1dbe1bbfd522ef93f28e1bc31e764db678686fe15718b5783082e83f58e8c5e1cc4cb5f8c2c30e4a3319f32d6ecc66f16292ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3077009056a0236cf6c73a73833d0e00/3077009056a0236cf6c73a73833d0e00.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/77f140d3c090c8521179275a88d17e47ead8602fb7b6a5ac9d7f508a6ad46bfe09f024370faf09d9c2f0b6c78ab4d29a7ffdc0063075d55298a6e9a56f1bb6a281ed762a3ab48b8a0bb4d54a37913e61844efaeae061e11125b8e7f11a61d477520a697f33f3305e213a471301f4c7ebbb153142cacb87bc6cad02d3ba546e6377b517ad196d107919bba701d4124f10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3077009056a0236cf6c73a73833d0e00/3077009056a0236cf6c73a73833d0e00.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It'd Be Sad to Have a Dream End",
+            "episodeId": "roboticsnotes-2079?ep=25067",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d04108e59403fbe451bd3cfe9b370e68b2c14b86f324e9fb8e94d3ab48319655c4492c483b8e2617638ffe549a2decc91e2c7532322893ea416d3c7d3af4150fbe3884b7604c304ba8dc490d14fb639cbd434c027f8dd3d18901255599d20dabf0256da56e740617dc71297baded02427dab95d271216ef08b52f21fb8d6f513/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6614930e0713fea1ade3edbd81c10251/6614930e0713fea1ade3edbd81c10251.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d04108e59403fbe451bd3cfe9b370e68b2c14b86f324e9fb8e94d3ab48319655c4492c483b8e2617638ffe549a2decc9f1dae75645cf7f25c59e0619bc20022ed1d3c9e0d7735dfa4770ed1213fc34c5e377bd4ebdc0253309e2935603090454f81dc163c93dfb76030aa716317d5561e08cf423640caed7549acbf26b915c54ed476b72d550b0d0d219a3da73eda8ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6614930e0713fea1ade3edbd81c10251/6614930e0713fea1ade3edbd81c10251.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Thank You Berry Much",
+            "episodeId": "roboticsnotes-2079?ep=25068",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/82e4b5ea3734a2ce2aec409836de4b4bd11ccb2ce12c93027c72d53f06c9e48496cbaefbfbf90dc9faf1782f0a503218245a71ee535ffc391266c6e65f0f260ca28e767fae6005b25b8664ce250bb9c548959d103a17dd127b895f0339b5903dd16d228e3986a2721faf793504641db4f76517463e6c88b902bea3e7ccc494d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7128477e71006f85d0524c1df591bdaa/7128477e71006f85d0524c1df591bdaa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/82e4b5ea3734a2ce2aec409836de4b4bd11ccb2ce12c93027c72d53f06c9e48496cbaefbfbf90dc9faf1782f0a5032181b8446ca87d88598f6ccf7f995db61a9b34404750d137c5ac8d60c75dbfefff72ecd6d2e5547fae10e7c27d61ef3311f060395413c660205563d2a67e914479613ea6af862606fc6449a3abdc6024cd3aac95bdb471d24faf34b5b456327d071/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7128477e71006f85d0524c1df591bdaa/7128477e71006f85d0524c1df591bdaa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Nae Tennoji! Nice to Meet You!",
+            "episodeId": "roboticsnotes-2079?ep=25069",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/81db45e5d4d1f0237d0deb45b5bd383ebf1b1b6226b692af247401ce5bf5dd0641bdf471fcee543330e916f4783773679d22d2fcc94829df932e73bd4818ec5b16a51e306015a9327ae5a7431ee35a17847404ec7a8072bde802487a5d975202947daae2afbfde02fb366cf923f417304fb1f4ab155edede0ea54cbcb35d4328/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03acb6dfdfc4950806b953f675e7850e/03acb6dfdfc4950806b953f675e7850e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/81db45e5d4d1f0237d0deb45b5bd383ebf1b1b6226b692af247401ce5bf5dd0641bdf471fcee543330e916f47837736788cc5cc14f8da1eed4621efcc3b34c4410c55954cf2568af068cb2d0e86be5f82ffc5ccaa2e113a439a462a1d7c75f28789e1f5f135c2f1efa961bc2aa68d1dfa40eb655b5bfe8705a424e10eb6d07cf30b9008d5edace89f889f451036a7c6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03acb6dfdfc4950806b953f675e7850e/03acb6dfdfc4950806b953f675e7850e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Because It's the Product of Our Blood, Sweat, and Tears",
+            "episodeId": "roboticsnotes-2079?ep=25070",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/172355e70e43d5de228c4d76e12847693712ccc542023991ff4b27c96328d198d3f7c541eea8df3462a429c115d835db310edf174d40353f2e0b0fede3742a6e4115250e0023212010b291d0cc8626da4107b54f16cc558fdd29133bf2cc2f603bbf11491f80739473f054b27f03eed70f58873ce2fb5169a346f04751f22a9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/804130a7de2c9a8ca7374f457509d616/804130a7de2c9a8ca7374f457509d616.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/172355e70e43d5de228c4d76e12847693712ccc542023991ff4b27c96328d198d3f7c541eea8df3462a429c115d835db01432a4514bb46926a17b8ec4a85ad0d9df874e851d7a4ab52c487e968ac6a570d054e66f8ea4dc1b4028eb472304ad2dfbb1eb370c5e81b7f949691259eb0b66c8722f22a0ae8b80aaf9a094cf072321445c95dc762d90aa644c4c53ea18251/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/804130a7de2c9a8ca7374f457509d616/804130a7de2c9a8ca7374f457509d616.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Robot that Only We Can Build",
+            "episodeId": "roboticsnotes-2079?ep=25071",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/021e20889f2e123eeeb3342b9c161a003832d3527b8c9159843868b1ae57398a43595c5c62f5ca465515afd3f2dcc843fb08ee1ad4a54a86456abd2bc24e4008a8b14f183c072544f549bc27aee31706fb8762af58bb078303b0747946239e544c69469b137d0498295cdab26300eae7afce1765f4d40804223c140e0ce792ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f7222af58cfa6e1cbb6da2b136a182e/3f7222af58cfa6e1cbb6da2b136a182e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/021e20889f2e123eeeb3342b9c161a003832d3527b8c9159843868b1ae57398a43595c5c62f5ca465515afd3f2dcc8437d6e0adf090514d6f0e4196fdadc2a7aa55d8e0fa6c4c705f288cd973a79b516f2ddd9b1934047ac8f4bdf2f797d974b662d3f967d4683e1371cca660ed71e065f52c522fcd80c3adda1ac4712974e273636da121531c767ddbe441a5dfd7b27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f7222af58cfa6e1cbb6da2b136a182e/3f7222af58cfa6e1cbb6da2b136a182e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Flag Has Been Cleared",
+            "episodeId": "roboticsnotes-2079?ep=25072",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3094cc3d45e9555b66b82a616c7139305d0db92a67cb35b8f08a4fc875bb17b244469047d2c41d5ac4175f37dc3fb5ae44a57f9f1b79cf30cb9db6f3614d97b465dd506ea3de8f796119253583c0f6062e8e330f6edf846a2160df699d0e09081ef5436249dad1fee664101906b626eb94b26fabd1fa0b0ce45b93454ba6ca84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52c16581fb3ab66615ca19732da8ddb4/52c16581fb3ab66615ca19732da8ddb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3094cc3d45e9555b66b82a616c7139305d0db92a67cb35b8f08a4fc875bb17b244469047d2c41d5ac4175f37dc3fb5ae641922fe5f73921aae09e63a1bc6e880303fb59ba4b24c04f310d242f64bd20e6fe6acc5a6f2d29a7ce807a7f9673bf04449255540d4c7355f2f86d40100f688c52c2fbab83a26ca4e72fce30338781aa40ab2c041a78a1aca76095b306c6e8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52c16581fb3ab66615ca19732da8ddb4/52c16581fb3ab66615ca19732da8ddb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Until You Like SOMETHING About Them",
+            "episodeId": "roboticsnotes-2079?ep=25073",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/be97759d565c84540edb45cfeb67b4d1ed5acf7be5ed24fde07d026f1f6229b5c7d92a4fe20fd7779ed001d84a3085f2ab3651dc6a81faddebd50fa6614137d3851154c950d04c0a3207e97c347ccdb21b778e21c355c9ca3e9843f38c39be3abe792c65c3446ce00efbd3a41173631773450b9c42a0b16cd5cdf3458b748d3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/945ceb7fe9980e4aea62b20c4ec7e898/945ceb7fe9980e4aea62b20c4ec7e898.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/be97759d565c84540edb45cfeb67b4d1ed5acf7be5ed24fde07d026f1f6229b5c7d92a4fe20fd7779ed001d84a3085f2057ae67ada9fa4debac86fe867a6d08e8d73046b424ddad942baa0037d366b41572f62441a4011b17cf92ca84112109822fac9ec01d054f83805d816e4bba8b182502082befd02ae0fc2d19c286410abaa749a9233e8c6feffa0d6b70708e2ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/945ceb7fe9980e4aea62b20c4ec7e898/945ceb7fe9980e4aea62b20c4ec7e898.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What a Screwed-Up World",
+            "episodeId": "roboticsnotes-2079?ep=25074",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/55268ea291ae103eca8d9528fe9dbfa53d70a27d52d444073386dd8de1dca3df88c711e4acde2d04605c6e5386769591f631076263b73b5e6f6aa97d527ed8c2dd01f36da90e13333f60559d57dcdda76f36861851bfc521ed7afb5d2152060c46b6a71cd06ff124a44fede9e7bff4296436e77345145bb3f0acf6168b520c1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18ddf7be68ccbc21582cafe76d90bb94/18ddf7be68ccbc21582cafe76d90bb94.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/55268ea291ae103eca8d9528fe9dbfa53d70a27d52d444073386dd8de1dca3df88c711e4acde2d04605c6e5386769591b225070e9d419c241927fcf6818ec877e7af3b34c1a6e8ed0472e26b72bf139951d4d60413ffe11870a887c482c7ee71d47e7787945d132960f3c207cbfbccce5889911591b666c57c18514db36afb8417be70a220aee03e966169365294e175/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18ddf7be68ccbc21582cafe76d90bb94/18ddf7be68ccbc21582cafe76d90bb94.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Stay Like This for a Bit...",
+            "episodeId": "roboticsnotes-2079?ep=25075",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7b4c6fb06d5a113516fa4bc76ea7a06e7537e329d152681e8429603e54142bdcb98c868eb41763661e2cf2decc90655e7c19f941aa53eb6c6e5806e5f425a39ec0fe758611f56d06d7345eb7ea79651a2ea229f32a92cb6e6fd829a8cf4eb12ede5e2ec3c4ba74dcda4fd26650863272412353d9e8a63065102865e78e6a27db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f167cd2b50b0d9930fe33217e12d704b/f167cd2b50b0d9930fe33217e12d704b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7b4c6fb06d5a113516fa4bc76ea7a06e7537e329d152681e8429603e54142bdcb98c868eb41763661e2cf2decc90655e2c810ad04da995395365803a5d7578e055b4e7333ec936fadd1d5c376d5dcaf0d115d5c830beee3ee25a9a184d031a91608c9df165439c1ad76a043ece188c313993212d8f2b87d3f1780ffc6888b05c1bbe6ee1e199407d1ec4bb427276402d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f167cd2b50b0d9930fe33217e12d704b/f167cd2b50b0d9930fe33217e12d704b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'll Let You Dream",
+            "episodeId": "roboticsnotes-2079?ep=25076",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/64f43c0747ffcc2b585903677b25caecf5cddcb410538660847969b07924e25837e2ee784643ef494671311f3d7d9aad174ef7a26a8da0c54309ba1746fb6683659f3cb80db4d126bba89b869a010fcd6e8b58da5d92c836ad2220b187f03d44d516e3548283646bdd6daf2af9f69529f1be2d262d7a2da0873fd9b2eb0c7e5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5baea85da881268f620efa98298d28a9/5baea85da881268f620efa98298d28a9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/64f43c0747ffcc2b585903677b25caecf5cddcb410538660847969b07924e25837e2ee784643ef494671311f3d7d9aad9bd33c068aa3ef97fd936cb25577726e6a1b3e12f0effd92e820ecb898a5c35a14af78d10c03fe77ab438b3bfa6a288d6110134f19f5eb21cd0d3807fef228cd022e72f4e1db48558834eaca659805cff4d8a5bd045ed29a84e1b245deee4f0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5baea85da881268f620efa98298d28a9/5baea85da881268f620efa98298d28a9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Love Giant Robots",
+            "episodeId": "roboticsnotes-2079?ep=25077",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/93b81cd2ea2ffd88377289812713d44be75ccd226f9f00ba33c8876dd5dba81f3d81276fdc1e34d4c8cf0811bec2c8282a0fb970299cea8699757a170b5bdf90b8d4a54b9c9e65d6840951e37b4b3ddf937283c04f3b0d9ef7b5bd9fbd331efcb3ab9019cdb2cf915fc76c225313358bfd3d5e860a62540bb5a847f6a5550ad3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffd5fcb4f649fac33edb0d801e9a9fc5/ffd5fcb4f649fac33edb0d801e9a9fc5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/93b81cd2ea2ffd88377289812713d44be75ccd226f9f00ba33c8876dd5dba81f3d81276fdc1e34d4c8cf0811bec2c82876a867329adf6673552ae871a48f950117c22455512c4ba382808e3386847d1798acce5525374afbbcf2da85966265f152e51df4c070e01b5d4a301be6093e0c2e07e242f183e5767813b1eb87c4bd609b148aefb1f5e0f02141f96382e23d9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffd5fcb4f649fac33edb0d801e9a9fc5/ffd5fcb4f649fac33edb0d801e9a9fc5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Robot Research Club is Hereby Disbanded!",
+            "episodeId": "roboticsnotes-2079?ep=25078",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6612613a8511c4d3221423ec3fcbe71d1d20ba1d20521dc13653571e5ea18848979f89c1f28c28da12aa7fa76846a4d6c94dc1bd0b35c9b343db1ea4247bb940c6f988a9efe15a5da06b801cdf0cd86d1b66dff43d71767fb4539e9563d3d94c0919697ccdc3181fb1653b126378254dc84622079453524efa87b37921ee952b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcace961ad963ded093660e9099ab12b/bcace961ad963ded093660e9099ab12b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6612613a8511c4d3221423ec3fcbe71d1d20ba1d20521dc13653571e5ea18848979f89c1f28c28da12aa7fa76846a4d65e2fc4c6ac357f6ce29d5261d8da897796d501c53a77ed1abf3aa3eb6608a70c54b38a9fc92f287d8cda8822647c5715d229bdee8e48080a5e14be01b08ae560a493daee6c7de8bbb31c12b548aeace90b1b428eed6f7e1ad35c94cfaabc4cae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcace961ad963ded093660e9099ab12b/bcace961ad963ded093660e9099ab12b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Real GUNVARREL is Standing Right There",
+            "episodeId": "roboticsnotes-2079?ep=25079",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/956832591ace205abc8da0d94e8977f62eb2aac99ad207793c5f76e081b6ec67bf33d62906b447b9057b9b84dafc5a1be18a51055c14d2a857d34f595338e2499cd758b510a6ab965fb1620c844d776bf80851ab9e83ba7a2923334ef8214a7ec7a1b59371ab0ee31b91ab4013117e4b5f3716e393ea144bf906007bcc95a52c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbb4d375d73320174f1a1616d2c249a2/bbb4d375d73320174f1a1616d2c249a2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/956832591ace205abc8da0d94e8977f62eb2aac99ad207793c5f76e081b6ec67bf33d62906b447b9057b9b84dafc5a1b7ff40fe3973c5e7d0da43befcbe4cc57177814ba4244151ee5d32f63e3815c638b529ea5c2d5aa622787f5452fea68b74b26d5ef53a4d2f3b40d9d1992ec8b3075a2c917b9b5dcc7ade5a280f14ea42cf1f3871af8aa9c36e9999e2d7dc6f5aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbb4d375d73320174f1a1616d2c249a2/bbb4d375d73320174f1a1616d2c249a2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Never Should've Had a Dream",
+            "episodeId": "roboticsnotes-2079?ep=25080",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f270f549c8163affdf008007e971e5d20aeb8a043cdaa47e659a465c81e8aa9cf99fbbf6ffe5b7bb90dcf6b004e3d816c09405c87f156fe49739f3860c39fd55b35d67ac32556f90bc45c92a6c7f59518dba4e0a1ccb25eda23349c2df188903ad30d45c614b64a610352c3d443bcc6af16d84fafce014cd2f2324588bd9ddaf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e753e4074bb4f33363ae12e4de88640/3e753e4074bb4f33363ae12e4de88640.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f270f549c8163affdf008007e971e5d20aeb8a043cdaa47e659a465c81e8aa9cf99fbbf6ffe5b7bb90dcf6b004e3d816839b703a95d4ebc27f2a00150bbdf6e48a979bc22e0a7f5c3d60f8d76e0955cb2d3136940d9d4940729835c8d29d12d554e3d26147f2e66af631b8dae14ebc712af1cbbe28da37259e4e7519d8513e1153d2ae8db4df1977aba1669def0507e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e753e4074bb4f33363ae12e4de88640/3e753e4074bb4f33363ae12e4de88640.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Does She Still Like Robots?",
+            "episodeId": "roboticsnotes-2079?ep=25081",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d3a54ca327009b7137e92c8a34c2829d378d07db2024ad3f956d3be78e546f8244cd55241c988311687e8e8a7ec6af25c181c5e4238e1e594f0990dbb65222a10bf4b60156beb33325435bef6eed4c481561fe47c3570182c2d1d3909c57269f59830d9aacdb0b0232ecd5b78cf457880cd8afe61fb3a6cd5b6880bf6123991a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d5908c559870b39ca51c6978752df9b/0d5908c559870b39ca51c6978752df9b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d3a54ca327009b7137e92c8a34c2829d378d07db2024ad3f956d3be78e546f8244cd55241c988311687e8e8a7ec6af2595b622ca7ce991c92fb086032f785edacef88a00b384b2f64c937c447a59ac0774a760758398bab481e30e6ad6125b3ef32389f9d8580d3aac3e9ef425fbb67aa8d329dcc14f4edefba69b7e4ca11109380abc73eada52ffb0bff4550e18b4ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d5908c559870b39ca51c6978752df9b/0d5908c559870b39ca51c6978752df9b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "GUNVARREL, Forward!",
+            "episodeId": "roboticsnotes-2079?ep=25082",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c879376b169449e6a170607ea675be1a14ca6abd0391ddc0176e7d74f6ad103f6f65e69580ade981dd007679a0865ddd9b00727994b874cec5ab11dfcce2e8eea7c3d1655e94490a6b3f2162e1537cb44e56af910fff6c8c743842f4e1305d603ca743d71c665f9eacb1e3de9617e9e5b111769d23230b859c9078d4ea86c4e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f90e639d1aba57b41b4e6199251ecd1a/f90e639d1aba57b41b4e6199251ecd1a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c879376b169449e6a170607ea675be1a14ca6abd0391ddc0176e7d74f6ad103f6f65e69580ade981dd007679a0865dddbb3a6807c59d2cb285beaa67c4173b6ec3237a915a741eef6b2ffa2f4578ad13d3d4be0d9d1e19e5ba3c45cb5b859c180909493ecc20dae825bfad6e578636cae611e77b2c980fea0af0a2d892963a7985bf4ab3964714b6445fdb51a4960c0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f90e639d1aba57b41b4e6199251ecd1a/f90e639d1aba57b41b4e6199251ecd1a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Now It's Time for OUR Game",
+            "episodeId": "roboticsnotes-2079?ep=25083",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b552a013a8a1cbffa635c9489d4c3c393c64b7ae83446bc5a169f6b2a4bc33b6187663d38c799e9be6e60a76443ba2e19f131e0fad6c348a725ab131087a985c7943e85aa32c79a8e8ea562d03e94101b0331b4b36ea3466248bd686d9783f57d8bd5a736ec3eaf124f77724f66fd2c83a222c55e55fb83db2b962c8cba0809e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ee047da38f788f84f8759879533ad0e/8ee047da38f788f84f8759879533ad0e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b552a013a8a1cbffa635c9489d4c3c393c64b7ae83446bc5a169f6b2a4bc33b6187663d38c799e9be6e60a76443ba2e17ea982e68570e8bfc6114414ba8aca9bc09d07d9d984ab0286f90925093c148c213fb7ff76173f90a1f1de011232b21bac36c7858b92b77a0808174e9ccfd16f1826681b209dc4b151b71d394e2ae9aebe7a9bf00eb065f4a88155e7db72593c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ee047da38f788f84f8759879533ad0e/8ee047da38f788f84f8759879533ad0e.vtt"
+                }
+            ]
+        }
+    ]
+}

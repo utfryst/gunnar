@@ -1,0 +1,603 @@
+{
+    "info": {
+        "id": "sakura-quest-1847",
+        "anilistId": 97903,
+        "malId": 34494,
+        "name": "Sakura Quest",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee2bdc04746a5d5f72eda07f80f19bc.jpg",
+        "description": "Tired of her rural home, recent college graduate Yoshino Koharu is desperate to lead a more exciting life in Tokyo. After a fruitless job hunt, she finally receives a part-time offer as queen of the bizarre \"Kingdom of Chupakabura,\" a rundown mini-attraction in the small agricultural town of Manoyama. However, Yoshino discovers upon her arrival in Manoyama that she was mistaken for a celebrity and the job offer was a mistake. Left with no other options, Yoshino reluctantly agrees to take on the role and aid the Board of Tourism in their efforts to revitalize Manoyama. Determined to bring excitement to the dying town with the help of local residents, the queen enacts a series of projects to highlight the beauty and charm of Manoyama's culture.\n\nSakura Quest delves into the story of a tight-knit community that is struggling to balance change while also maintaining the rich traditions and bonds which define their identity.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser PV",
+                "source": "https://www.youtube.com/embed/KYGzOTL5sOs",
+                "thumbnail": "https://i.ytimg.com/vi/KYGzOTL5sOs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/e914GZzKdt0",
+                "thumbnail": "https://i.ytimg.com/vi/e914GZzKdt0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/ReFziIMt-Mk",
+                "thumbnail": "https://i.ytimg.com/vi/ReFziIMt-Mk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/3WRZKPidbf8",
+                "thumbnail": "https://i.ytimg.com/vi/3WRZKPidbf8/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yoshino-koharu-3897",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1dea943aa08a95ac1145e16dec45a84e.jpg",
+                    "name": "Koharu, Yoshino",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayaka-nanase-2482",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d34bbb9bb85e01f9397acbc9b4a41be8.jpg",
+                    "name": "Nanase, Ayaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sanae-kouzuki-11705",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8df45d900caf2653a927040b9c4608cf.jpg",
+                    "name": "Kouzuki, Sanae",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mikako-komatsu-229",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecfc7c5c031a8f1c17e4aad34c69166d.jpg",
+                    "name": "Komatsu, Mikako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "maki-midorikawa-10576",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c761e5cd49c0780e59d233916ef58af.jpg",
+                    "name": "Midorikawa, Maki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chika-anzai-320",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e93344577a0e1382b00ead904a12b0d7.jpg",
+                    "name": "Anzai, Chika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ririko-oribe-9742",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6d07216e2180bceb02f731f6d3efa58c.jpg",
+                    "name": "Oribe, Ririko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chiemi-tanaka-2033",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83ff0ba8ed99ef1e3805a1c27bc63220.jpg",
+                    "name": "Tanaka, Chiemi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shiori-shinomiya-8262",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d58a79c5501cc837fd31b28696a83416.jpg",
+                    "name": "Shinomiya, Shiori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "reina-ueda-269",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6a604a7d5bba81980b364bf436fa929.jpg",
+                    "name": "Ueda, Reina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akiyama-71844",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aff51d8ecd75e6286f44ef9c13c5c723.jpg",
+                    "name": "Akiyama",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shouzou-sasaki-13651",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c03575fe6463ff860bad287aeda26b7a.jpg",
+                    "name": "Sasaki, Shouzou",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "サクラクエスト",
+        "aired": "Apr 6, 2017 to Sep 21, 2017",
+        "premiered": "Spring 2017",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.42",
+        "genres": [
+            "Comedy",
+            "Slice of Life"
+        ],
+        "studios": "P.A. Works",
+        "producers": [
+            "AT-X",
+            "Houbunsha",
+            "TOHO animation",
+            "BS11",
+            "ABC Animation",
+            "Sony PCL",
+            "P.A. Works",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Off to Magical Manoyama",
+            "episodeId": "sakura-quest-1847?ep=23456",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/931b19a24d6a0e0022cc07a94517ebb56504933e2db0451b6fdc441a46965f181d643cc04e409146b137d519f5cdc8ed1dcd7fd0484edbda8be24b72ebaef74a8776f53e47522097b4833fb1189f479cdae5d2f2d07b2ed04045de356303559172655c9e6ad9cbab1608c93328813242963e49504db91b726fb094860e44e747/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc840e74f7aeab885b62de682743774/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/931b19a24d6a0e0022cc07a94517ebb56504933e2db0451b6fdc441a46965f181d643cc04e409146b137d519f5cdc8ed817ef9b19246600905d89bf43a8f96086a05084140872cae2e6a8f754d62e32cd768365327a685d02a8b1eab97240091acf72c8f3993dd60c4f1c817b4bcf6222652c6e3ef15e6af09efbaea25d013642672300a3e54413807b8386c1e57ef49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc840e74f7aeab885b62de682743774/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Gathering of the Five Champions",
+            "episodeId": "sakura-quest-1847?ep=23457",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/98592320638a6b8df5e16ea34515048dc83d81d156d3decbdc3c1d4f11b58205c0ba789f73177dfa4a90211eea6a34348f0104e065096644d2986a0bdcb036273d403c7be660492211ffb928f3a622092fbfbf27344a1aa8b9b0f0c78bcb2d4630839eda3ecfbcee035cc607533e4c9b74b5ef1caeac03a48e6e636d1b08e8a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6e0073b6fb751b538c572ea8e6d854/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/98592320638a6b8df5e16ea34515048dc83d81d156d3decbdc3c1d4f11b58205c0ba789f73177dfa4a90211eea6a3434ab61da8b0d3ae45d6629669e08001906486bb82d3732328accd7a2bacc42ecb1df154f410f5d4b468c435ab663ef281f8c510082aa82e4c48b1452a03a9d30c9675c108ba0d10f9ac3168d284f059984d082625573f931e04c8f92bad1a71a77/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6e0073b6fb751b538c572ea8e6d854/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Cry of the Mandrake",
+            "episodeId": "sakura-quest-1847?ep=23458",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a6e2b399ef8a48db42536ae3ef7e3755260b951a3a645d67467a6b16fe48cec07bf1a8725ae3d17cada596172899b920384f4c6f0265fcb46289ee7bcc11d1169d34bd8403beb37c2f1a04ef5beda5826866c6976f6b32001a4c0cc7429acb6f79ff6e783f7cd6fe3668a3a9336ff018a1a6e9d12a7a9493cacdb2feca403bda/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73837df75f239b2951297544db026404/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a6e2b399ef8a48db42536ae3ef7e3755260b951a3a645d67467a6b16fe48cec07bf1a8725ae3d17cada596172899b920b0a3da22f3c62fe2263ce0c4fed58ce2dfea134f5c268b901d0eafc2e5b63c3aa0105a10a5f01a63de970eba27f2b1c0193a0a48c58e2c20899fad2167398835eae2d00ed095d678444df826125a8d206c869d59873878bb765a19ea2101fbd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73837df75f239b2951297544db026404/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Lone Alchemist",
+            "episodeId": "sakura-quest-1847?ep=23459",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5767b78087d61ed8c3bad8c0e64f38784aba6f2e613f7a1dea63bfa36e4f8640ec03e3a52dc80accb48db7e31b4493622577c84fad7de5b7970033959052d22881937b017feee515faccff26386b41451f49f7a27972bf4ab384af08d22e425e8e94230b78fd92105cc82d50401c206d22e20bd8390f315ce66403d004109a74/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99cc8c2df642d4f942ba20523b6f44ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5767b78087d61ed8c3bad8c0e64f38784aba6f2e613f7a1dea63bfa36e4f8640ec03e3a52dc80accb48db7e31b44936256bbb39e0f47c6c040a31f203ed057c252ef971febab958349a398b227f2f7486847affab2cf7af46516e62928d0a4bf79a6cd19abd20993e361a559f88be915d07ed6291d0a024d16522a6f153a7ad2f2814b1343709ca846574cf403053984/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99cc8c2df642d4f942ba20523b6f44ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Budding Yggdrasil",
+            "episodeId": "sakura-quest-1847?ep=23460",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6d4a2ac6b2eba3aea45b021cefcf7ad1cdeae18f60b25324b86609aab29f52fdadcb615594de5138c2fe158afcdd3850203638fcc06ca4f1e0e4563328aeca6eac402d55efaa94eba5152a9f2af8e220349228bf7a6ccafd28a53ed75b3b1f4a9fbfce41c405fd4986ffb4c2f475edada274210329ddabfe5d98f638af74282a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4805049113e155e509b82d213f7b3686/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6d4a2ac6b2eba3aea45b021cefcf7ad1cdeae18f60b25324b86609aab29f52fdadcb615594de5138c2fe158afcdd385091d1620853ab26817e0cea59746c4f98292810e2816df26ab0c0789f65d0c0855cf3b3d86d46b8ab1014cf70d2c17cb54afb698cfb1030e3f688286061f65efae4a1c93a39b847ef0f6e899ed42edbf75c5dc6fd2b3af3f58b2fdb057c10ca28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4805049113e155e509b82d213f7b3686/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rural Masquerade",
+            "episodeId": "sakura-quest-1847?ep=23461",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/26a47ddcdd40b10fa4243b8408f85cece9c8457ca2bf21d5bdbd291e5ec108384448021e1f0ebb182df17a1e71d3eae719eef9560b46d619c12a7f0db685607938c8a5d07ec62caebf1b50c098db64f50cea1c7bf621e65f33e6482316c767505c562a8db84b5de67acab0dd443a172556462a8379a012e801507aa0217d261c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a695c591c8211ce33ebcfd8aca17ee02/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/26a47ddcdd40b10fa4243b8408f85cece9c8457ca2bf21d5bdbd291e5ec108384448021e1f0ebb182df17a1e71d3eae7f429684e5ab5ddf1beea69860fe023928fd899bc8d057bc6b491a70f095c13483da32fe23a26656793da40f3b7f65b1c5cb5dcb1693b75f494897b10bd4d7983df2b7aaf97638d6096a9a163bf00bbdfd8f2336fc62b92cc2a9fbaefb3cc85a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a695c591c8211ce33ebcfd8aca17ee02/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mansion in Purgatory",
+            "episodeId": "sakura-quest-1847?ep=23462",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ebc0d066a397749f1706fd4954d7c0c386bf7f10fb2edaeb11ea1e6aba47232711cd00e3940ce75cb47957e11db280a04e43e8613ec028e88efa0486528b05ca48e866b2645f3e43ba6d0669dde9d3c76a070b9b51d090371617f0d0790d6278a77fc60b35bc39329245133e0f539c9c357bf55d15c62ecbfb93e790f14cd604/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26f61a5dc6eafec214b24212302b4798/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ebc0d066a397749f1706fd4954d7c0c386bf7f10fb2edaeb11ea1e6aba47232711cd00e3940ce75cb47957e11db280a0e8eef6065119ae48e2f64af5fe8134f529e2a3354f8919b630379764338d0e3758798b4de0318cb0875f9f9b510771336e85568249f260a8eaa33ec4b5cad9b2858c430b805b35c1e8e216e57b64297be0a4deb5dd72d3670bf4c92d8d6ec211/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26f61a5dc6eafec214b24212302b4798/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Fairy's Recipe",
+            "episodeId": "sakura-quest-1847?ep=23463",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/30589c38898d1b94ff649737cf336c49f97d4ea48cb51dc5be25843275cdcd6b7d3700160140ddac3fbf3d51abfd34e627f568c5b432d96bd67fab595dbd51233e97603ed6299558422fa8093df7d6b2654608c7201e2bbc0dea901dace9e7cd9f0b5fac20b387108acbfcd02b637995bdd49af6a33979fb1b182d28bcd5d156/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afab353842f76b659f8bd6e098b6f190/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/30589c38898d1b94ff649737cf336c49f97d4ea48cb51dc5be25843275cdcd6b7d3700160140ddac3fbf3d51abfd34e69104e70888ecf40c28ac0302063cf35101d373be9d565d0918c94d74554f55151b714847b9c0731c1e829878d4553ac49acda417cec0e9fca34e748c65fb7d5227f5f968383b890e99331313a3731f1ad7058d7c5db61836833ca23a2f4d3cfe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afab353842f76b659f8bd6e098b6f190/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Lady's Scales",
+            "episodeId": "sakura-quest-1847?ep=23464",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7594918ec8b2be4a7d3494793de359b2291d2500e59ba713e064cf8573c464cd957399d9252cf61fa441a8f6567ed906c3b0f699d7c57df782ee255d12e3efeee12ed721bcdb1c26b228689229b8eae1c035ebf20373d49356c5aee845363e648bf80c781dd9a2e0bbce8fb285909581868c1dd19f170866aa22d30c1cb192cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9d72ac3e1c225fb203063491023f325/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7594918ec8b2be4a7d3494793de359b2291d2500e59ba713e064cf8573c464cd957399d9252cf61fa441a8f6567ed906158efda56e8e1e3a1f3692c07599ef4f1976df780af743da06cb88c8a5f2714ae8e3d9bf31f797c0d3e671a6825b334b99ac5c6779b3e378d4e95c615f6df3088dbcb7aa82d6467fe06cfc45d65c2d48960014d61dc9daa4a8ecad1f63861577/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9d72ac3e1c225fb203063491023f325/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dragon's Soft Spot",
+            "episodeId": "sakura-quest-1847?ep=23465",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ad22cd3b33419fdc1400582cba54321aef8d774f64a47a37eeb8d2b7187f67dd4a4829e0dc0cafe02ee231b3c02b9ee65a1682cc32fb860b9e063e04e83b2015506a62e8969fc66cf2b4196ca9a2788d7e9568aabaaeadda65c4aeeb0c60b55ba3980a3544e3024d90b7df92dd3a33c46929792a3f677f82452fa78a9f1cb0a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9fe0290f809f4948e58754165d42c9fc/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ad22cd3b33419fdc1400582cba54321aef8d774f64a47a37eeb8d2b7187f67dd4a4829e0dc0cafe02ee231b3c02b9ee6c196ff59ce730d18cf335819d39aab847fd69e70e409c914b201f1ea2b7cc14bdb2c1c3f1849f6f39377c2ee29bfb588ff66f9bb3b3c76d5c7d2b875b51426890760ce009e052328c5d51efcbdb4bcddf3dcb1d40536c549d6704552c68a67b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9fe0290f809f4948e58754165d42c9fc/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Forgotten Requiem",
+            "episodeId": "sakura-quest-1847?ep=23466",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1e5a530d3f29ad4b723d3e7d8ec10ba9233fe01f46c73d4a98660303491dca1f02f636419921cff553e744342947d1536b6bd0969a14b7a38574b21fa3f0330aea33c09b316216628e0edbddb26b22289ecec476c0fa15b4a7723f81ef0b8693bd7a8756b4ea27cb987d5d5b391052aea1b0ded9421ba277647694a543f0e43a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5d89a21de18239513a730f16382508f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1e5a530d3f29ad4b723d3e7d8ec10ba9233fe01f46c73d4a98660303491dca1f02f636419921cff553e744342947d1530f9b7c14977439d236447a7b1da4170367543cfd5863c3ba13062fce4442aa7a86540ed3b214c5bbd3c2920b81abfff79dd342e5b40f01d00c3bf6aee93e95446baa8fd988eeeaa08c99822ffb67adeb4eca8a84066f0bec69afda17b4b1b2a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5d89a21de18239513a730f16382508f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dawn Guild",
+            "episodeId": "sakura-quest-1847?ep=23467",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/60c1f77124086bf0851377ed1a7fbd5066f00bcb130f7db8786a1e8953645da7f8313bece76beb018cafd18fd24bcd4a1352feff302714708d140cb6281afbc77c1117dac00e1b00069dbca3f21c26f922dbd01e74e1cfe8887a40c9a6ea6ecda5e59efc45b6cae8065524ab8201514a47b21c2233a76c0599291ec0e3cd3e8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/113d8318bc57506ca3205840ef6de073/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/60c1f77124086bf0851377ed1a7fbd5066f00bcb130f7db8786a1e8953645da7f8313bece76beb018cafd18fd24bcd4aea826afbf397b9f473c59a871c9158eb5f384eee7e9b7cfc70206c2722f8fde9ef9e662381ed6a55d41f8fd8d2880e8c6a1744f1d827f1da45f77339491591f49f2e8e47583b6199aa79555396baef8b58b08ddab2fc37718c332b1de177f93e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/113d8318bc57506ca3205840ef6de073/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Marionette's Banquet",
+            "episodeId": "sakura-quest-1847?ep=23468",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/21517efc36366fb9b619150f735ba550fd7e34e99ea982eb3e21caff70658f3c47981bb887b72c0c9d8bc9699ee0d13e063e70ae86f9626552c863d620f97360010ae627015b68da4b1e58c27f9fdee77e3b2ccf0ae1197dbc044f37203a08a92891cf224b93944e6a2e51c6c6775bc834c53326e34a4fb5902f912bea42b17d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/433540fe7ca52cd9f6b93ba555de456b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/21517efc36366fb9b619150f735ba550fd7e34e99ea982eb3e21caff70658f3c47981bb887b72c0c9d8bc9699ee0d13eeafacf7416ce5f0c1b605a0b54d20cbb98879dfee0b8297703b90a3b36f536b411be9c2a04b31dc6e5541e5e2cdd82dd0c026532567fcb6ffcd0ef9ae09ccb0100ba0f1f2ba8aac1d696ab329729bc2f1a6ad43782323b63fcf10284542dd6ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/433540fe7ca52cd9f6b93ba555de456b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Queen, Convicted",
+            "episodeId": "sakura-quest-1847?ep=23469",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/87a30537f20a843842b4a25e7dbd2e0fb768dc3cfef7d18e913f9393d9193d4bab74ca4b20c7d06df926cb7439194225b208977cf45d8ed6da78d0dbab46d44f2e2baa237192db30db532226ae00b8279428335c0781f19231dc9f2d48545270d0adb72a0e10961ab4cf8d06fc3fbc05e9486a62ed054a570ed89eb7a3c68cd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8275bce565fca88848103cd524e259f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/87a30537f20a843842b4a25e7dbd2e0fb768dc3cfef7d18e913f9393d9193d4bab74ca4b20c7d06df926cb7439194225167714f81f04ab4b781308f76d330a6694cedca43574bf57c8d9ddd2fed4cea56460b998aca6ee3e435be5e0d036bf3d812315f5bd70166aac8b04f731a404bc2e011493a138944c3acefc3eb2789f00e4a5abd91e81f8f86f135d1a29a8b7ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8275bce565fca88848103cd524e259f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Queen's Return",
+            "episodeId": "sakura-quest-1847?ep=23470",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dc2dce9f55a5bcd4d73cf29da4a35b7469aa789a4ca7ad5014370b578d9181d2743ff8831ca03445251fa6d159686f8e2a7bba40b9cbfd2e1bdbaac4c154de54f5dd9b4fa4cdca05383ddda88c059d7e529ba4c9022234c6bb96d63fe579534eb6a5d537ab38611c84e727a958a0a5a378f0c3c8cb6bea2329acd5485fe9888f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2154cea849d0b5d5efab08f2d77d2582/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dc2dce9f55a5bcd4d73cf29da4a35b7469aa789a4ca7ad5014370b578d9181d2743ff8831ca03445251fa6d159686f8e05d14b103b7edc82804f019578a95ff92a7382f600dd38923632c71bf5528f471e83ede01ffc3bfdfc9c273152785472bbd9aac2039c21ac22520b9ddd0e9376d6309a919e9b0084d8d4326be3286f7e2bea7f163406e2509625990ee87d9e95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2154cea849d0b5d5efab08f2d77d2582/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Harlequin on the Pond",
+            "episodeId": "sakura-quest-1847?ep=23471",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0a915585899c8256b4a1d88f0f17f5a5bca75f9ad034521b97001a07da0621042cb33b77f1f54a1dcf3e607b8037bca2aa4d3781ff159d39fce3b7b857a935661807464b6f23497a171bd8def68509010d194609810e551b0001c302c01927958a70e173e8a3ca4827fb82aa93c0b0ea9694a6a01653e44c606ab07260072f37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66b3f5c8488f9eccc915a8be808c9409/66b3f5c8488f9eccc915a8be808c9409.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0a915585899c8256b4a1d88f0f17f5a5bca75f9ad034521b97001a07da0621042cb33b77f1f54a1dcf3e607b8037bca290f663ad0ea6fb5b60e277b876b652c6c3c2cc1f9970d780521b683f25df03d0bb9bf0928219e17446d5dfb8e5aca8ea23038cdde7c1115ac88811087d7534df5ea5d6884c322adaf5b84966d3f87a14aa6e718f766918f31a865d2eea64526b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66b3f5c8488f9eccc915a8be808c9409/66b3f5c8488f9eccc915a8be808c9409.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sphinx's Antics",
+            "episodeId": "sakura-quest-1847?ep=23472",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/6b29fe36170177302564fbad4d2eff8db871cb66d548160646dab614bb156482cbf4c8e141d9eb9cce66a5257f0c5e2bd2ede77e653a5f01870e070dd508f5122d2bd4edbd9926f91615b0b66f141a9cf45cea769e886035c131884169f1e7b4e7c4f69ed26468de95af2c5050fd0a26ce6fcdf3f91c97d71daa6f5a544a7574/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/977bdc2977cba3b164eda65cce21cc49/977bdc2977cba3b164eda65cce21cc49.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6b29fe36170177302564fbad4d2eff8db871cb66d548160646dab614bb156482cbf4c8e141d9eb9cce66a5257f0c5e2bb12e9739735b0e076d60d6192ed5bc9c506f2a0ad498ee1bf8c1a882734205b26da2da1d36636d5d21f36a1dc4dede158882091ff396751151b1d4138303898dbb9dc468e05369136f86fb81813ec543620f26c96fd5ef7c6920609a47975a34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/977bdc2977cba3b164eda65cce21cc49/977bdc2977cba3b164eda65cce21cc49.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Minerva's Sake Saucer",
+            "episodeId": "sakura-quest-1847?ep=23473",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/69931c514568e2314ffdc8f2b5fab82b7e51cc880cb1f19abfc407b3c9c4069f462ad8a53fee76e7ec07abcda69c8c7ed4d109bdc4c785e5a69b1e92818b2c6855fa653efa15bea333b63480144c1bbec61e5afe719f7289543d0c1f90dcad5eea060b4d34961727c2b6e30ec406c306c0beff16e0f67bf8c7280c9824fa487a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df83d78b4338702537df53764e46182f/df83d78b4338702537df53764e46182f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/69931c514568e2314ffdc8f2b5fab82b7e51cc880cb1f19abfc407b3c9c4069f462ad8a53fee76e7ec07abcda69c8c7e202d56f74eb9d5f6dd30f9285be2b646a4144833a98749244354d245d70e5bcaf5e542d0e3e184111066ded0f1e850622ac580fc17639275b44965c208733f3a457fba6581ab0b4b987c1347634476fdc52398b3313c65d29fb4c3f15b2f156f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df83d78b4338702537df53764e46182f/df83d78b4338702537df53764e46182f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Foggy Folklore",
+            "episodeId": "sakura-quest-1847?ep=23474",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2b6aef01212388799a9e64e131db3de3554b91f7a18cdad388f6667fb59a6fdd56af1db8ec80cc30913b0f4136dbdb82bf8b6a4a00c285692680e988ac7a1d5f41e2b4fa44a8a07b11e76c493ab415c1ccca5b2cbbd977e168d6469e64015ba8d7405e4fe73700a7d9e795094e47a747bddfd48274d9a0bfdfb3d1df903e1c82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9812f35962305127b7648b94f5bc3a7c/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2b6aef01212388799a9e64e131db3de3554b91f7a18cdad388f6667fb59a6fdd56af1db8ec80cc30913b0f4136dbdb823b1b24cf0db93b5225a1ab4b5f4423287670ae9819ba6fa43e9df221c21259603e7618d24bda4735eb0822d1ca6e8cc564ea850e359f0b5b35a04aec880f2961a38b0358763384b77387a46629b3e049a4ee544e81f97835361ef626d1cc4d71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9812f35962305127b7648b94f5bc3a7c/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Phoenix in the Holy Night",
+            "episodeId": "sakura-quest-1847?ep=23475",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/09df34e7e1c520b74046e404217c5444f8115478151ea9c98988c0a99d43e89dca651bf98a0d13dff251fd21334ea658295ad31960e3eef29907974643ea950798c786770fdf78f909775282ca4e4d7dc1eaba481fdbb5729c59c55b6bec45540beb0306f25869df3272599d92a533bd5b250ef61b66958c0184f73aa4723615/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b36e8721e46fe023c35c52d0d408a49b/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/09df34e7e1c520b74046e404217c5444f8115478151ea9c98988c0a99d43e89dca651bf98a0d13dff251fd21334ea658bbce9dd83ed2c97467554bee8e7154473b1f7250b4fcb02bf9e58064aaafc5413bf9f7ce27c02d0105f8b693b67dc247b9fb836d93276c59919d04ff7bf73e81d660b713993b7f0685779148776f8f3078d40b253f71ce4ef1527910fa87366a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b36e8721e46fe023c35c52d0d408a49b/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Pixie in the Town of Ice",
+            "episodeId": "sakura-quest-1847?ep=23476",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0653ef133e35b18f06966538bf3e5af15b580ae2852491675198e3af0e8796a73133a4f449d6b677c33345f6583186357d9bb604511a92b4d807eff35b109f088e66a53447349509f85402525f4a97daec167bdf619b57ec844e0fc6393f06f870bd6506987093b1e11efa9674464d01df35cbad378c14c9a94284efb7466cce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f67db3e28264454bb7fcffefcf281a24/f67db3e28264454bb7fcffefcf281a24.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0653ef133e35b18f06966538bf3e5af15b580ae2852491675198e3af0e8796a73133a4f449d6b677c33345f65831863506e619fd0a1628a7cceb4002e43130331c5a55df11bfe738b2a7cc287af0028e0e51ca695ffee2e92c7c54cc3a97deff1ab9b5d1276dae672e20f47e7628edf8fc23270285cab208bb110896b0564b731a36b7ff59e7d43adc0ca63ff4b0ba63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f67db3e28264454bb7fcffefcf281a24/f67db3e28264454bb7fcffefcf281a24.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The New Moon Luminarie",
+            "episodeId": "sakura-quest-1847?ep=23477",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/69cd22f2f63d46b06440dc7bb8f0ebbf3f71874a6bb498f00d03456290124a3d834e58ea4c21ce56edb8b83627810520a821ae022bd305a60621895d6e70b01e817480d30b672ee8eb17c70d627ae503d9fd94506bec2f480f0e4f7614145c2863de03d02d19557e553366f3d442a18e8355176fd474358488c7569c1bd683da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cddc6aea9a94634e44dd909b7bacb6d/2cddc6aea9a94634e44dd909b7bacb6d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/69cd22f2f63d46b06440dc7bb8f0ebbf3f71874a6bb498f00d03456290124a3d834e58ea4c21ce56edb8b83627810520d8080fc9e5c6b0c97160e948263d91514662040b6a0efcad19e01cef5163f4b93066ed571d395ea21675a17b49a052875e10bd6df7ff1f5b4695be323a399d1c7fd7c0ee47f3765d4ec8209ebb4ef7b7e0ee1bf9988550dd7447b10f6252d3e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cddc6aea9a94634e44dd909b7bacb6d/2cddc6aea9a94634e44dd909b7bacb6d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Crystal of Melting Snow",
+            "episodeId": "sakura-quest-1847?ep=23478",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1d11a01b3b9a55cdfa66bbf4f2f397e2c736b35ea7c316f4a665e75f7a22e19d88eb0f5d06c8d7452296061d73177d1cf59b6bfb266e06c79d00d48cf34910eb0854064dc5305a4ea9df372e036f31fcc12adffa64bb382f8b0e0c2492604b3e62e34e3d6a45cc8b52d1084782b3ba106bd02bf0715605edf792f79cab89e405/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cdc51bd1dd6a0ecd705b511e16d08ad/2cdc51bd1dd6a0ecd705b511e16d08ad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1d11a01b3b9a55cdfa66bbf4f2f397e2c736b35ea7c316f4a665e75f7a22e19d88eb0f5d06c8d7452296061d73177d1cf64a3bf51c97e3546bcad5f413514c6d61a590155fd0be95e625cb37b8c20f0aad8330e2ce1c34e2d26c59995ceb4c3c93a2f622feb28241de65abf4183c5de952ca2a6ddfb63b2e9b18951ff9a68c4aa404a35d6740f46fbedd35d7a4d48e9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cdc51bd1dd6a0ecd705b511e16d08ad/2cdc51bd1dd6a0ecd705b511e16d08ad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Eternal Obelisk",
+            "episodeId": "sakura-quest-1847?ep=23479",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e25748bebeaa8e916378c19f9345de3220f0270f658068f24181dbaafbc454444cbc82ecc4e6975ee51a768bb7b29bdad83dd5a35c1e15b4daf823a69b378165ece0e0f79ba5e7fd0f4a9a31a079cbd3499082097dfe9f20e93d7fbfac0f26417ae1d50f02da1ab4678f27782ff2695ee0f5a61727496edc0af9e52f58ad7bb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b11ab0596cc84d09defe86751d3db0b/4b11ab0596cc84d09defe86751d3db0b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e25748bebeaa8e916378c19f9345de3220f0270f658068f24181dbaafbc454444cbc82ecc4e6975ee51a768bb7b29bda5b6a13a33dd66334b7f50c2ef35cfaa41c4718a4b8434f6c5bbefab56bef139ceb02a680a2fe6d5d4db3750e0e62ce6a2ac48edf25ecbac63c862382ea0db74e599ba08d19abfe4fdec2ed65a0079f9396c86511d5a201e875bcb91c6b6a3649/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b11ab0596cc84d09defe86751d3db0b/4b11ab0596cc84d09defe86751d3db0b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Kingdom of Cherry Blossoms",
+            "episodeId": "sakura-quest-1847?ep=23480",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1e96cf41059b8dca4c2498247f5e4c2167b5cc228dfe75639031a85b813b07e2deed357b848b3bd3cef4da80e325c11e3cb11951f5f396ff8644cc1fbb102aeff5c3f11bcd7bc57919b5909c5df2133f4f427b2f0235fd4d51a6666a8b590a9659c79ea2845a494a97b5492d9153945260e5710890cbd86ff5fc11fe6c899fd4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cccccd972008c002aed1426b29c57d8/2cccccd972008c002aed1426b29c57d8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1e96cf41059b8dca4c2498247f5e4c2167b5cc228dfe75639031a85b813b07e2deed357b848b3bd3cef4da80e325c11e16038ec3f2df44c221049c15cd5f1cd5c8372f8f7f1ef39d11d6c5a8f628c9606d68ec46ee07326356b907e2a57055aa2cab1ebe98d7e6880b53d99211b036b28df1a58c5c52c5e74df288578759c0316587acab324d469c9862cd976df088ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cccccd972008c002aed1426b29c57d8/2cccccd972008c002aed1426b29c57d8.vtt"
+                }
+            ]
+        }
+    ]
+}

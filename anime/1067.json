@@ -1,0 +1,971 @@
+{
+    "info": {
+        "id": "sailor-moon-1067",
+        "anilistId": 0,
+        "malId": 530,
+        "name": "Sailor Moon",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1044111c86585d9ed55c41c7f6f6262f.jpg",
+        "description": "Usagi Tsukino is an average student and crybaby klutz who constantly scores low on her tests. Unexpectedly, her humdrum life is turned upside down when she saves a cat with a crescent moon on its head from danger. The cat, named Luna, later reveals that their meeting was not an accident: Usagi is destined to become Sailor Moon, a planetary guardian with the power to protect the Earth. Given a special brooch that allows her to transform, she must use her new powers to save the city from evil energy-stealing monsters sent by the malevolent Queen Beryl of the Dark Kingdom.\n\nBut getting accustomed to her powers and fighting villains are not the only things she has to worry about. She must find the lost princess of the Moon Kingdom, the other Sailor Guardians, and the Legendary Silver Crystal in order to save the planet from destruction.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 46,
+                "dub": 46
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/7lUnzJ30jDA",
+                "thumbnail": "https://i.ytimg.com/vi/7lUnzJ30jDA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/RWPyM9afQ-w",
+                "thumbnail": "https://i.ytimg.com/vi/RWPyM9afQ-w/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "minako-aino-956",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/210e1010926125a599e2a6603849c705.jpg",
+                    "name": "Aino, Minako",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rica-fukami-1433",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/037d677eb083d3d49382159d9f94bee4.jpg",
+                    "name": "Fukami, Rica",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "artemis-5509",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcc6f84217cb71a2d33fc39895998dc3.jpg",
+                    "name": "Artemis",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "mamoru-chiba-1335",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a2c782f04d7a9e2b33f700f206258d5.jpg",
+                    "name": "Chiba, Mamoru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toru-furuya-628",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c3e890af5929ed2ba3348fe9cc51046d.jpg",
+                    "name": "Furuya, Toru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rei-hino-871",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/833d9f45dfa9b56508636fdbddec41cd.jpg",
+                    "name": "Hino, Rei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "michie-tomizawa-1823",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6d42448cf5b4da1e8d03c869156bbbfb.jpg",
+                    "name": "Tomizawa, Michie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "makoto-kino-968",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34b84da0e2031b5dce3d3d33885c69b4.jpg",
+                    "name": "Kino, Makoto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "emi-shinohara-1567",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/241d3a9ec68e1ac82e8944604c26e592.jpg",
+                    "name": "Shinohara, Emi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "luna-2394",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a0fe441eb50588f83783f10d2019a19.jpg",
+                    "name": "Luna",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "michelle-ruff-367",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eea7fee3fc8644bc065ea7e58e658e56.jpg",
+                    "name": "Ruff, Michelle",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "美少女戦士セーラームーン",
+        "synonyms": "Pretty Soldier Sailor Moon",
+        "aired": "Mar 7, 1992 to Feb 27, 1993",
+        "premiered": "Spring 1992",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.68",
+        "genres": [
+            "Demons",
+            "Magic",
+            "Romance",
+            "Shoujo"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "TV Asahi",
+            "Toei Animation",
+            "ADV Films",
+            "Viz Media",
+            "DiC Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Crybaby: Usagi's Beautiful Transformation",
+            "episodeId": "sailor-moon-1067?ep=16951",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ba91c7b12d51adbfb148e43c3e176110fe7a2f0c20150e0248a773215ab1d1e9723e971bff5ff7f16150fe1f2ec23cf9b34b910be742a8d26b9fc938a0e27212e46e09514d8a4ac5048f1a6de37a19108117f89a4ee28b4ebf051683b4fc45227652853f9d5f42f6be3bf49749c8834d2a2cd7f45bf20dd6429fd478d237b06e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa3e576be4c47c58037bcca0432d3e14/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ba91c7b12d51adbfb148e43c3e176110fe7a2f0c20150e0248a773215ab1d1e9723e971bff5ff7f16150fe1f2ec23cf934d0ab529ff20ac58ec1d372bbfa96da2fc7515cc445407466cb4f7cffb67bbebe797b8799527a739890c82520a66e6166233557974e50f2d2d068ee43b8c3974ae9c1eaf1677210bc1bfb2ff54e22e7d5d421b0fb2ff1a2e3602c123ccf6149/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa3e576be4c47c58037bcca0432d3e14/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Punishment Awaits: the House of Fortune is the Monster Mansion",
+            "episodeId": "sailor-moon-1067?ep=16952",
+            "number": 2,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/96465ac2a06f0a62c4cbd85353aaf728c45e7c164cb7ad8ed0e94906a21a12bd765ebc42732955c8277480d7c970dd411ca1ecac62d2bedab715bf9d33c3f650f5ddb6d28eac8a64d987b8caaec21f88718a8bb15b5b9080835d7ea35359274ada7183e9d542d091dbf7b603ba7f37df369984b342c31cd1595c0b72959aa517/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/96465ac2a06f0a62c4cbd85353aaf728c45e7c164cb7ad8ed0e94906a21a12bd765ebc42732955c8277480d7c970dd419daef0a3ee3cfc2e85b5d1b5a06b1b49b3b18619ad58022f57258e5ef410633d490f4a6b12c02875c3d0f0500ed59cab209230140a874b0401f528c979aaaa939f26823c828b2a04d64a074814200c1280fdd39cbdf2beb5f7977a25736a4d82/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Mysterious Sleeping Sickness: Protect the Girls in Love",
+            "episodeId": "sailor-moon-1067?ep=16953",
+            "number": 3,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4ebbfcc0f2aed5bb2e7395cff7f142ecfdc064938ab6a4af12cd5d6c5821c1d181b624d3a96560e1447753477f3be32649259e07345bbad1d862ea29c713d52ec6d69762afa50cad2fdeacad129908aead22c4ec4fe5fc2b9f41cfb5bc931ae08baecb50c3753d66b394995879b5f29179dc3a51fc8cb4308271344abda1875e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18a38651c31df59d30b000db4c47fec8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4ebbfcc0f2aed5bb2e7395cff7f142ecfdc064938ab6a4af12cd5d6c5821c1d181b624d3a96560e1447753477f3be3266097740e10c65c89189e59ddbeb125b692230a66fdfc64b173f77e41a39c259409f479c64f91f94de29de9d35f7691dcd07505c9497848acdc4ad0da643434b91b8261ade45c732148d9f395ee60dbe5f60c7be2ecdb5363af4b8848b90cfd56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18a38651c31df59d30b000db4c47fec8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Learn How to be Skinny from Usagi",
+            "episodeId": "sailor-moon-1067?ep=16954",
+            "number": 4,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/39f1cfc4898469db184d9a8c9ee0a72f1a00a7143749d9f1b499895dce43be3581a47b50d04ed02f891a04c62c45e6272f4d8d3ecee1307c31315577c531b434c3f6b1776fc7973dcec956ca17934052a975ea0f4166da6e3394e894036b686c9956d0fd9f191c4e02dabaaddbe8aa3e6dcca69bc011879c8a1dea1c8d037f8f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dff973bc868cf30f99d5d9b23d9bb87a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/39f1cfc4898469db184d9a8c9ee0a72f1a00a7143749d9f1b499895dce43be3581a47b50d04ed02f891a04c62c45e627bc98b0b023ddf157fa6ca22fcb08ade99cdcc336faf2034fdb0f567f26a7938b0bea5332188fe088129cb346b8774c04e29ce8b5f0cc7dd145f9bbbd6006210be86543e56c77e83fa49f3ef45b1c963cd42aa28dc27d074cf4c4200b3a3a7bcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dff973bc868cf30f99d5d9b23d9bb87a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Scent of a Monster: Chanela Will Steal Your Love",
+            "episodeId": "sailor-moon-1067?ep=16955",
+            "number": 5,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3140db6a3b91a847aa96b492357cc02d4df440c1738bc644004256d8ecfe0d7dcd353eaa6ed77001d7ae524af62d31f49ec53d7332422b5b07595a2afc1d9e45ead4f19551888405b69767d9deced0d65eb35f70a11544a0ee26e433a414efb9dc222edb9b12aff5f667fe474ee986ab01c433e017de828c71577445f20b6316/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85cd1ddff5991efdf0262e4d637e9637/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3140db6a3b91a847aa96b492357cc02d4df440c1738bc644004256d8ecfe0d7dcd353eaa6ed77001d7ae524af62d31f4cde84cea66ba776a7e5025a23b7ad7cd612f494b318b0da47bce10c3b70d1662fd0b80f4301624294fd7c5a51da895bd4e9cee90d7970fcc183ba7b4904fa6302626d7cf0d46e694e3087c6d5b04773f782aea042d87b4d74e079fca186f3bfd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85cd1ddff5991efdf0262e4d637e9637/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Protect the Melody of Love: Usagi Plays Cupid",
+            "episodeId": "sailor-moon-1067?ep=16956",
+            "number": 6,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6bdf04e8ae4e1ef1c53686036adb249ff03833758a0c024bee518f8f19188da3ffc4ee3db2520768e80d510889a47496b9f74467be3f597b405b5996050cae3a7dfad6de32b7dbed38d142cb778c9279009d783bf2a424337ebadee1c9106386f13232c36c19b9fc22c188fea234698f0897a7f7ff4af2d0722944fd4f6643c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70bd1ac18a0a4c3e47975c3fcd83b58d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6bdf04e8ae4e1ef1c53686036adb249ff03833758a0c024bee518f8f19188da3ffc4ee3db2520768e80d510889a47496ab14a50e76d2b765403fe4bce2bb7c40f58b1c63d56aa5c98da7ae024d0d70da28e6ce79a25a9cabf6be6ecaf7661a3cb27307e54f380670b479c93bdc4de3eba86e8fae5626fc39d7d543499d58d3f25420a0b27d3ece222067f0ff437cb640/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70bd1ac18a0a4c3e47975c3fcd83b58d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi Learns Her Lesson: Becoming a Star is Hard Work",
+            "episodeId": "sailor-moon-1067?ep=16957",
+            "number": 7,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/39e665679ab24979d10f3046f6c9b021d1d8b3b6aea30becc066756bfdba4b76505dfc36b9a4964abab34f67e08d3298639a96466eeef5c0992e2b68079866bbcb62107787bcd8974e8e1d500faadc78f5fd37d32eca542348598bb8145377bb1489d87e9e23a94ea26469a52050e2cfec803521d54bd380f778a0d6bdce60e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f8890497b57a1dfaf55a6fe73e0f9e6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/39e665679ab24979d10f3046f6c9b021d1d8b3b6aea30becc066756bfdba4b76505dfc36b9a4964abab34f67e08d3298b2e4980bb7aefea5cd9f2d37e38e0a42620344c2bfa8c4c0a3ce02a94a68bf27b87e75c10fb12aa7592ddb77e25d37a59d99a7ab7c78602b2316f438bd5c48b0a6a7296f63f45ff0e242c737d45b7c2b4726a5c3913b18ca0031c5ed9f5cb6a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f8890497b57a1dfaf55a6fe73e0f9e6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Girl Genius Is a Monster: The Brainwashing Cram School of Horror",
+            "episodeId": "sailor-moon-1067?ep=16958",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/489130547e5c0263ce53eee00edbe2ddeed09e064633834d3e6231da1f8832afc8ae72942db15b355486f51064556e3533cc9d335fe2ba06827609577d2853437a710e637b9e8a9e61539105dfcf824d672a8fd2dd67cf4d120be99716d3ffc2d16d38f974a788ccdb9c8c3e7ddf703538fe38daf60bb85b8fd074ceebaddc78/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03a5d1b3e55b5c5a59b1aba576a93ea8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/489130547e5c0263ce53eee00edbe2ddeed09e064633834d3e6231da1f8832afc8ae72942db15b355486f51064556e35b1b102f00bfb2ce3d0bf2749f78e384900812f14037cb72eb20747ca83302424a92694a815cc44abfeae0800632f18b9f29b18c3680e3c41ca67c16b2f0e15f7fa51c2c48a44e4012dff6619872e90793287cf005ff8cfe01289ea553fb771c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03a5d1b3e55b5c5a59b1aba576a93ea8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi’s Disaster: Beware of the Clock of Confusion",
+            "episodeId": "sailor-moon-1067?ep=16959",
+            "number": 9,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/dc7d27773d6be7f2bec920bca8883346141f18d7dae85691bc9412c1a4351965f9bc4f52b087918ea0edfa44862cd09591abbbfb64889f9ee465dc54b6685ea9b413a988038c7951a450c87fac0f36b57cddea07338a39fbe82161ea7a3fd403722f2dce80a5c340fda7b9271e6a8884312eaa11b60f622c1019cbccdf9c7386/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1862229aaf5dae4f56f47a9b81f0fcb5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/dc7d27773d6be7f2bec920bca8883346141f18d7dae85691bc9412c1a4351965f9bc4f52b087918ea0edfa44862cd0959c4e18ddb0ed6ba7ade10e97c36a528f61fa20b5fdad9358e5aef67c2d0f51dd84f4d9b0305c4cf4e4611e042b185e31c65800d96a734d160ff9ae7c3f08c23f4871d45538d3a25432b097b1de1d744fec02dbd60ca1cfcaf59514e00f7c509e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1862229aaf5dae4f56f47a9b81f0fcb5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
+            "episodeId": "sailor-moon-1067?ep=16960",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/04462de1694dc58461861f47479ae6ea280d471ee88e1d41f8b4b09765a6800e7eb8bd7f3165462b54f0ed670117df63f4a8dc457aefbe991706f74d0261e9535452a29d6519319201bb17e71de63fdb70131f23afc458ff632c75f7a941cbbb8b33336a3abc6dce857620105e3b1534b0abd687cd2086b8b4967aa4dff07021/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4f5b29e4d7d666a2baea14efb93c717/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/04462de1694dc58461861f47479ae6ea280d471ee88e1d41f8b4b09765a6800e7eb8bd7f3165462b54f0ed670117df634583dd163ebdda37f7e76516ad60c66df0619ab6346a99d27f9cbb30cb418c5ed512d624d9f7db2684f376d8e5bbe8bf6f04464d4e96cfc5087ad30b07af5971e4cc3ae012b5f0648a4c1fa43edffb6bc9ef345ad87d042eb33277f93bbbdc1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e4f5b29e4d7d666a2baea14efb93c717/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi vs. Rei: Nightmare in Dream Land",
+            "episodeId": "sailor-moon-1067?ep=16961",
+            "number": 11,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2cc8b84f2c90873f460a6e8f519681cbee387b34999f370cdb69489ac673222d3812bfdfdc51580b769e8a3387820eac88d74655012fa544913103c7a7f92532b4d5ade6d4f69031ca3208c11fd49025fd4760fd85c2f79389893def9bd7b9493fa3ba591972842aba0d3de6ead84c7615bd4334f378dc4f1c2ea4af5e060a9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89e03da5ace529cbd871fc3aa19cbb80/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2cc8b84f2c90873f460a6e8f519681cbee387b34999f370cdb69489ac673222d3812bfdfdc51580b769e8a3387820eac61f20ce049a409619c394a8b7c9860f16ab0f186f2610cd8f9008248f54907a1d23a0d5efac3396f07143887296a37a5fe5d22df3620a442a5e007811337d020deb742ee731c944c2b68e63de4803bbaa244ad9b00a0227b352464d01d5263a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89e03da5ace529cbd871fc3aa19cbb80/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want a Boyfriend: The Luxury Cruise Ship Is a Trap",
+            "episodeId": "sailor-moon-1067?ep=16962",
+            "number": 12,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/62b8312e3a0773eaa96992966263f308acf23b1901b2dff3da0dc82f28aa47fc8d0300337d02cae8419bcc63929cfe9985a2fe9ef44e55a3f9a1d14e10c11083eaaef78058be005ed48047f79e0d3525e159cb69da4233e5a3a1e835aafbe20acef6b1746c26b6dac570726936b4c13ae9e19b3931161df7bab8838cb127f1bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/641dec1f5935e0261564f997181a2c1d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/62b8312e3a0773eaa96992966263f308acf23b1901b2dff3da0dc82f28aa47fc8d0300337d02cae8419bcc63929cfe993dcaa75c392a3af87917271ff34fa647ea23444259319d1ec33302c299b8a0c6b76a9e5c6fa6948e09cc731ad778523f596bf618809defb25858ad241b97626fb51f1d1b2a487ca3b42ebf73754aea39e1f0b869dce0123691c927dc91455147/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/641dec1f5935e0261564f997181a2c1d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Girls Unite: The End of Jadeite",
+            "episodeId": "sailor-moon-1067?ep=16963",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a02cf0d845c05ccb2ad7be4cd09270677c7fea218bde3e908871218d31162a638ce594f3cb2660a088dd082a3398396528265539fddcd07a24232fab0cb55493804f424a3feddc21d6ed4d7ada01c67ef953f62ede5b032c3f5feb3b111b0d04ca0539eebf5c0aeb2fc275143df81c3d9c3917a2d34b90ab2898eef4fbb6cf60/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5f27a71e55c09cec33d67fcdfb7fa8d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a02cf0d845c05ccb2ad7be4cd09270677c7fea218bde3e908871218d31162a638ce594f3cb2660a088dd082a339839658c825769099810919b56caac71ac54f4fbea0255134cc764b22153e742c0280ea6a958ecd4f1c417daf2dd9276bb37a4c03855d57a401d0a0091a82b9ab8ad41dfe09ee8047b2c087380afe2095a97ba7fb46f258fb280ff3d05035bfc1ef51c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5f27a71e55c09cec33d67fcdfb7fa8d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A New Enemy Appears: Nephrite's Evil Crest",
+            "episodeId": "sailor-moon-1067?ep=16964",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/550884414342ad1b4a7d19c74c2837e08628f3a20960fbf42a0e9c34d878582a50ecd9d257861485815e69d8273a9bc4a7eba2aa763877ddcb1e3e0063d1ed54a070604d0b642e220c2c95e1ab6fb3e8db22eb5e4a2a7a3bbedede1c1bc8c297e8c6cd466dd6a74ae56d58a16ebd42e44eeb8eca2ccee42c8a569878cac6f80d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c0dddc5d765a7f778dfb00f75a3e08a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/550884414342ad1b4a7d19c74c2837e08628f3a20960fbf42a0e9c34d878582a50ecd9d257861485815e69d8273a9bc44ae6fcd2daddab20482c8c57ce7b8263405a33967b00b1157f43d5595c2b6b37c350653113dfe370dda6156867e6097e1daac194f3b7dfe27c84cf0445a2c56e0464b04e1a0bfff6479e3245520557dfb38e774b9a0152988efd873ad68960dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c0dddc5d765a7f778dfb00f75a3e08a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's Panic: Rei's First Date",
+            "episodeId": "sailor-moon-1067?ep=16965",
+            "number": 15,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e73d0e1fe85a8d10fc2ab664f3fb03ff514698c236d1e30898332a355a467c6ba40d0f3414e4715e2643605e561731d78e8cf680d91775f34675de7cca41d9d7fb6ccc383ef17572ec2ed58bda57e89cd1c39ad7cf456848dd7793cae7322d9391b6afb553be99c2741bc199ed6af1c4fe251d62840f47392e5dbf64749c47bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c540f85944fa7687d0e0756667c3b2d0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e73d0e1fe85a8d10fc2ab664f3fb03ff514698c236d1e30898332a355a467c6ba40d0f3414e4715e2643605e561731d75c5c3ec1d330b6a55e54b92658afea1f8e6c250f12766d67490be045b9b3b9ae51e7c5ae31a09e31c40d6dff00c9452fd6309ec6785eb474361a036ee6021b704525c09e17a26820512e16641493d6f1797162bb67dac78373a4802a100914ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c540f85944fa7687d0e0756667c3b2d0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Girl's Dream: Usagi Becomes a Bride",
+            "episodeId": "sailor-moon-1067?ep=16966",
+            "number": 16,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/eaecbabac2bd80672e7159f5623e18346cab2ed3cec52fb6a00e3a813ca89810751f0df9fa960d7fd78642a658c6a4ac0092e46093b8acecdb11dddb8ffa30a523689d3a1fcf26cc1c27459ecc09ccbdff6c9aae3423b127a8d403e6652bfbe9c49b2a78eb08af9a292aa7df04ea09e09f577922ac77a27d23f3907cdfdc66ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8737ba4077a7de49e4c8e5ec81de29e9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/eaecbabac2bd80672e7159f5623e18346cab2ed3cec52fb6a00e3a813ca89810751f0df9fa960d7fd78642a658c6a4ac1d27a2b3267bbd3daa729b04d7d1888f62cf0015356f088f7cce3de55a3001965b42cde88f36cf2a98e0ec8bb5c7712d512b94f7b94cbc8230efeb1faf13545109e4fdbbefebba3e773eff5637d5544209b64aa4ca9708f38755950d3ec72d56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8737ba4077a7de49e4c8e5ec81de29e9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's a Model: The Flash of the Monster Camera",
+            "episodeId": "sailor-moon-1067?ep=16967",
+            "number": 17,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/555bd30de5317669f9ec2cbc3258e81ed595b97a4d75505e50a814340923e9299be08729f8f34ca1323665e7c5e95a7104249775fbea07ccd728eab617f86a765f9b1b5a7475e5776960c84baf021e88d134f966e8a0f412b4ce1f245e756f0837285ae637679b3fb317365e589ea548931367b9789d1d8122d5bc84d81d6909/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f9ef5e9e2eb8d1aadb3d934e5dcd2fd3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/555bd30de5317669f9ec2cbc3258e81ed595b97a4d75505e50a814340923e9299be08729f8f34ca1323665e7c5e95a7130fcfbe6b002b2937a5f357c5829fd80232099a76a3181459ff19541c3664d66094e44a769c8a652b953f45e8025694b209bede8ac283d87ccc5e7c3e9dc2278ceeb6d75d0c003e62429f74a41b0aa243a4405d863bbaa438f1c1ad09bc19554/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f9ef5e9e2eb8d1aadb3d934e5dcd2fd3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shingo's Love: The Grieving Doll",
+            "episodeId": "sailor-moon-1067?ep=16968",
+            "number": 18,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/353bc15b6fa1677afab4b51b4861970f9667147c72fc4db8189dd0107a6c37e85db0c718303b3c030c7c60eff8603211256339b997d593d96e62fbb06de9343b70c1c9a3ab0c6e7fe689ddf93a2a335ac2721070dd74bbf80737267a9dc87929e540b4e633c39e84a8d4b46bb8ee771eda860abc1e22a69baf235897bf1ec8f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3249b846615a8bee1f628f1826e4ed8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/353bc15b6fa1677afab4b51b4861970f9667147c72fc4db8189dd0107a6c37e85db0c718303b3c030c7c60eff8603211a1adc6b6776a4a2b600eec00b00240209397e0f6a2bffb73dec5cf788ccad25c86e5815017648a01a4f4a95620dd326855ca80604cefedd3e187997a7784878b19bb3364e385f967706700b491960579e8d2856b0477a5ab99112905dc88b8ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3249b846615a8bee1f628f1826e4ed8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's Joy: A Love Letter from Tuxedo Mask",
+            "episodeId": "sailor-moon-1067?ep=16969",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b887efe7b3e102f1a080fbe9f0d211629b5d16be68aa44678461feb00a759114adca5b51bc1561677f070ac4e3eca2b8e198a646d28cfb8f1d2160b8d13581e8dea49eeba77ee97353ad2e4bd505b2b40080afd952902ca513288fc420f896ae41934e838991b603daa0330b8666aeac90fba6238f651636bd23d1471f41ce01/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcafe1af3766b98422a5fe8186907ec7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b887efe7b3e102f1a080fbe9f0d211629b5d16be68aa44678461feb00a759114adca5b51bc1561677f070ac4e3eca2b81523e33ddb872dc443ffdc7357ea7ac0fa9f85a4ed25fb40ddc04eaab862b2152902d9917c4e436137b0b5b1644cdb8497aad694ade6c33a96444693278d890650538fbebdfed3372c614b4466686090e4af7fe4c7e8953a6521cced88996752/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcafe1af3766b98422a5fe8186907ec7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Summer, the Beach, Youth and Ghosts",
+            "episodeId": "sailor-moon-1067?ep=16970",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/40c33fef11529799438719c0fe47e0f30346ef46a3fb1627d2926bd9a21a8612c3b11eb018fb239bd5b7dd93d17ae6147383694d36dbd2eeb54f97a8bc3fcfb5002034144d18ab66da1107a602bc583714247648e6cee912da357b78fd7496d194777b9240d1ae3660a05b72168fd3a4583671aabcf51f46a7668d48a1624484/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92a65851e94f1a945955e53b01000d74/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/40c33fef11529799438719c0fe47e0f30346ef46a3fb1627d2926bd9a21a8612c3b11eb018fb239bd5b7dd93d17ae6143d867112766ba5d93f9b2a31c8863af903a7ed011fd45ab5a98e32ea213179bc0f737fa3221fb51c988574bc3cefb7faf71172dca2d5bcfd197c1836c995cff928d77b9a7a3ff3e41525622fc4088017bc02d2cff616d2f4733878111c5ae745/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92a65851e94f1a945955e53b01000d74/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Protect the Children's Dreams: Friendship Through Anime",
+            "episodeId": "sailor-moon-1067?ep=16971",
+            "number": 21,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/51b1330f8253034ab7891015cff1984db4ac944768d832542db9b2fca1e6f7355cdb3bc45f4a4dfd00a0adc19d5e0d275849917f7e49b2e39e8d23499d635f431b1bd38babd8514bde63a343d2de64009870ad88cf858c35216b2d0ce3432bc2698ea3df22e73b0818f694b5043675e1d00beedea24e17bda7801c57ebe0b94d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7978bb354438cc16054c7f872a173e37/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/51b1330f8253034ab7891015cff1984db4ac944768d832542db9b2fca1e6f7355cdb3bc45f4a4dfd00a0adc19d5e0d27dcdca20c0b227a5a5128e77f658966f3ef07aa4fe2635c6e02c6e971b532fd00ca21480abd3be71bf54661120ecb28189e7e0729e7ccacc5d140951ba287ac92b8e903428fc6a884790faa9e7707172f418adc28b15a0b961d8de457893e23d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7978bb354438cc16054c7f872a173e37/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Romance Under the Moon: Usagi's First Kiss",
+            "episodeId": "sailor-moon-1067?ep=16972",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/cd2a27ed7ca95e93cb2b8a8723d2d2eb0d782cbb8882385ad3b4b57fb20046219bc9b83e181696d4b6324a86438a8aecbc555de956392a952c42378b703686f40c8c8c27d11619b5ad8459678e2b47ffd5e0cf9e1b51c19461b7c0b667ad27a0f376eb9e2240ab74b13a46794660cd39e6a898581bd4f99f8a12776847e32484/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1f61d3b0ca43f015d4cf1c9923a36d6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cd2a27ed7ca95e93cb2b8a8723d2d2eb0d782cbb8882385ad3b4b57fb20046219bc9b83e181696d4b6324a86438a8aecaa92a8c4b3cdaaa2d8e537d7e546b62b4ad0beb0d0134c841e1b8996893968e10906636223f3792cac400433c13e0a17a4791485fc6166607ed512d514b2c889b6c6bc03134c9867759a4c0c65c869296b16054f071ac3638a4417fe22870e4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1f61d3b0ca43f015d4cf1c9923a36d6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wish Upon a Star: Naru's First Love",
+            "episodeId": "sailor-moon-1067?ep=16973",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/caba893e159fbe65f70a70981dac1c0cbfb58f3d397fe2eaacc18030f85e4de2640682a98a1af1b61026bcbbb15ba6623859fc1ff66fc94353708b220f2933da33fe3bb8df89e574c8a8b0253066dfe844e25000d2ce905264af1ebc749f269aa90d8c40ed10c1f734e624195bd858a045f2f615b668758ad5ce176fafd256fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6acd0219b39d809b96cfd385b5a2ed13/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/caba893e159fbe65f70a70981dac1c0cbfb58f3d397fe2eaacc18030f85e4de2640682a98a1af1b61026bcbbb15ba662320a2702d5c3da20e55baf97d51d9a02be1d6b1aaf29e06401113c743167dfeaad8cf9a4935d6843ff223a69f07cfce1ff0bd9e0be6fa3076dfa06de559b5f6aaca079c8a23d9ecd54fcce47f019cb9c14740425b9894ad72beef7fe4e1976f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6acd0219b39d809b96cfd385b5a2ed13/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Naru's Tears: Nephrite Dies for Love",
+            "episodeId": "sailor-moon-1067?ep=16974",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/92f7e8ec7bf4835e87d53167dda17d47cf8b9ac38286c64b6c971f66c585e085941717962649e1e94a53adc1e1a7ebb730ec5628b1234f33ff703b45a0a3d02908a2403a7fcb99699c0d028695b720f8991e6122a8a2b26be7ebc9551a44e93765327a833acee69f34053e4439e0b9ca8229651f0df204ec7cdd344f81b0160c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8483bed0fca5137083f1fdb3452fee2f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/92f7e8ec7bf4835e87d53167dda17d47cf8b9ac38286c64b6c971f66c585e085941717962649e1e94a53adc1e1a7ebb7524a1cd3ad2811c3fb315720e68082c5db0ef8557c201270628b421f2c625047221341246d464db00b693b7906e56e5da8b27b704f269de4a97860129ed87cab620d9445ae1437923efae88176580a9a61cfcd108ac683839777bf08da135e1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8483bed0fca5137083f1fdb3452fee2f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jupiter, the Powerful Girl in Love",
+            "episodeId": "sailor-moon-1067?ep=16975",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/27771b92380a46c7d8a642bb9161ce1ab4ab8396e11b2ede7940d7cb10d2e9a85ca19b7d8c3847803a78a93b8580b051eecfa4b851ae8c5b3b379e1bc55ef71ce959150e59fb514c03865b2b56a80b8783a1cbd23bb4872610f65cd66ca659788bc0f2af6daaaee326a8b28077b41530f6a886edd7eea529a51afc351f3a342d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f415c0a960e65e8b9de1fb52b16a961/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/27771b92380a46c7d8a642bb9161ce1ab4ab8396e11b2ede7940d7cb10d2e9a85ca19b7d8c3847803a78a93b8580b051953d6f0334779cff63177d386a6a8c7882c1fe21631b820eace94a5b719b5f728fb23ef96307ad07cfedcae977739971017323f28b6a9b5f5b5e65e6b957870e63e41fef6039aafc788bda2cafb5373aaee0acb3a55bef3a17a9c3c7ef75ab8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f415c0a960e65e8b9de1fb52b16a961/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Restore Naru's Smile: Usagi's Friendship",
+            "episodeId": "sailor-moon-1067?ep=16976",
+            "number": 26,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/50cf8d5018d570ac2b1fc44fbdddf9d61294e8f2d07c53b69f8a444c0762e976386eb707d6de1d02648d3338a7a4f3997ea30f33b043b30e79cd52dec1c3005115a3d2547f0f21c53050ac6934fdc1c040a792909ca22feaee07374753c69ff085a6f91bd2edd39b12e25009b87de1e1a11c1936cd2dc86002e4d250c6254d9d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35be3dfa93f156c222010c2982b868c6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/50cf8d5018d570ac2b1fc44fbdddf9d61294e8f2d07c53b69f8a444c0762e976386eb707d6de1d02648d3338a7a4f3996278bd32c36cf34326846b7a7b6139c0f8296adfd3c80539bcdb9d9976900009dc2a8f1dfdb507e71f66f5d09de27a071088b8523e09c58f27e58fd83dfb09f0740a3e8a1fcfd39f75e628609d35ac6a1b2fe924e2ea4abf07cb8799e825e0c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35be3dfa93f156c222010c2982b868c6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crushing on Ami: The Boy Who Can See The Future",
+            "episodeId": "sailor-moon-1067?ep=16977",
+            "number": 27,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/53139c562ec8612e97c6c4ee51505f8fb0de350d1349daef465198d7ab605ed49f259e85b03679683a106f72dcea6397c80799b05dd180418083abcfaab3806aa8f353aa6730dd4e217279f150b4bec99cff34e0e7787a9bea8ffc42b9dcb23396b905ff8c4c6784b6a5fd66b22bdd015a756006ad135523d378fc69404ac5fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78ecc7cbd281cf4ba11957e463b51cf9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/53139c562ec8612e97c6c4ee51505f8fb0de350d1349daef465198d7ab605ed49f259e85b03679683a106f72dcea63974eca7d8ffa7129119592a561f7af004ccd86eb3f3fdb90f09d0e08a8b37c552f76181b2dc4cc20295ed1de0dc5a98625523ef023b77b00e4e92eb24ba3dba5905e956b0786df59bc68a712945c3d1e782ac501c847c2e68a0a5d2f444a0ca77c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78ecc7cbd281cf4ba11957e463b51cf9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Painting of Love: Usagi and Mamoru Get Closer",
+            "episodeId": "sailor-moon-1067?ep=16978",
+            "number": 28,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b1451c977be650838122d2ee157d1bf79caa74ead19f399be54e463a97dafe97429b8d304b1fe2e70ea2cc8ca4c75a3a7a00f3d0a9c30fcb36bc48c67b1d3e5be2d321f4ce2912562698ce79786b632cef29b60662f17bccd08fde7b6a3a53262f2f14559175bf4a227061ad738c9ef3e7767a48cd620d0eaeda5a7295c9faf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c22dad7cbc776892b4b9260e2891053e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b1451c977be650838122d2ee157d1bf79caa74ead19f399be54e463a97dafe97429b8d304b1fe2e70ea2cc8ca4c75a3a7c4b5bf33d6e732315acbf518d0bb3cc09b7123d50808f90a659ae0e6046f4f71c3832c61f192a3c35c3618dc260c0231a11987dc2d068ec509443025e9d12affd0289b50f6e750085d01e44d000c3ae38b1eb60acd1b371c39eed4848edd0cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c22dad7cbc776892b4b9260e2891053e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Total Chaos: The Messy Love Rectangle",
+            "episodeId": "sailor-moon-1067?ep=16979",
+            "number": 29,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/27bd0a8e9acf235694e7d2901007a19e9c1637a77c264953ad81ce79ff5dd635be5a90d41c992a0d1b11cf77a74278fe5b37518b083c125c86df5086d3b7c8dcc91d9cdf1ea1c31a644785675782e57315a6ba3a53a5ca8d0285b7c6df6468381ea979f9ec1c1f35fd9ed77bc19dc379fdcae00369cf9973694b4a2d8468d82a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/939e4006af56e4df79784ba91df869f4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/27bd0a8e9acf235694e7d2901007a19e9c1637a77c264953ad81ce79ff5dd635be5a90d41c992a0d1b11cf77a74278fe6eb69dd7eef9758542bb9489d00e547b1ca69483a83d7ae4beca2a598998ca364b3bce08cc81f10494d26f843f1ac73be09dec1bec8e1746cea6359f529439dedc02d17cca4648038d0bf11ffd2c650077a0196c1d22b35291fe8116c6ac556a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/939e4006af56e4df79784ba91df869f4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Grandpa Loses Control: Rei in Danger",
+            "episodeId": "sailor-moon-1067?ep=16980",
+            "number": 30,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/068e29b68f3050e0fa8c1dd34d8b71779ba81ec741c46e0aec1ec09c4ce7ed847c249d409be2d164566389ecbfab638c1d1ce6fe6ce34a12fb3058f26a749c7b8981fdca3f519fd39a0ea7c68d1f2337660da0a8039a1fecc16466a1ecc99f6188a3393b9c48d5b1237c2f4a9a0dbe2728527490f700653802c52459c4a165dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebc8e909542098d2947075bef33735a1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/068e29b68f3050e0fa8c1dd34d8b71779ba81ec741c46e0aec1ec09c4ce7ed847c249d409be2d164566389ecbfab638c4031c076e79b703a074f5c1f7f68be059f39bc03984c9fc85d10754a6fa9f5394718df1fc76da2644af5bcd8212be1d069a351383d7ebcd2f5e61546380e60442a51a79bc74a37084382960df9c6df251892f9a11b276f7192d2bf8f7e83dc1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebc8e909542098d2947075bef33735a1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love and Chased: Luna's Worst Day Ever",
+            "episodeId": "sailor-moon-1067?ep=16981",
+            "number": 31,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4bb71c50108a8c742dc398a9a941448b50ee4cfbba55a96c86901e08477ec9d816f1ce8d4a9d2109e428ae4e52e3ea3f30e803c718afc73d9850b38248353740a58289b59838a4314c1918f29ae472684ccec3b50cece1306ad3fb189eff8a6f7225dde5b12fe0547922efaa3fb5cc30c801bbcf7bad1d68a21ad1814a798725/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/000ade11e32868a782057d2ae4ee00b1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4bb71c50108a8c742dc398a9a941448b50ee4cfbba55a96c86901e08477ec9d816f1ce8d4a9d2109e428ae4e52e3ea3f0467ee9099370b5f314197d79fae6e6fb215c87d1256a45ff593ebdde944f90a0ff6a0c18c16f5d883062ba2203b7d27414ad49ebfdf24f463b926e305420fee2fbf8da0ddb836f2c4d00f256e997a311f8e3d23f71fb5048b4ce58a5031e63b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/000ade11e32868a782057d2ae4ee00b1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Umino's Resolve: I'll Protect Naru",
+            "episodeId": "sailor-moon-1067?ep=16982",
+            "number": 32,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/90100c405880048c25e30f008e1f48fbd60953af2597837c8fae5dc76aea8a502e39697113e2314b54e3966fa0bd8f26792be548a0ad8c0a24594f878f299c741eb46fe3c037f02d24586f090d1cf64b1ce51be1095493706c92b3d5f3646dceab30c0963b7c780deb42aa461bb50145acbd8cae857a3db45cf0ac32c1a32640/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/788f16ee3db31af13d5af65ea7d59008/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/90100c405880048c25e30f008e1f48fbd60953af2597837c8fae5dc76aea8a502e39697113e2314b54e3966fa0bd8f2684f9653f81997230265c115cc45692b04f673640ec3903c0dfbd4fc2b2922bcb8347fb4c16c300d37aaee0ba82f0c2cc154ab18d17ba4e94e43a70b2538c84ff3ca670661bff6b4d30764084f2756212c50f145597408143bb4ffa1724e37acd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/788f16ee3db31af13d5af65ea7d59008/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Enter Venus, the Last Sailor Guardian",
+            "episodeId": "sailor-moon-1067?ep=16983",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/460c396be93384e362c7c1efb8b59365a9e255dd57b43a59dc96087106653f41978b1d055778363fcad096d4ad091ed040f844f34df4dc5eed27f487f675a6662c261de5caabb8f0dbe1f0f173170fa3f0f4cf6b6421bb6c1ad0e2369dd8a413989bdf78c610dd293ceb50ee3a7973313ec50996e42ec8382c08dd5ec6cc5da8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0bc84afc54b227a32e35ed7e9a03392c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/460c396be93384e362c7c1efb8b59365a9e255dd57b43a59dc96087106653f41978b1d055778363fcad096d4ad091ed083b7e767772a306095acaefccd810bae9fada34243ed817a9877d46d8fdd1b1ee5671e1fc1673b7bce7aac78cd0b98c0040135dd16d0e79763531460b1d68a2606d19d7135a163d3449fa8b7d24537007db5a671c16e3987f07e4cefb277fb56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0bc84afc54b227a32e35ed7e9a03392c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Shining Silver Crystal: The Moon Princess Appears",
+            "episodeId": "sailor-moon-1067?ep=16984",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2a137d9c113cd581440c4958d31a9b014d3ed0e6bab7aa1ff50f3b6de94ea749cd30255e0572801fe1b0f319616e2b677ec7684305732673382cf5b50dc386c8f784936c5c98d30321a5f83a8381448546108391d11c74c38820bd5f07e8708e98032555077a6f88f7cfcf9d2b63d155952c74a6722df60918eeed829b954098/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e587effda7da071a2af73db67a8008/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2a137d9c113cd581440c4958d31a9b014d3ed0e6bab7aa1ff50f3b6de94ea749cd30255e0572801fe1b0f319616e2b673269ac498d01d14af3c9c44524c739452d1fef36164c130d1dc3c3f8475d0921851bc6060ae0c75d813f3e713e8812c7095749c556dfd625598e880cf49b20e1a01fa2993e1dbfd72448584cd5275a0da436a774fafc490b3d2c666008a0da13/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e587effda7da071a2af73db67a8008/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Returning Memories: Usagi and Mamoru's Past",
+            "episodeId": "sailor-moon-1067?ep=16985",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/59311b19d75330fdeaa9f88b11fc16a8a3b91799e4c62a55ee9d74b145f059615d0989160f124a8efcda6388023c1d7ac3715c3afac0dad6e5aca8a383cf8a30b3fa4f73e5de8bee47b78a4b2d0e5400d3139615f32ada0033704b160d6a9497352f341bb8243aafff9cd4064d7f465c34838351680bcb3df7a9772188c1dffc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9bfa62315acb1372a1679e2b96e76606/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/59311b19d75330fdeaa9f88b11fc16a8a3b91799e4c62a55ee9d74b145f059615d0989160f124a8efcda6388023c1d7ad70f657d3653ffd5b03724e45031ed25a9f4f45355fe18db9d7a347acb7768649136d74ae3dae273b8cacd50d8b1d1f372147e06cc724d13702cda0e3c3c5b659b854835da7676938147e2e618ee4952b953968af4d1295f5a0391171537df0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9bfa62315acb1372a1679e2b96e76606/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's Confusion: Is Tuxedo Mask Evil?",
+            "episodeId": "sailor-moon-1067?ep=16986",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a5fe4055d8a08d7063ad4796b2d417ce8dc1415ed74af996d3ee229712185f1669fb4da9a8abcdafa8c170cd96869af7ca816c0671b006ed95c205add79d9efe7c65cbddca1234cec503a812293561697243df07d12cd56e39eadf2c183e6a2b355031c79e32899005d18890cb21e8f7de6ecac743b5f494f7eeb0f00fe3403c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/520ce50ddca05d12d5ca3055b9bdde94/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a5fe4055d8a08d7063ad4796b2d417ce8dc1415ed74af996d3ee229712185f1669fb4da9a8abcdafa8c170cd96869af750a52b85b08ad45199ce4e65adbc4607f8fd46af3ba913add9dd5549ef399e22a194162304085f29524c6f22e580c87a2d0ce719b647d59c83de5ddfdc4ef66acb0af41ec15a1b87c3f4a9036cfc072d3bbec0edb5b7b24107f9cdc1e4d8496f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/520ce50ddca05d12d5ca3055b9bdde94/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Become a Princess: Usagi's Bizarre Training",
+            "episodeId": "sailor-moon-1067?ep=16987",
+            "number": 37,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0e5eebbc9e91efa74ab3972aebf355a5161eb4cd1cf7e1eb84902051e196abb233ed7d3529dfb03efa9d768c36e31309960abb8c54e7578aa238ed2721fa9cc44ce294789561e9652411ae62435f38ac245e54053730728732643ee916eee0cf0ae6d35b1ac5c1d715a99f15b72f522f80b4f24103a5627894d22997df6d1b22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5ffc90cc8e2dea2442f6b5df7ae1744/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0e5eebbc9e91efa74ab3972aebf355a5161eb4cd1cf7e1eb84902051e196abb233ed7d3529dfb03efa9d768c36e313097ee11a293b6894d693ca021c8ab7ebd1be78e9947e8915bf2d53422e9ad9f9f322192eeda51dc224ff5cea8b6a874825c7921fe4550cbceb81e8eaac7bf0c5922dfd1c2d06d9e4f41ab3e9f2d626caa1038d7f674f1ded6668b5f42cfa82cd68/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5ffc90cc8e2dea2442f6b5df7ae1744/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Snow, the Mountains, Friendship and Monsters",
+            "episodeId": "sailor-moon-1067?ep=16988",
+            "number": 38,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0d41f2547449c7794f2c0179411a17d1d2578f47cfb98b61d6c498750cd6eb06c896e282396a1a24f92fe6827c7563c61d7773a8d615fc9e3abd1694de0185aacd8f6c2e922a588493285383cab04b049f5ece0d2e5e88d1f0aadd5d545eb926c4fed1a6c4df63148ab9c64601cbc325860fb7d8d98dffc064a5e094ce3d901e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5925b039838c3495fc10e69381bf416f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0d41f2547449c7794f2c0179411a17d1d2578f47cfb98b61d6c498750cd6eb06c896e282396a1a24f92fe6827c7563c6b3895995bf94d8772124c40a65c416f82a607c81328f08230d6ce570a7a387da664f33672dbc4ea27bee107d20c4826549f89670f9b26f54de4ee2c2a6bcca2b390c5e155d649a778bc747f0ea9e3694f673b4385a59e100d635e397b547cdef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5925b039838c3495fc10e69381bf416f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Paired with a Monster: Mako, the Ice Skating Queen",
+            "episodeId": "sailor-moon-1067?ep=16989",
+            "number": 39,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7c1d7e7c70bbcaeff07fff8a36df29938cf15fc05f5401158bbd6055bb8e02ff2264fecf70fbd72bef9b7d31a07a8ceba1dd1582de9048ff95de249b432bae6034388e342c69142769b92ed528d0d55b5b866dcbaa3ea4b87995f9469e074705cc8d7356426d61d0698f3f6b8a2a5787bfe6a4803f4150c61acea48dd6ad8ce6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89ac8814c4e12f1cb317cd7582b8ac20/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7c1d7e7c70bbcaeff07fff8a36df29938cf15fc05f5401158bbd6055bb8e02ff2264fecf70fbd72bef9b7d31a07a8ceb077a3a0ebfb4a0517d2a85c226e97f39e5c65fe41c37555f4e53ea43342604c6eb7d94347586b32591884d3c57b7206cdd3a6f86adb92142da3d51f7635366c4f2d58b73c7655e779b3ffe6e7ae3919f6ec0a5ec892ed6812b501a9189d33991/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89ac8814c4e12f1cb317cd7582b8ac20/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+            "episodeId": "sailor-moon-1067?ep=16990",
+            "number": 40,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bf6b6881bde17b7cc2fd8083100d382b4cde64672edd45b6b862e422180d4de51e58071f80eafc88aa3be31ecc39397e7f64a1a6ca4c1f8f354f26f628e0a0fbc5c0a6fb6a4ea58f97e59f272bdd9e24e9d258b789e7bea447abbe67385c98956e3491d6de8f0c3627265aa951a6f776d14bb7deca691d1386d00ae1b1ed4c09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4360ab37adda861ef79d2d6d0760870/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bf6b6881bde17b7cc2fd8083100d382b4cde64672edd45b6b862e422180d4de51e58071f80eafc88aa3be31ecc39397e2384f2678b76fd95db181bfb2b763581a36af4de446a6485ed995fd3fabd4866053038123a908f91de6a4cd5cf8daca9efaa8bc916f0f8e6a0c546d5552b6167976525a12ba89b295491861b1e4d30ea31dfa253a1b2800ac7019d1ca5b6b4d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4360ab37adda861ef79d2d6d0760870/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
+            "episodeId": "sailor-moon-1067?ep=16991",
+            "number": 41,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f58fdcf889e110a12cc0ee462f15d4b459b9c91b3d839ea38032b226b74cbdb3c5660dd92f7796688c550924582042d74634a6c68adb0976fd3fd84707200026b0e8466b53f17d7211d6188e4c3ca7ac40ab2ac556c35e508731c3d7bf80adca1f723f5b2753c1c5763a42c1b3c52da369305ea2f750f8edb6cf31d9bf3d2207/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/690dc39e4194b5829633122407be60d5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f58fdcf889e110a12cc0ee462f15d4b459b9c91b3d839ea38032b226b74cbdb3c5660dd92f7796688c550924582042d7fef06094b08f4254b545fdcee51deb83d2d889d9343acf5695f8a13c462d76c41014e70f0f0f3ce7c885722fc1c983a500da664141750549c7413d266b2b7d2f5b468c766a8a02fdb5cd07175fddecbbeb68b7f21c030c9962ede5eafe650f34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/690dc39e4194b5829633122407be60d5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sailor Venus' Past: Minako's Tragic Love",
+            "episodeId": "sailor-moon-1067?ep=16992",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f1720f5a3df2719c28331f82dd3463387063524472c9293bd85b773350b15d2cb518f3fd38bf61bb7b38edd50d1a07230b4f13d0d73d7941b12831785f4bc8ae94a2abd566d026c988cdd263f5a455269b619a41562a716b17878b7838b5f3c5e49f973e3d5af7c951fe8999d8bc07d6cb9843816621423e4d12526ebd6ebc3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b05278917c126bd5a71c30fe3040874/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f1720f5a3df2719c28331f82dd3463387063524472c9293bd85b773350b15d2cb518f3fd38bf61bb7b38edd50d1a07235e31ab908c1fd28faf894dc3aaa33c4beafeecad0e2abdad0d18e2d62434fc7853844e391b20aa1d57eef90f6ad5faceece4b911c88248a1c519712cb4436ee1d973908643b0026a913ebb9cc7655c99f5255c5a6714388ec06d3d20658c7985/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b05278917c126bd5a71c30fe3040874/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
+            "episodeId": "sailor-moon-1067?ep=16993",
+            "number": 43,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9db49e5a54638c1923044faf09ef61a2fb0b6bcf5877365092e4c03157b5f10db2a3fa2a3b32dba47c2c15d9c8da7fc6fc6dbdb1b0e8351ee31411862d80171d7a8acf4585f3db69518b0667e7d1bc238729963eceb7fa4fa02f53aac095b7abd5f4d5259d47135c232d0c288d974de7a84dde5f09a8f36f4e0925caecce6c91/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38ad03ceca7a7353bbdec273caa039b7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9db49e5a54638c1923044faf09ef61a2fb0b6bcf5877365092e4c03157b5f10db2a3fa2a3b32dba47c2c15d9c8da7fc62bcf9ec43a519c0f947e7078017c83e62b486bee047038ffa43fd21adff0a408934d9cc670f2bc517d23efb5d8a1103fd72d5fceced070db68f39f0d22c54d1b29fda5dd123910d547fd412d3190af3f24704efd0982b929b8fce0b7df4a19a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38ad03ceca7a7353bbdec273caa039b7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's Awakening: A Message from the Distant Past",
+            "episodeId": "sailor-moon-1067?ep=16994",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f023c4e6e2ac128ef2c13d4c53f56c24d9790e7db43ef5cbc829f32087c841519efa2c7fe762f2457070389b5c2485fe5a3e98f21338b3b51414a2586c920d1178d32602e9de2759a2a03cf8ceee90f32f7a10ca4e1ad8b23e7fb72f63456ea1898983bb9a34ef6e434a363c920bf6b321ed195a825203462e52cb98d723966c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f6f32c8c642dcd59d2cce85c17f36d1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f023c4e6e2ac128ef2c13d4c53f56c24d9790e7db43ef5cbc829f32087c841519efa2c7fe762f2457070389b5c2485fe150456972e302e18439de28d02861b21fc9884b86855c02fd8cb1a320eb6f0491700f283d8c7d63005e3ff7de22dda3922e24f9d066f3735c2c4cfdd8fd69cfb607fb07e521bef693740bea4a681531b7ec78dc2c9662d95cc446a907d641ab7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f6f32c8c642dcd59d2cce85c17f36d1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Death of the Sailor Guardians: The Tragic Final Battle",
+            "episodeId": "sailor-moon-1067?ep=16995",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0df1673269aeaa3812cdffdf676566302f2a933745f2f42382875b5f8a0965bdf826ffbc37524b530b7fc5c40efc80b14ae72c642cc85e22844ce07933d0154fe580f855df88327eec662f4b5448b153973208d8fe71518a1f931871a7735067518632ce31f1ba1cddfce69e3a5536f832bde0eb2ee30e494fdb6b77d70cfd81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ce5cb29fb9d81650b2979c815176e72/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0df1673269aeaa3812cdffdf676566302f2a933745f2f42382875b5f8a0965bdf826ffbc37524b530b7fc5c40efc80b179c2a42bfd0c220433f03053d4340a6f3c24279b43b01aa40facad6a69e71191276d6c99eda582a9d7b4e37300dc1e0c195b28ab5a417d185262f75f4723b36cb901cdff77f3660f72b6948d76ec9fd7c3a042c7b9f9494a1b34cd5790eca89d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ce5cb29fb9d81650b2979c815176e72/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Usagi's Eternal Wish: A Brand New Life",
+            "episodeId": "sailor-moon-1067?ep=16996",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5d8e6998d69810ca0fd88638ca8487d1f279e8d2a8679a132b397945048786f4e83a2c74664ccbce453fbd9823ab30638c82f03d0aa2e388ad85b14ac5721ca9686c186aec9e129cbb326ba5112cd1f47d0855ed832d6fca711f27a7e78ca681ccbb2b4aceb172a3018d232e04bc76fad7c8f43f8ea91ab211e5eac1b83e076c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cff2b74040fd78ed485fa91b87c7c73c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5d8e6998d69810ca0fd88638ca8487d1f279e8d2a8679a132b397945048786f4e83a2c74664ccbce453fbd9823ab306314cd1bf7ff21621deb730c223b30c66b0ddf922d7d16bfa6b9cddb2b05094b64152bdec543529cf71c2ef1d91354ad2375fe2e2bcb696be5e303193d211e214b83dc43114b88991248df53d6a254798c94fef009cc18df5a5c558dfa6b930cc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cff2b74040fd78ed485fa91b87c7c73c/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

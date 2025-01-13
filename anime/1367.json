@@ -1,0 +1,423 @@
+{
+    "info": {
+        "id": "tsurune-kazemai-koukou-kyuudoubu-1367",
+        "anilistId": 100402,
+        "malId": 36653,
+        "name": "Tsurune: Kazemai Koukou Kyuudoubu",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfbd9d995aa9decd873f6a5553a933a6.jpg",
+        "description": "\"Tsurune\"—It's the sound made by the bowstring when an arrow is released, and the sound that inspired Minato Narumiya to learn Kyuudo, a modern Japanese martial art focusing on archery. However, an incident during his last middle school tournament caused him to quit the sport.But soon, many factors conspire to make Minato take up the bow once again: the start of a new Kyuudo club in his high school, a chance encounter with a mysterious archer, and the support of his childhood friends, Seiya Takehaya and Ryouhei Yamanouchi. Together with his childhood friends and his new teammates, Kaito Onogi and Nanao Kisaragi, Minato rekindles his love for Kyuudo and works with his team toward their aim of winning the prefectural tournament.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 14,
+                "dub": 14
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Recap PV",
+                "source": "https://www.youtube.com/embed/6w_GwGdk8_0",
+                "thumbnail": "https://i.ytimg.com/vi/6w_GwGdk8_0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4 Aniplus Asia version",
+                "source": "https://www.youtube.com/embed/JFgJzJEVRxw",
+                "thumbnail": "https://i.ytimg.com/vi/JFgJzJEVRxw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/XI-THzs_3AI",
+                "thumbnail": "https://i.ytimg.com/vi/XI-THzs_3AI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3 Aniplus Asia version",
+                "source": "https://www.youtube.com/embed/jGMwIlR_cpU",
+                "thumbnail": "https://i.ytimg.com/vi/jGMwIlR_cpU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/Z7XaJooJvbU",
+                "thumbnail": "https://i.ytimg.com/vi/Z7XaJooJvbU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 Aniplus Asia version",
+                "source": "https://www.youtube.com/embed/iNLsVen71QI",
+                "thumbnail": "https://i.ytimg.com/vi/iNLsVen71QI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/CEHZ8Ll5w58",
+                "thumbnail": "https://i.ytimg.com/vi/CEHZ8Ll5w58/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/d6aqPds92c4",
+                "thumbnail": "https://i.ytimg.com/vi/d6aqPds92c4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "nanao-kisaragi-10329",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d68fdce5260667a24ed654009599e6dd.jpg",
+                    "name": "Kisaragi, Nanao",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shougo-yano-599",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fccab3cfd4a76898db084c6d9d4d550c.jpg",
+                    "name": "Yano, Shougo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "minato-narumiya-7495",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/15e75c20ebf94052c22af4e4be806683.jpg",
+                    "name": "Narumiya, Minato",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuto-uemura-351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d666fa59f254027980ad9cf57a83fdb7.jpg",
+                    "name": "Uemura, Yuuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaito-onogi-12718",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd3c822fd641e124929d7bae04fd2e74.jpg",
+                    "name": "Onogi, Kaito",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "seiya-takehaya-5498",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13c775d4482fcc761805cf96d78f4b7a.jpg",
+                    "name": "Takehaya, Seiya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aoi-ichikawa-1789",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83afba54da89213c8e9b8da5f7d79ef0.jpg",
+                    "name": "Ichikawa, Aoi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "masaki-takigawa-6041",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/312c568efb4816d90dccbcd7fc4356a1.jpg",
+                    "name": "Takigawa, Masaki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shintaro-asanuma-454",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c342301173dfcc4bfdac8cae87a8e1c.jpg",
+                    "name": "Asanuma, Shintaro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryouhei-yamanouchi-14717",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4ea6a14b2b734aa3150be5706a4d96b1.jpg",
+                    "name": "Yamanouchi, Ryouhei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouta-suzuki-151",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f61a67027ba93b33b3fd7c02d2b86f2b.jpg",
+                    "name": "Suzuki, Ryouta",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ツルネ ―風舞高校弓道部―",
+        "aired": "Oct 22, 2018 to Jan 21, 2019",
+        "premiered": "Winter 2018",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.58",
+        "genres": [
+            "Drama",
+            "School",
+            "Sports"
+        ],
+        "studios": "Kyoto Animation",
+        "producers": [
+            "Lantis",
+            "Pony Canyon",
+            "Rakuonsha",
+            "Bandai Namco Arts",
+            "Kyoto Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Young Man on the Shooting Range",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19666",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/74713fa427125c7faa70598103da2a124ed1237c5b0a592fc21b0c8737c6c73cb42d673023e2a10afeefdefeae921e41ad8ef9797fc61d9b0e2ef0bafda9ba90ac290df4b4585964d4e581a1e0823ed30b56b1ee90b87185a3ef21592ab40a2d80bcd85f7d3e4bfecc8f22f9e30dd97fba9966835280f5ef1c0bfc8d7d5bacaf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05b53e63d3e6980f210eab2e2e60359d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/74713fa427125c7faa70598103da2a124ed1237c5b0a592fc21b0c8737c6c73cb42d673023e2a10afeefdefeae921e417a6374be7d271e1ca4f393737e05e1125933048a13452ff0cd93c062fe10b3bda5381e5b69ea999ec2033fc7f4c0e456db3e725b9aba6de74ab999168397a1079b3157fdb1796a130af95faff908b60a4d0c9d0d07f2796d802b758f88cd37fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05b53e63d3e6980f210eab2e2e60359d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "At Wit's End",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19667",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b22a13cd695ad2566618de7f053454d586b9ade9af25fc69381180b255c41aa9309bb98450389f51487b46b83b004ac4a2ec0f74564f2c21d65c55bac942e45e7e72b57bd0a9349392cd6d6b2e4a5da19e262112ada80e4b011c86619958bfa11cc695c9192c401330202841500a15094a48549d94171a093d3e2be221409bbf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bb4a6ca5c5ab500041f0d7611d05b20/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b22a13cd695ad2566618de7f053454d586b9ade9af25fc69381180b255c41aa9309bb98450389f51487b46b83b004ac41238de6f4eb305dffe2faf496ce5ae06e0964d66113e3793cdbfee159baec770c0285a4fcca3eb026fac44d2672334be1733dcfd93a6fae537710353eb7ded6e73e2de41679a9d592f2fe1a299e72a182419ad05f6edd19c6c34893eda50d590/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bb4a6ca5c5ab500041f0d7611d05b20/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Just as They Met",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19668",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a462010012a1381a4d5fb70e36df5d5958174d7a4cf6ed6d222ee0ca8bb0eabcb5ced4ca2405920c6af9a260529f73150fc674f37a2e8babe418eb390af7d820ef324d0798fa70487df562b2169a92ad09e1e63e7c6fb371ecf287396469ef97def636b06e7854d2c684b3817c3699def78355be70264e26d3ec31c0a77fedba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbdfe122e4c6a52c00fd872e1346ed8c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a462010012a1381a4d5fb70e36df5d5958174d7a4cf6ed6d222ee0ca8bb0eabcb5ced4ca2405920c6af9a260529f73158110fef241606ffb689dd6b1eb6ec6856b88ebe7a31b69d3198f5c06424e17f3e13ab1eab5b3c238f10cb798779b44698898551341f300d0431c64ebc06603d1c0e8debd32fbd775a347f952a2a0e80c4290bc4504092497e00ca1178eb0212e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbdfe122e4c6a52c00fd872e1346ed8c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Poor Fit",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19669",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9629c0fcac6b2daa919fd330be3436a755887e0f517f5702a236bbae2902f4bcfe31c55010041c629c5ca3abf56a8cf231171833f4b50ad37812de109eb18ede8f034df95fdf4cca9092a47082630cb4135a12c60c3c988b23d98367387da743e935e64f17522805df7ea1279565a3e1452213c2cfa4a9320106cfa072ff7750/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6518d31eeac6bef805a68223b22c722/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9629c0fcac6b2daa919fd330be3436a755887e0f517f5702a236bbae2902f4bcfe31c55010041c629c5ca3abf56a8cf24cd898e3d521f7baf5c3783e801ba290f6a7b0f40bbb3fd0f500939c34e49848924491b952fb069b7d8aa4ff40fde32f3e56f2f0581837b506d4fb06c733cd99c904573a11de78216df3d2ae688d0e79af89079db300746be2c277349636e2cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6518d31eeac6bef805a68223b22c722/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Frequent Messenger",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19670",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5d36f6e02c80613787b191f12fc0031dbef2d9af9db5589caf81c9154582a7c9ff1eec8a1a8a2080ec4f0099d58d7091be4957e99163e3122553e99d950aad38cf1b218ac1dcf80ad96fc4be44537acb75ad8a6e120d5fca3b4a03fbff92168dde53add36353593d2a5715ea280149bf9b883becfacbfd3dbe366ec7aa839ff3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29846ecf6fcd10383491d9f37d3e2d7a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5d36f6e02c80613787b191f12fc0031dbef2d9af9db5589caf81c9154582a7c9ff1eec8a1a8a2080ec4f0099d58d70915734789b72c57f79f0683c7197b801a0ef8366f8c8aa65bf69b6cea40e80c409bf0a3d8b7c82b99fb99368ada78f019d5b02e9c5ff7d67eb803f08b21b93d27f2d2060b2ca814b85992478a8feb48fe5367bdfb01fc463cca4856b211034e683/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29846ecf6fcd10383491d9f37d3e2d7a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Reason for Shooting",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19671",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4d742719e492f3cfa26cd5aae8443693934352370df20a829e5ee24dfc13f46542ff8b2aa7c1f14074be246a2119abe4dd4e4e6cbcd1e464997a0aade8ed2a8ea126f83e8c79539f47bbe4299c3928fe0547272cdc1020b9ef5a292c47b79cc87b9733ff63cac9f26de551e9a6ff1998a3bc7e663b842ec94e471fafd012baa4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/050791ea91a5317096bca3da90cd53c1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4d742719e492f3cfa26cd5aae8443693934352370df20a829e5ee24dfc13f46542ff8b2aa7c1f14074be246a2119abe465f2d4789b1390dd4114ac715695586ef69daabcf4dc5da7da86b14dbdcf5710fbfbbeb95d3bd5fcf53de40c4b58dcae11229b4f8d5d39b60444c70829a9b2ba488e21e20227c9d6732f7a482f6399ab951fe51c07de4c8e8c01521a931457fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/050791ea91a5317096bca3da90cd53c1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reunion",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19672",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1ff90e52d3a06d586cdb8cb6286280d2a36fc6cf3013c6aa04bb770c88395fc6bd3cf6914554f8ce903a32e43bfda90c604be2be8e7abdb94efe2d237e9dc5969ffb3892de1e565f23ae4591df654eb10922eae5cabcc8716d2ae770eca6d23fc52bb3cac4336ab7d7bbc72a2decb20ec1a011c8bfb923879d5bd6b6dc08420b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/092632c0a50338befb3380bf2dbdaf00/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1ff90e52d3a06d586cdb8cb6286280d2a36fc6cf3013c6aa04bb770c88395fc6bd3cf6914554f8ce903a32e43bfda90cb2cd0f9f8fe80eda3783c2c752a0df3a5d45d904adff21046785e43686b3a9c24badcd2f36a6b83d76897292a40b43a80796e20531f62a0789b79bff63cb2a745797244997d474503ac3a6e68c901cfb31eab7ae1435a94d32b514b398f3aaa6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/092632c0a50338befb3380bf2dbdaf00/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Taking Aim",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19673",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/49362a94ffce83f95a136f896d9f2eb0ee93b20823eb394eb67e60503307b08ce58043ca670e8f412e12f6cebcc2577c56c3c0f389bf19aff9cc54c7b7f6417d227941a829129412b69e6e7d54e726dbd97e12ec03f00647620c3eab0593aa928d7d57cf56b6e49dfa0011aef865ec2ab2b863fd941dbf915b030988267e8fa8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f460b7bf34496b626814db4a73b1998/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/49362a94ffce83f95a136f896d9f2eb0ee93b20823eb394eb67e60503307b08ce58043ca670e8f412e12f6cebcc2577c93f7c0040b9425431a62b8f09fa3f15cdec5da1a358deb53a534a1a6bbfda87496d97f35602c2c6469b44f2630aca2b478d764b2f0a985a47e0e7c58e9568f4a5bcb156018eea5591f32c4abfba514a263bbfbb0b0cf31e31cdbf9e607356889/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f460b7bf34496b626814db4a73b1998/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Unshown Hand",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19674",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/538bd9aff3caf2b41810a4940469c02011706d5b54d8388fde14b19fbed44b961474f8179b4c4b3efd4e3900a3a3499356e3e386cda982c24f3d3ed2081438980e4eaf72feb8d8efab1cfc473b62264ff2ad4d592c3dc4498f07e31c5db809e9a044d1e34c1c3febd560fab2a8caed411fdb846639f6b566643517aefa49d318/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ce03cc966d41785297172d03155c330/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/538bd9aff3caf2b41810a4940469c02011706d5b54d8388fde14b19fbed44b961474f8179b4c4b3efd4e3900a3a3499313e8fadc3ba69cd36896a7847b37d79c25720abad8d91d10b73a76f8e6dbfa9f740725a67e2d25f59a066ea4ab445172c248e138817dc25d043364133e32f2160becbc0ccb887b85801c66cb26630da55644dddcfc4773adbbc025e7dd2865d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8ce03cc966d41785297172d03155c330/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Linked Heart",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19675",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c95ae66e2dc48495ff9a41fe412e386b9f56f27f3ec8bb1a0dd1e0b1430834314ef82444cc6ab8dcf0012168c83dbe350a3dade02ea66c18c56cae37a058e5b77e7cbfe8649edaf8e122b0c0782e81b8eabb39fbce90e30eb62fc03c8309221499d847f63cf8be714fac20f89c55045b3f0bfcac3bdc39a8677da340e17cc55c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd2c0633cce45d12b01ae8226f5b104/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c95ae66e2dc48495ff9a41fe412e386b9f56f27f3ec8bb1a0dd1e0b1430834314ef82444cc6ab8dcf0012168c83dbe3527def28d3786fe9beb29526c54c8d6f59c52026cdf32f3dd2b32428e08cc834ef0ca799a349ee5c527811dd4d7fc418101a6f4882930d95eb4ab7eda1bdaeb534c9b26bd35aec68bcd58860d697096e55ceeb0f4e6e783ee796fa297872857a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd2c0633cce45d12b01ae8226f5b104/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Pain of Empty Release",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19676",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/962c2bfda912707731b280c86566a43526566949786a359213f1359e2d2e2370d696ef38827f9b9fd096039f32d8c75690a27c267468bb2ef3ad814e823cd8d80616245fff52631a55be72cb910a45125b64ae7f9a01716a20dfd7279f094a047597ca4b25b7b034a9baef794645af33bd5a8ad62b94c2e86acec17c71d3fdc5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d69f04a7fb136bc0725898d176ec60d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/962c2bfda912707731b280c86566a43526566949786a359213f1359e2d2e2370d696ef38827f9b9fd096039f32d8c756f7a06077adc7603cce97c4bd91077ae13274199743437732a23675feec16f41f05791f7b01b61ac3eecdced6b49ccdbede1e306065be9df793d018e4a42f0d0be291f9aaefa98b8db7ae938833308a148e2b7a73617701a65d84b18b80e39989/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5d69f04a7fb136bc0725898d176ec60d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Five Arrows",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19677",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d4fed9298fc832794becf0445213d280aff4e382830f481941f2049dca4167e9913791adb02ab7c34fda3938395c6a4b5568a9475191ab6111d7bd961ad4e16d6745de3a3b714ee87d970cc6e63eaf7a76ce401ea79a2bc6f681220e31ac8e52997c5af85f31d799ac224f46d132fbff77f6ba8b7b618736f6289c191dc157bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7457bc6e89b9032013f40734899fb644/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d4fed9298fc832794becf0445213d280aff4e382830f481941f2049dca4167e9913791adb02ab7c34fda3938395c6a4bda86ed5d3a750a8846e5c6a660df4a7309d9586aeb29879f9b84381983ca685eb0937f93387cde9284b0a6e5a6e1a235d1641411dfe0f027571b31cd99626a11b6ef744b65382f6f5f9b2810486ad78b7afdb027a77cb08545ec8a97a220e4d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7457bc6e89b9032013f40734899fb644/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Irreplaceable",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19678",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/54a6ef197459688dedc6ba8f6a2d42173b3009d68bd540e9511ac322f6b44cf7244c4d2c997bba2987dac78db84f81a844e2beb3cf99e4f40360626ce07277933c0d2dab8cdfa3f9de708b867f084b92e2b586cfae8acc8cc87eb33eb9d1eb4bd6c2c5c3a67a6e9fcbdcc0983196d94830c0bab04b01a253335a25696fe3bd81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63aa96cf31208148dc662dc8e67bfeda/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/54a6ef197459688dedc6ba8f6a2d42173b3009d68bd540e9511ac322f6b44cf7244c4d2c997bba2987dac78db84f81a8a83c0456cd4dca38b9acbfdfa413c004e6e6afcc18a077d89f58f957fff50d0292e792aae742b7c6549ea688ddbfcda74d37111285bd782ba49450169b8efccfbdbda85ac8b2724e9984ee6bfaedb5e0f6d4d4ae3e22420b4122d730a1f568f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63aa96cf31208148dc662dc8e67bfeda/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dangerous Shoot",
+            "episodeId": "tsurune-kazemai-koukou-kyuudoubu-1367?ep=19679",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/db7a004d6866294c870a7ef0afb32bc68285f10b858d37d4ea4153a1292efa3ba8435fadef2d6cd0bd24953fd3359a9f347d9163874152393505796234d9e40ad2bef56fd212ff4c902c07badab60429173b0185239adb48e53f3d5f9f1630456f60b53888e22c092d0624a9b720b92636179fea998b0e517c4d49b94ae18407/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4ff61a39f6963560c6a647650a3b06e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/db7a004d6866294c870a7ef0afb32bc68285f10b858d37d4ea4153a1292efa3ba8435fadef2d6cd0bd24953fd3359a9f12eefc0db3d51b38b9290847603fd951fb27d1965f2017a48390031ae7303293eee3cfc2ef39d31e59be7f17186f80b5a52f4a686b4554d6fa966e2cbd84da5967214d7a4398e68d29b5fdd65444b8fb5130a9d2ecdffc50b4ba9af2155a560c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4ff61a39f6963560c6a647650a3b06e/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,832 @@
+{
+    "info": {
+        "id": "hug-tto-precure-955",
+        "anilistId": 100661,
+        "malId": 36593,
+        "name": "Hug tto! Precure",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b7c084c2110d61545e41ad06ee7a248.jpg",
+        "description": "It's her first day at a new school, and the cheerful Hana Nono is ready to make a fresh start, dreaming of becoming mature and reliable—a far cry from her usual childish self. Although she makes a disastrous first impression, Hana soon befriends two of her classmates: the gentle and studious class representative Saaya Yakushiji, and a cool and mysterious girl Homare Kagayaki.\n\nThat night, a magical baby falls from the sky right onto Hana's balcony. She is immediately smitten with her and names her Hug-tan. Alongside Hug-tan is a snarky talking hamster, Hariham Harry, who mutters that Hana \"isn't the one\" before vanishing with the baby.\n\nThe next day, Hana believes the encounter to be a dream, until people all over the city begin collapsing and a giant monster appears, feeding on their energy. As Hana escapes, she spots Hug-tan and Harry under attack. Making a stand to protect them, she and Hug-tan suddenly both glow with energy and a heart-shaped gem forms.\n\nWith the crystal's power, Hana transforms into a hero called \"Cure Yell\" and defeats the monster. Surprised at Hana's power, Harry explains that he and Hug-tan came from a future frozen in time by the Criasu Corporation, the same organization that created the monster. Only the Future Crystals, manifestations of one's hopes and dreams, and the Precure they create have a chance at defeating Criasu and saving the future!",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 49,
+                "dub": 23
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/My1u0ka_xck",
+                "thumbnail": "https://i.ytimg.com/vi/My1u0ka_xck/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "emiru-aisaki-9933",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb10506e5b9fac79c230c928306a2813.jpg",
+                    "name": "Aisaki, Emiru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nao-tamura-2274",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e9efc1ea7ba5695d03575de7156d8ff.jpg",
+                    "name": "Tamura, Nao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ruru-amour-7103",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c53210e494eb9e8356155d79560cd2b.jpg",
+                    "name": "Amour, Ruru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yukari-tamura-77",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb579c9234f22964803115db71b863d0.jpg",
+                    "name": "Tamura, Yukari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "homare-kagayaki-10797",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2b37b492385a18b0cedee8d376e5be72.jpg",
+                    "name": "Kagayaki, Homare",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-ogura-201",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c1fa7001026ec4d5fa0183dae0348eff.jpg",
+                    "name": "Ogura, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hana-nono-5113",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8fcc8101e9c8d137099e7d73b33e868.jpg",
+                    "name": "Nono, Hana",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-hikisaka-4919",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d05f2acdb17eba666fec8f58aa7aeac.jpg",
+                    "name": "Hikisaka, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "saaya-yakushiji-14556",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/03ee419a9abbc61d47611c0611ef6df8.jpg",
+                    "name": "Yakushiji, Saaya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-honizumi-2160",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/76328158e4970fb03549a53100e0fc4e.jpg",
+                    "name": "Honizumi, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hinase-amano-60279",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/23b147e38c8ffbd501f347cde215ad38.jpg",
+                    "name": "Amano, Hinase",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "katsumi-fukuhara-2733",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a87c5329c47cb30776f64f5ff3e84a33.jpg",
+                    "name": "Fukuhara, Katsumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "HuGっと！プリキュア",
+        "synonyms": "Hugtto Precure",
+        "aired": "Feb 4, 2018 to Jan 27, 2019",
+        "premiered": "Winter 2018",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.73",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Magic",
+            "Shoujo"
+        ],
+        "studios": "Toei Animation",
+        "producers": [
+            "Asahi Broadcasting",
+            "ABC Animation",
+            "Echoes",
+            "Toei Animation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Hooray, Everyone! The Birth of the Precure of High Spirits, Cure Yell!",
+            "episodeId": "hug-tto-precure-955?ep=57529",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ff4a9224728a5f58ed639460360fd807cb3818e2153fa3ed23da218794baf8a6734034fc93f0c3771e9b1324bfb9f1ab4b63e1286e710f4975fc2334b26c01b316586bde2f9c5cd7e8b86fb5d5bb3c0430f00db56cd50a73a8d5909f2647ea3eb9c4cf920150868e9889306e60d7995e8fd3c66ed4abda09a9ec1c05a1838fac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebf4b93bb7a7dc22992d10868fd19050/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ff4a9224728a5f58ed639460360fd807cb3818e2153fa3ed23da218794baf8a6734034fc93f0c3771e9b1324bfb9f1abbe021cc312dd119addd8b97a25c35040a63342f60f7b3c4d70e38da0bfa5f5947fdcf7d4b048068399f60757f70354aac9216b7441117753f0c8cf13ecec49ecc59ede5cfc40750e759163bb8991c557dc4b601961f4989dfdd594992b0f2c30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ebf4b93bb7a7dc22992d10868fd19050/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everyone`s Angel! Hooray, Cure Ange!",
+            "episodeId": "hug-tto-precure-955?ep=57530",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a6340ebe1dc3ae512e107b743742e5138e0adacb2e1833ab7fa52bc8fb908ba18d8c9367feadd0c50a20d8419c8e8ca72de0e1e85e2463d3e0c633f879c734b7f86fa8735f09a5e4e3cfed521095d06d7dc44323e32f4cd2084cc0be6d78217c83f06be3160207d1708770bdd6b159e8eb720e0e088bcfea4b58f5b08d86ec90/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb6387d2e5a7b8195934e55333961436/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a6340ebe1dc3ae512e107b743742e5138e0adacb2e1833ab7fa52bc8fb908ba18d8c9367feadd0c50a20d8419c8e8ca7e09f03fd095ffb2dbdf805627eb61929406e73c3110519dcbdb1cc445e7eff868abfe36dbad4137e0071da205665b090ad354170dd166ac566d501ff89390a8a594250eb33bb1d76b35f71675d3896ef59a91151112a6dfe050994ef870714fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb6387d2e5a7b8195934e55333961436/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Happy? Cranky? Hugtan`s Day Out!",
+            "episodeId": "hug-tto-precure-955?ep=57531",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4a42b4f2fd8bdc9e716204758fac6812f32be06ab1e7434700ca38a749aa579681b5689720e4b9c006d59e0d97404582c753a74bbe1e051d6ecd29247bb3ef314932ca4f75fc1c2b827cea2af674f94ceaf052158057a78e49708314c12a8d2d4a26436b674d35f17a12ba7737920a4777399d9e8c415a54ae4c630324d2663a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c51137b1b924dff22047a2e019ffa7c6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4a42b4f2fd8bdc9e716204758fac6812f32be06ab1e7434700ca38a749aa579681b5689720e4b9c006d59e0d97404582e766df8f66532a401557ff19689916be7c604b60b5e7cbaff0e74b21ce9b4d376a375ae803ee40d7707921363ed3c32ad38c230da477939a55d682590faf3021a1254887b1e8ccdafcdc26baef436d3e355f8b52f36ef3b9e22ee32cd8318533/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c51137b1b924dff22047a2e019ffa7c6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shine! Operation Precure Scouting!",
+            "episodeId": "hug-tto-precure-955?ep=57532",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6e9733cc2abbaba4b39fcde89e673b0394a5c90eaef929a77c76f9276ebfdc1c092351930eb9c17f208242a1cfae84e57908194c651d7596332c191473111fbf49d6c342b93e0785d162b81ed87561445fd4681e15e7ab1a3457fd6dacc37efbbd4e908322d49d46c3332a499fdf1d56cf856d71e4fbd560e0550df86bea98bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/308379868a29bf019ed25ebe5ddf9488/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6e9733cc2abbaba4b39fcde89e673b0394a5c90eaef929a77c76f9276ebfdc1c092351930eb9c17f208242a1cfae84e541c2413d5909a88b4cbb2629d8e2e172e96ebed75862e38d84e02039c38a86454401da5e7c1e97354caf8ce54a40eb54de00b6398d4a5c4e99a8e746971ee236a02a961f53e51c8796cf4ca7043acea77270bb48f1aea26144c33c53df4951b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/308379868a29bf019ed25ebe5ddf9488/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dance Across the Sky! Hooray! Cure Etoile!",
+            "episodeId": "hug-tto-precure-955?ep=57533",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d98a3523f21373f21f870592fe50aef97685e409bd6ae0b1722445cd66b989b0d931a020ea50af1bb9e7ae73469425316c88fc5cecc7d13dec0c6c7d9a5d831722c4e99b51ee96e39371fd4f65a2a374b1057f1fd2407d9a5c5b4de85c2d79e07012da07bbfb2501939d5f0e5935687791c936815c9764b143472eb4920aef0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b6bc0d8e462426607bc3ef074cbe558/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d98a3523f21373f21f870592fe50aef97685e409bd6ae0b1722445cd66b989b0d931a020ea50af1bb9e7ae734694253178ec08a3933c95e543d5b31e949219a8dd2b3be95081a9768043ead59260c7a5219af58da26d74937b18fa75ceb2fdd9c2a5ff4e763d79fb4d9027175ff35a9cade7551ffd90cd16db37c647d668b56062c4db63fc8194212cdf24d503353857/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b6bc0d8e462426607bc3ef074cbe558/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Smiles in Full Bloom! Our First Job!",
+            "episodeId": "hug-tto-precure-955?ep=57534",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e89b370ef02e9fee424ee3b00fae54122431c6c9bc96962c74e0645c0682f241f54b558b4af6869ef1c34452a826017889dc0052d3db196e293f911860802c76c14461b109ed9176f9810f78f3c6aab4d873a4f3303f284cd847da34d90ae2ccd2eb4cca241d9a7c9569fd8a29400d5ab2ab6c163a1fe46e849ba06f8223300f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/215c623ad2912f96edd5499694b16ef8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e89b370ef02e9fee424ee3b00fae54122431c6c9bc96962c74e0645c0682f241f54b558b4af6869ef1c34452a82601782a6e7e6739055829e20700ad4f9d01e4eef1e71952d39e35d271ffcd9b4ea75b2c191a55d3d66e0a71e5d090fde47c9eb87d06a3b36070dac273dfe62f613856d24be4fbd8f4a8929e384f44bb6038d589d5c52bb2dbfab71f17769aad06d025/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/215c623ad2912f96edd5499694b16ef8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Saaya`s Doubts? What Do You Really Want to Do?",
+            "episodeId": "hug-tto-precure-955?ep=57535",
+            "number": 7,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Homare Is Leaving!? The Prince of Skating, Incoming!",
+            "episodeId": "hug-tto-precure-955?ep=57536",
+            "number": 8,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Over the Hill! Let`s Go Hiking!",
+            "episodeId": "hug-tto-precure-955?ep=57537",
+            "number": 9,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Unbelievable! Being a Waitress Is Hard Work!",
+            "episodeId": "hug-tto-precure-955?ep=57538",
+            "number": 10,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "The Precure I Want to Be! Sing! Melody Sword!",
+            "episodeId": "hug-tto-precure-955?ep=57539",
+            "number": 11,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Doki Doki! Pajama Party with Everyone!",
+            "episodeId": "hug-tto-precure-955?ep=57540",
+            "number": 12,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "The Transfer Student Is Fresh & Mysterious!",
+            "episodeId": "hug-tto-precure-955?ep=57541",
+            "number": 13,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Hagyuu~! Full of Baby Smiles!",
+            "episodeId": "hug-tto-precure-955?ep=57542",
+            "number": 14,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Perfect(ish) Match...? Emiru & Lulu`s Day Out",
+            "episodeId": "hug-tto-precure-955?ep=57543",
+            "number": 15,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Charm the World!? Master Homare, So Tough!",
+            "episodeId": "hug-tto-precure-955?ep=57544",
+            "number": 16,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "The Noise of Sadness... Goodbye, Lulu",
+            "episodeId": "hug-tto-precure-955?ep=57545",
+            "number": 17,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Odd Couple! The Melody of the Heart!",
+            "episodeId": "hug-tto-precure-955?ep=57546",
+            "number": 18,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "So Exciting! The Long-awaited Runway Debut!?",
+            "episodeId": "hug-tto-precure-955?ep=57547",
+            "number": 19,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Cure Ma Cherie and Cure Amour! Hooray, Hooray! The Precure of Love!",
+            "episodeId": "hug-tto-precure-955?ep=57548",
+            "number": 20,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Running Amok? The Precure Emiru Wants to Be!",
+            "episodeId": "hug-tto-precure-955?ep=57549",
+            "number": 21,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "A Song of Love for Two! Twin Love Guitar!",
+            "episodeId": "hug-tto-precure-955?ep=57550",
+            "number": 22,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Maximum Trouble! President Kurai Appears!",
+            "episodeId": "hug-tto-precure-955?ep=57551",
+            "number": 23,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "What a Splash! The Alluring Night Pool Party!",
+            "episodeId": "hug-tto-precure-955?ep=57552",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b3f1db224a2a6115efef83a62bcb1f5fbe2325baec30feeb327f5b744473a076ea9bc6a4ca948c3b7aa0e163dc46ebe9a58a3d8e1221ee5552745658e07cc57c61dc8575851f21a2f3d738d79c4485962beb050d1a4c03cb5af73060e1aa03a9203242e05ea03ecca5943ffcb450b8e50f436d7b54dd444aeff8350446e69d49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d3cc80db349a11daa8a6e61c2619df1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b3f1db224a2a6115efef83a62bcb1f5fbe2325baec30feeb327f5b744473a076ea9bc6a4ca948c3b7aa0e163dc46ebe9ab41854441541a7eb53be038d9e8f45ce57e901d729abf763989036e413bff024e48862b0b6fb8d5576c60615b2d115ed1d5c10481048b765c65d870d479f6f58bbd686076dda363e5c9fa35a4fb30c5614abbd81ecca663b6803ce5e772c712/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d3cc80db349a11daa8a6e61c2619df1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Summer Festival, The Fireworks, and Harry`s Secret",
+            "episodeId": "hug-tto-precure-955?ep=57553",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/023aa05c8e7abc1290ea85f478e7ead39e8984124bba6aa23cb99fb8ae12624dbf267bf36d809ab41f0e19e8b010ab6bfa7fa37b4c74117eeee2179271d461a61286aab6729996be49b09ea2820d0716c93bc7575c0bba167e32417901036b102d76ae952702349bb671f2c5ab7b34493d5d42936d44bab7b158c2268019f8f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3aadbadbe2fa5592a6ce66649f7c9722/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/023aa05c8e7abc1290ea85f478e7ead39e8984124bba6aa23cb99fb8ae12624dbf267bf36d809ab41f0e19e8b010ab6b0a4c2632b46a9944dddfba984322efe6d7310770a44a4dd6b4cb246eb72c122a86fd03cbe7378ec90423be3e2bebb655b52ffa040d4e6b4dc062e40aec5d85765f30e4b6053476f5256c5b25bc709efa6d25dc5b4ca913e5b40a3147713b243f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3aadbadbe2fa5592a6ce66649f7c9722/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Up-Close with the Superstar Actress! Saaya and Her Mother",
+            "episodeId": "hug-tto-precure-955?ep=57554",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/491f79d46940160cfd8985f5faba1b3dbca29b3a0835aea9ce23b29eef399a0e5eb4f34cf3e9eba08e42418c949d9f512d3ad3d3ba52f844475fe03578f2e1e2ed8eaf2e4571b033ac4134c7a416fb238574ba29d36439431d650c6ba6afe8da952211eb5864913f5bd178c7d0b18dc903567274d3bb8b7d1bbc44a63e41676e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2a411ca04483abae0b62b571fa65e7c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/491f79d46940160cfd8985f5faba1b3dbca29b3a0835aea9ce23b29eef399a0e5eb4f34cf3e9eba08e42418c949d9f517c9ced296664cf1b24d4b7956170a7837d3c21355c6196f48b3ece0fa5b5b8c386f3ff7a47d99da2115f3170c89164fac55340be8495e5a086b224822dbc27e08197707a978c97b5d4bd2391bc58ee51eb20b1612e2ae0ad975bfd32bba981d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2a411ca04483abae0b62b571fa65e7c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sensei Learns to Be a Daddy! Hi There, Baby!",
+            "episodeId": "hug-tto-precure-955?ep=57555",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6b486d1a8fa4e7b2687431fa17c63f5e9327d1d4a02d40660f34e23a8b70206f9b99b6bce32400b36b60db60e0a9b3f63882bfbb0cd2368cfce643b575dd24f54beb27cdcb1de04ff5d6ca2bea9068719670d6e034a392d427fff2e23d90053afb3c2f5c2a08c2be30fdb344458139ddde65aa30e225ad2ddfedf0584f51abcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3ed3139130b8f156eb4c2b9d887143d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6b486d1a8fa4e7b2687431fa17c63f5e9327d1d4a02d40660f34e23a8b70206f9b99b6bce32400b36b60db60e0a9b3f6ce79482776a291aa38269ee7a0c81667969ef18ab2956cd671c6cf96996954d754b16131275f2d55254b6651643887ba5cba5748b66fc039ef47cce2a5f9316d24b153dba9a43b093c83bedaf2d8e43628cf1fbff8ca73b32c13fa97d4767b4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3ed3139130b8f156eb4c2b9d887143d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Catch That Heart? Hooray, Hooray! Mogumogu!",
+            "episodeId": "hug-tto-precure-955?ep=57556",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b42fc878d51dffc95599d2d3065dfcd087aea2f62443be5d3eb57d64ec43e8215f483248742bf9099694611041a1ab4b2483e52f20db45bc4d77fccfc408f28aeb2b6d409bbfe3816a44ba538d809642d4ad34c683e7ae47a15959185b55892898d17437ecd79a105bafbc78ad53b9ac0556eb96402b8f369c1e5734417cc014/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a238c80ac03e0ed1ecd160901b2adef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b42fc878d51dffc95599d2d3065dfcd087aea2f62443be5d3eb57d64ec43e8215f483248742bf9099694611041a1ab4b3c0d06cd08606140c0b746efb14ffd094800d88198d0ea4ddbc60560d393fced68bb37851ae98219cffd2f47d921e9ca94ebed86a672ed1163164b2dbc7e77b8f8ee7e7b055df1b685672d94d25ba5d4446b23198269f55a9ce85cf568e30ef8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a238c80ac03e0ed1ecd160901b2adef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let`s Settle This! The Spirit of Grandma`s Recipes!",
+            "episodeId": "hug-tto-precure-955?ep=57557",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0a9c1ce3eb0a2f96cac6d692de4982a858673a27d9ec018c90f715cc4e3cb64bc5926a0fe6ca3c9ef339629253a358af717045df49dab34d2ca1376652b4d69f745a1e30f8d9ba95cc7e250421422d811ce3f0f4eb13c41f8288fa8b3e05c3252d8c04b83e1834db4593fb29f54468010caf8a4b83a03734214a099adf349755/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/707207502abba8366acbcb0f08c14ebf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0a9c1ce3eb0a2f96cac6d692de4982a858673a27d9ec018c90f715cc4e3cb64bc5926a0fe6ca3c9ef339629253a358af3e9c3b930cc3ff5c914121b4bc5a5283906108be83623381c769ffa54b6bc59076d3367250266e0eaf8fd3d8b8b40c59773b77b9b47d046a5f8cbab3eaec0d75762e6d97cbea68a1d347032577a9432e151fd6a550bf6341e316d1a7c95d0049/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/707207502abba8366acbcb0f08c14ebf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Around the World, Go Go! On Our Summer Vacation!",
+            "episodeId": "hug-tto-precure-955?ep=57558",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7aedfac175368188fd551deab3f336a8d2444275e7cd0da07be39d9b7721676721a2e7dbb5474530d8f96457500b5c812051ad2b969069eb66b374a9518edba1cacbecce4687a52eb8fbfafc8c9cec5a1a79f9fa12dcba202fc02f85c530755b09687a7597c9c7f9d387da46104fb8878d8c7ba3c64a5fc779e98e9426945fce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4907e7c48ac9a8f784a5511f82903ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7aedfac175368188fd551deab3f336a8d2444275e7cd0da07be39d9b7721676721a2e7dbb5474530d8f96457500b5c8122a422cb973b8d2013fde23079b9bbad333b766e2b7050278983caf5145a62c68595d18ae283a7fcf27fd09792c127398541a542bbaf4170e50eb5efe363ac1f4c18d1b2c836f977ace5788e357919d39c5e0e2b34b7fd75072db595688abec0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4907e7c48ac9a8f784a5511f82903ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Time Will Go On! The Memorial Cure Clock Is Born!",
+            "episodeId": "hug-tto-precure-955?ep=57568",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/94be41874e786877e0bb983adb6317e7f805ea70797ec33c47c1db980ca143b1865935b786b5dacab3ba791877e766621fe4ca5dccf9259d0639df6840e7d896ad2aa456296790bd1977362b42d7fb29291df8adeed5b46371780ad4fd5a913d4de0ad9334241dbc2f8c0625b383f5f6445955108061b5788baea7bb2459fbd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4e9294c3fce310decdfbdd827e421be/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/94be41874e786877e0bb983adb6317e7f805ea70797ec33c47c1db980ca143b1865935b786b5dacab3ba791877e76662c53a5b9bcf75132f14b433df03dfe7ddc919517fc7de86f4032ad4282710ed77e2bfb0b0910476a70e439843f1cc5b6b2192014b121fee9d037cb1338281be2d8ca4418f7d391c258b28a72ddedc9275e07f3e92c0e7906f84f7cf8f21f21dbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4e9294c3fce310decdfbdd827e421be/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Is It Magic? Homare Is a Mermaid Princess!",
+            "episodeId": "hug-tto-precure-955?ep=57559",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ca8053e1b1760a5228384e7250e98d4deceaf9771c8ffd20214fd59382619476c01c8dedefc394dc2865e5b7e72c46069b9558347274d94e46440001a4573bed57933d4934f2436f19d59d637c09606c37a6fd0e86d9b61a7caeec114f26cf62aeebf1a65a235be69c1a26c4adc3ed14cadb37b236d15e9b93f93a16e248995c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0763f891c59fa493ef4e3b9686c7166f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ca8053e1b1760a5228384e7250e98d4deceaf9771c8ffd20214fd59382619476c01c8dedefc394dc2865e5b7e72c460602943d0e76b63f73e346c2d1412dd309022ea0a3ae98697bda0ba7f7da299b789599f40cb71e7e345b95aedb75e670e34abc63f21ed1b80b084e05efddd9c78e31adf5c14f304f6d355cefc64e9753c9abc43eacd423e75cce5ed9f549aa8545/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0763f891c59fa493ef4e3b9686c7166f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Watch Out! Criasu Corp`s Recruitment Drive!?",
+            "episodeId": "hug-tto-precure-955?ep=57560",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2bdf14b093d3e9e3f33a09e760f0b162c34f85335e5ee1bbc5f8ffdd069104ae95ee0d5981914894c4a6a42b171dc9e75429adbd330b212f1d13ef24bf7437e6841c6d654c8108bad9eac0df423fb01f75e43afd876e75d20ab6856917ff1418dbd7864a394d03e00ce61990a6168d1127929bfe4a6b0e30ada91d9035e64bd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7691e18ca8a36fd1bd60529af47e728/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2bdf14b093d3e9e3f33a09e760f0b162c34f85335e5ee1bbc5f8ffdd069104ae95ee0d5981914894c4a6a42b171dc9e79e0d6c774b15a8e2b91f579d11199c2d1a3438e430a5d2213436d7b360853cf3564f6f1f59252a0ebf4fe14bc26f30ebd0c3a6089075944cf20c9660dfe7291010010886814939d4ad2fb5c10604f42f87a7e4c340b55e18016f55fdd775fd14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7691e18ca8a36fd1bd60529af47e728/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kotori, Master Detective! The Big Sister Investigation!",
+            "episodeId": "hug-tto-precure-955?ep=57561",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9021cd109106529662a2ff59e86da35ac463031d5362420f67b3272c03a1b3938ac4fd96245bd4371b196971e4a93204dda1df689294f830e02f4e60569dc84e07c94be33d0c50bbc3836bfc64920945e88eef677feebe646dd2c49b06268c3f5d477702e2aeede1ab9482eba2579eb7974217f01818f38ef178b8d1a2d5938f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b991870b7da2ab930e8a4690b22ab7d8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9021cd109106529662a2ff59e86da35ac463031d5362420f67b3272c03a1b3938ac4fd96245bd4371b196971e4a932041163acbc52a47e01967a82bae19079c775319d148a26644176c5ad0f9305929f3aaef1a7530e3483a713a03f03eb5d3581ce8956a3c479e5185e34df65fe49b34792344e3b84ec75e97e4a4512b648513cd2ef8ab55c0bdee4bc71e8e3bd2443/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b991870b7da2ab930e8a4690b22ab7d8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Light of Life! Doctor Saaya?",
+            "episodeId": "hug-tto-precure-955?ep=57562",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/533319cd04510a15036bae14883a1bbd6d25a0368acb5c7316358f3a8fe6f1b2d2c05bf096791e66fc22c6ea0b5b40de4bdb29ad479aeabdbbd87fa4288ff518ba56b113bc7effb03fbc9a18349f85ba3894fa32e8f15e9a220037415c80593512e669171c38a101fc4a9f59f37cbf796970cc717246506189dfa268850367b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5f1cc0753ba593447355de49c2f466f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/533319cd04510a15036bae14883a1bbd6d25a0368acb5c7316358f3a8fe6f1b2d2c05bf096791e66fc22c6ea0b5b40de3c13f519e6578eb8071fd693f05db69c8bd0fe248ad1d5a1e970b45bc969e02287cf76c2c943b38cf93a3f8e3f7e34fb5c833711e0de4c3de200cb3fc6fa1fcd04260546e34dcc42ba509484b3df25b60bd72fe2282b7bda0585857785db5c28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5f1cc0753ba593447355de49c2f466f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hooray, Hooray! Legendary Precure, Assemble!",
+            "episodeId": "hug-tto-precure-955?ep=57563",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/65e0c9ac70e6c0de4fc9e25d174d0b9cede38d999fb569536b35bbab8f94cdb22d1bb903433742c3c11662d821a3906fcdf0a79b86f9853d0cbc9ed765906ac3ef8c0bf89a9ac228e42dd4b8ba59d3481a9a5485f61f1d113571cb4d2c943eba2f05271ea7cbbae5d3e7c260bd9d20d1313017d4b73be4211b0312e638786901/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72f66b7d09cc51abac21299cddf864e1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/65e0c9ac70e6c0de4fc9e25d174d0b9cede38d999fb569536b35bbab8f94cdb22d1bb903433742c3c11662d821a3906f2b8f3d4afa41f3b5ab00287a1f0def8ae2cc7954104e8bcdc786f5aaa92f966ed1564052d784e2642aa4721789cc091d60845bd2f2bb0427f7836c58ff4a0e828e537e10c392bd8fd28202dae207eebc428483aee5abf911e6d691ea89a9afab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72f66b7d09cc51abac21299cddf864e1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Into the Future! Precure All for You!",
+            "episodeId": "hug-tto-precure-955?ep=57564",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d0794489fd6ba69bfc0427d5d353eec6126561a100d21c6b6d56e99c7738eefb9de351f6dc369f65dced8013e445ba8d85d1df7b04458e9f48c862599ecd26399f2c12094eebfe261d2c634f34e54330574b257cf121afcce7199def1519b5e47980a37c7ec4421dfca4df55781ca39aa4b6da9d50da5e947fbf12f1eedfc0be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7c525e9e2c4c550bf3baac1b71101f0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d0794489fd6ba69bfc0427d5d353eec6126561a100d21c6b6d56e99c7738eefb9de351f6dc369f65dced8013e445ba8de9f91f238cf37d735402b64304571661bd10d38068db0363a1f94ce85ebbd8a7e26693fed197c11c3455dab723c46656cc51689f0ece25ce6571e6eeece33bf1fbb5a407248cc9794a5ca422e882f1732967d009ae5cbb7a6705527d5f18481a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d7c525e9e2c4c550bf3baac1b71101f0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Happiness Charge! Happy Halloween!",
+            "episodeId": "hug-tto-precure-955?ep=57565",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4755b53c6e23b069d1a2327c2669f48b7ba22a0f6442529493d9b030451e9ea84a0a94d195776eff0002a2622c731232445148ed2ea8d77913ec9378c90045e9df99116afd65c9cc93a9a28b7ac11114d8cbf4bfa28ec680362d1c10179294e4cc006de2bcaa994f6ae8e587637c609998459f163d93d841599eb98b24773658/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b769d778d0e1e079138bfd148cd221e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4755b53c6e23b069d1a2327c2669f48b7ba22a0f6442529493d9b030451e9ea84a0a94d195776eff0002a2622c7312320bf7e86a6f7d41b4ed0facc04fba82f780537aa82d8bf9d52b579baf3eedcbab1f701329c6062b0b04db35da5c49e4e6371b2c73b40e9ea90eeaa1651be48777e873117c3642d48ae99e03b4f85f3d0f769c729a781fd9ae893135370ecc5609/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b769d778d0e1e079138bfd148cd221e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For the Future...! Together into Tomorrow!",
+            "episodeId": "hug-tto-precure-955?ep=57566",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9f9fe9ffc1149d5ce9df99238777367b522a98dcf1c621517a2119c3ebb23b41c6655ac25cb426dff56987c652f0f6d753cc47d1e59cf9106d935190f8ce62ee8b3da2a0cf609a45a5e2d8b8810b018243f906ef425b0706c2f6eacc15bd5f3c9017529a85a31760a6b39517605a0afbbe86db6336c914e10f46764711cdb134/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9f560fad8d535cbb00e28de7d269633/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9f9fe9ffc1149d5ce9df99238777367b522a98dcf1c621517a2119c3ebb23b41c6655ac25cb426dff56987c652f0f6d7fd766da45bb86bcdd4669e1d18577a763e78fc086dee2f13e251aae418ee5af866a51fa9883b29cd57acbc3db9d3f05cecff2cd12a2de93b38ee2ad60891b5d80959ae6c6968533253cbccf72203056171b874ca937fa6b94bc9917fa315c155/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d9f560fad8d535cbb00e28de7d269633/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lulu`s Daddy!? \"Amour\", That Means...",
+            "episodeId": "hug-tto-precure-955?ep=57567",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/457526e55b451b94f1d1fdd61df9923d771b97115bad799cc6ab7b7f8c4f8d3b0aca8bbb289efc3aa5822cfec111389c7ff4fe8803cdea2f6f177d04fe724fc534bd8920d7fcffb369826b5f9ccafc982bfd09bb5e785b6663a80c82758e11418e213c05864ac37ce54c38c47535f9647d0ee28205f2545ff3031c056e0ec5f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/119d6ab280444b364d6c51d64babf914/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/457526e55b451b94f1d1fdd61df9923d771b97115bad799cc6ab7b7f8c4f8d3b0aca8bbb289efc3aa5822cfec111389c1ac8f080343e5817a7a482f29b78c86d2f57dce60e48ff15caef42612cba3204b9214340fdf8a26efa2c8a9cb6281cb892f8f19f45a51a3903e06bab54a820c91b59a7d7002ace54bc57113b6479a4f5e52638e3409965f048dadae366ceb3e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/119d6ab280444b364d6c51d64babf914/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Emiru`s Dream, Your Soul Will Shout!",
+            "episodeId": "hug-tto-precure-955?ep=58590",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d60e37caf3b2b9795263134723b40c1ae9b5db196e77b26ed3fce8a193bfb255a1a9afe7b3751aab45cb26da9ec3d095918a45f3a1bd5772cfcc7ca07a5d74de67efb3d56d40914254a2ec9de9e80e52d8ba5804ecceb32cc5d12b811c4b2814aa773eb7a4b30231d4f4fd05e3a1608faea0662d1c7b635078046b4363bd0d5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e683b6311405bb742389e26aab6d9a51/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d60e37caf3b2b9795263134723b40c1ae9b5db196e77b26ed3fce8a193bfb255a1a9afe7b3751aab45cb26da9ec3d0957f12876f4d5eae837f056ee0fa20120e4c2457b246d1e772d81e9cc6c61774d86a5f99b4df2f7a9f0709a2103236c78b1b734b29f34f811fe33a3025809c35b5c578cbfa74e2e1731bebd5fa48e72dce435d8aa6f3e7865b1427ffcdd70c6e1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e683b6311405bb742389e26aab6d9a51/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Yell for Another! This Is My Cheer!",
+            "episodeId": "hug-tto-precure-955?ep=58591",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/11c9398f26bf4e7557955bc2eead36eb03c47b13c880e402193a5b079e57d71922ad90ef046fbea61284f1db01230c5bf0fd8252dc110827943222782cd0929dc1ccca45561741301a9b44a467c4aff0ed5104c276addfa4b7abc33c879d00e56636d368bd05d63f089fe0cfd6323989859af7e52174fc2b8c0dae2e87231db0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f7f3d64d45aeaebada670e2c0ec4e54/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/11c9398f26bf4e7557955bc2eead36eb03c47b13c880e402193a5b079e57d71922ad90ef046fbea61284f1db01230c5b728f63cb3def09d067390a0c929da2d663b059554cdee12cc1c700e3ba2800ec9980af9ee8cffc9a92d2b949c912d4c75bcdd6ff294622ca523bcddf91abc6669f144ce2601852b8f7747531c06eaea6ce6cf5f4859359b0aa446175451d69ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f7f3d64d45aeaebada670e2c0ec4e54/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Loving Heart of a Shining Star. Homare`s Start.",
+            "episodeId": "hug-tto-precure-955?ep=58592",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/63149d28ea4645b6c36814a51bae59a49c5aaae57ac76182bcb51c584a9dfd5e65ba501fccc70cbf3a890ae6b88f2c9326d7fb1f98d437bcade077df19ee9b217a9100962c7efd6139f2add70971723c73d7332c1f260bc4fd334cecef1fa759b4ce8ebe1bfdf7bd095d191b1bf164afd06a3ef7481ce13e944b8a6c5eb96bf3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15fdfbaa429a1b680fbc3f676e870226/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/63149d28ea4645b6c36814a51bae59a49c5aaae57ac76182bcb51c584a9dfd5e65ba501fccc70cbf3a890ae6b88f2c9311923566b241225650796cd2ae94284f6d5b6b3b6f5b151387ec6ea2af1b4fe63716952d843bf3b730a732fb3675bdd35ba53c27e311bc19f464cc7cd991534a8e6f2cfa1c00f9ab1093f4bb9d65895ef24ada75189cc8d902de8d80b4454ebe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15fdfbaa429a1b680fbc3f676e870226/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Journey of Dreams and Decisions! Saaya`s Great Adventure!",
+            "episodeId": "hug-tto-precure-955?ep=58593",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/58ab0b383e6d65e4a8bc0a963dcd4155db977930bfa9fc874bde7525736cca977729dff0c776f1600b2a3df6ac777c3e6a85620305887abb8a56d9fa68992d412a5e1885ec304327e2d6903c4cce96d759667a21f619011c25f66a1ebd19bd52171bba27d535a0584d244b7a905149c86541b47934e3f176ef0056bd51a022a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79e279286b3a5e035911468017e3e83a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/58ab0b383e6d65e4a8bc0a963dcd4155db977930bfa9fc874bde7525736cca977729dff0c776f1600b2a3df6ac777c3e18f411c52b0799db57b706e644c7d34e1b590ec2dad5a4846baac2dcdd27fc570dc808348538075a1b524cd3647d9163f1c7aa1a09dc9179ff9a7a7a1d742c09e67093344db79796994aa04216b5140b9ce403c7ad3400aec321172045bb92c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79e279286b3a5e035911468017e3e83a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hugtto All Together! Merry Christmas",
+            "episodeId": "hug-tto-precure-955?ep=58594",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5b52fd7f43dfbc8d7af5b7e03d391cfaf62df2dc02f10c9122bd68ee1d76d5f794af9d959ea9de5a268c4c7f5b9c7dcf9cdb6fb12456405103375046922501b33d8aeab6218a9d59ba1272264798df3db9b69bdcc0432b51786508819c1de63234060f4563dd1a340cf11813b4aa9d1203749c5eb9bf1ae08af1b9ba2335e219/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea655ac928ee330d0b4d5cc658be1e7e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5b52fd7f43dfbc8d7af5b7e03d391cfaf62df2dc02f10c9122bd68ee1d76d5f794af9d959ea9de5a268c4c7f5b9c7dcf6470d735b659091fd24e633df5b835d35773a9046f0f6825fff0e61cad8d0472d90958ffbff24c785657e36129e5ebcf799f091ef38ff589e3118059391ca4eb96fadb1fb5467bba8da2f60e5441fa4e332d7d4e24cd83be1b987b8a3bf75b39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea655ac928ee330d0b4d5cc658be1e7e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kurai Returns! The Perfect Flower That Blooms Forever",
+            "episodeId": "hug-tto-precure-955?ep=58595",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e2abc40b810efa72d0a8ddd66d3f994b913471fa84d5132cb99cdee21b130c6cb4a89683a9ec7fea62a214085860972dbcff2151113f48ccee09af5e8897067d084d80a6b727cd9b9a1ce0ac54acab07341eafd0de43e16ecd73c3de449a1280eee49685f37b0cd1af14f38a32dea33e70f36f1c0d3c4f74be3c4b6a8d7aa22f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ccfccbfcf9852b8f1b68ea81689c922/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e2abc40b810efa72d0a8ddd66d3f994b913471fa84d5132cb99cdee21b130c6cb4a89683a9ec7fea62a214085860972debde434d531afedaf19bddcb0739d3eeb4b52e6b0d2726b68ca7b29b029453e5e45983e01d05759bac490784f4c7ff076b46fb1c34bdf318afccb01a3e49f15c5d637ab8ccb16b5b6acce38a0848ebbe873f873bffcf26f8ba7222be1f75afcb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ccfccbfcf9852b8f1b68ea81689c922/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Final Battle! Let`s Restore the Future!",
+            "episodeId": "hug-tto-precure-955?ep=58596",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1dc5ddd6ff57ff28ddc4e6aa17a57b4c8c1d8fa031646f46756b6f80f79b81c5c74fb360759ff6fce026e91516218bd5da363a5d18f935bd607110dfbe5366fc48bcf6eb6611b05c25f327d142966c123478b16e755625d7c89f35c284ab94ef320b11f0493cd7acf02428cbd3aab251ed9d35c7c68af117e40065d0d61b34c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e54f54e740b261f888d96184ba68fbce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1dc5ddd6ff57ff28ddc4e6aa17a57b4c8c1d8fa031646f46756b6f80f79b81c5c74fb360759ff6fce026e91516218bd53989bd4f21df298645e2a161d0e69a245a5db301b7be7d02bb43c76118059c483c7e9faf05dd1aea10dcc3ed393dc7d8e79e434b62f618738593fd1cda8a2040937b505b0977d0b1c7d9d5977d48b9dff43ccf36887f4f3f8b2fe08fe44994e4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e54f54e740b261f888d96184ba68fbce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Can Do Anything! I Can Be Anything! Hooray, Hooray, Me!",
+            "episodeId": "hug-tto-precure-955?ep=58597",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/42ca8dd09a825db39066a8310d001fda4d025f81ae888e169f50447917eb5b8d4ad507729bc22095704dab985e6dd9edf7423f9e6133803343b8dcb6f7458a520f3a067fab4c60f4106605d5a0e31d74b42907c91c026350fe32c6039b2ba72ee95eabe399e92cce5c2fde23eea2e3f2a0f3c2023f3abeda79731c80e921d0c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4864ead4d6f3b24b074cd1d8de344e83/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/42ca8dd09a825db39066a8310d001fda4d025f81ae888e169f50447917eb5b8d4ad507729bc22095704dab985e6dd9edff43bee684b5fcfe3437b6e3560a462d6d700918faa93994cf5b1b8648bd09d1b8ba6ad39ac611211800e54a4bd2c480574c886867b6c13f9f3f2c533804fa56afecb0dcedcbc613a2c059b83078f16de374f87af150b26a88b67fe359b1778b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4864ead4d6f3b24b074cd1d8de344e83/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Embrace Your Shining Future!",
+            "episodeId": "hug-tto-precure-955?ep=58598",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/397fb4165ba05c154ba208d855bcb28dccf64af21e1cbab2e1d36a0180af5c27fd6580daf8a0684ca86798fe140b0ef3829809a12b4ab4791ca57cc132d39c2d33290cf1bcae1e1c6fa24ca8012fe750b16cb1d712d9b18d23222d10b01fc792af792de949f0893e40621dbadd3ac3875acc94af33d7f4ec70d2e4c43e6b5cd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1db37e0b0efed167c92600c4a9eb734/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/397fb4165ba05c154ba208d855bcb28dccf64af21e1cbab2e1d36a0180af5c27fd6580daf8a0684ca86798fe140b0ef329f3b6b6dc75e10cca2342d0312e82fad4fc8961b12cff4d4bf8262ecc3c24c33dd144a9a3d227b6a349161626e808bc7b0e9296e0e59b9bc362765a79ddd7eab8dd43a6893c3f8e96fa0d53c68ad0d55dc1c0dad58019b0205693c3dfd4f891/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1db37e0b0efed167c92600c4a9eb734/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

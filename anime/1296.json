@@ -1,0 +1,549 @@
+{
+    "info": {
+        "id": "recreators-1296",
+        "anilistId": 0,
+        "malId": 34561,
+        "name": "Re:CREATORS",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2adb0c3af7a233b2d569ce8a85184987.jpg",
+        "description": "Humans have designed countless worlds—each one born from the unique imagination of its creator. Souta Mizushino is a high school student who aspires to be such a creator by writing and illustrating his own light novel. One day, while watching anime for inspiration, he is briefly transported into a fierce fight scene. When he returns to the real world, he realizes something is amiss: the anime's headstrong heroine, Selesia Yupitilia, has somehow returned with him.\n\nBefore long, other fictional characters appear in the world, carrying the hopes and scars of their home. A princely knight, a magical girl, a ruthless brawler, and many others now crowd the streets of Japan. However, the most mysterious one is a woman in full military regalia, dubbed \"Gunpuku no Himegimi,\" who knows far more than she should about the creators' world. Despite this, no one knows her true name or the world she is from.\n\nMeanwhile, Souta and Selesia work together with Meteora Österreich, a calm and composed librarian NPC, to uncover the meaning behind these unnatural events. With powerful forces at play, the once clear line between reality and imagination continues to blur, leading to a fateful meeting between creators and those they created.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 22,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/5pWvM4JAM8M",
+                "thumbnail": "https://i.ytimg.com/vi/5pWvM4JAM8M/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/NBrHV97qAmM",
+                "thumbnail": "https://i.ytimg.com/vi/NBrHV97qAmM/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/iFqEj3d6lhM",
+                "thumbnail": "https://i.ytimg.com/vi/iFqEj3d6lhM/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/5pWvM4JAM8M",
+                "thumbnail": "https://i.ytimg.com/vi/5pWvM4JAM8M/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "meteora-osterreich-2395",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/85ad33a4a2fdbee5baebc9c43582ee45.jpg",
+                    "name": "&Ouml;sterreich, Meteora",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "inori-minase-35",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8453d023b817d404cda6dfb4c978e1f.jpg",
+                    "name": "Minase, Inori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "altair-864",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c79f852b69645d64f76edab1917e401.jpg",
+                    "name": "Altair",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aki-toyosaki-60",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4854184378d2c54e1d939a56abb862fe.jpg",
+                    "name": "Toyosaki, Aki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rui-kanoya-8455",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6012414fd88c233332e4f3a08d785405.jpg",
+                    "name": "Kanoya, Rui",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sora-amamiya-28",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51334186bb8e7610c8f8b79aab3e0244.jpg",
+                    "name": "Amamiya, Sora",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuuya-mirokuji-4250",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bd4cbbd07cba7db5f8f2c3425b9623ef.jpg",
+                    "name": "Mirokuji, Yuuya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenichi-suzumura-104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af03c6635afbbe5fc9608b10ca96d11b.jpg",
+                    "name": "Suzumura, Kenichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "souta-mizushino-8658",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0ead34c453d0094d356575b4a969c549.jpg",
+                    "name": "Mizushino, Souta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "blitz-talker-9748",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8f22f9d7a3254735f1ee723b79ac1e9c.jpg",
+                    "name": "Talker, Blitz",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "atsushi-ono-2774",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c7fd2c05e7dfbfbd406c43ac9f12bba5.jpg",
+                    "name": "Ono, Atsushi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Re:CREATORS 〈レクリエイターズ〉",
+        "aired": "Apr 8, 2017 to Sep 16, 2017",
+        "premiered": "Spring 2017",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.59",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi",
+            "Isekai"
+        ],
+        "studios": "TROYCA",
+        "producers": [
+            "Aniplex",
+            "Magic Capsule",
+            "Shogakukan",
+            "ABC Animation",
+            "TROYCA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Magnificent Voyage",
+            "episodeId": "recreators-1296?ep=18796",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/17c85aec70355f70fb2b9d29461a9eea2c4e4ec80040f1a415d381a599010f4caa83a1c6873b5d2bde3bf85e5062621b290a98b9eafa6d8f43f03d23c989220bab154d77063aa5e70a35ee88e16b61b653fac05c268d98d8b29c6f1aebb182c4c59983eeb757052d60bfe564fbe5e10acd25baf6dabae302e1954ea934d0a7a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c6d92c55aa0ad421059ab1e76cb72e2/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/17c85aec70355f70fb2b9d29461a9eea2c4e4ec80040f1a415d381a599010f4caa83a1c6873b5d2bde3bf85e5062621bf003988907bff964992dfd05b69bfd9b7ffff1f19761e815e2c4900e8e4a28412fed0616c621550e948bdc619cfd6318531f74359f2dc0d1d9b1aa7b4f07a548ac0b611c5839c37dd5bd1d4b38743697742e058c7726e6e263144f9c10afcb7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c6d92c55aa0ad421059ab1e76cb72e2/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dynamite and Cool Guy",
+            "episodeId": "recreators-1296?ep=18797",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a72391d3b77d58bf3cff5d408ea2b92843d25170715871655220da95ad42536733d991cde03f6950151aaf5945bbb2467959ef6eab11509ac3e52de534036a69cf33fd6adeb4622f8679e10cbb6bcdf3828ac6b5119ec3abb6103340682ac4480312eb95e3c520edd29317f764dfa6db9f6eee2e44a35dd83178417db44672de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5f38d26451afad80d23dec287172ff5/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a72391d3b77d58bf3cff5d408ea2b92843d25170715871655220da95ad42536733d991cde03f6950151aaf5945bbb246750fb5e3b882be5bb3c06b83d5aa3b1145908ce2dfb04b8a62346a1adf56f6d28d69c395a4177ed3144e624cf1a22fb5b986ee7f3124a46724ffc1f665442eb01851899e53015e67762afe9879bd65b8ccf11cab303823bcecf6785bad3bdd3a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5f38d26451afad80d23dec287172ff5/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ordinary Although Unique Everyday",
+            "episodeId": "recreators-1296?ep=18798",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b677046d72c1682895afdb3c23226edbff741a50b50ea5357872143949d379d0243e47dc63d093f780920ba4ed23ae47fa3ebdfbeda50a4255fa34d49658cd964f3f96b8f1faea9581ae9b4ed5a8ad645455ad7b818ece4df477a77c4e8d7b1ec827a493fa19412288dcf4268346d21eba32ea47593ae816228a4b5c68ec3c66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/957dab646bffb44078f4637c1569bb02/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b677046d72c1682895afdb3c23226edbff741a50b50ea5357872143949d379d0243e47dc63d093f780920ba4ed23ae479db3499fbf57f2c1721d26745019ad5bf1b6b34687f7fe41988e95961433af014506e28e83a2b256da4378dff736560eb2be9d05e807f3c2c049349f0501974d23df6c45a535e03394b9338d78b264362ff0ad65c3b4031c8481c1fb9eddfedf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/957dab646bffb44078f4637c1569bb02/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "At That Time Say Hello to Him",
+            "episodeId": "recreators-1296?ep=18799",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0f181d54a2af80171edec81b5006cf82e7d69578be23bbe10a98d617282efc74b24900e8bce1d135b067b617c618cd0c344f878612f5cb1f0f341772f9afd78ceafb1a9062d137a85a0aee439a25e465d60961f6da20537546486a476976fd35ad97f04b01886a100fb2e73eda5bce35711121728f3033ef78b204b8e93cba9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3bcfcdab705ae5f96325ed7e6f44952/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0f181d54a2af80171edec81b5006cf82e7d69578be23bbe10a98d617282efc74b24900e8bce1d135b067b617c618cd0c05004409e9e1826ee54bb5aec1f56723ba230e624324e3da785c29301266bb60ba19cac25265c471143346bca6698c5450f42712a1244ed070878c01aac68c42ee5146dec39c9904ab4e61a8d9796427e2ea553de51d2ea00197bbe4259604fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3bcfcdab705ae5f96325ed7e6f44952/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "This Water is Coldest at the Bottom",
+            "episodeId": "recreators-1296?ep=18800",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b6f22e74c4e45097d487ed55747e3aec14d32846564f71b3b72910644e1fa8d74c5c556ea48a56cd3affc0d61262eb7114dc1ee317ae5c50b0df7f327ec1cc830f2704461dcca767ac21f71ff2916fb58c9b179202f8502e7fd42a9553d4706f11bc70c274d8dc6b0a3285b2e0831f1122a13ab7bd8bb772ac78c5128828f5fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/521ecb150ba0696ab2d4c8eb913a6936/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b6f22e74c4e45097d487ed55747e3aec14d32846564f71b3b72910644e1fa8d74c5c556ea48a56cd3affc0d61262eb7157f7beacfb3b76cc8055eeeaaf8c468f2e068a2b87090b874cb2ab279515da54de2af450ec414e17274352b6fc1224f7feb23652fac8221172a2719ef0caf74c036dcbf0739ca98e57796f406b9235e39a45bc60e8a47e1bba400ef97ae477e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/521ecb150ba0696ab2d4c8eb913a6936/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Young Girls, Life is Short so Fall in Love",
+            "episodeId": "recreators-1296?ep=18801",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d95205de846810e9adeda2d0ac0e494d0d6f3196d32b955322a10af62029d9f1a51405ac697628ac8485f9986a09f03c5436f44745d8e3addd6996c77abea1ddfe2fc54db5b173f99e7a139ad914c35681833682fbcd745b17cb1854a1ebbf233bae042cf8b875e8663d7a9091bef8b9a5dba1c6995074003f74c3f70374e5dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/575123088c2b94fb8863f2a493613cb0/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d95205de846810e9adeda2d0ac0e494d0d6f3196d32b955322a10af62029d9f1a51405ac697628ac8485f9986a09f03c786d7c3f95c3db58bca8eff4616ccc4629c0ff63c7aca2547e33c9d925586bfba8b27e4ceac240ce1db373be89dbc9b5bdb60e6aec7c68348c1ca05f406d3fdb7bea8e3c5f94b7fb27d7434f42257129625db338ba7a0dc4b55bee56dbbe104e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/575123088c2b94fb8863f2a493613cb0/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Small End of the World",
+            "episodeId": "recreators-1296?ep=18802",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/58317aa4167b67a659f3578564e2f993b7134fe4ac71f4ae49d85c807ea9225ad78b78341de236705b5210114f339ae4c51ba4aaf2e9cda3a1e0553f0130e9a5a00fd32ee431147e1f69a1b5debf4a56829a23a3987a49e27ee31a20cf19b13901f6b68e956ff78305f36c541b5e324e1c679505890627f4be695c3be2d5fdd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12c06d7e5ad08011ce3fa2534812da4a/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/58317aa4167b67a659f3578564e2f993b7134fe4ac71f4ae49d85c807ea9225ad78b78341de236705b5210114f339ae456a2d799581c45c64ac29745c8706dba49d94f1267d1edbb2f757848e9a62d05b2850c40923aae6b3ea975a9f3a90a5f37f3fdd3d4a4c119125316c7c963fec8339c882d8d5c6f91c150375d83e3bf62687594aac8309f96120b7b987849e662/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12c06d7e5ad08011ce3fa2534812da4a/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everything I Can Do",
+            "episodeId": "recreators-1296?ep=18803",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0a80533414916157c3557fa9eb3784d045a1b9f5dc03fc873b148bf640e110ae1ec2239f765818c7a7eabbf97408b75bd790d92f40f331230b444571669a4e9a98bdd22ccd8869405b341f3067cb8c893d0ba32825ac837fcd588ca07ca165d257be630fbf8a60e479a1b2f27dc5ed5784b352ea008fc3de76c08d58aaf11f70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89bd94ff5f355ab024eb96363adf1e3e/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0a80533414916157c3557fa9eb3784d045a1b9f5dc03fc873b148bf640e110ae1ec2239f765818c7a7eabbf97408b75b0d1e2db60c56cb3f78f6bc784f671102546a855e10cfa71d3636590da6bd100a0e7bfcc97c1c1a1ddb94181f593cab6a8918a31e00bcf94310090fbfd1dc836edb8201e2f45ea7f93c084a38e1aa99fe18a96193297f0614d9ee53a82e047ba6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89bd94ff5f355ab024eb96363adf1e3e/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "O Blooming Maiden, Dig a Hole",
+            "episodeId": "recreators-1296?ep=18804",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ab33905d3b05f690b5ea35af0ad357d79c1981308913333b9911994bfd4d633408835b980089f8896d3bf8336522a908b07a7561126edfeffcc871baf42e4bfb7f5fb7af8f29eed5759c716294a98c5d8469d8b53b8a708a4cc06e66f8706a3277c7408206c3f69e79e0d3b64126650a12da6ddae51f7cf54f5c1b37f3009685/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed4a0e869ee06a3d850859b21de36fa2/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ab33905d3b05f690b5ea35af0ad357d79c1981308913333b9911994bfd4d633408835b980089f8896d3bf8336522a9087786cfb125c52a39d7c6f2d2e3ace8cd693a43633eaeec7da570130e2863d1e070ab4149e9db6ddd660bcc21932fbf5785cf7cece89725f8593d5688538313457777c8a6f4055c8d7086137eee923a12d250a34efa50a7e832fe8b5af52e9825/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed4a0e869ee06a3d850859b21de36fa2/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Freeze, Die, Come to Life!",
+            "episodeId": "recreators-1296?ep=18805",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/027ff88e9895e37151986f7062506838373d140c5c1e295f32ee8159e363bf4a40565da2970ced5e1f3c3531d2833cad7b03652033d8313c221e14dd76fc92c8b7d996cba4af3e93c26cca0dd45ec668ab7e3b690ae5d49ecb76e719e0bdb4de044e188424dca88dfd25de51a0ab8de51833a37490e62d52b2c21ae1b2f32113/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17c2e4537bfae1fa02b0f5a7f5a8cbf1/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/027ff88e9895e37151986f7062506838373d140c5c1e295f32ee8159e363bf4a40565da2970ced5e1f3c3531d2833cadac2138ce7e37913c1036ae21e70d5292e825c3e0c4efe2d1f6a98dd37d970daa19150ab36f38d5a04cfc5071fba1c1f7390c7fde75cf1643205f9b24bbdd64e57f9fdcefacfd13d81f35ad9a58e81dbc2eafdb0f37e10157c56b234875e70428/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/17c2e4537bfae1fa02b0f5a7f5a8cbf1/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Monster Under the Eaves",
+            "episodeId": "recreators-1296?ep=18806",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e25de0284549102c7abd7e58ceca87a0c1319147629be4e32be9196f64f59051f81a6588208d6e8370d2e7a66de74280a9c85635b1156bd5f74437a41968c0614cecb1996ed0fc9dd522f5c763e9e1bb95375ccbe39ba6ac28ea065cce351ef3c6d98fac69884166a3fd4b38907b2f9f64789addda2f47227296261d13e1836c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae28bfdefda22b32517e1ee5fb81186b/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e25de0284549102c7abd7e58ceca87a0c1319147629be4e32be9196f64f59051f81a6588208d6e8370d2e7a66de742809184f1a2a2458857a00c7e29dffc40393df08bf231ae7ae9843f7cacc2f50b10cbed336008d693728adb29aab50d2b20a0639c7c88c2666126ff03e03a1f9862472e6769cec3fafb66306b09f9d78ed85a07ba561514d54ef3e8f2c26544e9d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae28bfdefda22b32517e1ee5fb81186b/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Too Early to Roll the Ending Credits",
+            "episodeId": "recreators-1296?ep=18807",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ac5355e30e5b866319b1fbb066e4f02b5060179c191f7d1575857440a001a8cc914f0e22a317338118a727b865fdbbd2ba3f589c4bec8dd7211627ef0b1edcb8731d95142bd8d598cd06c1938d3f69b66b2b3901862cee746f8d8baed1c2f8e75033fb5576e61963d5586f4114323c9e9cf163663ae1bfe2717f7b7a70b3a8d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6d986316dcbe92f0fa2f06854fc076b/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ac5355e30e5b866319b1fbb066e4f02b5060179c191f7d1575857440a001a8cc914f0e22a317338118a727b865fdbbd20c2ce542aa5d69265c4287e75286fbd6b7d4a722ae5cd1bba024542f3e06e7bcd0ee68eed9f2f61185f525cfc1e0d1cc09bff9b76c3c781ed675b79946cf47c2091fe5d3dfedb27fa9a68b76bcf90a97789c93628cd04847238add4b13294a4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6d986316dcbe92f0fa2f06854fc076b/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Usual Detour, the Way Back",
+            "episodeId": "recreators-1296?ep=18808",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1438f0b77e2116f03457f27d1616080fd075873ba5d74018e89f9781e5e3e33202ce226d7588640a4a7fec9d2041eeb58b3b3276428688206adfc221f65f0e7a6da28a87be66394213dbaecc9f227038701344b5206bac77304fbdbe336630f3ba00a2771ce275afebd0ec0c18d80ca3c5d48c5b8d1e174965b142e7c2e27309/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c9a769f482590e3d60738169126d558/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1438f0b77e2116f03457f27d1616080fd075873ba5d74018e89f9781e5e3e33202ce226d7588640a4a7fec9d2041eeb5d363edd1c3e0950bea10102e0f69b4c18c3df8d54124167ddf2188657176adf500967c0126c24ec08fb29645c278d906ae27dfe8d0db7d898d5a1713f72443dc1f4ca493baa700dbebc08955a2c4b014ee47543c31b0ca45ef7efb1baf53a2c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c9a769f482590e3d60738169126d558/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Why We Travel",
+            "episodeId": "recreators-1296?ep=18809",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4b9850d2494651d4c01d8a111f919a9a4ac5ccab68d98dc1619414601483652edb8e780e8aeef989e04be84b00278fa5f68915d16ac64ce215ffb876fbe739f775b849769552bc750435991dbfb5607048732b91dc3825395567da4887fa66a444f73aea57c914ff922d661ffd2059219a87ac6be3e6e152735396b64067ad7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84bc3257fee0f806cc474740f671738b/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4b9850d2494651d4c01d8a111f919a9a4ac5ccab68d98dc1619414601483652edb8e780e8aeef989e04be84b00278fa54355a75afd91dd11a2cac0ae5ee5df8a198a8951b901b2f4931e779284c4bf6347a2725ab3d9956700db90ba3103478586bb66b88ac16eaf991c722c16a7415c2458ba3bed421682033e15c2e50e5d4cab774547eff7e02bc6ecfef1c304c8f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84bc3257fee0f806cc474740f671738b/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Waves Approach at the End of Wandering",
+            "episodeId": "recreators-1296?ep=18810",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/60b1abc8f3d40796b74e0f7e803f640f5b5efb2effcb04f6c1896ac09b422fed122b60fdeee3cbd4e8506274f223f93d5e51a896ce6d16a3f8f5fae2b33d338722e6ca00513d6f98ad68c50fc2064a3e7247c85629a53ebaa6f4f2d6f287fc16c8ff8672399bc47f31c6ce986b31d075f4642768c6dc6eb36b655fe0dd3b6c05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494553c0645790be593e58bab4eb52ff/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/60b1abc8f3d40796b74e0f7e803f640f5b5efb2effcb04f6c1896ac09b422fed122b60fdeee3cbd4e8506274f223f93d07853f52249608f8ca0036f2f8a08c84e36e7fa75abcd02e073763af4b1079638964dc5acf1c4db42bc80b8ce318fd99786a99719cc281a3eafbdb5c9eda596e6d95311764e276f89065b7de734ad3fa7364ca865231b841894dbaf90bcb4dd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494553c0645790be593e58bab4eb52ff/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wonderful Days",
+            "episodeId": "recreators-1296?ep=18811",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a79e7b4014fbbc33b19ba73624da5f91416d138953c7e56ed8416875ff949e522b8e4e449ef77fbee241e736ea041b27e8e54f77d78bd7fe073a56f58fc1dc472c1fd4bea29ea6a6286780b9b0156e5177cafe8c8613f8c3c16ddbd6b776f107fa21ce71701130aaae4e9f6243f300d36ed9b7d4be906e55f55226848d05e295/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fea621090895d7a485aabdbdd57615f2/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a79e7b4014fbbc33b19ba73624da5f91416d138953c7e56ed8416875ff949e522b8e4e449ef77fbee241e736ea041b27c478b0272ae8a4f5b7b364713ab0e2f02ccbb4be73ffb7475341050e5d9735dfc0efe7d852c340ebab4f98aa02d44c660c243e6120547d0dc45c5665120bfbd04a137099592abf712fe9b4e6589b5947167d7cace563c5a3272692ddd36fd3e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fea621090895d7a485aabdbdd57615f2/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rain",
+            "episodeId": "recreators-1296?ep=18812",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8fe0e43298d1ed52be824ad82737798b582d755e2a3062c7713c3ad2fbec4b57daac6b3c55ca3fbde7922a7e16be0a31d0c26eac4a736cbd5091e8e7a4b1d6df0fd63a55c3d70fcc9e2a6ac3272df3f7eace040e72f93a4ef0a9e14d960f1124643e53bb07ee1df762a4af5f68f75953d5595bd45ed246d308fe3da6b5b82fe6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1cb41b9a57f4e9b3b6ab9f84e0871985/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8fe0e43298d1ed52be824ad82737798b582d755e2a3062c7713c3ad2fbec4b57daac6b3c55ca3fbde7922a7e16be0a318d23487dfd92e3b6e5927039f8191573a210ae7de3788351045d89f77ad206aafd6570951719d82fe9e77168fdbcd848e9c049f13dbf21a5533c2370be865c98fe41f4c5020d86e7e02a6abc223f7fea0ab81b19c26ace5c4c0c366e33a03f38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1cb41b9a57f4e9b3b6ab9f84e0871985/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Enteriely Imperfect We Are",
+            "episodeId": "recreators-1296?ep=18813",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d26b2b9bfe14e91e1978cb4532a4aeaf9458571e2ca9123693628a91e1b6bf13c2f1bf536e6f007d72c3338d572539dcc75f4cd103fe751ade50d8f4229f89d1328e2049431b977903cded6304ccbcf61ba0d6d76b1f81f9c57239fa50c077f1c5c9e04732e07da229a1c07e2b3f91cca590992c4c4a9c284438951163e01ec8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1743e794200ba696a181da030c691dd/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d26b2b9bfe14e91e1978cb4532a4aeaf9458571e2ca9123693628a91e1b6bf13c2f1bf536e6f007d72c3338d572539dc9f2a72844810eb35c47b2c1fcadbe6487785540c3e1f85b40f9ce95eb518fa37dbe346a5ea21e75b609af44e30fe178fc0d2872ee8ba56d2c983c5cc56babdf349151318acdc6bbecfda9a4b8e2ce32a994ffa0642d4f1a5f4094c1d73b8eb4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1743e794200ba696a181da030c691dd/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "If Wrapped in Kindness",
+            "episodeId": "recreators-1296?ep=18814",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ce0319c1f71325f2c2464807b84b0d23195317a9090be50c00fc90fb43cafc4522c0d1041f20fdb9b462fe2652637d1c5778cfb2806576725a1ef18c8aaa84daa9ebe298efab042dc478357c45c8b4c1e47c83487ca1fdfc5292a554f3da28169a8f6a4f52819d674efb570b88896453f1f036bbf5bfe8ac50d09a396a1136a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/123e6069c444199f7249c5a639328673/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ce0319c1f71325f2c2464807b84b0d23195317a9090be50c00fc90fb43cafc4522c0d1041f20fdb9b462fe2652637d1c7f9cde83348c3cfc813cf8b07f3d149bf9af02d9ea1cdc71019d2e7e6cf9fa8345507a4a2fa4c91dec3c6ad9cc42cb90f34a9901a93a6c6c01bfc7ba0b7452141e1a7d122fe8b1f9a85419a308851571fc70e6c840424fd0cfa523f313635f3a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/123e6069c444199f7249c5a639328673/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Before the Reverberation Disappears",
+            "episodeId": "recreators-1296?ep=18815",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9d2457a81167bd6e38752e3969ee50459ec162a8f4cc749e701eaff0d1e1448bdf9eafaae33d16ea06d90cf93e416fe5db7a4530b820a2f9a3d3562f8b3eae03acdbefc7662637d624e30f466dabdeb78dc35f0cdda8a2c504044d0c7ded14b8f8bd3c5a4a4a810c6a681d6f11e139c51b6266e4744348408f512f64ff1bae43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/725804ee035a2ddcd2402bd07326c88d/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9d2457a81167bd6e38752e3969ee50459ec162a8f4cc749e701eaff0d1e1448bdf9eafaae33d16ea06d90cf93e416fe5e2a8c1c5b57dc038fd01a67a090e64375f4cf3ce1f17b1e6762f5dae1cf206fe6e20d45dcb18303d1790388f62fc812ef9a55ea11741e2fbe61375c4c9f92075f2f5e1b8622d55148c58fa1d63c49f7c07d82b828b7b3ecae3d6e20765f2692c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/725804ee035a2ddcd2402bd07326c88d/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The World is for the Two of Us",
+            "episodeId": "recreators-1296?ep=18816",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cdb3a22851b37aa1f32a73f8bce5e55d7b00f7ce08e6bf2de1a0031bde75796adbfa7ee4e9d8952f7f63215096c86ced021553ca0767145ce8a2e58635900a25af9ab990891b574beac537f64fa0a9173f3dc05ddea71f6ff76b25bd74a4cd2542562a5479cd4339c63fd6459aa55255e8c21c673ef204077a0fe553c0ff715b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c96bfb48dbd288ef989890f1f479666/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/cdb3a22851b37aa1f32a73f8bce5e55d7b00f7ce08e6bf2de1a0031bde75796adbfa7ee4e9d8952f7f63215096c86ced045237e08e2b9b799c89e884154ef1532c1bfc89db2e91395ed0483f9c8c7d6d549f927b9bbd7db2494d78401014c79d16db0cbe63435182d22859e514b1c1c70802625d1f4b369552f6b14c52f97436d493d12ccc1328ce49a084439f60aca9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c96bfb48dbd288ef989890f1f479666/eng-1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Re:Creators",
+            "episodeId": "recreators-1296?ep=18817",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dc32276e49be5bf838992b3f7fe4e3a6159c8f27c849b183f3cb8ab966f3fca7c8a692cb127807055c2109e86cd68aff566d460dc0959db0bc29c426c6eebbf75ed822dd873c79836367c3e0300e6cfd47ccf14baca9f57b5925649f9082941c911e42adb9f8bbc09e91c2d1f1c33d6bd68904b28195a48d361cee9b944e046a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75581ecea5d26c93386f65c9a78d56f4/eng-1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/dc32276e49be5bf838992b3f7fe4e3a6159c8f27c849b183f3cb8ab966f3fca7c8a692cb127807055c2109e86cd68aff0c8f2fe67b7b0a9a00e1f63439fbe11e9dbdd4ceb00fb7f535a01d678b13c42dd599dd93d4eedb58ebebd9c4cb8b1132b61486083ca9794b17a2f57e43ebcccc3b7e4a09c9b021697f22f856ab5c4924cf6fa2c094d2e2e38f81f64e96593d54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75581ecea5d26c93386f65c9a78d56f4/eng-1.vtt"
+                }
+            ]
+        }
+    ]
+}

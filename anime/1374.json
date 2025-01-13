@@ -1,0 +1,373 @@
+{
+    "info": {
+        "id": "fatekaleid-liner-prismaillya-3rei-1374",
+        "anilistId": 66131,
+        "malId": 31706,
+        "name": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/616e782caeeb3625ef4002a7fb171cd6.jpg",
+        "description": "Waking up to find herself in a parallel version of Fuyuki City, Illyasviel \"Illya\" von Einzbern is lost and alone. She discovers her home in ruins, with a massive crater lying in the center of her hometown. With snow falling in the middle of summer, confusion consumes the young elementary schooler, who has no knowledge of where her friends or her wand Ruby may be.\n\nMaking it to the remains of her house, she is suddenly tackled by an amnesiac girl. Wearing a gym uniform as the icy temperature sets in, the mysterious girl has no idea of where she is or why she showed up. However, this stranger, known as Tanaka, apparently has information about the location of Rin Toosaka, Miyu Edelfelt, and the rest of Illya's missing friends. \n\nFleeing from agents of the Ainsworth family⁠—those in control of this parallel realm—where will these two end up, and how will Illya restore the present back to the world she once knew?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/CU4Zr8NSwEY",
+                "thumbnail": "https://i.ytimg.com/vi/CU4Zr8NSwEY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/JpaxfpMO3EQ",
+                "thumbnail": "https://i.ytimg.com/vi/JpaxfpMO3EQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/hxQrN2Q4aL0",
+                "thumbnail": "https://i.ytimg.com/vi/hxQrN2Q4aL0/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/8Qv7xC64w7U",
+                "thumbnail": "https://i.ytimg.com/vi/8Qv7xC64w7U/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "miyu-edelfelt-2756",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56eba09a64215aa9883d23398bb4b801.jpg",
+                    "name": "Edelfelt, Miyu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-nazuka-310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/088c8bd885eb238b4fe53eb492aa1705.jpg",
+                    "name": "Nazuka, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gilgamesh-99",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e509f22d9b628899f1502fdef822e1cb.jpg",
+                    "name": "Gilgamesh",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aya-endou-442",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aeeac99aeb2a4dc09dc9b837e38c67ad.jpg",
+                    "name": "Endou, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chloe-von-einzbern-1515",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d9060b7dd93340d7d1917fe532cb0c4d.jpg",
+                    "name": "von Einzbern, Chloe",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chiwa-saito-54",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+                    "name": "Saito, Chiwa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "illyasviel-von-einzbern-412",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6968e53bf31b81b59f8b6321060205d2.jpg",
+                    "name": "von Einzbern, Illyasviel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-kadowaki-526",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb3e6a2552ffe34a7cf154518ef4d1b4.jpg",
+                    "name": "Kadowaki, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "erika-ainsworth-27320",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16f8dffd098489f51a6716bebe99e523.jpg",
+                    "name": "Ainsworth, Erika",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "sumire-morohoshi-466",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d506cca3430f7b59b5efff06c499ff70.jpg",
+                    "name": "Morohoshi, Sumire",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "julian-ainsworth-29315",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/92ce08ff5fd1793617389f6a58082146.jpg",
+                    "name": "Ainsworth, Julian",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Fate/kaleid liner プリズマ☆イリヤ 3rei!!",
+        "synonyms": "Prisma Illya 3rei!!",
+        "aired": "Jul 6, 2016 to Sep 21, 2016",
+        "premiered": "Summer 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.57",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Magic"
+        ],
+        "studios": "Silver Link.",
+        "producers": [
+            "Lantis",
+            "Kadokawa Shoten",
+            "AT-X",
+            "DAX Production",
+            "KlockWorx",
+            "Tokyo MX",
+            "Kadokawa Media House",
+            "Plus One",
+            "Silver Link."
+        ]
+    },
+    "episodes": [
+        {
+            "title": "City Fading to Silver",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19704",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6f64004d1b5c37ed69b8596650f3361e17e365aeb695ac4516f35a9b25865b63e9965041905a515ee9d5baf9a7d550bcadc05ec90d413635f275f2f336464ce14d9ba23915581f322ba9a3b361b055288317507a9ce02ba582fe4f6573d00c3ab2c17cbc1b072923bd9cc1b21a1616e2d76932c9b47274458be8277de575c954/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0204554f1c9bdfc7937df795d39476db/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6f64004d1b5c37ed69b8596650f3361e17e365aeb695ac4516f35a9b25865b63e9965041905a515ee9d5baf9a7d550bc60e50e2cae4006601337d675618a63217a38af888414625d54e36b9cc42ddac438093ac817129608a53195c6151eb9a1821220891b574bcad6d3f59ae28e720a391978a263e639a4406ef6d0d8473d4eb83584608aa32f584932668527c8020b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0204554f1c9bdfc7937df795d39476db/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Encounters and Reunions",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19705",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/aff927f0aea52a800f7cd7e3e363737bffcf2bc25f55a02abf8da17bed9b0e0608a6c41162dc2e91cfe254606e7730c6bcd1bc90de9ef78dfe28f0f7287566ea0cdb1b14dac46fa09e8b4c83bbf50dff5084b41f0f971eebded228f201b5ddcb40ae63a9c9311f488a1041835c97a4579e2917243c95e350b1bea3aa9c63f270/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efdce1cb40520623d8111774be1c678c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aff927f0aea52a800f7cd7e3e363737bffcf2bc25f55a02abf8da17bed9b0e0608a6c41162dc2e91cfe254606e7730c681a004ad59d5acabe1709f9e1242533c5805f57902b8bd278841ca7d32793d477a6b376a2d9ca5049f2623316b78aae9b83886c8c8d60f9735b4d340ae340c6e686661374473fd8ff796749f7753a62e376f2f167035d028a0ff35e98adc788e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efdce1cb40520623d8111774be1c678c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Your True Enemy",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19706",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/411a896b3e2b4d64f0305bb02fbdf1a0a2c56d2f054b872461ad1cf8137ea437824bb81b96828425f47cf689d1062bac300ecd4ed9def18ae366025d31223c4b56dcde371ca1e8d3d1394ee7ac4d601cd54d9b4d168edc96323d01cb1f90e943e75fe944cee60ee390f7ab50639bc37d3adeeb7290f552b7f9b6e08be6263488/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c04d523d1fe153a3c60c9897340ed24/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/411a896b3e2b4d64f0305bb02fbdf1a0a2c56d2f054b872461ad1cf8137ea437824bb81b96828425f47cf689d1062baccb75a4eb543559f26a0130c888a02197fa7fee96e48ada1a9d7817c3f9a0e42e0f2a5e6534bdea71ff02525c27bfffff13f3744dba19456795108caeed62d6bfc3ce43bb3ba82dcf92761dab62de609a3f1c49f7cd1139d999bd57a727455bd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c04d523d1fe153a3c60c9897340ed24/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For My Weak Little Sister",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19707",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a701152405e39f9be98ebe37682836eec5a95e3a4c09b519361f830707101fc61ab0d3f1ef04bf908a110be066a3e836e84c222a44dc30b5e0682c7c59d3c972ab7ff77ddc14cbde2eac1b587f06318858bba1ee03a5a08d4f11778a62246acfbecfc78549cd43b65a2fe91dc521cf2349e5f0770284be2fff4491057962dbe3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8de7ec5ded3bc99781e50bb16204a878/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a701152405e39f9be98ebe37682836eec5a95e3a4c09b519361f830707101fc61ab0d3f1ef04bf908a110be066a3e836910450ee28ea0b8d1712849839b45c4a48ad26b8a45a5adba7f9222facce81ef2b3d2bf16e0e122fa0c1619bfd54b651869d0506aa254d3ab1a9c5172b6b4b0d32eaa29a122a6396c447a5306076867f8f91e556eb9c40dc5e84a6289596ff5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8de7ec5ded3bc99781e50bb16204a878/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Little Lady Attacks",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19708",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/798ec44a92e61f71332a4915702bb80935049657ae2aed1bba2581c437786d35313558436d4b800eb3f0159b9c4c0fb2bd6499a5ef690b01842307208bac60eab6a772827d2f94fc9e0dd393e1bc718980e56a3c0cb745fa33f467bf6325d37a30f0320017a9397b79aba1cb4b276e74e9f202a2aac24547998920e93f0666d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c68512658354488e5d251e3ad49846d2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/798ec44a92e61f71332a4915702bb80935049657ae2aed1bba2581c437786d35313558436d4b800eb3f0159b9c4c0fb2d793be036d58357d8b8628a5ec42b08d8f1b15ef8f862ec69409c9075cdc83ab4e62a4447ac73eb4da852aec3690b5167e2d90c143521b88dd0727dc74aec7f4d634bc050afd32b03037361ff2c0f582828fcdb5b6b005ba3748cebbaad9be3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c68512658354488e5d251e3ad49846d2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Chilling Hostility",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19709",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a018e2de4560ef40311d9b61b58a9c91e6db8f0736c720b46cf14275a1a1ca24ab09ac8a686c0aeb429132a9ef0640dd46cd4bbb0ecead50224d33b8fc518a14e7e8ac53e77a26e5051ab3fc4c04a8ca7ded13f56daba1886a13c8d540fc3dffbe9abd0453aeccf46892abe6d2fc48ef79ac3c91d29cfca3946773e75cb6faa8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d8ca8d624eef0104fcc3ab7755dfa36/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a018e2de4560ef40311d9b61b58a9c91e6db8f0736c720b46cf14275a1a1ca24ab09ac8a686c0aeb429132a9ef0640dd3207d3c9ba9c72ddc87b60ea5f5b27d64f7afa4d8aa096abda0b2334346fc01c5deee1b734c87857d8fe8ec2b5635ace14927276c30ee7619d3267d871cfa61ec89c4ba629e8cf2f8873a8a84da7260146b4b5bdea59752171e327cacd805f95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d8ca8d624eef0104fcc3ab7755dfa36/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dolls and Stuffed Animals",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19710",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2f91055aa7918a7d1769d475208480437918ae9ed86bbc942ac1e3d8dd3a72d8abb6ff7c0c251dfbe2b47a9d677cc17d8932c0c8baccc047a22409720b0df1a270550f40e37a0b7a34dde2d68eda03c48a8ac763a1afe3807bba9493c0c57e5efc9e0c7f3b08018d96c666055c2b4b5d19151a54e51cc73d7b4346bfd4cf4786/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ae4ae3b01e2b24b1a329f55afc82e1c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2f91055aa7918a7d1769d475208480437918ae9ed86bbc942ac1e3d8dd3a72d8abb6ff7c0c251dfbe2b47a9d677cc17d57114e363c8b40ae064ff3952c0a5b0f5fafff42bde20f19daca55d2e0b7d8594d37da3114fc8935f04e7e186d37f5c9709de150d7a73c050320786c33622e2f5720f9dad048389a83833ce9072f6dbd157a3214bdfa002ad4bacba12ec0a60e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ae4ae3b01e2b24b1a329f55afc82e1c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "People and Tools",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19711",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c6d0761fb55df3df9fa3ac11c23bdfd03e8ece0a8651a152d76dad0edaf837c0c30d48db4a123d7b470390d7d8c6b4bf7a39209ccebc27126e007bcdfdb4b0722de601b195e715180c00114d2672efcd09a10598568ab7e0a329949cbd98214f60b0c24e479a8e34bb76d4c9267581a48f28161aa2c5873781c697444b02bb71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be94a691446f1c2cb8c5d0ac0394a6b0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c6d0761fb55df3df9fa3ac11c23bdfd03e8ece0a8651a152d76dad0edaf837c0c30d48db4a123d7b470390d7d8c6b4bf06e085dfeaa9d31b48b0138680a11436d37b8f7b894eaf7f9bb37f89aeb7c2feb0f19200bd840465983a2f47944aa090a1cf506701a9885902b5003a34be149cb78e194b8c3b2ea3c91faf9153313b518ab088f8dfd42621170addfea4f0059d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be94a691446f1c2cb8c5d0ac0394a6b0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Illya's Choice",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19712",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5b53fc6952a7320ae6a99442351d1da7e312be996cf35feeb4ac6ee692be69925aa7d149c586a96336d4e3c565223f40410ce3b2ba9161a48e9bcf3edc31050d23640e37de8b22bc7bfd09e5ff05147bbd393e0ebe6b23987480eba9fe256077d39a8eb5bcf74873239bb8923d21d405f551809fc666ea7cf7ec063f8202b717/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06e61e8e739a9641a351597a9b3f6c91/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5b53fc6952a7320ae6a99442351d1da7e312be996cf35feeb4ac6ee692be69925aa7d149c586a96336d4e3c565223f407acb711ad170a67efa390ae226600953a4c316d0bb7f88d31b47328aa68fdb0e00f1165d535c447cf8e426dcffa5e84c798d07e9a103a4f837be014ce9403850a7c3518b421dd92d54ab6e06daeacebb9d0fa50f8e515132a5cbbef1463a8bf4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06e61e8e739a9641a351597a9b3f6c91/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To the Princess's Side",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19713",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1eb1eb1216b03d16aa14bbcdd7528897221e64e8a3d6318308ddccaa4c7eaee09a5436dc33de3237dd57656d5397cafe1183a16be1fdc4b20cda615e4c695c59d3d3cd4bdbcc6e3051d8dd0b0c87fc9d952dbfbc4d7e83577b8a79a11a3253c9e320cd93652607d0645d00eab69ec228881cbc5d3d496f041a73a8dfdd59290a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e2a5b9e5da928a29beaf6a12c057216/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1eb1eb1216b03d16aa14bbcdd7528897221e64e8a3d6318308ddccaa4c7eaee09a5436dc33de3237dd57656d5397cafef987101c713ae7f3c57da16dba1c6ccf69261a66360b617a8ae52916a9f3fe28e4bc987afef0ceb6260d424ea79b973570d565538d6216196662bbd114c74016052307ce5149f92b555699eea8f9cb57f1937743842a42ba8fbcce2cde02655c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e2a5b9e5da928a29beaf6a12c057216/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Are Not Alone",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19714",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/87980cc8d31f8a86692d88fe1045d4f4d8cefef81424947e9b317e8e70c57da55e587b89e779a593339a1f56c6b980bd8e18cc673fe4915c4613b8c9a3a61114b47b51a5f65d96ce21013206eac30e0a02ce5fe4995cb5e85263914a3d3767d4e1e602ae12aefe844c1b934917c949352b623f4c13844e7e8497c95368dbf15a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4f637b87d49a88c8931a1d6c2b689e5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/87980cc8d31f8a86692d88fe1045d4f4d8cefef81424947e9b317e8e70c57da55e587b89e779a593339a1f56c6b980bdf804c1550f8214bd82aca62852ecfb9689d048ecbc43be7115b168cfe2eff005d74ec483123ad69dcdb6681efbe13c58043387b38678e90f72a1b99580000e3816548c6bf7f0901f18402995c92df6e3faa8d9d616d145c5368802d891bffc6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4f637b87d49a88c8931a1d6c2b689e5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Woven Miracles",
+            "episodeId": "fatekaleid-liner-prismaillya-3rei-1374?ep=19715",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d659672f4a7661005af983477b932d9c9f4c68fb6390aeb8e2330df37fd4d46139277513bb2f8ef983878b75fd2c8444c9ce226b76c62db64ea7f22c12a05bb3099f8ab003c7fb5bd5ab3d45d200e9c3149c297e7b060eab81be3da8de729afe55d1a1a7f1d56919ddd44bede39b652a6ce8680a6cf6a1a9c81679e0b2e5b476/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2e57e021ca75960382ef789de96fed5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d659672f4a7661005af983477b932d9c9f4c68fb6390aeb8e2330df37fd4d46139277513bb2f8ef983878b75fd2c84442953d0311deade1175fb053e1c015e9d796a0362356e381efe5b68a29b029e60ac45cee58ed53b2d1d27ddb9d48c030a83b727ea2b9c3644ec338ab626223c9957b637b9bca2235cba43bb0b7c3f8525ff7962f49b42a57ab02b4b3ba7f6ede1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2e57e021ca75960382ef789de96fed5/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

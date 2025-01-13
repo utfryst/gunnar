@@ -1,0 +1,639 @@
+{
+    "info": {
+        "id": "the-heroic-legend-of-arslan-971",
+        "anilistId": 20935,
+        "malId": 28249,
+        "name": "The Heroic Legend of Arslan",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a63c6bbb154dd9c325380fc09db69e2.jpg",
+        "description": "The year is 320. Under the rule of the belligerent King Andragoras III, the Kingdom of Pars is at war with the neighboring empire, Lusitania. Though different from his father in many aspects, Arslan, the young prince, sets out to prove his valor on the battlefield for the very first time. However, when the king is betrayed by one of his most trusted officials, the Parsian army is decimated and the capital city of Ecbatana is sieged. With the army in shambles and the Lusitanians out for his head, Arslan is forced to go on the run. With a respected general by his side, Daryun, Arslan soon sets off on a journey in search of allies that will help him take back his home.\n\nHowever, the enemies that the prince faces are far from limited to just those occupying his kingdom. Armies of other kingdoms stand ready to conquer Ecbatana. Moreover, the mastermind behind Lusitania's victory, an enigmatic man hiding behind a silver mask, poses a dangerous threat to Arslan and his company as he possesses a secret that could jeopardize Arslan's right to succession.\n\nWith the odds stacked against him, Arslan must find the strength and courage to overcome these obstacles, and allies who will help him fight in the journey that will help prepare him for the day he becomes king.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/CWL5pcfEyKk",
+                "thumbnail": "https://i.ytimg.com/vi/CWL5pcfEyKk/hqdefault.jpg"
+            },
+            {
+                "title": "CM 7",
+                "source": "https://www.youtube.com/embed/oGjVpuR5aZ4",
+                "thumbnail": "https://i.ytimg.com/vi/oGjVpuR5aZ4/hqdefault.jpg"
+            },
+            {
+                "title": "CM 6",
+                "source": "https://www.youtube.com/embed/VHqOfkd5QTA",
+                "thumbnail": "https://i.ytimg.com/vi/VHqOfkd5QTA/hqdefault.jpg"
+            },
+            {
+                "title": "CM 5",
+                "source": "https://www.youtube.com/embed/balNYlVsMvE",
+                "thumbnail": "https://i.ytimg.com/vi/balNYlVsMvE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 4",
+                "source": "https://www.youtube.com/embed/DYlI5o8nSvU",
+                "thumbnail": "https://i.ytimg.com/vi/DYlI5o8nSvU/hqdefault.jpg"
+            },
+            {
+                "title": "CM 3",
+                "source": "https://www.youtube.com/embed/kM0rt-4c7-M",
+                "thumbnail": "https://i.ytimg.com/vi/kM0rt-4c7-M/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/MAriQot_Z8s",
+                "thumbnail": "https://i.ytimg.com/vi/MAriQot_Z8s/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/szCmGz3aKOE",
+                "thumbnail": "https://i.ytimg.com/vi/szCmGz3aKOE/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 2",
+                "source": "https://www.youtube.com/embed/B2pogqq7jpI",
+                "thumbnail": "https://i.ytimg.com/vi/B2pogqq7jpI/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 1",
+                "source": "https://www.youtube.com/embed/I-nwvNHW8VY",
+                "thumbnail": "https://i.ytimg.com/vi/I-nwvNHW8VY/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "arslan-2495",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ed3ab495c06d0eca976a25ed4414c35d.jpg",
+                    "name": "Arslan",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aaron-dismuke-498",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/267e7013d9aceb1286698c397669ae83.jpg",
+                    "name": "Dismuke, Aaron",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "daryun-2490",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3af5eaf7998c7d527824969077dd2cb9.jpg",
+                    "name": "Daryun",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshimasa-hosoya-76",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b3a7b74f06e525bc10aa1244578db5e.jpg",
+                    "name": "Hosoya, Yoshimasa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "elam-12414",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3348a7bed5222a6764a3ec91e0e2db54.jpg",
+                    "name": "Elam",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "falangies-6923",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13c26294287282f24e29cc836a454461.jpg",
+                    "name": "Falangies",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "maaya-sakamoto-34",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f8d1ff4eeeb93d5c65e3a3c1e4587c26.jpg",
+                    "name": "Sakamoto, Maaya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gieve-3316",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a94167d663264a924ac3c44294c38529.jpg",
+                    "name": "Gieve",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jerry-jewell-403",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f620ce7f9c69727f026b303228c2cbfc.jpg",
+                    "name": "Jewell, Jerry",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "narsus-3060",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/53416c254a65f48593218b00a731d028.jpg",
+                    "name": "Narsus",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-namikawa-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99bd324a9350d978a0f2d10b871944e1.jpg",
+                    "name": "Namikawa, Daisuke",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アルスラーン戦記",
+        "aired": "Apr 5, 2015 to Sep 27, 2015",
+        "premiered": "Spring 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.72",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Historical",
+            "Shounen"
+        ],
+        "studios": "SANZIGEN,LIDENFILMS",
+        "producers": [
+            "Dentsu",
+            "Mainichi Broadcasting System",
+            "Kodansha",
+            "Magic Capsule",
+            "Ultra Super Pictures",
+            "Graphinica",
+            "NBCUniversal Entertainment Japan",
+            "SANZIGEN",
+            "LIDENFILMS",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Glory of Ecbatana",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16144",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/16ce4c671eee07f1d7444b7ae10c044d626dc89e11cfb207d79bd1a1dba1c8d3f88d88fbc85250b7fd4d5c2753156452bf7124731fb827ff6faac959bfa524d1f41569643410bbe8a4f7153d54017ecf4e0ae857032336b500dbe14a080a73d336bd7cf4ef05f756c6b865dc6016a9d7b9fd945a6620fd57319f0f4b9f7cf6a6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/16ce4c671eee07f1d7444b7ae10c044d626dc89e11cfb207d79bd1a1dba1c8d3f88d88fbc85250b7fd4d5c275315645279bb38b4d60eebaaa6aab366c0a57d97e7cc0f168f4647fd639e1e4c114c7ebf50cae948bb343784d8395ff81f907b37229c9b6fa79e9ddf07f9f919833140d5d35cdd6ad9ad670f30f71f99db620c730f6e06c62e07dc919fd3240b31fd89a9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Age Fourteen, Maiden Battle",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16145",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ae8f6d26972c994a5ce69525f05d23c54cf9f624961b1d5636d413902e479f44ee329ed160225a1e5612787f7c3956d5e9f0719eb94fe8670418e228a770aefdfa9780769923ae29fed67530c16f9e7e7172b1a31d53368544075d0a9aaa91e238fdf4d845624e41fe1b107b8b355f896472739312cb9cc79cd3865fbfac934c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ae8f6d26972c994a5ce69525f05d23c54cf9f624961b1d5636d413902e479f44ee329ed160225a1e5612787f7c3956d5c30c37ed0c07d8d381be7227d32a49aafc44e8029f10522999909b69166bca86eebefd6d1446cc3c80736051db572558531ccf67bd78a459ac26aa39386abcb979a6821c1d63b295be20541615faf2127c4a3832118f83fce0fae3ed2cea6d57/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Knight in Black",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16146",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1960e4c953200647e2614bc32e0c9d3b94455d1b118ab98ae2b6aad28e4e29ad341188794fb1e471b81cd5d2ccaa520e4355c08665c9b44f5c996c357d86f182acbe47feb5edc3d37860bf9e9e2fb7285e656c0e8d6209560384ca6bea17d79e1b1e50aeb806da3d1b2c02889241f9f4a05228e5fb65f9ad413afadf7e7942f7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1960e4c953200647e2614bc32e0c9d3b94455d1b118ab98ae2b6aad28e4e29ad341188794fb1e471b81cd5d2ccaa520edc3c1c07990b88595c32212f6634c8ae82870d3b205f921f20b7dd91fc93e286603a0101bba110e616590a1c1aeb33c40db3a6d59c86c1d59d10eb1edc50d5c522f8e53c89bf696567d8f40edfa2055380fc9cc71da3a617b2828917f658fbd8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The World-Weary Strategist",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16147",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1a44e5fc686b5276eeffa07fb68bb97093740386b1bcd975dc3a094b7b5ad0e72af02a7b569754e1520aec85ff3864db725ed7806af57de32ed0cdd72f2bda117c2f95a5a1eab1b8346f855ad26e20e0a785eecf0998b977e79a40a684f39e23a363323117a5cec8666f97e23cf87e6e254499072d52442b430866571eb0c583/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1a44e5fc686b5276eeffa07fb68bb97093740386b1bcd975dc3a094b7b5ad0e72af02a7b569754e1520aec85ff3864dbda4d8011b728b5f16831a584dcfbb119a518186702cbd47b81cb2b647d1b7dd9575b9a58804982cb5130844250392978e4d9b1c3fad6eedd8ca957fa978c35a45792f03c8a7ade1d38689cae8b8a0177f537886ef2661748af3e03ddac23acc9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Royal Capital Burns (Part One)",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16148",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cf1d69a15c874a65680ff4c89d0e09913098bc7dec8fbbca5c76d166d8aef60cb95b8740a1e4df4a7532c7e9dd1dc672e382ed959e1835d46f8b81633fdaee9cd405ddfc006d0c863aa2f3d3b3ef051b798c0d2a0d0dcaf041b61e69ea7522f67f7eb4bdc686ca6b065b2d2f719ae5c86eb1be548746687ecdcb8efbf669f98c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cf1d69a15c874a65680ff4c89d0e09913098bc7dec8fbbca5c76d166d8aef60cb95b8740a1e4df4a7532c7e9dd1dc672feabfa4282676b3a2a22729a220c9d9c4d97874cebb731c808b30d474a7df295ea0857ed5637f5d7ffc74729a6c829b0559882a2f4a42468d0ad00f327f658244338d2eff2543e7660f5c632400062e240a6e60ff5991a6351300e8f16bea65d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Royal Capital Burns (Part Two)",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16149",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c51dec2dcded961a2902705bb5ce88aedf732d74499f49cec6109716dfdedb8d5dfa7416e147c43407e02a1ab74f2fe56b23e49c246ad8e2f165923b05a6ed0c76885508a7294931eff181733b5aa661b151e68a4c30d89bfea3196844043aab2e4c914332e82e64c04dc72e05ebfa51dc03c9f97478d35c6498b474189794e1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c51dec2dcded961a2902705bb5ce88aedf732d74499f49cec6109716dfdedb8d5dfa7416e147c43407e02a1ab74f2fe5145a79538c207aeb76da1f0ab0ff4efe8b81858a10c126b7c53102f5ff3c4c8c2ed061631585fb4941c8373969b582d57f3c1cff6cdc71d908e2781f973a1919f758aa7cfef28e19445fc2d00d9ca89ef47e3f919ed9fc1bf91e72728ec532af/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Beauties and the Beasts",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16150",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c7cfd37f1c6026d1d9da6443affef7d72a9ecc79aef73e0f87a93472bd55a8f074e49d5207e06981668874dd6c0f8ccafc12bb39997557a872556faa05afe13e6788eef5e5a0af7c20607bb83e87ca02e274ec1d0e50252ecb2d2344da51227ecd0edf3e489799ec8b9ac4557013820808325403dc9a477af54196e574564307/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c7cfd37f1c6026d1d9da6443affef7d72a9ecc79aef73e0f87a93472bd55a8f074e49d5207e06981668874dd6c0f8cca1d5b1458bf6614dbb183bc0feb7fa7eee45498a25376eba4645a4aea4e8dc8c8531bc96266137d6f3ea876f2715a1f7c646f9b6df54404ebbcc690160cf59f66dbb682743aa321f9f46fc2228d69571bc5c5ab999b7cecfab5992f64036d43b3/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Treasonus Hero",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16151",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/adc5c394eba6baee269e0cde62f4d086325ee47a39b26d8762ef9a035dbe482d24affa00e7cf9e1d5abd2b5cbf39b5b5d911989da005abd7d2f978f248ed117d62f408a747592973e2823ef634264db5057da8183ad87464132bd00a9ffa1b8be326b099199f3f59d0b0fa0bf24e0d0b590444757a57357c2b781e131fa119cf/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/adc5c394eba6baee269e0cde62f4d086325ee47a39b26d8762ef9a035dbe482d24affa00e7cf9e1d5abd2b5cbf39b5b5397a59034f20ad1740475a12ce98a0bb9da2686dc4d880257444425eee6544ebf842593e7ce8123165319cf5bb304f7f4fdf710b230d25a3a7e2f7932ca6c14233a6af28d89fa13ba189fa0b14e20448bf3c12b5a66ca89ce68a8e6801526b4f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Beneath the Mask",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16152",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b4abe4a19e9b3ca9a18f6bf36fa67e03233c95431d71d8a135b0363b8969a1e2a536d2b152e0a58cf75f2015b9cd4bff6eebcdedfad1bb419c0887d5f3a315e58d7c1a54aa52bf9f8787239c9bd9d9ed60bb0f0d14e2a0ed29a57847e6a436936f3645a70101040427c0cd64b13bee5b75c8d7475ca6330608dcf09637e1a924/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b4abe4a19e9b3ca9a18f6bf36fa67e03233c95431d71d8a135b0363b8969a1e2a536d2b152e0a58cf75f2015b9cd4bff5861efb4812cf3b2f742e1e43ba380598008a167e4d131913c4a45c8159bf6dd1a7180859a214b9700b01775a9bf2b32b6f7a6f89adb39500237ef78ff49e331fc774399e166c86444ed9f4588e98f2e9ca18b8cd03a4e4e3cc782b1a7d950ad/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Lord and Master of Kashan Fortress",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16153",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ae37efb88aaf94758215a14eb0c2e7198f2bddf03efa2de7fe21d3cedeeb2f9b02ec677a44594fe03496c5d98abf14274458675b31aceb4cb480e553a08b2abbcaca8c6682f718b7efb02ea09656c5402dbfa2135d96e1c0246f75b0b42df1193acbf76672a8c780316e29ffd9e65a661273077cc6c03fa1cd29afab2e324c1a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ae37efb88aaf94758215a14eb0c2e7198f2bddf03efa2de7fe21d3cedeeb2f9b02ec677a44594fe03496c5d98abf1427e7291739bdbc0be3d5675de48bddd53de40313ebc62c8020e215d9221e09df8ee87e9a159f2a4c4df3f8b477d2f79157dd215993e3960d60df93b6826270aad0932cabfd34871e0537cb8db5e378f8fa0a06bdf506e93f792cfeb5b76b3c81c6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Road to Peshawar",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16154",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ff599c9896b44cfe74d7099c6b909d6cb7aed2cdc1aa5e1f98db9a55a9e688eb7e2bd185db0d1657eb98baf2812fa4c791996b8e10da20754e29d26154fd68e03f652786ee5e548cb9a241fc72558772e1408659d93355ea58d57a5c216489a400cd54d6d0ffd0592ae512812e784faa70f07d9b78aff0976b931ffdfd8c3362/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ff599c9896b44cfe74d7099c6b909d6cb7aed2cdc1aa5e1f98db9a55a9e688eb7e2bd185db0d1657eb98baf2812fa4c7849fa684528542a1570d49a88fc3adfa73e28cd26e31f548478c63267e9badced394fb2fe439e173d2be5f712184c06bb2f5d057f090a55d1367718da355e4f6c49fb8f2351cb2c900394686df8330e06a8295a87b65be77808f29f6b7d52f62/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Knight's Loyalty",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16155",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c2d8a5d2a15caf3743d8060f5154aca6ed18d6e2e8656e24c0f4bbd2cdb7d6f135109990eb6ea45e871316c6f6b269716e700e5c9275192b9abbb38c54f30b2025c83f7222ed6099dd382495ee5fdb6c86cd43e9f9b44fb855fa255d7091af4b5cdf462bfe6ba328a69b5c83a0fdc9a1682a54f3e16393d501262a23fe978c50/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c2d8a5d2a15caf3743d8060f5154aca6ed18d6e2e8656e24c0f4bbd2cdb7d6f135109990eb6ea45e871316c6f6b269716b96752f08af8533bcb2380c5c8cadfe860f87f4d718b99e955a03bb1cafcf7013aefdd58857d96a7a1ad3b2fee3c4498677e3cb84fce0f77402047d861cc7562d8c138c60700ee196d781fd1cbcec3377baf560c80f0d9e7cfab8cfa3265ec1/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Two Princes",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16156",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/185a9e03c70181c49a4633014e9bb13b302880a6030dd7092cd8b7d7ae0bb299729fd61abb5a926fe6076594d9eba257abccf4dfe68c1cef695f53af2b5bfb830544c804118f60ebf62af38f0e0d6960a6d74e9026f8e8038175e557398c3588c2815dd2682d0b77403a79a2dba8af2580e4b60d8db348a80a16b0cfd711cf69/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/185a9e03c70181c49a4633014e9bb13b302880a6030dd7092cd8b7d7ae0bb299729fd61abb5a926fe6076594d9eba257330f05b81d28665f7918c59bfaaee30dcd64470df5e8ff2da20cf21f02e47f2cdae415748f1c355d278bbf16424fd11b3fff6101668ea6d68915c465e49cdfcfe61f8b10102981186f5c4b246503e84636a94002112085c103d4589146bc0c67/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Foreign Prince",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16157",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/290466007c968b6ec4a69bc558fa461a2986e2ee65dba0228800ab232d33ad6d9a5caca6dee63d9e99247bd81cc0f0506d30c0684450e706fdc442971f5e6844ce81615f6a434e19e6539248d52865dd0861b7a06133f38fcb496a9147937c8a2136c0a7fa4017183b76c9d414111d72793a9357bc8517eb8bb5068700593622/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/290466007c968b6ec4a69bc558fa461a2986e2ee65dba0228800ab232d33ad6d9a5caca6dee63d9e99247bd81cc0f05009923a7f539d9f0dcff6f25faad09e26f5b91769a09478ed19ecd51205838949b16e991e5b7a025b518a7491058601770e9af4a495b3cf26a556d4d5f9faf35b4c62aa96e0ea0f9ef0fed7710a7e25d5ef6374a08d282c7da93f160ac47e9e1b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Black Leopard of Sindhura",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16158",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/12bb4fd82154d1776600c3b8d8932c967684566c643067d4a705593325fa0f400156c40c61bff934a5dc387678bdc926b0556d1a71d8e4ec45853464a548928ff78d1f959bc9105a75d60ccde53f421a1c0279a66d5eeb7727edf582b29a4c1b9a1cb46c764e67e8564be166c4cf65753be78a8cca1a4103eed0e7ac77ad2e08/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/12bb4fd82154d1776600c3b8d8932c967684566c643067d4a705593325fa0f400156c40c61bff934a5dc387678bdc9264346cadd4ac139059cd59777254e44998bfa5bd30d5b1240bd5954d667fe4520f5beb7f7dd157a76d351743ff670a4207238f1b1a19a8c46fe4b081947c8460e7c70e71184479a68f098d6b8d9fb870d3ca944a207e0d45742e8ce3821bea032/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Elegy for the Setting Sun",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16159",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d5ad4eb8c7862e123782055358928a3027e78763c2fe47178d1fd66334c6e63501a8001ecb47d2973a1604b0093f6bdd56643af07cbc0490c03a6b2127337b3b269dcf8da08c62f187db72543f1cf42bb742d931612ac383ddc0745e1481f812423961dda36ecfb9942c958f790f73d1983d94fa9561bcbaa2fb12dc12ccb6c9/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d5ad4eb8c7862e123782055358928a3027e78763c2fe47178d1fd66334c6e63501a8001ecb47d2973a1604b0093f6bddf46352175cfd422b1453adead10e609c0b7a9db4b4f685ce093788298cf147e374a990d59684bca6f9f9d2bf2ec625ac350c018a34e026ba229875a8eb44c150825bdc3fe0691593a91b09b1b740c2ddb3e8693866c471f900c783b3b159bbae/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Duel Before the Gods",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16160",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ee9235e583f6a71934d3a8944bb35dbd1893e9e29f4eb90c3655791764e8ee94439374bd2bc31dddea48dc0ca0af911948cef10dbc3b1a5d7ab6bbddc4f6d1fa9925fe7c982dd77c6ffd05661cda4687260ae76087adaa32cf16192588d1351aa8ed95a3900150082bae79cb226d7d518616091230a20f73d5a5fc417b81261c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ee9235e583f6a71934d3a8944bb35dbd1893e9e29f4eb90c3655791764e8ee94439374bd2bc31dddea48dc0ca0af91194ecc70993d0fb781814cad44bda904b7e46905294acc5e29ce53810bf2884e6624b98614153ab312b8a8f861657b252556a6e17715565420e7b4cbad415f4398987e87fbc89579b42a85563b0b72e567283d30f7dd5fc293f6435cf5b9ba87be/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Once Again Across the River",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16161",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/6645a594b69fac61714e5cff4f7525b7fd10e5aab9b10fdbcc081a479760e0e5e5cec001dfaa1521633728bd197b5352b934b2dfcc2fbf17596c84f03d5169a2860d3b7e37b021b0cbce717fbac6521dbedc310c8ff7e6fea79c345d0bcc23a70d602ca4c1a277af22ba134ea157f22b877e872d859fa41bb59356d46912ead8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6645a594b69fac61714e5cff4f7525b7fd10e5aab9b10fdbcc081a479760e0e5e5cec001dfaa1521633728bd197b535217492412a1110a1714e0ea75826ebc16822631b88463a8472932256c4a4612453243960648f2e5ce81174ece72a9b57ee96896fb58825d4ba5d45a8d3800414f5eb39014aa6cd3adf7b3f1c6f9c923902d831bb75da0e28e78f1940f27666039/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The End of Winter",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16162",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/096bb6e10328fb3b7caf9579b87edb66b8b095e4b7093238227ee0c57197f7c9c270009d6b3cd272c390dad0410cf752b9d4762c4be08ad0ea7c7a37e3fc1cf22eae7446b3fba63216af488a1a18eda8b65212653c66a552e152cb4d9c7c2f1561e2a9fe368d76d440027669343b99dac6b00ab1c4001e85b9ddb540f1439f48/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/096bb6e10328fb3b7caf9579b87edb66b8b095e4b7093238227ee0c57197f7c9c270009d6b3cd272c390dad0410cf752f9241f0b987d39a92ebf598249d4cb362abb408cfe01e5913662264a2d87cc0307aed255a356417c49e7445216edc2b79c09a7597512acdcf266f890c69855d335e59870b1652d0b9cab0250452378272090154ee0d3d72f082a8d62781d5f95/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The True Face of a Knight",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16163",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/92d5a42070633b24a229ba17c2b3d386b13a9e4d96bd939775da95635668cb05bd92b7f051b778ef8f1c6b6e9c04c47cf7981a72ecb1bb8428a1ef0045b06a53c5471e77ca4c37f413d1bacdfb8aebbff259541fec5398450268fe3a6bd6b89d224b4cb66f02e4515ef252f59eb5e8fab6704c619fb19d7daff3ec4b3107be0a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/92d5a42070633b24a229ba17c2b3d386b13a9e4d96bd939775da95635668cb05bd92b7f051b778ef8f1c6b6e9c04c47cebfa4797f9a6bd08084c92d92f16241a985ae7ff559cf4970663aaa4fa3e1d75619cb3396cbbfef4c379e542e91c15bec9fb9122a337cd46a394e339e2abe294a7cd547d31b114e42fa14b37fa7dbe0dab56326a0d1727a3c76e84b63cc43ddb/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Song of Farewell",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16164",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/768f728489144a1428399361208c096bd8e108cd32ad8a287b26eb3362f8733a92537f04f27235a38f910d309c24256d55d5af9478f3902db8e49fd3aba1d5dc99db1b03c2640edbb7e60568862ac75dd361b414fd18e523202a2b0d269d07f556f30359b5b24c5e1e5d88ec8cc994ca9eac2597710521189248397c22fbf8b8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/768f728489144a1428399361208c096bd8e108cd32ad8a287b26eb3362f8733a92537f04f27235a38f910d309c24256d35544042a55613f2ef61b8a9a94fcd383c609de05644ee333129f1e7121f640aadbf44092cc219f0fa23c0419af60b68c21ec17ece4d250804de9b98a59cff0f86a628c55744bb502a6597bac7862db9d373be1e934b5a473d1a0defffecae38/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Night Before the Attack",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16165",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9e5ffd414eb6a4da30ef88eafe8a72a6b527d97b2c908b185018c71063a4ab9f47e4f055d94b58031123f5eade40ea30d5fcffc4f1b06cc733651b6e13c5d954af35a1528063dd05edf6a88ede823d5ae049c5fce94054a90301d13facf491d563e5a1b72d2813d68e1f5c4e63e29076fa5518e2511020f8bf4e327d693f25ed/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9e5ffd414eb6a4da30ef88eafe8a72a6b527d97b2c908b185018c71063a4ab9f47e4f055d94b58031123f5eade40ea30c0f53051880953bc4f96af8f7c8b5d6999f9d4eb5aefe851757d9ca2ff0d992bbf79f31441945772336d56db299308790b2d077e08c2db57d5c6a13bdcedca55bdae6fc06000eaa7f6c1932af4c5a65084a22a318e73f208236362e5a96278d3/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Battle for the Keep of Saint Emmanuel",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16166",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a837aa79b3f162ca32daa0974049f46982c6b4d193c1206a6af68c8e0d3cdea51398b1c7b386b09e3b47d96b8dba5d624332b2b731bbc74daef66404f6d27a94270647462ce90ee6395becaa9579ac23df66acab512a1393c86677dd2e3a9ea7286205e5a714d90ea1c60842a07c887421bcd7eedb98dccffda5b64645341851/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a837aa79b3f162ca32daa0974049f46982c6b4d193c1206a6af68c8e0d3cdea51398b1c7b386b09e3b47d96b8dba5d62f79c8274f9b08a273546c66fa9364f039edcb3debf5aa0b07ea2198236a3596a28a3d40d75ffbbd7e05bda48cb7d6235b07dca94dce13382aaeb5d71ad76ef6320e476c75896c4cd59708b51cd229666986bd7fb3d0253fbbc930dfcbbae7c55/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Decisive Battle",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16167",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d37bc75642f04b6fb48f6e1edeed4b913f7ea01cbbba314a0bd7a5d968430257f8887a4d142c8211f8215db59c64bf51c7d5b05716a9ab865401b08fad423d2d8d773a83ee792eebaa943f860fa497e0e1f85711cc4487463a0887b5ea1b51ddf8a3f390e5705fcf04f43e388ead1f20199e35afb372244e3b372f8aa1966e2c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d37bc75642f04b6fb48f6e1edeed4b913f7ea01cbbba314a0bd7a5d968430257f8887a4d142c8211f8215db59c64bf518e7960b4b9e05d5b75cae192549d7fb676523ab1f879f5aa1ef14203f2de584d6f7e416481f41b34f5dd246b70553cf962331d03189ad6c33bcae12e54658cda308e47f2e72a2a421edd937882caea3b9c065c1ae62f6ce9901dedb44b95ffaf/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Highway of Blood and Sweat",
+            "episodeId": "the-heroic-legend-of-arslan-971?ep=16168",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/64413cbd1a53020048d5d0343568e8b67b79305f365fabfc147b80873c5d62c4e92ce46e2ba91b047dc3e0b00cdd00e22b5bfbe14cbb3022ca77e2fdd94f0da281b1b8d1a47385e218f0c09325ea142745ef1cca59750e24d189e7a369219300dd8b8670f2ac31cd9a03d9abc3bda28cb65c55f17ae9a5280574df183ba1f167/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/64413cbd1a53020048d5d0343568e8b67b79305f365fabfc147b80873c5d62c4e92ce46e2ba91b047dc3e0b00cdd00e2232531b08e0fb22f429d6489adef2af87ccaf77a10c5324c467f3c16b5ad6caed31a7ca4249a3702b31c7f1832d7a7344fd06f80a64377d7b46caf438d271a1015ffcf30839b656024c43cf23fca6995d12c056823d7f6be62dd73ac4f811fed/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

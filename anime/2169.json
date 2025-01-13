@@ -1,0 +1,119 @@
+{
+    "info": {
+        "id": "cat-soup-2169",
+        "anilistId": 0,
+        "malId": 601,
+        "name": "Cat Soup",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe5efe0eb230d29fcfb4f770bad3144e.jpg",
+        "description": "The main character, a cat named Nyatto, embarks upon a journey to save his sister's soul, which was ripped in two when Nyatto tried to save her from Death. She trails after him, brain-dead. They encounter many brilliant, mind-bending situations, beginning with a disturbing magic show.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "32m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "nyako-5948",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d77c2667e14a5b07cfd38d63789639f5.jpg",
+                    "name": "Nyako",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "nyatta-7331",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7f214e800b54f43b7451e57e08ed0d3e.jpg",
+                    "name": "Nyatta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "pig-13686",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0f20d84d00c8f310291f3fc0eb5f8c60.jpg",
+                    "name": "Pig",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "water-elephant-15402",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8f571a58fa7457b5e0743b80bb1aa7b7.jpg",
+                    "name": "Water Elephant",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ねこぢる草",
+        "aired": "Feb 21, 2001",
+        "premiered": "Winter 2001",
+        "duration": "32m",
+        "status": "Finished Airing",
+        "malscore": "7.34",
+        "genres": [
+            "Comedy",
+            "Dementia",
+            "Psychological"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Starchild Records",
+            "King Records",
+            "J.C.Staff",
+            "Central Park Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "cat-soup-2169?ep=91949",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b97666e431c8e008934f5c714603df77f895f12e7aa5674bb4b920959d909a4899308b1df5fcf7b878cd1885c64a8b5c031366a8f080539a4cda6eacf8252784be2ddf0befb9192c2ae242d2861a3636822cd034ed70bff73a8b9237dd6756d38d1c790989da09598b5f2d104502c19f3804e106cf59a7096c139be5c78d6d08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e81225f4520ab8b44174d155606fc363/e81225f4520ab8b44174d155606fc363.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b97666e431c8e008934f5c714603df77f895f12e7aa5674bb4b920959d909a4899308b1df5fcf7b878cd1885c64a8b5cdca25ffd7a8c372870c5341809792db1cab2dc14af0d74e274d09a3e54725417b307cf62ace616fa559652337befd6fc3b3b216cd2f3715a36225d67af80c49a22ebee8ca6c67fca7c21e02f83cd46686c4c47085d7e79e2c155d4161ba04d2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e81225f4520ab8b44174d155606fc363/e81225f4520ab8b44174d155606fc363.vtt"
+                }
+            ]
+        }
+    ]
+}

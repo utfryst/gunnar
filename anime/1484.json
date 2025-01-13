@@ -1,0 +1,601 @@
+{
+    "info": {
+        "id": "persona-4-the-animation-1484",
+        "anilistId": 10588,
+        "malId": 10588,
+        "name": "Persona 4 the Animation",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aba8150b2346c9674171db1db5d1ee.jpg",
+        "description": "Yuu Narukami moves to Inaba, a seemingly quiet and ordinary town, where he quickly befriends the clumsy transfer student Yousuke Hanamura, the energetic Chie Satonaka, and the beautiful heiress Yukiko Amagi. Shortly after Yuu's arrival, a chain of mysterious killings begin to occur on foggy days. At the same time, rumors about a strange television channel—dubbed the \"Midnight Channel\"—spread like wildfire; when staring into their TV screen at midnight, a person may see their soul mate.\n\nAfter witnessing the most recent murder victim on the Midnight Channel, Yuu attempts to watch it again, only to realize that he can traverse into the TV and reach another world overrun with \"Shadows,\" evil creatures of the dark. Realizing the link behind the hidden dimension and the murders, Yuu and his friends attempt to crack the cases by exploring the diabolical world of the Midnight Channel using their \"Personas,\" awakened manifestations of their \"true selves.\"",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Manga UK version",
+                "source": "https://www.youtube.com/embed/wCJr63UUMf0",
+                "thumbnail": "https://i.ytimg.com/vi/wCJr63UUMf0/hqdefault.jpg"
+            },
+            {
+                "title": "PV Madman version",
+                "source": "https://www.youtube.com/embed/PnvAj2XyL-k",
+                "thumbnail": "https://i.ytimg.com/vi/PnvAj2XyL-k/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/MAT0QTSf8bk",
+                "thumbnail": "https://i.ytimg.com/vi/MAT0QTSf8bk/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yukiko-amagi-2411",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8ec7e546251947ffce0f19ae0579dd59.jpg",
+                    "name": "Amagi, Yukiko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ami-koshimizu-112",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/099eade37d4e48d42fac02eda385d4d5.jpg",
+                    "name": "Koshimizu, Ami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yousuke-hanamura-1637",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9e4f5b94533432a4f05e870d32c0e007.jpg",
+                    "name": "Hanamura, Yousuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shoutarou-morikubo-253",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3df6b3d459a857eafeb33f1f6a82918b.jpg",
+                    "name": "Morikubo, Shoutarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rise-kujikawa-1850",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dc50ccd4850f44503e5a7600ece4916.jpg",
+                    "name": "Kujikawa, Rise",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kuma-3365",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf16e124754176e50924b37ca499264a.jpg",
+                    "name": "Kuma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kappei-yamaguchi-107",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/597833213a419d231f01d84ba87d7b35.jpg",
+                    "name": "Yamaguchi, Kappei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuu-narukami-961",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7d59fed606a1cd1b4343cf6d3d5e91fe.jpg",
+                    "name": "Narukami, Yuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "chie-satonaka-1596",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a9c9b42faebbfd5896075204849c6aed.jpg",
+                    "name": "Satonaka, Chie",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ペルソナ4アニメーション",
+        "synonyms": "P4A",
+        "aired": "Oct 7, 2011 to Mar 30, 2012",
+        "premiered": "Fall 2011",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.53",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "School",
+            "Sci-Fi",
+            "Super Power",
+            "Supernatural"
+        ],
+        "studios": "AIC A.S.T.A.",
+        "producers": [
+            "Aniplex",
+            "Mainichi Broadcasting System",
+            "ASCII Media Works",
+            "Index",
+            "AIC A.S.T.A.",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "You're Myself, I'm Yourself",
+            "episodeId": "persona-4-the-animation-1484?ep=20681",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d20ef2d6fc5ac511f799679564d67b4fa4c945194c9fbf87dcc1910de1fffa440e30ea2a62c2cc7e64f7e1a706c2b570cb43f709e05c4dc8e31bfb0702c0a9b6404a8f60a0487bb9c0ca1969fea59fcf45f83377814f35841161c01a318a26c4f7538a03604192d646160138a3e97984/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecdea8962e599a635997b1406310a324/ecdea8962e599a635997b1406310a324.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d20ef2d6fc5ac511f799679564d67b4fa4c945194c9fbf87dcc1910de1fffa44c1824888f4bf41e9c2c197108a7003e94741682ea925e5210a1d0c4566e914ebd7d84db579d0ce07bccc543bae4838029b94c27dc82c574ff3b2e25e1a026ef241c435421ce125306aa5140a69a8d6947b3561c4bbce5f840aada3c574b833fc077e537e7b37c183023ee58454188b10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecdea8962e599a635997b1406310a324/ecdea8962e599a635997b1406310a324.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Contractor's Key",
+            "episodeId": "persona-4-the-animation-1484?ep=20682",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/19713e66381fcb4022becb7ee8830b3757782ec386e9d27bde57c84cee1fc438ad51cf8d9fb126a9a1eb9ee2fb24d8b755b91f63de2d75b2c491e16a94c409842675701a96725b0029720751edddf19ac3c2120935f873eeca9287fa7d0b843a915018eee03f04a3f3b850e04d10cac0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/876fee57cb54e9a9a874a5deda6df179/876fee57cb54e9a9a874a5deda6df179.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/19713e66381fcb4022becb7ee8830b3757782ec386e9d27bde57c84cee1fc4386c578c63c68068073288dd14bb57ed0fa73a10d7be576be35c94087acbcce9127fc6b16e083529a97403edb8b9d98e2eade46100aa413fbb3842d529a708709beafd2760ccd3ef9975923da727bb7942040d579f38c4996397481df6909a0f6ecefc83da857d1f4b8977ca5d3d338b5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/876fee57cb54e9a9a874a5deda6df179/876fee57cb54e9a9a874a5deda6df179.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We Are Friends, Aren't We?",
+            "episodeId": "persona-4-the-animation-1484?ep=20683",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dc245ba9c42b061fed891ba46f55c9cd5bd83a97ee244854879d2505729c2ccff023d224c660c9386c383bbbdd9f546de5349f5aa76a45ffcd4bf033cde4c4d66968320e8495f264c0e4ee39e9bc483c96cd22bcb2b15497a090db18789d284ed334f04e20faf4e014684407351789b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db926060d31c7b754e4713cb50cae82c/db926060d31c7b754e4713cb50cae82c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/dc245ba9c42b061fed891ba46f55c9cd5bd83a97ee244854879d2505729c2ccf204f45f5b894b7a59ee2fd7cfc89b050cf920396683f3d36d7d399c9a1f6c2548498c56c55bb52cbad0262c2b89f62bf8e04f1740cb9779d6622a21c67ac721408096ef6eef302e4355e535f1e4faf1d06f1f48f912bc07859ac02aab81fa0e42a0eeb7d6feb6eadd0f0c7238b950dec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db926060d31c7b754e4713cb50cae82c/db926060d31c7b754e4713cb50cae82c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Somewhere Not Here",
+            "episodeId": "persona-4-the-animation-1484?ep=20684",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b29ae38319c79a8c7168599d865a608bd54562307ecf2e12fdc6ff189b9a36745473ba82796d7cc645a5ccf97d8df1bebe04015bf598a59c63f8b2968c101993a868be4e01ad8c5120025ff3c3ef7cefddd5432e50f57b420fa430c8726bd24f1db451bc44211296172c11218d57ae35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/878f9da1ae2a5fa821df68d1eadfd8bb/878f9da1ae2a5fa821df68d1eadfd8bb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b29ae38319c79a8c7168599d865a608bd54562307ecf2e12fdc6ff189b9a3674f8dc57905e0141f53dbeec093a7feb598edc41da1d3863347089a6c6a9e6916a680dab762d6fa437db0f536ec056f0a478339bf5403fb35cbf13d0566aab7b3803b938522ed9814e34d9338df1e4791491cbc4933fe1b620602b6a9bb5ce817d598dbb26837bddba1c5f4195f6d970a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/878f9da1ae2a5fa821df68d1eadfd8bb/878f9da1ae2a5fa821df68d1eadfd8bb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Would You Love Me?",
+            "episodeId": "persona-4-the-animation-1484?ep=20685",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/462658cdde8f7b3fda2fdadf4a7648b408864bb4cfc2da3cbf108688687bfbf15b13f1ccae581395186ccd35f7165bb643ee380266f5b3f512561a068fc88a2b331189ed2d493c835fab33d48c6ebd1ba7a4bc0299fa133198b4f47c05c7204f7119c57d91ee9603d4ae4f677d42ce58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4b2840f5614c0b7c97ec52341fbe126/f4b2840f5614c0b7c97ec52341fbe126.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/462658cdde8f7b3fda2fdadf4a7648b408864bb4cfc2da3cbf108688687bfbf1237c88d1d86a141ebf82e1572e73eada6e960d964c5c01d9e3b5697484a0638a01639b0bca4ae533a24376dc37731c1d7fdca85395b4182f864a034c5181c6dc0f73c9d3d0d90ccd5ef56524fb60a59a8f06406522f258e47f1b8c14bf80d0b9664aa422dae4caafdd373db59350fc66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4b2840f5614c0b7c97ec52341fbe126/f4b2840f5614c0b7c97ec52341fbe126.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'll Beat You, and Beat You Good",
+            "episodeId": "persona-4-the-animation-1484?ep=20686",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/302204f1c4409331d1fe371d16a551ca14d282669a33ca6d783470279e5b5d3d78cd85d655b6ef3c32a647fbac17a3283f5ade56f8e0eaf1ab8f06caa3c4ba8e9bdb03f3e11ab39b78a0fe53aceb36b98fa51202b5710c3f68f62db32f9639f9cce2d1c07341ee5ec29e7ee571fad406/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f48bd354edcfadfa0dc522dd8c234ba9/f48bd354edcfadfa0dc522dd8c234ba9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/302204f1c4409331d1fe371d16a551ca14d282669a33ca6d783470279e5b5d3df938d856897563a6774a0e217d29ecf210736d251b5a2e9ef032c14c4b3c5619a7c6857bda50d38499ebea02cb302d98a54e638876b5bda923d40c5b1c551ded7b2b81da818a20cb93b3b8d8affa99a6325d569f2fe1800519bdb78362fa712888040385737e091d9af9d34234037dac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f48bd354edcfadfa0dc522dd8c234ba9/f48bd354edcfadfa0dc522dd8c234ba9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Suspicious Tropical Paradise",
+            "episodeId": "persona-4-the-animation-1484?ep=20687",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/638706e136e56955e0f50a4f238869652ec29fd4319ae5fa8fadc7d44f2da5a358aa7860818c08c0af98c21557a5c869661014b524125325aa2c554d0449e6f33c0e820e27226ac4ee4875c5a1a94641af3683c68b2abb1fd4e3d38dfcb2bb049fc852b8c3f85edb91755ee570a350df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8750b0febc533637d4f9872f0ef413a/e8750b0febc533637d4f9872f0ef413a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/638706e136e56955e0f50a4f238869652ec29fd4319ae5fa8fadc7d44f2da5a323185423525716c83aebef3fdd3c7f58adbab6df9674284efadffaa5b355dbe43fc2a56eb1624dbc13c44486c951b40cd426af14092cb56b76ba295e8ec4a2cd9573f02b02e6f69d6f31bfd48e617aa8ebb42778f800ada56f99f257b1bab0ad076131955ed81dded5e1bbd853e897d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8750b0febc533637d4f9872f0ef413a/e8750b0febc533637d4f9872f0ef413a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We've Lost Something Important Again!",
+            "episodeId": "persona-4-the-animation-1484?ep=20688",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7ed2d11e594fc4dac7a7d2c11418c2a8c94316a3db3f4e856ab83779a303d1f3608916dcb53507c31acd62eede81e1066988133d0b94ea53aec1a0706279c2b1130c0e37c18557af90b7e52ac40b281bd5c89a2b6c02038dceaaa4e2b109df4e1c91978dde99d7b55a683d640a615980/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c31ccf54d0349b41302f9695e59237c/6c31ccf54d0349b41302f9695e59237c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7ed2d11e594fc4dac7a7d2c11418c2a8c94316a3db3f4e856ab83779a303d1f33855fed29f8b7476a1d3506cd2f3cdc79e216b03f518920747ec4b2f3ef4f7e69a36f5d7db53d8a81d2feb8c82da3cb6cbec026326836d0f1d17f5e9a8049db1c97f15f6dd09a3f810251ec7e53fe2bc5458ffc40b872a312a9e59f2b47270d7051961686ac893fb80a6f5bd2dec4abc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c31ccf54d0349b41302f9695e59237c/6c31ccf54d0349b41302f9695e59237c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "No One Sees the Real Me",
+            "episodeId": "persona-4-the-animation-1484?ep=20689",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b40c4adecbbc7da82531ac5a461e11a9a42f4c50eb936645805400ea3551076dabf298becf686848901c2334df8b9894085ead1855728d7a8e4200a9c66a8776fb0cf48c9784559c857b12a6d80f9c6be810cf1a7439027a4b16ff4187d3525f8a69255fde85c1fd540db1f40b7b46ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01467767ec52df35affbe18df33ac69e/01467767ec52df35affbe18df33ac69e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b40c4adecbbc7da82531ac5a461e11a9a42f4c50eb936645805400ea3551076dd089e652e19adde6e3bec69595adf090f526f00f044f1427b419e2fa9666e1dca17b5389205c1415cded16ff612197e2f0ab36c2f199f5c7aa637b06d775649271102175bc8d8c85bd784ef08e2d3f859aad87c47419b3ad3a0a9ce815343e44d7ad5378da6786bd0a6c1fb72c12b559/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01467767ec52df35affbe18df33ac69e/01467767ec52df35affbe18df33ac69e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Real Me Doesn't Exist",
+            "episodeId": "persona-4-the-animation-1484?ep=20690",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/26ba0fa8d9e9abb2dc286141c0d3b978603f155e723857aa2f9a4fd3389725fd5a45eed099317ca67f9e758d3e418c203cf868b39871ab8b0ca5496d940874293919937619f40ec90a0f97dd68b5933050605869806f91383ee0582c60c0800cfee247ae8926431b3c2d01d2a1e5fd97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b612ca3e93630dd7000d3980cfb6ecd/8b612ca3e93630dd7000d3980cfb6ecd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/26ba0fa8d9e9abb2dc286141c0d3b978603f155e723857aa2f9a4fd3389725fdd17a1c32c8b6937d51af91d8c45a3cecc29300991d81cbfa48f9cc862a28b42cd735f6992aac0f2b337081928944bf69db65aa112afce4766840f411117c58c14edbfea3a6be81e4e0d6bb2edcebff8949cfb9191b189955f98a781147c304dad6f3f251c07681deda83ec994b084419/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b612ca3e93630dd7000d3980cfb6ecd/8b612ca3e93630dd7000d3980cfb6ecd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Catch Me if You Can",
+            "episodeId": "persona-4-the-animation-1484?ep=20691",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/854859183ab85d52d46d8bf891d80d45d5a8bbcaa3c29e4fd50f9780ff96a4bc81b2809a7cab8a101b2056f48d46adc965654663bde7b064a3482f131c0d88820f035a600c3cc88b26173771d6db8bfc5d6e38a60e4ccd516d3a46e8244241f05952fe1e90e4c0525f8a4a2cc8e93761/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8863489d8e0b6d9eaf1add7d71b5e22/f8863489d8e0b6d9eaf1add7d71b5e22.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/854859183ab85d52d46d8bf891d80d45d5a8bbcaa3c29e4fd50f9780ff96a4bc5671f9f287d2de9b97d67bb8f478ce9f83af2d6637aaf1321b0a0924f72442bfdab6f3a5059fd9608ede8c2620dc671a5eabfe8fdfe2b330a1e0bec69043c82f055b2647dec90f4784fd7e41d33f0483185443cd3fa0226abf2fde0a5224022943e977b4efde8ac48e616eda0f1a5157/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8863489d8e0b6d9eaf1add7d71b5e22/f8863489d8e0b6d9eaf1add7d71b5e22.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Not Empty at All",
+            "episodeId": "persona-4-the-animation-1484?ep=20692",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0ffb3ff6f7988e0a5431e59ad6cb25538ac836bca85a44c76636d85f79841072ad1c026fb25036672601b85d2940d73567dfce742c4dd1fbf14c97a1a3b1bc8c46227366d85d8d99822d7285daa1d42490b26b4651a96d7ee5e4a9510c2331ff408d1d09cebd402b42c4b9dadbd68486/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fc31cc6314155f15932c8557951b133/7fc31cc6314155f15932c8557951b133.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0ffb3ff6f7988e0a5431e59ad6cb25538ac836bca85a44c76636d85f798410726d5351d5be2a2191f57093a9d423e83ca5a17dcc82d736b9b6a81d21ffe83371fec551e199c4d1ecbf986ad1a6198f8128f0da6c16d8d06ed5ebe42f99be7cb09147f4a43d0753ea51a22b1731ac7f2c37978652ab9fcac686d97d808728f5a7bd81f113c0d83fa68b2f2733cc5c51f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fc31cc6314155f15932c8557951b133/7fc31cc6314155f15932c8557951b133.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Stormy Summer Vacation, Part 1",
+            "episodeId": "persona-4-the-animation-1484?ep=20693",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/83509620a55bc1e4669b849efe3833e35bae8922fc7b17d106843717fc26c930077d5be1be9665977f6e14e2337dac43876ae8aaba7a923c7420425f84e042ee5098839ae439b0920525db5435c28b1f715d5b8ed99412d7cef3dbf9a8a323fd4201b018d4c76bc0a7a1c83405c029d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d13ae78e37555696511eeae316f72f7f/d13ae78e37555696511eeae316f72f7f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/83509620a55bc1e4669b849efe3833e35bae8922fc7b17d106843717fc26c93002afd5006d310913f28f1c0ef9596cdfa006d4614af8d5511610949a4f0dff0bd98282b29ae9e8bea2a29eb7b41ef14c7d1bfce017640f4c25d7f7b8f29bf80219d45174b6f0f526fab0181483c2965d90b425e522d356fb5587be6ac913addd120be89ba761c741519ba690c5f2c960/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d13ae78e37555696511eeae316f72f7f/d13ae78e37555696511eeae316f72f7f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Stormy Summer Vacation, Part 2",
+            "episodeId": "persona-4-the-animation-1484?ep=20694",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e17f93256773240f3651b59168f606765b2fa8d2e1f1839198d360e90b04fb5180b28f47c70b2efa7d084dbe813f46c47d677c72bb2837a69dd9b388864ebfb289d84119488c1fb7da5270472364284f48ff3afe60e65fb2af77ccb4664121ec9ae321d18e9817cd2c908cc0efdd2084/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdbf71c328fdf4f741fb7010cbceb866/cdbf71c328fdf4f741fb7010cbceb866.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e17f93256773240f3651b59168f606765b2fa8d2e1f1839198d360e90b04fb515713122c5959d24c12b2f206ad15c24a28092901887c2670ec4cee923e39d8b1e0a2ac132d2919596e59975e7c9d94a3d230f17688cd2b4b5500e57af96cd06b5eb3cb9f2a34f10689ee53f036f5e536d8466c9a38b2d1641dc704041855627cdc4eadcd5f45678ad376cccd58e03b7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdbf71c328fdf4f741fb7010cbceb866/cdbf71c328fdf4f741fb7010cbceb866.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Long-Awaited School Trip",
+            "episodeId": "persona-4-the-animation-1484?ep=20695",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/dca331a9967d56b6bb9873eeeec11812a31839b7435da12f3f4db4d14c146f322be3fe5e15713b32d3993c68e24fedf128d1c351f191c5acadb31a1a060c36647522a568972aa5b16b5e024c8bd9156c5fb7b515b1f4607e7b43f9494e598b44f78e2befda558a9b1bfd534634ca9d4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6580b39a1288ac5acce6ff4a83558f5/f6580b39a1288ac5acce6ff4a83558f5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dca331a9967d56b6bb9873eeeec11812a31839b7435da12f3f4db4d14c146f32d9dde5f892e4e2936847b6d5b0daf366ba6ed57b1ee8a2d974ef56a13915963956455e96bc5e86d84cae42b3b812dfef5c58cf67450bea5e745d5bfd8299a4ba43cdba88b05e3e4842d2939551784428d39bfe4095124b359bb0327cd25141e2ae0aa237e45f11a85a601c2826a3bc6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6580b39a1288ac5acce6ff4a83558f5/f6580b39a1288ac5acce6ff4a83558f5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Although the Case Was Closed",
+            "episodeId": "persona-4-the-animation-1484?ep=20696",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e00b88d3d2aa91abe7113a9517d713a0a4bf3e527ecd83f9cff3525abbc6c14b010ddf595b5eb42f0aeffc96771f494155af1e0c0c1ecb506918b943242b2a556db97970ebdfc233264087eaa24ef3d15f77a9f62de384d18ff79bb15ee02f10ad80db2456c4879f07c974b09dec135c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b774f13935e342b3a833000bffb7106/6b774f13935e342b3a833000bffb7106.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e00b88d3d2aa91abe7113a9517d713a0a4bf3e527ecd83f9cff3525abbc6c14bc6bad545337d7589012e5274b80ea2d35fdd0c982bf084ac3ba3a445637aaa6082b28c7c65fcbffc941e4c842d77a6687481a8923660a4737d5ba94946b2df9e33d9be3dd76a95026c7b1fa72aed96fb139448e3ef2aeef61d6c8233dfb82c72238e996879d2935e681491b9004a51d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b774f13935e342b3a833000bffb7106/6b774f13935e342b3a833000bffb7106.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want to Know the Truth",
+            "episodeId": "persona-4-the-animation-1484?ep=20697",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f8e15714b0e2532131fc929e41c9a45355de20e50a3b2524b8bf7fd112c24a016254d8fa383251192557904a603fce362b4e17d6cf6fbe246748f0afbd84fb7195eac9ed3aa47f54bd186466889a1a8672d6319dedc718feb756648e0c8bc90544b289d5723cb082585180ee17cc928b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26e9d1e7b6bacad3e974b54c2cbf6cd6/26e9d1e7b6bacad3e974b54c2cbf6cd6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f8e15714b0e2532131fc929e41c9a45355de20e50a3b2524b8bf7fd112c24a011a9c82fcd7c3b577c3b7130ac7f178a330fa19393430905dcd8dee774fe7e3b75007f07a367796ba7e0130f7b45ff108ebe5354d1b7a2630a053c6a6f806d163f3297094a8c8f3a2d58999edce1fa50a5f15ece718e0d65f0a0eb629aa664f2d63a0bbd0ae51663b9b00e9e129b92466/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26e9d1e7b6bacad3e974b54c2cbf6cd6/26e9d1e7b6bacad3e974b54c2cbf6cd6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Anniversary to Become a Family",
+            "episodeId": "persona-4-the-animation-1484?ep=20698",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bd25cdc23d696f7191a7f2a3fbba78ac000bbe9c5240fa860b8e989d6af6fcf0a2f05ef0278bd3a9d542828c0eb46048ff8345a908ebdc5ca4688558a42969555aed66d88782be0c1eaba629048bd52d42aae0795eb05b4843e547455e6881f3849803478f1b08448cd309983e1cecd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b1274f4fca52e205e6b43a4d71153a4/8b1274f4fca52e205e6b43a4d71153a4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bd25cdc23d696f7191a7f2a3fbba78ac000bbe9c5240fa860b8e989d6af6fcf02eeec41a0fb8df78babcc7cb9e6f7450afa6cdaf714977c0c139256372aaa220252bdd46dff967d461d42ce671dda265d6a0f9475ab8b79dd43430b942eb6e7b1188df5a7f4971944b1df72b901103001fbcc83b4625692b81b5852c15f9b47be5f08fdaf2574b8830da488197e6fbe1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b1274f4fca52e205e6b43a4d71153a4/8b1274f4fca52e205e6b43a4d71153a4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's School Festival Day! Time to Have Fun!",
+            "episodeId": "persona-4-the-animation-1484?ep=20699",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ed5d9f376e573586e9d5815d7b8f55450abb233c2b3b2e64f4b1318d214db38ea224623f7d530937afc5005ec747e565b85419e03a22fe7787cc4d15979a1abdda501136c8afac2c65b2a67930c24cffac5e73015a19c70b6accec686e634a3f879a88a1f2f8779f691ced1d692cb927/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07b1b7488213e2a108c19262a2569a62/07b1b7488213e2a108c19262a2569a62.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ed5d9f376e573586e9d5815d7b8f55450abb233c2b3b2e64f4b1318d214db38ed0d24b63317c63c65994ed46f54fa70a97ec46c9063ee444f8a27dc47f99f65c8030af9dcecc525b8953a8264100b15aea1fa08f0ae8c0ede2e538749dfd20b09a952a9a9f6c584a8e46fd1569cfe3c2ae26fa278d9433b95ab1cf642133de56d473fa67359d394279b55f85db9c02c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07b1b7488213e2a108c19262a2569a62/07b1b7488213e2a108c19262a2569a62.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We'll All Meet at the AMAGIYA Hotel",
+            "episodeId": "persona-4-the-animation-1484?ep=20700",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9c3cf0b099d732572e8ef35b765931f8e541ee7b3027525a92629ed393f17f7dc56da6158d6e7d57f32ee3fa67d5addf2ff4574c1a490d7b39d0829b514290abe8160c3e580da81fcfd9de573fa84aef0db1ac4b95bfbe1ace341763a133fcf7db3a182e39c9c3f809d628572c5560a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4a3251c97b0b618ef1a413d2f7d43e3/c4a3251c97b0b618ef1a413d2f7d43e3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9c3cf0b099d732572e8ef35b765931f8e541ee7b3027525a92629ed393f17f7d6a2daba74399f278ab189912424c04bf7c99f389c13ae8da0cb3c7aced8e694b63783067d422808f2eadec9aae202a249b720ec2514a51416cd6027f1ec3ec80fc996345f90ecd58bb3557a8441af557a374e6194a98a153e183d7cdf38ee6cd0c364b680db2b0c49b08222052cb1362/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4a3251c97b0b618ef1a413d2f7d43e3/c4a3251c97b0b618ef1a413d2f7d43e3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Save Anyone Anymore",
+            "episodeId": "persona-4-the-animation-1484?ep=20701",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b6a6d51620c9081bf9ffde782a924cc3701959d6a297691cd6013867cf8a62e4b0f0102280d2d731c0bde51398a02d5e64d364860dd0d156262b74a3d2c744bb330a157262904bc81278ed0f35cf11b11d8393e800d64d66577766648eb77260686e8e03185463bf13470da216fa71db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa03befd83807742861642257578effb/fa03befd83807742861642257578effb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b6a6d51620c9081bf9ffde782a924cc3701959d6a297691cd6013867cf8a62e4b7310d8f58c22f92a30c37eba3344826b1f00e6693b3b063b8244d4d93eff6d896b78481f086b37572ada7aae3ee31f96e0c832aa0730fc17f1a467d29f667491d32d0d63e21ba7485351bf832beae853ccdee0382dfcae0f83065827633ade00570b849cd0ad62396dc646fc4b21d24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa03befd83807742861642257578effb/fa03befd83807742861642257578effb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Just Like Heaven",
+            "episodeId": "persona-4-the-animation-1484?ep=20702",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bdd50fb7a4f7b602a885208fc300a05b88ce2b1328f8c627f796055c9b7a91dd11dad8e4481244b95912b3ade8db11bad042151d43cc94217c1272afa3e063c5a167147e99f10302476fb91745c94e38ca6c76a94bcff4eb2827ad67ac58146382d2c9784a9760504464c0deda6bfca0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88634eaa8106dcb65102101939068766/88634eaa8106dcb65102101939068766.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bdd50fb7a4f7b602a885208fc300a05b88ce2b1328f8c627f796055c9b7a91dd1229c35bc3313b5b6ef9f7551b58d1e43e27c5ff35e09498efa668fe9394bb5e1da748e619b6a8bffa1c42e40322a26f0d34906170b054c538e720f904e8eab1679855c1ee8f2706808247b59d8a7684bafbc4e714ab51f068841a5870751916768914ec7d8050dc23799a4bc0bde042/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88634eaa8106dcb65102101939068766/88634eaa8106dcb65102101939068766.vtt"
+                }
+            ]
+        },
+        {
+            "title": "In Order to Find the Truth",
+            "episodeId": "persona-4-the-animation-1484?ep=20703",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/311f4e6d0f1c2600dc1bc3e55d93cfc08c6def7d3a27a3c6677a31088045e807767ecddf40eae8409beaaaf8d1291830b2117d7f3a9fbded6830963734cc18b03fcd8d515b9216884095ced00183400324a83ea525bfdfa83be15f2a8dd288d0590bb95a09c42c3409d661c88486311b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fde85366771ddce9bf3bf9ddfd998e0/7fde85366771ddce9bf3bf9ddfd998e0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/311f4e6d0f1c2600dc1bc3e55d93cfc08c6def7d3a27a3c6677a31088045e80719e73dbe2e6f4879175167592648d45154f924c58ddade769279a4b47966657bc1b35baf70dd0d6a6edc6f47bcfd8209d4560bb6091e3f0c1d2bd77da4fdb110ed14e410d0cf336ac0bed695e26c50821fcb6c099240d9015d2ab6ba31ca1a4eb2db1b57ccd18324bc03184ac16180c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fde85366771ddce9bf3bf9ddfd998e0/7fde85366771ddce9bf3bf9ddfd998e0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The World Is Full of Sh*t",
+            "episodeId": "persona-4-the-animation-1484?ep=20704",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c98d78b5a1bb0745be5332515835c4e53e4b7eb8eefbd8a8dc260f10939626d202552f1cc81c09913085c6f35799e5bbe2868e7a52c295d3fcdcbbd9171ab30dde8edb501a3783aec235e32ba685b2bd74111859e10a60cd26e4c7fd42305d9dc22f2eaf38dd351552276444a8c85514/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c660f9680aa1c3af7a1fd9da8007491/3c660f9680aa1c3af7a1fd9da8007491.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c98d78b5a1bb0745be5332515835c4e53e4b7eb8eefbd8a8dc260f10939626d247880f67bdc021a3977c8448d7376300d2d28ff1bdecf01b1014bc00dd7b890948b9d5f5aae471b1259a24c4f0d2bd1cf49628599204673ed80c1bca8860dedc34d9de49338742bc09373b8914c09ef6056e58e08bf8564c94c6dddf51ce0b177cbe6b6e3e73e6d3c0f1626a476ecc44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c660f9680aa1c3af7a1fd9da8007491/3c660f9680aa1c3af7a1fd9da8007491.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We Can Change the World",
+            "episodeId": "persona-4-the-animation-1484?ep=20705",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9efedc5a4a0b9207776d3fb78b33a074d70457849ecbd172e31c3ae1776a0e8765f658082ee26a70d6cbf2121d0d3a9586ca82159911a5619fa52eafd67575a329c2684d07317113bdebaf1315d1df310f0bb6bf3299e3c65abf146954973bab6bb292553cd3ac01c6aef43c1a9d4f1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9245b48aff2fc2c974ccd99cc6fbca70/9245b48aff2fc2c974ccd99cc6fbca70.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9efedc5a4a0b9207776d3fb78b33a074d70457849ecbd172e31c3ae1776a0e876147f7ae51bbffe7fb6bdb0c7dd5ee9619fb8747a681989b2d93fef105b97e08cea12e0d74629c664e0bb1b89362221e967523dde569f7c69319dbce80d870c2c186882d94d705e92adcf37cabb8ccdbddc6179b35205aaf572ad63cb121e8a4061b8e1cd7065ece150781a00bfa9f5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9245b48aff2fc2c974ccd99cc6fbca70/9245b48aff2fc2c974ccd99cc6fbca70.vtt"
+                }
+            ]
+        }
+    ]
+}

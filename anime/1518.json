@@ -1,0 +1,586 @@
+{
+    "info": {
+        "id": "higurashi-when-they-cry-gou-1518",
+        "anilistId": 114446,
+        "malId": 41006,
+        "name": "Higurashi: When They Cry – Gou",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cd1ab997ed0ae2d6ec14ef690fcd65e.jpg",
+        "description": "Rika Furude and her group of friends live in the small mountain village of Hinamizawa; in June 1983, they welcome transfer student Keiichi Maebara into their ranks, making him the only boy in their group. After school, they have fun playing games and spending each day living their lives to the fullest. Despite this seemingly normal routine, Keiichi begins noticing strange behavior from his friends, who seem to be hiding the town's dark secrets from him.\n\nElsewhere, a certain person watches these increasingly unsettling events unfold and remembers all the times that this, and other similar stories, have played out. Using that knowledge, this person decides to fix these broken worlds. However, when certain variables change, the individual is faced with a horrifying realization: they have no idea what to expect or how to stop the impending tragedy.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/i4GaPCEiHIg",
+                "thumbnail": "https://i.ytimg.com/vi/i4GaPCEiHIg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/D2ESrHb6utY",
+                "thumbnail": "https://i.ytimg.com/vi/D2ESrHb6utY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/ViVnzjalOsc",
+                "thumbnail": "https://i.ytimg.com/vi/ViVnzjalOsc/hqdefault.jpg"
+            },
+            {
+                "title": "Promo",
+                "source": "https://www.youtube.com/embed/M9vYu4tMcnU",
+                "thumbnail": "https://i.ytimg.com/vi/M9vYu4tMcnU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "rika-furude-321",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30476a89097fa0f4455b2fb7da18bc40.jpg",
+                    "name": "Furude, Rika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yukari-tamura-77",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb579c9234f22964803115db71b863d0.jpg",
+                    "name": "Tamura, Yukari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "satoko-houjou-1974",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/95322ec866ac3fb7ec815e2c6208a166.jpg",
+                    "name": "Houjou, Satoko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mika-kanai-1094",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1fbe0413393a38b558e86ab172b3e975.jpg",
+                    "name": "Kanai, Mika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "keiichi-maebara-1144",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8523b31fccce590ba53d404e7a3c1777.jpg",
+                    "name": "Maebara, Keiichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "soichiro-hoshi-339",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e686061c9540784d74b4867ea887a322.jpg",
+                    "name": "Hoshi, Soichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rena-ryuuguu-295",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62a0a32a7bb5335eaf39490df57eaef5.jpg",
+                    "name": "Ryuuguu, Rena",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-nakahara-129",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c681f7e69627cda8e51ae33b8d85e12f.jpg",
+                    "name": "Nakahara, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mion-sonozaki-747",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1cf3b2494db7c1b775e4b31f2c3c3851.jpg",
+                    "name": "Sonozaki, Mion",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satsuki-yukino-252",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dd7626cf97070a63f6f5906622a4fb0f.jpg",
+                    "name": "Yukino, Satsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyousuke-irie-9575",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06c131eaa91df8b509063141bc33ae9d.jpg",
+                    "name": "Irie, Kyousuke",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "toshihiko-seki-589",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9b64010e0644ed8914fa159b318cffbc.jpg",
+                    "name": "Seki, Toshihiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ひぐらしのなく頃に業",
+        "synonyms": "When They Cry, Higurashi: When They Cry - New, Higurashi no Naku Koro ni (2020), When the Cicadas Cry, The Moment the Cicadas Cry",
+        "aired": "Oct 1, 2020 to Mar 19, 2021",
+        "premiered": "Fall 2020",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.44",
+        "genres": [
+            "Dementia",
+            "Mystery",
+            "Horror",
+            "Supernatural",
+            "Psychological",
+            "Thriller"
+        ],
+        "studios": "Passione",
+        "producers": [
+            "Frontier Works",
+            "Infinite",
+            "Passione",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Demon-Deceiving Chapter, Part 1",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=50946",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a3fe98db1e102edc81f448e0797614ce2c160ecbcc5ff19be5d6d61529667effd6d747a06a43c6c18f7446174a8af3418748a09ea8c6bcea4fd65a941cf4d555144ffe08aa4bb05e263100ce24818cc2b3a0746d3d29cd57553e146dcc661c7b510e587470e6639f0f61f2921f321dcf191032394e22d9d647c94292e647709c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/224d7d2386d41a31630ad928b34959ab/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a3fe98db1e102edc81f448e0797614ce2c160ecbcc5ff19be5d6d61529667effd6d747a06a43c6c18f7446174a8af3414c7778b1017d0556fca685ca29ccf650bbdfabb0f1e53dc9a1cc55ddd039bdfb64fcc8f3a3c6478d72eb22eaf8667a0216b04c6758a0c5765d08caf9de0ce17f3514d022b21c94d1714ec89e9689b983eddc175d56966c81f7d92da9bbde2400/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/224d7d2386d41a31630ad928b34959ab/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demon-Deceiving Chapter, Part 2",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=50947",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/486e64908a5ba24fb50180c2ddc9d008451a1209042d4e250b9d8faa17d0f99d8cbc1449836e8795c55f51cd10d0fb2696e4e06b944ab8678a7e62634f51f9eab344b2105ab7e3673e3d1bb57497b72ecca8f2b71ddf704ce73f1a0bbdd4daa96d2468ab3b1f5ea778ed1ff37472a6d0c222e072fbdc0d70a352552c2a7d0799/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6e7b94f70f77ced7d30c9e53a5b3a56/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/486e64908a5ba24fb50180c2ddc9d008451a1209042d4e250b9d8faa17d0f99d8cbc1449836e8795c55f51cd10d0fb2670c1cc3877ca3e436d03af7a78e722ffdda1f214bf319fedfccb27d3029289cee368df0ded228fa1788951e321120c182bfc3c66eb9dfa32029e322b61818feac37049fd0ac28f7a189902836fb33017eea8b12699d5b0a0ff2ea034750a923f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6e7b94f70f77ced7d30c9e53a5b3a56/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demon-Deceiving Chapter, Part 3",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51813",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/58aea041e486e395a4f2d06b4936deaf607701dc4f68b58bf0421522aa7779f097cc354388392c0edb71db822906f88a75431ffcc48ae8181c6b5cf18a12a62e264040dff8f8c5c75684fc6eaad8bcb3dcb85757cd8ac8e904240ec435bc38318330368e17706c1e6787ffedac9f5c00858c964afda99c8540f55d6ca6d3ffa0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/931cec54af6e628883e266a422c322ee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/58aea041e486e395a4f2d06b4936deaf607701dc4f68b58bf0421522aa7779f097cc354388392c0edb71db822906f88a6b136908073d9a4846c2e1f590d28e22d0913528af9a9b6cab5d5a98f870b52c35e42c6282c4a86eae7e89a1d55346047f12f754eeea19ced07d29eef6c7a8c3639b846c8a5f81ac93a74649c71cdea8043c76e48e4aad865f6977d69b210025/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/931cec54af6e628883e266a422c322ee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demon-Deceiving Chapter, Part 4",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51814",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/644c083312055c316c0fd27997e59dfbb293fef2d7da158f248d5c3ddfb1e58933617aaafd1c3e5a96fe4c2de0d6089c0ccd0a73d0a959ea32af0e6dd1716d59595d6059409eb0c906b9df36a3766882ddee192adf7a33336a5aad092583c25b7e1d7ffe7688f1d6028cb8993bba16ba2ad6c554adfe3edf943dba4438204822/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75c8a1e0e0153caa5ef94ad3a1cd55c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/644c083312055c316c0fd27997e59dfbb293fef2d7da158f248d5c3ddfb1e58933617aaafd1c3e5a96fe4c2de0d6089ca6b4eb64a8b42b21de929f2f0c2fa6ca62a0d9dbb0a235c3f385e2571487d3bd44e20e20ada7a3f72dff7b0e5f586c16f17e28af146f44a9b841e368300b92b49784438264447432acd224c7480cc99b5b16ce7b7adae0089e61d2c96fe0f7f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75c8a1e0e0153caa5ef94ad3a1cd55c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cotton-Deceiving Chapter, Part 1",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51815",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/452d136492a1684044bf6f84d9b9497cec2cb87312a1a124bcbef3960e04b5c344a11feb69986a60ed54536574376e95c72cc20a9b106a3e1d45f827ada8d116518e4fee81943bb291485b82dc2ee68e0cab4e3184da0ade743bfcbb2015866ea21f0070e20c88589e3809c1896cbe31d94892f7c74a534b9d39216244f03e13/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/132eba14107893295fe09210ade8a6de/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/452d136492a1684044bf6f84d9b9497cec2cb87312a1a124bcbef3960e04b5c344a11feb69986a60ed54536574376e95bedf2d2e031f03297698915018df5ac4c8b4f8adff5f972fb5d9222e51c52d6b25ce849143a3440c561ae7e4bcabfe6d6b784ed92c7e33f751b29e5a7b1663ef8f11d7c602660317bc020ba0a32db329315c2fa839e4a94ed778207d48e8c855/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/132eba14107893295fe09210ade8a6de/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cotton-Deceiving Chapter, Part 2",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51816",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/36eaa9ebf81fecce415a2d0ddf61957b95d62830f2499f54040bdf340de57526dd9477cf734083d3a9abde6c66c585af8a6d2d42d623382a7f94a129092c3c605c1d72612ef0d9d825f9094e8042ab787c2a295e5590057c1b6a2f8e1ffa292f638e92fa11f33e71b46b98a17c79c024af8995681a210b9a8de5a05085ef550d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad20c98df1e5b86ce1e62edc9e6210b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/36eaa9ebf81fecce415a2d0ddf61957b95d62830f2499f54040bdf340de57526dd9477cf734083d3a9abde6c66c585af6608de48f8109c3c72d88eb0c9e994416e19848684b8eed4009a2b644fbfca77386fd5f0877a5a045a85a455214e00c59db35f4d0cf46868b51eb70f4cea3ee1237f51734328854cf22326ffee2f2c8756a5051376211d5757ff0f83c7054407/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad20c98df1e5b86ce1e62edc9e6210b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cotton-Deceiving Chapter, Part 3",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51817",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6118a7b59493f57e0ad3af2116862ba4f1c7c09817c7dd70f84cacad2e9aec2aefc26bf0945cc396170f7dec19c55a14c7a55899e96a796c2ced26be7690ca8e7c93ce162a749c68dcbba63e32e50b9f030190f2d7ca84a0c84e17557b79b9d6ae4d62fa2ec4edb372ef2334662272feabec3e32325b12ee8cafbdbe9297eca0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32797f0fd1d87c9771052b4be980c105/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6118a7b59493f57e0ad3af2116862ba4f1c7c09817c7dd70f84cacad2e9aec2aefc26bf0945cc396170f7dec19c55a14e2daee21b0b93c2b1a4398ab13420ea95e6303037254bcf0b123c18f6a07e2e753c4224dd6c10c923786eb99efc4ac261a010978419ad3fbbf8db683053d0e6932d85313d53b723789fb628c5f1cced8570d7403201803f9bb9323183877221b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32797f0fd1d87c9771052b4be980c105/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cotton-Deceiving Chapter, Part 4",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51818",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8642383116ab200729777f7f54c2ae9c992eaf57cdfaa7d426318b070ab5a81a78b65e388036c89c59355b6d976b5e693046124c5d7f4b6609fe635e871186faab968fcabe836632037611441180acddd6a7b216c8c8ca4d1ad13714bc7aaf501ebf8a5429202b467dadf6e8f6506146270207c3417b6cda9ddba19b2f59f5e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6871425f6f618fc3d07d783586d1504/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8642383116ab200729777f7f54c2ae9c992eaf57cdfaa7d426318b070ab5a81a78b65e388036c89c59355b6d976b5e697e030a2331601b7800a40e413fa2f0a86f57d8bfd0c15cc070e551d3622623ab40086356f5024b5b546ddb41888209478f372f204a2b19a9a47b8fc8b4600adb7a87a5cba4e6cbc05a08d9f3e59398dc86e141cc0ec8e8656c6e45144c62341a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6871425f6f618fc3d07d783586d1504/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curse-Deceiving Chapter, Part 1",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51819",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c59b9125e2aaf2051841cb866c12cf9edb719fab2bd4ee6f19c572d93c373e40c6e73115c0321407ab8b14f5193ca43dc6649ea4bdb5da960a719b75b9d1b4b7dafe471a7ad5979a9eb008e173a76a35ed0a39f0176c045053f7a7706dba4a33754fc80d66f9fef2eabdb3cf30335fabf15f37ad410ed40f95d370c88b4c9b91/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98745f294c890970e487aa9760ff433a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c59b9125e2aaf2051841cb866c12cf9edb719fab2bd4ee6f19c572d93c373e40c6e73115c0321407ab8b14f5193ca43dfd727e19de6bba2fdae3dbcb8f98a38d2a71b7602748a32378c65211b27eef2cd874cf2d3405bc6fef7097067ef071757435483a23e48f36b9882c26c482adcaa9e19e336d6fedc0fb87b0e173cb59f4b54cd9a925d442d908cc0d249b167421/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98745f294c890970e487aa9760ff433a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curse-Deceiving Chapter, Part 2",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51820",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/29d9a5f77af026f4bb314fa8602313cb4956ae5c9c0e07283261159445a099149624b61b8f0f2ea5f59c39e3edd3073ec08eb50d712e0c2f3a9c00ac7936274eae96d814e9185596b42e96cd6add7859ba6eaddcedef5705210d5e9fa6637935961f24e3c1f50f5c4e719bbce152dcde7bea0e460eb4add3caf24e18c598b039/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f73fc43c8efc410cebd5597fed5c2a0b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/29d9a5f77af026f4bb314fa8602313cb4956ae5c9c0e07283261159445a099149624b61b8f0f2ea5f59c39e3edd3073e1babffb8e9ef9073e755cadc3aaf6590c071e14d65f5a8f3df6acf206d7091fe939c043a69f48c5329925c9de6ef0616bf76d0ebfd0e6180370442ee71d1bcf35c0709dc85959aeff9821459e0190de9e3b2fdbeaae291c1e4f4243f7a514a61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f73fc43c8efc410cebd5597fed5c2a0b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curse-Deceiving Chapter, Part 3",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51821",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cdd2d0b853ac3f0aa2fc6a31f43e85222630b21ebcd915f3462934530dbe27c5b689b6dc716c2cace260349aaf92ae3f6eaa09c00a85b22929f475194533a8bfd455ca1c3e1d9276bc1f4e6070b68f114fcc07e2475c89f4127e101a1fd70bf59b2b3811cbec117b9d20cfeff191bd96326dc3e532e5e22495f339d62a14a72a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2c9efc9837056c51ae20908eb07d37a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/cdd2d0b853ac3f0aa2fc6a31f43e85222630b21ebcd915f3462934530dbe27c5b689b6dc716c2cace260349aaf92ae3f034bb587cda81d09fce7d1129e9c8c1a3cca7b26857593d4d4b251950e8bde7f5e36beb6c8a58072cbac3281a0ad26e63a0f3ec0c9f89ca31eb7c1ba3116e5f1acecd02284747f67c1938406fb23f6ed61f883583719a8b5f520b4131d53d94f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e2c9efc9837056c51ae20908eb07d37a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curse-Deceiving Chapter, Part 4",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51822",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/88b318a813766a20848cd18e055a385986efdd4058cecec0e201af273da01fd00fc9109c10dd40058b409f20140990f745f85800d9245ac0c6de9084672d6340ca1f5e37c021e30f94c1e68baaea7af00751aa20622dcc72916372585627b0a66b43c155bb1cd045faa144e53008aefa153d0d8403431557b47c356d7efb176d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e555234ae2198dc0f67ef9ecffacbd7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/88b318a813766a20848cd18e055a385986efdd4058cecec0e201af273da01fd00fc9109c10dd40058b409f20140990f71886e3eb6b521a2fb45ef370250410ecd8613d3170da3706eba487206d769c6873e79afeb04184b5988c7cf2413bb00433ab23bbdd6b5b44d5202af2476aea7eac6f3c8f1eea3c8e255831214f6a35819d4ff0b5cfab8fea5b43c0c75c7dcdeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e555234ae2198dc0f67ef9ecffacbd7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Curse-Deceiving Chapter, Part 5",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51823",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/593ec961065b21b468117d3597bf61b06051c5d7e93e5ae87f073989b8cca82aa16eb9ba8bf0bf3577fba883c933ae772d163cc7d3027a502af8b2e7a82f56a7d1601140901d3ffc7facb04c6af82e25366fea9bc92f3ab7add9a8c7f835c24e6f126af83eb444acdec0f612e214ae24b661303bbdab06f861c3a1c6e9f0d766/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/992893d0cd55e11738ca6d2ae4d40043/992893d0cd55e11738ca6d2ae4d40043.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/593ec961065b21b468117d3597bf61b06051c5d7e93e5ae87f073989b8cca82aa16eb9ba8bf0bf3577fba883c933ae771c52e0b8f4b3b3752b0d523250dfffe27c232cbd78e28a2965ce2a23e1d32cff51f5df3c55afbbdb684fea9fa18f77b6feaa72088159a394990ae6e0663c65757b0cf53aabf5bcef60d4c342fc5f7377772edae1b469452cf1dc0d015911b58c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/992893d0cd55e11738ca6d2ae4d40043/992893d0cd55e11738ca6d2ae4d40043.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat-Deceiving Chapter, Part 1",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51824",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e303caba90ee709f30703d3ae4cbab2405e31df59b1342839dd8078d41b55b585880c9ccfd18d626076dd3beac722994a6a4f920414f8178509e8b550083c6e761b017bf100906ff8d5c15e12cbc0e949c70cb52d0b50ee55396607063a49c00962cee783aaee64f9e4a251903fd912971d2c29b49a7aaf6d4491d051dd9e152/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d0a7054ee02a1c745bd34fcafaf277f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e303caba90ee709f30703d3ae4cbab2405e31df59b1342839dd8078d41b55b585880c9ccfd18d626076dd3beac722994fd7dbf2f4aa3b8102f8fedb59c31f0ec07a16d017962dde6d4c46416b18068fad50e4627a1bb6e51a4ee1587b9aec50421db49dcf22177e346884341279add749f90ba911da55fd4f7121c7e13bc104666a060b6710212a75e7c6846758e474f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d0a7054ee02a1c745bd34fcafaf277f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat-Deceiving Chapter, Part 2",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51825",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1c6fcfa09a6c79f4fbadb2ffe073542570a6e9b678d6a88f2bbaf6f9d57acd97344ea62fb998191968b8ea3fb5230f9deca16716478f2d5b0f86cb4c6d7a8615c29fd3be99af1e31f64c0301c0da28b91d72764ecc8e3f7ab39caf9ea64046d543b045025be03dd281ad93aa6d012c0845371fd79c0b93f99005fc70a20d9558/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83aef64bb02fe766fbccce0a9f51e004/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1c6fcfa09a6c79f4fbadb2ffe073542570a6e9b678d6a88f2bbaf6f9d57acd97344ea62fb998191968b8ea3fb5230f9df43d902375b79e42de5272952a57c5d6182e3f9436bc93ac3690ee7e63b415aa920e5eea041b6ffd375e36f6ba8d877087ec6133ce693b780a20ccc2e03a860284f236bdda9975b5b3a73478844ef19fa5393ad20d4ea78ef2fb5ee2b7106c56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83aef64bb02fe766fbccce0a9f51e004/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat-Deceiving Chapter, Part 3",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51826",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/90bb8c6c41ac776b0ad4e003c51f3e66176ecfaf69582352dc242d3d41b347656608b983bc44e01fd626c7dde2008b9da0928b81869548f09a65766a6f10bf331835dcf602901a4fcf54791366f63cb57caa1a80cafa6598017c90de2d1924a032d410798b6f32b85555c0960625a39f09a78eafd5560108c9bc53cbfc93e1b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe00b303ccbb669ae5ae8e75efaa5caf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/90bb8c6c41ac776b0ad4e003c51f3e66176ecfaf69582352dc242d3d41b347656608b983bc44e01fd626c7dde2008b9dfeb50ee8d0bcfdf9cfb313cee2d6f65089af078ac2632f63f7358057148d4f6453d9b8a8ba748b9fab097f7b385a7591d5473b3d7ac3f700d512cbf388ddab18cadd5c2eeec6ccfa0d78b57b5ff7dc1e897d7a058ed512312055f43903584df9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe00b303ccbb669ae5ae8e75efaa5caf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat-Deceiving Chapter, Part 4",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51827",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/db681fb33e832c448f703c16df43d2ff864200efb747024e1a7d50dd6d5a38f74544b5276a319762a6852097555129ce27e77b33c960ea864627bd836e788e9f47a578a5c757e9a333c920ac3af1ae1380db273c58bbcc0ef544da104ac9c86e2b624393a1f85f1d6b182902906b763f8e2f9645eb21ce4c5998afad96156c6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44c072872583e0be7385470117384641/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/db681fb33e832c448f703c16df43d2ff864200efb747024e1a7d50dd6d5a38f74544b5276a319762a6852097555129ce417d4bd91a1849f1f0d8fbc90fe66a3eb5335b6c6f311280fedf45205a0ae824676e07fba6ab293d7f585440f33cc8c903f91484d27cadf2e18b94758603098c3bbeb4b22fab709c6f984dc85dd17cb3268e4c352aea1de6be45b7051cb17e88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44c072872583e0be7385470117384641/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 1",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51828",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2f82db1298915dbda78afc746cacdac961c2fa0507d8ce846563ed2a6880bd72785bb9ec0399c93466fd2484dc7689c94d430a2ba78f1b12b822d218ecfaa5f217b138af991274cd9c2b5460f9e9c400478ecda62711bbfada47e400a3d010cd39fb1d796e49669ad6e220bf616a1facd1c27a4424eee8ce22f5d2014f462826/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e54679ffd7495ce0ab88ccb63102ac17/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2f82db1298915dbda78afc746cacdac961c2fa0507d8ce846563ed2a6880bd72785bb9ec0399c93466fd2484dc7689c9504c99b7e132090e1e8a97ad05ffa0e39eef46eb8f81101569caa69391f1411f01111d912f831fa9953e37acfdcfe2179a85528ff4c7f1452646e71b8f0757c01495d926347401c66141e17b7c76a1e2879548cf4345a49a111b769f7004e1c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e54679ffd7495ce0ab88ccb63102ac17/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 2",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51829",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d1546845c943b56eb0c6492974035afb9accef9a3313d8d7b059996e7d67aa9118dd3e820d7004fdfe59a3c793f5f7586e3ec3fd6d0f1e5484f1b5fe6f5a02c2c75672dbfa1c8101a332258d1077c95d18243359f087fa8277368334c95a7880f7c04ed37201a1020754c510a14440f06e57754557bf09cbca6941e905c36966/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b0f651959c432175e41638d3423293/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d1546845c943b56eb0c6492974035afb9accef9a3313d8d7b059996e7d67aa9118dd3e820d7004fdfe59a3c793f5f7589b80e203cdb87791d48011af75c1a4f924df8500ae0110f6c1793bfe3cb5eeb7895bc6929f334ad509cd3e6b5ad5e5be638e44bde9f5c517ae4ce51405e922132c8b14a9341eb1cca46685ea4e85dbc23910dd04a6e834d6d1cc473e6480c007/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b0f651959c432175e41638d3423293/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 3",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51830",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/76548ee6dd6b32809b5e1cba9692ee10f5f346073a06b3500bdcdf4ba98cb73faad7ef93af39db976bf86d733147abd6dfe22a588a82f10cb06c6bbee34072f3c102f136deb68bb637acea26582a6b9b8f0f8df6dfbeafc2d98fc2305afbdc2f0c9b882112c806dea1caf0b43a00d244afb1aedf766f67f1b3a970314bbf1d1d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cbddd7621358aefd96e21c99b0cf68d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/76548ee6dd6b32809b5e1cba9692ee10f5f346073a06b3500bdcdf4ba98cb73faad7ef93af39db976bf86d733147abd661d6db1a1b77de6fe2d5c3585a7dda14caeeb9e820191dd0fe2aef748362191fa914867dc90a848270c066a48721d18ca6ebdbece81b84435799907f2e2334d9fa760a23f79b6f034d75a8a53112e3b3780b5e680d8f394597fad3b909508f87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cbddd7621358aefd96e21c99b0cf68d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 4",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=51831",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9e1f3ee24cd2a37ff2f4c36a3683b5d0fa0f5bec15a4b384751bd5224d45dbcf493a1c12eb493457c502f55c0251166898736bcd2022034868bf9cf0007d5cae867b9225f4c57ad6d5bc7ef7d268c9ca993b7dcf0f306a45b234fb7d13723584ac7d41dfe3fe55433fe79588a64270f580d1eebc5a3b940b4182d360c4eef55a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/815d662dc44976c1fc18c58b215a4ee0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9e1f3ee24cd2a37ff2f4c36a3683b5d0fa0f5bec15a4b384751bd5224d45dbcf493a1c12eb493457c502f55c02511668ae5514ba6a873276dbd4bfe9e754f0aad761430d9501669d057dec334d0152bb5fd5fa6ce632776187c58731ac66969bad142c85e74bee19e5134d693b7d479b9c7003f7ec217f0076385bf535bb58ea0446b50eee670ba228a58efc90dafa38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/815d662dc44976c1fc18c58b215a4ee0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 5",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=72615",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/98014625590769316933ad1f808b2969d3f2aa50be8a90ea9fb5bdc179ad91d19235a3c53ae5bc094fbdba394197428f3685b03a8dc9c810a99221ea59137b0f1775d951a9adacc6fa1fefe058c92204dc66c9076272b9f21b441e2a9cb97b7d42f2de27b8824227160909d6139a60383c7a2cea7c88d01a9a90a32a4705ccd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e1284cd686c10bc943a1655c8e097e1/9e1284cd686c10bc943a1655c8e097e1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/98014625590769316933ad1f808b2969d3f2aa50be8a90ea9fb5bdc179ad91d19235a3c53ae5bc094fbdba394197428ffb4e0462d47d4911263e30b8f265b10e7cce9accc575e61a917bf2489f31726de1ebc27dba091e5d5ea4cf930cf257c170b007d8413a8aec4ee9d75b162cd6619c3cf120acfbc22672c56526609f58206c356c5006516f8565254c95c547fa7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e1284cd686c10bc943a1655c8e097e1/9e1284cd686c10bc943a1655c8e097e1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 6",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=72616",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f63a1f6795f791c57703c048c81ba37db974fe8b6d0d0f159c3f3b1a06dfae64f94d0a8a0e66dc68d87005c075ddce723aee22896f13978c19d58a55347f92ed8648c3830a2065897c14c00a290c16ef2be5b6b56279465f2bc14f5de149893d0bce0194acb7c44d86b80005e4de60cb77fb092ca92fca12be39995aa33b74a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/152ab37c5d051d8154fa333f3880cdf9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f63a1f6795f791c57703c048c81ba37db974fe8b6d0d0f159c3f3b1a06dfae64f94d0a8a0e66dc68d87005c075ddce722b87831dbc8c1324f6e1a5546f85f229a70bb8c32a73e56e1c10d5e7f5c4337d1fff750319283ea5c9bbf20656323fe07d2b3b40eab5665d3a074f5de20c3130f0d012a948bc2e2dc0a733910a04cbf3056866aa4a7d962d921d9face4e2287a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/152ab37c5d051d8154fa333f3880cdf9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Village-Destroying Chapter, Part 7",
+            "episodeId": "higurashi-when-they-cry-gou-1518?ep=72617",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ba7ddfb75ffc8cbb490c251dd48df8cc9c0b1673416d73b87c34ccc58c5bfe48b59b4efc2bd0888d8f9bd86fcd92bb242d734bd9d4ff598718b788c7e9573414d91625098983ad13bfd720b9a8e35d8320ff830269532d3b5c13bde2cf452e53ed3f73aa39b35603e9c89feec2e0570fcc3657dc0e6ceef74390a823b28bb638/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5c0679c776a3ce6e5f830867d932ea0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ba7ddfb75ffc8cbb490c251dd48df8cc9c0b1673416d73b87c34ccc58c5bfe48b59b4efc2bd0888d8f9bd86fcd92bb246deab8361e08b61c858fc5d9b67a94bce8ba017d1827b37666c9a1bfd95378c0ab369249124b45aa6881c47557e80b28d15a9b1cbbb1f4648a171fec5d1823fce8f694a17f556442a50ac39d59f0169ad2bf464e06c0a2e0914f4055f8f3723c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5c0679c776a3ce6e5f830867d932ea0/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

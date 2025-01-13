@@ -1,0 +1,109 @@
+{
+    "info": {
+        "id": "pale-cocoon-1992",
+        "anilistId": 770,
+        "malId": 770,
+        "name": "Pale Cocoon",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d28798e323b1151e89afe3f13355baff.jpg",
+        "description": "A future where the continuity of history has broken off, a world of enormous ruins that continues endlessly. Oceans and continents have vanished, existing only within the archives brought up from the remains. Ura works in the Archive Excavation Department, which restores and analyzes the data left behind. One day, he finds a disturbing visual record... (Source: ANN)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "OVA",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/2gx0MJWeOTs",
+                "thumbnail": "https://i.ytimg.com/vi/2gx0MJWeOTs/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "riko-26197",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6633a6743c414a485378984d7bf1d265.jpg",
+                    "name": "Riko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shandra-schadt-4245",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8f27baaefef06677acba9d41b44e7131.jpg",
+                    "name": "Schadt, Shandra",
+                    "cast": "German"
+                }
+            },
+            {
+                "character": {
+                    "id": "ura-26183",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/900d2df644b05a951fb6f44e5a7073ff.jpg",
+                    "name": "Ura",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "michio-nakao-7834",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/17bf16314c7eb90d4157e64a729fabdc.jpg",
+                    "name": "Nakao, Michio",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yoko-yamaguchi-36006",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19c0304052703ed5d0488b8bb4ef1b82.jpg",
+                    "name": "Yamaguchi, Yoko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuka-koyama-6452",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6e5eb82ae7a84706996da7b5f1f8418c.jpg",
+                    "name": "Koyama, Yuka",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ペイル・コクーン",
+        "synonyms": "Aoi Tamago",
+        "aired": "Dec 10, 2005",
+        "premiered": "Winter 2005",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.38",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "studios": "Studio Rikka",
+        "producers": [
+            "Directions",
+            "Studio Rikka"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "pale-cocoon-1992?ep=58317",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/886b87186a014e7e4cd10547569b404503fead21f1b7acd0fd4186432ada2d9991e05c8f385574bdcb3e874b19de7dc0b88f137b3a291418f3947e9899d547c94d589284691d2c867c22b950a14a6ae0b4700fb3f79d14d2ef9978f689df8b044113cf7569c844d77cf57856c6c3761a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4178381b8349e8affa101c220acefd4/d4178381b8349e8affa101c220acefd4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/886b87186a014e7e4cd10547569b404503fead21f1b7acd0fd4186432ada2d99c4825b655ea62de0de6cccb2d1c0f18822d749cb2cf74f593ba74ee23e1b540765e73a6dd2c56f27944085fdcab5d30e16a6217bb6fcc60627f468bd85e335168c93c064192908cc3ba9b61a0d5cdd82f0057eca5a8dde7a72631e82cb1a326d61d3253e401cad8424613da247991afe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4178381b8349e8affa101c220acefd4/d4178381b8349e8affa101c220acefd4.vtt"
+                }
+            ]
+        }
+    ]
+}

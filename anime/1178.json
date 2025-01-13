@@ -1,0 +1,374 @@
+{
+    "info": {
+        "id": "new-game-1178",
+        "anilistId": 21455,
+        "malId": 31953,
+        "name": "New Game!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1abb426d71ba33f19bc8f62082ca9aad.jpg",
+        "description": "Since childhood, Aoba Suzukaze has loved the Fairies Story game series, particularly the character designs. So when she graduates from high school, it is no surprise that she applies to work at Eagle Jump, the company responsible for making her favorite video game. On her first day, she is excited to learn that she will be working on a new installment to the series: Fairies Story 3—and even more so under Kou Yagami, the lead character designer.\n\nIn their department are people who share the same passion for games. There is Yun Iijima, whose specialty is designing monsters; the shy Hifumi Takimoto, who prefers to communicate through instant messaging; Hajime Shinoda, an animation team member with an impressive figurine collection; Rin Tooyama, the orderly art director; Shizuku Hazuki, the game director who brings her cat to work; and Umiko Ahagon, the short-tempered head programmer.\n\nNew Game! follows Aoba and the others on their adventure through the ups and downs of game making, from making the perfect character design to fixing all the errors that will inevitably accumulate in the process.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/E8JGXixftYQ",
+                "thumbnail": "https://i.ytimg.com/vi/E8JGXixftYQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/-5jO-orwaQE",
+                "thumbnail": "https://i.ytimg.com/vi/-5jO-orwaQE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30 sec. version",
+                "source": "https://www.youtube.com/embed/pgNhNIBhgRQ",
+                "thumbnail": "https://i.ytimg.com/vi/pgNhNIBhgRQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15 sec. version",
+                "source": "https://www.youtube.com/embed/D7Jzdu6icD8",
+                "thumbnail": "https://i.ytimg.com/vi/D7Jzdu6icD8/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "aoba-suzukaze-1122",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/84cff2c594cf89dbbf89df6493b76240.jpg",
+                    "name": "Suzukaze, Aoba",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuki-takada-698",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/17c94d004ea3e1b83547c314f7bc0b0e.jpg",
+                    "name": "Takada, Yuuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kou-yagami-1550",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f07f1bba9e8c1803aedb53400a755563.jpg",
+                    "name": "Yagami, Kou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoko-hikasa-46",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0f4539ad1175c16fc66aae699c20ce63.jpg",
+                    "name": "Hikasa, Yoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "umiko-ahagon-2872",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70134070ba51750f15b8be3fb947108f.jpg",
+                    "name": "Ahagon, Umiko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "chitose-morinaga-1882",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e05a027037485af8f0a1d4275e65004.jpg",
+                    "name": "Morinaga, Chitose",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aobas-mother-84574",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/33d896948b43c75dcbcae385123543e8.jpg",
+                    "name": "Aoba&#039;s Mother",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hibiku-yamamura-1260",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2d2dff0f9f9cbf5b251fe6e0826ca7.jpg",
+                    "name": "Yamamura, Hibiku",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shizuku-hazuki-8185",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/987f281bbe0468648303007dad61b8eb.jpg",
+                    "name": "Hazuki, Shizuku",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "eri-kitamura-69",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb6266b14443e96793d946122a4c9529.jpg",
+                    "name": "Kitamura, Eri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "miu-iijima-50359",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/28d2a7de80294c74b52fe5a29a2885c0.jpg",
+                    "name": "Iijima, Miu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "lara-woodhull-3302",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/be207e2b40f42a7532fc1a29d486ed28.jpg",
+                    "name": "Woodhull, Lara",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "NEW GAME!",
+        "aired": "Jul 4, 2016 to Sep 19, 2016",
+        "premiered": "Summer 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.64",
+        "genres": [
+            "Comedy",
+            "Game",
+            "Slice of Life"
+        ],
+        "studios": "Doga Kobo",
+        "producers": [
+            "Frontier Works",
+            "Kadokawa Shoten",
+            "Movic",
+            "AT-X",
+            "Delfi Sound",
+            "Sony Music Communications",
+            "Houbunsha",
+            "MAGES.",
+            "Lawson",
+            "Doga Kobo",
+            "Funimation",
+            "Crunchyroll"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "It Actually Feels Like I Started My Job",
+            "episodeId": "new-game-1178?ep=17897",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/660ca028582662021deb72801cb77da495e3ce2ac88b59593adeae8e11d6b55b3bde006ffa6a12791b3f96c08a1df30317491fa7c432fbf438bbeacf9906230aef1ea43e697bba64dfcba2575984b38b2ef6fdd51760325ce5010b6e4a0cfd05a9938b8d99d16fb3ec2c1a75bf7b708dcdcedccdc8d8b6961dfc6b1e8fc68236/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3a679c6ea00040f1bb05e0ab7150963/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/660ca028582662021deb72801cb77da495e3ce2ac88b59593adeae8e11d6b55b3bde006ffa6a12791b3f96c08a1df303245a70b7e796aeb7bc7c4e6861ab9936cbd69966a6412012dd16d0cc94129aa794bd6d587e89b88aa4368ebbd8e1a19d10b8e8fcf205bd40cec7140ca98cfdc15267d588adbf2a7666ecd4f640f44da5e883cddce58f7a13cdee53c85247d81c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3a679c6ea00040f1bb05e0ab7150963/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "So This is an Adult Drinking Party...",
+            "episodeId": "new-game-1178?ep=17898",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/60e0f87447b7ad85bdde5d04a756f26d3c708054350dd8f8ab4c6a2a8f214171b76b9c382800cb0cae19b12e5c45f634953b5f8a72dd13b77fc88f69e7097cfc103697ea4cd1d5d81316e749cc09d0b372cf74449f1d5e281e6045d116ed8472a62b6f07bb8fbf74c4ed2f53b6aa1c4490ba5c3e5b6cb89aaa349034794eed03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89b917d4be52668c94e239934711441c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/60e0f87447b7ad85bdde5d04a756f26d3c708054350dd8f8ab4c6a2a8f214171b76b9c382800cb0cae19b12e5c45f63408a3ebfa203795a71782c1c0a42582dddb4ecc50b4e7b25400dd4b700c2483e0766fc94668a11435bd2dbae481b6257aaf2b8f71262019ed0f039d1179fad50c5d4528eebecc57eb6930ae27f01a8d5cdc10ca380b8cb866d1fe1cf4adc352ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89b917d4be52668c94e239934711441c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Happens If I'm Late to Work?",
+            "episodeId": "new-game-1178?ep=17899",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/88f4dc8006f53e821f1fdd8e11aff322dd460e05e665b863c954808e5f55e6b21ce9470f438b40a443ce2674e37f1ccbc37fcab421f0cbd00b79aa759f5d7aa8a270314762c30e2bf3b68bb65d042ddfa3715489ffc97be5aba7488a726eb9423867400c20f63cc1eef925256089060f0e068899c16668ecf4035dda5e6c53a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1479c72bffdf5f7c27aec48c5566e19a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/88f4dc8006f53e821f1fdd8e11aff322dd460e05e665b863c954808e5f55e6b21ce9470f438b40a443ce2674e37f1ccb0305d5609916cdae105f09b54995ce24bc7fb3c31de55f563382ff14ca4098a4c81e9c46f043aa54be6dbf1a501d27d2033485dbe9b791a49fef3b84213ea44a62f779df60deb2dc05fbc65a6bf094b590ef537dc1d46c4d35a024067cb752c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1479c72bffdf5f7c27aec48c5566e19a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The First... Paycheck...",
+            "episodeId": "new-game-1178?ep=17900",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5baa6a5a2815d9f98b794d8901eb5639f610dec13d8dd9e1bb57ad0516f83678f593742cfebf0c60e3f420472600346182b1bda809087e6421631ad37a9bae2aa773db4311599e7d30f00d3282f9c539733722812f39a496e8c07b2587fcfcfd79ec0c542ffcdd0791dbdfd1332a64b0433da6526ffa119b669c2902758fa0f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40587933777c9d74ea2f07b6a57d88fe/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5baa6a5a2815d9f98b794d8901eb5639f610dec13d8dd9e1bb57ad0516f83678f593742cfebf0c60e3f4204726003461522efa5a4fd26ce70636f4ee7ce370b45a8f647f794bdbdfab52a222b600f17f033a6beddfe4f6c87643cede49c5d16734125a23a48c868357bd58b436c35b373a15f4b476eca994d905d361c54b5cec4e18a7fae746e1b6afa46e3b1c5b944b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40587933777c9d74ea2f07b6a57d88fe/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That's How Many Nights We Have To Stay Over?",
+            "episodeId": "new-game-1178?ep=17901",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/12b4e5fc6015e40c2c19015bebb3f7727b90c51221c68a33528195ea7e9772d18d03261d6f96ca1818444369c96acade98b112a083aa57e17ef177e21f44f742b994972114b0750b8d85b5567816ca82d56c642ab8c8b7157f0d9419402b2df328c91f70bbaaa6c4cdc9d0f0d93a18f3e3886b038447ce12f5a7750495da54d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73be58a5c5af9cfbd92ff2dec6aa7222/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/12b4e5fc6015e40c2c19015bebb3f7727b90c51221c68a33528195ea7e9772d18d03261d6f96ca1818444369c96acadef43f35c7da70eb1c249ed82e8f068f7342eec6e15a0db738dd9893eb6b9ed3be0669fc2bf312e928929d3d6bb225f558287fd13638af552a328300b246d104c79424c8e85da57fcb5d773fecb704a301e3bb83410f2e69a9cf36ee0948cae04d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73be58a5c5af9cfbd92ff2dec6aa7222/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Like... The Release is Canceled?",
+            "episodeId": "new-game-1178?ep=17902",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b0d5a087b0dba99aced26a470acaa27350c6e7e9158a1190ff5a9965232ce7e7367001513eb88ab6404848ea012514eb4671f583eb49ef330dd1946200f24a260d028ded390beec892c8e457f15ee9c483b1c58ceac332f0894edded5ce0fd8cd8f474ecff3b19e291957fa10bf42c657c094e985b3f10f008b026bc3bb15076/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdf5e4dc695acac4b29eefd338189ad4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b0d5a087b0dba99aced26a470acaa27350c6e7e9158a1190ff5a9965232ce7e7367001513eb88ab6404848ea012514eb4ce45c807880238e511a88daaf6c261ee701aff8e487ab408f8f77c3e233f68743e5b1dd8b972e7a3378e0a5d5abc7b1fe1d888d2112d89b74e106b6f6443f41b333b3efc6c68949969396bce6a56649276a94491fb583fcfd947f328b7e8f73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdf5e4dc695acac4b29eefd338189ad4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Please Train the New Hires Properly",
+            "episodeId": "new-game-1178?ep=17903",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/00c02341ddfc01fc8d206bad20d5b08865195ce435ed7da29146c31e5295ea85b36365e26e7ee89917ffe9f2afa990e4ea53fe7eb0d6ca3d65acb02dce787154c98b0d3fbcfb92e5c32d151c7d9db21e5e7d4d2a37ff6afb1669d13613dda84e6509774604d1c361e6ec100fff3bac72d4c84b86ee514c03bfa19f6dc5a81ee5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad85699627c4a9caa4d2f7985ad26fd1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/00c02341ddfc01fc8d206bad20d5b08865195ce435ed7da29146c31e5295ea85b36365e26e7ee89917ffe9f2afa990e4773fd6469b005b57dcdc3c82a708cd882611a79f6218c71ceb40db750fb9e47ea85755cb065f0348e5bac0819835f5e32b4be52f736b9d1a6568f4269ae8024dc39706e23a2c7b1c448207ae6dd8c9ede4727d580d10cb74eabfcd59b71f93fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad85699627c4a9caa4d2f7985ad26fd1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Summer Break!!",
+            "episodeId": "new-game-1178?ep=17904",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9f7473c0e0fa4cc45dea9e73a23406746acb5c9fc3d638ef2d26872f5fafe8e7bb9ccc3cfecb6f0358ffb83f307a2dbf53e61a8d3e1b015061870075554f7689ff4c50485287871f6802bbde64fb752378947bd8222011dfecf7827740ee0d1d98604cb09cb5b7840000f062b533bc3f333074fed28dff408eac08f75ab7a384/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/283e1ba1794379a367c1ffa011a83424/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9f7473c0e0fa4cc45dea9e73a23406746acb5c9fc3d638ef2d26872f5fafe8e7bb9ccc3cfecb6f0358ffb83f307a2dbf84753dfd6bd88e4cfe9d49e288013fce24a6084183cebced58c503baac47cb23aaeb2848a82c58c4558de8fc77afeb7109858ecbab849dcde54a7bab956ab2f36ffb8c2470b8a1c352ee0aef172d5d55bc8573324503add9c0c7edb2c54bb002/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/283e1ba1794379a367c1ffa011a83424/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Do We Have To Come Into Work?",
+            "episodeId": "new-game-1178?ep=17905",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/458bdec6d68e95bdf44efd8f02fe396dbfaacafc8adc4a50b5721e0d29f5473b3c64ef98f87fcbdb1ab5b5c08b418138c536b60675d75aab04dc9d0c4b19b81fd9963d495243490caba300fc7f2b4e3deb280e4785d5574fa086953600ab0ee306426e838272b394e1dadad433d6b639509eba309e173f5733d67cd73c0efe0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a794e89a7ca299eab99c96b2df0dda2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/458bdec6d68e95bdf44efd8f02fe396dbfaacafc8adc4a50b5721e0d29f5473b3c64ef98f87fcbdb1ab5b5c08b418138721a86fc4ce052ba1e9716a01d03f3c9e56695c85563c9fd52f8b155f27fb27d4969028a747cc29aaa42fd8d7ae5fee631b0e0bc4732ba94fc53944331b64923443b6c0ed831da7e38f3e6190caf4f505b67a51487e5e90f6fe4abd67c77d398/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a794e89a7ca299eab99c96b2df0dda2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Full-time Employment is a Loophole in the Law to Make Wages Lower",
+            "episodeId": "new-game-1178?ep=17906",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/583482f5347429f1bacbcbbf554a56ae473008b222ae6a69303b741c86a7ad7f20bb4a6651f497d14c827298a80baf206e3e0291ecb415c2642edb7ad0626f0fc5b383bbcfc95e9b9fda1a87fd007502212f790b31817ed7c644589029bae2238fcb33db73aa017cae339e606ff792bf044e71d565431e72349e66b0a2af0e2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd01ef0ff939ec8c4ce1f53f8cd82c29/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/583482f5347429f1bacbcbbf554a56ae473008b222ae6a69303b741c86a7ad7f20bb4a6651f497d14c827298a80baf203b7f346ce315a00ff407936629ef6789520e0404966a0170ab7a57fcb8ed39d5fd4f8f8a1e41a77dbfbef7f5a944dbed8cc4e952a2488dfbcf45843c36ef0a97e2842ddaff9ebc8fe503faae2643cc2b85715ba40f549ce09b22342a60523edd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd01ef0ff939ec8c4ce1f53f8cd82c29/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There Were Leaked Pictures of the Game on the Internet Yesterday!",
+            "episodeId": "new-game-1178?ep=17907",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/02596c07520935625d04ae1b891f47d0d1a3bf983dfd0c3c7d3f72b814cbadfa5590f8231f40b4c22e154683a974e1333815530b9caa5e39d695abf0820e129839d77b5da3cda25355560c208fd36f8895e4a19a87c46c777d307e040585e227840b2d5013187f54cd5b018d2c62a90f9b84a0d2fe4caf403cd687bb7d7e8b16/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f87976dd3656908821c395aed52b9dd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/02596c07520935625d04ae1b891f47d0d1a3bf983dfd0c3c7d3f72b814cbadfa5590f8231f40b4c22e154683a974e1337052bb6f4a3579fc7e11c680b80dd04aadbfa87736b06164c66efff094424f196c8e7f8df26deed373331887f1a58214e70da9e248aa84f6113685fc28d3b1e3f46382333e0e58edca918096f20dda874a6f040c0572d1f5c2d6f2dd184fe5ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f87976dd3656908821c395aed52b9dd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One of My Dreams Came True!",
+            "episodeId": "new-game-1178?ep=17908",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e4bd617e4002d5b6f2ecae315e69ca4b8098fc839dadbc6cc9885731f182cd00ac71f720af45f0d36aad73a941863592c030f3da9a34ebb23d31fcf881e6f61e51176c2d656367442d6426443ff5f2a1bc2f02c1eaf0f5f30443bd9b9a9978bf5aa3473f86ca2cd364579ec4ba02103b2e7990ca68273a330e94ba2ca976970a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6028daeb26358a68fea342c26c9f6f1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e4bd617e4002d5b6f2ecae315e69ca4b8098fc839dadbc6cc9885731f182cd00ac71f720af45f0d36aad73a9418635922c719abd7a5e1b7e4ce4dedad8da056da21ba6a2b085e81c6badf3003f7416d59d0bc89796275b86648aadf96710a968ba5525614e75639b2a62038d984b67edb08da5ff57859002ffa806111a7b6cc1a740df44e0a8c9c5dfba708731b86724/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6028daeb26358a68fea342c26c9f6f1/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

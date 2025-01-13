@@ -1,0 +1,578 @@
+{
+    "info": {
+        "id": "rage-of-bahamut-virgin-soul-1645",
+        "anilistId": 21184,
+        "malId": 30736,
+        "name": "Rage of Bahamut: Virgin Soul",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1dc8d9350f80e28fe21117ede19d6b6c.jpg",
+        "description": "A decade ago, humans, gods, and demons joined forces to stand against the threat of the colossal dragon, Bahamut.\n\nNow, in the present, humans living in the capital city of Anatae have been enjoying lavish and prosperous lives. Their progress is largely due to the administration of the newly appointed king, Charioce XVII, who has stolen a power from the gods and allowed for the abuse and slavery of the demon race in the capital. As humans continue to immorally exploit demons, a sense of hostility against humans begins to build up within demon communities, threatening a revolt. Meanwhile, an atmosphere of uneasiness is spreading among the gods, as they scramble to regain their lost power.\n\nAmidst it all, Nina Drango, a cheerful young bounty hunter, has arrived at the Royal Capital with hopes of settling down and earning a living. However, her peaceful life in the capital is quickly thrown into chaos when she crosses paths with the ominous Rag Demon who is determined to seek revenge against humans, and Kaisar Lidfard, a noble knight battling an internal moral conflict.\n\nShingeki no Bahamut: Virgin Soul continues the tale of the social and moral conflict between humans, gods, and demons, and their struggle for survival and dominance.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/XSczPBZeNRc",
+                "thumbnail": "https://i.ytimg.com/vi/XSczPBZeNRc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/VLGIo8PcoNk",
+                "thumbnail": "https://i.ytimg.com/vi/VLGIo8PcoNk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/ra47IXw7tqU",
+                "thumbnail": "https://i.ytimg.com/vi/ra47IXw7tqU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "azazel-2892",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d1c2f5ecc93ad9d2f5b6ef756c2901e.jpg",
+                    "name": "Azazel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masakazu-morita-245",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/59d50d0741ce6daf07c40be6e5f99f0f.jpg",
+                    "name": "Morita, Masakazu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "charioce-xvii-3715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb25aeb14c24b9709f5b6f2b5eca6630.jpg",
+                    "name": "Charioce XVII",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuichirou-umehara-271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/690b0116ef469b40712e84457afa42c1.jpg",
+                    "name": "Umehara, Yuuichirou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nina-drango-2958",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f0d2993b7cfa9c55be08c086caf63bd.jpg",
+                    "name": "Drango, Nina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sumire-morohoshi-466",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d506cca3430f7b59b5efff06c499ff70.jpg",
+                    "name": "Morohoshi, Sumire",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "favaro-leone-1325",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ac0974edc7b24491b398fcffe17f0a0c.jpg",
+                    "name": "Leone, Favaro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroyuki-yoshino-295",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0316ad1ad6049a60b913406f0f9efb43.jpg",
+                    "name": "Yoshino, Hiroyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaisar-lidfard-5929",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51e56a39b7f8f178693da68ac27ab999.jpg",
+                    "name": "Lidfard, Kaisar",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "gou-inoue-1791",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b078826de4b900ac86fbf1c4c5576560.jpg",
+                    "name": "Inoue, Gou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bacchus-18593",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0d77c576e1ce16fda7ad0cb5d7f3f5a.jpg",
+                    "name": "Bacchus",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-iwasaki-3156",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/48947f63548ddd2efee1e61b62dd244b.jpg",
+                    "name": "Iwasaki, Hiroshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "神撃のバハムート VIRGIN SOUL",
+        "aired": "Apr 8, 2017 to Sep 30, 2017",
+        "premiered": "Spring 2017",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.48",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Demons",
+            "Fantasy",
+            "Magic",
+            "Supernatural"
+        ],
+        "studios": "MAPPA",
+        "producers": [
+            "Cygames",
+            "MAPPA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Red Dragon",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21679",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/eeac8abd852515cc31cdedf1f5b0550366a8e491cec83eef311d46ee901002f1290116055d493cfc876e62e241f051d4416cd2dd531e879dfc89ba28304705f397f71a9c71b31ab25e68acc09916aa6dc9b3b6bb17fb2bc2a4accbd952b06f2b131a5f5a9f3de037194ab3ee8ee7bd40c9a2cb51a49c2eece91bba6451a2d0af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f9780e82228c1ee950b5ec0370060dd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/eeac8abd852515cc31cdedf1f5b0550366a8e491cec83eef311d46ee901002f1290116055d493cfc876e62e241f051d4dca41d9b1479ca373c5d4abf525bd8d9ebf32f85cbae480337b061e07c87f83c13e6645c3ad1147dd271dd3f6cc0a38b91c2a742240af27fb771d3894114fb2fd6394742ab2aeaeaacde4829e6b57577458acc284bd78992e0c6ac17e3a3005b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f9780e82228c1ee950b5ec0370060dd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Miserables",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21680",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9da36faecde3c550f5de852ef1771ece7ddd58d0b677589e460780f66111e6a53a853caeaec07ea1f807f4f485f6c6e29677342b47ad3c8739b7aa2ee12a62d679db32d133090efdc4cae7e19e768daf6c86bdbd0db5ab1e66c0e353b7b4eb0cbc8eaa79d861053d41fa500e7fee8169381ae280f64042aa4345ef69488eb03d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21b530acef7676511b77fe5805f69bf9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9da36faecde3c550f5de852ef1771ece7ddd58d0b677589e460780f66111e6a53a853caeaec07ea1f807f4f485f6c6e2159a5e80da8d5640162e2be9147ccbe823cc7d6e29225563f0a19bb5aa4fa63e737ff2f2e039cf71fa9ae1c79a274aef3694382e88cb5cc9232c83038b71c145aef59bcaea551576ab76216205dd0f56afaf16ee41e1cac9ba955f67085affab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21b530acef7676511b77fe5805f69bf9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Close Encounter",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21681",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1782fcf228bc7fd674655996b52622af8f9b0561a82c7ae198a9920ea2a75ea217807b667eea6a32d57115dddf6e23d4bbd4aa8c6f669ab7e72f536e14b750c1f69c5848f29a49462e546937abbacf20f1d9b1be40959effd20c3216fb3286fc7928d0f5af6bd95b50cdbe7bf2eea5fc9dcb4862098fb2f7b319839dfdb799bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c333982f7bd7083b819d68eb04c3cf02/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1782fcf228bc7fd674655996b52622af8f9b0561a82c7ae198a9920ea2a75ea217807b667eea6a32d57115dddf6e23d4b94ecc71c1732d1495d17c611374f3f73ceb71b5e5817849f22e31e4928becf5aaf6becc5ecef0f1d4844a6a7a7177e364c2e9ec4f2969a9ae21425fdaa331024a2d524fb4416903fd24ed55eac4d92b2b877e1b8cddc6790de11bc266f6bd6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c333982f7bd7083b819d68eb04c3cf02/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Firestarter",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21682",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ea51af431394bc4706d4ec9104b0982865d3d766ec76907efedd7f500d3faa4dcd8e14ce040b1d205403dd9b3a068b04825055fb49ee2d972c9518cef7a612609d4641a873b2bd34bf1150d9b4fc0875c5510daf2398a835b4ca186f5a45e2ed079418585a105ee1f05e77be5a4059dcb217e14f24e9d770836479a98e8a7f42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/194ce01158c534426e5c44d6890bec35/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ea51af431394bc4706d4ec9104b0982865d3d766ec76907efedd7f500d3faa4dcd8e14ce040b1d205403dd9b3a068b04f8a0e4183d3c9d6e40a9e1de06d83ea03383500a2de8d1c5c86f964ac3c31f3aff05f0aa71ff492f37064a66890d56d7b71fe4802bdb4b4de3ad6359526aec927dde2c26b4f1a72d5d59f28cd8104e4f9a270e319a1918c3a88b017286fb775b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/194ce01158c534426e5c44d6890bec35/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Those Who Won't Give Up",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21683",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1d5e6444fdd409c735f0858acf8cec7b676a3b0bb89dc86f04ac80a273312f59ab299c2b96aacc98545b9754b9c94c359af08b194671b200f5b7df316b138ec686bd77809d9dd24ff1aefef5c83641532fc3ca125f04ce1d880edb7c9ad8d6db05259d55981f0cd5e5b2498b2757e4e7704b934a0bb01f9d2e3b685f57cc90c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/003a357d8a76b663dbc639e656fee187/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1d5e6444fdd409c735f0858acf8cec7b676a3b0bb89dc86f04ac80a273312f59ab299c2b96aacc98545b9754b9c94c351f627efe3b7962a3fa7d08615c54db9c18b16ae33d7a80de66e91267afbd3ddd82fb42a6a5092da128e5d484974d8a7038b8208243b651aa5a8a011c938c190480f1f08c5a76fe65268037f242ddc14cce1bc230a5a295336909e32b72838650/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/003a357d8a76b663dbc639e656fee187/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Anatean Holiday",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21684",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/dad1cc4fda2133a5b9cc172f994021e8414379d324d03b23c475518f3f1db7d645dd4c9345d0c79b614d3beceb8700ca9f31b2bbe3170a544f78e0e8fa23bd29d0d339bcdf5424560b62063ff07e72609cf523662f3858652334dccf22e386bfed6dd5476b0beeb914c81210e090285a384124adcfe752d431982a5d560a8224/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe7e4bf6904e14641a8cdf074cdae88a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/dad1cc4fda2133a5b9cc172f994021e8414379d324d03b23c475518f3f1db7d645dd4c9345d0c79b614d3beceb8700cad4872d2a6c4032104192175c8d3cfd74f64e25d3bc1d7ff546496d004ab21242932ab5fcc73c4ac4c9e6eddd8b5e61e920a4146e81f784aa8d958c34b25d44ff0f98fe2ed14afacf15ce75152553b69460533081440737447cceccd2470c9c76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe7e4bf6904e14641a8cdf074cdae88a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Day of Victory",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21685",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0000a1a1a2e92b0f94b9750e250ee65857c00a8bbcacd285aafa20efed67a9d3869c9c5c9f98db107cde3a0e93c4e867c29e921f3492b18ef0833f5d0bc67e3a6373e7b1fa2ae37939537fe1c6a18031c24d8ec1a7dc1ebbe74a633d700a70a460a29d9c60d3547e3430338458df6a24354e2a40ed3b4660edb32f01151f59af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0af9adc9673ac05c09f990fe473f2d7b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0000a1a1a2e92b0f94b9750e250ee65857c00a8bbcacd285aafa20efed67a9d3869c9c5c9f98db107cde3a0e93c4e867bf9013f64adc8dd157b4c71944be34fed521c706bc6513e73ca4a185adf1012827a7850656854c8660b367f4b16c47db33a4316228791eada1354a37d8852444c210928f50ec6c8bf1d930e376c4d82a18f19e80ce16149027dce3e7cefe239f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0af9adc9673ac05c09f990fe473f2d7b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Day of Defeat",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21686",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/87a43f4afcce71688358ecab7bde17c93fd7880071718266992e27c3ce153ce1f92c48a41c370b7dcb3c3d9d42c038e60ea68aa0f5b68ea7dd664c8952d2a4e0188dcfac31fe6cf41696bc6d8e3f008bad365b4afa3836441379bb2c61f8267fb16c01070d72631b1b0d5220a44f46f315d6f2d5983f6947adfe1d1fd63f067f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c339dbcb451a8dd9f4449a76136a9f8d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/87a43f4afcce71688358ecab7bde17c93fd7880071718266992e27c3ce153ce1f92c48a41c370b7dcb3c3d9d42c038e63a6a73fbc722942420cc3e28d81d0dfb9b02cc6eb4b9e1a08b7273037060afa8e8f286119258ddb3deba32a1bec96b82bbdaea14d75dbab0204222b3aef933dd7c73c46d40a1a33c6b52dbf07da14dc3dfafe06c2608e3fdf614e1cab84a2874/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c339dbcb451a8dd9f4449a76136a9f8d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Same Old, Same Old",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21687",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4e5933e722c3d9c39abd91530c9670101d0cc070a8d5de29e5ffcf484f29cef088b98f817c1800ec68974a79107383f61c758e4373892c36c55c4825b4d76c6381dd5768ba6083d719820fd4011b535cd6ff8c9f7245795006856b06e1db1eb5ed6d46a284bf328ee132ab6ead12b863727532ae9ab0e981444c0e91e233524e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/862eae5e5c39ea97d82e403d47923b44/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4e5933e722c3d9c39abd91530c9670101d0cc070a8d5de29e5ffcf484f29cef088b98f817c1800ec68974a79107383f629f693b443c6d2183978fbbef79fe5934b460a93328adbae1c266d842deac75b007a1290f20fcab6fb4f752c571e1364d9cad77d8749149900a781458b9e9dd3a71fc33fe7a8ea54cb565e7d1dc9ddcaa9941d710f8e89a44ae8ec5c977865ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/862eae5e5c39ea97d82e403d47923b44/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Way She Was",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21688",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bea8eb6ae514334fd8ca2abd452f51dc8a195f6c988233805f82ba33fa8ae8ff4e685b158d086c77fa275c542c0bf1af43c27392687e5d90fc7f9d73f05b592b6af00829b0364961a1d6a924697976c6f25d3b779e8c8b01beb5c6985368674216120d2d230cd80080be1466fc1e773003f9056827f0c171de49a350af4bb639/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21f14519c04e6b3b13f44a1a737c209f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bea8eb6ae514334fd8ca2abd452f51dc8a195f6c988233805f82ba33fa8ae8ff4e685b158d086c77fa275c542c0bf1af8a206d0a2dd119f63c2c843046a725dcd4efe31a5dec1c068e822a236f3db8b34a393616be0451a304b9e1b2f292169e594390df75d67990006e1bed3e2f94646c6c1bf8ac5e1b85fb2b72b67ba79b4e7051f7991e00561c95a483ba8a4d8870/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21f14519c04e6b3b13f44a1a737c209f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Declaration of War",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21689",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/71f2d9a5d23e2ecaac6622e781515ba1f1395c1729806986486e909308066a337449684efb75027979cf18c5c48bf9525c048964773921b4b67e212e5e232380c2eb349b1e10e4e6eaa361c1371073a1b877b043ecf66a1b5882cc2313b6d88c5c65a4c91ed6167fe0c7d4b9cc4d60d00966604561801ab8333a2c5e6530571a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a94252a823b15eeb6005495a43e7020/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/71f2d9a5d23e2ecaac6622e781515ba1f1395c1729806986486e909308066a337449684efb75027979cf18c5c48bf952cf163edc97076b51150dfb76c4964584255990a6d4538f097554843b469a1aaab8c73f98af68792299f6814dbb2bd0c963c536de617f5d1a5def4651d44101d65b5c707829713d058323356cd68ecd99c97144264bf248a9851f97b72f6adf1d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a94252a823b15eeb6005495a43e7020/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Great Escape",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21690",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c9c1c86807c32390145dcdeee5b7c4fd59b77066c3acc49b8bc950a6d9972c6b3c2143d63abba39f0340c71801384196cc2ee5ce734376d0e785b0c61bb2fe610533d8ad83d30c64729bc3fa4d8af51f155086699bb85d82619420f3d4da5428136ad45535379de0847df123637d302c6c507c82c74ed750ba7b0b749257163f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aa68bdc41ed98b74929e0baffc265df/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c9c1c86807c32390145dcdeee5b7c4fd59b77066c3acc49b8bc950a6d9972c6b3c2143d63abba39f0340c71801384196852676a5deef729863cea90b83ed7bc3a729df65fd4e9db2daad349f6933c504c540b29e7c49ed6da89331022f810ec88ff2563ee440938f2e015f82a837b8199ad2663f306c58f4918a3bf1f7051470bbacf7bf276dabc07c1e08636aa3b1ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aa68bdc41ed98b74929e0baffc265df/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Farewell to Arms",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21691",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/16716ca241186083dc9b767bf5ea15bbd96977e8d169aa2b72475bfb3c38efb15d76a251d71c9adad766289ee9b9addfb033f2b7e1f476ea5d931c5b3b79feae51eeb8e07b96ecbd657a115f3d4edd7c4a184fe67c7437a3cead0832bfde341a1a2bc46a86a3fb58545426cd069c171382c7ce06e09e69a4e4d40943ca33a94d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a3b4abd043f6b82e8302e7a3186157c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/16716ca241186083dc9b767bf5ea15bbd96977e8d169aa2b72475bfb3c38efb15d76a251d71c9adad766289ee9b9addfdd0618a0e20dfb880fe0af3575caa4c01bb795c85281affd754e1fa29f80af113a996548a726c3b8eddf21584c9ff87b8884ac05802a49a72629d6c9d71f25e1db8320a255119f7f2188e705f06ac75291af6841b0302461d42670598314942b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a3b4abd043f6b82e8302e7a3186157c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Homecoming",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21692",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/71abcf983f85c2802e3855a6332c83c98bd6550e9fda514f6667bc5720f8c1266489b8019ba199008ac20f7f1653a40ead82af266b9f215e619568c3b6554c913673dc648dfad4a3265c33d01a7cf6f17382f761e36a7e3c04e86f2a0c7849393c639a384e41cc644473109d9e7f6b74bc53e9e40b875fdac84547cd8c69efe7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41a90f14282c1e0a3255239965d717c1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/71abcf983f85c2802e3855a6332c83c98bd6550e9fda514f6667bc5720f8c1266489b8019ba199008ac20f7f1653a40e7ffd307f5e1f53447ed4ab8f6f4b58a98f8311953521d03387394eefdcc40dde0edc522767f9cdee1f69259e06c7773fd4abac43f7e10b3756aceadb9ca17a103e98a411d01d7b68434f0eadd6e827a97b69e5d1b27daeeb1fea77fdb82efbaa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41a90f14282c1e0a3255239965d717c1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "City of the Gods, Part One",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21693",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3e1d3a48678b5de30ae25932a9ce05b98e6837130aa291c9492dcf38b42674bb7bba2cf1562e0fb68c57f4695bd34662a99835a6a2b6349b1e37b62a28cf73dd405f13a5b47003bb8dbf58bd7f3f64b6e49122dc6383604266f3f745df4f738b1f1ad43920b5cdc22730ed2c8e17c5bb697fe4664e83e7e9bd69bf9d351c0657/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ea4c9c95d791de543fb120e930f7201/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3e1d3a48678b5de30ae25932a9ce05b98e6837130aa291c9492dcf38b42674bb7bba2cf1562e0fb68c57f4695bd34662baf902c883a5645164becbaecede3fdeda81fc07c005589dbfd0c36bf9959ce5a9ea6c7fd7ea6596fa3bed5abd93b03f96568ab6ea670f50fbc775930b7176e4ec9a9be993850156660b1660fe4da393c5753891c46050d3b46b8547562b8a5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ea4c9c95d791de543fb120e930f7201/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "City of the Gods, Part Two",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21694",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0483975ba9cb83d4ead6f0fd0f09bf2dd67ba5e93c383142bf5942109b2367b6652867284084e531760c2387d78e8ca65efb5c8dffd92b9ac1b09a565e363ddda83283743fa6c5a5678c96fa38f7a35d6dc209a06d11b3b608a0e7511c8fc609e9a7c90bef3bdbced8628307ff94a41c35ed60cd3a6a0484d5b51f49ce8a3601/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d1c2705f2dc05879f0b49c6ee7004a3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0483975ba9cb83d4ead6f0fd0f09bf2dd67ba5e93c383142bf5942109b2367b6652867284084e531760c2387d78e8ca610b6609e0f436bae14b7b674d100319ed9477c47c8901a6a6ad0121ce2db88bd54e0fe4320489509482f6db24a5091070bc31b8a5c754cf4c6f27db00d6b2e044cd6e147f7a3821283278722ced31ac6decd12f3eaa47aacf1f9e3ce932a9c49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d1c2705f2dc05879f0b49c6ee7004a3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Souls",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21695",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/91e3a507b98f509d43905bd076b8475cafadedc95e869f3d987619295d9a90028cd2404dab459f9dd3cd4d7b8ff126a78ac28c1ad252bc1b042760f582653d9d6e5dabd71f2f1c5d4154c912ff936bb579d915074fcb20c1cb39a81c180e66083f0286d91f77663c0d70f539f99113337d00af47a11bf035fdf9012127b09d97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b383fd3b48a300b275d017b47dac460/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/91e3a507b98f509d43905bd076b8475cafadedc95e869f3d987619295d9a90028cd2404dab459f9dd3cd4d7b8ff126a7ec2f38cb3a92e8e02a8e105c2c5d9ac667263875aefacb82a63ca36395aef96f29157e263e5f213530c7704e025b55ba5f55aaa4bbe80f6b48137a6a4ea93c790ed6526147075154124b51bfea4fd002db857908e0e4440246f322a854206773/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b383fd3b48a300b275d017b47dac460/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Invictus",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21696",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d69dfec39ecf019fddc4f1fc3b5b446cdeae186b108b4b028788d1e5040789b300df3f35edc6fd26807bf8352a69196da10adaab48459a63b9e991558f7926d3da6ba0085619864959f8fc41a0cbd219da378bd736a2c930065aa66ba09d9213af25117ee234442f299798060f56dc63eb9b6b57334aa9f6047fe7de9c3d1899/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fdcc382c2b7921f2dc8975f41fb8767/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d69dfec39ecf019fddc4f1fc3b5b446cdeae186b108b4b028788d1e5040789b300df3f35edc6fd26807bf8352a69196dce062dfbd3c39bec4a56b9cbe787258101dc09b51fe70ce062d265ca82f5e27fa3e56a483b45c21aac4483776de9ef527bb2162c72109fe66e9e0c36d69ada35f62b09383378267230e043766ecf703de34db7067d9055ab1f1d30604ae56188/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fdcc382c2b7921f2dc8975f41fb8767/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shall We Dance?",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21697",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d92fa9c68d963cddbce8328cc4787ca4eead162c58bc8601c574022ddf01ebafd8863346a76f4daeec17a7109bbaf672da649f1b83adfbfc58f75db79cd0170e10fca42c2e8258d5da507aa9f0f2010c4277b681521c5600b1fc459bac0a4cf7060e35fc5c25e3a310c2df2d03086343d189c32455a6125a4735b525d91e4807/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd23029035cc2701e50d2afb12652666/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d92fa9c68d963cddbce8328cc4787ca4eead162c58bc8601c574022ddf01ebafd8863346a76f4daeec17a7109bbaf6721516b52f176b84bfa983817a0fcae13e5a9be63e211f2cfa22e802072b460facebcca409082fde659abe6662be9b46d700dc2637ddf2e89e26558a94abd3e40ad0e00ce48ab4f2cff2535f0e4cb6d13b4578c6e1f9af692261f88eb3932ddb30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd23029035cc2701e50d2afb12652666/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "From Heaven to Hell",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21698",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7ea6db4f87a823718744ad54aab92cc20a8901f50ed80155b77f147eabf7f78762a2ceab89c54a890a054aa04da7f51ac5193bad272a2be5dd7e59ce59684798428977c8fa6091aac7d251b34a84a05233ce4c3c9bb64e49796b7bc548608c00f8d411fad2b645e25af3e863c0e4b1f4f5c802798a4034ce42de1998aeb15682/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/339a6859c1821f0bffa4977e616796da/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7ea6db4f87a823718744ad54aab92cc20a8901f50ed80155b77f147eabf7f78762a2ceab89c54a890a054aa04da7f51ad851970144e1940497c43fda316eb2b7c508a3c1eb3bca97bfa7f1b1f29d9a0ad0ccb7577f26c67bd372857ec89771cbcadc1539a62d92de523cb9263144e0bce4d9849705e2ff1a95623e305325e8ea12223e4ac4c9940bc2917c7655148b8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/339a6859c1821f0bffa4977e616796da/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vengeance",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21699",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f303da817da89bcf84606fd00cecc208268389942aa28caf7893a298481e9109c35e99c9effebd0c8cfc91a93389b0698bbdb31bbc58e324de7a27b93d04c29808b70e293e5b0da2379f576d5b0c872c2970a78581567c02c718e17658e4b32c697cc06478d9efec79f82a7a042ed674f267fbc5537e99219bd710494ec20624/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a364c69c0b490db2a7be4dc7df148b6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f303da817da89bcf84606fd00cecc208268389942aa28caf7893a298481e9109c35e99c9effebd0c8cfc91a93389b0694b14c36296b79b1885875f1f6cbf8f1aa3584d5f376d5ee1110944daa2ac64dbf0da87d4fdf1c1688c71eba6c7eb8e1dc44af4dd681f2ce165ff63d8ed8f5ab9a81d0e5e19486011bcbc66970375f4eaab91f46241844047a38801782667c88f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a364c69c0b490db2a7be4dc7df148b6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Which Way Is the Wind Blowing?",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21700",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/930251c36be408d62fb323b05526562c3fec05ce73227c531954d39050f579e5e887514c6717bc164c7b7b9cbba8ab24fe617dc4a9a77f8293fe5cb3b8fa79538a935e297d952f367558066190ec3a277a7fd2391c456c708163034cd00a3bc27f79df2e418d24643e1d3bb1f3871bc5784152e27cc349094e5d42f07569b034/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41580ee0a41166b5179481ab0dc5d305/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/930251c36be408d62fb323b05526562c3fec05ce73227c531954d39050f579e5e887514c6717bc164c7b7b9cbba8ab249ba92a03ff8953b520bc7d9000c980641c05bb1db5edfa8227b4d13623f4d968c8450195b6bd8b0b7060db1b9f8ccfa95faca21ee584da520689bac4c887f6f6f0e42236dbc5abd22b34bca2fdd8ff5a8c8d037e1f074c0908fbd3dc4a419c7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41580ee0a41166b5179481ab0dc5d305/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rise of the Nightmare",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21701",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f06ba035e68f2b87d5f4ae2bcde8f3c3ad46cef32f19e4ecd2f43ce46b52f72cb40ec8c5e97f34f34fc3075bbe4af40fe521f86bc19bc81c969a744c0b354aa38be528e9b4a720d710cf3097f263a95c9104ec5f4032dab0fe2fec882afd223b29e11360e5f6606c282ef492cadc9d6cd0bcf7a23bcbd663fe66b362c81342de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e34e463e90fbb58331932087fd596ce/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f06ba035e68f2b87d5f4ae2bcde8f3c3ad46cef32f19e4ecd2f43ce46b52f72cb40ec8c5e97f34f34fc3075bbe4af40fa7413894b486c48f2a3f79e7a56e04c74beb7de57534e36f75c3720d5016ac34fc5b98d18d4f887b905ba601b08ca6b43b53bb41f7db143254c12ea72de63be31a60e25ebc496bcbf6bfa490f7900df5311c825ce7bd5efeb26e6c487424cce3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e34e463e90fbb58331932087fd596ce/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Run, Nina, Run",
+            "episodeId": "rage-of-bahamut-virgin-soul-1645?ep=21702",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/23ce31b3fb745978e3e3041078d9779d7b3f815a2ee25178a8eb179d6a2f109e9d7a1d9eb684c81db9725860b4688c5fca7d096c2fd9b91c739e3e2a730fd229772a90c9314e5f9d214b9bedd0d1bf1cd2a8adafc6b92efa5eae1fad7d8239660de7f3dfd19e5b6537c984c88f735ecc919b3b7241c53534567ad14257b241f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473c3fbed1550c32d7fedf83db23fcf1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/23ce31b3fb745978e3e3041078d9779d7b3f815a2ee25178a8eb179d6a2f109e9d7a1d9eb684c81db9725860b4688c5f6f38463c53c51126b866e56fe3f23871c6479f40965730354b5e02c4d69e704e3827285e5ab60b5dd0532fd8326c463f0b7e5062ef5cf63b06a784c800a270c8e67ed2faaeceda7df9b4764cc825cf163d25b32edec99e33359828412a2c92f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473c3fbed1550c32d7fedf83db23fcf1/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

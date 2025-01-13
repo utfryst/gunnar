@@ -1,0 +1,611 @@
+{
+    "info": {
+        "id": "sherlock-hound-2041",
+        "anilistId": 1972,
+        "malId": 1972,
+        "name": "Sherlock Hound",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37c912b2e4350d0cce77280a6190bfb8.jpg",
+        "description": "Loosely based on the \"Sherlock Holmes\" series by Sir Arthur Conan Doyle, Sherlock Hound turns all the classic characters into dogs. The canine Sherlock Holmes, his assistant Watson, and housemaid Mrs. Hudson work together to solve mysteries. The culprit is usually Professor Moriarty and his gang, who use all kinds of wacky contraptions to steal what they want.\n\n(Source: ANN)",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/fcJ7WdTRd3c",
+                "thumbnail": "https://i.ytimg.com/vi/fcJ7WdTRd3c/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/LMCCvYgZ8CU",
+                "thumbnail": "https://i.ytimg.com/vi/LMCCvYgZ8CU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "sherlock-holmes-12522",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a18f0cd9340acbc37e85ea50cb1ce69.jpg",
+                    "name": "Holmes, Sherlock",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "taichirou-hirokawa-5204",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dcc950935dbd7928f988d685386bc838.jpg",
+                    "name": "Hirokawa, Taichirou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "professor-moriarty-20492",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f7393860b1a463f9f5c7cd7a13f681bc.jpg",
+                    "name": "Moriarty, Professor",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mauro-bosco-11149",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e7fc3692f1412dee2e117ef8c874c683.jpg",
+                    "name": "Bosco, Mauro",
+                    "cast": "Italian"
+                }
+            },
+            {
+                "character": {
+                    "id": "watson-71256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f5d8e74c35b96429cb6145702412d882.jpg",
+                    "name": "Watson",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kousei-tomita-4891",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf1b1297130250029f81e1c34bf675c8.jpg",
+                    "name": "Tomita, Kousei",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alice-96545",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/96bb8361a8f4f96b714921f3a86e1e0b.jpg",
+                    "name": "Alice",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroko-nishi-13415",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02e8cf36e3b848b8adcbe0e895f2be57.jpg",
+                    "name": "Nishi, Hiroko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ames-101203",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c56d886a4bbfcf02971dbc3fcbb8b0b.jpg",
+                    "name": "Ames",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "osamu-katou-9277",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f2c722061c6f4363f2bd1f00a701840.jpg",
+                    "name": "Katou, Osamu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "amilly-103575",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/976367b4765227d5674e008b557c24ef.jpg",
+                    "name": "Amilly",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kumiko-takizawa-7860",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8dcd522bd1244fb04253ee6722193d53.jpg",
+                    "name": "Takizawa, Kumiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "名探偵ホームズ",
+        "synonyms": "Famous Detective Holmes",
+        "aired": "Nov 6, 1984 to May 21, 1985",
+        "premiered": "Fall 1984",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.37",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Mystery",
+            "Police"
+        ],
+        "studios": "Gallop,TMS Entertainment",
+        "producers": [
+            "Gallop",
+            "TMS Entertainment",
+            "Discotek Media",
+            "Geneon Entertainment USA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Four Signatures",
+            "episodeId": "sherlock-hound-2041?ep=24759",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/02f7fa6129b00b06e6310c7f885c662655b6c7c3ffa0be8c881c83b69ced0dc943795d00d16991d3d4f2d9d7e73ff42758d5861723b8933c1928edeef3ad31a10cb7687b1f365e821f0bd3190aca8931150c68a7abd53fbcba40a758ecea2137eb3161d3f9da105ec1ba71cdade1f1839ffa268286b804d25377470584a70233/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad5ede39c1e1e3e88abc74dfc5bb5f1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/02f7fa6129b00b06e6310c7f885c662655b6c7c3ffa0be8c881c83b69ced0dc943795d00d16991d3d4f2d9d7e73ff427b1b2706e1b803a88cc3aa093a9d87279f6065a759eef8f9ad26fff20fd23ffc84bf7cf5e39770af8926adc121aabf6f783a0b1f0969634e28281ca9c898ca47992eb5bb453fdcfd5fd85113c080f3818abc8f83cee9f676966998c61166fc327/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aad5ede39c1e1e3e88abc74dfc5bb5f1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Crown of Mazalin",
+            "episodeId": "sherlock-hound-2041?ep=24760",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d90bcc31712c3e1be1313afb9cdb75e846bd1039f8c3469cebac0f75bcb5016e5b3780a57335ed9d1ec4c300240516f5e7069bdd2044ec6faf09c3e968c0810eaf6e29c82be4aef2b154e30426f0659e0899c371e6121e398d36e4e77b95886464f8ebc7fa50b0f73604150613c6eee27a9b64cdf4dd1476fd02dbfc5d755e6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e392dfe898000c7658ba046376c568bb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d90bcc31712c3e1be1313afb9cdb75e846bd1039f8c3469cebac0f75bcb5016e5b3780a57335ed9d1ec4c300240516f5c967f03b87fb8cb94170c9a2e511b8a96cdbc42b65e0a7874bd144c8fa34238e532db59de7956a10790851dc62b3e7341bd5e33e1243475704f2bb5cd0d63f5109d8f240326838d4a52a0961f529bbba99974729a686a5b7ece8c8cd9caf267c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e392dfe898000c7658ba046376c568bb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Small Client",
+            "episodeId": "sherlock-hound-2041?ep=24761",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ff315612d9e5573e4174a1dcc316db886513fd272366b6c21766e9827fa2c7a7d3994ed84757cce46731f1a8b60b18ced5a45e3cde2ff521891f8563059bd39d78e4b957f20a3899d6fe95589e1e58cb01f7c810b8f9597de94521fbc6091933076492f0fac4312858356c2bdc3f568239b1dd280e66d0513ad760bef5cb8b50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9971222358a4b470bc19b4aa6a4dba36/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ff315612d9e5573e4174a1dcc316db886513fd272366b6c21766e9827fa2c7a7d3994ed84757cce46731f1a8b60b18ce6ba2ee99b9d7d7f2923a3bef46a52672ffb003a34dfacd6256733904dcfa71b3e9a2ed34a3dd3a418e1f450bbcc1b141f3fb7cdfed6146e0a74ca7eac2718089414f599de06d1259e4c999578a647198ea092ef09e792f2906b300b4307c1864/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9971222358a4b470bc19b4aa6a4dba36/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mrs. Hudson is Taken Hostage",
+            "episodeId": "sherlock-hound-2041?ep=24762",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f082c3c4c51e86b437ab5566ffe9188991c9e594fe2a11c08d7405a9ec29a2cc8193006dc4b9a3d94d7963e7b9ed4c15a65aae62ade676d6576b70a347451e229bede634f3bfe3db0572eb42c4c5491eecc41ac254ee35c59ddb1850413bd2df64d97dc585053c7b24bc3397a87041843482dd82e041cf946e2c180b4c82dc1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0715a32973e754e185f510a1a4b9490/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f082c3c4c51e86b437ab5566ffe9188991c9e594fe2a11c08d7405a9ec29a2cc8193006dc4b9a3d94d7963e7b9ed4c15a8ea25dc53792105818ea5fe3661fd047dc334b2097c49e550552510de7cf60a76ab325449e17e8571877e700beceb56c59807d3fac7fef58745b2bdf189542516617201ef154cacf78d7ae021951c76df29dc04ebcbb3396b4e118b74b9ad0c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0715a32973e754e185f510a1a4b9490/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Adventure of the Blue Carbuncle",
+            "episodeId": "sherlock-hound-2041?ep=24763",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4a2d4dab800246f17aeaa38d2c3224ecd16d62192bbcd8ffa5f1f6a2dda9908b8914d1f38a4f6efbeaabcc6019377d23827f1b109c2787486ab7e310365ecdacf4ec97ba55c78e90d25adc908e1828d9c943d19899dc98ee62edd6599030e1b8ecffc0ccc50dee3a3ebb2986486e3de4024fda945cd99183a56cd49c90cf01a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ade63d1229cfd844d3018ac7ef13eb29/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4a2d4dab800246f17aeaa38d2c3224ecd16d62192bbcd8ffa5f1f6a2dda9908b8914d1f38a4f6efbeaabcc6019377d233c34dc3e701eee07f9c05dafea77e1b97134e33fbfaf9fcea5f81d74b2f7d0fb224eb8fb9561714ef291e56673b70eccdc0ecda1137daafa0df3c1c805e6bb2fad8a3e72521a31e321b85fcd5f19fb1027ed2f35c6b2ca2c39f0331eb5c33804/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ade63d1229cfd844d3018ac7ef13eb29/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Green Balloon",
+            "episodeId": "sherlock-hound-2041?ep=24764",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b2ce0144cae01cde6af3884648b727ab69fa1d62749844a7a1a816e5577b55a016032ac9107b8f39763bd5deda8e9962f1510dc217283d904184f5c603ed158daad285546c29723efd67a19b0d43fe41de42018bb05ae151621ae5e49cd483b280378ccc5b8c482a45fca18705245cf82eb170f62e2cca1aecf56d56adceb70c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c89b1833acf7cec5662b784806182bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b2ce0144cae01cde6af3884648b727ab69fa1d62749844a7a1a816e5577b55a016032ac9107b8f39763bd5deda8e9962b344864fba1d3ce7408206165859b9ba67b2033a9709b21ea49d4c145748c044bee5485f00f4c5f30505825666833cb88215fe9d57781ef354b75977021d61456006ebd700230e06c3eb100bd85d5ed14652de36eb1e406fc52ef59749431fc4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c89b1833acf7cec5662b784806182bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Sacred Image Disappears",
+            "episodeId": "sherlock-hound-2041?ep=24765",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/36bb45eb2f3d9fa42f4b846ea2890853319e056323e78570e2b05c2ef1f75419202b2d3dce43b5303b3e27422453fb98de640753b0b752d6d4033f0e01e8dcb251bdc8d4445135a1d52eb13038a0c37dc9540dafe557d75bc685c68070ac23cff0aed2cf6ca8a4076887e5d8d894cd071cdef03109b16e33964c8805d72e5574/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f94fbd91a1074f58c2290df5e84c2839/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/36bb45eb2f3d9fa42f4b846ea2890853319e056323e78570e2b05c2ef1f75419202b2d3dce43b5303b3e27422453fb9873cd06507ec437b339d9734ed8d41eaf91f39d60b6d806b2cfafdae63fa79e2d4a829c67ea4695a539e53525f9100423da1be87f18bd2d26b8b563e85d2a5f6b6d79bd0eeadcfa107d8ec1cd7f2ed312e504634a1ed0c2191260a74844225d4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f94fbd91a1074f58c2290df5e84c2839/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Speckled Band",
+            "episodeId": "sherlock-hound-2041?ep=24766",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/82c95714344ba030d744a5389cf76a8edccc03691cfdcc555d035fb5a19bf355798a09a3f811db916769f2496c63f7805332b1724ef4128a5825bf0305f4b96f120ccbac7e4fb70d964989f087a40ed6bfcdee8e3603896ff55c41a9fc941bc552e13632502f14ec9428d2dfeb5351f7312f57e57fe71493a3311f30555643fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/717e7eb79aae37087c14b3facc3ca8c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/82c95714344ba030d744a5389cf76a8edccc03691cfdcc555d035fb5a19bf355798a09a3f811db916769f2496c63f7806171c1e043282b7015aca04e635a55f9f5eb36f742b502ca9848a4bc58498839a3b0a10ddc65e285ff79526f3fe862b11e6a40fe0819e807e881aef87adbc89b1ffea49f7cd36a56705214d43812d4560802cfd445c8504b1281f610f39310aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/717e7eb79aae37087c14b3facc3ca8c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Treasure Under the Sea",
+            "episodeId": "sherlock-hound-2041?ep=24767",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f42d33b70ab350bacb824b5274d9306a58d595f33cfcf29bb475460897b372ee4e6100792ae8a7d58ec66f3ad094fb70a893b28b82723088be4e9528661f0851591e847df71141ef2482f1a94015268632ee535ea48e0dcd37dee4c9753b5f9971e2e49a731db662a959daea4463c150e007a000e51b04e7b65c1e84599e6bd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2877bb1b5619cf384e7fc77b0c91432a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f42d33b70ab350bacb824b5274d9306a58d595f33cfcf29bb475460897b372ee4e6100792ae8a7d58ec66f3ad094fb70f395608524b7c6eb53916f35a401bca9c0ef5276001aa08c6f17e2bcc8fe9a717e30e590b05a6cce427d1db0c514676052d471264721b02650a9e38330d28f1e4ed1ce40f2e9435579bacd53897f4851b7bca1c8558e64d238edaabafaa25083/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2877bb1b5619cf384e7fc77b0c91432a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The White Cliffs of Dover",
+            "episodeId": "sherlock-hound-2041?ep=24768",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3d4d45aec93d96cf33fbdd44c049c64ecd01cd6879efd22a966e5aea88cb0c6a12a59f224c84b9550d83a8ae2c45e5add2f74bb2250a6d872e05f85c7444efea95f5a76313cd710b4c3f5543034efe48314680989c1eb4f9d918762dc84eaad283e1c5fc88cee0d2df99b48fcb4cce4c3d8b6f08404a47af672cfe6872ac2888/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b55ba6cc323a1a73ee6e9508c1cdd5f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3d4d45aec93d96cf33fbdd44c049c64ecd01cd6879efd22a966e5aea88cb0c6a12a59f224c84b9550d83a8ae2c45e5ad0060252871cad080c3e1c658362c9d5ad7b35140d3ffdb2e585140424241d5c4b1690b2c64710bb2b145d2223219969a0e8bc5756925916a603abcce27c1b8123de5c4984b0683ee399e571d22781b0ac91028c732078cfe7622f1686a2821b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b55ba6cc323a1a73ee6e9508c1cdd5f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sovereign Gold Coins",
+            "episodeId": "sherlock-hound-2041?ep=24769",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e40c4f91447ca41305bb25313f9f4d7a44f760baa47d9b2d654b1c548f6b9ef96e6283480b018b4c43cfed5dca6518cfff23086e7f0adef7f40764e8c670cc06fe8434451502c10dac366f6f0ded532af99d3d9975d692e47a5d38ad8172c473b5876db1766a206fbef0cd55da9562d4ae8dd0e27f102be68c3eb5c080876d31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/657eca436f75f3c557b8940e0c19be0f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e40c4f91447ca41305bb25313f9f4d7a44f760baa47d9b2d654b1c548f6b9ef96e6283480b018b4c43cfed5dca6518cf8857dc4845490195f3c71bf5696fbeb0463e6c82233679e180c5612efa024aec6820cf79e88a0b09332cf22f95a48295a0c661f6829478fe4b0712ab4a4c375f526dccfee7409d6e805e0a37a42473b42e890ef21d0eb853ab0551f5958a245e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/657eca436f75f3c557b8940e0c19be0f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Stormy Getaway",
+            "episodeId": "sherlock-hound-2041?ep=24770",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d95061807d9031c640bcf38816530a5348c3a41e51d25a0e5b46265a8bc0bcf95954aa411e5e01247bdbbe574b35db4f8fe5acc101c5075ff6874b4480f385480f085aa4c0b39f5a5633f74f7f09c57fa7d08aea5c741ab5bfb7b79b743509a5077ec656fe2b49c37ce81b7826a7bce3543a025d31870f9c80019ad6ce85b7f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57b9811597d9b57d3b21c9fa1ac59a15/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d95061807d9031c640bcf38816530a5348c3a41e51d25a0e5b46265a8bc0bcf95954aa411e5e01247bdbbe574b35db4f408a208494503748f946baaf8ef25f18eab4a4f498e9dbc70e445f922eb8847ee782ba3093195581252a481feedcca8926fc8c9f3dd072cd43e4f10029b8b61e8c2ab9590c310143aa50dc11dd6bdbdfab8c1b8b65def84ffd7a8a0129f8cc4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/57b9811597d9b57d3b21c9fa1ac59a15/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Runaway Freight Car",
+            "episodeId": "sherlock-hound-2041?ep=24771",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/db70a5d4d7f626fa653c4724dbee28974087008d6a668debe27ca1e8f1d8bd29634d3950a8d53c1703b9fc1d9c7cea2b6cfd0ee256fc6dc5c1f5c942494ee11ce645c15fcb07544bb587f575c601efa17a433f6a1776b013ef7d5c8afd1e2765ad0204ee9b871bc579f51a63cd93ef6974dd92093eecd46e76f869c6fbebf03e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3aec826ed5b9891d6244d111f0c93ba8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/db70a5d4d7f626fa653c4724dbee28974087008d6a668debe27ca1e8f1d8bd29634d3950a8d53c1703b9fc1d9c7cea2b2144ef8e6ec4122df2a0e0b39b428be5c8aaf0c9eae4c5b6436c8cbc63e237c47ee10ac93984baa641f0531354e634ca3d3b080f59599e6714552ede0db3cb8511892e833d3d49e4f4163f279ff7fba1ca6dd7c0550a525ddae4f27dd95b5525/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3aec826ed5b9891d6244d111f0c93ba8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Coral Lobsters",
+            "episodeId": "sherlock-hound-2041?ep=24772",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dcf0bcd7594be0a6b2226c91ad491a6700c509ef015f2d24f460d37086baedb8c0f605b3274239029e8e01eb122dc28c6e65a716f6b9bb280c7431c90552ff004bcca4cd639efe930870858fcb2584646fd8997d29aa5a984c3c12528cfe33d067e6343040035462e786d59e21574d3083885ca6773f4d5461ea5b7ef2b835c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7601760732e113129c8874d5ce11a7e2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dcf0bcd7594be0a6b2226c91ad491a6700c509ef015f2d24f460d37086baedb8c0f605b3274239029e8e01eb122dc28c01844901a609adfb0cd97741304ed231e80c87757b7d2639e758a77930f3ee515f22750a263519c893b0b46d4091b7d8a526d18cb8936a2458c39dba3a9854321827ce2726153abf1bf0effd43fad7d0ea0c062bfdcc9eccde8ee57df9c6f7e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7601760732e113129c8874d5ce11a7e2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Golden Statue of the Great Burglar",
+            "episodeId": "sherlock-hound-2041?ep=24773",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/72896560bf9685f491c8a715597d056fbc5fcbe5082fcfc0b2ffc7f21dce5920f90c3d9e7acd5fd3a1be1c68f32b749a476d05862a1048e8a3a44ac5efd498e7590e395f83106c4ef5efa1ea411965444cf9087dca2ea2062ab6db8a78452553d51d072b96e8053d6607a473dec8e831ebcdbdf56dd6ea9eabc3bba5ec695e9d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5687a1d08f777e4c1e7a5a93489deb75/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/72896560bf9685f491c8a715597d056fbc5fcbe5082fcfc0b2ffc7f21dce5920f90c3d9e7acd5fd3a1be1c68f32b749abd3d5d88365927388d2fcd6778f9979f2729013fbffd1110aaa1e06d5f6d8bed140583b873ea4c8327c67c3ff34685379f88fbbe7dd8291de39261cebec2093e6378e82ad98ba8cccd4d3b8d8edc5073d1257c8ac33888a19ddbfd58928f8554/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5687a1d08f777e4c1e7a5a93489deb75/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Secret of the Sacred Cross Sword",
+            "episodeId": "sherlock-hound-2041?ep=24774",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/43e0f340d6e343773dd440475438eec435ee18ecc9513c7f16096d3ce2beab3957d087a1e9b5265a09e4d6c6d600f9eb19a2274506b31faca8792f8e0a687b6239736c2bf7e98a217cc5aa3708140ca78b71eeacaad601332fa7d9a3e54558515e766476b722163ab18054e4bbd78b391e9cd0a29cc0e40d7aadbe889b9bc13e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b29a37bb45e0ee1047f6470c4c6ce71d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/43e0f340d6e343773dd440475438eec435ee18ecc9513c7f16096d3ce2beab3957d087a1e9b5265a09e4d6c6d600f9ebc88b306b2851c3135b6be853d97a11ae642451aa98a64cf8f15105808277c37e75ff5db1e96a3c3bc40a863a249b01ed44e6674b8962edb579c10cd8125e0db6c69b07491ae22599b702e557eb975076bf0b4875a2065c1ce3725fe28c975989/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b29a37bb45e0ee1047f6470c4c6ce71d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Adventure of the Thames Monster",
+            "episodeId": "sherlock-hound-2041?ep=24775",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8e94c367d29eabe33abfb7c6af361b11a57ff0850def41195eb0478d8da480babb15121ac61f7f013ac1ddc8de3a6e8f0d924be807863ec64ef632d70885984ccbccc531286d1b75793684680dd07b1894f7c956e9b8c0374eb894d7342bc5186925ff3f6364bb86648c82583198de17b43b6172e455bd2f47bd3c101068f191/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d10d1e1c9b356ee2af13a2dfe8480f5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8e94c367d29eabe33abfb7c6af361b11a57ff0850def41195eb0478d8da480babb15121ac61f7f013ac1ddc8de3a6e8f6a71f479c6d824627e90cd7cfcafdbc17c3a4fe1242cd1c24d0d67b5e63ae4a510cec7200549f9abcb7245e0b5b9131133ebf9a72f4d4081797ba9e892e3c7464bd46002991f39db4597f35ce3ed07805e77f3c1f0b44d7257b68c56b0c751e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d10d1e1c9b356ee2af13a2dfe8480f5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Adventure of the Three Students",
+            "episodeId": "sherlock-hound-2041?ep=24776",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/92f6edeb0b2ad3d7c278b7dbbe871bf6b077035d1ef36be152e2f0a160f44a457c2d5639987e9fa8f3f92b22a041680b718ce2b8ed30b98561887432ab16fdd4d2e036f0b6e538af506c1ee21bee69425bf3771d06c7bcb1edeb3756e7847fb6b9be6435262dca6e21f5cc450bc266a86e6a862931d2af43dbddb3d2e2fc14d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/525085d2541b00d511af2fc84b9c1aff/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/92f6edeb0b2ad3d7c278b7dbbe871bf6b077035d1ef36be152e2f0a160f44a457c2d5639987e9fa8f3f92b22a041680b0cb029f073f5e722bb6a07f032270f83d2f36aff640f48c36aa0e291e34db9edfcaf2c91f7e092adff0a92f735174a357a1a73ff2efa6ba9e0d63f6d4a38d58ad05635d41d45c88c4c79a2b19545be78da05ee8450e5bf772d259e9a44c8f58d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/525085d2541b00d511af2fc84b9c1aff/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rosetta Stone",
+            "episodeId": "sherlock-hound-2041?ep=24777",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ea14747464ea9e518ef383a611b28af9e45d286a39425c27004a4d8e25b83ec26a3a24f1c202014b1753ac61b66a2859503edb7cdf6e9efe43a0eb3f1b1868cfca6f97685e525f669dc4996b502ec69d355e4afe0b36340cf61ee58769026b1c3d895315f79ab098a6d7fe3c0ff401cefb76a2c473116b48cae4a87bbac8a48a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd1aacb236ba9dd049b93a0821f05295/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ea14747464ea9e518ef383a611b28af9e45d286a39425c27004a4d8e25b83ec26a3a24f1c202014b1753ac61b66a285983fe81634ed0ae9dcd2910327acf2d5c9ba9eb5aa5eca94b51d72285ca95febcdfb9c24693c36b0a94d61eb8e38c8403f2494ae5d34aef6e6fe3581554eacedd5f9680ea40712256f08c2e6572284b1cd59e7d63e7c7794c15bddeffad629d7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd1aacb236ba9dd049b93a0821f05295/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The White Silver Getaway!",
+            "episodeId": "sherlock-hound-2041?ep=24778",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/567377a0bdeb1a94e2695e0d2cd3cc74fe017212139e83bbfd0405bfe9001cd764e6132e5f25a338d8cb6841586518aa7d96db8580831aa970c7e24d967b0a137e9faeab7c13a5421d38d5df32b33fd13e11585dc56e076f3823c6fa710f4ffdeee8e5c26ca05658776a36b7ec0695abdac718f8e0bd1131a4e653c170678c84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/860336de320448ad2301f1837296c1d6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/567377a0bdeb1a94e2695e0d2cd3cc74fe017212139e83bbfd0405bfe9001cd764e6132e5f25a338d8cb6841586518aab4fe26a6db6b3a7b780cff1149bcb778ec9e41681ed21ece1e57e776ad7e5f6f3c287b946aa1a422ab2f314a947bef645bf0c93f83d0688cd96da1b34889d05e06191ba4d3a9223436d6203538498c8be566b59eed71f19593cdf2e30cf67ca4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/860336de320448ad2301f1837296c1d6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Disappearance of the Splendid Royal Horse",
+            "episodeId": "sherlock-hound-2041?ep=24779",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/62145fc35ad00a5d513aba3b69830496245bc876a6d9e7dd94751944fb807b66c7ed6f1c92aa6d88634c30395a9fad5f2c9f0fd03112f4cbd4d16e45dbf04a99b0c3a00a6523227dc34202e06dbef5f621b52ff5d1fe13f209618c9bc071d398fb78a3e9470e436b442e2cac02240348b4d7589b003012f10bde260d36a189a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5969a9f82582471b1b44dfc5ca0dbe2e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/62145fc35ad00a5d513aba3b69830496245bc876a6d9e7dd94751944fb807b66c7ed6f1c92aa6d88634c30395a9fad5f96394b56445367e5456c48574132cdaecddc5404b4310faae02de9770a3d933f774e7e169c54dae5c6d578885f0cf98a6702e59dd079aa6205887bf22fdd508bb566963b45125bf177532d6b682bf574f5bd579083b786638742178b8bbb2e85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5969a9f82582471b1b44dfc5ca0dbe2e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Disturbance, The World Flight Championship!",
+            "episodeId": "sherlock-hound-2041?ep=24780",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bc8802c9320fc2344bb2c25180b46ae4c213dc6cd71879f141617ee4e69cf260afe451b39f1f250be98be70be110939e21c132afe6235ea2d5eb165fc96c4346ed95c16b705626e32e6a30d1662345d61363bc633684a5ea2d261796ffd7df9b4b09fe46f4f91e0e2c40e0e08c28c46815db05b419f83fac3bc895303332a4ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e31ac5e7c5495822d2d5c9bd486ef358/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bc8802c9320fc2344bb2c25180b46ae4c213dc6cd71879f141617ee4e69cf260afe451b39f1f250be98be70be110939e4f15fd89a15f71848800c468a205e6e7b2cf366be6bfd70c9fb2b2fbc571c034ecbdb198373a3b5bed581578467a6daf0a486e91f8549c9200c97ca8537131f3ede867de581ae3841778d0f47877d4f6b9713597311a81c2f69c0465d2721c55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e31ac5e7c5495822d2d5c9bd486ef358/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Secret of the Parrot",
+            "episodeId": "sherlock-hound-2041?ep=24781",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e39aa78aa6537fb735acb99606e10be78258ad7b2b0402f5c5fb5ffe5eab2e3ac765d0532fb6d778325167bb0e1e549380c3659d274b9dc37bf571eba09ee754b5b1a844bae512b54dc393d452698d63274f7d89c0f3f77a4362e930c764bec21a4379a88eac474dd24d8fab4732e334af62e2a09b1fe6fafc9108b42eb9406b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e94c77cd2597e0ac5de0c0fa4be7f54/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e39aa78aa6537fb735acb99606e10be78258ad7b2b0402f5c5fb5ffe5eab2e3ac765d0532fb6d778325167bb0e1e5493daee77ed442399a05a4281b5b3e93a2e7c95bdd0f37f0eb0a6b8f29c4673746d90ec4195dde8eea6ccfcd781f03a8e8525a59ea996eb54f83e143e384bf0dd148162a4491adecc105a51e8abc8c14793de4f0401e87ec6039a129a7bed9b9333/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e94c77cd2597e0ac5de0c0fa4be7f54/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Bell of Big Ben",
+            "episodeId": "sherlock-hound-2041?ep=24782",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/64fb32674619332369a720a1cb9612d86952759f49aa2a2d26759c093eebc8cef936b93c3d7daf1d0eb31889322f2eebd07dfb719b1b8023d4e1b1166d92041edc63d6a45662afc175182e4b6a07b4a66cf0f45f8dfe6dc56f36553f8f3f5e4f71967192a0a0e09dfd30cf23b3f0da6e76ed9ee850e7bab19a1157ffa72d00b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd1df93fb362cb5f22886c7786d5181d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/64fb32674619332369a720a1cb9612d86952759f49aa2a2d26759c093eebc8cef936b93c3d7daf1d0eb31889322f2eeb87bcb58ce56fcf9a7ca2c117fa063f973310bfb002abec056481ddbbbc912a7f843e844d94637ebf03ff60b5952d96d0225efcef9dae6428884e9ac2cb52f95d1df87663dfa84be42ebc9b8e5f9ecc4a17c287ec69f42bb19f478a537af368e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd1df93fb362cb5f22886c7786d5181d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Priceless French Doll",
+            "episodeId": "sherlock-hound-2041?ep=24783",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3d94b35fd8b87013c5ec37a6605aa5e190005ce1dee177e758e32d32d8d6cf9d8bf5bfc27e1f059a57ea2478f10db97eef5f7d99f8c59437d39faea7c49074d77fa4f8f509b08e04b6052352973e7abd49a971a236b8c527490d5da938fa6c959ee0405cc527f978d6daa7d0249527456b94d24e3daaf0eeb373ed47bb71137c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6f40045e0b717f421b3f5333b07d08/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3d94b35fd8b87013c5ec37a6605aa5e190005ce1dee177e758e32d32d8d6cf9d8bf5bfc27e1f059a57ea2478f10db97e357bcfb8ac13a8d09464da34ea621940c3ba9c0048ee8d99c3379a44fff47576a211fa74820577286759b7e1a3b5d4c9596a4097a5650e0554d25c890071eaa97d6489933655c5b5db6951357db76a71d2aec8f1473a221194e06bcc26202057/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6f40045e0b717f421b3f5333b07d08/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Missing Bride Affair",
+            "episodeId": "sherlock-hound-2041?ep=24784",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5507b4af29cf7953307ebc0409a7dd0b7e9d1094ee01dd2f0f97391592345648e3e15838aeaee9a16ad2142f2f448329f3337119cc616ef9d62eca0159662452ce334820458e06fe18ee21a6adddff2114a661b49563c741c7c922f44ae4092bfdb23c31b6d17f1a5c7af69b19685cf87bb5b0c2f6406d2fb95b7988384758d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a4235f6e8989b2efb253f48ebf9e1a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5507b4af29cf7953307ebc0409a7dd0b7e9d1094ee01dd2f0f97391592345648e3e15838aeaee9a16ad2142f2f448329ee0d0df87f3334de7b04764a18e8636260bf4f527aa41f8471c3097c738f1d0839f391891c27d548b13806783064960db5afce4eff7e055d03327946db85dcfbb8ee13900ffbf04f54a2ea9329991531b554b2077e8ca24b4dfb9ab4e0c6a742/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a4235f6e8989b2efb253f48ebf9e1a/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,607 @@
+{
+    "info": {
+        "id": "utawarerumono-1096",
+        "anilistId": 856,
+        "malId": 856,
+        "name": "Utawarerumono",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+        "description": "An injured man is found in the woods by a girl named Eruruu, and everything about him is mysterious. Without knowledge of his past nor even his own name, he is welcomed to Eruruu's home and is given the name Hakuoro by her grandmother, and younger sister, Aruruu. While the inhabitants of the village have large ears and tails, Hakuoro's defining physical trait is quite different as he has neither ears nor tail, but only a mask that he cannot remove.\n\nSoon after he becomes a part of the villagers' lives, a revolution against the tyrannical emperor of the land begins, and the conflict finds its way to his new home. Hakuoro must do whatever he can to save the people and the village that he has come to love, all while uncovering the mysteries that shroud his past.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/VLJbQuoO-zU",
+                "thumbnail": "https://i.ytimg.com/vi/VLJbQuoO-zU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "aruruu-5332",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7be19f8b67612daedf8a192123cc553c.jpg",
+                    "name": "Aruruu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyuki-sawashiro-9",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dd2106c7f911d17d5a23ef1e0126f6b1.jpg",
+                    "name": "Sawashiro, Miyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "eruruu-3228",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1a30d58640b25fffb4ca49e405359351.jpg",
+                    "name": "Eruruu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryouka-yuzuki-333",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/958327552733e7d2b3013d1b2c8e39ec.jpg",
+                    "name": "Yuzuki, Ryouka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hakuoro-3341",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d101d277e06ccbc4679d0b8964a355f.jpg",
+                    "name": "Hakuoro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rikiya-koyama-131",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/777a5a45defecb4d7ded05ec9f4774d6.jpg",
+                    "name": "Koyama, Rikiya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kuya-amururineuruka-19853",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c684cc55c50f97bb99dce2848324521a.jpg",
+                    "name": "Amururineuruka, Kuya",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "luci-christian-215",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13bff62bd32770294af6563b6233cb11.jpg",
+                    "name": "Christian, Luci",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "benawi-7327",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/694d9245feb55025d437bf7c7b83b34f.jpg",
+                    "name": "Benawi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "vic-mignogna-61",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72fa3abf710845d7006aa79e11a001fa.jpg",
+                    "name": "Mignogna, Vic",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "cikinaro-48111",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/25aa27f33ff40df4c3b0186521a01a83.jpg",
+                    "name": "Cikinaro",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "andy-mcavin-4867",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/683106e202d921e3ff8fa3ae3b7991a8.jpg",
+                    "name": "McAvin, Andy",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "うたわれるもの",
+        "synonyms": "The One Being Sung",
+        "aired": "Apr 4, 2006 to Sep 26, 2006",
+        "premiered": "Spring 2006",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.68",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "studios": "OLM",
+        "producers": [
+            "Lantis",
+            "Half H.P Studio",
+            "AQUAPLUS",
+            "OLM",
+            "ADV Films",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Uninvited",
+            "episodeId": "utawarerumono-1096?ep=17108",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cb8a44671e4592b7ca9b95bf2e555a9a9459612d6e23afb9967e1137bd040bbe5020cdc3d3dc45457d09e1ca2c3136b1084f51abc62054adbf34105e8767bdca5fc0222912f29640916be5bbcc25e4c881f6c200230d0b20196b86a915c19d0e2e8a6cb745d6755b7be5b3ae0516c5b70197018022faf36863eca1a9695dde14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0920e5a844560eb0195d6f01184e7a3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/cb8a44671e4592b7ca9b95bf2e555a9a9459612d6e23afb9967e1137bd040bbe5020cdc3d3dc45457d09e1ca2c3136b19d9b7c8d577dade941650ee8cdb2032fe10eba78650f931d3c84e29fd90eb71fd95af1e6b125ca09756b80fbe5b79df181d6942f5e9454003949cc85915fea85e3bc1da84f01f3eec058cb9877fdce7b18eec1b3213bd13156f30989f0bf1278/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0920e5a844560eb0195d6f01184e7a3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ruler of the Wild Forest",
+            "episodeId": "utawarerumono-1096?ep=17109",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d628ca674d98664f2a2ec5666865543f2c0e5a89f81accd7b39879056d72fdcb4e4d39ba2e8dd3c5922c87d84821a08822bc60816bad56d7b18fa8b7ffd9c4fa477868c7044a96bedb7e4478d06c3f38a565022107d7b17bbf99aa63875045736e2d624e771d4c100cf5853ab8c16f38e8ea566a4b736d581c8c9a08ffe3523d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fea7f4390542cf74c970e552c045f9e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d628ca674d98664f2a2ec5666865543f2c0e5a89f81accd7b39879056d72fdcb4e4d39ba2e8dd3c5922c87d84821a0888515c5c0e5de0018ac471e4fc93ce6aab76f7873777ed38f7818f989f07345a44aa197e91e1cefd887527496bec4de58ba418615d6a5f29d0a2fbbd04c358a6fd2314dd3e08e102919d113112627e201376d721925b007e2494bccae6eaff8bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fea7f4390542cf74c970e552c045f9e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Violet & Amber",
+            "episodeId": "utawarerumono-1096?ep=17110",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3144ed85bb2a9addae39875f6a241df34be64947ac170524a29581f9de9cb006ea41498cf7a9dd1413bf3f3718699f9b9330b02b7912186e74b2fc1e2287bad75fa3942a1949d01eebbc67fd8dbab20338689e535de719b6868e1db7766e8cb954937e95e28dd69fba60bf502c1e12547d1d8e333a859ae22c5762cb99783d5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7241ec1f02e35e57956e09fa23f127cc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3144ed85bb2a9addae39875f6a241df34be64947ac170524a29581f9de9cb006ea41498cf7a9dd1413bf3f3718699f9beea904759154a0a9e365fb6d20963b4b020e186ec146111140f7f25e1a59d1d01a3f4208fc425b4fc75bbf51a631e18aed3dd550fd1a1bb995c427ece7ef5a0db7103053494b66f089f7491610edbe1711901d4b261d8a652e775c0cd8791434/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7241ec1f02e35e57956e09fa23f127cc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One-Way Path",
+            "episodeId": "utawarerumono-1096?ep=17111",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/bb5cdd3d7ee2f60254c78dca4e50a254f25f645f15d0e317c580c6c3d327f3d3c05fc837a1c76e439a3bea3b83b90c5178e9b2327a9a3e348be8bef5ddb3273d4c3b9c74d983a3c47e83abbb5f4ea98b2ccc0bd7dbd7fb6dddb4f3035ecf77bee4eb3ef483e1f182de5a54150d9fb13ca0e394e15de7669c04c39c58b37817de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b47a575bae21850cc587a77092db722c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bb5cdd3d7ee2f60254c78dca4e50a254f25f645f15d0e317c580c6c3d327f3d3c05fc837a1c76e439a3bea3b83b90c518001e72bc53d2ff383b78bccc39ce7e7639fd17b6816fd9524f578b85d9a48208b5d588f3049893fea038dab672c7845fe5e96d7aed20738680052a2c6379f85fd6785e7d8664ce5de4c543e7abbfc44da20ad1989ce767edd2955f6c5dac0c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b47a575bae21850cc587a77092db722c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Daughter of the Forest",
+            "episodeId": "utawarerumono-1096?ep=17112",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9d7907a84457b66c16c79e06c2320e1a19540b5fbb608d460ed1c4ed0b52df198a72430985441d394e0caa9f74138469f903962d97f5dab2f7e52d40fe73bdb9420283df1c546485a2b4d455c7c72f07a029979e10aa996d70e03885782d96f5a323804bd10a5744af1692f18bd869ac50d4c75b38e02cf49760e00ae55acc25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8d89e0b49c1b5ffbfc77cb7d9f1fd29/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9d7907a84457b66c16c79e06c2320e1a19540b5fbb608d460ed1c4ed0b52df198a72430985441d394e0caa9f7413846951bf9564ad87c290d32742cb9ba6ca0ec3057bac292a5e7a3be401a946ac4b8a2fd28653e54fd84b3a91f9d2aa61663d73e0362f39ddb51f6b057d1a7684e5b8ea92c7c635c1e58e1459e99f870fbd031efa074f72d4dbc9e589d5d99d1daf03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8d89e0b49c1b5ffbfc77cb7d9f1fd29/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gathering Force",
+            "episodeId": "utawarerumono-1096?ep=17113",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e8a7f0ed26c9d5529d0316da39450fee86f42203b491db9b186474bcb9c8bdc3e5fc72b67164a4bc30fd63ada7be184faad3e6ee9da02d54efdaa234567e2e4addd2052077dc2c751bea2aa76e25d128f693f5f0a9bb60e9faec3978fb07f24f8ca6e496928e1ef7c28c938aa683431893e47cbc9e79cb27b747cc20c855b4be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/151537e1f149bc4a80f8d807f96588ac/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e8a7f0ed26c9d5529d0316da39450fee86f42203b491db9b186474bcb9c8bdc3e5fc72b67164a4bc30fd63ada7be184f6dc37ef44340b04939faaeb46790e4212fdc994fccdcb513df8fa6992c8703bdd7cddf7bdde7938fcd2107c2e89c6472eb7b969441de1787495db700443a81b501a6b2857af1512944987fbbff14519edbc83f4fbd58fb1514cfff4ead5d2e27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/151537e1f149bc4a80f8d807f96588ac/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Invasion of the Imperial City",
+            "episodeId": "utawarerumono-1096?ep=17114",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5c421f76d9bfa48bfe604a388c261443142886702e59570ba009d0dd461f394b4c6a736267cb02df1d8f78c71954e4bf48919615395935834b2e938701423cca2437f5e9099f8ecd99ec97eb39779375bd2795a7be698161fe2c5fe4d079ce14614c0dd3739230280fc85ac42302619f3a259678fad2f88dccb62b5c9c6fdc3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ea1287ad9a6ffba4d3bd80f2f3d54cb/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5c421f76d9bfa48bfe604a388c261443142886702e59570ba009d0dd461f394b4c6a736267cb02df1d8f78c71954e4bf4241352d8e052475b17ccf2eb55384d8a5df8e773bd1de099945bf9ee47d4122b959cd0916d1043b3a6c07a28a591113da3c38143bc37db59fd54156936dfdad884358c0f42e4be18920d85b58adec34ad530a3442a97f48c0398128b7d9e84b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ea1287ad9a6ffba4d3bd80f2f3d54cb/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mediator",
+            "episodeId": "utawarerumono-1096?ep=17115",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2b0e5804b3b2fa9a8262e8fb331b65ad21de50481a5781e0757972cebc436682d7d89e21753a58a8592bb3552bbd7fbf12a79be7a78ee6d8eef4813516268b71400577d81c823cb17479dd3e5b2493fccd6d6d7cc53d0fa57008469396cdc2ef1653ee804a5be2e6d2520bc68e927a45564658e428fe1a5d10b0a4eb47080268/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/656d92612a9d1790b6b7a8d1954c14b2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2b0e5804b3b2fa9a8262e8fb331b65ad21de50481a5781e0757972cebc436682d7d89e21753a58a8592bb3552bbd7fbff8af31f9c315af84219b003bff3660dfc4eb627a94f3eda687acb60e6a8a072cd500b3cfa41ad40b9ee089c2f5085f8bc0a26e5315186b6289d70438693c86852a402be470c971f85f8964d6e48a84c749c0ac439c46c35e747cd5837b3414e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/656d92612a9d1790b6b7a8d1954c14b2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Taboo",
+            "episodeId": "utawarerumono-1096?ep=17116",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5f9bad42f7a0971023693cb5f21284d19b7681f9a2bd8b1472914396326bcb572adfa09b847598e703522dbb6c98cccf48aa31de25951d5eafeaf1cd0c0022971b67ad97a1da486ca0f07c6e666c89e3773823ab27298a601f413c2cb544aa7983dcfa86887035f8a8b623179aa2841c223bba8a6df03e8aab1a3e86a6db1df1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f241c8e7ddf813b3e1d4d1c5575590f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5f9bad42f7a0971023693cb5f21284d19b7681f9a2bd8b1472914396326bcb572adfa09b847598e703522dbb6c98cccfdf689e1a7db9280f51a19fe7e87876fe5f0e626230e77c80012587b517fedbfa3b05df85e1eeba91e3a4e3536ae8b698cae1c68230b8aa61741e61402871bd0a4e3e989a70bd2ea1d173618268ab04e3d7cea40087ab4cf3156b524b7dd84f32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f241c8e7ddf813b3e1d4d1c5575590f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Mercenary",
+            "episodeId": "utawarerumono-1096?ep=17117",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f13b0ebb3338c269a74fef898218a0e7c134dc8de5b4513cce678453d5d27bde1bed175b5fc1d1b7f1abd325b875cf92520890b3cb3c46616f6591c6c35db3fb6667e8486ec1d3441aa7c4b013d6b71cfb7c067b39f1e0566e975c1f241fef884536dbe125b77fcfc5c3aa03aa44e325b405ad749725f3755b10ea08bfefafcb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06fc7c7e253ed2f4fd701fcf31f27c1a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f13b0ebb3338c269a74fef898218a0e7c134dc8de5b4513cce678453d5d27bde1bed175b5fc1d1b7f1abd325b875cf92d2c7eab6a5d0a630ff0a5f3fd1abbd73d5acf6209056861ae4de5ba925fc6fc1f0feb4631626bee53a5c1d969a307893a050cfdc1efc6f7f7b1200057b9dd94bc05ee52e85d60127e00d56bb38b15da90ec9b763729fd40644bf27f1cb19193c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06fc7c7e253ed2f4fd701fcf31f27c1a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everlasting Promise",
+            "episodeId": "utawarerumono-1096?ep=17118",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a75f55dc35988a4175b620d8404f23dc86cd954fb87c263e72c340f64eb86edc8b4b1fb65375e252b440d030a024b15ab74310ca491a9433b05202b297b5b4269ad8c36a73aa531b14c898c6feb4fc6e821c2fc4dc0cfebf6362cac87d44d3197e4fabfc488468fb94f59a2d453e102bccaaaa77cee674ee6ca06c204cbc9fc4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00d99c574375aa462cf55ae1a4c41359/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a75f55dc35988a4175b620d8404f23dc86cd954fb87c263e72c340f64eb86edc8b4b1fb65375e252b440d030a024b15a97307c50a692fd91eeab847eaa3fd967ff544d6f9ceabbddf6071fedd8c8b2780d32bc63417a684eda477d21e2c09c04d86c9441c9124f97e24244c2bcc519e3cf5bca21e2e950e7cc68611ff00f850ddb467be57c4b7761ea741c954bb2045f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00d99c574375aa462cf55ae1a4c41359/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unrest",
+            "episodeId": "utawarerumono-1096?ep=17119",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c28021f0da7e48d69d115b1557ce7da1f37977f957c036439ab36f3aed82383cd92eacc20508d6f86ac24b5485d814b426df02c1708903111cc6406a35388a13c045d2f4425dd1b9480cdbb178bd1dbadfa63e19270a7d49c9d84733073ea5f31919c228790ca6f2a8170c502044fa8d991e673ee0bedbd63cb814375da0bf9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4dc0506e6d8ff41162a9057ee2d7ac05/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c28021f0da7e48d69d115b1557ce7da1f37977f957c036439ab36f3aed82383cd92eacc20508d6f86ac24b5485d814b4599e50e0a231dfeee436a4d8f4d21d342085a42a90d78810fb05e7542db05a0d44f03b43587e4edb2d1fe3963b68df1f55d79ba0caf693f690e0752acf78183c5eaab37dafb99488a5a2a83835b9369f5e45fc34e40675ce707e6d1fc0eae17b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4dc0506e6d8ff41162a9057ee2d7ac05/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Bloody Battle",
+            "episodeId": "utawarerumono-1096?ep=17120",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/e909d27c14f2d558d4cc424705f7a78df6146b557c62a94653534aee0f246331bbac800bebdb10726e9fb7d114430c8accfd178ff390d47c666e45958e151060304374153fead0f9c9ee4a155cc3c00b47af52b32253716de20cf66d42f583d8a786d9460b20bded66b651319481ca8a0dd2d53201f111078acb4a9b4b81474b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16a670c223ccca1cdd4f71284db8c3ef/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e909d27c14f2d558d4cc424705f7a78df6146b557c62a94653534aee0f246331bbac800bebdb10726e9fb7d114430c8ac61c601bce8c2324b29da29bf6bf2559ee779ff0a5c241ae0a4b698c96778d9c5fb0128fb77a5776a40de7bc1ae2cbca828e2afdd9060df56def8b20cb6d418a0340adbc938f67b4a1030d96a4b94602cff48817e70ae4f7b502af000cdd5585/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16a670c223ccca1cdd4f71284db8c3ef/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ravages of War",
+            "episodeId": "utawarerumono-1096?ep=17121",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d830c2abdc1bbe618c8dda19dcd75680dbfc12981a94972171b074559adb4712f9a38edfb3c59a0375b2a02f4d505bc8b518de581a497d2b18642f31f76fcdef5ca21c14c9333f895d760e5743f421d5088b354d3965ffe0499d0dd15c99155d7b9ddb132f512b2294e6b1acef5739f4fb4eff57749ba57374326cf8e458edd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b2fd33e2d94c3c6b77aa6a16e3f221e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d830c2abdc1bbe618c8dda19dcd75680dbfc12981a94972171b074559adb4712f9a38edfb3c59a0375b2a02f4d505bc81eda0859a6a9c3efe1b240b225f2a315ccca230ecad9bb8ff716d0c3fb7e6426476e4aa13277bff9957554e4fac39021a027f7ea900104a6a318d217871e9db497fc8bbfed5879c2172abcf74fa3e035d78a42bd4894ab555bdb5626265f92b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b2fd33e2d94c3c6b77aa6a16e3f221e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "End of the Banquet",
+            "episodeId": "utawarerumono-1096?ep=17122",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4766b25e4188cdd8d413534cc4a16177730030b2c9a49fa3f59e80fd0a6d33a1806f335399e8e4d2088392ff517d662a35d829da62e99e9bd19ff7be20420234bd4838ff84a72c37c4ae363978ed700537c1d85e4bdddf2ee0e0f74a5ddee2ef843530e83c2545110170e9b8add21d75af139ee26d1d3376f771260613d245ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c8232994ef6ec9fdef0dcf03e80e942/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4766b25e4188cdd8d413534cc4a16177730030b2c9a49fa3f59e80fd0a6d33a1806f335399e8e4d2088392ff517d662a096c85fd389e00fc8a63dac47efde19d41c6e1125e536f7af810968b9c14116103d8c7735451ce7a458fec10c80e7ade6f450b68f3edd179e4356d7e1e4e68d8d1cabc7533e01a8b9b8a9a20e41a8ce9f92b6155f05b604350b80bacfa34d3dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c8232994ef6ec9fdef0dcf03e80e942/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "At the End of the Battle",
+            "episodeId": "utawarerumono-1096?ep=17123",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/77a5d341eca016692afadc4d54e694410d8b86bf14d50e19fb95852f75e207c16b10cd8ea96c1232e158e0feed27ad08ff0c9e3672c0fb5a22bfdd4414abcdb5d6aef90f233de1a831de77498a60655e548169459d76df0ca8e3142ffe9c5ffaeb3ad2508629d7a78bd1c4adbb7a1a08db0febba55ad78d0fe34e1cc607b7888/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66399d90542433078a9c67a14df6c4c5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/77a5d341eca016692afadc4d54e694410d8b86bf14d50e19fb95852f75e207c16b10cd8ea96c1232e158e0feed27ad08e00f112b5026711146300ea44c57646d4ae758ae566bca7675b62b7bac88798e647ee293b430ca9aa0d9704a5397925e1311d6a385bd8a78a341a790070b5ab8cd1bdc485032d2d9ea315260132db823392c24925c52662d47c2b958fdf09e76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66399d90542433078a9c67a14df6c4c5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Young Sovereign",
+            "episodeId": "utawarerumono-1096?ep=17124",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c375f9f4b02833f2f9410c880ee72486b179a59123e74dc42cc51bbe161f28b6220638902f018b5d30d22110011ff8cf99760dd676479ef60f77932a63621eb637f4fb25c42f827f2ef7161b6d4f1ffe23ffe76a7ac305f6c7691668035b99399377424b25f46a8ec75f4f5c67baa90f76625fac2c82365b1ef71cc8ec1efffe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d5cbbdab4599fdc1d1825e5d24d1db5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c375f9f4b02833f2f9410c880ee72486b179a59123e74dc42cc51bbe161f28b6220638902f018b5d30d22110011ff8cf14f41bf3918590c3fc5ce37c31d8f4c5969b3dfee7b78285d7c817df6a8d6bda1f3f6005bc89899bab1e8410d5ee33ecf5d2b8dc696927492aac9f111115f5e290bbac5dacc5fd232e9f88f498f527ddb20a699311afae6ee313273f94e39671/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d5cbbdab4599fdc1d1825e5d24d1db5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rebel Army",
+            "episodeId": "utawarerumono-1096?ep=17125",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/28ce54ed287eb3fe35948916e2890d21c24ea8388d608a6974a3d1ebc110f60e387662e3184d625e74d71bb806750425339b8151706b6bc03f84b6342fcad71ce239ffae32d0b792c85279ad0bafa650f2f9812624ce66e487d4797ae0c0ab836219d34ae41eb7b5eb9f3c3ff5eb192d6f4de0dd8cb10d3bdb656907c28c5c2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4198998696320cab051de361869c61c6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/28ce54ed287eb3fe35948916e2890d21c24ea8388d608a6974a3d1ebc110f60e387662e3184d625e74d71bb806750425c401fb85b2e4f3947ab239f9c13ad38d3b01d03f1bd9379bcdcd02dde8b42354a4e0f806e9ce3482632622985a279f4d7d6df814841cc9ac59ad00a855172b4d4fd9c0d66357f0c2399b336c7a3da365df05c6db8b43ae880a09d1fe2933cef7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4198998696320cab051de361869c61c6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Farewells",
+            "episodeId": "utawarerumono-1096?ep=17126",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e51c47b991a046ff639269d6a7bb81f740b972dc5915162cb38adb24f2c647e4c78a6fc10e10b38b4f2d1feca3d13a8b70dbfebb17c3112d4902563f064320ac6493641e2cb1822abba4a902d14ad329da0afbe83e4ef348bf89ad55a765149865d33ded5e13eac9307a9213df6c37f5d15088066fefcdfc9cff5c5fdef35cce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e9258c5917caa1635aaabbf461f0814/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e51c47b991a046ff639269d6a7bb81f740b972dc5915162cb38adb24f2c647e4c78a6fc10e10b38b4f2d1feca3d13a8b891bc605f5eecf924eaa5171fc2099a24f6a4c6ecc7ac1d5653f40d512bde4d8755b77919dcff02f9fa61497177f5f5b905d27d25ff73c2d970a4d0af0fdb7c2dc25674bf0b092b32380cf3354e7f35ffd27a589422a6c7635dba48760afa3bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e9258c5917caa1635aaabbf461f0814/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First Battle",
+            "episodeId": "utawarerumono-1096?ep=17127",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/72a9780f0b4ad1244e34eed589ad62b581cfedab4f1864c4ddcfd11f8ef84439c4cd8101c8ebd19fe491eaca8c52a1abfd1f95f5931dd60b2facebcae7be18a3fe75cac224c0fb49be39ece893fef042039e357b85a7b20f5ed5757024cb422697bc246700f747adc498bc93e7bd8f0213a4d72b5698189b201c796dc2ad59eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21c69c5f828ef91b957e348229cd64a8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/72a9780f0b4ad1244e34eed589ad62b581cfedab4f1864c4ddcfd11f8ef84439c4cd8101c8ebd19fe491eaca8c52a1ab8489cc81126a0cf037aa8dd295361cd69fc749259f84296d01966f21568cb5853e2364aa19086612dd918cef46dd7ecc8d9874b89b9dd5f51c906724a2fdfa206739463f74f4a0f6926e6d4a4f49cde3df9ee3353ef2c79555e1c50af6063335/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21c69c5f828ef91b957e348229cd64a8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Great Seal",
+            "episodeId": "utawarerumono-1096?ep=17128",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/98a00bb29bdf2b3ef17f09146b13554f437cdebf92e0a5b1c9c380e8dcf56eff5adc89177767506e6a091cbc8bd64390064860e70011c4575b8727a40109e8603d3b61bfb3b4906fd9d48f6835f6f746bc6184b8e436942431974593e2d8eb51c85d40fb0bf44ec616d42818a969e731bb6872e4f43434264a22d46c5e9a66f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56d91d38e613e84dafa23fec7fcd3535/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/98a00bb29bdf2b3ef17f09146b13554f437cdebf92e0a5b1c9c380e8dcf56eff5adc89177767506e6a091cbc8bd643907074c416e46229aef61ef73c1e98ebf13243bb7b69e31dbf96227cd5dc261a8e4b3eadba81b909dd113b22ee266295a1902962dc33eaba479b91962d99c40a1245af7df7e466e22004e3f7f5bac307a9b52810d26da7162dde826bf1c4ebe8ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56d91d38e613e84dafa23fec7fcd3535/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Odious Pact",
+            "episodeId": "utawarerumono-1096?ep=17129",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b725591f114fdb8ddb70ce799e3c64fe80cc23e3bbaf6ab4c8342755a2de32589f8e5d83c6580b110ee686b08c543421112f631151501548b530da0c0ff9c349d0750ef80859aba8a10edb8a70aadfe2d223a6bc07aa082f899fb49671592741efc6ee4b0b3824883ae810e74c2ef6bf2ce13fac0979c2e2e102d1c2aa6be226/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8e967d1178a999f349ddd14d5c4dc05/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b725591f114fdb8ddb70ce799e3c64fe80cc23e3bbaf6ab4c8342755a2de32589f8e5d83c6580b110ee686b08c543421fae1899450394103058c727124ffb26ab2c3018234d3e399c72257d955785124b101296b6e11279f012dd4efaf1ee59fb09efec106641858263e6f3a72807143e42aaf597fff82b8d0d0ab01729d2465d38e30a025c4ef8d2e28ac902914a83b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8e967d1178a999f349ddd14d5c4dc05/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Where the Heart Lies",
+            "episodeId": "utawarerumono-1096?ep=17130",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/232addaa893d89f7e33fa58c4d09738a2cf51c1c4a340a578a38e8b853f279f86f25634093ad08f8c08ff0cca5604e2a13cb569373448a32edd3aeb2b5efe3f592f009101f9a5e60ad06645806eea5dbdb78ca24746ef763ca5fb68799e83e2e9c03be727e46750f399e207a2e92e7de982858d63df149697c6203940351fe3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e4b123b51b812761d66483997f73b7c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/232addaa893d89f7e33fa58c4d09738a2cf51c1c4a340a578a38e8b853f279f86f25634093ad08f8c08ff0cca5604e2a089337e5e7a753e0dd2fcdd74a13ccfb1599b2ee09ef61f9613a3e35ecc6dd03277b3eddeedfcefd1d7bd021d6b43caf39f9cf3dd3f1d4369c3cc981e2f217a0138db41c3c78b7b770ac52bf1182d9031cd5c95baee85c6c6daf585e1fb3df63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e4b123b51b812761d66483997f73b7c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "On the Path of Destruction",
+            "episodeId": "utawarerumono-1096?ep=17131",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/61e24c0a202a5b9f4852906729b6c6a91d9374ad554386bdd40eab9d0d2ff20cdef0449d525a03a8d524cf3e125c5e66f168b260f99c1147bd210a1178e7e825c84eb1359666dae57d5ccfd9c7ad0dbbbc10899174fbd5a1fcc02d0b09dd65f183300eb71995ba2f38f2afb1ab69256e7bc36c14f053c9ea9a32f4561680f74c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d037d69fdf6c9f6cb99b2c5e80aed99e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/61e24c0a202a5b9f4852906729b6c6a91d9374ad554386bdd40eab9d0d2ff20cdef0449d525a03a8d524cf3e125c5e66935dc59bc19822b5a7d9929bced3ca4441207a853f28cbee346a5c748dfdde6b1557bee416eb7a2eee36663e788f5aa6a7b90e6579268f591885913e9a7f55cc9a345af88fec76efd895c90981e98d3e9f4b3ca4e900bc91c242f7a2ed6546a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d037d69fdf6c9f6cb99b2c5e80aed99e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Traces of an Ancient Dream",
+            "episodeId": "utawarerumono-1096?ep=17132",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/585762a2966208f3fec7028f26304a2cffdc490a39c958c44e4d67c0d9ed78f57ddf67729538f4f81ad95f55e1646ba810f2db40f2ff9c45466e4800d24e8d3c4213594aad5cc48a941992b826ab69e8ee2185d4c4f2108413f1de735770717032ef085d38e79853ff09dbb96d6143a827215b321b43e74f3400dfbe7802836f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/daf0b7835c4f725d411633d8cabd6bc5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/585762a2966208f3fec7028f26304a2cffdc490a39c958c44e4d67c0d9ed78f57ddf67729538f4f81ad95f55e1646ba8f46666b08439136e34fbe5684e6052908d2f324ffb1531e8b8b1676e84824cd7ab35ac0b0808098484534e163220c7a5e42e09409491fe57417d89be361c481045f495eded0e55e0976f1e458c2c1a927a779cd1e0cbb65d7f346518da5eaaf1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/daf0b7835c4f725d411633d8cabd6bc5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Him Whose Song is Sung",
+            "episodeId": "utawarerumono-1096?ep=17133",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fa6d009cb09f28067334cb3d8e06d8e7d4caeb625cf8a5eca0e42edadffeacff38108bf78f2134d4a1912949a9416b6a3ce65fab03f9f11c380aec95cef7e608bc043e2aa6c3e318070a7833689ac7c759d14690167a5fc0146cde435f0a2b7b0cc9e8c23356f86564a110bbdce424d3318390f1e037b65601fc66762771f609/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff180bd4beb3e8e593e7ad45183e7101/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fa6d009cb09f28067334cb3d8e06d8e7d4caeb625cf8a5eca0e42edadffeacff38108bf78f2134d4a1912949a9416b6a9b47362d0e3b8235c916cace05a70b4109806b2543ae47c55f73d3eba6074038cb1fcd3c8e8c814f0d2b5c683e7cbfe9e88873e115a4b4bf8345e01afe72bcd098fc48731f5de74c9c6bd9569660a19a52acf33b0cdd8e4645e4777b91039bad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff180bd4beb3e8e593e7ad45183e7101/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "info": {
+        "id": "akame-ga-kill-1329",
+        "anilistId": 55132,
+        "malId": 22199,
+        "name": "Akame ga Kill!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd6b4cb63f4ca2acbee3b55a7c29afb.jpg",
+        "description": "Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience. Without a strong and benevolent leader, the rest of the nation is left to drown in poverty, strife, and ruin. Though the Night Raid members are all experienced killers, they understand that taking lives is far from commendable and that they will likely face retribution as they mercilessly eliminate anyone who stands in the revolution's way.\n\nThis merry band of assassins' newest member is Tatsumi, a naïve boy from a remote village who had embarked on a journey to help his impoverished hometown and was won over by not only Night Raid's ideals, but also their resolve. Akame ga Kill! follows Tatsumi as he fights the Empire and comes face-to-face with powerful weapons, enemy assassins, challenges to his own morals and values, and ultimately, what it truly means to be an assassin with a cause.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/HOB4GZ1S1Wo",
+                "thumbnail": "https://i.ytimg.com/vi/HOB4GZ1S1Wo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/iOle_TmHE_A",
+                "thumbnail": "https://i.ytimg.com/vi/iOle_TmHE_A/hqdefault.jpg"
+            },
+            {
+                "title": "CM English dub version 1",
+                "source": "https://www.youtube.com/embed/yLxt_IszItM",
+                "thumbnail": "https://i.ytimg.com/vi/yLxt_IszItM/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/lnDj-WstPMk",
+                "thumbnail": "https://i.ytimg.com/vi/lnDj-WstPMk/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/FFcROvDQVbU",
+                "thumbnail": "https://i.ytimg.com/vi/FFcROvDQVbU/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/nsqpjtceIZo",
+                "thumbnail": "https://i.ytimg.com/vi/nsqpjtceIZo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "akame-150",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/21040895a8c82cdb6350a0d36f0a1c53.jpg",
+                    "name": "Akame",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "marieke-oeffinger-4185",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3c98914e8481bcaaf464e3b7e4f35cab.jpg",
+                    "name": "Oeffinger, Marieke",
+                    "cast": "German"
+                }
+            },
+            {
+                "character": {
+                    "id": "leone-774",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9930a4f6823fe837ef0108922d172810.jpg",
+                    "name": "Leone",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuu-asakawa-357",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d2f1bcabec44a12fc2ca932f22387510.jpg",
+                    "name": "Asakawa, Yuu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mine-483",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/572b43069692c7e3a250d82352445efb.jpg",
+                    "name": "Mine",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yukari-tamura-77",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb579c9234f22964803115db71b863d0.jpg",
+                    "name": "Tamura, Yukari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tatsumi-606",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6807568df6776dd282c078a7fb925945.jpg",
+                    "name": "Tatsumi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "corey-hartzog-4205",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa86e4c8ee959ad23998024f006bb719.jpg",
+                    "name": "Hartzog, Corey",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "air-18015",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b238f6007ab554d06187ac87f7ba6959.jpg",
+                    "name": "Air",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "aria-20322",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a62f8b42c5c3ca83b1ba95a797ae0370.jpg",
+                    "name": "Aria",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "brittney-karbowski-176",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/22693e7a18d087d6c0748441c506c530.jpg",
+                    "name": "Karbowski, Brittney",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アカメが斬る！",
+        "synonyms": "Akame ga Kiru!",
+        "aired": "Jul 7, 2014 to Dec 15, 2014",
+        "premiered": "Summer 2014",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.58",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Shounen"
+        ],
+        "studios": "White Fox",
+        "producers": [
+            "Square Enix",
+            "TOHO animation",
+            "White Fox",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Kill the Darkness",
+            "episodeId": "akame-ga-kill-1329?ep=19306",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3fabef8b944ea6ffb8e5434c05b321b9b51ffe3ec11003b14e56c8e4bb140d8dc8d515bfddbb4c778a7177f7b86fb9d3fff7e582af3d60152f2b1654e566762ad77631d98c0e295f857fd00b632dcd3f7f3ae9de5e9cc366ea2f0238a2a2484ab8516fd3cd3d07b44794705b9fa4214d1c19407825e1fafc8e2ec738f9b8c5e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a35b43e879b2d0de73b21bb5a6b1c7b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3fabef8b944ea6ffb8e5434c05b321b9b51ffe3ec11003b14e56c8e4bb140d8dc8d515bfddbb4c778a7177f7b86fb9d30e5f885cc40c88b8fa59f59513b2db4279d61041e2a01dd21e5c95060dc8ef08c9b2748b3337199b5a6e98dfb7336d52df3adf193d41fe018a230f78663b38d43f6ef49545bf13f27a0fce751e25988f5c6acf34a81859e2d56c92062772b895/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a35b43e879b2d0de73b21bb5a6b1c7b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Authority",
+            "episodeId": "akame-ga-kill-1329?ep=19307",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0bdf5370ab604d13823dfd84220a92528330d0143fa22797f0d540350671208d195fe682891b586afc1d5119d7e8d05fe3edc04a56d1a1706fea9f2039074c911e9cbd23fb5e66ae924660f1c7de0195962f21e02534b135cc3414c1fbdd44971e5369d347654d597d154811a6522d1530f5741f4c5288de6e912ed516ff9a65/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e81a91d08691744770f09e1357a634c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0bdf5370ab604d13823dfd84220a92528330d0143fa22797f0d540350671208d195fe682891b586afc1d5119d7e8d05f740d785b3e03e1fa6780e3465fd1ea232a488e900c1cb5cfb47a137375edc3dd14cc107e9f9e1b79b9812d16411aca4e3bcb20a60ccf18b1cef86325499d49c325b8056fa71bf2adfdba397ec9c04a2e4e68a8333fa192fa8fc401b8532ff238/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e81a91d08691744770f09e1357a634c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill Your Cares",
+            "episodeId": "akame-ga-kill-1329?ep=19308",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0426eb607a5762d60c3f81476246a9675b4d1d9f44fd57c34fbc305e008afe5b5b3f1ee5ffafff02655a0d3e5884015fe48196f8b13d68a0ba380e1a91553b526c510fd2baabeb13a939e58d5ce0794d0bd6d0a2533425ff09bf513979d2f916a7fad4c19d3b083df53108ba78024f5f8072c5be7ac9aed1276ed5f377e1bdb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93bf47c939a0e6d163b9dfe3d8fc9694/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0426eb607a5762d60c3f81476246a9675b4d1d9f44fd57c34fbc305e008afe5b5b3f1ee5ffafff02655a0d3e5884015f22f374ece341bd2d737e61a4a22a2d755ebd262f0e10cc78cfe0d4b964806aec7b877c39c14b6971b0cf5713a91cfd9ca4d7d8acd3e7bf01f5c9485baabb53b5e880bdf50ecdbffab002ca29a58e86356cd7d5999294b900d4f5818a49160ac8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93bf47c939a0e6d163b9dfe3d8fc9694/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Imperial Arm Users",
+            "episodeId": "akame-ga-kill-1329?ep=19309",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/57a62cd09d8817062b245b07584875a32c33b768fc984ebdbbabe0fc2c2e68e30583280313a9976039dd5a571d933550e18f6e6250296f4d7c485a90e73839e46ccefde2f770bc36d92857aaa42184eec2987b0491bfb85939b937fcc3a97cfca60c12d6908934159db35977421776f64f5655cafbd7ca030421101e04715304/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa8a06043f88ae4692bff9718d94494c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/57a62cd09d8817062b245b07584875a32c33b768fc984ebdbbabe0fc2c2e68e30583280313a9976039dd5a571d93355057533105c806e72753d6615f9ebebf8736496a1bf70c6ae1426c8c2ef3b38e3ffdc0ec8d7d62d24ea58844109b41fb8375188665107716ae23017834979e20911b7e7e599db92604d937db377402c90217b0ac867408255d94d1cfb0a27e04a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa8a06043f88ae4692bff9718d94494c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Dream",
+            "episodeId": "akame-ga-kill-1329?ep=19310",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f67c793eb0cc520a8622d12929f88714f54d3023041328c2351ea51e202976aec260a071a6368c03248ff7f78b72b309c76b26731af0226746046ddc3db4c4ccb27070dc25708d2cf683a5b4ce62c0513fdbca335bf02b5087b3ec522e6df0dc9f7b26a1e7aeb3a98d12efac99c721cd8384972f03cfe54d3cf47c6238ec23c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15575154b077e64279a28e27fa60d9c0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f67c793eb0cc520a8622d12929f88714f54d3023041328c2351ea51e202976aec260a071a6368c03248ff7f78b72b30909ce9fa94e78165d8f106a6b81c60825557f80a70fe567424117bc9e286086687167703b2b2523c6c1e8db3aa3425dc3f8667e5d5955b005a88cfe5ac35541ddf541263b091002f590c2cdcafa4d1ea6776bf09a81f22235b9381808dd92fab2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15575154b077e64279a28e27fa60d9c0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Absolute Justice",
+            "episodeId": "akame-ga-kill-1329?ep=19311",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3da8818f5514965e6427db5a7c46fb695f66808d7909dda14101d8fce7824df80154467ae0eb115b46e34f65fd7d3cbe08a5078b932b3817699e0f3049940f28e608468f9fb4e73345898a79d52f558e31fd68617222c8cb8ae419a5efef3b9100ff48cf7231768e22b887dbae1f9c677ec757ad0cc295b0a5c78559c9283d19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0be7642f6dcbe5d08f99ba774666104/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3da8818f5514965e6427db5a7c46fb695f66808d7909dda14101d8fce7824df80154467ae0eb115b46e34f65fd7d3cbec88d8520c4e4a38688ef05feb10e322159eccc5902c6adee743098f9c9909a6b5114994aa17a34d59fae4f7bb131d219009ec0d75d32e00d3ce1a2e85833317f77b2f2b3733d0ea7c7e56b8f80ca901f0d48b811820a5e741439d088065fc80b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0be7642f6dcbe5d08f99ba774666104/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Three: Part 1",
+            "episodeId": "akame-ga-kill-1329?ep=19312",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/dc5ded55a0bd34dd14d2e54c43648ec14e061858ff9326364573a0740ff74c5a1a79ddafd3ac5438714eac3cd99d1eb020c3bf9ac3807f46c8e846a257f9ea77bbf5329554113f2e1f2e469bd8496c1a86482fc1e53b5ebaf58571ff5c3ea8389c3e18e04fe4cef4a7cbff63efc87e936e98d6bd5a208fd6b0273bacfaa80102/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ea5adb49f64bbc5a23e6ef9ddebeb92/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/dc5ded55a0bd34dd14d2e54c43648ec14e061858ff9326364573a0740ff74c5a1a79ddafd3ac5438714eac3cd99d1eb0284a961cac19e46be976ca55f9943b548fa7e0df0e0ee3a31f53a06de5fd11b747d236bc11f0c068d249b3b5ad991ebebf8f4b0f0f4599f7ae8e64d8b82524ae5d18a47bd5c7796a6d23eb3ea5b52670b22508dcebdef846b82802175689ec12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ea5adb49f64bbc5a23e6ef9ddebeb92/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Three: Part 2",
+            "episodeId": "akame-ga-kill-1329?ep=19313",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/48b96d6bdb390d052813dd4c1c6a907c97d3786ef632367482848c3bc3ce227a93e8cc65bc0f4459173db585f741dd48f361ab3f132fdce209af7dfd2bf67f633e295823ef8ebd69ebf7182b3aae3b48c2bfa135f366fe1fdaef86d3a28117c14d649a65ef6b4b4c41229bef5935205484d4f56339c6dc40c5d4d00c1321e7a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42b78aed17c95eceb8cc2e7a3baef9a0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/48b96d6bdb390d052813dd4c1c6a907c97d3786ef632367482848c3bc3ce227a93e8cc65bc0f4459173db585f741dd489111e24303f08eb275bba53f8bf583f7ff8f43cedfd84f43caf5856e86e4d5a4814f7a0622511f1c1c97605ae63b49911fe1aec41d356c8f902a11ca7a4c97d5c8a038f8a078117addf9aac2cf1f9fafaa02dc62abe2c607480bdb5850711016/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42b78aed17c95eceb8cc2e7a3baef9a0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Battle Fanatic",
+            "episodeId": "akame-ga-kill-1329?ep=19314",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b99a0de61d9296217b5d711db8f730759683951c1ca58d7006a5ef3219eb791ed7695774015ef475ce973bf928d15a87ec5e15c2cf5ce757775aecbb9f8db0f32bf3262d73d12c153a2f3d492801bb98b3240154516713579c66d98db6eaeb2ab44baa40a8a4e80e09e71fcf5fffdb2f57151d02669e7e050d94fd50ac1f0be5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d63cc6083fc010035a9585b27de33a7a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b99a0de61d9296217b5d711db8f730759683951c1ca58d7006a5ef3219eb791ed7695774015ef475ce973bf928d15a8748e7a8a8361289c9f103a51fcba4dc8592d49301ae1d6b32b768667746a1ea2d5bbc137b4a56161937dfb3b112a39e515a57acd449ef819833f48309fe57f4e6f6eb7fbb23a26304a9350f2cdcaf7d1670fce18753af942c25eb2e2c83e48dd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d63cc6083fc010035a9585b27de33a7a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Temptation",
+            "episodeId": "akame-ga-kill-1329?ep=19315",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1d00c061ff87091d8eead80872137bce20c88f9dc5068bea7222d34b76da1a392d760c1b9564aa4c3cba26b0d7ebdb92fe831982fc04d269cdf54f3712ae311a9b031fbceffe5f51928f7e1565583d61586b5a66fe767dabd6b1de603dee3fafa249d4853aa9bd79c3e9c96c4dbea4e4acaaadb657f81404ba298b8118d842c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/493a63f96fd6f14a283af58b752c3cf5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1d00c061ff87091d8eead80872137bce20c88f9dc5068bea7222d34b76da1a392d760c1b9564aa4c3cba26b0d7ebdb92805a419272ee3638d897b22e45dc3ffc9b78ad2a456a647d6979a0b6af6f205ef762f1de99269a206567c2180d9a5546a102e9821daa30cec7a06c9cd9ba80d160506e1c91a610945f7336ee8f8b1f01d5e6fcce69a372d1b7a3477b7fb415e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/493a63f96fd6f14a283af58b752c3cf5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Mad Scientist",
+            "episodeId": "akame-ga-kill-1329?ep=19316",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/589f088127506366efde7022dd9af62fbeb8e748bfb2e9409bc3858ce0aa632c09284e95dabc656cbfcc763c41dd22f1c31c1eae6e861c886023a9495db9f96274f09b2b779d5841f778b99955255862b83ed98834b4bae22da48d1dfe5db1b469291c320bca8ecca567aad47474bf7d836c5133de98ab31ecc43293a6542b7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff20a415c5e89666c2534a90a12333b5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/589f088127506366efde7022dd9af62fbeb8e748bfb2e9409bc3858ce0aa632c09284e95dabc656cbfcc763c41dd22f15d541b2f0d6cefb33ffa4aa7095d4ea76cc31b2f0c62155c4b24c4af3093b5ab33e74ba5db174f31115f252726ad04820eb373d8d17bd40fc4919c2313eaabdcb16cdd01de9bd15597decce978f478745ef4118bed86e83c725817fd23275a6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff20a415c5e89666c2534a90a12333b5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Newcomers",
+            "episodeId": "akame-ga-kill-1329?ep=19317",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/49db50eeab31c00598a7dd9abfa377945f4a0abffe62cd6e239cb0d44b059fcd8c79a8c5e02616ca953b774f2511f22ed2108121bcecbfa30ce0c2eba4ebb33b49ddec053e19ca24cf8876076aa16d038c1e7281412926223bee6f82e55524c7b91acb19da5e77c665ae5582e01e28420598fe1e27953d5d52bac21db4e43a29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eca6ffe516afabf108483c5f4d3b3294/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/49db50eeab31c00598a7dd9abfa377945f4a0abffe62cd6e239cb0d44b059fcd8c79a8c5e02616ca953b774f2511f22e7ad80fb8680340b40f4fd29a1762c7ae3904b0ecbf778df475fe6ce6d2afcc9913c1e3b0e02ca920b58659fcde1e856e139451d0b8991574fcab1e2dcfb6a2e7331028b88342a337e657f34cfa54a2d4420bc72f361090dc5f4afe6bc2f2305d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eca6ffe516afabf108483c5f4d3b3294/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Nuisances",
+            "episodeId": "akame-ga-kill-1329?ep=19318",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ca5d62ee6646d4f214ab58f1799ae27671f167c4a10b7abd2e0d8a6fc602e15010c171c1c43b1e6a6f969b96acd1942ab7fb4ba2a50d56d3f9f5547bf0fbcd2c0c20dd81e08b368dbf69bd3af2ac61975330b9d9cdbe3d27cf0a51f742c0a2d976c5b74d33d71bda9dac5a236f3460a97ca8677e4cc1e72b0cfd357b63aa2e0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76fbdb9cc7950115f4c52f26f786a4de/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ca5d62ee6646d4f214ab58f1799ae27671f167c4a10b7abd2e0d8a6fc602e15010c171c1c43b1e6a6f969b96acd1942aa4ed356560f4949f2da10860e8040891eaddd120e694f58dd5ba6d7e20860686783e60fb1c5628716c898fab24cec861c9fbba8c7b2a02e2f4ca675e0ffce717a41bd8287ff673bf806dce837faa6afdacd828896b97546e89bbf74dbe91f452/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76fbdb9cc7950115f4c52f26f786a4de/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Colossal Danger Beast",
+            "episodeId": "akame-ga-kill-1329?ep=19319",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e8a0e0e486d432580ea7caa4d99c1ac52dca2242861132a876df27d07f60f852f0eec49fe1884cf27f68b12c4aafd223a7849d15264dd97133224eb31a9a7aa2ce3049d399f0643f54efdb339e2f2e699b37723e9757ce3dbe0c31b3eb7aefcee309312a552d5c1b290db9646488d353735303a85db13c801191aa379246f735/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6182cf150e50b8b4903562a535483c4f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e8a0e0e486d432580ea7caa4d99c1ac52dca2242861132a876df27d07f60f852f0eec49fe1884cf27f68b12c4aafd22385d0120833f39dddff1735a67a9d9259d0c24fe39689fc7683ec5f5ffc912625f4b1d03fb3ceee0d5ec337a25ef6ebffcb8e48156987bad4a4463d5f3306d3177613bb9d6229674d840e78b68dc6d8c21cfb4e23564d3cba121ab9e872c673ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6182cf150e50b8b4903562a535483c4f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Religious Organization",
+            "episodeId": "akame-ga-kill-1329?ep=19320",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4c4a4ccbc4da7e9804fcd550fde56c4e60e146ddef687564f1e757d723fe1e96a9422dff609c6d1419e7a9fc93c7470094237993e50e7b987bc0d9e1f456b70b44ec1f5f5ed3aa1061fe721578e3904054ef170f3f4c1eb43fdec2cd25e182029ccd3de46db82fad3a2f4822b3c57a5d5479d7f9475c32cd974de737e04582ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/121400fd894bc1b3804c975f7ee523c2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4c4a4ccbc4da7e9804fcd550fde56c4e60e146ddef687564f1e757d723fe1e96a9422dff609c6d1419e7a9fc93c7470019d7a22a13bc1b66cf55f93d955d419b0d0673fb1a21d5033513955abf61d7dd2a7d7a45a56fa5e85eed9618b98ccee2c5fb236e956e8c2bd748b786df2ba3b165b582d0b0735cc9c11b8bb744001a904ba9e2a73b20fbaa3b1e03f22ba5dd4b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/121400fd894bc1b3804c975f7ee523c2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Puppets",
+            "episodeId": "akame-ga-kill-1329?ep=19321",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3ec0b60ecfb8460b6bcb8d3a1a0cbf990b2c29cc495d2498e5fb316a0d8a4b04689a23b28aee9e29453d8915471cf0e8660f1cfb566de7aaa2282a9cd5e4e5c8b95fc01f1c351c6c201cf0c7417687887b2fbb2f0b7021a31429e086141cad3298279d16da57ae7b4faf796d441b79bcf0d4fd1402786b2cb185c3a6d4f401ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed4890ccea3bed39e7699a459ffbec48/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3ec0b60ecfb8460b6bcb8d3a1a0cbf990b2c29cc495d2498e5fb316a0d8a4b04689a23b28aee9e29453d8915471cf0e8de052ad761f9551cab459c00c00ff8e19c1cd0f74f8d8d0920b6ca04f99231da0a6a1106f02b20bdf5876d9c16cd96e8e41d141dc67bf855e706da92c0a7e9db3625c1f4152f9e82214d53155468cef10a3e56abfef8c1a67ed484ed6b22b4d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed4890ccea3bed39e7699a459ffbec48/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Curse",
+            "episodeId": "akame-ga-kill-1329?ep=19322",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a8c9a70a4570904673f5295fcf92e030a7411e1857457c1460bcdc1e14752360ad271351cac6d55862bec1d44147506b56e6413ea1b27d6460da9e979d305892a8dc9dfab7ada975c11d1cb2045862903087879f9bff871d407eabeb6ed86e1dceb01608010364f64c733a4a3b9c77bece905ddd4a1ce8eb39c12fc3f1e608b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/239c8789b8a52666cb522b23715da119/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a8c9a70a4570904673f5295fcf92e030a7411e1857457c1460bcdc1e14752360ad271351cac6d55862bec1d44147506b7c0806c3caa952daca38ab82bc052e52a80d4bee0ccaa8d5b97007835ed00c4becd75f5c217091ebfea4bbe4dbd7ba9626efdb1af277f4a6cc975515d5ebe4ec409407d0c662c038729298bd7efcff3b8e695a092aa4d2e98e6c4a8bf97fd3fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/239c8789b8a52666cb522b23715da119/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Demon",
+            "episodeId": "akame-ga-kill-1329?ep=19323",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/60e45d3631cd4697e70cd10b1528b67dd38c46085b02b3ad27141f14e36383232adec95baf341d47d83d7d72840cb1eca9830d5cc75e90eb0e94fadcbb09e4e3f183cc46d6a96a75bc39ffda38577006cc0e914925095e9d5250f504dfa4de95e246f38ca700e9e4a7d69cf703846a73632afb79eedd6218a00958066c844eff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a52fad40274059867bf0a32448ac6fb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/60e45d3631cd4697e70cd10b1528b67dd38c46085b02b3ad27141f14e36383232adec95baf341d47d83d7d72840cb1ecf8e1133d1798b0d89359a33df5618b0dd70fe198416cdc3c5a9507a0edb5398b6e080642c8cb109fb2f688c0455d12c31fb6bf19609f29a3bd0ac533c2929221e8a7f0675a208faf4116e59614cf31d87fab95dd5a08d9d763d4ea94b489bb09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a52fad40274059867bf0a32448ac6fb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Fate",
+            "episodeId": "akame-ga-kill-1329?ep=19324",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/86176638ae48762ae95eddaecb249427b6ac48f3b0df871a62a3d3366a71485a782b1bb2b3dcc5965ac9cc56749c3b79a0d587aa87282f35d30c58e27a18bd7db119248012e7ae4628837139db364e53cddcbd733fea5995ea67c4a160ba42bcff8313a1844a7dc608e36e4daea7b770d985fd4eebb8f19b103a2c66f09d7570/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac7591c7da9a0cadf80e5408119d76de/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/86176638ae48762ae95eddaecb249427b6ac48f3b0df871a62a3d3366a71485a782b1bb2b3dcc5965ac9cc56749c3b7965ab10ff1a4fdec7d246436c6573a28858887ac198f20dfcf6e31d5b6dc095b78fcdd2df71c51ec12c80b954a9d5e1c93fecac5ae8c6f8de93a7a911655e0525036d1c2ce32ae6f46f868a3ee1f764cd25c4535922e79453ade79141430f69bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac7591c7da9a0cadf80e5408119d76de/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Carnage",
+            "episodeId": "akame-ga-kill-1329?ep=19325",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d3ec315a288fd17462a86f447f5468e89d8d25c06412bb3dcf96f4b4e8ae2e3f531da9900128dbeb0ed2de43a8a4aabd8e077c1a2639daa6a6df4f924e623bb2fdb8395d3445f5df5139d4a088f8dc3330974f42879d96c85a54762969252bab2c492667cc0b547b09a08e2339270ceae12c28054e78b1ce7b72f1f55532df72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e02691e0e2f97b69dda903af899314f9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d3ec315a288fd17462a86f447f5468e89d8d25c06412bb3dcf96f4b4e8ae2e3f531da9900128dbeb0ed2de43a8a4aabd1fbdf30ceaf39bf873bbc5d594681685c1282a972cf982d21704906e80d8ecb0b8287efe684de286f2b241bff6be6ca5b4c94ffbba55ce7dc4bdf551d5759d44827283462f83d00071fa9a0c4dc413492aa44d3292190f3dca8332317b5b54c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e02691e0e2f97b69dda903af899314f9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Despair",
+            "episodeId": "akame-ga-kill-1329?ep=19326",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b1391581325eeee0b5faa5cad6ba4546f6212fe8e2d44dfbe02b207877fbb648c4767a7be536e99ef7f1e6879443fb285b9c10e0c72e3c2550dd784291536e64e026e0e98d4de59534ebc67be3acfada9a1ebc93c8ad3d5309910d86de095167c9c0e9a7fa21ae2bd9dc6d0f395372a43a8d3d21992666014a623441a5b68b84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47f12eed94b6bade4947b2f0c52e8109/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b1391581325eeee0b5faa5cad6ba4546f6212fe8e2d44dfbe02b207877fbb648c4767a7be536e99ef7f1e6879443fb28dfcec70854e11f604a0e99997313ef87c0cdcffb9b0771fc98ab044ae7be63ac2fae2a6d700dae0e17f900367f07b8123409adf96b31ba8cd8072877c54fe5bd1b11feefc49aa5f0c68debe307b34d3acca0a3fab47e334d1f36a9247798152d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47f12eed94b6bade4947b2f0c52e8109/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Little Sister",
+            "episodeId": "akame-ga-kill-1329?ep=19327",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/67df81f0bf5d9af565be2693ca6393b3a5023d145f6963362d2c568e863e62b769459c8d3501ec00460811a6f7b69c3597c49a58c7b50d9253f3dbebb3f14c6f734f06bd444215dc3fd5ab20f44609f7939e3f8d91423a6586bc3208d2adcf24c9a1d1ce466fa30b4b19a9193df11354b9279179638225fa9f625402966389d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1c4b0548c307e668c987e90310fbaf1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/67df81f0bf5d9af565be2693ca6393b3a5023d145f6963362d2c568e863e62b769459c8d3501ec00460811a6f7b69c356bbcf3f96e765dcef31c69ba8e3ed8d85dd6e9a7d3d8ad8b22b24916d57283cdbf4a4944c0dfe78014a7a00e96528c0796097dc716fc8d75a075e9a46aa20e12a9bd90270443dd62c6b4d8d7c9f88fc26db2c6faf52276dd89adc7e6343538a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1c4b0548c307e668c987e90310fbaf1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kill the Emperor",
+            "episodeId": "akame-ga-kill-1329?ep=19328",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3cad35fe2e3273188dfaa775e6b9dcf021565367afd7a98a0aefab5a5d0ad14351a67689d4e5c8b745a1429228124c1cde9db6aa79a6659e9f0256bb4efed2bd66b40bd1e5f56be301f5472eda0d7749eb4101ff03b490b4a19c8f0cc14cc29dd22d1e6cf10a992ed483341f32371a121d5c7d635515996d25191473c88475ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8411b6055eb4f2b5fb2302118f3c0cdf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3cad35fe2e3273188dfaa775e6b9dcf021565367afd7a98a0aefab5a5d0ad14351a67689d4e5c8b745a1429228124c1c9ba517416e66d9cc2d958c89499f5cc872f9b72b4f9bc8d0be8d159502df7f3a7d95dade2e5338c205184c01f55f256be8234f19f6d824416dfecaee5a8f2ba60a7de71490cbc09918f261bd1706ae80c866775978bcd2c1b458c7a4e028081f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8411b6055eb4f2b5fb2302118f3c0cdf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Akame ga Kill!",
+            "episodeId": "akame-ga-kill-1329?ep=19329",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/758bd9b1b136125ca9070bfc255889f82180578235597751c65e4455ed35563c90844196511fd6669fb032bc71c14d254bffc0c0885a0d02f091c3eb575b524a342bec9cb5f1d6787c73287e8258a287efdadd2f347cc4d35cda9d85d46f8fa85d48ad98d1cdcbbfbc875fbb92ef37352c40b6e08fc31e05b155aa51ee71d88e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7aa2892d96e6895fb5f852b4a605ca3c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/758bd9b1b136125ca9070bfc255889f82180578235597751c65e4455ed35563c90844196511fd6669fb032bc71c14d254de7666592615b1f804c9fbf7fd3a5ad669f5c0b7192b7b9021e6ef1a4422ed8f9df9bc38d0179c61056cb4d9ede7a705a3b6c99ff430ae24d0f79a6bac02f17b3b19578cbe9615c8f91c9bdbb044e12048d40773b752ac0bd86635c1cfd8df7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7aa2892d96e6895fb5f852b4a605ca3c/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

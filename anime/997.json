@@ -1,0 +1,608 @@
+{
+    "info": {
+        "id": "yowamushi-pedal-new-generation-997",
+        "anilistId": 21407,
+        "malId": 31783,
+        "name": "Yowamushi Pedal: New Generation",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbd23247d7be76c702aed4eada899587.jpg",
+        "description": "Third season of the Yowamushi Pedal series.\n\nWith the team's combined strength, the Sohoku High bicycle racing club beat reigning champions Hakone Academy at the Interhigh national race and achieved an impressive overall victory. Now that their hot summer has ended and third-years Kinjou, Makishima, and Tadokoro have retired from the team, first-year participants in the Interhigh Onoda Sakamichi, Imaizumi Shunsuke, and Naruko Shoukichi, along with their new captain second-year Teshima Junta and vice-captain Aoyagi Hajime begin preparing as a \"new team\" for their second consecutive championship at the next Interhigh. In order to retake their throne, their rivals Hakone Academy have also incorporated new members and begun training as a new team. Kyoto Fushimi High is lead by the monstrous racer Midousuji Akira. The nation's top schools are all honing their skills to reach the top of the Interhigh.\n\n(Source: Crunchyroll)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/CzDfdy5UzEw",
+                "thumbnail": "https://i.ytimg.com/vi/CzDfdy5UzEw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/TZr3HfiDpFU",
+                "thumbnail": "https://i.ytimg.com/vi/TZr3HfiDpFU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/Y_dHttsRudo",
+                "thumbnail": "https://i.ytimg.com/vi/Y_dHttsRudo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/AMJBNzTZ4K8",
+                "thumbnail": "https://i.ytimg.com/vi/AMJBNzTZ4K8/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/BRFm3i0J5go",
+                "thumbnail": "https://i.ytimg.com/vi/BRFm3i0J5go/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shunsuke-imaizumi-5470",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99121c10ea1f7316b8278c3016daa198.jpg",
+                    "name": "Imaizumi, Shunsuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kousuke-toriumi-255",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6bb21f3d5a1a4f610897433f642f703.jpg",
+                    "name": "Toriumi, Kousuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shoukichi-naruko-2724",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68a848d7a888605d2b1859e917f3d417.jpg",
+                    "name": "Naruko, Shoukichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jun-fukushima-134",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa3068e08141500a0a9a02d29afdd514.jpg",
+                    "name": "Fukushima, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sakamichi-onoda-1871",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47b595af523072c5d98be0efd5156bf1.jpg",
+                    "name": "Onoda, Sakamichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "announcer-114932",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4c0ac673ef4e6e8a2c103460555e4f09.jpg",
+                    "name": "Announcer",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuta-odagaki-13568",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b0d94e4f59a19f26735cf62cbde8d23f.jpg",
+                    "name": "Odagaki, Yuta",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hajime-aoyagi-9104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a34b9bc2571ef082fa4b38ee3aa94c8.jpg",
+                    "name": "Aoyagi, Hajime",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yasutomo-arakita-2351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb0155c379dcdce77d009766969784bf.jpg",
+                    "name": "Arakita, Yasutomo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroyuki-yoshino-295",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0316ad1ad6049a60b913406f0f9efb43.jpg",
+                    "name": "Yoshino, Hiroyuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "弱虫ペダル NEW GENERATION",
+        "synonyms": "Yowamushi Pedal 3rd Season, Yowapeda 3rd Season",
+        "aired": "Jan 10, 2017 to Jun 27, 2017",
+        "premiered": "Winter 2017",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.72",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TV Tokyo",
+            "Shogakukan-Shueisha Productions",
+            "TOHO animation",
+            "Akita Shoten",
+            "TMS Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Last Minegayama",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16344",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5e16b4915ea5d42738046a6b015253410d9889b5b72d29878d36222026a132bff2546a9d8cf0aeb801fa2fbe247bce324bbc5bdfc22d9a2f29aa17963d38de1e51043c629a033fc9a7c104ff61cdb2604b6f5399a9aaa2ce7e3c9c3d311806686ef9fafe72c8dd693f8707cb0578dd8b3db7214d4ad4a57ec0c300647a07f510/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cae0c9d1361c0c743f76593c93c9d09/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5e16b4915ea5d42738046a6b015253410d9889b5b72d29878d36222026a132bff2546a9d8cf0aeb801fa2fbe247bce3252a9c946d9b3326fcb1fce659ebd7cc4259ede092009ef0032bdb9d03bf5334bfbea2a173e4e862db2876f723cf61323c22a6ef90ddeed7cb98605c1a1f4ea4b0e12b62350901de2219b31be1e19189a90a583a3124a71b929249983d3b32a68/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cae0c9d1361c0c743f76593c93c9d09/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Makishima Left Behind",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16345",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e6ad1044b33ec7565f25b58c1f305866c9e13d9bdb372e1a569bb0a839088464acc5fcd1335c89ebd3ee14e0cc976d0c9e23e2ea05ffba7d2bd3b46f2d79f827b0eb3981830e06084d9ef8029deed42e8d5da200cbd522ed9b940d65baf10d2227d869874d34aff3e48a12aec8c67ef18042ffdffe6205eba6796e3a87c011a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6bee2715961635ded0bd072204bb22f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e6ad1044b33ec7565f25b58c1f305866c9e13d9bdb372e1a569bb0a839088464acc5fcd1335c89ebd3ee14e0cc976d0c080bdd1c2b7ef9fabc2aa85e9d7ea0a67e20f913a4b2248d73047b14cc42c0519263ef1efecd3b7ddb919e8647cbc1d1841646c63a4f3dc652ab6af6073f9d769b5e727f60182fcc8402524816677545a404164076dcf06125ecac9fcda0ec44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f6bee2715961635ded0bd072204bb22f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Teshima's Ride of the Soul",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16346",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c176a89442c4ef703053ab40c845eecd82b16c8b5954c9feada97de033c14e085030a1130f781c1b0770bd1d0a8ae4f2037519623bdc342d451cb04073b4afd88d96bfcd6990fd551be65d0a23a92510aea5748eef00524d22108ddfe516631a1034a0795e96398ffd3a7a8609d9645c6ffe3f3b8f50fc9fb405153ce9421e53/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4d922726633a673e923a39b50cc2966/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c176a89442c4ef703053ab40c845eecd82b16c8b5954c9feada97de033c14e085030a1130f781c1b0770bd1d0a8ae4f293beed304ff0d924b222bf4c92838391c0de5631317c26f3df1b4a7665e512d1aeaa7258895d82b22d09780e67d8a463ceb76c3a733e0dfb0ce854578b2933d7384ba71b1a88382c68b274d9493293892d78e390d2658de70959525c0108c40c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4d922726633a673e923a39b50cc2966/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Fastest Man on Minegayama",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16347",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8d7808b85107318979a68b83566984380c50c9214155a91aeb7c195b152aeb69e22a9764184d236a6ced95d4496ce0920584c9f4c774c50cd95bd3f294ce01c8a888e8361d5545f9ac24dca2acd3182740ca70c483a3018f2109dc53d3c7645a0634e43e1e55c83494f9d2746a3062704a61195f6eb346583156c7432baed42f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f442a1f8be7538819f8a90d10d29a4ec/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8d7808b85107318979a68b83566984380c50c9214155a91aeb7c195b152aeb69e22a9764184d236a6ced95d4496ce092d5fe28bd23b3ac9a8dd58a4d08ec81f2553bf15bffb361ed07d1dee47304563df63ccaa2f2cd641311d6f46e6885a4aeb72f82266adf8d12f4928b2bd28709ab5ebe2e46614037a06c5ea368e8ec2898146c9aaae3dad3d6f2693ff30da83d9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f442a1f8be7538819f8a90d10d29a4ec/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Different Bicycle Race Track!!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16348",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/aea24cb6d2a7a49d48542605a01bbe4c92cd381f9d1f77931623615dcc06863863020e63989e2a0104499d1cfeecae685028ca0377f89325bce53a5d4cd98be4003148e573dc2e5c555a9f138768e4ac594d44181bb11d9671ceebb6d9f986801da698085dfde6f5a423e5738848b7ddb8cc2491a8a279fba0f9f4527203c814/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68a0f38a7820c5792e534175fef0105e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/aea24cb6d2a7a49d48542605a01bbe4c92cd381f9d1f77931623615dcc06863863020e63989e2a0104499d1cfeecae68d21119ed3dd47084459ac6c57aeb4b394841136a71dbb8a1982e22008c2d0e3df3a6f426de4fe52960f0b429aaed0fae33ba7dbd2de81acce355679d4fd9393f9753c24fc51c8af12132720255a66de28b23c8c9c00a666994a27277df94b79c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68a0f38a7820c5792e534175fef0105e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Naruko VS Midousuji",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16349",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3b8f8dba7378d6d85f6fb7930c9e82de80443f2407759fe7b1de43987ce0b7c3a74cf1e58a14d803b50c6e1a9a000a52edca57d0356fa150e0357352678e61e6e16e93764e47148fc1ae1d5a21935bd6d1c9f0061e9adce556ddd66fe1db18107c92c50c1026bb31bf82d892fdf6b7a7cdd1a2cc8f7a1c696a664ff93284b15e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c76cbcd75a92aafb8c307a7cdf5216ad/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3b8f8dba7378d6d85f6fb7930c9e82de80443f2407759fe7b1de43987ce0b7c3a74cf1e58a14d803b50c6e1a9a000a52f51c4789c2a7c802bd8dca6e282ebb16fdeebab683f95f54c09ee0b16560ddad6de963a7417725469354b93746d8007e3b6f2c6e2e27da523894e138d158d9bb7dc77ef84a93d90c87562258082684370847c3527f6f496e36ece5b0005aa74f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c76cbcd75a92aafb8c307a7cdf5216ad/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Last Meet",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16350",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c986c82531865563b2212ec3371aa3a13b2bfb5b0e7608ba37284a1f56ee1e273b5eb39d9c5ffaa2357d4a0464f0525c994a351fe141b4f4b8725bea55598de189e3ee89ae34bb5e95d598987f745e880d7a002383b425ea3c1d4433fa14833ee90552d80ac5b6f15ba2102ac1b783f303a6eb924a063b0d29c90c313479e475/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88665e2496d2bfece0cae14bf420d5b9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c986c82531865563b2212ec3371aa3a13b2bfb5b0e7608ba37284a1f56ee1e273b5eb39d9c5ffaa2357d4a0464f0525ccef7aa13d857840b795e8eb0b61f0de9649283d44791f2bc947910bce51a7b91a4adbe44108dae55b76f2c41476e32137dcee9122339ea19c7afcab51503e8d50c2df0d70124ff76c6b86441f1e4be13af7fd4646c290cbe0bd96c9de460cf00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88665e2496d2bfece0cae14bf420d5b9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Finish Line",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16351",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c5b49f6415542f9415a48aa289811d63971331d0315785f8eda6c4aa3233bee9af7b3161592bc97c9930bd7591698b50c10b81b61a9114f01d1e8dd450ae17ee9ef0e66fde22d08770183809688f06f8bd2693b852345c13045b5ba51657c341d8db77667dc53d28feebf8b7d0c9bcd75489947d09daccc6b0240cef11fae725/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/073b170e0fd000d5b8ba9497bd00063c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c5b49f6415542f9415a48aa289811d63971331d0315785f8eda6c4aa3233bee9af7b3161592bc97c9930bd7591698b507fb64036b08d24a4cc8aec96ce202ef683222d2386b0c5e5854f7d46555e5601a86bbb711fc582781117f06298f279c7ce7e2f479a6b10c924bb7e67ce8138bcee602f712390d6bb2a56a3b635cbdbfcefcadb91587ab65e7e77dabfc4d0ccc9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/073b170e0fd000d5b8ba9497bd00063c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "New Sohoku, Start!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16352",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d9b20e03d09b59c089f4105c14f840494549eb37447a281a9edc2518804a3f1e58db339e75cee9db659fc1ef29c40e06cef044dc7f340ee3ac723f961e6ed6df0a89f38e7cc306f30977a5b99dd2f0cc5911d2b632cb94e7a9d0e23aa0514a2cb475ffac43bffaf4fa40b1e60898e24b0a1e5184bed089a4e57ccc4eeb7a6d2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4ad6f4daff098fdccbe1373399e3ed1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d9b20e03d09b59c089f4105c14f840494549eb37447a281a9edc2518804a3f1e58db339e75cee9db659fc1ef29c40e06004bef3c3349da0cabbc1731704d08daa9859448d0275d646c1e211717d56110803e62165e2651b62a6a2be7314a0df5a6f6c5d375f5c84750ea058c7d364ac69b125d10b799c272b68aa45239aab558c8fe1c62f61b8555d27766d6e1380055/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4ad6f4daff098fdccbe1373399e3ed1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sugimoto Brothers' Bond",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16353",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/42c9fddcdcc7c374ff1725e9b7750ea1d9b9de2f2ea6c0c9834bfc12552b264ae889a437432ef3f4e56b4c82b4af5882a34e463293c98afedba31556f9846e3b882cb848a9aa249496fbc86f5b040276cb4baade3b1aefe475117bec48894940545ce67caa6e1c3ac2859e1e19db84a0515b67b3ae04b65f3947d180f7a43586/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d36c2a0c27d82499ce5dd211bf1b867/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/42c9fddcdcc7c374ff1725e9b7750ea1d9b9de2f2ea6c0c9834bfc12552b264ae889a437432ef3f4e56b4c82b4af588226670c835ed7264cb805d821b39827000a2aa6cbf1d39f0ed92fd2c72c259bd62eae0eceb0b7829b3334b1e76794448bca135680cdc5cda06caea81339e65d5841ae3dc4a4f115d527ee6ced572ed7234b0b56d14d07400f257ba1c78de5bf4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d36c2a0c27d82499ce5dd211bf1b867/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meals (Lunch Time)",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16354",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7386c9a256c18484a9c2fa5f80906fc31f1f26c2261ad565d4ec75e403a32a3ad8eed0553ba3128c817d41e1c2aa086eafb4f86bf36aac37fb43f717345af9abf82f4cee4517872a17215e9139101b701b73a22a978fdcb7cc8de14d5c6ec4418ea0eb994feea334bc7fb2f13fa423a1dac15929a12e7d70bf07a853dccb2f09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8305a7aa3f07efec91fe0328201e0a62/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7386c9a256c18484a9c2fa5f80906fc31f1f26c2261ad565d4ec75e403a32a3ad8eed0553ba3128c817d41e1c2aa086e46b340e35ef84b225cac860f051b756f4bf2d795183ff00415b67bf920fe9b6d8ecff64c64fce99b55ea48b669477a87b2a1991465d830ec704171eaa897a084fdc6fb2bc0d48965796685b6502263122e799ed47b6f263f4984717d61049ed1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8305a7aa3f07efec91fe0328201e0a62/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Trouble!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16355",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/438eebb1311bcc2ec07059f5a36c73486fd321000cfde5c066e02f6274de468ab84c9895038e9659e6990adb276b228edb49147eccdc4d683823126e1dadf972110901c0128094ea03fcd9a6eaa1aff0c08447e5202d32498db0fac0d6d645fd42b8ad17a953bbb01dda67b178ac01f6be2fdad871c8ab9982b1f451263f632a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6471fa4dc904d73297e8e02fb8d48ef0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/438eebb1311bcc2ec07059f5a36c73486fd321000cfde5c066e02f6274de468ab84c9895038e9659e6990adb276b228eb8850607401d87712ab2f1c187fcba067fa1574d40843fb286d3103c0d7a0037c71a6acf95abfc8c474893673bcfc5f4e74d1feace99790315a2e61ac841e962860ba007722f40dea3331e79e51c54d1000a90d6965a83eda95a0ba01430b4ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6471fa4dc904d73297e8e02fb8d48ef0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "1000km Again",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16356",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b9712c2835c3b54711ee51cb9656d3131e2132b6b397402ed56e1094f2fe657fc3a3c173fdbc58d4a5c165c03a6bf80a5e6f3989b47a3c41028820c04558a1762f4e5bab4aea6a21608f5b96c43baa723c1ae9031624e4387ad8c0462bd88bbfc9c1b81906506b47c81fd9a996d73b0d5e97b8828b07c14055b82cbe74d14a5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e8a3fec03cf4550685f813486f13bd7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b9712c2835c3b54711ee51cb9656d3131e2132b6b397402ed56e1094f2fe657fc3a3c173fdbc58d4a5c165c03a6bf80ac61ae8bfb1f9fe6b30b787acaf2cf5f4c790e0204a5b8c88b94fa5382c21e7dbdef7515218ff9a591a9eede5dc45b5dfc9f7fdbf42bfa58fbee1165ab4304c59c410a52597728e7fc3c448fabb4ca2aada5be1c866d3f339134277de1112f5aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e8a3fec03cf4550685f813486f13bd7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ordinary Man and the Genius",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16357",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/72e3b0c00cf41f7e6bc698697e71b4eb21bda104ae56b4b3f3baa8693421e41fab147c8decf455e9748dfcdc9153e790ccdf386ebbe0bba04e4acd3e22512deba6cfe2cb9ed0d80f993decb958150e0d72d12166d350831cba7f810bdeecfaa1cbc61bddeaae73048f8be88dbe368977964e7ff077c37d6acd00743edaba0396/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34c23e4526018b81ddd3c1335233ca62/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/72e3b0c00cf41f7e6bc698697e71b4eb21bda104ae56b4b3f3baa8693421e41fab147c8decf455e9748dfcdc9153e7907838728bb5cfa4e13c6ccfb9c38573f4dc501e7ec922bb553037a58e232a7e1104bb78b5edbd4534499fdd319352936740cf7bfc7fd35201193862255fbb04d56ce6cfd4ea8ba818b2d5f0762f36fdc186ed6597b40848a1fdbfdd5ff3ba920a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34c23e4526018b81ddd3c1335233ca62/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Koga's Goal",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16358",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/32a21063a4fba6eb4d160a67beb750e1a7e943930ea6032d812e6f0ec421257e78ef03af706bb72c2dd11db0a4149a5a37ae8783d49fa4a5b7e68ad359a73e34b40ae663bf61d40489d04a44b43a7ac32c22c3f7e27a2d845bd44b1e9453c3b9d80e4cfe634b5e0b286efafb0873a4365c8ae8f522650ad99cc37e5a3a474a7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/328edcd727b073d160ce233464062eb9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/32a21063a4fba6eb4d160a67beb750e1a7e943930ea6032d812e6f0ec421257e78ef03af706bb72c2dd11db0a4149a5ad7a06e375a3cbba0315d92359159af9820f8039e4afde0648704fa76cc450b3f362ece4e6303eee614bed53254ec18edb6f417b1e9cf75b2cf9596fc03376432827b21d1888cb8285fc606de71b7212b665a6fce08a0cd213ab33e62322614c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/328edcd727b073d160ce233464062eb9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Second Inter-High",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16359",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e50ecd89301b4908ab8daeb4167e15e4d022c649487205f49ed10aa7f7fc6938ca48bb702ac5ddb9d96ce9f14acc583cc206199b3b4a2469ce50d8226cd0500f578ee3b94b640659cf9b203ff8f3d97c30d33ac0aa37226cd56ff1e88cf84fd356222fde41a6c65a8edc9fdfc7dd31551a40ef29f909f75342addc69826fc6c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d020fbe76ca585f85600d51a74a1c18a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e50ecd89301b4908ab8daeb4167e15e4d022c649487205f49ed10aa7f7fc6938ca48bb702ac5ddb9d96ce9f14acc583c7f739df7049a46bd2eceada5879c0a2f0f3c857d76911c6c0f9d60df0bb3c9e750c53060dab3a9bd1145f354fb67f72a6ecf3b5d2def13270716ebb13f9aeae9e9ada2510949f4a0bfb387b1e1d7f72f755da11baa9e80aabd327cc48e23b286/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d020fbe76ca585f85600d51a74a1c18a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Start!!!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16360",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a195bdc37b209448dce5189627c7cfeddd4f95b4ddcc3e804f74ccf45c1e6531d22e8d33f9683aa7b82fde478084417e870ef6dc29d2fe1e7a0fa0afb26f3b412cb1fa11d44273ed3769c6293e5222ef8dea1a830eb07dc46b6c6d6fb35a0189f97bf07649410ef3a6383193b645d8028c29bd19be021b92f4c4c98955174709/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/443c0ef3facb738a1923103753d808d9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a195bdc37b209448dce5189627c7cfeddd4f95b4ddcc3e804f74ccf45c1e6531d22e8d33f9683aa7b82fde478084417e8564441465a44ee7669830c0a86780f1381d7a85e154c0c36da3758d39b0cc5fcc559fd8b8ac5f581bb4aad6d50fa5c5de78931dba91692d679ed657fea71c235e5deda861f7b213cae5b10bc1cb2d0c10fca704a81294075b98e3a90f2625c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/443c0ef3facb738a1923103753d808d9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Swelling Aoyagi",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16361",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4339907c6bcdeba0e31f928840c93b802d64a387566d1fce1e7a3c779b9efbc53fac0ca4d070986c1829049e63eb8e2d168728e60e4b086618f00333f3e01aa6c0f3f42c2c2d9588d4508b8dd0f0366c5d17d748af06c931f8e6a1ea4db38825e8e4e83d13f220dc3abe3988a6375bb4661f454f4a06d28537d4f36cebed7d1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d73c424508b01b872acc7f0dacbf66da/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4339907c6bcdeba0e31f928840c93b802d64a387566d1fce1e7a3c779b9efbc53fac0ca4d070986c1829049e63eb8e2d02333171f0a8c5f37cf3e01c8feb5f3600d2947239526c139d083ab9774d2325d653490e9d6e499f7cab72c7e8ad7ea3a20596f5ae2fef3aa644d796fb1630829948539bb9489163d153cf9bfeed36ebce564e891cbec8c0b5a7e76efaeea7ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d73c424508b01b872acc7f0dacbf66da/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Road Monster Doubashi",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16362",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/34b754d1a6497304ac177fcdc9e91ea4a49538091344a51e172ec6a4639b1a69c0f7b749a9707d61808ea3601c802e20a6f389c933b90aa288bbf500806fbbae4db72f47adb91fe78d86956a44f7558825e847ddfee41c167430da022196d374ecbbe792de7a5e287587df055feb0e6425913f3a4ecb7670f7bd8768ca375a39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/393d4d05424bf9bad63def9dd05c4062/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/34b754d1a6497304ac177fcdc9e91ea4a49538091344a51e172ec6a4639b1a69c0f7b749a9707d61808ea3601c802e20db1eb2441eeaf28f9329f8262c72ab218ef2a391a07e7007236adbd10c1a45fdde59d83c8ae42c567af456f79cc83bf558a06e453cea3d1fa2e8820aa4ea8253fedcf00b3ec734270f0612e53aea42f9368f6166f8c8150ce7148ef1b5bbc67f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/393d4d05424bf9bad63def9dd05c4062/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Full Throttle, Kaburagi!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16363",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3f5c6f91fabcf112b1130f659a6ec92f39a23be90b64e3bf82b3a8c462eb4f43126d60329584e80df327723c21271fb8204abd2937f85b903a0a35ae8a76e7c37d344be3590d2cf3ef044bc39c908a1bc710561e652292471dffa88cac79fbd5894b38b36d4242d214da747940cac5f45b25c72f4ac2437d77ff8aa8a507b71d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9118e0e9c1e74bf58446b644e06c6251/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3f5c6f91fabcf112b1130f659a6ec92f39a23be90b64e3bf82b3a8c462eb4f43126d60329584e80df327723c21271fb83ac0467ea53aae20e740c1e8642ea43cfa20efd1bf361e205310cc01370da9046b5b7368d5bcdbd1e95b46881a118150f3219c18df0a7c52bae4abe4fb5a7740be3a83edbe86c77d91a859cbb87e919944b475283fe5417ae1bfd6b8906aa183/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9118e0e9c1e74bf58446b644e06c6251/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hakone Academy High School Makes Its Move!",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16364",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/07fb4e76500ac3870b6dc044a5a2543076d686f09bcc88939be1e77c2e67985f9431cac3af0338f34e1495ce3ee6817a8ae5ddd6e88e26b264646219ebfde16093a66d41933086fb53e2c397f480d796bbec7d7639a47ef46f4a6e33a28a8795e64d07d026ab4776ab249afb784055426f4be613e0af4547c0596f4e05240415/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/544da19cb6013bdb554511219181b452/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/07fb4e76500ac3870b6dc044a5a2543076d686f09bcc88939be1e77c2e67985f9431cac3af0338f34e1495ce3ee6817af2acda0dfcc719096c9f2f21434c26fc537754425c301b63a2aeaf356d4f09a8b51be13fe606f260bf750a312be701dfa7bc135c0f0dc1292db296bf9aa13ca1cf2be5e8d58fb511480c2651ffe46dc12b50b9480be89b04ddd6a58ec1e9f771/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/544da19cb6013bdb554511219181b452/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Pressure of Tag #1",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16365",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/627af4eabcb1d117f4b2167915339fe83b474bf0964aa0633764dc27cf58281245650d7af202e89fa7cf3cff10e4681b96df87083c9bb11e24a3234ddb67750c58d0f9126ffa4e2ec45f61140c9f33df742f1e2aac9c913218b727e4dc42fada047e64ff15a821ae01ab73175fd2e746796031d026bc832542e37c27924c96b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/850420bacd411525e23b2cd8c6fb0647/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/627af4eabcb1d117f4b2167915339fe83b474bf0964aa0633764dc27cf58281245650d7af202e89fa7cf3cff10e4681b557cbede4d2c362627cf55028cc363822df2ca09bbce6a6129219f42081b8f8a6a1fcded6c69be0a3a46f2ea034f92e31b76742cc51019fbf849e65609dfe1edbe8fb8d60046fef53d7502e119b986ee3756834d57d08deaacca0dde4b374c9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/850420bacd411525e23b2cd8c6fb0647/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakamichi's Pursuit",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16366",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/85ee3368c3fa3b8e6008f61ac58ae2f769d6d0dfb99dd7c09a84401e8b31be9daae19d22e3db1e316c529e5fe300e8bfbbb4b845d4fbc320d461bd5dd261de8e655e698260c29a0a9f21e341743cfd56e9a07ae375c0d0c199c53470c76709910d13fff2d06a62a73eb2b01434f86c0b373c6c4e15527ea390b16aa4606b7263/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fbf724f0f8b91f7ff299a82fefa7fd6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/85ee3368c3fa3b8e6008f61ac58ae2f769d6d0dfb99dd7c09a84401e8b31be9daae19d22e3db1e316c529e5fe300e8bf03605246f127f96a517a9589e7985207da1538f1c94bbc3d399de77b8d409708c0831481c4f2355802cc8901c14842f12f6ba8445fbca426cd9fe3ddc797a69c60c0e1181bd521c1f8094ebca1c56e3e2cca99567e5989c156dd850103578dd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fbf724f0f8b91f7ff299a82fefa7fd6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ride of Weeds",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16367",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b0d4f6a992db671e54bc919afa77606ad2a2b95c6ddd8182e3ec39b3527bfaf09aa1d871d54852b1307589654ad523fa1fb87cd0e48b074efe17e37b44fe243bf39ad18fcb910f704dd0de2974e40619a87ea252030688cbdd77f5cf2c27d3872023ec33ba0e51ed514eb6303889fac099f18506e64dc89eb73b9f24379f164d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f033f3fa2a00f91be97d3a7cd56b2222/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b0d4f6a992db671e54bc919afa77606ad2a2b95c6ddd8182e3ec39b3527bfaf09aa1d871d54852b1307589654ad523fa1809b759cda1430789b322b84305d1068e94ae82d4f6856a33c8145278e4e406bc737ceee7d90cb241a9c97f46b83ca374b67b39eaea8cdcecaa8ed0444ee549b630acd3fafc8fce3a7c87bf948f2bb9fec62996a72dbb4949226abdc7ac964d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f033f3fa2a00f91be97d3a7cd56b2222/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Look Up At The Sky",
+            "episodeId": "yowamushi-pedal-new-generation-997?ep=16368",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f3bb8dac705d317dbbceb51ecdb085367f1ca116982bf93ed29f57eaf2288155b976306e443f2ae438f7930456c6b9fdcc99e4906449c0906a641e4aa92e88c0130f90ff6e062902f3436fd08d0e22d46f6d849ace83fadf29f359e79c195a28fd55b58da98a13b2e9a1f8a9fdc72891ba2749cbe6171df3f7c3a3d298a7ccb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d1c82bb31e88d2a91095749818ab75b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f3bb8dac705d317dbbceb51ecdb085367f1ca116982bf93ed29f57eaf2288155b976306e443f2ae438f7930456c6b9fd25f584aa496a7076ba3ce3296ab15a5a03872e8d981da0478b518faa1a86b567489e17c8935c27d4c12f19dea807eb49a5b120a444a5830708401ced63a58ef55cecc014e4131aaf22c6e3642634126337d7fbcb1f9d6be463bc0e0a6495879e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d1c82bb31e88d2a91095749818ab75b/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

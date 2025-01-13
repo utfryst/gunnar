@@ -1,0 +1,604 @@
+{
+    "info": {
+        "id": "sagrada-reset-1997",
+        "anilistId": 97660,
+        "malId": 34102,
+        "name": "Sagrada Reset",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1c59a5117630fc159868ead2d918b8a.jpg",
+        "description": "Kei Asai lives in the oceanside city of Sakurada—a town where the inhabitants are born with strange abilities. On the school rooftop one day, he meets Misora Haruki, an apathetic girl with the power to reset anything around her up to three days prior. While no one knows when she has reset, not even Haruki, Kei can retain everything before the reset thanks to his own ability: photographic memory. After they successfully help someone by combining their powers, they join the Service Club to aid others in their town.\n\nHowever, their club becomes involved with and begins completing missions for the mysterious Administration Bureau—an organization that focuses on managing the abilities in Sakurada and manipulating the town's events for their own ends. They may find out that there are more things at work in Sakurada than the machinations of the uncanny organization.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/gSVn4h0Ia58",
+                "thumbnail": "https://i.ytimg.com/vi/gSVn4h0Ia58/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/RDKVzjB2Lrk",
+                "thumbnail": "https://i.ytimg.com/vi/RDKVzjB2Lrk/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2 30-second version",
+                "source": "https://www.youtube.com/embed/F-le0rhGE-k",
+                "thumbnail": "https://i.ytimg.com/vi/F-le0rhGE-k/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2 15-second version",
+                "source": "https://www.youtube.com/embed/qXnVoE4AbWo",
+                "thumbnail": "https://i.ytimg.com/vi/qXnVoE4AbWo/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 30-second version",
+                "source": "https://www.youtube.com/embed/Z2JJk6FUTsE",
+                "thumbnail": "https://i.ytimg.com/vi/Z2JJk6FUTsE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 15-second version",
+                "source": "https://www.youtube.com/embed/xlBBrUIKTJE",
+                "thumbnail": "https://i.ytimg.com/vi/xlBBrUIKTJE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kei-asai-5077",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0cecad6a6b182676076364cd5325ef82.jpg",
+                    "name": "Asai, Kei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "misora-haruki-6205",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b3e1d8eebe84ae602d36a20c1c7a181d.jpg",
+                    "name": "Haruki, Misora",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chiruchiru-33459",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa12df1319ba9e5976f8a64a55878633.jpg",
+                    "name": "Chiruchiru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kengo-kawanishi-848",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/49f441e619d4efe4ba4a64adf27f5ce6.jpg",
+                    "name": "Kawanishi, Kengo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kagaya-86283",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/650f9cd2518e338a855df6e0ca6d98e6.jpg",
+                    "name": "Kagaya",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shigeo-kiyama-4896",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e5774c72eef16e005862be9a686406c6.jpg",
+                    "name": "Kiyama, Shigeo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mari-kurakawa-102709",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0d3142ff46ec1b3ec176ea4d7070b3d5.jpg",
+                    "name": "Kurakawa, Mari",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "misaki-kuno-366",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d245530bcd1d78dd97018ad3cd81790.jpg",
+                    "name": "Kuno, Misaki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "majo-90657",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a5524f5a773d9212f4d6b26a10b95d6.jpg",
+                    "name": "Majo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "sayaka-ohara-114",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43fb3ae698fd8ba8a6d55ebd22a0e096.jpg",
+                    "name": "Ohara, Sayaka",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "サクラダリセット",
+        "aired": "Apr 5, 2017 to Sep 13, 2017",
+        "premiered": "Spring 2017",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.38",
+        "genres": [
+            "Mystery",
+            "School",
+            "Super Power",
+            "Supernatural"
+        ],
+        "studios": "David Production",
+        "producers": [
+            "Media Factory",
+            "flying DOG",
+            "Asmik Ace",
+            "Showgate",
+            "Teichiku Entertainment",
+            "Hakuhodo DY Music & Pictures",
+            "Kansai Telecasting",
+            "BS11",
+            "Sony PCL",
+            "Radio Osaka",
+            "A-Sketch",
+            "Parco",
+            "e-notion",
+            "David Production",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Memory in Children 1/3",
+            "episodeId": "sagrada-reset-1997?ep=24402",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5bba5f2db91777e28ecdd9e93ddd8ec08a37b0d93f8bec938098ea8073849e6f80735bca724391110913e19bb9d90e9043fe02387d54612b1a4330f0b401d765e7b24e1208c23f4f297a57e9ce7bc6a89bebd3777757c60da0e6b0e3aa26dc0148d828cb38cc7b7d023979a9a38881e81440e36fd14f33ac0d9c48fd5c8a606f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cee1468f9e8e365214587f5bd6d73df5/cee1468f9e8e365214587f5bd6d73df5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5bba5f2db91777e28ecdd9e93ddd8ec08a37b0d93f8bec938098ea8073849e6f80735bca724391110913e19bb9d90e90fe8eefe9b48e8b55fc6c2ad350dc3b36463ea383c1737fd66d9aab1f5c91f2c327414567519c3464524908c307bc8ef1c8680cabc80f2122b2ddb2c5edef8296a3a17fb6288d27d92e6567218713c2fefc19076a7513fde18d2d3353fe687471/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cee1468f9e8e365214587f5bd6d73df5/cee1468f9e8e365214587f5bd6d73df5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Memory in Children 2/3",
+            "episodeId": "sagrada-reset-1997?ep=24403",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/02b8fe655ffb1304c3248376a3da2c659b1ec72f2554903f87379b0ceee4c2ea7033fbf672cbff0800218525b9f55c7e41e32868be33ae5ba0bd0f1b5da8b2e3cc3642c04d1ed1c83c17c664da06ea0bd9daf20049aa6dd5cc5baabe08997d13e8636e16fad4e18fe996c106bcf739ad2c5d4661f157e133e3b99e6e14c57670/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f07d4c41eb5a9743fab8a6d1a5258c49/f07d4c41eb5a9743fab8a6d1a5258c49.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/02b8fe655ffb1304c3248376a3da2c659b1ec72f2554903f87379b0ceee4c2ea7033fbf672cbff0800218525b9f55c7efe0b4aee0ab8df6cd3f58634dd84ceb2bb1ee20a02da73571477bdeda205ddff9c8346c7a73a25da302897b096d7ccef9ac1460b9fa1079dc9664666c0ce2b4d52e58600f2582846cf5a2fda38e84f74b4919c989a072b3bfc79701ffedf1396/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f07d4c41eb5a9743fab8a6d1a5258c49/f07d4c41eb5a9743fab8a6d1a5258c49.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat, Ghost, and Revolution Sunday 1/2",
+            "episodeId": "sagrada-reset-1997?ep=24404",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0937ab1a8ea30bef58faa8635650dba4de9f2d9dda0b838209de18f9bf408e581386b89bb78ae672603c0a8f0d91eb569e7b8438deaca2f789eef48ceb648f6bd4898fed86cc0b199aff53458521c57206da723dd99ee677682b87b73f3954b46db7c6895fd16113fe4ed82d82f63e2d9258090f183882acfa57f882123e7fa1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32f0241e9bafc2b70b6ac0d4bbe5ff4b/32f0241e9bafc2b70b6ac0d4bbe5ff4b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0937ab1a8ea30bef58faa8635650dba4de9f2d9dda0b838209de18f9bf408e581386b89bb78ae672603c0a8f0d91eb5693f8d7ac759518abcea4cf7530a4f430811fa5df5ead268d2ff072cbdaa8b9465456326f07ec639d882c4ae05e8980cca67f91da33b9ce7c92ada61c9873e071b45b545eb5ae3556722129320b42073c9814145969b95b190f009def438c0520/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32f0241e9bafc2b70b6ac0d4bbe5ff4b/32f0241e9bafc2b70b6ac0d4bbe5ff4b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cat, Ghost, and Revolution Sunday 2/2",
+            "episodeId": "sagrada-reset-1997?ep=24405",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b814669084b4264cd9b309e637a6edcd211b2d43df48c42f100cedf3f83974abdc93b13c62e26dd53314bffe31f6b630445be4ea081d365e6162ddc1fd7c1b49d819c9a2a318846243801ef649d847138ae607b37616967f8f1dd70ee5e89d9df545b7add4eaea92d6727c32d1791a0a6c086844b2fe925d90b7a26d808f9a5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9138094de03a0b00441554dcbd690670/9138094de03a0b00441554dcbd690670.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b814669084b4264cd9b309e637a6edcd211b2d43df48c42f100cedf3f83974abdc93b13c62e26dd53314bffe31f6b630787eb7727486ba1f2426d2c42eeb7ccc24e1e462e437fda66649fe939955cd86c6dc5e2f9e4f8efab57e8e9f2a205e67501183edeaee3e04364a39dbd022fd2d2b5bb5cb997bde9d2de930dfe585bc07248af50374ab91079d2e10f9ef340c64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9138094de03a0b00441554dcbd690670/9138094de03a0b00441554dcbd690670.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Marble World and Candy Resist",
+            "episodeId": "sagrada-reset-1997?ep=24406",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/fa7790062cdb67a3fdcd4cf01039eaa3d60875ef07ca12e311dabbe59a3799089e01c7fc63107ea923c17352b7ac6374e2c0ea3b6798e81e2564c937755b503d9e38c41d6b3ebd5115f141ad0543abfb529339a7308d0e80e908dea6462285eb32607bf1235222c82b3ee27dab5e244bbecb128155a9f2cb06d9e476f0ced427/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f4a397ea7484037e5919c8a8eccc59f/3f4a397ea7484037e5919c8a8eccc59f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fa7790062cdb67a3fdcd4cf01039eaa3d60875ef07ca12e311dabbe59a3799089e01c7fc63107ea923c17352b7ac637493df90db0898a8d7aafd16553ef5f0dbbcb67930e0ad996b436d906e9312d75287fab73593f190c49aa12adb6debb9d81c2e8b8b1a155d778e8fdd611e81476dcd5c550edeb5dcaf7aef21d05d6c108b662d9367ef9477b0fd7682922b414161/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f4a397ea7484037e5919c8a8eccc59f/3f4a397ea7484037e5919c8a8eccc59f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Witch, Picture and Red Eye Girl 1/3",
+            "episodeId": "sagrada-reset-1997?ep=24407",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4a25ee4aabe7969b203fe0202927c188d439ba3f47a4bc5efd674c43478a1cacf9f660a7b958266cb0870d704168061e075d71b2343cc8dd288276b770ca05fc28277273213eed7d59e8e4b0f6bc03ec068b0e69f1df709d6e2f7d51926a50977dae80d5d94e6fae898e50f5a3276af63558e2a369d738e16e21ba499efb7c09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e8f703ace8951c912cb7a5f6a94899b/9e8f703ace8951c912cb7a5f6a94899b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4a25ee4aabe7969b203fe0202927c188d439ba3f47a4bc5efd674c43478a1cacf9f660a7b958266cb0870d704168061ecac17e42bbc94daee3850602a32e38aac9a2dee1807e8b1d3c6fecb00874483dd91cc6a29dd33e3cc38feb0afacf0fcdce3bb780869c593c0e39674418d76647e860c8a27daa62612ccabd603dd1c58fb67865a2c757e7232b11f5dd7d3205b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e8f703ace8951c912cb7a5f6a94899b/9e8f703ace8951c912cb7a5f6a94899b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Witch, Picture and Red Eye Girl 2/3",
+            "episodeId": "sagrada-reset-1997?ep=24408",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ee6fab3b2405ff00e791a20ecfc4213b33d537f541e038d7df2e8bd6986a7388a65ac1fae9702b5a0a7f8296fa169a7405b5b2836d50ffefa9b8510b01b8870bf2f5912c4d3ab25a7075856ef4f2e0df53d380ee21caf9aa6e1bbde5deb57718ffdc0b71e46b15dc50f34768663f002361b38b4b4d7c6cd684ce395abe229908/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dca747bd16d55e772535a9df6f3aae02/dca747bd16d55e772535a9df6f3aae02.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ee6fab3b2405ff00e791a20ecfc4213b33d537f541e038d7df2e8bd6986a7388a65ac1fae9702b5a0a7f8296fa169a747349747032232cb8d8f36aafa7f0b09352bf72ea6e717b3700e20cbd610685ffe70843dda3c859f17c4fc53c33c853b8f50d85b9c20366852e259331fa68eb74fad49c937ebb4d41e8fbb215e1756d33e5dade4ca81888cef13ffcd0f6896560/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dca747bd16d55e772535a9df6f3aae02/dca747bd16d55e772535a9df6f3aae02.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Witch, Picture and Red Eye Girl 3/3",
+            "episodeId": "sagrada-reset-1997?ep=24409",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3f3aea1272c30ef40b8832fc9e319758a73fd179c235422d1aa6e3947870378f6f7a0185338bc03c805cf6de45f7c0506d0717df37d1f0abcee6f564744f143b72b589d799387af1f62c2cab3d5c66d5158623d360fcbab97c51d878e9483009a9b6c9ea8986c3d472edee80e186444effb27dfbe8a4672e48c4d63f426af8b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2827dc41be77817c7f3517de8dc049f/a2827dc41be77817c7f3517de8dc049f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3f3aea1272c30ef40b8832fc9e319758a73fd179c235422d1aa6e3947870378f6f7a0185338bc03c805cf6de45f7c0505397ae8fb5ea4328d0c830b0e053c0003f5948eba168ae139637a7037139e7c74dc49c232b7d6a8b0088b26fb0235819fc6cd99543feaaf0295cb91f5cbda4cb7680788dafbb7ce3796a3ec0c661f9c624d5e1d05935e64759565d2834f7bd42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2827dc41be77817c7f3517de8dc049f/a2827dc41be77817c7f3517de8dc049f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Strapping / Goodbye Is Not an Easy Word to Say",
+            "episodeId": "sagrada-reset-1997?ep=24410",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5cdf339927d1c71bb699ab49c9515fe67b6b26a8306068b873b84383979fb21c8c33bb660270eb1915c5f9a764544f176f71b31f3ac0af12711a68fdf700fca89b3f1dac28f491ddfd003a900cd0c03a026ccdc6799e195ce498964acb44c0e5776afebde8a513cddaf1f7777ddae396587dc49288509791783cd4aa7a2ff73b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ff47f15319b55bd93f88845dc90c044/6ff47f15319b55bd93f88845dc90c044.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5cdf339927d1c71bb699ab49c9515fe67b6b26a8306068b873b84383979fb21c8c33bb660270eb1915c5f9a764544f1798dc819f8c1c9094e9c58d1853e048b5e5659f40c18c12a648754d4be676e95335c45ec7407b4c254b3f86218e5307213f7e22787b7ffc55a66828c0195b8bac7121a7e6211e7f909127a42845a50be3dc16b467cc031243ccb6e40256b718ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ff47f15319b55bd93f88845dc90c044/6ff47f15319b55bd93f88845dc90c044.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Memory in Children 3/3",
+            "episodeId": "sagrada-reset-1997?ep=24411",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9ecae62f9cfedfe1860cb42780d3933f16c271e1ff916aae3ef43117c97157ffe5f07e983c20612e852af9715d47f7e8d9b754e76e6a58935a15345a2d16d70977e181b054bfab382f72a87daa369bc6e0654b6ae9aa02c9d4f64b1ff61762b813994a50be2a1c08a6c0b18ed8ccada24a54ef0b381b713d3f958ec9fa601e59/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e0ffabb4f7d8cbf3a94e48491b48249/8e0ffabb4f7d8cbf3a94e48491b48249.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9ecae62f9cfedfe1860cb42780d3933f16c271e1ff916aae3ef43117c97157ffe5f07e983c20612e852af9715d47f7e8641cfdbf4c98e3f8418064bb9466939eb2a24e8729627a8b0271b51ccaca65381a0235bb2802886e08aab258389e9f62b62f6263b8eeac7d66a10eff20a1eb6810009a995455f6cdb90e8634130e737e88f6bec8638c8060e5fd631f4da39bf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e0ffabb4f7d8cbf3a94e48491b48249/8e0ffabb4f7d8cbf3a94e48491b48249.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Haruki-san on a Certain Day",
+            "episodeId": "sagrada-reset-1997?ep=24412",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0530e32ba70e20e8129cb958762edfd0fa0e6887189418a08d98e911c7a19450f8aad6908aa5893789af6dcbcb2c694d1ad54f0d690ae4af2265c0fd3aba900e089f43e3b81e184974332190dcb6edd295c730ec4e7e106da6b3ca5210854f99b973a724433f48b0dc2250128f8017775ab0df80f5d24d0400393e3143d24225/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f0b986736bccde2e77a5c9875de0d6a/7f0b986736bccde2e77a5c9875de0d6a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0530e32ba70e20e8129cb958762edfd0fa0e6887189418a08d98e911c7a19450f8aad6908aa5893789af6dcbcb2c694dd10934d8bcbc409bc07744953dd60638011bf6e7ef253b6ea11d453c5f8a3962e7975545a427485ab064ca34bb7add0c4e67e7e0b753580be54a3044f3c8ace392d1cf9ad233a0f540cf8d71396c0c855224113cd756674c5b847c6d0f610fb4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f0b986736bccde2e77a5c9875de0d6a/7f0b986736bccde2e77a5c9875de0d6a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Hand Eden 1/4",
+            "episodeId": "sagrada-reset-1997?ep=24413",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/9360e47b06e49474abf00fe23499443eeb167b88454378f8292eb298ef0b68d06b773ca2cf6188a5ec4d74ace88d218b5be241fdd8ae0f8a0ec9b95d42560f0b0cba020cef5f3d34653ecb59ba6c24a3a2e09431fdb0ddf4fe529c8c8d3afd64954dfae0392b187e7b6a5c72d4e087450337521b485826862992e63615f906b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e635e7e14d7b46ecc6d735e3c4ef4499/e635e7e14d7b46ecc6d735e3c4ef4499.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9360e47b06e49474abf00fe23499443eeb167b88454378f8292eb298ef0b68d06b773ca2cf6188a5ec4d74ace88d218b4746c046019d89ba6d14423b4d350c7ef82a24ae26f27005cdcba5672f53a914ee0d36641cbae7d272dd08ae52e7b50d0c40dc484d707078ab275f363b44f0776fd693f90be904b07afa05f41576ecaaa8f0febf5be1e6fdd3ce94f9656c5144/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e635e7e14d7b46ecc6d735e3c4ef4499/e635e7e14d7b46ecc6d735e3c4ef4499.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Hand Eden 2/4",
+            "episodeId": "sagrada-reset-1997?ep=24414",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d6a5105fe5bbc161ce65e07894bbae2ef15695473878caa0e3798da57206e627f0c0a837b2bba652306214782b18be4d1d791faedbf797a5ab16ad1b698a33d1648eea1e5c619b7f6202446bac6765081c8bf16a2ffb66cc2fd9c36a8325560bc7810bf549c23aa7fd7eb1c2f367b1236092c340051bd69f0a8d1468172bbdc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82a54d2cb1c2c2133d9a5be03bc509ee/82a54d2cb1c2c2133d9a5be03bc509ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d6a5105fe5bbc161ce65e07894bbae2ef15695473878caa0e3798da57206e627f0c0a837b2bba652306214782b18be4d7c2de732fa94604b03ba85a609799fcb37b7ff0c347d22c2d43817cc3ccd5466d408ae67e7886a9ef552b29ba25b979af7232eeca0e7dcd9e6aa2ddb7e01f4db0c73512bd41c520a5e6ee46778853479138457f8c48c6cf8489cc8c6afd02da7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82a54d2cb1c2c2133d9a5be03bc509ee/82a54d2cb1c2c2133d9a5be03bc509ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Hand Eden 3/4",
+            "episodeId": "sagrada-reset-1997?ep=24415",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c00f306dc3b2af3f3eb91130fff928017f34df3a3b40735d7964d8eac4b44921d17c66e7cc8ef75570c61ecb0a4af35c261cd5243d45b1c7578cb947ba34d1a9d2c31c1cf0495b2cf7072d977f298017c0baf6101acf5bf1dfe3ddcb813867e2cf98651d351b461bd346dd6fd9c90a7faf87040fee0b15d8f8576cdee3bb6ad4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29ebce05bdfb33616533a809963c3361/29ebce05bdfb33616533a809963c3361.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c00f306dc3b2af3f3eb91130fff928017f34df3a3b40735d7964d8eac4b44921d17c66e7cc8ef75570c61ecb0a4af35c8fe2efcfb7de39c0c188908d820e6ec57ed8bb030b76d7f25bad6df92aa7a59e7fecde7ca6946fa9462d2e343722e9f6a87355a4afd0079e4f3ab96b35e4134301804897c0607f8421bc4a100bd35db570aef905fbb0d0642e3458cc06cf2681/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/29ebce05bdfb33616533a809963c3361/29ebce05bdfb33616533a809963c3361.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Hand Eden 4/4",
+            "episodeId": "sagrada-reset-1997?ep=24416",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1147a96b59f5b192618a46afd49e6168b6628b4d4b81ef717faf233e872c30d1a6bef8944dc445688dcfb70b32c9970dd0217293b9477a28ece71ad9a0897a53337be666683b5ede7ff61e1f4b29fcd7ece818f793c3f20959b1858dbdccd8e573e07dbf61db1023145ad11ad99556b2879e6e0a0af01905be7bec351bb24ece/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0a74fc54779c7582d436fd01a8be318/e0a74fc54779c7582d436fd01a8be318.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1147a96b59f5b192618a46afd49e6168b6628b4d4b81ef717faf233e872c30d1a6bef8944dc445688dcfb70b32c9970dbed2025bfb06846b72a245ab79c67d5a71bbb15c33e1ec1cbc07656241a9595b9a73525ef9776a3780e249998259e154ca848d6aeee2db298f47ef11e32f0367ac2f6f69959366e4910ce104acdf26f5a51e33b500e4b2bcf1f44e8235c98dd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0a74fc54779c7582d436fd01a8be318/e0a74fc54779c7582d436fd01a8be318.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and —— 1/4",
+            "episodeId": "sagrada-reset-1997?ep=24417",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f6a2a185950be45792608b6ddebe7d2378a98caa6f261a9e9760418072e8d26d2629998df120cc4942330e4c7f2d12a943e2fa2a498002ceb7c3e3eb0363aa6f743af34d9b860d346e28e97c792fbca2191916fa84ce3207d03565ee74cd726b890c84f5c64dd385fc43011b2a24102cc7f51ce8542743aeada313186e8ec0c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed825ae4816e855fdbbbfb4f569e40cc/ed825ae4816e855fdbbbfb4f569e40cc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f6a2a185950be45792608b6ddebe7d2378a98caa6f261a9e9760418072e8d26d2629998df120cc4942330e4c7f2d12a92b0fb06d8674563cdab6a8eafbf9a3881c80030d6a2dc313de1e55fd488edbe6ad53f9d1a0ab905dff9e377b8b26cd60fe76866235030104a2a370d59bd70ef26677958546324cecce1cc815fa5787e6df3bb7f0c40af6e01b7c0a68f288f5c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed825ae4816e855fdbbbfb4f569e40cc/ed825ae4816e855fdbbbfb4f569e40cc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and —— 2/4",
+            "episodeId": "sagrada-reset-1997?ep=24418",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/80d844f8be005437af1508f27f5dc2e36fdd0e897fc9340a382ab97afd3574f014078258ad89497c0c32e2cb861a2d8c40a04cd2d4caf896fdd30e9a6ebeb9c3fb4b325fd6e4ca77c3e7dd4d2c9ca9bf4721592d73e15467ac7a8610c113e93f67c45635c50bf83bc2b42c90f06750a8b316324eb7f10f217380f6e8d0455f94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a98a0bf6ad3c23afadd92b257412bd76/a98a0bf6ad3c23afadd92b257412bd76.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/80d844f8be005437af1508f27f5dc2e36fdd0e897fc9340a382ab97afd3574f014078258ad89497c0c32e2cb861a2d8cbd1a6f28cd886e6ab564ac4e1affd47beee12193a110280f449181863686cf632f44ea95744586f9138bd094628ca37139c527bb8b4e41d75381f04fa48934c5456bed201ac583ccab46259919aa7a5a7258da67a37b793541e8c7744ee16131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a98a0bf6ad3c23afadd92b257412bd76/a98a0bf6ad3c23afadd92b257412bd76.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and —— 3/4",
+            "episodeId": "sagrada-reset-1997?ep=24419",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5918044d9f140c6f28765715c7a72bf6b71c934d5bdfbd76cb3ffc2a2a23e340d4e5cf6f38aec627894261ec05c66d2a3cd940b34a822181a82728b129ffe6c994b028290d789e51998f84c794d930c501ab996f36a86f4af22377e3c1b60b71bb12b4ff8591efbc289225cce466bfce0a8e6ac25f5fdaf9deb8ea3acf8a149a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18d01630fd82c1a91d7ef52807c17e1a/18d01630fd82c1a91d7ef52807c17e1a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5918044d9f140c6f28765715c7a72bf6b71c934d5bdfbd76cb3ffc2a2a23e340d4e5cf6f38aec627894261ec05c66d2a36082f024e779e0aaa2efe6e5addad20f548e574ae8eea65a84eb29724bbcaa10a5cd549de1b2a224b48f9a2aaba49568e9beb21cff37195b35674973831449c36891ad6fa7cb277522d3382ab933aebc4f85ca54e976a1d267ca39a8eac58ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/18d01630fd82c1a91d7ef52807c17e1a/18d01630fd82c1a91d7ef52807c17e1a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and —— 4/4",
+            "episodeId": "sagrada-reset-1997?ep=24420",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6f7b9575a2cf813724f94344f810319b6dd63f44a7b1d9dfe7eee680e07166dcaae521202f1f48271456a28e3b99e17c330bd2bef53e00efe26610658019b99448490b686146f1a58a115de6191146d21306c9b39a75faf64b88a6cc0d448b7d2e2440711fbea3a550644b4c900e07e1daedbeb6f70071b243712069ecf10c09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32d8848d7c8a3e1523c99f7144420ce7/32d8848d7c8a3e1523c99f7144420ce7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6f7b9575a2cf813724f94344f810319b6dd63f44a7b1d9dfe7eee680e07166dcaae521202f1f48271456a28e3b99e17cc13a228c208c093577234f9fd8e973e4328214a5da332b55e03e5fce2d3085f0665fd47a7897818f9664bdeadc25d38cc4c3d3a095ba08f00dcd16ed46092868e4c693fc1786e6ffcdf0c5092f136b820a6dda7f08922668dbd40c4e110afcf9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32d8848d7c8a3e1523c99f7144420ce7/32d8848d7c8a3e1523c99f7144420ce7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and the Story of Sagrada 1/5",
+            "episodeId": "sagrada-reset-1997?ep=24421",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/196c8c6b8d4986dd5b544c2364fe1dad6a57be51e56a792046d34690bea899d7389e4c3a1f4fdf99fda403740a9f2d6e555d21580b1c299e8b502cc3bb024a953a949f28b69aaff0fe3ed0f5bb67334ecafb127a04a8e7b1a6dcefb91043f4c0538c4786abb545d2288cb9af0445614cced242f01747023f783af7ddfcbbdbd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/098286eece10ad8959e83712ebd86ec5/098286eece10ad8959e83712ebd86ec5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/196c8c6b8d4986dd5b544c2364fe1dad6a57be51e56a792046d34690bea899d7389e4c3a1f4fdf99fda403740a9f2d6eed9ca54101f7d2021b2f05d0e76555660a86ed6b0a3478f78338e3bdbf49ae4bb74dd1c690937994467277275f13b4550ab95f71d1f8ce0f6c6ab05285d4e56e395863d29a294cd5783d39e7d07daccd8e5a93d9ac7f860eacbeecb0d6251560/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/098286eece10ad8959e83712ebd86ec5/098286eece10ad8959e83712ebd86ec5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and the Story of Sagrada 2/5",
+            "episodeId": "sagrada-reset-1997?ep=24422",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/dd77fee245e38f64c25c82159ff4e7675f88bff06e20cb7c8a6b6515f60d429b8dccf17e00d4c61bb7f5dd910428028b23034d45d58086905d9a2ba8f9f21e7c5eb49489e379fc77ace61b29692f5ee4691c88a9e41fa0fee01d776da61792656139bca95964e7cf61b23f824b6fe944b3e70a003dc1561aa687fc154eed2450/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3570be0390b4bae85317e40f18bb1b0/a3570be0390b4bae85317e40f18bb1b0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/dd77fee245e38f64c25c82159ff4e7675f88bff06e20cb7c8a6b6515f60d429b8dccf17e00d4c61bb7f5dd910428028b743c1e9ab14212a8a2bf026161c86e591e91b5d396e0606eafd2a4193dc0c2d5808b0523587359eb38d42966c50ce194113a81f95205b2f2b5f3e6586099d52cded41583db68e96838cb2192515823b4f8609c66c03415e5213cf2553bfb5330/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3570be0390b4bae85317e40f18bb1b0/a3570be0390b4bae85317e40f18bb1b0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and the Story of Sagrada 3/5",
+            "episodeId": "sagrada-reset-1997?ep=24423",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4fa466d5257d4471647693b0bed846d529d8f487d4a3cb19fba4d549a4c7cb1161bfda658f5f37a793c8573ab0cb9ad91afdc4b1b6c02ac745b5d53272a1475657207c0314cd3c4c25ffd755c0f9367032d2334a605fdd7fcf277297e8fcfdf307e2fe1d123ba67170a03cc82e6aadb67fe2d043e1805d204a58f8c77ce6e328/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/323dbfe94d015cf6167b209118ead2fd/323dbfe94d015cf6167b209118ead2fd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4fa466d5257d4471647693b0bed846d529d8f487d4a3cb19fba4d549a4c7cb1161bfda658f5f37a793c8573ab0cb9ad909e5b5947715d05e920f4d37bf79d59b98bf05d9527e28e0422f9e1136c2227c059f72a2051fa9572edf68b45784cd3246663a61910df7fb8f521a57c39d2b33f2cdb178b7d3547ad194b1b938f1ea762f08be931cdaae1ff6d2130589ca061b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/323dbfe94d015cf6167b209118ead2fd/323dbfe94d015cf6167b209118ead2fd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and the Story of Sagrada 4/5",
+            "episodeId": "sagrada-reset-1997?ep=24424",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ab688715cdc139a0b1e62cdd9484655cb7b5d43dd53d79265258b2fa02a3a444ff2ee401334625b962a1c676f133081dbd7fa376e8994fbef0fdcc30133bb2fa2b05c3f5c316eff4539155d8167af0c0f30f137c398197e52cb2649852dc20800a6a35942891de6bb03aaa9b20d479980a53f56825f637f4db4273a6ac1d4210/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7fb342b6b4f30addd80ddf5fdfffc4f/c7fb342b6b4f30addd80ddf5fdfffc4f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ab688715cdc139a0b1e62cdd9484655cb7b5d43dd53d79265258b2fa02a3a444ff2ee401334625b962a1c676f133081d92372556da34cea6856bcda05aa95f6c5047f739792a3de32b4abd3718ddd58da9b9cd34079eb9ee3283824fefa9b2f09db5a3008657f3f62257643c805213ec9592f76f17326e5f7dc1b16babcc39ee3e45ed0faa02a0788da6efd7cdc40b00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7fb342b6b4f30addd80ddf5fdfffc4f/c7fb342b6b4f30addd80ddf5fdfffc4f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy, Girl and the Story of Sagrada 5/5",
+            "episodeId": "sagrada-reset-1997?ep=24425",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7dd1d389a441cc74c67a5cdff52564314b0ae1b62b7df72a28ae09772aa80b4fad212d0e194c255bcfae7a8605275a13ec8bafa22ebf3cfd6b3b42844601fd0e7c847df0a5bf431a80c719b38a278a6bdd768b2c88e18e7155f472d4b95470fda21f707eb9719466a073a80f7d551218ec1bb0b35868902cfa3f317db7ebfbfa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66c81528f203ca462911c155da7150f6/66c81528f203ca462911c155da7150f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7dd1d389a441cc74c67a5cdff52564314b0ae1b62b7df72a28ae09772aa80b4fad212d0e194c255bcfae7a8605275a13735a2f39e74f5ab120b4712e0f0c56cb4b89901dffbdb9b69aa96dc0f680f58ef4067556c0e2370703986392b076304b124d1ab3fbb585215c410d7f44500311001ef6cb8e6b525cdb0933f52f0a5e251a6cf86547d7134f79821756ae94810b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66c81528f203ca462911c155da7150f6/66c81528f203ca462911c155da7150f6.vtt"
+                }
+            ]
+        }
+    ]
+}

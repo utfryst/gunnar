@@ -1,0 +1,611 @@
+{
+    "info": {
+        "id": "the-big-o-1487",
+        "anilistId": 567,
+        "malId": 567,
+        "name": "The Big O",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c5daf10f82925b4b2f6aecc086d194.jpg",
+        "description": "Paradigm City, a city of amnesia and a place of belonging. It remains populated by forgotten pasts and the ruins of their labors due to a calamity 40 years ago. Shrouded in a fog-like mystery, it is up to people like Roger Smith to shine a light through the mist. Acting as a professional negotiator and suave agent, Roger is a self-tailored ladies man whose only love is for funeral black. However, as he gets deeply involved with his clients, what often starts as a simple negotiation evolves into Roger saving Paradigm from crime and peril.\n\nIn the process, Roger stumbles even deeper into the untold folds of the city. As a rule, things are hardly ever as they appear. Serving as gray knight in a gray world, Roger is not without allies. By his side are Norman, a loyal and widely skilled butler, and Dorothy, a human-like android with deadpan snark. Together with the relic Big O, a jet-black mecha of gargantuan size and weight, they help Roger serve iron justice to Paradigm's lurking villains as he discovers the truth about 40 years ago.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/GOzphFKZAFk",
+                "thumbnail": "https://i.ytimg.com/vi/GOzphFKZAFk/hqdefault.jpg"
+            },
+            {
+                "title": "PV Toonami version",
+                "source": "https://www.youtube.com/embed/BK_HTdn3NPE",
+                "thumbnail": "https://i.ytimg.com/vi/BK_HTdn3NPE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "norman-burg-15933",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dd7427257dddbf16b15f60debb679ce3.jpg",
+                    "name": "Burg, Norman",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "motomu-kiyokawa-3010",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/103ed47f1878a184decb363a6b61968c.jpg",
+                    "name": "Kiyokawa, Motomu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "angel-rosewater-23725",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ed3d63976aa7ee220afc5be4b5aa8117.jpg",
+                    "name": "Rosewater, Angel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "wendee-lee-349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efd4ed6f389ad02971aa64e3a4ad1292.jpg",
+                    "name": "Lee, Wendee",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "roger-smith-2685",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/368be705b142889ee888906d63775582.jpg",
+                    "name": "Smith, Roger",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "steven-blum-83",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/24ad4e605a8d2115a0fa83e4daad8297.jpg",
+                    "name": "Blum, Steven",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "r-dorothy-wayneright-2321",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c2d41a06bb17959524ed7c80e7299697.jpg",
+                    "name": "Wayneright, R. Dorothy",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "akiko-yajima-893",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea83931219e86d20e55fc6d0e4ceed25.jpg",
+                    "name": "Yajima, Akiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bank-guard-56102",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6435f1d69b8b245a49431806e6de7c16.jpg",
+                    "name": "Bank Guard",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ron-rogge-14394",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cc574631394aaab435c0ffe75d214922.jpg",
+                    "name": "Roggé, Ron",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "bartender-82788",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/89ffc36031528fcbebe01ac2e11c2bad.jpg",
+                    "name": "Bartender",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "makoto-nagai-7472",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b77fd6b3a8bbaa79bd2f2bcc68b33148.jpg",
+                    "name": "Nagai, Makoto",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "THEビッグオー",
+        "synonyms": "Big O Roger, Big O",
+        "aired": "Oct 13, 1999 to Mar 27, 2003",
+        "premiered": "Fall 1999",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.53",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Mecha",
+            "Sci-Fi",
+            "Psychological"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Bandai Visual",
+            "Sunrise",
+            "Bandai Entertainment",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "the-big-o-1487?ep=77073",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/bce65859adf3b140b1133854466f7bccdcdd7862bd063d1f73863f418860aa1043180fbb609fe592e96b0bd829eac690dd3dc405100ee3110dec7191bb8d495d2e0f2b054fdb3bd5dafba1f63dfffa98b96db7b25af5f8f9b2b5e2be1834872b6a2be513fc38620b71c2c26d29274e2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fca3e0a8ef8ee33ea9258ed6e1f85aeb/fca3e0a8ef8ee33ea9258ed6e1f85aeb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bce65859adf3b140b1133854466f7bccdcdd7862bd063d1f73863f418860aa10b481de922ec435a87baa2833ebecd3aa6c56fe9977202ca2d3dc95360346bf11a183d9997169d6cac1117b53881c8db7c899bcea279a840c7ffc0846817658ea1fef7400b792dcfd09735afc8c10622613edc86e9d67881d0918872e39c2e98d75e7319da15d6cb4f1d97916d9ec4db8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fca3e0a8ef8ee33ea9258ed6e1f85aeb/fca3e0a8ef8ee33ea9258ed6e1f85aeb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "the-big-o-1487?ep=77074",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fbf6a944fc0b0094995893a44247cbbf5b8519bf259e5e37fcf60d1cf8ef45d759ca411db2ab8affd0700a58585e0a6d49e6f94e31e45070f9234e0fddd44630eb7d8a66f94626513035c3166259240ba2a8359823b7000df3d64a40e729ff76fc934eb7bb5c85d65a574e384e842d2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c53ccf51aa66ff0ee65b4e28faa4f3b/9c53ccf51aa66ff0ee65b4e28faa4f3b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fbf6a944fc0b0094995893a44247cbbf5b8519bf259e5e37fcf60d1cf8ef45d733f6e27af25e4fd2aa9398c23001dfe16a741b75b1f1d12ad13f73e62d782551d3fe7c3ec57a15986fa83dc6f490bff15e54c72701cba92b7ed24801f74888502ea7e2c1a7ebb9b6b258e49e5006e28f5882b66c7b2296accf38ba7bb41779bf91cf46a9a7972cbd7708cf7c66e80f24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c53ccf51aa66ff0ee65b4e28faa4f3b/9c53ccf51aa66ff0ee65b4e28faa4f3b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "the-big-o-1487?ep=77075",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4210329cb4216c4f7539fd16b06d290bce0f7e0e53a1454ca054c414f67ff8377ef730418227b9cef62def398c12684d3b3e07c331c0ed77047012ceb8a01f8674005931a1b9ca9778b2e5c506a12e64db82c94509ea5717026ef1677be00748a70652ec3d6721e1bfd1023bacac5bb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15696858ab586e7f3eae8927c561f5f0/15696858ab586e7f3eae8927c561f5f0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4210329cb4216c4f7539fd16b06d290bce0f7e0e53a1454ca054c414f67ff837603998dd05788028b72d5f7e817d8c98cacb8fcf8e05ac0dd7733462e073394206fb88701a9eecf493faf851b50e449d1bea1da530f250d242457aa8be9804a67c3dfd7b5440c96fb770195c39e4e1fda1990fe755f32fa25d20886488f7ec64e3eb13d7ba4fe2810c985e2d6bab39c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/15696858ab586e7f3eae8927c561f5f0/15696858ab586e7f3eae8927c561f5f0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "the-big-o-1487?ep=77076",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7300b8f0573e12cc840478407ab74795cd5400c2d97b61fdd87cb58bfde5ab181ca19c95ae637e0f155e4aa22634764071ee34ed697df92c6d2a3e76345361499849061b329521073558e2825dd0fafcf63223fbb1d8ba1e32241018b8934978f32d1541097ab866a727aba8771d62d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8606fdc23a2af34691a59fd436073ee8/8606fdc23a2af34691a59fd436073ee8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7300b8f0573e12cc840478407ab74795cd5400c2d97b61fdd87cb58bfde5ab185d519d806497d338e8e7663f92d80a812a0e5968c900321ab6104dcc6ff4a35c56c833545c09f202a56c71e11355ff678cb7054c88d9ba27056508a1c6656a855c16fd08576f554ab9e873f69b5c4fd282a94e9552364806533921deff4e97d79f085311f978b8c0889343b205999d4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8606fdc23a2af34691a59fd436073ee8/8606fdc23a2af34691a59fd436073ee8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "the-big-o-1487?ep=77077",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/be6a773df0432421a05c2a47905cb1df074b9bb8f1d9f9832523bd51baa28a3ce856b611f63df288587d478020615eaf5470ac3e6b415031a27dbd512c7fcf7925fdfdfa2e534294c37b9a05bcd0e603f23b03559a18673533e0f8d49e29c2180df1fb5040787b7a322a9f8b7f2d7da3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8cc1c0c983e8817900920c9a109e983/f8cc1c0c983e8817900920c9a109e983.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/be6a773df0432421a05c2a47905cb1df074b9bb8f1d9f9832523bd51baa28a3c6c7cdf23d8ec3e3950245a483c332fb39c529b51fb824ebac1051c254dc0e523a7002ff6c38d12d53cdd0175fb37cbd727690386f1da8c65ec1fd73e698d6054b88460488a0b4e0b12859fc9e772b93ab379939ce4276efd6d86b6a55cf87ac3fc1647baa976a01ed3fc37dfd907b707/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8cc1c0c983e8817900920c9a109e983/f8cc1c0c983e8817900920c9a109e983.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "the-big-o-1487?ep=77078",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/940b2cd1ed3895cc0f3356f53d5d3bb84dbadf6f5bc0179c3c18f760381944a524779e6aee130f115d136d13adff306ee80c84a440cabdc79cc55751b34b32a15d65d05e4ba6ac04d0d163fe65ae0e4bb66eb892ce6a279b69c6d7abbd325245dff951365aae2217f08d36589e2a15b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a517003bbdf150141f742b219481aeb2/a517003bbdf150141f742b219481aeb2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/940b2cd1ed3895cc0f3356f53d5d3bb84dbadf6f5bc0179c3c18f760381944a566ff4373cfec5a1ad8f546c2b8a3269bfb3f8075135c63cdbace9e59e45c28ca0fe647fbbcf2ee08decf8a9cc1db92686982d81000a7a09c1946c08531029aa44a6625501bf8ea427a95fb24f9b926893f017bb04c4fb3614996e72ebd27f87ab7e12b7d790b3c9e66467fc353fd91d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a517003bbdf150141f742b219481aeb2/a517003bbdf150141f742b219481aeb2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "the-big-o-1487?ep=77079",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e51c5c6e673f5b2626327dae382140ec10407a76f648e32b341d2970b442d839a610f418d84b0f06254d4f1a4640e6cce0a196e714e448d34be5dfb66ca67df0fa6c2a7e9551bd2f15bed02c1cad839cda02279b9720f7bdfed1ee89aa7d485beeadd1c295f0eec05fd73c7fe57d949a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af6cb4cbbccd3decd57fd9e0ef3a998e/af6cb4cbbccd3decd57fd9e0ef3a998e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e51c5c6e673f5b2626327dae382140ec10407a76f648e32b341d2970b442d839a36a83005977b282a7d775fd935ea60bbaf336a47a16a2ddc2f78f484be443fe501c88c85b5731ca40a491d6dfb37ca3d3f6615b40e303857a9f51c86e35ac150d0db2605c4567411f84614a873ec472eea439a7b9d1bea531e81cd7882f62be797de16f6982444dd574b220725dd55e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af6cb4cbbccd3decd57fd9e0ef3a998e/af6cb4cbbccd3decd57fd9e0ef3a998e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "the-big-o-1487?ep=77080",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/afee303064bcd76bc7340fc4298b95a656babf217c8834427a7a5511ddab6d69280bf2dbb246fbb8bca22df4ed0ab143d00f7148694bddcffadd1f41df2eae15450b00159bd12fdd2a80b7ef8c9e5695af6549bc233814bda0d8b0e84fd08732823f27e4748bd797be818605849860d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f9d5bef289857ed04d1adfebe60fbc57/f9d5bef289857ed04d1adfebe60fbc57.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/afee303064bcd76bc7340fc4298b95a656babf217c8834427a7a5511ddab6d692d81a60142ae291bc0004f66c4d7aecdec165c74948ff6204cdc5cf5ce28c9dfc7c0d1fc8b7c24eb37a658be8faead9a41992e79d28d048d934b6b78133156d3c557da7ca90b073e1121974a22e821d1a59ccf7f7d56fa87b543e4668ec0afe4fdf9c1773f1737b2e1b26b68bfb2742a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f9d5bef289857ed04d1adfebe60fbc57/f9d5bef289857ed04d1adfebe60fbc57.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "the-big-o-1487?ep=77081",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8655168b83e975a903f0a1e82796a84c7b2c245d18fb5fb3279f8b81cb99eeec26de6773119b92c51773599cad1110cbf157ad0491bb9df0c6d7876aa88b72d7293e9e6a8d75c13203368c24f7fad8e94817f4faf62da160c6dd5455bfb96477fb76124543cf6354eca0f56f13836e24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f4938a5f46f2554809cfa0f1ccb4a8/22f4938a5f46f2554809cfa0f1ccb4a8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8655168b83e975a903f0a1e82796a84c7b2c245d18fb5fb3279f8b81cb99eeec4ce72db253c3c4f6740173b214fbbeb7dc88b9912d65dacd58e995c018d21fc4390a24290d4bf439c0f173d0611ca80b82ff2a9dace799331136e1058dceac4c4bcac569045e6151d5b6f1721314645e5b567bd47eea00ddf1d602a118e421f17c24491f296aa613a4560c46cf150182/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22f4938a5f46f2554809cfa0f1ccb4a8/22f4938a5f46f2554809cfa0f1ccb4a8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "the-big-o-1487?ep=77082",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f49c4492df997d4a3c61d6aea502e8cfe2d38ed86cd8cfa72122a4ab25b8557996cb4628ee6808d5cae346d387002f724fdc4258e39e3bb5a0751b02f1f037a810523d5be210b0a7c118a3283abd4a062beb4b5b3414bd2b7ac7f640c14e7371452173a44ef0df0019de1d7bdae3ce34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd3317cfe19ab0c9f1be802e91bf2288/dd3317cfe19ab0c9f1be802e91bf2288.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f49c4492df997d4a3c61d6aea502e8cfe2d38ed86cd8cfa72122a4ab25b855792d25cd23810380177475a0a2678d86d8d64b8df854dc4dddc832459be26a84cec68e69f94ccbd6c2099e70a1004ec99fc18ea4b9297b352728e525fee3e0668cc668a04c4691896abce94a6d8ebbd2596603340a76a77b8732ad0aa08a7cf94548fe23dfd7af1028949ee069e0e73d9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd3317cfe19ab0c9f1be802e91bf2288/dd3317cfe19ab0c9f1be802e91bf2288.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "the-big-o-1487?ep=77083",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/28c54231f87329e81fda517454f6e56edd3cc3eed61c8e68a08a7caa63ad007e30bfe2612a27f6c1cc1bab8f1d35f0b22ee84db4dfb95d3d3e85ad3ebaa513bb8cbf7d44bfb8a3b8619a070c8cc32fd46016600f8715203d0a4c96913f6ae2fedc9f0ba802c26e58b942ad60f6cbe590/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eea413059396c018fbe03b2a6806e64d/eea413059396c018fbe03b2a6806e64d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/28c54231f87329e81fda517454f6e56edd3cc3eed61c8e68a08a7caa63ad007ef09bff79855ce4bc9a742f540ae502da1db221e7fc62e680890ed44550eb298e6a71e0651ddd2e28e50595dfa98f1a6568f655287fa67f053c592343c460f790564c18ae7b06024c4873eed76d87d1c4c0d3d0646854de2efb74f8c4800fb02e833c747a579e595768e00d10e6c3868c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eea413059396c018fbe03b2a6806e64d/eea413059396c018fbe03b2a6806e64d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "the-big-o-1487?ep=77084",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/80c67f1d21e38aa6d3b57df3bda4ba5d236b5297fd681ead28466a52b9fe8f118e98834975cb08f4a8b68f0c99ae88d31c27284083628266f7f3c09abc0aadfe038ef3c8400c1d1f5a6f190631580a8eee7d4999dbf25a2450ef9ad03672398408664229601ad3d31f986c9881b774a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/438fb84b904197f6b1fd98d3423a68fd/438fb84b904197f6b1fd98d3423a68fd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/80c67f1d21e38aa6d3b57df3bda4ba5d236b5297fd681ead28466a52b9fe8f11d39c1965d6079a162a7f6c8ba8f73fc3790f4d28494e220847fd5a303bb55927262baf8c09767e23057259cc000ea93818a6aed99d2dc0faf9770d7849cde50587f76d868f48f876f3c0f7ee191da8e6fbca568a936947888dbf950e7209387c0fb2f8fbc756cb25dc8bb521020ae43d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/438fb84b904197f6b1fd98d3423a68fd/438fb84b904197f6b1fd98d3423a68fd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "the-big-o-1487?ep=77085",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0cda4b73173e26694e0cbcefd444a635056e9af5c8884730f83f6cd9b7eba29130b1bb47607fbc49fdd54428fff929dfc354473904515047f30e95825eac5fedb024caabeb6982853cd6abc808f32fa56aa4127fb2fd1392f1be7f15f1fe9f0e744863e2750c2ca875d67301ed66a4e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69c182b40d01726de2e34093036d4fef/69c182b40d01726de2e34093036d4fef.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0cda4b73173e26694e0cbcefd444a635056e9af5c8884730f83f6cd9b7eba29126e85f2e580ebc9c9589f96c1998c23a2b4c3e5aa7b1360fc92ec33403f13b894f17d18d81a9424ed98fc9931d5e78d36513338c4f586ac240c6f430f4d05d38461bfb903a60a05efcfec4a54e4da0955afa711ee67eb9457dd051fc5c4e54cd840502f87ef8e2e85fa9e21b732d1200/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69c182b40d01726de2e34093036d4fef/69c182b40d01726de2e34093036d4fef.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "the-big-o-1487?ep=77086",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/82887618a28de81edf108aa4d6a3f15c909b6519808e734b20623a67a69175d1f3b534fcacb978211a9c2d1f1a5fded9d8eafa6de50550f28098f2e61bc680f99ecb02ed75fd5650894878cefbd541a8008276395b674fe88b94c865918ab6d86f9496a7d5c2da847c66c042c8c00dae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80af3cfaaf4311dfe5596e5afeba32ab/80af3cfaaf4311dfe5596e5afeba32ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/82887618a28de81edf108aa4d6a3f15c909b6519808e734b20623a67a69175d16be585c8033474831f04651d1feb459deab18c972969c99d972d5280217088a94b1b5c8d999ac547d5ba7c301871e9257490980f3037e50c38509791ef655b4d39096f101bc8714a2fadd3b646202921d6cd0760b760da8a16e3dc5527b80322ee9b6bf07b146821568fc971b2e0388f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80af3cfaaf4311dfe5596e5afeba32ab/80af3cfaaf4311dfe5596e5afeba32ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "the-big-o-1487?ep=77087",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a97d664a4ede9f6d04c035f17b42c05397cb1da76dc788e7dafb19ed5b0b9f8a35cc0d4375b24148e0dfef469e3f7772f932541ff97c769fd10e893d3993d99d27b2a94b0b6a09a72140a3fa1a28bbed07ecb9333bcfeefee834e13886b52d17734f853a399de0fe3c654e67a03f476b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4002542eb31b8ef8b9d92da2f4e449f4/4002542eb31b8ef8b9d92da2f4e449f4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a97d664a4ede9f6d04c035f17b42c05397cb1da76dc788e7dafb19ed5b0b9f8a5a104520cf74f8364fbde7303b6b6c5f8805dc56bd5255c1f0c90653fc6594b49f08a37acbb2bd312e40bd8243256150d9c31998bb683dcf95bf6604a0f4011e58bd8bcc73811d2bad28fa9810ebb21f58164017e59e4b7b4fd69a9b8a8aba0cf75b727bfecf40487a8f8faafd4e7e62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4002542eb31b8ef8b9d92da2f4e449f4/4002542eb31b8ef8b9d92da2f4e449f4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "the-big-o-1487?ep=77088",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c988b32adc9a1ed2398a68b36b9b88f30199fc32713eddbb7a58ff6bbdb5daeb6c454a8e926c51f58880f298b47f2207d56f4d924a45984ac1e74ec0c967e5e84985e0d96cfd9ce5df2a20a8bfe253434f55550b2ca8a535354cff76f4ee1e3de39c269268274c114e1daa0b843aed87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ef31a9afbd9016bfbce8c5c852e98e5/1ef31a9afbd9016bfbce8c5c852e98e5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c988b32adc9a1ed2398a68b36b9b88f30199fc32713eddbb7a58ff6bbdb5daebd46ef5fdad15c24f28e58fb8ebd576b620b2a3ea6eb61d2587f9c4addbf6d5538ebbf2ee36fb80aa7393630401bd63db1b2930f188c31362719766a980ebce3b667e2f5bfaa82b27801ee2adcf54b7932656c75ac00a8122f43c50d850b3a89afc7e5d4cf3241ba18a37c8b1803b215b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ef31a9afbd9016bfbce8c5c852e98e5/1ef31a9afbd9016bfbce8c5c852e98e5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "the-big-o-1487?ep=77089",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/cca91618cb06425494203bea4e0362c2fb37d9a6a8cc4adb26a55099f375e6d0cc793b431463e452eb24c26b6fd288c04e90e8df7b2736b16437ce5cd485010d5b9c68454569a20cb9af82a07f5b748d507ebe2c43ec4ecbd823339a29530a68e1ad55cbb4761a65b8ad08b07698453a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/20cea46051d208c40cd17689f841635f/20cea46051d208c40cd17689f841635f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cca91618cb06425494203bea4e0362c2fb37d9a6a8cc4adb26a55099f375e6d0cf0b69e7697a795765db85f4835aee246e81ab889247f6dc02da49e49bb6763215e7176d4ca76744b9883666bc76ddccfa9f6e3f06c5efa770826e7090a1f8569c4a9b72204eb6d1b2c29692ffdb7e7c1ff97023adb916438aeaaf7ba39b57a3a8421e7c65cc9e3564497ba2f3eab2af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/20cea46051d208c40cd17689f841635f/20cea46051d208c40cd17689f841635f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "the-big-o-1487?ep=77090",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b172af573e84b5db5f498d01cab844b9008b8812d20bd8d09c930547560b6c091e4d0a2a800320288cadf3edcef3627a8035d3c8f3b26f637b269505f0aea55f54f52c8643ded50d443259777066113e4902498fcfe4011594c1cb07d0841fb8163b0a605533c339516feacd03e14823/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfa1c3df03b1a38586d99cf1974fa1fc/cfa1c3df03b1a38586d99cf1974fa1fc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b172af573e84b5db5f498d01cab844b9008b8812d20bd8d09c930547560b6c0938ec16062721e0224b50d4fc78cf3f8eb01ceb87fdd9c0459ccd30f45598b045cf24094ca390c8d0096251e85f04063637a8703ec62717ead12482e449a8d3d1ea3ccd3802b80aca6d12410c7a452927a8feb143c66557c6eb97fa1db2a16869b847456690b12830cc033099d823d75d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfa1c3df03b1a38586d99cf1974fa1fc/cfa1c3df03b1a38586d99cf1974fa1fc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "the-big-o-1487?ep=77091",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/fe6d3d5254b9cf2dfbcb33dd1acfa4acdbf50574f6478a687945965fc09e93606fac5364197eb67f234253b9aba1e284976b3e241ee27529c1697db83ed42cec03bdad29ad080a6df27ae34e9c54b944e864e33252c67161208228f610aef08ce65c45fc52b1c912e9a01941bfc574a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b08c83e3aacfbf4a7af029d8c7b30a7/0b08c83e3aacfbf4a7af029d8c7b30a7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fe6d3d5254b9cf2dfbcb33dd1acfa4acdbf50574f6478a687945965fc09e9360cd2f011f5fff0b89dabfc8ca8c532e4d4a36b83109948d70f7e8a43ab4db51acfeef93d743d968382b2b3df0390866e0ef367369820b84dc9c6bf9c1b592bbafa5638ded760de29b79ea830378a9c3eaedff5e4eb6f8647ea8dbafeb05e16e0608db2ba6e83e1e5b71be59f5860cb80a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b08c83e3aacfbf4a7af029d8c7b30a7/0b08c83e3aacfbf4a7af029d8c7b30a7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "the-big-o-1487?ep=77092",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/92438b573327d5f79049a2a2b14066c60f1912904e15aad1ab08b7b91b5e5ebc575d582e3c985fd95b44ee953b624e97d0c50f8dbcc773ef3b429638f4efa01dcb0b67ba983758febf9653211477404252a0cdf37ca356079795c5da2fd6db8e74eefe236908461f2dc70bf3f1bcd4b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7a4b5cea618c520351f0e65cf9b7243/f7a4b5cea618c520351f0e65cf9b7243.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/92438b573327d5f79049a2a2b14066c60f1912904e15aad1ab08b7b91b5e5ebc1e5c90953e9a97a780a559be7d88df1a0225bae2d0c7492c609691ab9b9efb5dd1535b5c16e939ca3c5c5e05ce4895ebeea3e461fc8428f20f7bac7c630efc025e1646bb98ddd64a5abbabe421181146cef0ae480a024247edbc65a950ff0e75167e0177afaecff061a4443d22dcfa12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7a4b5cea618c520351f0e65cf9b7243/f7a4b5cea618c520351f0e65cf9b7243.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "the-big-o-1487?ep=77093",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f35c79435cc3afd62ccf0e21a9903771f300cb6aaa6e088f0bbbfee36582cf35ec611623222164122bd5ca4ca9b352dd709c33aea7b6fd121e89ec357a64af5c0eb0375007a82a6ec06f05e60e9c160ff79acfc694f39ea7d977f83d7579d660525da5137e42f4830cb904b05621488d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7056a286c26df08df7681f97c89fae02/7056a286c26df08df7681f97c89fae02.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f35c79435cc3afd62ccf0e21a9903771f300cb6aaa6e088f0bbbfee36582cf35541ccdb4ec30f27f532e0a6112cbe0ee41f8f845ce4608a473a7fd5f0c883087c007ce5c0343855c4b6626399e87f3d2702af5d6680d8de1ea2e17d24f3aac7bcb2e52dd3410f4276b8632c65dbe1f2f72713d3637aa6e8aae1b8bfe53312cdb443878c8eeb503022b69e7edb75da43a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7056a286c26df08df7681f97c89fae02/7056a286c26df08df7681f97c89fae02.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "the-big-o-1487?ep=77094",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2215465df29e902508995a60917fa2249d6d511c6ae7d5a2de243f28653885cdeca6ff7601fc8f106d71feebe7982c812181ae6c20f3e96b833c2cbdd390db5b17b73b19f51544b9bd9cc86f6c250dcb6c124513e9cac0f7a1fed61c29468ba02917b2572ebd07ca4619684aa6873470/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7dd4e194c7d32480e07e78f1dcc06cef/7dd4e194c7d32480e07e78f1dcc06cef.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2215465df29e902508995a60917fa2249d6d511c6ae7d5a2de243f28653885cd68c4493303d4a7354db9a2fb1a8ac7a8fa9e129ec439688b6199215b1f4eb05b02061fcf44ca6a931c188702e8fbf174c0d3a790d92cda4851cbc1063f46a96fe10876dfa60bb78727d51d4acad542ddf80113586a3e7e34d05307da27a8eb4de6f9770d9e8544b37da0ffbe79154750/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7dd4e194c7d32480e07e78f1dcc06cef/7dd4e194c7d32480e07e78f1dcc06cef.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "the-big-o-1487?ep=77095",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/984b3deaf029bc3adfb4906b5679b04b467bf4cff4259c944cbeba660bc3cae6278304651df241018e2540429c2b1a974540415f8695803822d418e74147732552ada1093163db13e194ac38db7230ba2071773d3c12054d9532713dd1da67a307f8bb63c0fb76a5191fd458c0dbffa9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89cdf57acb4354b475a93df9d14a3d55/89cdf57acb4354b475a93df9d14a3d55.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/984b3deaf029bc3adfb4906b5679b04b467bf4cff4259c944cbeba660bc3cae6a1ef693a86637e5d605806d1059fa491de6af0063841e3cd58c2b1e7c6b13fa9e4c33f40ae2ab01e898f744c40f7ceb03beaaa9e20a17d1924bad466dbc9412d8a7b94db3b2cf579c45a76ae416fc6236a598cdeed0728926c6c06ed938e2fdc37b3555c2f7784e4a6e02a5ca37bed09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89cdf57acb4354b475a93df9d14a3d55/89cdf57acb4354b475a93df9d14a3d55.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "the-big-o-1487?ep=77096",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e93c9824a68dbc345e676170f68462df4c0ff7b56ddd8f06469201dc6b6a13d8ea1d50982125b6491b43b0250e789ff135cf2e85175ee4254a574712d98947041ffe9e5d7faca4cd4bb34e93e8866526424f8919de2b79ed718da5d01f6b9cb89a72bb21d0f1a8f6aa4254f09634d238/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffad064aa7104a6420685e8c89241ebb/ffad064aa7104a6420685e8c89241ebb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e93c9824a68dbc345e676170f68462df4c0ff7b56ddd8f06469201dc6b6a13d8c07ac47137410cf5f172d6077e2cc424cb661ed68f0c9371b4fa78b9d99e927e3c7999af06b41ac5bb9735e0e821654445968cc75c865fbf83ff79668bde7d2b1cf6761fda4b39a0a64e21d6e4adbb20a9d62db31007d32af6c6aa90163e724f8cc37d803c3ae77eeb7a5090264dc650/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffad064aa7104a6420685e8c89241ebb/ffad064aa7104a6420685e8c89241ebb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "the-big-o-1487?ep=77097",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5ef45308bb3a42b6fe8ced73b17de96aabe5c9639306adb70327e4e177946bf17fb277275987d2dec32a72761aecde6f50964d0b07ee50b73db086e8d4b24b27d7623e83b56a5f594e5c08290ff5895366f71b6d9e9b9796dbeca1f981b0a65cf2480b552284680501d3e4234fd49a3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f6066de574e04badf7d896aa22efd15/9f6066de574e04badf7d896aa22efd15.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5ef45308bb3a42b6fe8ced73b17de96aabe5c9639306adb70327e4e177946bf1c985f0536f04bc34ea93fd3389af080d93384554f2e871ccfe9eadc2d664534ce03245245b645c7c4c64024b2279b6e448074f572c66b160baf05c2eff24029c9fbe5121ffe8a103beb9990d5f8ce56d74861a07423167744fc7f64716616f365fe98ca35dc3f5b3746b3fdc73c41982/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f6066de574e04badf7d896aa22efd15/9f6066de574e04badf7d896aa22efd15.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "the-big-o-1487?ep=77098",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1430394e805ff5291abcc694cdd76c96bb0387b71031413b92fa1d0553ad5eb974698ebb818640e57014435ee193768f78009727b04ed2d5bba61fc9daf60470d0d85eba488e23fe830014bcb56ca77797c5d667d206840324d6bb7ee59c7d41b0b26316894f21bf048dcae717ec7934/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1683e49e427282a8b174ac25a955d6cc/1683e49e427282a8b174ac25a955d6cc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1430394e805ff5291abcc694cdd76c96bb0387b71031413b92fa1d0553ad5eb9d39a058ec20c2db65e73879581eced220862450e158c75ade6a741dcb76ea7e0bd349c645231bf7e918e78223e30ef96a17485c582cc841cde9bda9e846687b69bc912b4a29b40060b04f6cb25d3608dc52a629c81a6d4fa4cbb7e376f98812815ee231653f6fdc2b92d4f6b32ca5b57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1683e49e427282a8b174ac25a955d6cc/1683e49e427282a8b174ac25a955d6cc.vtt"
+                }
+            ]
+        }
+    ]
+}

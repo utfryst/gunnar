@@ -1,0 +1,383 @@
+{
+    "info": {
+        "id": "baka-test-summon-the-beasts-1199",
+        "anilistId": 6347,
+        "malId": 6347,
+        "name": "Baka & Test - Summon the Beasts",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+        "description": "Fumizuki Academy isn't a typical Japanese high school. This unique institution has implemented a new and innovative system to sort its students. At the end of their freshman year, students take a test that divides up the student body. The highest scorers are placed into A class, all the way down until F class, for the lowest of the low.\n\nUnfortunately for Akihisa Yoshii, his supposedly \"great\" intellect wasn't quite enough for such a test, and he's now stuck at the bottom of F class. Naturally, F class has the worst facilities: not only rotten tatami mats and broken tables, but also outdated equipment and worn out furniture. On the bright side, his friend Yuuji Sakamoto is in the same class, and to everyone's surprise, the genius girl Mizuki Himeji has also ended up in the same class due to an unforeseen fever on the day of the test.\n\nUnsatisfied with their perquisites, F class rallies behind Yuuji, determined to take on the higher-tiered classes in order to seize their perks by using the school's Examinations Summon Battle system. The participants can summon fantasy characters—whose power levels are equal to their student's test scores—in an all-out battle. Will F class be able to rise to the top, or will they live up to everyone's expectations and fail?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/OiqsI1rNnGo",
+                "thumbnail": "https://i.ytimg.com/vi/OiqsI1rNnGo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/m5v4VgC7auA",
+                "thumbnail": "https://i.ytimg.com/vi/m5v4VgC7auA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/8g52A0qaq2A",
+                "thumbnail": "https://i.ytimg.com/vi/8g52A0qaq2A/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mizuki-himeji-2285",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b066beb87ca42031a04ba3f491ba7194.jpg",
+                    "name": "Himeji, Mizuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hitomi-harada-899",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/27b385e1572877220b90cb0643e034e9.jpg",
+                    "name": "Harada, Hitomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hideyoshi-kinoshita-882",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/064709aef8f96eb9d49df3791e0c36ed.jpg",
+                    "name": "Kinoshita, Hideyoshi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "emiri-katou-213",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0b1777840fc86db3ecb2efaada6f234.jpg",
+                    "name": "Katou, Emiri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shouko-kirishima-2094",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/440102ddc1d9266470863e9e2b15b830.jpg",
+                    "name": "Kirishima, Shouko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jamie-marchi-291",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47d312b332f07d217390f775174d3789.jpg",
+                    "name": "Marchi, Jamie",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuuji-sakamoto-2647",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5dd893428824fde795b8f5bd44d92316.jpg",
+                    "name": "Sakamoto, Yuuji",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tatsuhisa-suzuki-93",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/baba2b34cab7c362d371ff21f6dc9f69.jpg",
+                    "name": "Suzuki, Tatsuhisa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "minami-shimada-1599",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8f835a9e70cc341a93936465ba31b7dd.jpg",
+                    "name": "Shimada, Minami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-mizuhashi-286",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1b77c1b218ba70120855a5d6c9cc57a1.jpg",
+                    "name": "Mizuhashi, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kouta-tsuchiya-1248",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1293fe81205f4b5a2a6298d32b3762cb.jpg",
+                    "name": "Tsuchiya, Kouta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "greg-ayres-158",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0128b11504cbad679999959887eb154b.jpg",
+                    "name": "Ayres, Greg",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "バカとテストと召喚獣",
+        "synonyms": "The Idiot, the Tests, and the Summoned Creatures, Baka to Test to Shokanju, BakaTest",
+        "aired": "Jan 7, 2010 to Apr 1, 2010",
+        "premiered": "Winter 2010",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.63",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "School",
+            "Super Power"
+        ],
+        "studios": "Silver Link.",
+        "producers": [
+            "Lantis",
+            "Media Factory",
+            "Cospa",
+            "T.O Entertainment",
+            "Silver Link.",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Idiots, Classes, and the Summoner Test War",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18089",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e9c7b9c097ea8ae67d7e497024b09b81c5c564fead39fb6bf1c72eca4e7129a3c22a49309873ccbdd21460b02f738ecd6e7ab02659e5ac37735b006063e612f6c6fd0cc2486df72a057318b0f28cee15267c0f40c2ff6c52150d1dc78db57508a664dae64617fb1ba62ad04939a4c8f2c3de40afe3e7b7ed24f543b90300c732/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed42f0f92119c7caea6e22222381b84/aed42f0f92119c7caea6e22222381b84.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e9c7b9c097ea8ae67d7e497024b09b81c5c564fead39fb6bf1c72eca4e7129a3c22a49309873ccbdd21460b02f738ecd97fea5cb27f8d1afb39b83de0264e5503bc755a9335f3ae3a24ac16fb4b7780b131a40bf2639fdee49496b37805f179d53c7fd5505917af5f13595ad0f3161ae4134477d64c17185712066b6611b87e71b043fbafa338706c4bac054f0ac0ac1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed42f0f92119c7caea6e22222381b84/aed42f0f92119c7caea6e22222381b84.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lilies, Roses, and Physical Education",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18090",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/830a78068b7e93b7bbd5ca888d9dad9b6b908ee783643842793c3562d5217fd9206e749e78fc7b24650b0e636f1402b7df7888ffd606fe72de9657fb541f7b734d4366c9fc4d33cddba4a6a4457a002585d1258e6ba3115e37812993eb2b36f90ec7a7ff58952661c3aa357d07ee47badb63d41f2717696cc024ba8147fdf4cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3198dc12468915d80c79b8e04e0210b/e3198dc12468915d80c79b8e04e0210b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/830a78068b7e93b7bbd5ca888d9dad9b6b908ee783643842793c3562d5217fd9206e749e78fc7b24650b0e636f1402b71a4484d9dd1c6bc6207cff45fd3dc7b1e84ef5450ed66498bf89c0c5e2bc982d394b53b7d6eabc98848907fef8dd2b76c7391e2b86614c13af9e42b12023075ba1e82e5234e4737a7bc7b2ad002c0ef4dfc35dd64ae17f184fe54b3fe8a751dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e3198dc12468915d80c79b8e04e0210b/e3198dc12468915d80c79b8e04e0210b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Food Budget, Dates, and Stun Guns",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18091",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6e754d7be232d63424b794160f0ea65d8433cb28031c892f43e0d9582a622867b919fd18d0fb5da9d2cbf9e11ec75e2b63b74a118ae16fb3686254b310c64399cfff5b6efb2e1ff6b5b64dfa9fa545902daad1bbb3ff8fb1c69925b2138996f91647b6e360ea282732c93e169c2a3d2f78466c860a6fe339d1ee2a03b20f6548/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/007bf325d4fd6c78adc076bcf8c57a2c/007bf325d4fd6c78adc076bcf8c57a2c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6e754d7be232d63424b794160f0ea65d8433cb28031c892f43e0d9582a622867b919fd18d0fb5da9d2cbf9e11ec75e2b05e03992d2b3e261651619be05e959b9611089b234cbf0fb04c3623a08ae93848b3e8ed94aff39bba0247969a07f2394999bfc7ec01282be6e057429a6132aabdf8147e7a43f030a84622e435d509027f62468bc05f0c40a39b13323e01ea599/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/007bf325d4fd6c78adc076bcf8c57a2c/007bf325d4fd6c78adc076bcf8c57a2c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love, Spices, and Boxed Lunches",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18092",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5d2923210a5073a269455d666f55582634ae62f43fd5f27b411e363d321b01118283cd9bd25e42f493409dfa393c703686f86688962bedf3ba77e40ea6552ad27d9e5053efeae0ff2ca66c1ae44d174ea831d025614a584ddc3b8ae204e780b363f5d9f96d3b202ad18c3ec1c30b2e86f196cd24f4e2560bd8ba050712b77c51/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9632b76d5c4c8adeeb4d53725a1ad276/9632b76d5c4c8adeeb4d53725a1ad276.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5d2923210a5073a269455d666f55582634ae62f43fd5f27b411e363d321b01118283cd9bd25e42f493409dfa393c70365c631e52f65214126f57b236333db7058629a31a8edbddbe75af1c3a61fdaad96e95369aab3dcb8d992fccf142936c4c8677f877428dacd976fbebed508c5a747c986635b4f949b16292809c208075b90a13bf7cabaef5ad6518c4315318d54d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9632b76d5c4c8adeeb4d53725a1ad276/9632b76d5c4c8adeeb4d53725a1ad276.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Maps, Treasures, and Striker Sigma V",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18093",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a4a9f8421158d1ee06c46dbfde1a4af085775580a5b8c92dfc692a96b28aee4e8110fbc190f9e7374f9d93bfc06e2ffdef425bca85b2d28a09be3ac7710a486876da5eefc27358762c69250f21adb4ba083ce7dae1e2d2fd456ec3d795f0c7ce770509d1279b767fe712e5ab3ae824d394fce1e297e5153d6cfadf8abec54584/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26b6f016634e306367d1527a6460f458/26b6f016634e306367d1527a6460f458.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a4a9f8421158d1ee06c46dbfde1a4af085775580a5b8c92dfc692a96b28aee4e8110fbc190f9e7374f9d93bfc06e2ffd745445299ce1c373c45441f0e7a419eabb1771270cf9a07cd7ee3be3902f2ab2f00f57b1f11c6d58a0634f6194119a015555def7b0495a786652c11c1c0eca8af6d85719fe784f1a9046a7470642bcc320cdd1c4bbc9766a9a7415fc538c1eed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26b6f016634e306367d1527a6460f458/26b6f016634e306367d1527a6460f458.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Me, Pools, and Swimsuit Paradises... and...",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18094",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/29ac87c4d9fad86a5d0dd8502bea974eb7b8f1611cb8702cdfa7a8a6c921eca60a4de1137499096747ab0a9440e7564f69280a568e1449e14e5aa92ebdc67ed46f9fb1f90d7f7224d3d7ae8e7005c5e9e668a0809cfe6b14e1e8525c0f0ee79c7466c59902c1438c40fc5b2a6ab41632a0227f3c53567d6996da9014bfdcf58e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59be262ad7dbfb067837b1628bb6b706/59be262ad7dbfb067837b1628bb6b706.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/29ac87c4d9fad86a5d0dd8502bea974eb7b8f1611cb8702cdfa7a8a6c921eca60a4de1137499096747ab0a9440e7564fe79bd16d805fff3a4c80c76ae3644171e939caa45e534e26c0d15fefa8c4d9ddd4f3bba5e5f207ac1489a9446ded6264142ee8484a8efddeb5188a5ce3c8879b9ed7c77cc48baf83aacf3b542921f70e1cb19c19b2da9170a388a32fcf6df866/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59be262ad7dbfb067837b1628bb6b706/59be262ad7dbfb067837b1628bb6b706.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Me, Shouko, and Kisaragi Grand Park",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18095",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6a280d8edf3cef937fe5d4a8086c21738dc869b7bbc57f8d3feded777049938dc1ce97da7e187368cc6974e87601fa1521fdc77b3f9af5b9afd4158f5d8ec9a9d877aec50ab5e277865783f213b040302fb1c3a5525946784deb243785eca8a0c623f2e9ec5f1b927c95bcb6e6278200c19fcf801eee5d4fd1f85e658746c990/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b223552d69eb669d084006539089b0a3/b223552d69eb669d084006539089b0a3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6a280d8edf3cef937fe5d4a8086c21738dc869b7bbc57f8d3feded777049938dc1ce97da7e187368cc6974e87601fa1567743ac6c13a4bcbd8c092b8edec28c3160cb323fba3e19360b3099fea7904869b9dbdd7f4780dfc4f58f7c94ad3f5df2dbbb6b2aa47d51593ff26329a56f747436053c98138cfc28f51f392d5bc2e77997a274c9a467d30544e19d489e5b875/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b223552d69eb669d084006539089b0a3/b223552d69eb669d084006539089b0a3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Recklessness, Labyrinths, and the Avatar Instrumentality Project",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18096",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aa5828b27b0bba9da729057f9f7817f671c2f4832b27f3b6dc17509f942d6c55e5df3d6b5620a0a47fe912b012e2dd251cd4de100a318d7239f7fdb00e9ca30ffb7ff6f7fc124b7f7f3fc2fa0e629f012d5e48abb89f23a7e898e982017613cf2c6e391cada443a09c637b19a8c17e53c5050f379ac2e754ccec3d102ece6e5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed52896ae10f9a694f0b8200689154da/ed52896ae10f9a694f0b8200689154da.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/aa5828b27b0bba9da729057f9f7817f671c2f4832b27f3b6dc17509f942d6c55e5df3d6b5620a0a47fe912b012e2dd25b08f7af8fb692113d93162bb4b0c9beb711e188f193eae8f598c856e738ce9aa294b1f17caf8db6969e63b7c8c4148779c0c6c6be2fd59f5eb5b5d3ee85c2f12235a262e7de8ed8c393493a50b73159a64434e2c83985baa5a1da7bfde83628e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed52896ae10f9a694f0b8200689154da/ed52896ae10f9a694f0b8200689154da.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kisses, Breasts, and Ponytails",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18097",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1910751b79affd330a82a7ca4132d571d65415e5240057606dc74c39bf2d5466fb84ff100fdee0c236bb0c6a58ab307455b18b1899b6eef9ff88225a7db5aad5da330191c838dfd410d03d27d4b3c1ec19397e4ebb83cfc0f5cfe6b931eeec00faa5e43a194692e51128f2a017a58e9bb43c081bbbb2b4cc20c965aecb7338ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68942b4d57bbec336e523f875f489978/68942b4d57bbec336e523f875f489978.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1910751b79affd330a82a7ca4132d571d65415e5240057606dc74c39bf2d5466fb84ff100fdee0c236bb0c6a58ab307479c522436916c12751ceed2bdfba47fda9397c99f518d0cea2b5d22e63fa35a640f1b3422acdd39a8579508b331f07a3966a9d61575278ac72acefe4a158274573dccb0cc4f24483646c01f1a02690c300a7254eeefba563870e863abfa1f01c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68942b4d57bbec336e523f875f489978/68942b4d57bbec336e523f875f489978.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Trial Exams, Mysterious Thieves, and Love Letters",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18098",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c97343d72eb82a16bdf286ce168e9e5f713dbdcdf2ca44117bebe1cac01a6163d417c0994ba2fddac759eed9aafc95e853a2e5a7522d13d515d56c5fe0cb8c8866c857700670a293296b5f69ef188a74d697cbaad90e414a76c21c89d5ffb32defd1d8c8aa7d3025b758b4b5c6968eff612f991c078991c98618da1a15c8beeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/130ed7d9b48f3c0f7fb43609b6183801/130ed7d9b48f3c0f7fb43609b6183801.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c97343d72eb82a16bdf286ce168e9e5f713dbdcdf2ca44117bebe1cac01a6163d417c0994ba2fddac759eed9aafc95e8a084a3f7bb9e90828fe7c5c14b19bd0e353342e40aa3264cb36fd9996f6846ffccfb8456a60bc80483506e9abf635a9dbed9fdb3246e05b1b03bf2595736355df0096c2884e9b52d3615345ea9cbcc23d9e26ad97d16e5e6b10ccd13683d1fba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/130ed7d9b48f3c0f7fb43609b6183801/130ed7d9b48f3c0f7fb43609b6183801.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rivals, Love Letters, and Blitz Tactics",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18099",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6c4baf8edebe452756b1717cb8658ba329613242c675f3f7e5c1ae1b79cfee664430282754ac91bdbcb0f4fd232623ad40b452eb8f04f9baa7c4169857d6a65119af4b10ffa69cdc4bcd2e5191a00c2da85a1a9f53f97072c353d72747bd298d0d434ca3d01ef157f0dd6c4be7900006b6002b4ee92e949dff19d8cdebdf42ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd0a3f4d3ad17854fb31242d03dbd8b/8bd0a3f4d3ad17854fb31242d03dbd8b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6c4baf8edebe452756b1717cb8658ba329613242c675f3f7e5c1ae1b79cfee664430282754ac91bdbcb0f4fd232623ad4b802ff5d438090ef970bf4c0fa1ed10c36f120e47774bb2bc751c56b8456252e7a4472b022ff44c56439b970c0ee4c7e503648fe758baf8f0c671f80cd15ca352113fb1281a3e9b4d68b2c40f82700005e1eec4e56bd3da46a5d7695ce75c80/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd0a3f4d3ad17854fb31242d03dbd8b/8bd0a3f4d3ad17854fb31242d03dbd8b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love, Courage and Our Battle Has Just Begun!",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18100",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b62d8067ef76982677a253de223a82f029cfa584be1e2662d4b946aa12717984e387f75e9b36b18c79abc74f0f77945467f43a51f2146261492ff6ae595644d823275371bfc15218cb8eb28e21267a26e9dd15aef4052b0746e5bdbdc3c5a518f767f376bd69b8c56a50428832684eec22b18a9158d85458c0f44b6086f16bfe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6f9a49244698be8e0b3e1b1bc73914/0b6f9a49244698be8e0b3e1b1bc73914.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b62d8067ef76982677a253de223a82f029cfa584be1e2662d4b946aa12717984e387f75e9b36b18c79abc74f0f779454d5c41fb90f777333dfb9010f4bcabfff1c8c1218f3ae57923a466e6677ac362792bf66f83635fc42bce429e4faafed4cd356a57f33b652770400a69042c52d56611de51129dfb332e087eba92b745e84b91c6cbddc51277881ccfcc0a54f1d22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6f9a49244698be8e0b3e1b1bc73914/0b6f9a49244698be8e0b3e1b1bc73914.vtt"
+                }
+            ]
+        },
+        {
+            "title": "BAKA and TEST - Summon the Beasts",
+            "episodeId": "baka-test-summon-the-beasts-1199?ep=18101",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/06b71776a91a81a732ec7d36c754a129bd3e6f6d6b0400fe8909f71e5bb4b2164951ef9f8c64a1a56f398fd7a3ab71096e3d10b62cedf76dae05e364302ec399fd31cac970d7ef96b980a0d359d75c4d04e770f62504c856b9f744f9526caaabed053a262352c39a8d3aa960e56ebe29f3abfaccd84e3ddeb81a9efc80a14813/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494958e8c0da841b8f35a1917a703236/494958e8c0da841b8f35a1917a703236.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/06b71776a91a81a732ec7d36c754a129bd3e6f6d6b0400fe8909f71e5bb4b2164951ef9f8c64a1a56f398fd7a3ab7109f26b9a3fa03dd607d42ae87373a10c1c98b188018e8c7266267aee998b7c11d4655e68265ca268f0a84a97b793d20e80662d33ed099a1f3898a7381b2007075ae0c3cf02a52820201cf330d342d88b827b175df10c138f21785a068968e62b17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494958e8c0da841b8f35a1917a703236/494958e8c0da841b8f35a1917a703236.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "info": {
+        "id": "flip-flappers-1023",
+        "anilistId": 21714,
+        "malId": 32979,
+        "name": "Flip Flappers",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52d6d228b8a41b265b0034b53ef7db9c.jpg",
+        "description": "Cocona is an average middle schooler living with her grandmother. And she who has yet to decide a goal to strive for, soon met a strange girl named Papika who invites her to an organization called Flip Flap.\n\nDragged along by the energetic stranger, Cocona finds herself in the world of Pure Illusion—a bizarre alternate dimension—helping Papika look for crystal shards. Upon completing their mission, Papika and Cocona are sent to yet another world in Pure Illusion. As a dangerous creature besets them, the girls use their crystals to transform into magical girls: Cocona into Pure Blade, and Papika into Pure Barrier. But as they try to defeat the creature before them, three others with powers from a rival organization enter the fray and slay the creature, taking with them a fragment left behind from its body. Afterward, the girls realize that to stand a chance against their rivals and the creatures in Pure Illusion, they must learn to work together and synchronize their feelings in order to transform more effectively.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/Cz65Vy7Wp18",
+                "thumbnail": "https://i.ytimg.com/vi/Cz65Vy7Wp18/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/mBK_fAtWPlk",
+                "thumbnail": "https://i.ytimg.com/vi/mBK_fAtWPlk/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2 Animax version",
+                "source": "https://www.youtube.com/embed/kS3i6F2cCPU",
+                "thumbnail": "https://i.ytimg.com/vi/kS3i6F2cCPU/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 Animax version",
+                "source": "https://www.youtube.com/embed/QHdS8YtrFDA",
+                "thumbnail": "https://i.ytimg.com/vi/QHdS8YtrFDA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "cocona-cocomine-3645",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcd9c067b314a4f4e97180fe5f747658.jpg",
+                    "name": "Cocomine, Cocona",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "minami-takahashi-413",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05247cef650afb89d4c473f955dc0229.jpg",
+                    "name": "Takahashi, Minami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "papika-2444",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8168ef8dbb7e077bb9509b7b7576029a.jpg",
+                    "name": "Papika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mao-ichimichi-249",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68623c432335a61f4ac977a968c5b558.jpg",
+                    "name": "Ichimichi, Mao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "cocona-no-obaachan-121456",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b85482947b4c4f0e161fc46ee2c62912.jpg",
+                    "name": "Cocona no Obaachan",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tamie-kubota-5954",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7cf936fc4675e0ebcbd15bbdcc90689a.jpg",
+                    "name": "Kubota, Tamie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "green-gentleman-86839",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e309de90ca973723a00091e1278ac206.jpg",
+                    "name": "Green Gentleman",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "rikiya-koyama-131",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/777a5a45defecb4d7ded05ec9f4774d6.jpg",
+                    "name": "Koyama, Rikiya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hidaka-17430",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/49450bd6081f12e6ae48512dc78fc4f0.jpg",
+                    "name": "Hidaka",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "jun-fukushima-134",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa3068e08141500a0a9a02d29afdd514.jpg",
+                    "name": "Fukushima, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "iroha-irodori-36423",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f41a9d3f38135d1b33468f2052ae2bf4.jpg",
+                    "name": "Irodori, Iroha",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saori-oonishi-360",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0b1206c1cd7132b0637f0bf91edc010.jpg",
+                    "name": "Oonishi, Saori",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "フリップフラッパーズ",
+        "aired": "Oct 6, 2016 to Dec 29, 2016",
+        "premiered": "Fall 2016",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.7",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Magic",
+            "Sci-Fi"
+        ],
+        "studios": "Studio 3Hz",
+        "producers": [
+            "Sotsu",
+            "Lantis",
+            "AT-X",
+            "GAGA",
+            "Happinet Pictures",
+            "BS Fuji",
+            "Tokyo MX",
+            "Hakuhodo DY Music & Pictures",
+            "Medicos Entertainment",
+            "Infinite",
+            "RAY",
+            "Studio 3Hz",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Pure Input",
+            "episodeId": "flip-flappers-1023?ep=16547",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/474fb38007fcdfda157af2950f48e38c13c4b918e823a58bac37a8bc9fbe7766420fb1aa97201da7aa5b5095402906c3f87865e14d37fca799405161c4d570686fbc0ebd01e74ccb95e643b9b55fe2bb9042dc80db130a573e0cc10b325288d613fb5196b835ab1e10bb8020a8456f9719758013c1ca4ad0f6d36ae5b55ff4a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7a810c338bd74e40f50667720c2a75c/c7a810c338bd74e40f50667720c2a75c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/474fb38007fcdfda157af2950f48e38c13c4b918e823a58bac37a8bc9fbe7766420fb1aa97201da7aa5b5095402906c3819e2ce883f7e5d625a77b365c4b33e8d1f4aa98347223188845dd59d1418a07b29efdebcf5bb8fb579203750c6b7b8e1b8616cb33d089f0341a98eacbe8c317c9b3a96374593bb4da25af13909dc620a416f765ccf89fef0710eb6be12f197d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7a810c338bd74e40f50667720c2a75c/c7a810c338bd74e40f50667720c2a75c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Converter",
+            "episodeId": "flip-flappers-1023?ep=16548",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4ade038031308118c09edc10aca55e3c8c10b112642d3373fbcf46f450ac357e75055d881d85095828869722820d06be2c507a5ac3f860342aaed7a001cef7f69f90afc65b792717d3fe4b9340613595adee149678e6a31969fc50befa467f223f863654458c4b41bedf7876a81e4f5d6806e1a197bbd8cc2fe3b3ccdd45a9c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4868e2c51651b41e5075dec9ebebdfa/b4868e2c51651b41e5075dec9ebebdfa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4ade038031308118c09edc10aca55e3c8c10b112642d3373fbcf46f450ac357e75055d881d85095828869722820d06be4c36e017ea34064a84bce5c4acc01044252b1b92142d32510aa15ec2c1535b875c2a38c65b88495768e1ffccd67b1ea610b78fc9316abce9acc66de35db9c8b2a84f89a89f010cc27b0628dd70d0410f07ee5f21bbd1d789b3d2ec0441344137/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4868e2c51651b41e5075dec9ebebdfa/b4868e2c51651b41e5075dec9ebebdfa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure XLR",
+            "episodeId": "flip-flappers-1023?ep=16549",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0c4af4409d89442154885010bb33296b22baf72528ff5891ea5084b99929b4056da468d9953f19c884e7cceda2f3af67d52e9282d60728c50d8e982b6b58ccab45baa20612a8c7680ab5673a2e29002be121f79a01a70af9271ec558f627a1552d63bb86d7dfbb9e826549ac2ee38c19b93d0e8559f76216e53305ef18c08597/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42d1c31d05ea1fda7272adae48b40be1/42d1c31d05ea1fda7272adae48b40be1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0c4af4409d89442154885010bb33296b22baf72528ff5891ea5084b99929b4056da468d9953f19c884e7cceda2f3af673b5125897c545f265774fb9afa0c783e95c9453779beda828fc0c6d5a51f5a2a3670adbb0ec15e36611e837e31ab4ae6a7bfa566d0bc232395109d30f06a228918b25ebe990b57d1b2672ec8e66495d41e73b37ef22cd2e4a3b04d460eaf8331/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42d1c31d05ea1fda7272adae48b40be1/42d1c31d05ea1fda7272adae48b40be1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Equalization",
+            "episodeId": "flip-flappers-1023?ep=16550",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/48deabd82ceff7eab0908f5720e724ac3ea36e5bc0eeb0f7d4aebdae10fe67aec7f26113016080f9b2bb45d33e6d7f2e47913851d81361193895ae5abc045ece263c826e30f918335abb33166edf51bfc8ce1b995b45dab15eaf77ceee31c377cc732b2f534e1965834d6646fb972617b3a365a7ebd8d5cb00a56c8e518d6eb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c44ad9efcc6d45f1313e4d687915b83/3c44ad9efcc6d45f1313e4d687915b83.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/48deabd82ceff7eab0908f5720e724ac3ea36e5bc0eeb0f7d4aebdae10fe67aec7f26113016080f9b2bb45d33e6d7f2e5c2f26918a6e7610883c6dd8ec321b177ed9ad66052bd2f9869170380277374161a801ee50b0f977bb0268abd2a2963f11c13113a362b4c0ece718f200b07bdd400d1f810fd762c42bf8f5cdd5d4059e31c1ff8963e757c372f236f4d9cbbc9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c44ad9efcc6d45f1313e4d687915b83/3c44ad9efcc6d45f1313e4d687915b83.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Echo",
+            "episodeId": "flip-flappers-1023?ep=16551",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a080c4a8f71716c22d0b1c1ac0cd489881383dc13d3400924ca150bd1f1a87ad1fbde70e23173d5954f7a7b248bc702bbba07a1f573071097090136bf3da71bf53a9acf110b313414c712eb5f692f858e915880208727389f5bf93fedde7253b69b691145eb5383f084577212ad818c3b97e01872d3b813dcc5bd7999257bfed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03e54e1ff7fde00a15d7c6a395c5b035/03e54e1ff7fde00a15d7c6a395c5b035.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a080c4a8f71716c22d0b1c1ac0cd489881383dc13d3400924ca150bd1f1a87ad1fbde70e23173d5954f7a7b248bc702b9e00e210f00ca9ee2d7011cb2d981524b92ebaecaa456d0d0993800579331e561d5d9934bb784071fd43e0a06a65f6049a90aeec996d114b0d2209832cc606c327c220a41c8fbd6bbde528b902243aae5ecec58c7612165fe38bf43ae37530a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03e54e1ff7fde00a15d7c6a395c5b035/03e54e1ff7fde00a15d7c6a395c5b035.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Play",
+            "episodeId": "flip-flappers-1023?ep=16552",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/27ca3df18a34a88b97b5b832c4a6c72807b164499f4f50e4965e422eff30d6a4245d2e9765e2541e81153aae0efbf5c45b68f7305d4e9b972cd455e774580d330266108a6c5df0159876ee1b5c95a6024e9e662ee7e945bc7877bd1c0e1250897cd099bb0d21d09b07e82c5768bb035ede424cc2d3a5e596c5321c247ea674b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d92e84408e621ac2ab30c60efe8bc2/a3d92e84408e621ac2ab30c60efe8bc2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/27ca3df18a34a88b97b5b832c4a6c72807b164499f4f50e4965e422eff30d6a4245d2e9765e2541e81153aae0efbf5c4693b306ecbba81c0422504a715a9ff5680b2cf883558f28af9307a2b2777bfe5ddc3d953240bb2352a50bc27702f992190f19f5845f83c1606c5cb74fc867ee5f3c693889ce70f77817a32ec5cf669409c801dbf3ddeb591a07252df0f25515b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d92e84408e621ac2ab30c60efe8bc2/a3d92e84408e621ac2ab30c60efe8bc2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Component",
+            "episodeId": "flip-flappers-1023?ep=16553",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bf26cf3825260be99e88a8ed5d790e2c2f67921f362b56cd8d353e4bdd0d79a67fe6bbdb622683bd9eafbf6ce1903e998427f6228ab31ac50f477764ae3358e9caf81cf77fd2517cec72c9282ae7d5fb05dd6e3dc4db4723cf107e720721a82fe27bfaea3dbd311f1ab0190f135e20d1497147fd1618db58d0372ba2d3b3185f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0954cea5c8a33bbbba3e26b2cec3e5b/d0954cea5c8a33bbbba3e26b2cec3e5b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bf26cf3825260be99e88a8ed5d790e2c2f67921f362b56cd8d353e4bdd0d79a67fe6bbdb622683bd9eafbf6ce1903e99b5ec508aa84eec69087e5d79b8dec9fa15f750eb615114668a4b5dc9fb5befd0ee9382c154ef4463b7aad10e2a4d4cadcbf192a58f23a2d3b8866292b6d6b373d5cbe7fbf89425a7d37cb9562fe58c30259c430fe5ec77d84fdbd37239236b39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0954cea5c8a33bbbba3e26b2cec3e5b/d0954cea5c8a33bbbba3e26b2cec3e5b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Breaker",
+            "episodeId": "flip-flappers-1023?ep=16554",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8b5046b9118d6ec95af84de92992ba969c1f5a6cc82cc8b3cb9b23a754836e31243b3dd1ad5dcd8d44010dc53e98a5b563db7ccd6230cb7a066f8814fe43ba477c594b380babea8c0ad485acff051679ab23942142783f4e577cc0e2ee5025ad9bfc5fb282cc06f284037fcff5e7b9c59b7a994a075ce1df29d74d4f23f6c177/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/602c654675792c9ab7911916e1385308/602c654675792c9ab7911916e1385308.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8b5046b9118d6ec95af84de92992ba969c1f5a6cc82cc8b3cb9b23a754836e31243b3dd1ad5dcd8d44010dc53e98a5b5f367c98946325d180d08d77f12633fcb892e67faf9b172a8f165cc8796ab2c885f748cd7907fd9d80b81cad01246a10f11c33101259e0695b22e5aaf786ba138025ac3ec55a73061d154d1b60a4d74631e2d64a8c6d6f264dd37e126e2abbc38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/602c654675792c9ab7911916e1385308/602c654675792c9ab7911916e1385308.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Mute",
+            "episodeId": "flip-flappers-1023?ep=16555",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5a9639cf6663d0fff2e2393e859e959102894c5f78f953c11125b1dfd6c0c64652c0ab8bd2ba473185a9f77b57e68478c780017c35494e73a10d519e3310f69f6d731bf0d3fede1b97ea4aaf30f09f1f6a61e5d08b0c106e119c46f244422a951d731243f3a9f76960b8f0c500845706aaa2cca2f097686334c9f6e2959a4629/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00b6998454bbdc0526003471b3474cd2/00b6998454bbdc0526003471b3474cd2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5a9639cf6663d0fff2e2393e859e959102894c5f78f953c11125b1dfd6c0c64652c0ab8bd2ba473185a9f77b57e684781c570f1f1aeb0d2759b99157c0a1113b47e59399ac80225afe0482491f4c6e65a81fccb62b571c05f8e29f39a598e8e3aeafafe889e6a13694a281a96b9a4122a5322b1d2516836e9cd24b15513ed9c6406fcb95aa428456abd5c888dcc20008/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00b6998454bbdc0526003471b3474cd2/00b6998454bbdc0526003471b3474cd2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Jitter",
+            "episodeId": "flip-flappers-1023?ep=16556",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9e6c44a2a39960fcb75968e55374f3b2a1743790fd0f2291730fa2cdf20c7b043fea18e6c13635917bd94059571a31598b45fd94fc8cdc98dc39835832650a845b794e6b9370e9d01464229d10c78953ad8994b93b0051f3c82edb88c4f2e22c03db0607f0e1085762b9ef470f475f2445213de851d2e1de923888323ef75f24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c969f877041d58f271ca831624a2b0b/3c969f877041d58f271ca831624a2b0b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9e6c44a2a39960fcb75968e55374f3b2a1743790fd0f2291730fa2cdf20c7b043fea18e6c13635917bd94059571a3159f2230f39c24c87bfb0d2895f812a346156d61f1d22ffd01109410c1e237a57127009b8b557f6a2c933198bcf618998649b9f9c3b8af49fd174bf41b2649c43a32bbdaf3706793c1f8b9a02535b10c7b08a1d82c5c40431cc20b1580702a4f16d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c969f877041d58f271ca831624a2b0b/3c969f877041d58f271ca831624a2b0b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Storage",
+            "episodeId": "flip-flappers-1023?ep=16557",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/751a0450f4ac660f071d3a1e82e887bf3882a3ceac00bacf4d303dcd9965003a43a6b04e4c8bbe68b08dc910fcfe10d578e2427f9b1980789cacb77a7847e7b5d43d89a7f63efa435fe233627f7f759c1bda10a58371b522418ff1d53f4aa12559260fa9265c15330fc4df8f31a5c5daf0f61a2d78088ef7c2fb90c81bfe53df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a11bcf453a0687fe91429836248f42c9/a11bcf453a0687fe91429836248f42c9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/751a0450f4ac660f071d3a1e82e887bf3882a3ceac00bacf4d303dcd9965003a43a6b04e4c8bbe68b08dc910fcfe10d512a66a4378ef7640af60e9df89caa706bc5d31163145fbc580769290029a656fd8aefd71465c4cba423832815667f5b5eae961420e85c07b21055d391f375465ddd4d4760fe791bda9d5ac4740c5e854c1fe6a13b7cd357bb31f6fb509a5dc7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a11bcf453a0687fe91429836248f42c9/a11bcf453a0687fe91429836248f42c9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Howling",
+            "episodeId": "flip-flappers-1023?ep=16558",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fd788692167712ed7aba543ee2d1680a20f6f91d01550f53a38c7f5d428114ac73906fa0503018cd3abe5830f8ba99e6a7bd7a3c84c1395f088d58c3f19cbb8e0f5e30b3f01bed6b88ae429a50f34c06157cee1d63e23cb5bec1b06e596d9ccb95310636f0ebe60c63d50aea85f0dd190c3f9c323eb27f1c601ee0f39f7ce9d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4563c6cf1260308c7bad9d369dbf7166/4563c6cf1260308c7bad9d369dbf7166.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fd788692167712ed7aba543ee2d1680a20f6f91d01550f53a38c7f5d428114ac73906fa0503018cd3abe5830f8ba99e619170555d65c8c43879eb000f5b05fdbbe6fcbd2c121d2e4c1129ad042ba7a10a077e1e0233d7e594010399f1e7cafc84e0cc3cfcb56619fb4b4ecd0454d12568ebef2ad73cfa3999c3aee4e293e4b6d1d1c067b89e585debd5fcd53c29e35e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4563c6cf1260308c7bad9d369dbf7166/4563c6cf1260308c7bad9d369dbf7166.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pure Audio",
+            "episodeId": "flip-flappers-1023?ep=16559",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c6f694e863bac4ad5f0908f3ca15af710862182d6173e98202ec2b5ae41a39549a5cab3c6ae1c4824b5dd9421447634d8b870be86fb8d9e755b7081427fd093e65aaec5ec7d6286df160fbc08d158a3907032e525138e2f1913429772079727d262d035cad5c7f69bb8016a8bc047950e459200b70d7e8e4fe67ecf20f59914a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d0c1dba0b6574f4acb52bfb46fa4559/4d0c1dba0b6574f4acb52bfb46fa4559.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c6f694e863bac4ad5f0908f3ca15af710862182d6173e98202ec2b5ae41a39549a5cab3c6ae1c4824b5dd9421447634daccbbc2dcb7882b968228e9c5885c1955bdd1f0c40c161d609e537cd3aaf3872cb1d73797ac16b00fdc9911b7ae669b8d056a782ebbb0a45e08585e33ea8039093ddc49555f2327dafecb8921821da31c608192efd7ae5b35b9b289bcb3756b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d0c1dba0b6574f4acb52bfb46fa4559/4d0c1dba0b6574f4acb52bfb46fa4559.vtt"
+                }
+            ]
+        }
+    ]
+}

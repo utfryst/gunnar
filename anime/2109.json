@@ -1,0 +1,598 @@
+{
+    "info": {
+        "id": "accel-world-2109",
+        "anilistId": 11759,
+        "malId": 11759,
+        "name": "Accel World",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a31ed251de92862d8816f2930fd888f.jpg",
+        "description": "Haruyuki Arita is an overweight, bullied middle schooler who finds solace in playing online games. But his life takes a drastic turn one day, when he finds that all his high scores have been topped by Kuroyukihime, the popular vice president of the student council. She then invites him to the student lounge and introduces him to \"Brain Burst,\" a program which allows the users to accelerate their brain waves to the point where time seems to stop. Brain Burst also functions as an augmented reality fighting game, and in order to get more points to accelerate, users must win duels against other players. However, if a user loses all their points, they will also lose access to Brain Burst forever.\n\nKuroyukihime explains that she chose to show Haruyuki the program because she needs his help. She wants to meet the creator of Brain Burst and uncover the reason of why it was created, but that's easier said than done; to do so, she must defeat the \"Six Kings of Pure Color,\" powerful faction leaders within the game, and reach level 10, the highest level attainable. After the girl helps Haruyuki overcome the bullies that torment him, he vows to help her realize her goal, and so begins the duo's fight to reach the top.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "SD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/Le80O3zYr0U",
+                "thumbnail": "https://i.ytimg.com/vi/Le80O3zYr0U/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/2zzFtSt_Sq4",
+                "thumbnail": "https://i.ytimg.com/vi/2zzFtSt_Sq4/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/2KxYB8L6xxw",
+                "thumbnail": "https://i.ytimg.com/vi/2KxYB8L6xxw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/VHOiqv3Xw1o",
+                "thumbnail": "https://i.ytimg.com/vi/VHOiqv3Xw1o/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/fCTotQgWcYk",
+                "thumbnail": "https://i.ytimg.com/vi/fCTotQgWcYk/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Y8jnTVYlI5Q",
+                "thumbnail": "https://i.ytimg.com/vi/Y8jnTVYlI5Q/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "haruyuki-arita-1902",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0e05aa93ee55d8c2220485e5e0f01333.jpg",
+                    "name": "Arita, Haruyuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuki-kaji-5",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+                    "name": "Kaji, Yuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chiyuri-kurashima-4268",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/65f4c974be3528d3d70f6188492fedce.jpg",
+                    "name": "Kurashima, Chiyuri",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "stephanie-sheh-460",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb9906c23dd85a6596cc9a651556b3d6.jpg",
+                    "name": "Sheh, Stephanie",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "kuroyukihime-441",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f55d0b3dc6ef5510d554e045088bc9aa.jpg",
+                    "name": "Kuroyukihime",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sachika-misawa-431",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/664953d7e82f62fd1d32a14e53f2b3c3.jpg",
+                    "name": "Misawa, Sachika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takumu-mayuzumi-6091",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/715d5c3b15fa825b383aed230ce0bfd8.jpg",
+                    "name": "Mayuzumi, Takumu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shintaro-asanuma-454",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c342301173dfcc4bfdac8cae87a8e1c.jpg",
+                    "name": "Asanuma, Shintaro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "araya-119951",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e3c2b576e3473a3d200c1de419189533.jpg",
+                    "name": "Araya",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kyle-hebert-476",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/939aaea95f864b51d90fefcd18c2d949.jpg",
+                    "name": "Hebert, Kyle",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "saya-arita-63080",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62c2ae147a9370b13fee15c2943dbcf2.jpg",
+                    "name": "Arita, Saya",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "amanda-celine-miller-3493",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d6e6d7ea25da2947f51ef7480781c48c.jpg",
+                    "name": "Miller, Amanda Celine",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アクセル・ワールド",
+        "synonyms": "Accelerated World",
+        "aired": "Apr 7, 2012 to Sep 22, 2012",
+        "premiered": "Spring 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.35",
+        "genres": [
+            "Action",
+            "Game",
+            "Romance",
+            "School",
+            "Sci-Fi"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Genco",
+            "Rakuonsha",
+            "Warner Bros. Japan",
+            "flying DOG",
+            "ASCII Media Works",
+            "Sunrise",
+            "Viz Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Acceleration",
+            "episodeId": "accel-world-2109?ep=25600",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b604b0d680c9a6f8a77683a4d5ff44bccd2dd56940730af2d210d61d0d194d0caf6715bc626e103cd4ae03e9ea9d276660ce27029ee48aec84a9bcc9986fba724ec4b97ffcd33c51858b00295c85739a8c6b85beb0e1ca3f3a1f82a3569acd5508e048b6011f0696354fcfee8721a0cf/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b604b0d680c9a6f8a77683a4d5ff44bccd2dd56940730af2d210d61d0d194d0c7a6c123d1a5146681d8af2de73a274c6954147b05f931a59c35567a5601861f7f590387fbb94264b6205689011a433d047749ab996069cd27f20222437a572e41a3877380edb36b8ec9a3df7c133ffd0a0cd75a40dc1b2268f30d945b68d1f6e86d2d831ab1201fa169aa8da8271a19f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Transformation",
+            "episodeId": "accel-world-2109?ep=25601",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b71961a2bdecfdd2cbc7f19b2bea1d211758861f2e31baebde58d024fdf9c968253826a6d471bc1bc0e8c73c0e3bcc307041fa94dfe2440f27a8666ef14eb140fd7b52d9923b5608ed53200fa62906cba3bfc456bcda47b2ed96d1daf6f66b09a55ebd4bc3ecf6ad5c6d8e5c3d4d9e00/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b71961a2bdecfdd2cbc7f19b2bea1d211758861f2e31baebde58d024fdf9c968e94362c69bc7f1827539d9bacf47ddfdc6fe2032602a933279e2b896855973b202d32c95bf0a58b0699964e54dcdcd467d7069f07eff3759f2021b1fe2ee602f1d07a94bdbaee1efd355c4a49952b3974c0772e366b26662064607721d56f6927e5ec9e29784434ef3cb44b5b070c11f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Investigation",
+            "episodeId": "accel-world-2109?ep=25602",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/12e403f9c10f7041117ecceb362748035fe264b1e482f46137105cbca20d80baa25dd860fd04f9cb677fc00f20733e0a7bc803a35b909137faf1979a5177209e212ba6d93164c35e744f7aa1dfd2276203f5cf14d10b9a767e36974632e8bd3bfe2c274f2baf0a70a8161c3b17541fa8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/12e403f9c10f7041117ecceb362748035fe264b1e482f46137105cbca20d80babb034f1bb91b3948fd1832d2a5884d020b77c1e50109917b5b6691cd823cca426a37e186429aa071f08f14f9f4a2357a5fece5332cecf06bf49617cc97f7382f6b9453a23a41f0be8305b0733d50107626db0cd7b7594c06f4b7f3f9b7e80315ae9f085918348637e7550546ea98a830/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Declaration",
+            "episodeId": "accel-world-2109?ep=25603",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2cd8dc83d1d555ef5fa2c26218a804ebf45dc4b8f3e71616e4dc88c4fe0c6335f48e6638e3eff8c5c26a92a5bae30dfffbd85efa8084ab6e6679a850043a532e45d263efb9dac1287eb647c92b2b60feff7df917ef59f98a6b81731aaa95ed819249baacf5da5e312ca6ffa79386d50f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2cd8dc83d1d555ef5fa2c26218a804ebf45dc4b8f3e71616e4dc88c4fe0c63357bb089a6664427b07be39e4fa47008c53dd732de6dc1a079da641f46fca7d0ed88e47ec712cfaeb6c1a0d5db0e7d74ce25f8e2ba034951a533a6feee2ce3e2b1708167f6f3d6e716d59ddd43c751df381fa6f024e943d4130c13cb588c08f0e6c19e79879683d66cb70953c9eee96b66/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Aviation",
+            "episodeId": "accel-world-2109?ep=25604",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b9fe45f29e10ab242a6558db7af15ad5b2a8fa2923a0763c498b73a396c43c77a63710e7ee27fa684d2f8e392e76873a1a0a78bf73c1abb07112762f3fca8a912c937e3c0d25d8b3a5fea4cc174a3bbd1630d05e3ec9e2c853c160ade942487e8fe0f2a156ebf8b74d4e62a6fea0b59e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b9fe45f29e10ab242a6558db7af15ad5b2a8fa2923a0763c498b73a396c43c77753fe1aafc896c9c9f0b7f24e1400c85a168dd95161216d9a8b98405eb8fe64a5c3bd9b20c2e2e6e2aed1853033e293605dc3723008e34a385011cca7f4ca99f7c54cb0f062f57d642babf7993e6724df46d5a812cc9912a55e30c16729b62839b2d55e32dc34caf280ed7d8f4682cd2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Retribution",
+            "episodeId": "accel-world-2109?ep=25605",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e090aec3667e2668ba5a1e54b801b2d873cd57f9bcefbe0e4ce556fee57c8d2446c34fc2208f7809adca95f43099eecd35519ad11cd632fe667e2ba1efc0ff41c271ffdacaac6f577c1ac54ff2bf9d16468175f29b8d058ad020f21f47c87a982fce9a42e6101648382559e8c4d35ac3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e090aec3667e2668ba5a1e54b801b2d873cd57f9bcefbe0e4ce556fee57c8d247990339078e056f4a57f74dbe8d728f3fa0d42cb03d4ea401cf31a4f234388eb519b2431eb7cd8a2cd239af0557f391f88fae0f170da99d5d1569587336e903816a639dcdb85dcec9d16bfdbd76c8711b8a42a44f4749654af8780303fb57e650b0db46965a954143e6db84d1d961967/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Restoration",
+            "episodeId": "accel-world-2109?ep=25606",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8e353e1a3ca963472c0bfaf328641a203e4191701f081fdcf80d40665d9ad06e0b0b44aad0101a28a06234d06c84b5bf6dc117ec7bbfc6e9e6229404165485ea1e23714076a134352980aa962ade029fa75c4645a43a84354208d4b5abc1dac549cb7ef47f9142861914c0a09a530fc2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8e353e1a3ca963472c0bfaf328641a203e4191701f081fdcf80d40665d9ad06ebc108ae0240b925f24f3380131c6aa9894ab009cb90dd860e935fd8114c97cd7f260c65b7f4488008c6e7f41119b23bfde5a67847b46dcfc78cbd4b0ae7212d2b147d741f10d98476b96820c52333da52b4374c70118f0ecca264c97c073dd6e5b924ee4471323b448fe0ab596b230b3/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Temptation",
+            "episodeId": "accel-world-2109?ep=25607",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a323fcc5220d8832082bd3260c2b5be56e27d9b6fa948c5a2ad02acc6ed65f516f3f6764ab2956064e7b9e2c57ef762a7f3a7ed9081029be1523e5867092975b0b7de009f64fe86d8ca1b45346b4258d17d3ea3fb097f85fed698ad9df2030f36d7fb0d8cd31057c5ddd0aec4046f45d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a323fcc5220d8832082bd3260c2b5be56e27d9b6fa948c5a2ad02acc6ed65f515466b1a3261845e950e66fc937eb5273cbb69c4ea254b8da482f13f1573310b4f70a630a04a01174dc92dbac4946b7f101a0f64218a643a68db8b7930a8f1f12b660635dc1c5a29e1ee1846b833545280560c4769752c25bf977324e8e5dea09005a9041b1f31f83e50cef3c93c0c23d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Escalation",
+            "episodeId": "accel-world-2109?ep=25608",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6463231d2926b473610882dc5de1c73d45ed05b8f5331765aaa59528f500265b3c0f3eed6c230962619462a50b970e6831511b655fb7e997254a8275cb874715d56f612a097f05851c99fe54533d239c50669df788483725d70bcce8dce686ee8665cff090fb8f528f9773cf76cf2ec2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6463231d2926b473610882dc5de1c73d45ed05b8f5331765aaa59528f500265b5e1bdc346b8f88730fa718e981fafad6efe3c79cdcad17091a0eb044df69d7c3d64281f25dd620fa6ccd2bab7d5577a44458ff54eef52c7b1d09f2ce975e6d98a60a2e7d1c82c7682655aaec46814b3292a1de8cf8cabbace7afa1c4e410b41b7c632b9a3a288cccf7ddead32a468360/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Activation",
+            "episodeId": "accel-world-2109?ep=25609",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/31f9c64b5482c137f0e492504646de36f040688267685693e313eb24ceeb4f9ca7f1f2a014d7b1f159c3c4ff8b6d03441bcc2d7e54b18d3a44848d6faa6833f774970e933f9f40feca01a11a252d24724664540b84fb332fa8c84a8e8db62943bb7152c808421c774029bf74b76c66d7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/31f9c64b5482c137f0e492504646de36f040688267685693e313eb24ceeb4f9c3e1b9583f51e13e73a2e3bd4ffaeb1f9e472ec9f2c17af4e2699b578b83fea3881f22ff59012da9cb1e0c2fde72072cbf9e2ac89b6456890015f259d8e4545c211f0d1df17cb4d1271dfc0fe02ae03e8b6659638f8247151765d25f517693fd976eb73305f3849e0a91c24f2a1fa98ee/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Obligation",
+            "episodeId": "accel-world-2109?ep=25610",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3acf6251d9c8b9fc60989ed09f63566de711aa4f2b4b7341e3dc996898a3c86e1333954b82d70061dacf3056a7e15612e9c521cf93428a57c5c57129170c45e0ba1e557a0bda5b50aef22886297ccecaec6cfbebb4cb88734559d71f291a008d9e1d3890b224fc1c62a3ebb2cc8f4a65/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3acf6251d9c8b9fc60989ed09f63566de711aa4f2b4b7341e3dc996898a3c86e0987e539152dd5a32713a4824e38033e70a86ef09243b116bf32ff010abb45e2d59ec30aa74be30a3348ec2288ae44622dbad6794a3d5878cdb7843e4e455279bf1cdcd28c2c74ba80be58e58143510cc90c3c30782c1e4fe44e78bbb49dbe3693fe8b9d105368ea9cb4701f8d1404ef/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Absolution",
+            "episodeId": "accel-world-2109?ep=25611",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e9e019b55c85764b3176547986ea24ef5d3af7d92516ef0ccc90e4588bf161563971e4b70add22833939da3de93fd45d08bb5ade95804b19df12b23909e08f1b8eb318d3a3669d054133c2d0ab2c213a1b4eb248677a890b619764c009681f074703ca139952d308984364a106ba0fc7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e9e019b55c85764b3176547986ea24ef5d3af7d92516ef0ccc90e4588bf16156f17af15ccfc647473d4afd16422fc680004fada0384c14ef7d66cd64ea8af56f107639c40fededde96da7359bda983bd15f9be519cdaa92fedd28cf7c0def2a5ed0a8d618e3c7b1fc3387097829982048d30ab7c5c135f920bc8b5ddacb945be9fa34cbeb76908093a5917383d9c8486/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Violation",
+            "episodeId": "accel-world-2109?ep=25612",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d70ce5efdde5ea2e2551b4b870eed121c15072fe4468da6ad8d364afd93bbcf2e21743074f77aeae0d8612483ea8ab5c3f95e4e8145b6ca2b83b9df26624fc86b5011c6823c5f84b64e7cada03a5de01225c755559402b64e4de9ec071bf7c33c98d3f8cc40b75dd36555d36bd8573f9/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d70ce5efdde5ea2e2551b4b870eed121c15072fe4468da6ad8d364afd93bbcf207062de6769193fc3c7c616a9c267bb317fb67ca6e48e534bf8c558580f001a6ea62946a34b0db91245cf91b450e66a8b6057024c4095864d552f9f47b7f59ac2c1fa202ecb3abc4e184602beb21bced5d4773ab76aa26b9d610cbc7d25f9e79146a27cea1f6e1c3512eabd9a4d3eab2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Arrestation",
+            "episodeId": "accel-world-2109?ep=25613",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8a52318e72c3bef8cf859971248eebc766e08d5667dc45569691e408ec3a686da6ab274f3622cd495b2cf3cc65195684012613e47a72dfafc676bc826277cd8bc12a646aeaac2c6ef7e09c2039a9953d422087386b52d6d5e0330917da9c6f3fae9e88f4e3233939ac4259939f7d53a7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8a52318e72c3bef8cf859971248eebc766e08d5667dc45569691e408ec3a686d7bdfd1bea4a27887decb1d05bb6c1ed53bc7f00554d379971404834e5b7cb526e4f23d52c2ea7ae4705aa3eff7798d96385d63e8d34415b5af7ae2b52264b0b3f1588d15474ff1a6585378bd624911d4ec7e36465533bac094cd9a0d005193262ab2110aa396668bf9979e8f0babb342/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Destruction",
+            "episodeId": "accel-world-2109?ep=25614",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bdf8a029613bcdcab32112aa0692c8170e0b7e80516a1fc7ff62d58afaabde19d8224d758eb7e7a25c48343c2615521f8d96d5a55b09dfa10a71c9a277fd7f6fc7f134bca61a80f6676e10a67963ca94bd49cbb2789b8b716148b5ded81b4074b12e1f4e3b10cd6a903db36fceed30bf/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bdf8a029613bcdcab32112aa0692c8170e0b7e80516a1fc7ff62d58afaabde195fed5161a97909e7c1543f65b93d23d20bc2b1023a5b95ea17827dedbc0bbf674155e4c91f12a81529057c456558702d4eb3c75adb945a293b3a913c5858df6605774b03c1a06556d416269e96ad8f3a3646fb88ed1894898b8e09e06ee44503bddc0989b50e84eb79384ef2f8d9e8a6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Imagination",
+            "episodeId": "accel-world-2109?ep=25615",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/164a60cb9d0627a25d176b7ae4dada74bb9360f01b734c9db4ce543469c6c63582c700b44b04b5e82128f9f0e31e38f0e141deff293df8ec8d837a2953651bc0f62bf24af88718c1ce278fc63382d530f840ce9c0840cd18b7c5dd962b703b2db3787e44dd34f2599396130a0ecb477f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/164a60cb9d0627a25d176b7ae4dada74bb9360f01b734c9db4ce543469c6c635b052eb3ec8656b8428e719ac9cc246d5581e1a02cdfb3f155e49b6b1d8651118912f92407a1781c77183b91ef87fb027189435307322c9975bdddd8fd5474f47711baf4fa0b9500a31cbbed03792c6fd33e325836a417830ba0dbe7fa19a0372a0d04562216a2e3738e96c80650055e0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Fragmentation",
+            "episodeId": "accel-world-2109?ep=25616",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/09d1bcdd22c4af4a09cd4b61e0dd0d95fc569cca69269ea80396d94b41bd8326597e9b989542cfe6d598210b76e59b162ca32703627385b9bc38c77b0f37ffba0eac0bff0e57f6cd1822e12462baf66a1ebc7948d03379f1e205ce0f5c8895ca7ee6c34e85dca4025586c5cada14a09d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/09d1bcdd22c4af4a09cd4b61e0dd0d95fc569cca69269ea80396d94b41bd8326ac21d2667f3c351afa9aced29cd8541d916ba9b74c424d11f75b3f7e42b7ded716df05feb65325ec20c5cf0532d5a26818331728f4567f7a1b7e3b3bc54099649285338b3802e626e773ca3f9795d201db862189094cf8feb5a79443566ccce7a9ce0996aa4ed527ced79a99ed9fb79e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Invitation",
+            "episodeId": "accel-world-2109?ep=25617",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a58e7226e25985c7818fbc701db75c6f61d40ba258530959434b01356c43e1e008caf4ef244cf528615b72f91f861221d8d0e8b4ca2e3fd8900162131611c5f7ffe0f95aa85cfb4f6be28edd0f26227d242200069257e55f8bc07acfe6fd3a5cb053627ac02e3c403974b745daea4a73/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a58e7226e25985c7818fbc701db75c6f61d40ba258530959434b01356c43e1e0c3c640a65e7883d70beb7a7c469324f3ec9a35e874c0eab8722758eeb4192b6b3ae1445dfa696da69f2519d7cd47c75301105d85636d6bad30d839398ebfe8aab297f0d9400aeb50c086a66c96ddd62cf3be56b7451ce25994ddba3cc436ffc6be219b0cff17b824259bddfbffe3b4a8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Revolution",
+            "episodeId": "accel-world-2109?ep=25618",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/144fbc5889dfee8561f987f1eae457b602a88f1e3365656795955e807e348b6bdbee53334cdce981c006b8b8ea811fb7640fb23259120f99f6d5bb690d7e17ebb1b732b56df3c0a1a02b81e17ac7dc7327454baadb0b3d5a004a9dbfae9124e7c253b7ae5c7aebb37361f219f3e6ffe2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/144fbc5889dfee8561f987f1eae457b602a88f1e3365656795955e807e348b6b1812399c04eb8a5ba5a24ab95088ed974a4389a9312b4c5fab3aa38615dd5582973b009b4c97fbb23f0930680f1b46867d67079dbd777d2e3b27b46acfcff0727ab685568b6f9c76f9b8881ca9ac1c9d1f4d16146d114287144aa9934c9a860cebe1a145507bd6bd47343c323baf9157/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Domination",
+            "episodeId": "accel-world-2109?ep=25619",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/691f8cb11004db46b6ed65ddcff745d47da6ccb958450f29a1a5bb858440e4c7a872761ff32dcca9ce35728f59309b9c9ba282d10dabcb9c16442dae0838213129c3f4975bec29da60972150be24d262f79613f16abbfde49eb6f2b9e0ed4969409a723721ddb39632466f9badf09052/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/691f8cb11004db46b6ed65ddcff745d47da6ccb958450f29a1a5bb858440e4c7d97d1f08198214bd8622a99a7b770d66590a05e966102f61c247f91921c7c24263df32c1c200a826719d08a89915a9933ec4eb649bf6bf8d0ee11d3acf8f7dfeec3156fb38fd2d6a9cfe22fb244039ee26ec703d1c34ea4355399d2381e4ef2a8b7339e3b5353bac26a43ab0658aba51/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Insurrection",
+            "episodeId": "accel-world-2109?ep=25620",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a6a3144037870a219242762e8d6e1918c0b599062a15e5ea332ed42e7a0feda60fcc52d42207f2e42606f47ece3d301aa4495ac06435928ef923ed601e89a7e15611f072bcc3c74dd21b43d2c936e37c000b1e30bf3eb79b9404012eb0dcacc8b037b8323ccf763d07e6a5222cb0adf8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a6a3144037870a219242762e8d6e1918c0b599062a15e5ea332ed42e7a0feda660ca14a6e5f25450b77eef55c8abaf4cc80b997d441b93f3944c9b9a13a2b7bc7fd6ad8c10a54a8344363fecc10e098ec38665fc92a0d870e80cc1b5c38ec1df751ee31319d803ba710c7db220569dd23c75d02ec943e532962586f5826685d046dc716c064012a2ce655ca134cbf04c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Determination",
+            "episodeId": "accel-world-2109?ep=25621",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/05de9b34860919cbd9539a912c3b41a00d9a9b9dae058691d9b00c57d7689f295def0bd6d033a6cf35f01f2ebba3c861cfa61747786a0c19ebfa67264a76daac02f9a1f671600432f647aeb8e86f9af02bf139b2f6289616f98296f388a0995c40d182ee41e12b5b1c6187abcda2a575/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/05de9b34860919cbd9539a912c3b41a00d9a9b9dae058691d9b00c57d7689f29caa0caac690568979b909797fd5a33a07822511a20689c935cb2fbfd8779def6b1fda1df4f6e9eddc7546abcb77e56d0786875ebca1d015c347efa54cc37eec8a0854c658692f8c13c481ab295e69fc2fd87d958473a50d4935ece1daad70b0ad05306eb8545b8d4602420ceb279639c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Consolidation",
+            "episodeId": "accel-world-2109?ep=25622",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/080a407584291c4bfc6dc327320a2c7f8831ebdf7dcaa91f3e443465ee46026e47e4c29acacc3da593f13c7a2028f4eb1ebaae16f01abcd2086d071058d6311ffa30b34a87c39866cdb9eb5fc82a61b5b3fcedcbf3eb74c934c3319d02dc06a738987c9ae5deb4a738bc007b3c7158a9/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/080a407584291c4bfc6dc327320a2c7f8831ebdf7dcaa91f3e443465ee46026e9272c5f2ec25c3a48c22b2f985f0eb608528ae5189624612c224f6b3d8c3303220be037b2e118c729454ea75861fcd28b480af16e897f41dcf321890dded3f8260daa403c293f746ff64806614920f182c375c80fef7c222ba246263a5462bb6fde70a8deea490d72fe6c84ab711add1/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Reincarnation",
+            "episodeId": "accel-world-2109?ep=25623",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ec38c6af9beea9f223c1cd3ea7a9a62e7ed21c3c4cda607f6365fad2ea402faedb9f440ce316d134fb8a46ff487a1dfb76ef239443b6243e9167ac73afd45e1636bc1b2123f071bed73542d195c02c5d1f388d9f3484c74fedb27134748ea6fa23e0e38a217f4d1bf1a7139834a58715/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ec38c6af9beea9f223c1cd3ea7a9a62e7ed21c3c4cda607f6365fad2ea402faea27e8dff1629cde70b6097bab55446404500f72b4ad356135d890ae5887d9586efc34c6de37835d357126263ac90d459718cb60c32039895a54bde5db6d31ec5a2f9ff9b140a0bbba117b8c0212e70b7ed9a306b54b297c6f9e7a403a0e5703c49c23ab3d709075f196c1bba29cc67c2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

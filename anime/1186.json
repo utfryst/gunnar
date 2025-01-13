@@ -1,0 +1,617 @@
+{
+    "info": {
+        "id": "the-idolmster-1186",
+        "anilistId": 10278,
+        "malId": 10278,
+        "name": "THE IDOLM@STER",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ac2b48768014cc96fe75d7f3d70d009.jpg",
+        "description": "765 Production Studio manages the unique talents of 13 professional idols as they slowly make their way to the top and become country-wide celebrities. But the girls' journey is far from just fun and games: hard work, sweat, and tears are some of the prerequisites needed to flourish in this industry—and for 765 Pro in particular, a watchful eye out for their rival, the infamous 961 Production.\n\nAs the girls' fame grows, however, their time together as a family diminishes, and now the very popularity they sought is threatening to tear them apart. A difficult balance of work and bonding must be achieved, or they risk everyone going their separate ways. The personal and professional ordeals of these idols can't be conquered alone, but with each other's loving support, any obstacle or hardship can be overcome!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3 short version",
+                "source": "https://www.youtube.com/embed/sz53h6_Iq_4",
+                "thumbnail": "https://i.ytimg.com/vi/sz53h6_Iq_4/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3 long version",
+                "source": "https://www.youtube.com/embed/bxl1jHGBc2Q",
+                "thumbnail": "https://i.ytimg.com/vi/bxl1jHGBc2Q/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/EgjE2aj8KoM",
+                "thumbnail": "https://i.ytimg.com/vi/EgjE2aj8KoM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/nzgZgTxJFQs",
+                "thumbnail": "https://i.ytimg.com/vi/nzgZgTxJFQs/hqdefault.jpg"
+            },
+            {
+                "title": "CM 3",
+                "source": "https://www.youtube.com/embed/eENagmxmQmw",
+                "thumbnail": "https://i.ytimg.com/vi/eENagmxmQmw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/m63cZIyt6_w",
+                "thumbnail": "https://i.ytimg.com/vi/m63cZIyt6_w/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/6ndJJT_lU88",
+                "thumbnail": "https://i.ytimg.com/vi/6ndJJT_lU88/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ritsuko-akizuki-8261",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0dffee5c10adbec0ce297f775edfa3bd.jpg",
+                    "name": "Akizuki, Ritsuko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "naomi-wakabayashi-2258",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d6895fdd3ecf9899c6e5d63fe454193b.jpg",
+                    "name": "Wakabayashi, Naomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "haruka-amami-2789",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d43c9e6dc7d09b4d4e7545fcc5b3425c.jpg",
+                    "name": "Amami, Haruka",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "eriko-nakamura-1459",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2297fcaf452a7b2e19554b33c78c635b.jpg",
+                    "name": "Nakamura, Eriko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ami-futami-8705",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/987f670ab40b9ce9015ea77a67cce0c6.jpg",
+                    "name": "Futami, Ami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "asami-shimoda-812",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4bfdf1b393b24b5be199678ce5411131.jpg",
+                    "name": "Shimoda, Asami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mami-futami-7096",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e97e196c6c863ba41bff22d77fd7687.jpg",
+                    "name": "Futami, Mami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "asami-shimoda-812",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4bfdf1b393b24b5be199678ce5411131.jpg",
+                    "name": "Shimoda, Asami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hibiki-ganaha-2955",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f085ece9f5f0a6cb6758c03be3218663.jpg",
+                    "name": "Ganaha, Hibiki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "manami-numakura-455",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e53c175623a1a0761823845f5c81d17f.jpg",
+                    "name": "Numakura, Manami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yukiho-hagiwara-4559",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dc9290596724add615f947affeb56d1f.jpg",
+                    "name": "Hagiwara, Yukiho",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "azumi-asakura-755",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37be66e8e2eb8baccbebd02a6de92c74.jpg",
+                    "name": "Asakura, Azumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "アイドルマスター",
+        "synonyms": "The Idolmaster",
+        "aired": "Jul 8, 2011 to Dec 23, 2011",
+        "premiered": "Summer 2011",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.64",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "Aniplex",
+            "TBS",
+            "Nippon Columbia",
+            "Bandai Namco Entertainment",
+            "A-1 Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "This Is Where the Girls Start",
+            "episodeId": "the-idolmster-1186?ep=17950",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a6a2e3148ca3621a3804370f9f50b819052f19876cd56e2341af66c230fa2b97890ad7bd8837a01adaa0af431f9ace5a63946c4a1133d3776fd3d164d81fc9067d29b16c0a9b35f25a4f5d2b2548c2ac8b3508a04c4236460ced8d360c3605aae5f13d673fa92e2fb5ed103b366d6a7b486480e4789c3dd2bc2bb535359959c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4d9b05a43d266899b28a5913b75376/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a6a2e3148ca3621a3804370f9f50b819052f19876cd56e2341af66c230fa2b97890ad7bd8837a01adaa0af431f9ace5a4f53d7dc42ab9f97ef4f0e5898b103da0af0052350f9c54257497f5bc2ad32aeed088f4103791952d82028342f58aad22f8c6effabc334b06bc17d8715561a017160ad728639427b1fae1dadf2060e57c325e040a212f5ba0d9701ac9e555de9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4d9b05a43d266899b28a5913b75376/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Girls Start \"Preparing\"",
+            "episodeId": "the-idolmster-1186?ep=17951",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/208ea38bef8e4890ca77a9f2a9bcd4f3d1a826b2f073f71bbc28068f874dcbf99293a865b4c2c728f987e34db0076113cb9f899d73000ed6b5272dd8d8d4e934569d2408aba25979d7a62d4ecaf91c2bd1b9fd1f8a2b7aff9c8620ba76e2ac3d3e80d7bde6f3cf85b3730fe1d31f625a9adcf1ae44ff5116f8a2b13e62c886b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e82e9b3e48802ff5f8b856fef24585bf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/208ea38bef8e4890ca77a9f2a9bcd4f3d1a826b2f073f71bbc28068f874dcbf99293a865b4c2c728f987e34db0076113f9a5599f1e139cde89f904919e15175043049a50f47bd90bf42084da0d7f7484d2a8ba7b41da0d6e64674ec23f5603526c0c0167628486e3ba0d1da8b7a27c824f5ca2fb8ad75cf3d488152455ecaf908cc76913cce0c2f65961ce72d30f5bca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e82e9b3e48802ff5f8b856fef24585bf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everything Starts With One Courageous Step",
+            "episodeId": "the-idolmster-1186?ep=17952",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4a666e10322d47a9dee2c8c6e8006388694755695eb5f5eb91968668dfb354b8a614254f8fc7f3c733a2f485531a66e9f044b2ad706da4fc50e559a4ef2d3c558c8a3f95d81924f6109c5aa0067da382c5c429c4041c69cc6a3e9f2e7b5deafa7596c567474f5c97b839208d0f708c2491c97410380d1573bb6a8a3bafeefa05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a0002e3e8d09858824ea201ec71ec87/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4a666e10322d47a9dee2c8c6e8006388694755695eb5f5eb91968668dfb354b8a614254f8fc7f3c733a2f485531a66e934e442e1e60ae5b711e8e7fca4da685ab5d9a4e4e432b73c3f3358ecd7a85dcaa2b92737f4cddd7adce4f76f6808ffb11ecd2721daea726b335e3f6c7582d60b651c6c61bdf671e4218bcb9a680845521f63de7285ed14359e3fe11b1a76dfec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a0002e3e8d09858824ea201ec71ec87/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Changes Who I Am",
+            "episodeId": "the-idolmster-1186?ep=17953",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/30e022041521caf3f9a60e6226cce1636f9a260910ae3aac24051d48da3824e927f52aa8fb328c601f71f793d881c1d58cecea68ec007059c53e441d12d707aa17cbc5283dfaf515a76a9920db55c23f48cc16b0a2a46a35778c76f61d545c71e6fb3ea449b54aa4fb521752603252a144e4c37f9383478102b683802b0976a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ad87ba1ea515f9a6c564ceb80334bac/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/30e022041521caf3f9a60e6226cce1636f9a260910ae3aac24051d48da3824e927f52aa8fb328c601f71f793d881c1d59aa48eec212672a8b6b92f618bea6f9590c5fad5278b92d255a87bb3e1f89f5b01c2be5a184be09254d86836995174ddc53cca08e058f642e8457c73e2a6c45ff12e168cfad1fd9622e885adf42b8dd6771c52395003c62e629e8ee3df0c09d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ad87ba1ea515f9a6c564ceb80334bac/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spending Summer Vacation With Everyone",
+            "episodeId": "the-idolmster-1186?ep=17954",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e4c86de130e5ab52589e4fca9676a74fbf3f497090b6a2f374ca187260d32ed74dbdd81060dca12aeacf6c39587fcca7301ce767b577d21cfe1dd0d7397213e859fa3fc8ee5d84e6e9d8c3c1a7c7f76870f7d77c671de568a0f87b1978b97562446e586ae89d74877a245bd273ed677910b4e0094c2401b2abf037ba291c3997/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/757b5d25d3a29c58cc4010eeacd2e87a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e4c86de130e5ab52589e4fca9676a74fbf3f497090b6a2f374ca187260d32ed74dbdd81060dca12aeacf6c39587fcca7b7cf1c00e6b556680a15bf17facb46be6d628c0a4ec0958693875f51d331143b201f7928416699cedc20f4f81ca9aa6ccb2df22a85c5bb378b7e536558e065465097ad05fd28f75724606ea8926099cbbfeb2d5695797238428f83fa2a1ec8dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/757b5d25d3a29c58cc4010eeacd2e87a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Decision to Continue Forward",
+            "episodeId": "the-idolmster-1186?ep=17955",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7df9d81cc208ba4f61dd763ebd4aedddf6fbc1443c4a4934f3748f4bd65247c25e49cd5017b4327132dec038d2ad2fec341b0ccb80a388391d34589ce5ed41a366a81866793bdb2cdb425ed928c27dae0c8561eec88d4cca0fa611fa88dddcfc57cf11c384e44a6d0c67d1e54ab96e8b9ba51a0b428f18f7c104f5e16d456fc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e35f9ae0a93f6e489c80c8a15187430/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7df9d81cc208ba4f61dd763ebd4aedddf6fbc1443c4a4934f3748f4bd65247c25e49cd5017b4327132dec038d2ad2fecebaf13a8e746e68409682d4bbd49adb377a2df52f6cb5a6b6ffef3bf9be1e852dd636f7d826e012a106434c4b24153f0f260ec141802789715be87dd5b847327e403ba8bbf68320955f10573ca3cf72ff83506a2b624b23170b82f92e8bd0c1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e35f9ae0a93f6e489c80c8a15187430/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Things You Love, Things That Are Important",
+            "episodeId": "the-idolmster-1186?ep=17956",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6145ccff66662f2bb14eda00581cc584e2e112c569ac1da56d425340eae88ef3a777538d6e32cb2e23c68fe9f679fd26278f9323a1dfa60b537e06e32a12cd509e8cb66a70691311ea22dd8bd51a23eae071c923d2c2d1988e59194c43b91c8b4e312409fa7776164dfc4f2ca330f87e9db1734e484d66b10b312c6994a2fe56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66e0c8062fa69c7e041b000c1f0e129b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6145ccff66662f2bb14eda00581cc584e2e112c569ac1da56d425340eae88ef3a777538d6e32cb2e23c68fe9f679fd26f4a45481d12216b25803820df228cad62805ca9c0fb8e429e7b5fe4a54bcaf754c38ae01cd03a4af9349d0f8644ecb2cc362d5177ee0f0a36f01d4ba5dd8617452cce73577bd1248a2aab73175647b6c53f10c18d6984675f0aaf17e756d46ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66e0c8062fa69c7e041b000c1f0e129b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Indirect Route to Happiness",
+            "episodeId": "the-idolmster-1186?ep=17957",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b746708566fce8fce925d58611834bdacc3920c8be13809e41efc56f3b6340a560a91f47f76e15dba6a3cd74f075b32bb2e3491d2ea243f0a1fc5fb1fe024190ae7a2de91245126619c3c5bd2a4930b550f2b5755a4f3c54346bb80ed0bb9a82cd8034c1a0ba41eaacbfe510efa37e7b40461643a616c48cc80f441888e412dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39cec4d05914285da94be152753ea3d8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b746708566fce8fce925d58611834bdacc3920c8be13809e41efc56f3b6340a560a91f47f76e15dba6a3cd74f075b32b78e45bb172a9192780427ba1b5b1f997bbac88e273d2997918eb834e87428a8c8243470cfe1d5a3b3fc3eaa0bb792bdadd47b76350cdeaeabca15105e049d8e43582eafb9c87d5a4204b3373fab74ef4c34c7bd34a535643d788109e1b43e45d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39cec4d05914285da94be152753ea3d8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Things You Can Do As Two",
+            "episodeId": "the-idolmster-1186?ep=17958",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/dd9b462ee5279aa6f2f830fb44c6d14bdacec491516d09d372a8ae45b27419163dd724edca459a7fcabb490551f02778a32301fa94fad08392bc555830d9f07a89b151a203c295ec4b9e3342f41b8187efbe61925cb27875ace201f00f9e151eb5dc12c3a837db8ee77d8356b405ca4b81d97f5d6b15ef0075daf5be60832aa5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72cda09b6acc88925af6b8fb926ef0fc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dd9b462ee5279aa6f2f830fb44c6d14bdacec491516d09d372a8ae45b27419163dd724edca459a7fcabb490551f0277874ac3fd8e0c4259f1ad6c5f1eca6b0ae7de1f1e66e7442104cf4b13bcf0934856ddd38e8765d5d797164c22322b2ea7344037c636af15dd06a8c198307d2d5c5bdd9ff56b532e5e3855d993c358b2b663895214eb9627de7b8aefc13e2b90ef8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72cda09b6acc88925af6b8fb926ef0fc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moving Forward a Little Bit, With Everyone",
+            "episodeId": "the-idolmster-1186?ep=17959",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c55e79d5d34ff971936252d97390e909c8cabe79ed8400d1d75161ef73bb4b5a85c36c10b9037e103a98faf7bb9cb4705ccecfc5f9dc9be3d7ff778c3127bc6380a876f706f618c90e590729b8fb64691770015007d5fb1627d7091f02ec446ed6ef882e77c2380c47a9c0990a5cab5dc157052a3db56b7d5e680aad11967c17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f78fb1d6eab5fb1a8f6cf5968dc5182e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c55e79d5d34ff971936252d97390e909c8cabe79ed8400d1d75161ef73bb4b5a85c36c10b9037e103a98faf7bb9cb4706ee60c7dde28ef832ddf6b33999a2ccc6be30a780f22005344b78d08b2586722c010273c79d69f1b1b93580140da65a39569786950456d70280cd69bc39db33f9999b4fd990cd62edbe136cba3eefd8a592e3fbb00c657ad7752c237d918e1fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f78fb1d6eab5fb1a8f6cf5968dc5182e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hopes, Uncertainties and Signs",
+            "episodeId": "the-idolmster-1186?ep=17960",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0fe5e05acc8dc1622052a3cd88d0a493196369069be56645d6e2e006371a0a68b5ea066dbc2dc734682d72612e0be647cb3f59bdbd5525dd8fdca200804d043fc10c867efdbc9f147eee61fe2cf5dc8a56a8a1067dc68098c694f2886e41385ded58d2bc34a9be23048f99ba8d81cd48353465eb345e1237dabba99af4737686/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/269e740f126b286385ccba56745d875b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0fe5e05acc8dc1622052a3cd88d0a493196369069be56645d6e2e006371a0a68b5ea066dbc2dc734682d72612e0be647c5eb3351c3e66c2fd59f43146149cfe64fe13ad49b11b1251621905d26b871c25c67443f94be6e17d1851f4ff5912bef4edc33723f19811582ca9cd82f89c4d2e07ffc74e6ba1450dae89eb7898a5f7b2a517bf4af79241e73a4d43d520ab1aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/269e740f126b286385ccba56745d875b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Goal with a One-Way Path",
+            "episodeId": "the-idolmster-1186?ep=17961",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bfa3eece4661d9e40acc843b7667dfb841a044e0266bde77c03e06c3fb4d2e4cd579b06b24392b7af1ae91fda3402c22602d0059188dc69a6df78e60552aec65f3c8e96cb98aa1f89fc4d319a521fc5ddc3e24f7d0963ee149effc8342ebba738240bc3d2b5026b270c0d9e6ee931846b72323c6090f4e7868b1fac9df07a9e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff413de318d99ba1fb294410b53eca14/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bfa3eece4661d9e40acc843b7667dfb841a044e0266bde77c03e06c3fb4d2e4cd579b06b24392b7af1ae91fda3402c2255c59a9b3d848c64688df245ec02775d390848c8cfcf7b3a6a40733b380361ca2ddaa159e6ca0cf2bba86438e578f36b5aa401db5178b1777bfa6d5841d24bf0a8446854b35f8e63dc5cb9f068610c56f8c95f8422bd002fb8f556eeadb63c2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ff413de318d99ba1fb294410b53eca14/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And so, the Girls Rise to the Shining Stage",
+            "episodeId": "the-idolmster-1186?ep=17962",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/fc77119dd057930460afeeaae656ebdad9e5898201140b41d8176450042c061896353e41d6440393c193a98f05c12026831c1fc743f5fb4aef729592f0313287a1ea9f63103a4109392a67671628750668c0d4d6dfa00f053ebf87e7db59d726dfa1f0bceba7884c3ab7159fcab572954697aa2dda1860c16340161b23b09784/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22354335e26a9cee9eb852e4856565a9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fc77119dd057930460afeeaae656ebdad9e5898201140b41d8176450042c061896353e41d6440393c193a98f05c1202679e41fb5e0492ce025fae7342a0f55f3f73f1e6a2c1272a046a9fa01698fe4fd40d3973ede477c6a78fa46828f48f74d1dbada000df0a39e495eba37a85b8879567c61d20cd83b90866d0f9859175eae7152f10b3194726c2b28c800d4cc3b3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22354335e26a9cee9eb852e4856565a9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The World that Began to Change!",
+            "episodeId": "the-idolmster-1186?ep=17963",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a7b99d92e8810e8051a3d84a99bae7e0c83237a2fc4789ec4139241c1052239392c4cc48dd83e3f97707c36e27d62fede0d75217ad42036fb024207b77f809818d0845322df392275f223ffcdbe7aa1fe3a082988a1f38e40db79cf4a3f818ba7cc350a459ccd9a4216923fead935746a2cad90ca1edf7ddf2d609e08acc12a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bb8064e2eb69b3e1be44ef25f6c9805/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a7b99d92e8810e8051a3d84a99bae7e0c83237a2fc4789ec4139241c1052239392c4cc48dd83e3f97707c36e27d62fed17257f5938ff9257898128cf519f896877c9e6988ec3f1a46f85b2573aeb22b64763d126036e7c172ade10bf8734200435e6571cbfb0bae374a97a3e40b61eea9bd62391cbff7f750eab90ad254da2629f49c3ced4d1c89ddd4435abf8631761/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3bb8064e2eb69b3e1be44ef25f6c9805/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everyone Together, It's a Live Broadcast! A Live Broadcast!",
+            "episodeId": "the-idolmster-1186?ep=17964",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e73c914f075c0c40a41c4a72bbe3a1e4579aaba8363e652cb77088797b1e1a71774234920f66da1fbbf9b431025b3c40463c3250e9ec32744d7e7ed5ac12e86cd96b7236471688f393f2fa14697040bb0d9c2b5366b7a3d9bc1debe95c42a5d12f1db02fe3d2ce03823f9f3bc3016b01dd228692678527b5d5f0ca58722b1051/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4985a3876f90f4d28fb81d66eb68ee5f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e73c914f075c0c40a41c4a72bbe3a1e4579aaba8363e652cb77088797b1e1a71774234920f66da1fbbf9b431025b3c401d4891ef54c2b0b9932d1ef848a2df19a94bf9a01f8f86b0398072f25a4c95348c98eebf611367e29a32bd264b2f4950bab03492539790f52d396d58fa3daf9294763d3c97b4bf019fbf21cdfdbd0cf5721cd1b7d1144a9a4debcb08c9bc31e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4985a3876f90f4d28fb81d66eb68ee5f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "How It Feels to be All Alone",
+            "episodeId": "the-idolmster-1186?ep=17965",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6f7ee029b4f6ec8588f14de723af96352b375ea4a62d4f8f6803c8d762a39002413c3f31508aa7a9e96987e3fa0dd737a743e171b95698fa74cbd1836834a811dd9810462bc1e1234916d204866d9fb6d2c9dc8ac7b7bc8599b67d466719b81a419e2a70cf555cc93337bc2486dd45b3afdeb61dc14840f1daae7e1998bc9b39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e3e3226bdf9176b00a128a460c1a74/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6f7ee029b4f6ec8588f14de723af96352b375ea4a62d4f8f6803c8d762a39002413c3f31508aa7a9e96987e3fa0dd73768df25c3d6353ccc1ed692cdb71142a95b082869e6321224d6ec6a563c8a31c5b369f1298ed1ac24b703d7ba9698b11d99c5d44d97b9b2be4735427c4e9393a83eaa9f738a4c6b99f02952a8f344e56ca89579f10c05e6452275e1f46319c0de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08e3e3226bdf9176b00a128a460c1a74/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Makoto, A True Prince",
+            "episodeId": "the-idolmster-1186?ep=17966",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/616d7e54dfe78fc55d238969cfc66fe929f198be6bcab30a1adf894cb032008cd186c37e86e5d66f0260b5c0141ea0e7f4ec416ba3dfa915c8edad5419262855bb03016b4c84c3024e74e3439dcd15fbd2037690eb2d50d327d5cbbf9c0fe9a898ff6d445480a4b49d06acfa779b8ca8a6fe2ab8926158e4d9d2dc693678458c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7140610545b0b25ebaf0142c3a34b64d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/616d7e54dfe78fc55d238969cfc66fe929f198be6bcab30a1adf894cb032008cd186c37e86e5d66f0260b5c0141ea0e7b98c304acfbe181257077a704df259565c5aec0d25ece46ce2f234aeee496ea6c856b3a54b8e57dd906d61bc1ae00a9a63cc62269554d4fecad5e7596898dc987b276c0424c474ab2c2ab119586165d83ab2cc2b7d728031077f7862133ae710/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7140610545b0b25ebaf0142c3a34b64d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lots of, Everything",
+            "episodeId": "the-idolmster-1186?ep=17967",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/93cff91506cc621f6a2d133140e067fbc07a7f90e04ad62dec611eb169196ef209368251fae5204b99dead8216db9ee67089692be1b36bbe1829186bd6eda10a60c501dc2c9812cc38e90bdb9ec9191f5e77476922b68c442f61ee95ca55cb9e909e56657ce0bc6d1e850832f17fe028663150fc24f3ddd4d86facf9dcc7b932/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72d657d890ca5b815f6f4fdfe61aa14e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/93cff91506cc621f6a2d133140e067fbc07a7f90e04ad62dec611eb169196ef209368251fae5204b99dead8216db9ee63e9c419e510b1663e97a0861bf0632e8fbd1952de6ddd973f73424e614611136d41b0780b7c4073762c88bca3f1b9946cf0857b36a3b9d9ab57dd9582cd776fded0e77a592057e0145fa2cb28a4a86799d1a428a27539ef008c029f1cfc29da3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72d657d890ca5b815f6f4fdfe61aa14e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Like the Moon Hiding Between the Clouds",
+            "episodeId": "the-idolmster-1186?ep=17968",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3a66341698926dd386992904a240407aee8f20f7f8221e626e2717fa1c6cc0b8dc7d9117b5bb35dd459dbee92a593a603a2bd9bd890531cdb6263ad4cda84c22f6985f1a7ad961eb3df0ed4d83456746b645d9c5270375b88c57ace8698ea9aa5fe4ea594be422096dbff8c4cb20276fe7ec73e035e7f39e5d2224aeef923549/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b643a046d9a0f0b87ac864ae9bfbe835/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3a66341698926dd386992904a240407aee8f20f7f8221e626e2717fa1c6cc0b8dc7d9117b5bb35dd459dbee92a593a60a20606e89dac450e1e20e668df6b2df2b23263f7d71e57a4eaeb8c3520cbc46be7fea14ccacb855b773a9a915fa22e95c9be3cd03ca8d89c14ad470d126a4db537d08639020a95d9621784edd53a61bbb74eddf6450817d16396388363be6f91/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b643a046d9a0f0b87ac864ae9bfbe835/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Promise",
+            "episodeId": "the-idolmster-1186?ep=17969",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a349e94a9e6b979ed8356dfa6a140722a15a6384e2d1be32d7cb8b88867b0639a68538a38f47839bece11cf3c323ff8472ad6352c6a3c4769e2ff6082c0d71e252f9acb196eb86e2dfb81eb71bf30e22f5cd03b91c94c9a812ec5ce828a531c3b9ff879a0904113a286b8974771e264f189e46213790776235720c683afaaf15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5cfeda0e888db4f90648a7ee5306da3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a349e94a9e6b979ed8356dfa6a140722a15a6384e2d1be32d7cb8b88867b0639a68538a38f47839bece11cf3c323ff84417eb903a513b615b60d70e8d1a12c35cfe44445347dee8a0b725cc86f1ab649a518978440e347df56b7d063696e12158f0d9ade13c07f80e5024f25f5c050cb052d3cb109edd3f702b779b8710b06a3cd6e0a309ea6b84ba1781784d45d4d32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5cfeda0e888db4f90648a7ee5306da3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Like a Flower Blooming",
+            "episodeId": "the-idolmster-1186?ep=17970",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/474f2205e47f2a46481d11b4f87b9a9a5828d144328e2d39722482177a9be26c62b1402d638a6d93b8666d80d990ab6d5f8fb9c5f54fed6aee52f6d3bd29e78e41339d591875e6936d5fd5b078c126c542d0e2b41efe529e80491cb556247b23f105851780518dee980f506fb121b2d1d758c2e51922ce5f6659e0a6aaab9ac9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ff39c5095e2f97dc811f070fb58debe/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/474f2205e47f2a46481d11b4f87b9a9a5828d144328e2d39722482177a9be26c62b1402d638a6d93b8666d80d990ab6dde5d09dc4b2f7b4664a885aefe304c3896b629908eeae86106e2d4b735d6e286422045c51b150f08cd2b852cf35c145b41e2d2bb3db28c6fe5762938ef271b92a523147a49f4268f7362407258537ae3d4103b47981dce2691299d760f8fcb22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ff39c5095e2f97dc811f070fb58debe/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "On Christmas Eve",
+            "episodeId": "the-idolmster-1186?ep=17971",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/97fe4aa2b21fb38f2f5197c81a8d670f0d662161f6e5d1b50aebefbbd93d4978d1f9c7542faca8498ce58e97387743647750928b4dee635417e8f529f918c2920995a99fd37afe1301731baffa928fa889b5a130fc9f314b803f80592e8b7f9f5e6600e57124a32d0799cad07d124a1764c36626449d35023b425b986bf58915/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b15d9436b6781e09d2f4a5f01947594/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/97fe4aa2b21fb38f2f5197c81a8d670f0d662161f6e5d1b50aebefbbd93d4978d1f9c7542faca8498ce58e973877436427a29416dda29e3123ea4fe8f56e80198b0671639f4b634f8c6ea85234e147ca1424ef03f6cc5af3ef7cf82263f2653e8cbe13401e7b35ddbccd0ec3a7b28e631385246fc76b9e36be417c70850b66e33b2b434e6b2538d92bf4f226ee525ffc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b15d9436b6781e09d2f4a5f01947594/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I",
+            "episodeId": "the-idolmster-1186?ep=17972",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7d22e26bb6e0fc527cec24d9b1784b3f5f17470d2b2f31030470aa47b10abdaac914b2a6e55537a0501e4aa114c092db9a9b489ff992fba12ca18ff4add853368320b850656682284a05bbc4c6e155440c71a91da227b144e769c307598a6e05ff966b0f05612c6586b7d2b6aa41292a0a92d4e5b78d364d4524c13510e52141/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42ad13d324e460283bbd634cbc907a3e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7d22e26bb6e0fc527cec24d9b1784b3f5f17470d2b2f31030470aa47b10abdaac914b2a6e55537a0501e4aa114c092db4f0db56c9f3ce18ad8ec8d4d60fa0ed8afea9cc318147881f89c444bf07909688001c0d89a10171dc3a04f05cbe786edccb876425b7827af23822f5bc514a6dfca90f1a1d85417d2ab98152563060d661f51c593d64fd099552433b79dc5b6b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42ad13d324e460283bbd634cbc907a3e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dream",
+            "episodeId": "the-idolmster-1186?ep=17973",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/daa3da6dad6bb7abab1001ddfa95ccd604f909f30950edb901abf8ec0d909f5b14407a9f6ca4720c6dc98543fdac23fd5773224bfe077e435474d0d5056f3fd4130df21602201f9267ec9f1242398ed25f879c0d85cde3d44961c2d482829f3b33eadc75f732298a1622c45927d56769d74521d2ef043c85815f035045d95837/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c3e73bd1678738a36dae028f09f45d5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/daa3da6dad6bb7abab1001ddfa95ccd604f909f30950edb901abf8ec0d909f5b14407a9f6ca4720c6dc98543fdac23fd55b5a48dd8fdb25d6f599f2db4535ec56d6e24a2587a64ac49b5afb813ae4f49d117ca0af81b63b2f834ed0a599e1a88ba7e41d1352816e1d858cc8046d9c1003a8065c839f7e713c0e58f3253267d66c77ec2bb7959fdf5c383b649902cfde8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c3e73bd1678738a36dae028f09f45d5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everyone, Together!",
+            "episodeId": "the-idolmster-1186?ep=17974",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0001917baf49626a08154ff030f6f5457607d50de9b4b156587172bee17dc2999ba832288fb5a3a5d665918b4bece2f615741c6af9e8f44f976c28c9de9d01df651c9ee67fe7bbcd7a231a64ea9756277139a4a1b4ae18b7608256196880c58162143d6577107207a40f8c603c7e534f6bc4b3e758b7dd7c3250a34b2fda8d7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/100567886bd2ae02b11b8ece8a4f9133/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0001917baf49626a08154ff030f6f5457607d50de9b4b156587172bee17dc2999ba832288fb5a3a5d665918b4bece2f63b601e700c23236c29d53082d0be15c49a814d55c3fd15d9d29c748aa9af56ac0942990106462583afd4fc446c6e053e1ff7fdc9e09c2fb9ab32eefb07d450439a2395d7dada5d2661bf7f819dddc9d3f9ddfdf9ef3542bb2c22b6b1c4ecb502/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/100567886bd2ae02b11b8ece8a4f9133/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

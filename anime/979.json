@@ -1,0 +1,616 @@
+{
+    "info": {
+        "id": "fire-force-979",
+        "anilistId": 105310,
+        "malId": 38671,
+        "name": "Fire Force",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d9cbc5cc655c5600f296acb1138975.jpg",
+        "description": "Spontaneous Human Combustion: a chaotic phenomenon that has plagued humanity for years, randomly transforming ordinary people into flaming, violent creatures known as Infernals. While Infernals make up the first-generation accounts of Human Combustion, the second and third generations became known as pyrokinetics—people gifted with the ability to manipulate and control their flames while remaining human. To combat the Infernal threat and discover the cause, the Tokyo Armed Forces, Fire Defense Agency, and Holy Church of Sol produced their answer: the Special Fire Force.\n\nYoung and eager third-generation pyrokinetic Shinra Kusakabe, nicknamed Devil's Footprints for his explosive ability to ignite his feet at will, becomes a member of the lively Special Fire Force Company 8. Upholding the brigade's duty to extinguish the blazing Infernals and lay their souls to rest, Shinra is determined to become a hero who will save the lives of those threatened by the flame terror.\n\nHowever, this is not the hero's game Shinra imagined. The Fire Force is a fractured mess of feuding brigades, abnormal Infernal sightings are increasing all over Tokyo, and a shadowy group is claiming to have answers to the strange fire that caused the death of Shinra's family 12 years ago. Faced with many obstacles within and outside the Fire Force, Shinra fights to uncover the truth behind the burning mysteries that have kept him in the dark.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser 2",
+                "source": "https://www.youtube.com/embed/9uT5Iw2d0q4",
+                "thumbnail": "https://i.ytimg.com/vi/9uT5Iw2d0q4/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 1",
+                "source": "https://www.youtube.com/embed/QKNzE6T23YI",
+                "thumbnail": "https://i.ytimg.com/vi/QKNzE6T23YI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/iUqX-IQ3t-U",
+                "thumbnail": "https://i.ytimg.com/vi/iUqX-IQ3t-U/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/Dpae4acLLeA",
+                "thumbnail": "https://i.ytimg.com/vi/Dpae4acLLeA/hqdefault.jpg"
+            },
+            {
+                "title": "Long PV",
+                "source": "https://www.youtube.com/embed/gQzgsP7FDaw",
+                "thumbnail": "https://i.ytimg.com/vi/gQzgsP7FDaw/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Takehisa Hinawa version",
+                "source": "https://www.youtube.com/embed/Vb1f2NCfG6g",
+                "thumbnail": "https://i.ytimg.com/vi/Vb1f2NCfG6g/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Maki Oze version",
+                "source": "https://www.youtube.com/embed/Byq5YrMTn9Q",
+                "thumbnail": "https://i.ytimg.com/vi/Byq5YrMTn9Q/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Iris version",
+                "source": "https://www.youtube.com/embed/9tzrPBsTUww",
+                "thumbnail": "https://i.ytimg.com/vi/9tzrPBsTUww/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Arthur Boyle version",
+                "source": "https://www.youtube.com/embed/Bshs9_LkZUE",
+                "thumbnail": "https://i.ytimg.com/vi/Bshs9_LkZUE/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Akitaru Oubi version",
+                "source": "https://www.youtube.com/embed/EJwXKw2pU74",
+                "thumbnail": "https://i.ytimg.com/vi/EJwXKw2pU74/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "arthur-boyle-1737",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/908c66bbd9caab5e679d94b49f8dafe9.jpg",
+                    "name": "Boyle, Arthur",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuusuke-kobayashi-155",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d7f5abc18a38b38a7516fa04b0386b73.jpg",
+                    "name": "Kobayashi, Yuusuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takehisa-hinawa-4754",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ac0b268b27e40f7cc0a52fcca0e5af31.jpg",
+                    "name": "Hinawa, Takehisa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenichi-suzumura-104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af03c6635afbbe5fc9608b10ca96d11b.jpg",
+                    "name": "Suzumura, Kenichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "iris-826",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0d6dfc0e39dc9222e5da8038f5ba9bf.jpg",
+                    "name": "Iris",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mao-ichimichi-249",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68623c432335a61f4ac977a968c5b558.jpg",
+                    "name": "Ichimichi, Mao",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tamaki-kotatsu-1084",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2c4ea57498efdcac60c31177ca656128.jpg",
+                    "name": "Kotatsu, Tamaki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aoi-yuuki-20",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df6df1997024579a228b6f2bbf984798.jpg",
+                    "name": "Yuuki, Aoi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shinra-kusakabe-827",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8fcdb8f955bc0830c20fda7a855bd5a3.jpg",
+                    "name": "Kusakabe, Shinra",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "gakuto-kajiwara-534",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/945515d313d02fdcd33be3085512c550.jpg",
+                    "name": "Kajiwara, Gakuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akitaru-oubi-3776",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d3328af4c9f9e7152ba6c3002536834d.jpg",
+                    "name": "Oubi, Akitaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kazuya-nakai-37",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3eaa00f6c293df5146813f869deb0a20.jpg",
+                    "name": "Nakai, Kazuya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "炎炎ノ消防隊",
+        "synonyms": "Fire Brigade of Flames",
+        "aired": "Jul 6, 2019 to Dec 28, 2019",
+        "premiered": "Summer 2019",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.72",
+        "genres": [
+            "Action",
+            "Shounen",
+            "Supernatural"
+        ],
+        "studios": "David Production",
+        "producers": [
+            "Mainichi Broadcasting System",
+            "Kodansha",
+            "bilibili",
+            "DMM pictures",
+            "DMM Music",
+            "David Production",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Shinra Kusakabe Enlists",
+            "episodeId": "fire-force-979?ep=16169",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/405f0ec95e645a382ca7f5e9d909d9734ac34fdc21a34d4c6a4b1cfd9b9a71517c8e4537aab1bdd39d94e0149e638d1ef7395206b42fcd3412c6196e5da4c125b801d09e1270c14d1318c235a69367330dda35cf68987198b7816e336eb8ec478eed51ea84ad74ac65021ae9f089062b1d9fadcad3e53451cc387b44f6b08b0c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/008300f4c253eddf1e210951479f06ae/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/405f0ec95e645a382ca7f5e9d909d9734ac34fdc21a34d4c6a4b1cfd9b9a71517c8e4537aab1bdd39d94e0149e638d1e280d0a84f1183992322e49a8eef5a9c590def835768a6553c1351cb4bcc090a4fda70599bc1dad73029a6f4b2ce1c732d359be89bc194bf1456700ef292034ec4df615ec214a2cc8f9e0d86c7c7d45464c055085b52b5f9ef72c9fa8b05fa630/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/008300f4c253eddf1e210951479f06ae/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Heart of a Fire Soldier",
+            "episodeId": "fire-force-979?ep=16170",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/1ab72572744c97d5514445ff32c33608c3826906e22dcf42428310cd0901c09dda21f29bec791cbba58417f92c945143dd27edba10941a5f55de469fdcf250175afe0998b1299d3be70660a02956ffb63189c86b8b2791608763b7089d5526b1c8308fd7c0aad2104757250ab95f9352fd80369540efb36a128c7897c9b0c47c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fea70e64c7ec67c24001206d92752716/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1ab72572744c97d5514445ff32c33608c3826906e22dcf42428310cd0901c09dda21f29bec791cbba58417f92c945143fd02e531beca16a4fe036b409b3928edd3a6e77a975fc10a3d06e1dc221f3ecf1664a43c928a0e089a260ae372a919d8569d6a952b3ef72df82770f0d739a82858de79723ef4a65f3569aea4744d42df57da58d4a8e617dacd2369febe71aa42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fea70e64c7ec67c24001206d92752716/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Rookie Fire Soldier Games",
+            "episodeId": "fire-force-979?ep=16171",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8868cd3c93e7df09f41372acf17958139c6526e89be1780736e262ff851cfd989379f497388062231dca0a348b0d2dbe2e5132ed196d364d34e99c74d18a902f47f26f5c274888924e774895e33d49fbd1ce7b10d08e46803aec8f1508681e234bf193c9893105b730f8e7dd335bf24fd400f57c9dfcdc0022464eea89ee3c5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c82e903edf5f1ff19842d9bae0d6a798/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8868cd3c93e7df09f41372acf17958139c6526e89be1780736e262ff851cfd989379f497388062231dca0a348b0d2dbe8e9f4058007f8fc5224fc8f70c00ffbfcd477298e57598430b75fc429fe10167642a85ebc8801021e569ea5a045882ebd5796e4ae86f713ab6771254f8cd21e5f953b2d0b46d57c5105a42a23fab0097f2747fd3a40138416f67798ab52c8fae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c82e903edf5f1ff19842d9bae0d6a798/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Hero and the Princess",
+            "episodeId": "fire-force-979?ep=16172",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/765ab8c6879c33113ca73e3e52cd288995dfa4882731ca3bf804b4ffceee0ebf6be8861f4415c51e5e50f6c2cd846841d202148faf7791c37b3a2f66ac48a9f36c054e5da923682cec2b5499f9cc8402a570c4bb0411a2cd2d1ad16b3e488090e41b74405e069726b8cd3478fbe49c7e13696bad738ce860622aaae68ddb29f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c09eda8fdeb845e7a100d7b5b910bd0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/765ab8c6879c33113ca73e3e52cd288995dfa4882731ca3bf804b4ffceee0ebf6be8861f4415c51e5e50f6c2cd846841e6e2436491eb6b330fefa804655cd5a50b826a4c948b7bc4f80def176ddc46734d7c48ce6f195a536a772e67863f6e48cc6be05737ac525708436d573fc326d6b7b0dc629f79236daebd07e5eeb6883aee6a33f566fc1d917896bcb95df2947c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c09eda8fdeb845e7a100d7b5b910bd0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Battle Begins",
+            "episodeId": "fire-force-979?ep=16173",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/39a5d237e4737798a8796f1cf7e7d91c147439238221deeae3fab6673b667325ac8dba89c6151f04e8d985afdc2c533c245e39749a4da23dad965d25d5e1143b7c9645c2136b2171861b5c4002be3ea4bfd18d99743112eaf50622b225f547defab9c1ae79b34e1a9c0d41777f2f86cb389bc5fe1623aef60d28e733a77cc2e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/060b07e5ad07d52e3ae21e19b94d82d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/39a5d237e4737798a8796f1cf7e7d91c147439238221deeae3fab6673b667325ac8dba89c6151f04e8d985afdc2c533c64223d8734b7a63fbc3fa7dc97c1b4d3dd1117f75adf6340363e8a7d8e59cb105cdfb76c3f486802b86f0c491c2cafa760123a569c062828925dd29ade8d4d13691d0102579f9fec3b0a19f5aa444748fcb00b474660aef752ce9606c78654b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/060b07e5ad07d52e3ae21e19b94d82d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Spark of Promise",
+            "episodeId": "fire-force-979?ep=16174",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/882ef708b87ce10f5bb43172897ec5ca3d819aacb279e2c88b7ddddd31e4db261f1271c3c8e3dea7fcd04bdabe73c051a9549909c604a037da5b6fee6153c7c6c4414ccd87034015844b421d63e78e13a68b6e50821fb55e70fe0fdd4a28d977a9c23f749c4e2ea50ff181e7f2a5b068078a6cafc5c1bc256680f85c025bdb1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/735e9cb731b90263bf703ceb6d4407ed/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/882ef708b87ce10f5bb43172897ec5ca3d819aacb279e2c88b7ddddd31e4db261f1271c3c8e3dea7fcd04bdabe73c051f75de7f6f4cdb433637290c1bc5d1226c432a165966a7d971f7f03fe4f602993eab725a2e0a6a4aff8c1a417c7b0523ef4a9498a5974a58446d0b53fd8f2b4249ab875a6dfcf138fe26e89dd1d3ade2fb5243631a83554481c3815fec49f32a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/735e9cb731b90263bf703ceb6d4407ed/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Investigation of the 1st Commences",
+            "episodeId": "fire-force-979?ep=16175",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b483e628dc8eba8eba2e687f8713c388191ba027aa325b60c743eaa7e012dcfd84d97de12aba9ea97494c1cd7964593802edcaad12811802707de75326755d1e45ae299850c643c0a633b12e7938a0ab49d2df3230e0b9178b3fab91ef2eb454cbf1b9f789b06effc7b10a476cb2f9a6fc14bde4b5d2c0f74e7a3b8b2b849fd5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/041c8090a9c742c90e351a2c2acf2074/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b483e628dc8eba8eba2e687f8713c388191ba027aa325b60c743eaa7e012dcfd84d97de12aba9ea97494c1cd79645938912bbda6339872829b99cda2972997f09651a6fa30d7c5bf13a1525339fc890e168a7ffc81832868edf8c34bb47856d8fb36de97531fcdc30744f27d6de81e77315f8d7db1a8e8f5f7b2b19df3574ca9a5f1e3ba4242b7ba049ac8d5b7f1591e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/041c8090a9c742c90e351a2c2acf2074/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Infernal Insects",
+            "episodeId": "fire-force-979?ep=16176",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8ae6583791d241e7cc9574bf19f18b78fd96051d944b9e1e2aedd3a9999d0c5752b33bc2c02887b431a14a9adac05220641239f1b1d679f03ec6060f7872e5ae524e1ea117e66913321d019484d4856ce3131b8a6bbc708873093215c63015caa4165979e6c63fe3d6357b6686dd367b8d13283a251cbd9f37f32a705f26919f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/080e916b8af4ac752c23b172bbc361f5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8ae6583791d241e7cc9574bf19f18b78fd96051d944b9e1e2aedd3a9999d0c5752b33bc2c02887b431a14a9adac05220337f91bd3dde8ba9e98ed826070fad3f01a46c5839000687a606f0da35d597fdd2773670137397a2af67d9d1ae42e829106a3f206b854371d1962c66a1431d3deb6f8090a2172ab2d2d61ea57b45e5009046c316b5c517c7212750db97925b69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/080e916b8af4ac752c23b172bbc361f5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Spreading Malice",
+            "episodeId": "fire-force-979?ep=16177",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9c61b311270fa2f69f9ffc0b7c00c5bdee1f5fcf37eff76936d8cb7a16221dd71f8b890abd37efb417416b5f3feebc083725760692f46ae3a98cd1bc80ce042b00123f46ea04b0f6b47fdb5ebd806f30f12916b359fcc330d59ea31a6bff473643eea4c6f8df61cab58bd216bb4bb0f1d2abac0a30477d7e227b75a7ddedec47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c07e25480ff037c426b29d09c28dc6cb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9c61b311270fa2f69f9ffc0b7c00c5bdee1f5fcf37eff76936d8cb7a16221dd71f8b890abd37efb417416b5f3feebc089d0fd5c466b287c6304b8c9c3943f2e7f0e063b096ce562feefa5c9c003fc2828eadf835f2afa28a822048e117842d53d95d53624ad777e6679f8842400f7aa741efacc6fe5b2cb4f1435098c213ac4ebcbfcb18f8ae34f4abefefa023cde546/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c07e25480ff037c426b29d09c28dc6cb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Promise",
+            "episodeId": "fire-force-979?ep=16178",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5ed0b87027bfb1c94fa05294f1b3759af3fe1721901fa07e7a79eab1c68b9eb9c279eecf230e16c0db66298022755a1b061713f497fa9ac87b8088bf08e243b6e4d771c68af4467109095ff2e201b6a9a5a71c78e23405a60ac12a8686f350aac52671f8441b481485dc0e579c178154badf88199684f47695ecce60f34333c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd8fb5b2e50dcae44d91071040069785/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5ed0b87027bfb1c94fa05294f1b3759af3fe1721901fa07e7a79eab1c68b9eb9c279eecf230e16c0db66298022755a1bb56bd92d73cd3ec5bc2a2fb27c9d31418c7c6f2f0de6cbe414d1dca70169f22cd44d0f37661553e64955dd7237597ae53c696fb30a1a8b6cbf058976d8a81952d9ca40953a9293410641a10f1af4a4eebeeb4a968cf09df6bee1c891988af0fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd8fb5b2e50dcae44d91071040069785/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Formation of Special Fire Force Company 8 / The Mightiest Hikeshi",
+            "episodeId": "fire-force-979?ep=16179",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/27b4fcdf0c5d7477965504076ba42723eeb47a0b714882413413105ba3126554a63784b8b2b672e3060938a643e989d847dac314837ded9d37d3f5f73a7294235c83e89ee4a510899d90f968e7153f1bc6bde1db55ac32b4badf120c369b4a7f9419385c448d1a78e1568ee8286dfb7e912ed465c534e9c36e99813ea40c585d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86bc0692b912102ca91d5dad49ef0b2f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/27b4fcdf0c5d7477965504076ba42723eeb47a0b714882413413105ba3126554a63784b8b2b672e3060938a643e989d85759d63c6d8e6a223dcd5f48a2bba3a833810cc696b5268f6b3b640df681d6a39112534f0167dc43b74ba5fa44d0337239562442bff868a5e3620b5ef5f67cf94c86740fadc6dd5b7d881aaa680a4e81e8ec168e4fe5a665edb653663ef629e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86bc0692b912102ca91d5dad49ef0b2f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Eve of Hostilities in Asakusa",
+            "episodeId": "fire-force-979?ep=16180",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/712bf250ecefba9c4f35930c42b92cac069ab5cb45b37799f4c846772350354ef6d7faa0129dfbfe58cefa4b9c919800ab4462d064e53562b1bd37e6e30c136c05c4ffc2ebc86277fd9a62f6352394500a9a64e294dc0b50dba1efe6d6036efc4747e77644085ac22ecee4bcb18ee47edb18cef8aa50f35d2e7c83284c7f1e34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0e568150d5a59dd065e5337282ec2f6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/712bf250ecefba9c4f35930c42b92cac069ab5cb45b37799f4c846772350354ef6d7faa0129dfbfe58cefa4b9c919800d4f9160b558f097ab168f479292d56e2afeb6d966f7264adf58bf721ad9712df0b3dd8084a531fdad12061bc72d288a1e3389a522e7485c5384f92345b54322f31accb75a0b222065228c070ca762255c29e11a12aee1185a24ef5bcae8799dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0e568150d5a59dd065e5337282ec2f6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Trap Is Set",
+            "episodeId": "fire-force-979?ep=16181",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/43d9a92baf7a0c6546b17daad4005e20ae3b5c21e6e326ccad67e21e1cdfc406760e1fbe12972f2e5931d5169148f7b516fb96e1cba4eb1f980e94899000919b920fd4fc0b6960c7a4c3963f1edd0e9b2f6f300836038ea876a266ab669e43b54cc6602b25d541e0790b0a430d7818b247d01e14da6a69e2ccfac5c8b3d9741f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/030fa3113f6ae515e02603585389bbee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/43d9a92baf7a0c6546b17daad4005e20ae3b5c21e6e326ccad67e21e1cdfc406760e1fbe12972f2e5931d5169148f7b51ced34ed7bc833636ad2e630b0fb5769f5857a7665b9acc91fa3ea5f0fd59ea0c4ea63b2bab92765ffd9bfa6b26c9574a0a93a2fddfb0a1cc2917411f79955186ff14171aacc770d945461ba775f7ceebe76fece1b124d6b3740baa8ae220902/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/030fa3113f6ae515e02603585389bbee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For Who The Flame Burns",
+            "episodeId": "fire-force-979?ep=16182",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1a916a74015972eb46293bf31a7187160ff43c1c7c7cb82a452f67c75b2d4dfce374693bc1b1a1e6e1e43daa74edc750d31f15d79402ea48737992612ee93e562f161f3e98e8da687cf852e18da2cb711aa0a502a6c686f75dc286c963a9d2decbaac081317610559b4890eb04218a78e03b45bcfa5e2891140d9e0dee78d6ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1b1b92abd5c5000c67107a04ee091c7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1a916a74015972eb46293bf31a7187160ff43c1c7c7cb82a452f67c75b2d4dfce374693bc1b1a1e6e1e43daa74edc750a4442989205135d9efc740deb0d29caa3dd7568d960a757a4ec1cd1459b581bf4bba0f7dbc9f572b89b6e4aa771886b816ba8ee7a26c18ed904a43f16549c7293149a3387e93203a9e56936ae36f656a42eb1b22c8638eb0f33f58fed95644b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a1b1b92abd5c5000c67107a04ee091c7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Blacksmith's Dream",
+            "episodeId": "fire-force-979?ep=16183",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/19dbc4b3c91d3fbaa38e7f360dd82641d0334282f6358cb445d53db6b9e16fae6a2967d769e658a2e46d6abd828c41c7ae14cde832f84e34334389b4213b1ff6b44846e4f51d694ce49154ff2f02a2d75cad70e67131f094c001b95f3fa888963a97ba201d8d1ad54a0597184e12e6f2366d44d883ca7f8086e68e9059df8ba3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8986edfb2ff994fdf8c2f2dba3ad203/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/19dbc4b3c91d3fbaa38e7f360dd82641d0334282f6358cb445d53db6b9e16fae6a2967d769e658a2e46d6abd828c41c7f01b43459235f2bec8f68070c65d48c08db5c338bac4cf7b92930140235bf8c01e12252d47411d14f9405b4408cb93d8c7d70076b5541496766777c6e20b5742d04ed767afc02f03fe3805e67ebc10ec6647c973e4578044f9e10ba4cea4db41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8986edfb2ff994fdf8c2f2dba3ad203/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "We Are Family",
+            "episodeId": "fire-force-979?ep=16184",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4019ddb7ba4ed9850b24ece82e5d22d8f03bf6dc4675ac996e3a0498ee9e66e4184c993dca43124ce62c531a5811203925bdbbc4f255d78634faa4fb374a0cc7dfc8ef82bfad0015e3eca61245c4349ee725f4e7bddbc2063568c784c5584710691c584aa90f6d15dc352d192de54e116c975bba632ae366137143314d7f62d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7402bf8a7da5c465703cde3c9e9fc434/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4019ddb7ba4ed9850b24ece82e5d22d8f03bf6dc4675ac996e3a0498ee9e66e4184c993dca43124ce62c531a58112039247d32d07252719b715a1151a33f16a5ca72137ec5927997a91b2d262d5dbe86c0c698c94f061997fd8de3d4b613066a42d32b24cbed4710fcdcccafc23877b67b12e7a635c1575c0ea55c3268753cf53ad9851c6b3d463e7c0358812408e632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7402bf8a7da5c465703cde3c9e9fc434/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Black and White and Gray",
+            "episodeId": "fire-force-979?ep=16185",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8b541e59d25d3178ab36fcb990ed62c7d46304c074c7eed8cf2b591ac596bfd8a3d2e515d51fdfc39d99dc3f51dd9e726fd3751ab7b8f962cb06915e117169a678338b4e5007748c7ece079b779fa7e460d1db2abb9e03372432d967f7f9e8e85fb94028379c76959aa0a1d3c3eaaf66d00e205b540b936c49e64d5cb4961eed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e35b238dc5a442d6c758d7df596440c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8b541e59d25d3178ab36fcb990ed62c7d46304c074c7eed8cf2b591ac596bfd8a3d2e515d51fdfc39d99dc3f51dd9e729eb088b44cd8c7a82f2e1069946dbf91010e6bda74f3f959262213bfa5fc661e1744d9436abe9445b16e1584f7dfb118f39718d6f723d6deb48278ec116fa50a8449275cb8263e494c6d94df2a601160c72d8d82a5a4bcfc480ab61ab9c9ec7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e35b238dc5a442d6c758d7df596440c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Secrets of Pyrokinesis",
+            "episodeId": "fire-force-979?ep=16186",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e423b2d9554f088b792991c732c503c5576b69e90c6f16f7f2f3826a098c6c1c8adb9333672f514ee8cd65c1911d4f56e86a1a5cfdbcbaa493410e0df0a8f49be78369b83aca222349de022b93569f8d78209ceba3e6cb604f67270d96eeaaef04e42c964530dfdb7f35519201e6cbebc42dcc5dcc62708ba41825f27c9527fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e644cdcf449a8bc30bab7f75a0eeb62/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e423b2d9554f088b792991c732c503c5576b69e90c6f16f7f2f3826a098c6c1c8adb9333672f514ee8cd65c1911d4f56458ef8c1f1eb9b01699a76b16d6fc3eb1c500ce911cd25c1763bd39c3224b0d924fa6a678256f21a7cac56e11b76c6cd92d5d73506c9ee3281e3ceed91caa16583fbe3c160f810a375c37b512c1d8dc75483c1edbd3d8559c5de78b24c87f92b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e644cdcf449a8bc30bab7f75a0eeb62/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Into the Nether",
+            "episodeId": "fire-force-979?ep=16187",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/55ca0b455c2fa93c69326e20c61261088008704ce73b96fa664edc24572996f1d127227e3e3c5a8db3271e1b54807abc575f6760d9845c99a7b9e066465f8a90221718a1f287cbacc02710698520a0db8b996f053543f843d6421d51ee5878600e6da7bd4fb3b1fcfa475f788228bae2390f2644add6e01e408bf3077aeee0e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65998b7cee4839484f19a3679669be33/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/55ca0b455c2fa93c69326e20c61261088008704ce73b96fa664edc24572996f1d127227e3e3c5a8db3271e1b54807abcf3cb7de3033c9ac52beb2436f7bab41bdf8461ee2b06ccff51062b7ad9ba6fcd6bafac758559b95bf080da2442fedb14945935d3866e371674dae588c8c538b4075ac9bc4fee6f8e2fbfed0ccf51a466d21c6d3763a1d4617a14cacdcd787c4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65998b7cee4839484f19a3679669be33/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wearing His Pride",
+            "episodeId": "fire-force-979?ep=16188",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fbc9c74642376e2e6dd61eb06fa33e049ecad775f6f663137777165e10413f4e19bf227ac4104caac5adff9984a6e74b5511c3b6ce31eec8e28e415caba47a2e77374ce23e13f0df57e44f4deebcc1fefb2be32980ad653f304515cf604ace9ce6704a20d5343708930f9cdff444c0b870abc3fcb67014f31d31534aecaeac5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28a255bba44f43f248fb64a620c7cf06/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fbc9c74642376e2e6dd61eb06fa33e049ecad775f6f663137777165e10413f4e19bf227ac4104caac5adff9984a6e74bab3f6645fea8ae293f63e486429d11f481ea5899584a6e2ba4fffc2c9dc5a7f1677160ca9a069a634bfd02411ada767b873eb6b291f88a344f2caeab6f0240eb5cb8351c92927d12a881291b15b57ec57f65ddce30487359873b9adcb7f91d8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/28a255bba44f43f248fb64a620c7cf06/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Those Connected",
+            "episodeId": "fire-force-979?ep=16189",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9e57a4583a8f0415f7c36474d8c23f1fabab08bdd6c34d16e2215862faad1a01ec1d4dcd35311ab0b3d36ac2f271d51e81b72f24e9b57006e5610ecd67bcf439632a5b7dcae574117da3c57e1b6822824b6b5424a4b09a6eaf9232c7342cb89d5c3420ddc573e647a67cc1f331677c3f7fcd91bf27e872d55a0fb3cf17ab91ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8391de922a463a104b3c9c25165e9e34/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9e57a4583a8f0415f7c36474d8c23f1fabab08bdd6c34d16e2215862faad1a01ec1d4dcd35311ab0b3d36ac2f271d51e9176e931cf21fb967967b136da1159625cd7be0bd2d766b43a8999e11a0f3a5ff18a67b1dd2fb5718f184af6988cede5fba9c524d7baab583f02f2073e27e30c84e7d583f1f81deacccc8555680d1f8a4e9fa244309015c979c52434afc21ba3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8391de922a463a104b3c9c25165e9e34/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Brother's Determination",
+            "episodeId": "fire-force-979?ep=16190",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/58f5c082c4f0305c79f1bc7d87b2fbfec770bb03dd35b6e361d2016a7a12b9a45add4c8fea853f0eb98101fddc39faad4cb5e546557e51717f8cd7ad528d35a3597129d8e1dc2665b4f6d85b88447190d96823c55b4ab18045aeed14dad1589ebdc2dfaa50ca8b2f9c3795664c91ee1b6ff37d45260f5f85cd49ac910d7d39ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/337b3ead8505a22146f77fa76d6aa217/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/58f5c082c4f0305c79f1bc7d87b2fbfec770bb03dd35b6e361d2016a7a12b9a45add4c8fea853f0eb98101fddc39faadfb1895c043a74b2aa70f9727d8a7a780875d1aacaba313c239100ac11485e56a4aba6cd797bb45d5f056f7c61a39e724e73ee33140cc10827ad603bda24c9a1d1beddfc4bbbc04991f65e8c00fe53aa64d72405696e69e00b7bf54e908720275/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/337b3ead8505a22146f77fa76d6aa217/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Smile",
+            "episodeId": "fire-force-979?ep=16191",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/db7e3632fcd5065bb51eb52cd4cb9146b9e374a85250abacea70f23f68b7a64e53adab835f15c117d53127ca852240550c1570f7e7b65ce436d17c96f4656b9492ba4b677af1cc839c79c885d16c0cbee166cde06eda4c998b3d680ac8cb909996774422ea9dc4f7a1a068825c5792cf5a67e21aa4adf342c971338e50980f67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed0b5f1312f4c515e4170603b3a776a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/db7e3632fcd5065bb51eb52cd4cb9146b9e374a85250abacea70f23f68b7a64e53adab835f15c117d53127ca85224055b73b4d41ce4f3b9f315a31f8ca508251a6ad6960c274e87e4ed5fc86a28109f3e0c8c2ecb0ad0eecf69f8eb74f003a93b490eece30465b49b127acdf9c02b51a0286e213248fc12aacc8850e4fa8d159e6d644e78bb90af03c83dac2179f52ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ed0b5f1312f4c515e4170603b3a776a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Burning Past",
+            "episodeId": "fire-force-979?ep=16192",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6b0f0c8e9fbb128997fc6a293455d5480388eff03ca5136e062b1bca7088e24371b6a66773ae888ae9cf2e237ebafe630a5e49214576894b2e6fac7bd8d1946bc706cdff6e7a1f8e4b0862d674ffa1fb641f6177007f1e72d0d435c7c9420096a881677fda2d06d129a8d266bc2ee4e0e14a8313376a8ac2313e24badf39aeca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed39c7a970a3fd40f9718d0806d8754b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6b0f0c8e9fbb128997fc6a293455d5480388eff03ca5136e062b1bca7088e24371b6a66773ae888ae9cf2e237ebafe63b78ce4f49cb8747e4b03f9751857cef62665dd171fd63315d4205e82f6df4ed701ed4a47d2d1acc7218a01453aa3b67907f58e41724ba6804892bb237a764f6ac8c17c7f8f93cd042261a0a1cefb8792edc24992a0a7fa0b1d0880f6641f1f14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed39c7a970a3fd40f9718d0806d8754b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

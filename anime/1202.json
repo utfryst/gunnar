@@ -1,0 +1,587 @@
+{
+    "info": {
+        "id": "the-legend-of-the-legendary-heroes-1202",
+        "anilistId": 8086,
+        "malId": 8086,
+        "name": "The Legend of the Legendary Heroes",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df6295f5fe59c82f988817a042b54ddb.jpg",
+        "description": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/TIp9o_KJdSw",
+                "thumbnail": "https://i.ytimg.com/vi/TIp9o_KJdSw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/-KQwoCCvf_0",
+                "thumbnail": "https://i.ytimg.com/vi/-KQwoCCvf_0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/9Jpyn_9XTpE",
+                "thumbnail": "https://i.ytimg.com/vi/9Jpyn_9XTpE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/O1osQP_7YXA",
+                "thumbnail": "https://i.ytimg.com/vi/O1osQP_7YXA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "sion-astal-5403",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b74dd2c6c1251dd549aecb13e2d3d64c.jpg",
+                    "name": "Astal, Sion",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-ono-10",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f596d8104e8c64fa6db9e76675c90c67.jpg",
+                    "name": "Ono, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ferris-eris-1858",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f00101b1d0454c5909eaf03c7c2af001.jpg",
+                    "name": "Eris, Ferris",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "luci-christian-215",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13bff62bd32770294af6563b6233cb11.jpg",
+                    "name": "Christian, Luci",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryner-lute-814",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/31c1659c071c932a6047df91f9747b15.jpg",
+                    "name": "Lute, Ryner",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jun-fukuyama-11",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/136c23f9942bcfca1209f93a2e1579d4.jpg",
+                    "name": "Fukuyama, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arua-121887",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4954e0a0d46fc86d464e4f7ef5eeb4d4.jpg",
+                    "name": "Arua",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "akiko-yajima-893",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea83931219e86d20e55fc6d0e4ceed25.jpg",
+                    "name": "Yajima, Akiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "milk-callaud-33087",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/85d285cbe0154b6034dd0280eb67a4d5.jpg",
+                    "name": "Callaud, Milk",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saki-fujita-402",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52066975d8b6d0ff3c99606e0cb272c0.jpg",
+                    "name": "Fujita, Saki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "riphal-edea-19352",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d6e2875b13fdc5b4da5cbb80f4e5078e.jpg",
+                    "name": "Edea, Riphal",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kazuya-nakai-37",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3eaa00f6c293df5146813f869deb0a20.jpg",
+                    "name": "Nakai, Kazuya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "伝説の勇者の伝説",
+        "synonyms": "DenYuDen, DenYuuDen, Densetsu no Yusha no Densetsu, LOLH",
+        "aired": "Jul 2, 2010 to Dec 17, 2010",
+        "premiered": "Summer 2010",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.63",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Magic",
+            "Shounen"
+        ],
+        "studios": "Zexcs",
+        "producers": [
+            "Lantis",
+            "Media Factory",
+            "Kadokawa Contents Gate",
+            "Fujimi Shobo",
+            "Zexcs",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72669",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bda238593f42e05e9dd2065a6bfdd696eae40697cf826a9f4bb30cd3b713c981952b49a917bf1ba51a3dd9f584519f9f829ee9b84e309e0d4a1c79b626eacab7b60a2e96e15a5784c04e90f9e6584ff56ac5511eedac0976d531f453294e5a5b217afbab54b6b348319f19da578b5fa7eabf5a9bc10ad0c7764d7e5052643176/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13efd6b3c89a6144e00f4346dfb44a9d/13efd6b3c89a6144e00f4346dfb44a9d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bda238593f42e05e9dd2065a6bfdd696eae40697cf826a9f4bb30cd3b713c981952b49a917bf1ba51a3dd9f584519f9f93a70c300f0ed56d0c8d29958d05486964659d2589056a9c9237f529a1ae2b65abe81e828857fc170a43cb0667a15c3b92171afcf27b883879816fd2e870e2038b8dabf6baa0c3c188f501fa4e6a11f38915083638cd2fd5010cb16e0f2761d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13efd6b3c89a6144e00f4346dfb44a9d/13efd6b3c89a6144e00f4346dfb44a9d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72670",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f62eff5bd4b9a658c903abd6570726cd1da9b0ca8b80ddf71398f167d0b5c325097664be36e557dafb7eb8cdb8081f8ec1b43585cca0f08e76bdeafc8dc915fcbe712304f3eea802eb20d141f9f869859122a6b36329e7f14b78b55358d3cb18ff05e9bc9b99f46570e561bc537064851c0958406e3f6953de99cf0f1a961cc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cc7116006c5b29a5ad204880293d1db/7cc7116006c5b29a5ad204880293d1db.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f62eff5bd4b9a658c903abd6570726cd1da9b0ca8b80ddf71398f167d0b5c325097664be36e557dafb7eb8cdb8081f8eb945595fb583ba5eaa8c786e20191844911f3c27aeed0a5fa88b3070c01c7568db6611ecf290205011e16c6a9001a132b6bbdff4e6c4619c472e36d55fd3b03767e43752e0f9e94e9b14190e8ad033722532fea93f61ff9c1ca8c73b093ade55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cc7116006c5b29a5ad204880293d1db/7cc7116006c5b29a5ad204880293d1db.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72671",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a861428a4224688c274d2d0a147e82636aa24db2ba979675d0e81a713cd466762ba97efdbd9b0c1ad0b6d292c638a31aed1e7d48dec1dbbab59fe6eb3eea5fb87ee3b3400cd91a2cc31f3f1871c230e5c69bb3d238b84d1c24ff97400abc627976523b6fe790e098350dde5f528121a144a5eb20e3507bb71800dec5cf900cad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aaf9583c6ecd76573b89423c3b8886d6/aaf9583c6ecd76573b89423c3b8886d6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a861428a4224688c274d2d0a147e82636aa24db2ba979675d0e81a713cd466762ba97efdbd9b0c1ad0b6d292c638a31a680cc2a4b3fac21810d9d74c269e694ea155913634cb4584602c4453d4ac3d4bdaaa882d6147800be56e3eafe9764ff8475ebe6e6553736d769c2d448c32a5cdfed1fbabd151db01cfaad5ed0a50eb4824b2868453d9ce6e02ccba7232fef02c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aaf9583c6ecd76573b89423c3b8886d6/aaf9583c6ecd76573b89423c3b8886d6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72672",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7a069079b76ac146de01e3742b2ddf9b900c1ec105bc1daa41befb42fc52297fe25b523bca4945b64a42fa46ea96cd5d11e739a526d12e3a87097024fc9490eb9caa50e61fb297a6ad0e66cf1a2b4db5d6be931b5e90566dbd6cfdaf29244b73a07670acf1c11e15f6eb4a892d81913abb4dbfe9e5b2e20311d08d6729b73e6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27f8b8070997637b39646506db7225c1/27f8b8070997637b39646506db7225c1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7a069079b76ac146de01e3742b2ddf9b900c1ec105bc1daa41befb42fc52297fe25b523bca4945b64a42fa46ea96cd5dffe29f64fb67807ea9ea61a21429cc823ae6e91f12dbfac859dd2a92abb6f4c4969f4821d44220c7c2c5a3fe82b8b674e5527a15bd06ed026ce456d1fe6d0bb5cc925c189d3b4ccee1052620030b68f2076faf6940469f4401cafbd8990144ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27f8b8070997637b39646506db7225c1/27f8b8070997637b39646506db7225c1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72673",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/91b1c72558a330e6bf938d39923ae7f7fb7e8816cb53058dfb570e5c296e5ea3bd7463126dbe7b9d72135e7c056b984a29f4877cd062d3e478058213657a7fdc666108d99a311ecdb04c66aa68da41d888cded3e34ea2cf7495e8148c052d1a8869afcfe878287070e4c702900cfb69445c99b0a7a9824530a3e7bc5fbd245db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/513209e03c4c71d728baa63f02f6d3f2/513209e03c4c71d728baa63f02f6d3f2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/91b1c72558a330e6bf938d39923ae7f7fb7e8816cb53058dfb570e5c296e5ea3bd7463126dbe7b9d72135e7c056b984a3a16b2dac4b1c5b1cba4bd63e9a7199aa455d8c661ce405eddcaf435b8d172fb1b7dbcefdde3d3371d01a1576529b7226a39fc4b620adc7ad2a49bd2a3f478544cc82e3bc09e151f64c6fcec8e5f86594e9a9059f58496b474dd0120b62f9a0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/513209e03c4c71d728baa63f02f6d3f2/513209e03c4c71d728baa63f02f6d3f2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72674",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a642a16f19e5a9d1dc43ebba2e11a28d9203a8c3f8b741f9be899c0d25c798134e77c3ab73c221b5bc2a9b2f27ef429870542719cbf320d57cfd673248fde9b02808e2e5e686670a549154407a5ed4bcf797b1b4312f96b887e76c995d98828b0eee2da3fd0ced6541b14d0a0b5da84c3aa98979c501113ed07a9baf39d63f12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a01e80e0c0347a9fe242532567427a22/a01e80e0c0347a9fe242532567427a22.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a642a16f19e5a9d1dc43ebba2e11a28d9203a8c3f8b741f9be899c0d25c798134e77c3ab73c221b5bc2a9b2f27ef42985b9727ffed39f3a9a887f98b5597a9cd55342f279528014d348824cc5d700d229e5ee71f849e83841d3584502610762fceab02da7aae2f4cbd775a4c5896463c623fa63ada36fc777c62a93e6ea6ec43a8d7a2ed64f9d2b5ad439e124a80028e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a01e80e0c0347a9fe242532567427a22/a01e80e0c0347a9fe242532567427a22.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72675",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/dadfe218c53b69b59941bcad69653366ff58af34abbb97e75c863788f85b0b15dbdc470676f72f9ba708e2512b58e498fb747baf35329c4da6e54a1967d5ac2f022eb91a375c00edf0726d6e4db2466c2a0bbd74fcb8d4d43f8fc2e55bb4e9022570e0c2585dc731a2085ef03208dc28b4016aa1726fef3e01ada1ddffba1b0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4afb14c2014e1b4962437ec4bfd69001/4afb14c2014e1b4962437ec4bfd69001.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/dadfe218c53b69b59941bcad69653366ff58af34abbb97e75c863788f85b0b15dbdc470676f72f9ba708e2512b58e498d2c203f13d4fc229c4ff593bdba7d8c587203b11db1c1a7783d8bd6bd6fc3804beefc00b323b895ade315cd72202787c713ef247a2d2ba3eee26391f2358acaa866e61feb789d21757fe8d6c7bb886642eff4ee744c2bf43d0978be25ba04531/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4afb14c2014e1b4962437ec4bfd69001/4afb14c2014e1b4962437ec4bfd69001.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72676",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ca37336eb767b2a7b4c0e6b7d36992c95745e4f49d89987286e6ee0ebe6f09a33bf7b2c0bbf4c754a3be8e70c543f424258fd8bc32b0c3327f0fc0430cefb5f8ff3928fd37efd6e20b62f9ef4d50ebdc8982132c1ec6e5a3f263647607975dfb8983fc34886bcf67af6238aa15fdfc698de9d18884e7522f20360c8d4409a424/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e2636de5cc4e35bbd623255c5d86ddf/8e2636de5cc4e35bbd623255c5d86ddf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ca37336eb767b2a7b4c0e6b7d36992c95745e4f49d89987286e6ee0ebe6f09a33bf7b2c0bbf4c754a3be8e70c543f424d0e38d5fde53d308ebc14f7707dfc0295a4cd1dea794d363b13e691a2c34abf69a0e886f97faaf6667237303ee774591554149f7efb538ffd9d96642f9b0a06822d48c559408b2487c545ec89bf93b95cbdfcaa125b05bda8ab53396708f4851/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e2636de5cc4e35bbd623255c5d86ddf/8e2636de5cc4e35bbd623255c5d86ddf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72677",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0330840916a9bf4e609ec876f16805d31ec40a048dbfa65eed2f032d86a08583bf3f374e7f667666e2e19e9e3027d4f1b3543a5178ee0942a1907b6c7344d1f3e95c74d22f374d908523c5caaea80486f78586b2cb0bcf359c4f92cb0d365df1ba59a8b06f0ed4fb05a8772886958e681de7769b9777f2db282f08af52f9acb0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c3858f6c3d7916812073d69b0f93c9d/8c3858f6c3d7916812073d69b0f93c9d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0330840916a9bf4e609ec876f16805d31ec40a048dbfa65eed2f032d86a08583bf3f374e7f667666e2e19e9e3027d4f1568f588aee42f27be0035911c90db1a237e8447dfb25c5832083eeff2aaf866c49999b7d3bf0fc8e94ce875fdff75556339d4ff31ce875623e37e604808f3b5634bdb977bae70332a2a532f7ef435a3ed39376b927d71a7ef91261113578c4e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c3858f6c3d7916812073d69b0f93c9d/8c3858f6c3d7916812073d69b0f93c9d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72678",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/40f1131add66303c1dce9303c9b02a6297be08bd66e504db20fdc6492bdf85b5a3efa31af6237e40dc226c414852f8073d9339ca6e412a82499402f922d75b735151c066a6a17469ef2f58a8ce9f0a71da8030a9475020cfa5f25a2e320a009950b0a492ad3273511a788d3d5b736b6bedd20fd107d0621776709599fe808c19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6f3067d55841ba1917b63ef94048766/c6f3067d55841ba1917b63ef94048766.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/40f1131add66303c1dce9303c9b02a6297be08bd66e504db20fdc6492bdf85b5a3efa31af6237e40dc226c414852f8076286b3e07116d2589d2569cd15299d27074792864078cc962020bbc215ca0140cf6c671bb460bcbc83cc7752d5814410d9774a5141fd86a0ac416be3b191969892908a71ecc14348e4edf9c25891efa7c9a4d46d18a8db0b1bbeac565eee70b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6f3067d55841ba1917b63ef94048766/c6f3067d55841ba1917b63ef94048766.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72679",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/affc84224a007c3a372a805b1bf41de987cd8e79021b2bc3c3bf958c42464ecfcacc5ad37e2daf8ee729a2719f32a259609a252aa5d549c41edc9113b7645712f2a5172cbb83da609c3a1b46f540a74d32cb8867f3c73c27e32f69e0d63d46baef71345759a73d06256a6ba60708d5b6bd05f8ec756568073e1027903639dd31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/594b831e5a0421eee980f314630ddb9e/594b831e5a0421eee980f314630ddb9e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/affc84224a007c3a372a805b1bf41de987cd8e79021b2bc3c3bf958c42464ecfcacc5ad37e2daf8ee729a2719f32a2594b9bad22501f531fdfb30c63c7671771608b2536902a45bca39f65ff743934b07a5cd26086cbea405be80d3183c2335d87de7a886be857d0b2ce60aebe352acc63ca04f8069fac7a22444ab1ff84416ea17f4f231a55d71f15f2442a0bda724a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/594b831e5a0421eee980f314630ddb9e/594b831e5a0421eee980f314630ddb9e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72680",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/76b94cc4b7a432da7c5b920c9f9f866ff76094eec66b85cf85dc35c12b2407fe1d92f26e9ebe0bb59b32cb3049e32e0513fc919a8d806837fd214adfc8c70fc41a16755cd8fcca19f34cd3aedcc1262445557486fb2a24310d20a130c180c43c962cfd8d83196e1c2c422d7afeb1df9e63b17285c25ff88d8eb55c7a60546fdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8eed98123fe457a5b0622acd6339c953/8eed98123fe457a5b0622acd6339c953.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/76b94cc4b7a432da7c5b920c9f9f866ff76094eec66b85cf85dc35c12b2407fe1d92f26e9ebe0bb59b32cb3049e32e05373755d23527d26d7f66e979e27655efd535f722c4cb60d4f20f28d6796bc82a36fc88d5a362970f4614fe064239ea441ba3512ae25d3ea767480e2a6a7222638f4ba9cb94b76a8e0a5af01dfe94e0724a56e45fc4f6ff5e9a8bbfdc41822693/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8eed98123fe457a5b0622acd6339c953/8eed98123fe457a5b0622acd6339c953.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72681",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3bf71546a4d47c13930ff75913bd42800644ee09c14c0b29bbe47503453360224ed23fe5f0dc9612c445cb29318e17b578f6007f079c872cdef23bb8b0984ea2fc0cbe90c8f451f4acc23412ae0aad09211f0fdf3e3a6b5eb23585194949cc456a92f42302f586170dcb2e4e15d3673caef766458574bf3c268a07737fd2c240/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1748d0ac8299e6e3ab29388ee1c70765/1748d0ac8299e6e3ab29388ee1c70765.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3bf71546a4d47c13930ff75913bd42800644ee09c14c0b29bbe47503453360224ed23fe5f0dc9612c445cb29318e17b5303a97e246d6e3ced2364d3bdd97e9914ea46efd102f0e76a32cf37b196fd20ebd6807711169b5345929e63db95cfd04da9922d92e13a32cc2b28de97e4b4b9d8f8b5c8d5048f94bd0e305544b2cac5792a98927cee133e910f842f73cee3969/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1748d0ac8299e6e3ab29388ee1c70765/1748d0ac8299e6e3ab29388ee1c70765.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72682",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bfb7031c65736857c0e213371596a318ee3b847b883842337e598a19e75959ad404b3750cba345d2efdb1bad0a1db39785d7af6f76644bb167d583d23ba389ae472a8fc31c138cefeaf7b1a8101b55872e808d012128ce32eed62227bece337e66bda2cae17dd5157ec0303b580c4d0f899a7b913ec2dbebe91b0178f1ba9520/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31486a8248b9cf0821a01077809633ac/31486a8248b9cf0821a01077809633ac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bfb7031c65736857c0e213371596a318ee3b847b883842337e598a19e75959ad404b3750cba345d2efdb1bad0a1db397007ef48fbad60000f37a26314cd35c0b7894a6f87aa0f2bcb98eb1ec91fb9ec85565b3cb8b908c2ef5aeb40641eadbddb39a6c9e33f59b81b2900ffc6b11a2ee65be338d6cc1e7e4f9009475a055d04528cf81a885299e505004fcf2c9187e53/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/31486a8248b9cf0821a01077809633ac/31486a8248b9cf0821a01077809633ac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72683",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f34e4643610ec32024331e93d2a65dccee317ca98fd518debd48f259d03c8b586fd43308a6629a9ba0da28354a19bbef1ba32f90fafc0edd5731eed5dacd457a51da11c9a3952b0bb06e8b08324f647432435b3fb6e7021174a0cc2670201134f02d1a9d9cded9e4464c8f709f83cf0f8b88a0ca8d737aa2c28ce2f037998ac8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af82a8ec63f2bf82dab2cfceb7f6a61d/af82a8ec63f2bf82dab2cfceb7f6a61d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f34e4643610ec32024331e93d2a65dccee317ca98fd518debd48f259d03c8b586fd43308a6629a9ba0da28354a19bbef7e3ced58c9d074f83fd700672fa8fcb4de899814ae00a96794c0f598feddc94a0b87835cc78faecfdfb6c4541e139142e12146747a88c224e523bce364889ff5b17907b1cb4a38032a8a0128021e31e9251257588e81dd631c227841d9ffdbdc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/af82a8ec63f2bf82dab2cfceb7f6a61d/af82a8ec63f2bf82dab2cfceb7f6a61d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72684",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/d63b3d85319c8585e69f7f040b3d6101294900e7aec2bb02507b92fe4d970202f8871caff7003d834d6f6b0474f60fe38def9c31154160301632c4cafeb58323d8ea7cf52496cec69167842e9d1dde10942d0a647a5abe3cb6c584778629f9766f98ec874547daa40565d43a182f5a8f674ce7a96accf0987550d0318b986055/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a0365ef77d97da584a8a908df5929c7/9a0365ef77d97da584a8a908df5929c7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d63b3d85319c8585e69f7f040b3d6101294900e7aec2bb02507b92fe4d970202f8871caff7003d834d6f6b0474f60fe32bb133a1521399d089d0c7a6e97f3ddc39aead85d12995b984e4e765ff5d6b606b43f30cbdb6a65e5a8bff5cd0b65094b73dd53b951c3bd56ef059f81643c7786ef3ec62bfe190f11ec29e8836992ac8dc802a938f76ca7b31e5c0aa581a0d85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a0365ef77d97da584a8a908df5929c7/9a0365ef77d97da584a8a908df5929c7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72685",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d7cdab8793d456f11a097887496a066531762745eaa6938678995a2ded43ef2350a12d840eebb9d99ea354e938a394298f15f578d7c4d76459243b6237647d2afc76db737b0033a65ee99a661a45ca548b0e869ba64689559ced37cd3ea2d3854532a5faa30409ac44818d5940e2211b7d1eeba7cba505f40bfba01ddd38f0fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/201994efe440f97145673e62c7264efc/201994efe440f97145673e62c7264efc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d7cdab8793d456f11a097887496a066531762745eaa6938678995a2ded43ef2350a12d840eebb9d99ea354e938a394296b9d589a6308382fe427d767ce29bf8c0847e895741471376085010e5d804f615dcb2f946672534ea47da41a3da5f6e742e7c30bb00c75e1ecc83da2eb3ade49088cf4639076438970c7efae69282950466ccd2a6ae0cd4bc8b5bce27c0feee6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/201994efe440f97145673e62c7264efc/201994efe440f97145673e62c7264efc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72686",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e8f80e128af0e5438da7a35e8f7e80dbd22b32cdc2e8ad3898cc986c05e253698ce397fb85b75da795cc3ea38d9e9be99c69e729d0d05036daafe174a3813b1cb4bc4cc5da149d806ad60af5c53cd9f48a5c5aada40f7e5c7224c189ca2f27e3bf0cfbcc2822ec6fffeb736cafe0a13258408f9b55a4037e4791058e65fcc8f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9645ac75ce9cc59d54ed3c4be4ed800a/9645ac75ce9cc59d54ed3c4be4ed800a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e8f80e128af0e5438da7a35e8f7e80dbd22b32cdc2e8ad3898cc986c05e253698ce397fb85b75da795cc3ea38d9e9be937819dca2659408bc2fd2c90d73b6cb95cf501bb435b89979d1a9f37771ec23a7e5ffbea1f1ad49f93f34fab43a02c1808e6a302ebaafab374c2386b9ff3a33d17b60110fcb9cc04227c79e06bdc6a98b2d6d1ceab08bbd6e891684b5621a4c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9645ac75ce9cc59d54ed3c4be4ed800a/9645ac75ce9cc59d54ed3c4be4ed800a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72687",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ef419e650765b97789d9342b8643ff80cc6f3b96e4b4fb7235cb06d4f9b4730a79d68c74e71f5c61afd13f30e60ca10fb80d93238d947933954032bc7115d5abaaa3bcf1ceee86d1f2e1fb233595f094ba1c018663b0d484b3f24a0461ca3a245cec67ebdcd080dcd2a2b556e89ff44c3770844fc17d72e409aaa35ff8ba0c76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c71b221a250275b790cf0f776bd5e419/c71b221a250275b790cf0f776bd5e419.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ef419e650765b97789d9342b8643ff80cc6f3b96e4b4fb7235cb06d4f9b4730a79d68c74e71f5c61afd13f30e60ca10f02502fdfd790ec08cc55527548c338176d829ce0adcb008607f9704e58ee5e6385c5059065f1ba58cfaaf032cf4f34cef57ee419c7d9370e2e55b27d2b01304acea2d75aaaf3e325421a5c415fdf18b26a1c4ab12e0ed8af63b44eb06532c51b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c71b221a250275b790cf0f776bd5e419/c71b221a250275b790cf0f776bd5e419.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72688",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/523b692b54caca9c377fb95523e68d78ed6cc2febf111a1c2dea5c05b9966e29c6052b3cb6b5a6db1dc006f2ab7d038c559cb4ae10b7a86d5158f04ac3d0ab794e19c086a92c4df14c9e14a493d5cfe0a8c0d625649393492f065823a3c7d4f363e884a27078556fbfeefa25da923afd7174178a1ef684844efd3e74e6c9ae5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb32941c03970196b0a68fc3e3b163b6/fb32941c03970196b0a68fc3e3b163b6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/523b692b54caca9c377fb95523e68d78ed6cc2febf111a1c2dea5c05b9966e29c6052b3cb6b5a6db1dc006f2ab7d038c220be013bf29f4fc7fad44811e0028cf92e345e401684236b58f3c325dd01bc7de1456ea58286a9433e60278584f42fd154aaf432604deca00a3e3ea446a78ef6b7252d310b5f50448a521a41ecd565d4ad334f2763387512935f88f3e030764/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb32941c03970196b0a68fc3e3b163b6/fb32941c03970196b0a68fc3e3b163b6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72689",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ca000acdb5b3ad89b8a80705d0892240ed948f12dc7bfcd971b864b04e6f6b5c1de79cc265f0f108c64ffc5bbb8474c856cfee21688bee358b12b1da1bd42833fa5ea465ac77247573424443c224d3915bef389cad80e89e06dd4a3679a662caec7d36404807afe55f375d7607e930e957344df97e1531042e8963491e82f9fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05b73e54c19897a087748fa0cf370bb4/05b73e54c19897a087748fa0cf370bb4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ca000acdb5b3ad89b8a80705d0892240ed948f12dc7bfcd971b864b04e6f6b5c1de79cc265f0f108c64ffc5bbb8474c8f65e5420295f175c16167e2272e7be346d69711306ac9333c8903787578dc37bd001510ab5cc05cee9d3040519c6a5bb00d5d96718d9a02d4d481e3ba59a3e1f7418b0af9af10d6a662e17c103972434cfc5f544b71662afe779b38bc8ab52cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05b73e54c19897a087748fa0cf370bb4/05b73e54c19897a087748fa0cf370bb4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72690",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/66902dd22b57f1dac424e9701d2678803c834ce71d769f10fec266836d738abbaef985a10161fc2cdc54368e518419407a43d715a75fcc5b71178f8248dc1d66f711219fb5847a72a80c578e88cd3027c61dda44f71289d4f0a3a784fb63d38bf7741025050cb6a099ce795e3b9a710ad68563aa037cae0dac900858c9f9983d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dec2ac90f900cbd06e30aa679d25ad36/dec2ac90f900cbd06e30aa679d25ad36.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/66902dd22b57f1dac424e9701d2678803c834ce71d769f10fec266836d738abbaef985a10161fc2cdc54368e518419402f936be622e083084ac11e70f379ecc52cb6ef5f2cdfc3acb9b4247a08f8eefa02637a1831cb2d878c6936a15d21110395fd32d9d4a6f2536df12d20cd479462993b01c9c0c9b33c0dafe5f986614f8226011d5071ad48ebc7c3237c9a8c7ae2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dec2ac90f900cbd06e30aa679d25ad36/dec2ac90f900cbd06e30aa679d25ad36.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72691",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/fc3ae3a51f41c3499522b77e1776630e6c09c56294885f2216f9ff0601be67af1cc2eba9d81dbec7bb3786a159dff97237c45cabe7fc398dd423c67b30086a7c511c59542ee9e2fb2072561e6d7c908c7ad57505fbe2026c0fe5485d825dd251cac5e774d18a299911f35033c217aab11701b85cae861a090c8c9fdb7bf781a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f29ee95ba6962877d509678c42fd6037/f29ee95ba6962877d509678c42fd6037.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fc3ae3a51f41c3499522b77e1776630e6c09c56294885f2216f9ff0601be67af1cc2eba9d81dbec7bb3786a159dff972d0d7ea9341638a7fa019446b55f8381c8eab5b0cb756eea333b0c2e4fcdf8a201289e52a2ec3a3ae05fd0c644b07f745f2edddb722dc8c4c7c9db459cd7ca49630aae9a7818ba242034c65198a15f04b54b120d6887319e20a0e2ac0e493df7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f29ee95ba6962877d509678c42fd6037/f29ee95ba6962877d509678c42fd6037.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "the-legend-of-the-legendary-heroes-1202?ep=72692",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/511a5f9d32e93215f91db60c2eb4b281e9c85841478b4182c72441b834697fb2ef76d9762b834e7a7a55e172819e4090ccfdeaf410df77a4c843ecbf9068e22e197974dbea332acd097ba57208f8eadb88429f7f7043d7ecf98f67a7704dc227fe63f24bfa7eb016381b6a7c7e3acba9f054d85fa85e61295dac20d5f5fb407c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76695df5821f0aac6381a33d9aec38a7/76695df5821f0aac6381a33d9aec38a7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/511a5f9d32e93215f91db60c2eb4b281e9c85841478b4182c72441b834697fb2ef76d9762b834e7a7a55e172819e4090e0b06c27b906bd52bde3a1e30c87a5f652323005d8c6743a22d4bae72c97ce79676ad966bb1aef0f2c1227eee3ce866bd93a77cb5c7a9acd8ef7232bfdb59bee5617106758295bc38e3ce264ef3183f1f9f9b21c026d98655855aaeda661bea8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76695df5821f0aac6381a33d9aec38a7/76695df5821f0aac6381a33d9aec38a7.vtt"
+                }
+            ]
+        }
+    ]
+}

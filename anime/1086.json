@@ -1,0 +1,105 @@
+{
+    "info": {
+        "id": "overlord-the-dark-hero-1086",
+        "anilistId": 0,
+        "malId": 34428,
+        "name": "Overlord Movie 2: The Dark Hero",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8f0db771d175c4f0619fbd0bfb00c06.jpg",
+        "description": "When the popular online game Yggdrasil is shut down, a lonely player named Momonga decides to stay logged in and take over this digital frontier.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "33m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "albedo-325",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c05f8d5e8257fc1ee0f5cc5f1f4d2e48.jpg",
+                    "name": "Albedo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "momonga-167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1fda0367b69d7cf9711223ad0d8fddf9.jpg",
+                    "name": "Momonga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "narberal-gamma-1271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cea194d01dece6e404114dd56c0bc874.jpg",
+                    "name": "Gamma, Narberal",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "【後編】劇場版総集編 オーバーロード 漆黒の英雄",
+        "synonyms": "Gekijouban Overlord 2",
+        "aired": "Mar 11, 2017",
+        "premiered": "Spring 2017",
+        "duration": "1h 33m",
+        "status": "Finished Airing",
+        "malscore": "7.68",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Game",
+            "Magic",
+            "Supernatural"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "Madhouse"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "overlord-the-dark-hero-1086?ep=89400",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/68d84e8763ace394d02cadb6a59b4d46c3c80c931a72b01de7c522b20c4ad0a38b41277470021a222c66bd8af9395a857a5b29247d375e7f502832742c828f358318a6077c4d036b447ec90007e4f53d5aeaff799f6cdd0de99a7e1b253857e7b2251ce477d34218bea96ff593b265d91e890479aa246dc6a50108b210d43500/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6ad1c7e06335d1124a57a88f3030bd/0b6ad1c7e06335d1124a57a88f3030bd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/68d84e8763ace394d02cadb6a59b4d46c3c80c931a72b01de7c522b20c4ad0a38b41277470021a222c66bd8af9395a85931c55bc79c42ed159fa9d5037bf9ca02ac7de6877d2edc93696269e9bbaf6afed738dd3a0415e6db4c0d23982719e69f629da7305701c666021ee6b6e0a1f7a30ef2644d6ccf5b9d384025693fc438a054ed7731b489b86c1bdb5514b585e00/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6ad1c7e06335d1124a57a88f3030bd/0b6ad1c7e06335d1124a57a88f3030bd.vtt"
+                }
+            ]
+        }
+    ]
+}

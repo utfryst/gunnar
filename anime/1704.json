@@ -1,0 +1,112 @@
+{
+    "info": {
+        "id": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari-1704",
+        "anilistId": 98662,
+        "malId": 33519,
+        "name": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2917d91cec1de94ceca5bd4235635ee.jpg",
+        "description": "Compilation film of the first half of the TV series.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": null
+            },
+            "type": "1h",
+            "duration": "47m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/QbpIM-2-Wsw",
+                "thumbnail": "https://i.ytimg.com/vi/QbpIM-2-Wsw/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/i-M-v8y-nc8",
+                "thumbnail": "https://i.ytimg.com/vi/i-M-v8y-nc8/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 2",
+                "source": "https://www.youtube.com/embed/sBgjtkjXWqw",
+                "thumbnail": "https://i.ytimg.com/vi/sBgjtkjXWqw/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 1",
+                "source": "https://www.youtube.com/embed/Q9gGIlPMyII",
+                "thumbnail": "https://i.ytimg.com/vi/Q9gGIlPMyII/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ikoma-2282",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d33a45a286715c600282ecbc59f725d3.jpg",
+                    "name": "Ikoma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            },
+            {
+                "character": {
+                    "id": "mumei-1171",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/943be6c38cee182c0f037986318a34ff.jpg",
+                    "name": "Mumei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "甲鉄城のカバネリ 総集編｛前編｝集う光",
+        "synonyms": "Kabaneri of the Iron Fortress Recap 1: Gathering Light",
+        "aired": "Dec 31, 2016",
+        "premiered": "Winter 2016",
+        "duration": "1h 47m",
+        "status": "Finished Airing",
+        "malscore": "7.47",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Supernatural"
+        ],
+        "studios": "Wit Studio",
+        "producers": [
+            "Wit Studio"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari-1704?ep=58242",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/85993d2f35a68e9b170c62aeb16e8e0ca88f243d883acb2e8daaef11cdfcd4f896c0128d01dfffbeba458b4175cede97096be082a588b22827a344dfa4e103f752707ec98b548e85f1f12801d7a0fc23f1f9fe5e54e6750a42c6755b7b0186220d56bead1e7dd51ae2094dc1e835089519cfd14a25f5d55c82a669bebf853879/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/468a32de893f54c39e495f9bb3ade2fa/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/85993d2f35a68e9b170c62aeb16e8e0ca88f243d883acb2e8daaef11cdfcd4f896c0128d01dfffbeba458b4175cede97b790a9412bfe97a078fdafb448f20fb99fe87b53523335b3a4fb5f5b7a2bec26e07a952614d0e4eb490bb8ebf6ccc5db1ecd37a5e5462fcb5782dbf7baab658fc167d5022dd1c11c5637b46d244aa09365eff6c7e0ef176d80cdade2c00794e0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/468a32de893f54c39e495f9bb3ade2fa/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

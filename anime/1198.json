@@ -1,0 +1,602 @@
+{
+    "info": {
+        "id": "blue-exorcist-1198",
+        "anilistId": 9919,
+        "malId": 9919,
+        "name": "Blue Exorcist",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce4ef643080aa2d5c66ef10321b14c09.jpg",
+        "description": "Humans and demons are two sides of the same coin, as are Assiah and Gehenna, their respective worlds. The only way to travel between the realms is by the means of possession, like in ghost stories. However, Satan, the ruler of Gehenna, cannot find a suitable host to possess and therefore, remains imprisoned in his world. In a desperate attempt to conquer Assiah, he sends his son instead, intending for him to eventually grow into a vessel capable of possession by the demon king.\n\nAo no Exorcist follows Rin Okumura who appears to be an ordinary, somewhat troublesome teenager—that is until one day he is ambushed by demons. His world turns upside down when he discovers that he is in fact the very son of Satan and that his demon father wishes for him to return so they can conquer Assiah together. Not wanting to join the king of Gehenna, Rin decides to begin training to become an exorcist so that he can fight to defend Assiah alongside his brother Yukio.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3 English sub version",
+                "source": "https://www.youtube.com/embed/ayLq7BKjQZU",
+                "thumbnail": "https://i.ytimg.com/vi/ayLq7BKjQZU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 English sub version",
+                "source": "https://www.youtube.com/embed/8NxneeQpRSA",
+                "thumbnail": "https://i.ytimg.com/vi/8NxneeQpRSA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 English sub version",
+                "source": "https://www.youtube.com/embed/0HHNeeXrysA",
+                "thumbnail": "https://i.ytimg.com/vi/0HHNeeXrysA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yukio-okumura-847",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0281a009e5b62ca46f8b955c3f4f736a.jpg",
+                    "name": "Okumura, Yukio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "rin-okumura-107",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8bb39f5af26fdc5fb8faf593068d0a29.jpg",
+                    "name": "Okumura, Rin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "wendee-lee-349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efd4ed6f389ad02971aa64e3a4ad1292.jpg",
+                    "name": "Lee, Wendee",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "terufusa-adachi-67412",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/de642c400e24c88cd46a819da7d98386.jpg",
+                    "name": "Adachi, Terufusa",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takehiro-koyama-13088",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9c64395883a95df7f9167bb376245af.jpg",
+                    "name": "Koyama, Takehiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "amaimon-1250",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/63ecb8cb5f82b049ddf757aaa556ac5a.jpg",
+                    "name": "Amaimon",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tetsuya-kakihara-102",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/50aae36c659f646e3602a34a56bcbb09.jpg",
+                    "name": "Kakihara, Tetsuya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arthur-auguste-angel-9690",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70a4069445445ce4abf035f591f3cafc.jpg",
+                    "name": "Angel, Arthur Auguste",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "daisuke-ono-10",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f596d8104e8c64fa6db9e76675c90c67.jpg",
+                    "name": "Ono, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "astaroth-86700",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/750c08af6d65fbe2fcea7354e0dea19f.jpg",
+                    "name": "Astaroth",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "青の祓魔師(エクソシスト)",
+        "synonyms": "Ao no Futsumashi",
+        "aired": "Apr 17, 2011 to Oct 2, 2011",
+        "premiered": "Spring 2011",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.63",
+        "genres": [
+            "Action",
+            "Demons",
+            "Fantasy",
+            "Shounen",
+            "Supernatural"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "Aniplex",
+            "Dentsu",
+            "Mainichi Broadcasting System",
+            "Movic",
+            "Sakura Create",
+            "Shueisha",
+            "A-1 Pictures",
+            "Aniplex of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Devil Resides in Human Souls",
+            "episodeId": "blue-exorcist-1198?ep=18064",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a1879db6fc6f528eafbb62aba29a7cd7d6dabdce4e378a637693a897af34f6dfa0f1d7659ad34dcc973d415ab123afb251486f72cfa24a542518fa9c4dbd387eb12bd3d8b0c1327f17b2a7f7a88caf3adb055a6216c40adfedc10c9b7d2e6d408c3ed9c0b17c0e7b9e8affe265f6ac7e97be70d5636f07b9e43124dbdeb1ca6f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a1879db6fc6f528eafbb62aba29a7cd7d6dabdce4e378a637693a897af34f6dfa0f1d7659ad34dcc973d415ab123afb278b31460e73d763db150bc621aacd1074e2cfdb61259d89642619caad0ca66cf6094d66de80659096a6864f4513698f85c307ada9be7cdb088efe621a5b32c88425a16ced18f44d6dd0cca1b71f5be49a4a5e7a9edf9ed646f93e8ba644085f4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Gehenna Gate",
+            "episodeId": "blue-exorcist-1198?ep=18065",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/75993349eedd393f240dd74c492408079e54d66947696ee9b6f242488559381e6e0246c4b32a9ffac4d4c83ad9eb3b37a71610e407eac7a321e526a481cca24c71b88aa0b32b9a7b7fda3886df167fd3387315f22ef353ede3a1c74fe364ab2e64867c6d706a1b89c3bb43312d5a1a975290da2d6d362f9f7677de637d49e040/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/75993349eedd393f240dd74c492408079e54d66947696ee9b6f242488559381e6e0246c4b32a9ffac4d4c83ad9eb3b370451c60b5f06eaa399a49559cdd99368293084835863625f6cfeb164e7b0a54610fb7d03da0fc611360ef2b7e3710dc49e3112920e9dd132a247e00df736f74abd6284048a841ae51ab0241912c3bb65c322e7418f99f11e5ca60c0272519a5b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Brothers",
+            "episodeId": "blue-exorcist-1198?ep=18066",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/abfab7f78c7216c3159e12a13e80310daadeb1ee3844a248814f6871fb31377cf32aac60254234a0e173b05e0ff5562ecefb87a22c76868a898d6a45c17f181ab8adb24d7dbd9a24f7c0be5aaecef27f2a1f174c4bcbd4fe2c4db82a2158654f0fac7cc86846880ccf5b2b4c572659f4cf81acd68e99267fc3cf81a1e26e14ac/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/abfab7f78c7216c3159e12a13e80310daadeb1ee3844a248814f6871fb31377cf32aac60254234a0e173b05e0ff5562ef008cf4351f400e090128dfb0a0cc050ae11c99f0e0a11e4f5bd420d6d76fde3a44c01eebbfa4f15f723159de83ebbb03e44c9b3ff98b6445786cf699face1681d8102850331537405c653299718d74348489ee74fa559b4803ea87c4b5ca5d8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Garden of Amahara",
+            "episodeId": "blue-exorcist-1198?ep=18067",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2f127188882046ca84bd3cc5b0febf20b7dd869254977290e33ecf34488b52a193a4c6878412af6e089205f850fdd80db0363836553fcd15d87f36856eac77592a3d23b7c3dbf89508caee3837019c712161ec062fbe058a05b430793dd594dd0cb3eb3aa286d620eb0028527c8f37397c715f62c39d002b695c2b50e7eabfb3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2f127188882046ca84bd3cc5b0febf20b7dd869254977290e33ecf34488b52a193a4c6878412af6e089205f850fdd80d5a0d6b1ca620acc0d7cc3fd309ec5797026a1ac59af66a09ba4067aba5fd7feb3a15cf782a94b3f818259386a0e25b48415d23ad1ba5919702eb41c4e94700693a7d1a0e146a77f245453177ed36ca24752779ede3dead183a342f9b555e953f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Boy from the Cursed Temple",
+            "episodeId": "blue-exorcist-1198?ep=18068",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c93d54f166c8721542475b576772b6eac13f499cd82bb397da31595887ea254c48115ef40cc7c8f19dcd6c4cd2c4982b7e42acaa376a8d845a5e4f9156ea5838adb8f9cab17c8a38981a2c12265e66f07d485391db9f3e029cf2f42912b0c9016d9e246c897d748adc7ae31528fb0150d02af803a4e35dd42bf6e9f8b03fc201/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c93d54f166c8721542475b576772b6eac13f499cd82bb397da31595887ea254c48115ef40cc7c8f19dcd6c4cd2c4982b620d0f8a0ed6b239cf085982809fd5cef9d62edd9d53c8af9d656e123bf5f6c5ec9f4cb432ba0f72dd34b0f7c6f1704790c45683dd2aaffd275dabfbab6b90f054988156e3fe183a52e1af3845a2272208c79bc0b3ab50f2bcb571dc3f159c8c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Phantom Chef",
+            "episodeId": "blue-exorcist-1198?ep=18069",
+            "number": 6,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9508758616ba976ed847a692ba93e50351fc3013edfcb421aef31d0381de917cbd6fb1f438977b049aa312eb4b09d4590082be1f75c218dd4b475775c17ff94dea2f3711ec17b47f75960a6f0218cef5b1aa3ac98d707df887f767f65344f6ee17f98e22792d611186810ca3c49432a70f4ce0c2b2df629851ff7e2a76b21f3d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9508758616ba976ed847a692ba93e50351fc3013edfcb421aef31d0381de917cbd6fb1f438977b049aa312eb4b09d45953bff53e801b275114d2e86bfb6163a02540b33ab104abd4a4b0e11d57b8d896fe59366c3dd6315139ed9f40efa84bcbeb27c7e2b480ef9a881e45b4fa49d36a799fae2ff712021dbf070159da5b1f7aea9f11dbffaf68b07dfcd7fa00c5654b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Flock of Plovers",
+            "episodeId": "blue-exorcist-1198?ep=18070",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a4935f0b0f171a73c638d3a01b7690d58d9c4f5d3ede78b5ab4a74f022146b3ea80bfc46a1b36f89d7e90b0daae8de5c3b7497ff7e28391274b300b56c45ebc7bc2461d83d2899d8edf706cab83f5f26c191f05147169bc9a48ad6a91f363d1a5c1f9b0570ff7fd73932202c1bf4087ef3aee35bfa092c73186e001416e23766/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a4935f0b0f171a73c638d3a01b7690d58d9c4f5d3ede78b5ab4a74f022146b3ea80bfc46a1b36f89d7e90b0daae8de5c933eecdbb2b022f432e015d95139b0ca8a059eba9e7f59d13e6cd6691e9c16be0430fafc547d54949385bd5e934b6694110f7427816510148a74d66f9c497e6f7433152dfe6ee1d35373d53c867dcbaf7dc27cb55ba027721e3a3d967cd5eef2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Now a Certain Man Was Sick",
+            "episodeId": "blue-exorcist-1198?ep=18071",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/cf594144020ea0fbca48eda2789d86471e3be588e792f6ab2635db016049bcd04472d0532a9233905a36e65677298d6801b9e3df603ce9da5fa540e7361fc25694de69dabd30fab500ef31134454af5727c2d9ba2fa08e0a788cbad27c6dd5462fb3adf0ee426138f121149ffdfa9e806b3cf7a954f41cb4e939599a7fd45988/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cf594144020ea0fbca48eda2789d86471e3be588e792f6ab2635db016049bcd04472d0532a9233905a36e65677298d680f7f380a1766b0497f5bf53d0c9266e86299a2ad6e2d36e4f858279000b2b066e53c1495ddebee5356c76ae2d20a22ea66267ec09180afbcbc1ec9eed6e47e8788e3aeff8de07d394c5e06ef2d1ff7bea0a5da7ae57158e7d06903f081427c9e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Memories",
+            "episodeId": "blue-exorcist-1198?ep=18072",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/93a9b01b760b73ed3de21c1adb31928681b480ffff7c6effcbc87fe0c6965480746beaf05bdacd2c06c096d9bbd2136ebdba0d432e96c6f47d60ecb0797e8da3a2678169b42a74dcdfd02de85a0d97159bac929b08826d1dd347a70e9bd2e5cca9edc0e2f395a14c85e4d04d485df867e00b85b6592c3077a492a229053d7321/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/93a9b01b760b73ed3de21c1adb31928681b480ffff7c6effcbc87fe0c6965480746beaf05bdacd2c06c096d9bbd2136eb99c5aefaac7cd190c20477bd0874fdfa7edc67fb9aa7349176eadb92d9a4a88b9cdb7c28eea83605bf8b7f7ff1ab249f0a5749b56d30fdee046df97da347656f03f5b2f22234b5fda570d3d3263d01a4537f3e81f249eab0715a31f64aa9b8f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Black Cat",
+            "episodeId": "blue-exorcist-1198?ep=18073",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a9d859e20458820f70db5f4a0355aaa42d91651a5b6e3e8bc62b9551e6c44ea2d3651888c79e728d6cdfec651d40119779d8aabd078ec95aebd190768586810b23a5a8cdd86d19a9031d62b083fadc325d572995f42a19fe274655c6bb03a810f8ea7ae73812dd3809bb8586625acf7730b5c721920d45444846639f58ef551d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a9d859e20458820f70db5f4a0355aaa42d91651a5b6e3e8bc62b9551e6c44ea2d3651888c79e728d6cdfec651d40119731f1f50c185bbf82216ec865ee8b771e9cd7f9842d943f9e8b252d2784bf3034aafcd98a5f4f6198cbef01b24d6d03b2cdbcce11626ef121565bf73f7e6c2dd95e1e5dfa3fe33472345d17192d1233f12cd6b4fdb530e166df8c8d79bef71cfb/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Demon of the Deep",
+            "episodeId": "blue-exorcist-1198?ep=18074",
+            "number": 11,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a47c034cf8f81b200ae1299b452198ebc30a73cdf599095ba56ff5cbababb5a6c83130b7be78f3718ce275fbaa4c53babeec4fdbd9b56ae2bd01f19c8816fff1124cf52d60a79eb6b939bbd058f8d55cf18fd47e6c6a5fefd987d4a8c4c9548fadea91837b673d465b54a1c9c04d880cb361ce873f24e5c2f1cc7673d1bd26b2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a47c034cf8f81b200ae1299b452198ebc30a73cdf599095ba56ff5cbababb5a6c83130b7be78f3718ce275fbaa4c53ba3dc1406d8a9de98708e5f4e9ce615d92bef3bd51ac67f183f6b43739d3723f414a0cd3170a30cc10b869ef8267011502e7f6c0205b68d64a0d56781069a210ec86e0825f17242e2e7b0f1e36e537a8a96cae5398f61ff5653490e33daf8d5676/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Game of Tag",
+            "episodeId": "blue-exorcist-1198?ep=18075",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/402497976526184f5b53ed76e7ffd55b616f78b09323de57229144675aa62c19d26528544251dab84da4b56631237c84596a0425e1b0c5a1265184e3c6b8645565301d293475615d384bb5e02ae902c2fbf03ab55da0bf50f3a18831444f5f494abee1b5a5f8545da54a78a52064d2d215dbef3dce879b9cb531028c92adca98/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/402497976526184f5b53ed76e7ffd55b616f78b09323de57229144675aa62c19d26528544251dab84da4b56631237c84b8af22ea1d6285dba66e6f8a3101ebbacd4d6acec470180957ac632eab8cb6bdace2e5f35bb480e2fd6317134083eee6587ff95099a43e9b95fdcf3a0a36df101bcaf88444f893c66b0a6c39a2e74a3845727a07b8f54261be0d9dfc1fea8d09/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Proof",
+            "episodeId": "blue-exorcist-1198?ep=18076",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/07499e3a3a36285d1e8283c61175e6639b26ff3f42337e6c7f528c1d96eca8b7eb92bc146ddf325879c22c1c4d03cac88f04d8fb4e641318874dbba39129d6b0f2c8e16342db2e93206a6fe0f664154de64781a66af12f6d12d9f95b44d5979883f103695c663f8babc86abbc1969a0ee5b070fe2b3596665387cf84095bbb77/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/07499e3a3a36285d1e8283c61175e6639b26ff3f42337e6c7f528c1d96eca8b7eb92bc146ddf325879c22c1c4d03cac85bd4d27e52d3e3f61b8ae2c7d0969b0a88d3986b9b237bc93f3756bc314a41fc59e3788295b9a4112161011049e1941b09be45a8513ad9c9ec1f0205e8af6b15b3d6679cf7576ad53f7b53c3e6f8a5070da473a199c433cf714954ccf7eac34e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Fun Camping Trip",
+            "episodeId": "blue-exorcist-1198?ep=18077",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4aeb18e67f297b2de322bf47791465c120cea3b3ce3ab475d967514d44ea4867620473bf7103f02b68c000a832925c412013927bfe2218a72580e03531fd32d353a4018759f8eaf1f840583f3c38b547b460026db0e5864348d4f97005ac9dd7214d922b8267d4f4bb1f907777923fc22f0ab1d37be879260791eb525d8157f6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4aeb18e67f297b2de322bf47791465c120cea3b3ce3ab475d967514d44ea4867620473bf7103f02b68c000a832925c41783448caaddf7635c85b2e050baebe0417408981219dc4fbf45e80265c0dc63a2d2554e43eb6c1bfdb2e15025f1940a85f667eb100d023f7be8b74353abc2c5e48c0beee72825d38c16ba6181d26377210fb8d86af5e7f3fc938aec508cbfa32/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Act of Kindness",
+            "episodeId": "blue-exorcist-1198?ep=18078",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/745acd17a8d0ec362b9790370e824b8575d04aa2c3d9ebd4121b08dec9388c77797c1a18de8fd144c75eab2f19fb6b75207ac07ef3e4b31a32fcb55d9f3c1c8392e31af32bcb98cffeba13610c4cd3092d496dc59081f467201c8b6b761e3bd8905952c2a42e0c471b9b152e43cfd07129ea52d870981fbd84e1b064778f9648/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/745acd17a8d0ec362b9790370e824b8575d04aa2c3d9ebd4121b08dec9388c77797c1a18de8fd144c75eab2f19fb6b75b40bab2b6ab1021b33a707e855aab6ba97973467e7880ffb87efa468b6e130a302e6d9b3a28efd27543d50a7c6d470492b8312a068a53b8f26011eec202dc00e9c4c1e1f6af779aebc296530f6695a3b3ed85d38fe86ca5bdfa3f3c4bf52367b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Wager",
+            "episodeId": "blue-exorcist-1198?ep=18079",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/852d1643a0d8e3c627a2ba5204a264661c869f78e18508a0b903d9597f1170443bdbddb4d079a61c3652ca3fc4765d6c47bf1c7b4b3ac0a58d1d455738c1a35a29031137e3a77c20548e4169653c359010e2393da722b3009874062c0c9d7d0bd835e5c45b536458e564e8e20a0ab82a2048ed2c7b79f2871aed1f59f2847c90/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/852d1643a0d8e3c627a2ba5204a264661c869f78e18508a0b903d9597f1170443bdbddb4d079a61c3652ca3fc4765d6c3d5d767c84a4eeccae4a2a197b1cf77c671e119ae8db77b0e0628037fa858f05f2ee9ae6af974421582ce7772912452cb085f09c9a930a477a77329c51054d21f6c4f9d5e19b1004c53d789ba2f26e8cae85b88afb7ea31b5dfc90001007a93b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Temptation",
+            "episodeId": "blue-exorcist-1198?ep=18080",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e1dd90fa307989a4c291e282ee20198514ad83f77f708f515d1d2cf89e0bcdc2a6dde65aafd240bb94c42e9463a53cbfcbafdbce53f33f0ea2ba66bcf5fcd0d1708fa14b6a5cead2463bd7d5e1422ae7895ce98cfdeabf00dcc4d5a75876604ff9854405030bc96c84f18c2847fea260600973cbdd9626a084d5a49d4ff8aee2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e1dd90fa307989a4c291e282ee20198514ad83f77f708f515d1d2cf89e0bcdc2a6dde65aafd240bb94c42e9463a53cbf870a7fc021a10c2220891b9d707f7654852577b15c6f5e44899ec5dbf40fda75179eadf12327e5d29bb377d74eafb91cbb2c3a5d881f7b335bf39215171e6be34f06b8150c3ca3108a2d06454f4f1289b65b84418d12ed0b8d210cc237921324/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hurricane",
+            "episodeId": "blue-exorcist-1198?ep=18081",
+            "number": 18,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/02c6c12d15edda294b10336e2eb05b33d35e512347a42c78bd5a012e75c3b3d05d707608b8bcc17689b298fe3f25eb68c0008859746e540cfe02aeaf3bbbe3ba10121a9f1d0298c76e137f0f2c0385281722d08cd2fdec07781bad5d943931c1c2a715ceee6f6a4f3331d68956383afc8d860b48961e89c87ac487417c1f0967/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/02c6c12d15edda294b10336e2eb05b33d35e512347a42c78bd5a012e75c3b3d05d707608b8bcc17689b298fe3f25eb688bceb020b77ca6d2cba8cf19de90846e065616b0f19135c527780f32e0c1b4fe1e1f625d56418fb5f8fa1b5553c21fa28c904399354bcf761f9f2b306608f7308cda4a24e3a31108798e079d42a83bd41e2ffa9c11bebb8a532a76935843b0dc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "An Ordinary Day",
+            "episodeId": "blue-exorcist-1198?ep=18082",
+            "number": 19,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b5296d21941508a98591d455d8e28bd7292ff10482f4798343dc0394f2910ee158f17dec99393a2964483452a762a91b18ac04879bc7424df19c9f4ffb058e710fb40f444952dd38eb0af24da58772dc3a0f6ea082a368a61d5f933e7d053a2b7466c1bab3d415e59b4c2f69c42a581518a8d8f91bfb51ecb4ba47f541614b48/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b5296d21941508a98591d455d8e28bd7292ff10482f4798343dc0394f2910ee158f17dec99393a2964483452a762a91b1dc1c66199fa6511ce81e7e696d9fadf52313cafc85bc1521d6975b9a590147f42a0fcb6a757906bdb50b615da4aceae6292bd27ed5c685ebf92dad9a76da2dcdf86055aa062c87aed317305e5cde723237a7d9cd796ebf59fa870ab901cf6ff/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Mask",
+            "episodeId": "blue-exorcist-1198?ep=18083",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e7fff59a2570d22021b82da2d2fb6f3057d8e914ad5dbcf45146bdef1a26a6d8718225e6bf6c97ba6df50b75f7548564bdc8f208534c543605165d37595b53a87aa579a662d530c67449d18e1750e73dc7f58f64ef9c16d0d6e2cadf3dd2c66f5d3f5542839c6fd6338b3bae099bba63e0c526247ea4cec0b3e251820c9aecba/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e7fff59a2570d22021b82da2d2fb6f3057d8e914ad5dbcf45146bdef1a26a6d8718225e6bf6c97ba6df50b75f754856435574b11ef4fc20a5ad71c98fab094151791e7bb3edb886e8f570aa4067769ebf745d0bae4bb2db8788cf1da8f7e38344610884efe59e18f85eaf85ca6a969d8431f07169d5403d787fe067c576d4834ab56b202a10984167c3068b6d411570e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Secret Garden",
+            "episodeId": "blue-exorcist-1198?ep=18084",
+            "number": 21,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6fe342f2c43d8d5a09a47fdbd23d0e4194ff28e891dd9d38c978fb1dcb55f36c61086f60fb972744cf79e1e97595f1ee10474f13e7652ce18bfd51882c902a150f6551ec8d1f4bb21cdd98ba0b9beb348384883cb99feb494fc0fa3af667894ffd2b3efa746a3516693d4d87c13d654c26561eb0f1ba04f8fcca790b1d985954/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6fe342f2c43d8d5a09a47fdbd23d0e4194ff28e891dd9d38c978fb1dcb55f36c61086f60fb972744cf79e1e97595f1ee81c6dac50b7cb9f10dd08d925798f40236d9e302870fda0bf4a9926abd1eb461dc32ffc5e575e2cf46ec6bfdd7438e41b8380c9ccaf34175be92880deef16dc208c1fa2a1760e3691a4ee5ff959f325441b01dc8081fea19c941306d3faf7016/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Demon Hunting",
+            "episodeId": "blue-exorcist-1198?ep=18085",
+            "number": 22,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a30177227922ffa886335a3a6a05cd2e22188b65966e3242ac636ae19849996d9d902ec084a3ed34a7d84b9793d2b31a401de1f6168525c058f7db16cf151680f65a82ce3c6d2d82aaec64323c888e8eecc30f62795f9d2338c77fdade2714f394c60b8d35962e7519cb59449e34d77bf90e7d4f04edb07427c7f43f5450195a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a30177227922ffa886335a3a6a05cd2e22188b65966e3242ac636ae19849996d9d902ec084a3ed34a7d84b9793d2b31a92166aa0bd720f147cd74f2a36e1e2147bf31ee1d53eb5a3d9b158f46207407967537f20e760bada5426ac76543580316326656c1aba6fb77381ed34e4945065e0839ecb8236bc93cfce3c82ec29a2d9294ee37cd3c330c84aefd8481a2c7199/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Truth",
+            "episodeId": "blue-exorcist-1198?ep=18086",
+            "number": 23,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d06e2c911fc4ada5c2781ea731479efb66a0d1a2ec3ff790067850d04387cdff02c87b90ee2dfa897c3aadee27fdedc4d603654e848b839302b155c3ca60d71585d35e252dadbf4b8fc96d407913ab934b0f77725606d85d1038100b30745eaa49d275ab774dff3d388f30eb7eebac2cf3c95c27bdd7546ee858e2f3db3c508f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d06e2c911fc4ada5c2781ea731479efb66a0d1a2ec3ff790067850d04387cdff02c87b90ee2dfa897c3aadee27fdedc4128a45197d7f4673c9054adcbb8a336f95996866a80789c51763abd9c5d04480d077b887b198a52661fdcd0af40816e444e6c3eafcaf092316ef8d271441b76092ad6d2f7d02f6ceba02286f51ae6efe00850bf0c965a32c08fac30e2214030a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Satan's Spawn",
+            "episodeId": "blue-exorcist-1198?ep=18087",
+            "number": 24,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c3dc78f94e03a80f2c5ea279e3c70ae8fa41e2ef2cdd27244337e0c11a6f92961e7cf7746b872b4574fd820267d9fc7276f5434164c098a07cd02adebbc7a88ae0fd042ea42c6481a028d62ecc7ddcaf0245082e8f7fe71ae29c69e7e7b822e3dc591fc7af893afd6bd4b803a45685fc0f60729698f6541d79f28fc4d84ae4be/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c3dc78f94e03a80f2c5ea279e3c70ae8fa41e2ef2cdd27244337e0c11a6f92961e7cf7746b872b4574fd820267d9fc721605b83c3d25e9b302eef83446dedad18c181dd181e422e9c4a7ecfe2dd9b0ec64ce3b6d0b328b7a3ecb4479e80deca8e27e9e3d6ca67a35ff5b54a9c02c094a06a3bbfaa33e280b01c6801125c213f1b10f0f041ae15f7c61d1f57ff4a69f2a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Stop, Time",
+            "episodeId": "blue-exorcist-1198?ep=18088",
+            "number": 25,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cb663b0ef1406195c1eee92e69b798069342094aa77deb3186149c071cedb960b931da28bbd92e93f42536ddfad8d69c18d13e8342d778e187ddc2f1f145bd020223e9eb99acd4bc760c96de8f07c21e63ad76f31e51e2654d5dbae283d086c5256d2cc162ec407bda9f9191586937210badee8d0614dfd5b8f600bb808d4fbe/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/cb663b0ef1406195c1eee92e69b798069342094aa77deb3186149c071cedb960b931da28bbd92e93f42536ddfad8d69c5f5fa73461a858503ace5aee8e556e62aee6a5afbf007ff23018f227395a8bec2864c49bc9acceb362142e7236359d6fb07a34a7ef08333c2048b0e1bcf2df23f3118e7f6413dde3a5b3f63edf4cc5415174fd930c90ad381353fef3f21cc1ce/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

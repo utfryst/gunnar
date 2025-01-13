@@ -1,0 +1,566 @@
+{
+    "info": {
+        "id": "cardcaptor-sakura-clear-card-1110",
+        "anilistId": 97881,
+        "malId": 33354,
+        "name": "Cardcaptor Sakura: Clear Card",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57811d7d1f4a0a62acb5a6b054a6ced9.jpg",
+        "description": "With all of the Clow Cards recaptured and changed into her own Sakura Cards, Sakura Kinomoto now enters her first year at Tomoeda Middle School. After her initial day of classes, Sakura reunites with her love Shaoran Li, who informs her that he is permanently moving back to Tomoeda. Much to her surprise, it even turns out that Shaoran will attend the same school and it seems as if Sakura's life is heading in all the right directions.\n\nHowever, when Sakura goes to sleep, she encounters in her dream a mysterious cloaked figure and finds herself surrounded by transparent cards. Waking up in fear, Sakura is shocked to see her dream has come true, with the Sakura Cards having turned clear. Continued dreamlike encounters with the unknown enemy and her gaining a new magical key sets the stage for Cardcaptor Sakura's latest adventure!",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 22,
+                "dub": 22
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Before Start ver.",
+                "source": "https://www.youtube.com/embed/HjdLsqei_aE",
+                "thumbnail": "https://i.ytimg.com/vi/HjdLsqei_aE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/fzKDV2qNIZc",
+                "thumbnail": "https://i.ytimg.com/vi/fzKDV2qNIZc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/FrF5qt_LBlc",
+                "thumbnail": "https://i.ytimg.com/vi/FrF5qt_LBlc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/",
+                "thumbnail": "https://i.ytimg.com/vi//hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Tomoyo ver.",
+                "source": "https://www.youtube.com/embed/7_NsZiz_Ejw",
+                "thumbnail": "https://i.ytimg.com/vi/7_NsZiz_Ejw/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Syaoran ver.",
+                "source": "https://www.youtube.com/embed/hGFXMQGu8e0",
+                "thumbnail": "https://i.ytimg.com/vi/hGFXMQGu8e0/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Akiho ver.",
+                "source": "https://www.youtube.com/embed/woda_amAJU0",
+                "thumbnail": "https://i.ytimg.com/vi/woda_amAJU0/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tomoyo-daidouji-549",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcc477022c84c2852bd073202efd034c.jpg",
+                    "name": "Daidouji, Tomoyo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junko-iwao-1271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3e2833e0a43b67d12c54b2c68db458c4.jpg",
+                    "name": "Iwao, Junko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "keroberos-692",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f3c906752fb575fad8bd02d00194f62.jpg",
+                    "name": "Keroberos",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aya-hisakawa-507",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c829f80ebf796183734ca37a45ce05f.jpg",
+                    "name": "Hisakawa, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sakura-kinomoto-222",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/17382871b4fc726ed02f9b8d2a2c0cd6.jpg",
+                    "name": "Kinomoto, Sakura",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sakura-tange-586",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da595ee23ea8e1d5888571f6921bdad6.jpg",
+                    "name": "Tange, Sakura",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shaoran-li-410",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf09d57a9db1c4d7df56862369adb8ea.jpg",
+                    "name": "Li, Shaoran",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "motoko-kumai-1390",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a4b72383e2f2daa9ae3281f53bf28adf.jpg",
+                    "name": "Kumai, Motoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nakuru-akizuki-3853",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bda7282f619113f4290a7b556e9bb5e.jpg",
+                    "name": "Akizuki, Nakuru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryouka-yuzuki-333",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/958327552733e7d2b3013d1b2c8e39ec.jpg",
+                    "name": "Yuzuki, Ryouka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuna-d-kaito-6193",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/53de5ff863b66daacdce9cf44f165561.jpg",
+                    "name": "D. Kaito, Yuna",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "カードキャプターさくら クリアカード編",
+        "synonyms": "Cardcaptor Sakura: Clear Card-hen",
+        "aired": "Jan 7, 2018 to Jun 10, 2018",
+        "premiered": "Winter 2018",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.67",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Magic",
+            "Romance",
+            "Shoujo"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "NHK",
+            "Kodansha",
+            "NHK Enterprises",
+            "Madhouse",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Sakura and the Clear Cards",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17334",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fd96ed62563a266406c9212866525d51c65dfdcb811f807bb76c2eb2086843820594c8e8c045fdf9982d8cb1b230c04ca80931a6f2768cc8d55c16cca96fe3e6e6f9735768301d83414175675bf0e1d541823415dc39e92d1ad2c9effee76f19317667080bbb15c0ddf7c9252fa8454afbc7d1350e866a8c62595d0bd9a1c3d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25239a8cf58c02a53c18ebe19d321646/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fd96ed62563a266406c9212866525d51c65dfdcb811f807bb76c2eb2086843820594c8e8c045fdf9982d8cb1b230c04c1c56eb82fc803f948aa5571f395c1efee1bcbeb339efb01a53e9fc9330ef83aae2c7429aaea10a84711992ad501650f8f630537cdaaeb2af95f9721621a2098bb3bb225658e0108a663a0b0ca07fb3361b7e458a6c4bf48a412f454c47c9157d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25239a8cf58c02a53c18ebe19d321646/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Room with No Exit",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17335",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/663e3d56040eaf4c8eea79b1851c54896289e5ea8f078c9704beda1a588aca8c093bc056d8df484d7c9546cc952810f87143f9fbfbc22aacb5d945e83b478da7bc61762b741864b8fc205670afa7f0469c5d2700e4760cfe82221130075eb778770bbfc725a02510ec494ace51f964475822d2b07d9b4a90eb1f4962349570fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e417bb8c838de6a831ac5f62ff3b1a1/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/663e3d56040eaf4c8eea79b1851c54896289e5ea8f078c9704beda1a588aca8c093bc056d8df484d7c9546cc952810f8fccc53a2535de4bb19cbc02cc4b8e63b69fcaac2b36005aabbec4569e8a5480a0f5fb14e6c44a8a33664f0a5e1c66298fcf61490e5a3798671ea7f58226c2d22691e8ff9431d391fbd552d28f7513d21c5354ec6d5922b3c5d73b0a0804e8170/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e417bb8c838de6a831ac5f62ff3b1a1/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Heavy Rain Alert",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17336",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1f96f3a2b95d2f3dcc8b0e8cb9786a005a100ae6bcaaf5340d6e52805e1902a03eb93065a657d1fc574f6dd6b7d8a6401110dbcd0f3523906705ab37f21860d3378adf1fff9daa607fc4e740f06eebdcc8474cce7dab8ff3959adcdfc5c4c536e17a7dba4d3e19a19671cfece81e68e29d5ea46be897a69d9edef651404aeb92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13c3a183e07a9a4fbf7e40cb16876291/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1f96f3a2b95d2f3dcc8b0e8cb9786a005a100ae6bcaaf5340d6e52805e1902a03eb93065a657d1fc574f6dd6b7d8a6406b03d364e7759d4b5ab2b5d0617344e735be2f2af47e5840aa8a30b96483a8df0788e17389ab76662699ac3de4b1bd2567f234f50771280599dfbe88a6bfa7a0a43969b2ce73beec4f821d79a16f1eb359cd0676c5b6359d1ec63a6e90d87867/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13c3a183e07a9a4fbf7e40cb16876291/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Lovely Transfer Student",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17337",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4e627006a1bfaf4f6475f6e7c6944b0f7b138c08c728a06979810ea90f307053310ec9ed87de03a89f88a64db089ef2adafb3bc4866b49c529eec8c22e69e389363158745a40df1bf26e8a87c7a53f8587ccba90f8fd13593e6b4837b50c62d53ecaab09ad75ab6112940b2744af2701ef2ca64aa0a92cd62d135b5a5257aa24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df07ef806c7902cc1aaa57b10aa9b3f7/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4e627006a1bfaf4f6475f6e7c6944b0f7b138c08c728a06979810ea90f307053310ec9ed87de03a89f88a64db089ef2aa1f487b0918ddd3b1f60286cd6616043fa4320213278fca370ab693589d993cf25cf157908fcd9ab67d163b15b7cd5733282fc86b87827cfffd2e4ae8e21c0d2fcc1fb419af1cd10f968fc4806fbb37595e13ee96791bb0ae70ae0706fc1a4b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df07ef806c7902cc1aaa57b10aa9b3f7/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura Feels a Pull at the Flower Viewing",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17338",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3fbd8296946c782d9c32aa6418a6b0539c47c6930ac833199cd328ebb1502aeaa3ef444a06a79dc18417d2e1fb124c113f8bb851ff1ab778b98cd35ca5bb0457bfeed3a070fe53c671c88d0849638f6be6d2cb2606fce963a534171004fa1771a20b3026f6e610da4b071e761ae628e15bf71c08e9b7bf6fad80096b4a6f9053/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3c8e23cb80698639d0239eb0a1a26b0/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3fbd8296946c782d9c32aa6418a6b0539c47c6930ac833199cd328ebb1502aeaa3ef444a06a79dc18417d2e1fb124c11e3d6215255f5568594198bcbbf762b3c1bbd461f792cf564ad72df7f855453cc1efbb9ffe314e30eef5276615d16da8a0098de3eca556aa5181a073074623114146a7cffedd63109f71a89577793bcf5b35def02c4c0259cd1974c1204c8b5a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3c8e23cb80698639d0239eb0a1a26b0/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Rabbit, and the Song of the Moon",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17339",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d202d11e9f37190072e434da79ec6f882571ea76a792e20f1dc513406bba79a87fd7a90f4815d901ef50966c439d712573a321796c76a93afc9580ed392cdb21b837c3c7acf353eaae9182124f363470edb0519f991a5ed77df385c1cbcbc7e1c7d10d7673594160504e22105d6c0cdc9da58bacbce184b9fcaa649407c8e495/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bdcb8a4e2bcb704e99b366a77c5fd8e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d202d11e9f37190072e434da79ec6f882571ea76a792e20f1dc513406bba79a87fd7a90f4815d901ef50966c439d712527262cde59c51bda1f92f57256eddaeac2d30c8c0d4088000bd55f783d6d124b212df0a78c65b11f93de168416d91b3d8455a9bd1d5d242008cb523fd5449bc08b9235e4952b6460fd29ae6399cf9e04a162af56abd19d9efd06e7a69828c6d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bdcb8a4e2bcb704e99b366a77c5fd8e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and a Game of Tag in the Garden",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17340",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4be25ac798f59a225868dc134f15c2d174828fa5640cc1016d0dab80a2ef3ce1b0849bfbb892a259a033d952dd665a5c823c7d37e98eed57ff02dd3d2cf55c0c9559fc783d7bcfc65a7371a003ef768aae2815b76626e3797c88e547c1aab26e459282b0af03bf63eab6771a42947a26e255b7e5e9ecfded3c028f7ba5e457d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984210e9ee7c7e9614ba6e028378097a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4be25ac798f59a225868dc134f15c2d174828fa5640cc1016d0dab80a2ef3ce1b0849bfbb892a259a033d952dd665a5cea475a5a2055fe3c0ccd0c8d9e8c1db9ee963e10da19a138b329f6047dce87a149a71a2fa3fc8a22929a8e5188d5a6c7fc6127ad4e2057fa4d89c825ed089a4f93e17c9a93d435d679f2665f5062715f26484b93b1ce3fbed49d7e66d2cdc897/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984210e9ee7c7e9614ba6e028378097a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Clock, and a Hide-and-Seek Game",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17341",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a0581f5f82c216c5d1b691380c0c46e28444b89a46360400bce5b0e0ed31053402540ed6571b5e7b630d525e7b4ad62d3fc1d4aeb55b08611c31060384a26128e19d95581f1986168eef8a9ca7f1abad9bddad0f7d4fc3e31e141eab7cd5bc5a7cd7409ee09336f649e30141834b6c033549d36faaf2a4725e44a604990cb1ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc4405d94237ad3004d82e7dcedaf559/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a0581f5f82c216c5d1b691380c0c46e28444b89a46360400bce5b0e0ed31053402540ed6571b5e7b630d525e7b4ad62de9840643a580b5c18013492502d72b25dbaa722d14918b0d7153f54f0be69f2456d225742f85bae35fe0ba159a26eb22d4b33755ade7cf167c067e59336dd4ab71b7df57f02d75b3867ada3c78ade3f7c52e0829c698d6eb5ad7d72b12f110b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc4405d94237ad3004d82e7dcedaf559/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Thrilling Aquarium Visit",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17342",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/39c893be14153f982db07e940082484379e501168de7c0a261b85122e47e7347b6fe9f95861ee0acc3ee7d620a73ded97cb07bf8644aea92b6abde7ff3cc270ba3b0575d409f226c241353ac6baec18a8300e4d5790e343cf1d4531875651942103904c556d90b005393dc2d777a536d12c3ae91bc62dec72a8310953255f202/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c13f0729a97091384c769c320e3e30b7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/39c893be14153f982db07e940082484379e501168de7c0a261b85122e47e7347b6fe9f95861ee0acc3ee7d620a73ded9bf332898613229a43793736a0275a635c532758c9c6a106d59cd9db6a661e4e7b6cd579f20144ba0a42e1924a0a4f6f21ca7405eea2e3a744a9f956d9fda3b836ef0fdace0f1287386059c73fcb252f0fd00be7b852e2b0662c71ae736a4d652/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c13f0729a97091384c769c320e3e30b7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Sleep Labyrinth",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17343",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f680ed47d5f70c762c7a306580709f0a8b90ed9c7d42ac54af2d76318a2c9f3c2b1b8c574b001937014efcb931aa6981c65c198cd1866c2369aebf77a621098558a46f78489c948ede471b6b7fedf45ffe5f9b8f359f8fb4d583d62762b1b4fe1a6c394c1503bc44d9bbf13902904405fe56c0e751259502ad70910dc8940709/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa5b3018c0daa31cade52f1219969626/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f680ed47d5f70c762c7a306580709f0a8b90ed9c7d42ac54af2d76318a2c9f3c2b1b8c574b001937014efcb931aa6981ca8df27e510ccd66cb4b13552c4f6982c79ce8eeca332ac007bfa61668bfc73771e52839d90be3063e43660af6124778296b903314ad7f8d7d60410237e198e2aee2d1fed8fea9dd570dee1380f83225f84b26b97b449648c42b33f3fcf6fb44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa5b3018c0daa31cade52f1219969626/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Upside-down Penguin",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17344",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1018adbcf26d9292b3798276452bf9deeea3f33fd42590ca612b0446483c4766dab3e7ce79766635739f4efd1e5e76408c17595e21be9190829c78f3307ad1794b5565c8ffe16c0877aa04c019e117e9803aaa8fc0aa28eef9a0447f42dbd0346c7856f6100c3853379cf2ca49ee5433ce928f4252cc780660a451fb9cab20ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc448a5458b8489f6662dd71a3337e72/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1018adbcf26d9292b3798276452bf9deeea3f33fd42590ca612b0446483c4766dab3e7ce79766635739f4efd1e5e764079d5fef1d394ef13fb723d1f4f4ec43b71a1ec0dd6351fb28741da229e7af4de787962a347d2af6c079fc8591e743c0ef46008cfa3e356686a5bdfa4a888322bd1cb0bf27a333c3bf7ad9afaf400a8838e002cb31c2ce49d3bacb79fca8f6005/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc448a5458b8489f6662dd71a3337e72/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Icy Ball-Sports Tournament",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17345",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f4e56b63287629213a8e1ba272c647f72e76c09f838664d73f8a4dfc61ff6a7aadcebac53d6ef18fea8e3f371f15d6b8e658762c460cef0841d3e7ca0285403c4c820531543cf43e385b0e7aef03463f6e39b496638217f22886fe520353517c1ad8f2b0e4284825bd79c40ac8b714aa8b1935fc19dd2837f9472d9973875610/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d99957643012bb6acd5877c94b4eaf86/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f4e56b63287629213a8e1ba272c647f72e76c09f838664d73f8a4dfc61ff6a7aadcebac53d6ef18fea8e3f371f15d6b83eb6b1f10ff2e83fb3a0f7aa49a12e9785697ded1746affab96fcb81dbc3e95d0dad01ee4c4cb37c3cee8dbf877f771b0fe6a350799fb9137e17d593b01334a00e7a8beaad6223bd368870ffd61af2c6fd31d825323ae5778843ca6c1db96433/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d99957643012bb6acd5877c94b4eaf86/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Welcome Back, Meiling",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17346",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/88d7d24ecf3c6a5684aa3cbacd64dddbed8d4f75fb023c92f3690100c1071d353c431e0e7526e9a990c22d6c03b2b66bc082d3c9240c2e3cd04ca5fcf84241831ec60abf370e69038125c05ef189d07a814733f87c4d274339ba2fdd09d82f737a7a3863d7f8109c5da339e88964f62b3b931c81972e3de39ba21495a8d0dd19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c789d1ae01b360fe2d7935efd77897f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/88d7d24ecf3c6a5684aa3cbacd64dddbed8d4f75fb023c92f3690100c1071d353c431e0e7526e9a990c22d6c03b2b66ba519b0e3db52a99af75a2ec94b31418926bd8cc218555e2ea1fbdc73cfc8678c767ad32a0c4787092a15d5c631e2bb80f4916a51d2c8ee7db3d643521f08254391c5487f24a4b262c147de669c068b4dd8035fb31c2d0304063e872d3103ac39/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c789d1ae01b360fe2d7935efd77897f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Shrine, and the Zoo",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17347",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a43e652ab00d8eafde9feaec9662cef812749d38da108327d530e36602b067257e6488d070063e636fd861c1338ae1ef99a8559a6c961af17443dfc9c7a025c8152c57512c366ca8e24d2e6ebfca7014ac5fde9658c677fcc101ebb1d6647160f69d997e8be828c3f63871ddfb1cd1f59f129ec826238bdcef77a8f666032a1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db29ba5be0d2d5e8028d89a51e3d283a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a43e652ab00d8eafde9feaec9662cef812749d38da108327d530e36602b067257e6488d070063e636fd861c1338ae1ef2ae5d3598442b677e6486340b6638c282ab6393c30f597a555665a22e1d0b4f42639b3762093e25735b0d8f58544bb479f2d105c9f7ea1efe1274d270300c7afc990e54078303cbc881b2498d633ec263349c98a8cb14cb5a0515d75c4e4a4f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db29ba5be0d2d5e8028d89a51e3d283a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Nostalgic Viewing Party",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17348",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f16c0b2e7b3b9d883864a1180e54f95f67d7bfa0f5c7e5d776a1a495dcaf6e77dffeab2c93f3d225bf8d67a89167a51772eee3b12be52a7d3cc625bde6962024ccd7fe008a8a2d38b437cf43660cbf5118f3f158638ec25c48470d861a91e3f227adf3ed71656178660ccb3933af641d371f2c5286faccce2b721348e0aa5958/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6b55ecb4cefa0f8e368026959b3ab95/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f16c0b2e7b3b9d883864a1180e54f95f67d7bfa0f5c7e5d776a1a495dcaf6e77dffeab2c93f3d225bf8d67a89167a517ce78684bedfca4c707b1b9be6b2eec8c2e9ed0cafb811640eaa0788c3ff238a0036f81f4cfbd8ae22c48ab0e6cbe3e4ce6790dbe74845c3d6ad1ce112995726ef0e29c8affd44a4b0cb2331c2231ee8bbf6a7e4e4c1a0377a6014fa2ba23532e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6b55ecb4cefa0f8e368026959b3ab95/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Meiling's Friend",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17349",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3f9c885ee2153f137dd28a89fd29116353b9612e6dc6762cad1783fb0b3ce28126f99300ee64fd4f3461ddd54e7bf1f70a93eab0eabae06d81110648b5269fabb8b5c5b74c1d178cc811d255d19c2969db7fb16af568791fd3e9170fa98320036c74ef0802f513856bc134461025c41c305b14d6a48e11dafbba815917901f85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/545e614f3dbeace6578d6a0d2e98f5f1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3f9c885ee2153f137dd28a89fd29116353b9612e6dc6762cad1783fb0b3ce28126f99300ee64fd4f3461ddd54e7bf1f70f2e9790c088db51469705de9f3d9e3e60ed28024b491faf0622bb6661ff63a685552ea279adb5ee96cba2ce5bb21b9ab0107759f086aae935abe69df3271cc28f8a0766395dd58a4e4b9329c2e10d50c6e21e7a1556d3127b6b9e665bc7c30d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/545e614f3dbeace6578d6a0d2e98f5f1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Crazy Sweets",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17350",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/716d73da0704fe7876911fddea7a815dbd67272eb616a8ef6e87aab5dcecda3e838f8f7d9eba90ad68738741f26c5b57547743923d976838996747776c6a7aa57ab59862f58cdd349d4fa5fa7db45419aaaa62a1342cdb94e8eeb15b5a27306654c3c3ae00c528783a31ea88e45217bdb4e0bfc9907b4750a76bddc7027339fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb0e0985b8f13a018faf11c7a1602c1f/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/716d73da0704fe7876911fddea7a815dbd67272eb616a8ef6e87aab5dcecda3e838f8f7d9eba90ad68738741f26c5b57b8ed997546cc3c7607199c2bbb75f04b1106ad015967b0d38ffd781e75b530c146427a25b187cf8f61339e81e8f440347a17fedb8a0769842f4a956299f0b5cadb103345f6ecbb6fd0c845db9adea41a13a8ecda9ecf1741d5236cd9d6e496d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb0e0985b8f13a018faf11c7a1602c1f/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Fire and Water Birds",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17351",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9f9f9ed5c0969df42898125c1084e5b2e2de223ff3929f50cc2f963b7803ba0af43b98ac6f918de7d37dd4780e5cd405bb4805b84e215a2e730e4ec91dfe8ed06ce6e1ad8751d2055c0140d84140b23ef9dbdaf966db17135beeb49f083b2059ffb850f2cfb02baf65d4675c4d61a918ed70565bd306eeb152b20f08d25277d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb221c52712e9760daa02d19fe5d992f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9f9f9ed5c0969df42898125c1084e5b2e2de223ff3929f50cc2f963b7803ba0af43b98ac6f918de7d37dd4780e5cd405c2c82ca9d5e97020127764fb6b6ec46d0153cfcaaf0b7a6b8914ced385617c784d8bbd6109dafa3bf9ad94f053b8c768098d6d1f0c49663fe1af8aaaf0788aeed9b529d0d3662893e01a84884d9ed1ff7d0cd94d792aceecacf47a26eaecd824/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb221c52712e9760daa02d19fe5d992f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Akiho's Lullaby",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17352",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5aa90ec5f7d44dbecd9da282992dcf76a1daba6ea90709bf9eeb3dc62e42006a6fe967c0b722c9b43cd631931ed995ffe23a3d22af1316910e256725e9f78d204e69b040d01f040c9728e895451d7c0e5bf776d1103317c4abff83c753334c0fd9066e7ff2ab65d377803d6f4aecefb1175a08ec818446f8995d684733da27cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/830a52dfe51ccad35eaf31d146c0eb14/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5aa90ec5f7d44dbecd9da282992dcf76a1daba6ea90709bf9eeb3dc62e42006a6fe967c0b722c9b43cd631931ed995ff68f3dd552d069730e51ab5d1f9694dddb940d2711a17c6be8bd0f681cbe60df2c45f414ecb617966da367c490825a9423aab40ae14be54d06113314e248fdd3d288d7ca52a5919ddb22941987c9cc3871afe1ec5594edeef4244ab2305221ce1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/830a52dfe51ccad35eaf31d146c0eb14/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Rainbows, and Grandpa",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17353",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fdf8ed7faff53a88a80ff76b762d65cb8fa25ac6d98d92ebddffa90209daae9efbdf85057f77d39707997846a625b69c799e0c878d0ca925c949819cc46084cc42b77e84f09663cd81b671abab32b692821bde546414d948363e83f1d8ba7dfa940da31fff30976b481c7487fb8e8e31848d6f0a0343b725c51d0bf1e86063a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19a4802b38e8a49f3971a3d8e2deab16/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/fdf8ed7faff53a88a80ff76b762d65cb8fa25ac6d98d92ebddffa90209daae9efbdf85057f77d39707997846a625b69c18253be372a17327661884f11426e042bfa33746cbe1a1d8d7684f779028e97df957967e7477910ba849af495785936feace656a0cd61550e609eeabb2b30fea75bcd277d279b938df2b6c8fb11c5cdbc021ad241ae05593142225cf989da8f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19a4802b38e8a49f3971a3d8e2deab16/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Mirror, and the Key of Memories",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17354",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fedab46fe286d421ba87224e1b2a4b0d928de02d5f374c63453653f4cbbe983b3ddb8bb3c1a2bd97b5b14cdf99e09693c61bc08467539171ee6bbde9992a059f9e06566d6a855dd68676a0e6352de2ab632f8a11bf4eed873fdd2f39feeca8d6afcd516308653f29db5f666e50e3a585f71c12d575c2801adc8cd9d7181b003b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/497e61a70233b20395ea189ba0ae70da/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fedab46fe286d421ba87224e1b2a4b0d928de02d5f374c63453653f4cbbe983b3ddb8bb3c1a2bd97b5b14cdf99e096938763824a0bc462e54e96a7bc1360392fb4b319a5e0d4da488dbab23f794aeb721d07ad1ab94aaff00af5f447bd16082fbcc2235860fc40500ab9b4fdc239b07b3ba955e6e2eb512ef7f9b893ea2e10745f2065d8096cffab58d0740788deafab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/497e61a70233b20395ea189ba0ae70da/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Clear Cards",
+            "episodeId": "cardcaptor-sakura-clear-card-1110?ep=17355",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8b23f717f216cc1a7fd1e691bbeadacfbd267f57e38060922f18955f3c73b14535b9e0496daf8f08567ac0d80bc7fe00bf606e69b629ec6af8028a10f2d2d82483591d1959ee38335d609108188c96170d18fb5d0b719ace54a476dcdbeadee2ec84d8a5cc4a062003138f36798bb7a31004d91e6fca51c4596a8340ac2f304b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a48586dbd657ebbdee0a7701f65c73/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8b23f717f216cc1a7fd1e691bbeadacfbd267f57e38060922f18955f3c73b14535b9e0496daf8f08567ac0d80bc7fe009403eff45205d97c21e87af3ae1b0446f0ba1bb522962312c02d5e203d0cfca46790eb5d3c9921643cb3b1de379af54284821739c2b6daaf7af07d5c72819d2deb4a37c0350dd3c51190d4aee7a3e0366fb566989a0374ea17ee230d136efe59/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a48586dbd657ebbdee0a7701f65c73/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

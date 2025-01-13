@@ -1,0 +1,605 @@
+{
+    "info": {
+        "id": "martian-successor-nadesico-1506",
+        "anilistId": 218,
+        "malId": 218,
+        "name": "Martian Successor Nadesico",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34ca1fdc7888c68d4471a183ccb0c741.jpg",
+        "description": "Akito doesn't want to fight. Despite a childhood spent on the anime Gekiganger 3, a Mecha show, he'd rather cook than pilot a Mecha. Fate intervenes when his home on Mars is destroyed, and he is transported instantly to the Earth, mysteriously. He has questions no one can answer fully, but follows a girl from a chance meeting in hopes to discover any. The girl, Yurika, is captain of the private battleship Nadesico, and in order to follow her, he enlists as their cook. Possessing the nanite implants that allow to control mechas, he's a handy backup pilot for the mechas of the Nadesico. He joins a crew bent on avenging Mars that seems to be composed of only misfits, otakus, and ditzes; however, in reality, they are handpicked experts. They take their own private war back to Mars to face the harsh reality that life may not always be like a Giant Mecha series.\n\n(Source: ANN)",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yurika-misumaru-7725",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d07e6dd8f3d766952c832c42c47e96e5.jpg",
+                    "name": "Misumaru, Yurika",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "houko-kuwashima-348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2c4b93c4df004d37772ded08780064f0.jpg",
+                    "name": "Kuwashima, Houko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akito-tenkawa-7811",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2ad8be6f1390713a1b92dbf4bd550588.jpg",
+                    "name": "Tenkawa, Akito",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuji-ueda-859",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/74418df652b7fe8a63ae3a7b1ae18a4a.jpg",
+                    "name": "Ueda, Yuuji",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nagare-akatsuki-48512",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bd40abab63a13f8d2f22635276ed73d3.jpg",
+                    "name": "Akatsuki, Nagare",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryoutarou-okiayu-311",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/32a5d8d9910fad9a37893be7da47207e.jpg",
+                    "name": "Okiayu, Ryoutarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hikaru-amano-20141",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b768e6e0cc214ff82bb6ab528ac329f9.jpg",
+                    "name": "Amano, Hikaru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "cynthia-martinez-1786",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d0f61c0cb9373ef575be732e4d9200a7.jpg",
+                    "name": "Martinez, Cynthia",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "jun-aoi-48274",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e9c63d319adebc30dee09ada4086bc64.jpg",
+                    "name": "Aoi, Jun",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kentarou-itou-665",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a046dd98b792d4fc1a91c8778207e1da.jpg",
+                    "name": "Itou, Kentarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akira-daichi-87686",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72a069386509d37c81c2b0a32f3ebb0c.jpg",
+                    "name": "Daichi, Akira",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "nobuo-tobita-1237",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/698ec1c10ba1537a9003065298a62cc4.jpg",
+                    "name": "Tobita, Nobuo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "機動戦艦ナデシコ",
+        "aired": "Oct 1, 1996 to Mar 25, 1997",
+        "premiered": "Fall 1996",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.53",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Parody",
+            "Romance",
+            "Sci-Fi",
+            "Shounen",
+            "Space",
+            "Military"
+        ],
+        "studios": "Xebec",
+        "producers": [
+            "Starchild Records",
+            "Yomiko Advertising",
+            "Audio Tanaka",
+            "Xebec",
+            "ADV Films",
+            "Nozomi Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "To Go Like a Man",
+            "episodeId": "martian-successor-nadesico-1506?ep=20823",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bbf64c82ffe5403fda559471279476c718348f53210d41f062ee03baf6b84e4028c4fcff415b74ff08d20a1902379f9c2d4ff24088dc809ad4616d8fa4e09e6d59b2be5eca3f6105e2fa40047514ec57cc5a556ecf1cbbb0dfe31d2706668ad63bc0dae1577a2a60a29823c835e2c512ac9124a90292530408e588298eb5e65e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70407c80826ca04af88c04d14192643a/70407c80826ca04af88c04d14192643a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bbf64c82ffe5403fda559471279476c718348f53210d41f062ee03baf6b84e4028c4fcff415b74ff08d20a1902379f9c4ae36720106c4c87f8d23a51fde0efb488a1d79c47b334a32a0e36847a446b8bd1607e3f00bf7606f523792fe675e43392317b03472ffb9931eab919281fd5a7930be20c40549a5ba0627d93b3d943c3612211ef4b1b86cfcb493c233d55f095/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70407c80826ca04af88c04d14192643a/70407c80826ca04af88c04d14192643a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Leave the Blue Earth to Me",
+            "episodeId": "martian-successor-nadesico-1506?ep=20824",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/814f488c8545dc38a06eb792a25b5025914467026baa35e489dfac9ad4fdb48b1e7dda99304deaa1af0817d6c71fd37f1072ab15bd35c9e25bbb6ca52d3beefc5417338393b6b9bf6ecffb97efcdaddafa549b5f22c9de97c9ecf7ebe517a24d4cf1a059252e213258b8bee6ff8c220b5cc43290a53e0b0153288bf2a311de99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ab3cda0b140def1c950604459469269/4ab3cda0b140def1c950604459469269.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/814f488c8545dc38a06eb792a25b5025914467026baa35e489dfac9ad4fdb48b1e7dda99304deaa1af0817d6c71fd37f1f010c13dcbd1c07336dfc462492659b5fd91e51d907659ba1176e073815f40de823b7100ddb5a56d3c627313bc779c72052238cf6e758260186ef0c67b9ee66f2b35189fee6d2e5f8a9acfca19a47194c580d574ab0d001978860459885d447/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ab3cda0b140def1c950604459469269/4ab3cda0b140def1c950604459469269.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Goodbye That Came Too Soon",
+            "episodeId": "martian-successor-nadesico-1506?ep=20825",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8391c4420d7e6e2733fbb9bf97a01283fe7f328472cf94dc2b24efbde6f95e8ae46e0e0890ea0716ae896acc9b5a5d7c66068369a4b218b47789dd87ea4f105d62316c2aa1b27a9cd66dbf3f663bdc49ef9e7109ec29a9562e944b9606caf3927272c88c75fd1903568c2548bdb6d6f025efe8cf1c2ee5f284cf985ae13daac9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f6717e13964410c06a666b5366372cb/9f6717e13964410c06a666b5366372cb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8391c4420d7e6e2733fbb9bf97a01283fe7f328472cf94dc2b24efbde6f95e8ae46e0e0890ea0716ae896acc9b5a5d7c566aae4e510d3724653960599abf420c16b14ebcbdbd2c69b321970b893501c2b59bb49c48da9f032b83b4041f239828a7b8ef64e6c38ba84e4a6e1a28c829a588e883669510aa2f68e48247b710fa9fa8fe19c142430245101fbf830a156785/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f6717e13964410c06a666b5366372cb/9f6717e13964410c06a666b5366372cb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Charmed by Aqua Space",
+            "episodeId": "martian-successor-nadesico-1506?ep=20826",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9160b6449185ca944eb7ffc6a76f9748a52debcd1d135767a43be8384e4fb43c34b6e093e3c2b46bd0176bc587fa2beaa6d855574b66756a43d2f135ffc07658bea04c7583e386b6e181a80a9696f4f79b247de8478185832a30077bbb54f6026e2281d3b2bb900f52660bfb090d729b78dd9357e703c0e8594cc16c1521d73b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a662c77585af799cba93d35f5d549e07/a662c77585af799cba93d35f5d549e07.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9160b6449185ca944eb7ffc6a76f9748a52debcd1d135767a43be8384e4fb43c34b6e093e3c2b46bd0176bc587fa2bea30de5b1b1ecee2151533f7650d825f7f428979b69e93d2a4ee45ca09aae7f9ef6d02ac6f525a8ae659a5913867427b6e02dff82f0d2e33e53033a3a0975c2f1003949b632ab2c14a8cb4e2354ec73900ff0a2c8cf321939500887e5cdeae0145/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a662c77585af799cba93d35f5d549e07/a662c77585af799cba93d35f5d549e07.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ruri's Navigation Logs",
+            "episodeId": "martian-successor-nadesico-1506?ep=20827",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f28d7ccddc476d8edb20035e213f01d1c2233be190c52efc7d7db7aad4b8facdbde2c99cc38604ada92dad478b929b2a99c5bd38aa65d031b0ed31d67f11a4ddef83ca5b4d3dc32bb674c28de74f25e3826de990716abb84a991dd53087ebd9addece4ad593473ca0149f6538a13728c5767ed4d012c2886a15dff1ccf701486/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c3ddbd589877344e3ea59caff636248/7c3ddbd589877344e3ea59caff636248.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f28d7ccddc476d8edb20035e213f01d1c2233be190c52efc7d7db7aad4b8facdbde2c99cc38604ada92dad478b929b2acee8e9a3dff8ee24d6393423211e821f845920e8c8f69ece7b5a1cc82a46f2cad539411842e4b50661476e2dd686fe1c11b169d16475a020e04c7134da035cc86d9ae2f0924969e1471e8f35f22f067a68dc411e0f4cf328bffd0b2fc82440ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7c3ddbd589877344e3ea59caff636248/7c3ddbd589877344e3ea59caff636248.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sort of Like a Fateful Decision",
+            "episodeId": "martian-successor-nadesico-1506?ep=20828",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/52b5dee0d2f0697f3dcbaa96b75728644ce0e377fdef7d2e118fa7173ec42c0cb7c89b5e35fd0512bb47b13b405fa594f4b469aaaea335876133da243f1426651479bb4d13f9e4cf7d891739cc2fe5040895f3bfed4bd3f385844f585c706e02077f115d810a5ddc3caed0ac7f3fae1dbcf9ca895f982b0122d51ab8bb34226f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/caf1a323894dd7a58312cea6e8961e61/caf1a323894dd7a58312cea6e8961e61.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/52b5dee0d2f0697f3dcbaa96b75728644ce0e377fdef7d2e118fa7173ec42c0cb7c89b5e35fd0512bb47b13b405fa5944fa3021a0f2c4c6c6ed704c0a866f97c27059c8bcc4774de7fedc25b60f0f1019c15aeb328f356105f5067411db499a140a9d6eb6d753cec94790f0cd77d7823d80d0b925ac1cb9e63c37d3285599e51c724ca2cac1cac2708475a305fddaf38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/caf1a323894dd7a58312cea6e8961e61/caf1a323894dd7a58312cea6e8961e61.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Song That You Will Sing One Day",
+            "episodeId": "martian-successor-nadesico-1506?ep=20829",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/88d84f51942a69955bf6aebf304499b9ff603e4d2f9a89586b06409be3f28e66d1fc41acebb77344b967cc223124635745884582384784878e45eb945ba10074afb18e5b71402d13efdcf9c79ab8c1fd09f053f213f798bab99e4fcced2e8e679d72c443c7b946dfb880364034ea87ff052e8581d92d5904df9fce7ae09f94d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1a70f462ad698b36cd0c61efaa0555b/e1a70f462ad698b36cd0c61efaa0555b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/88d84f51942a69955bf6aebf304499b9ff603e4d2f9a89586b06409be3f28e66d1fc41acebb77344b967cc223124635701f526896739f07ea68e4a1dfdb57003510352220527a0724f47b8699ca241582e2a268d22e83ef17cb53689f4c94304b1cf5091f183c69f98ab3f5b031380c5bbcf43d8daca08f452d065bd966b7464ca5474be97e297cf040d33b4615d5ff3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1a70f462ad698b36cd0c61efaa0555b/e1a70f462ad698b36cd0c61efaa0555b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Luke Warm \"Cold Equation\"",
+            "episodeId": "martian-successor-nadesico-1506?ep=20830",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4a086fa25489fe1cfb20c04788ee969d78480532b328b77dd39dd9fa745f28f7ea908cdb11a42125db7b50c894e017a0105d1aa4279dcf85735f81a020cc227c53c8404f19bbb6b7a65b1f68125a74be252d9b0b8bd0c4a057169eaad50a8a81197bc32b10282b38df4b3be860d141885c7b6f10df6141fd4f8592d9553f586e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffd66934f8a9774a170a80cdbd85702e/ffd66934f8a9774a170a80cdbd85702e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4a086fa25489fe1cfb20c04788ee969d78480532b328b77dd39dd9fa745f28f7ea908cdb11a42125db7b50c894e017a026ff29836fa87f6e088e04cc18e8fc1399a40a1ea83a1fc1be26cb4d0de776ccf57ca993b347969c352943309c34b2c9df8abd88bac3245631cb16b7911f3e267c7677a27912033ff638aeb6eaa9996656883e487e18fabfa7bf90db7c42a37b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffd66934f8a9774a170a80cdbd85702e/ffd66934f8a9774a170a80cdbd85702e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Miracle Operator of the Kiss",
+            "episodeId": "martian-successor-nadesico-1506?ep=20831",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/bdb7489dcf21af6ff97ed50015a7aee83ebb93765aebd026276c053f33a44fbc075ae18097dc53230c1325b7d41d8ee7f34749be019dbd93e88ff153c5e9287eff761c01de0bd61b9ee2523bd21ac224f39e5e65da194f209d597e27a0db438a2de924f5f304eb93d83895ccb82f362a745ae6c3b0a17aef593234a2e72773e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b5d7e3fafd7c572b6d1007d3b202d99/3b5d7e3fafd7c572b6d1007d3b202d99.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bdb7489dcf21af6ff97ed50015a7aee83ebb93765aebd026276c053f33a44fbc075ae18097dc53230c1325b7d41d8ee7d8323c536309caf7d283d0d8d220f594a1f221201ace39cc4b104925ee414a9b71b99c3dfd3106c5e6d852ae48caec7084e21ae68b0371d03f9c2747e9755ffa68e5f7a9776e2d298c193a5af3fe105da90b6e09c6f501c988efa8b07054bd23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b5d7e3fafd7c572b6d1007d3b202d99/3b5d7e3fafd7c572b6d1007d3b202d99.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dangers of Femininity",
+            "episodeId": "martian-successor-nadesico-1506?ep=20832",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2f3e7f6fbd0beb1187fb7405614e310b8022271c72d8f64876d674e3e862b850f7cbe6b83581c6d87596f13188341cb153eee52871cbd312da2655c21cae52f70e74051c74c3080a91af6df4e8cb18875753a925076f1160fedcd2f299cbb73dc13ed5081d5a95632c65bd2539f8b66ad21d2b3acce76edd746a5c957868b638/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7322798dc1ecdff8b64f9886bd9f58ad/7322798dc1ecdff8b64f9886bd9f58ad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2f3e7f6fbd0beb1187fb7405614e310b8022271c72d8f64876d674e3e862b850f7cbe6b83581c6d87596f13188341cb149b93f1507dffb4c2d4beced531bf067fca30c0447325e3f0dd0f1ba3fc5010cb11d734ff4c17af5f43a31d59fd443fb8df5d0ac09a85950d44244e2b25a0c4bf5efe627ff4153692edbb2219bee1ff034329ae0ffd76850924c6fab0cdf5354/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7322798dc1ecdff8b64f9886bd9f58ad/7322798dc1ecdff8b64f9886bd9f58ad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Finding Yourself in a Routine Plot",
+            "episodeId": "martian-successor-nadesico-1506?ep=20833",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d4cf26d83433ce48d3313182265f87aaa28f8f0922c83cb182c5542bb609d0ad8ed4da2dd439c68710e67f6e75c041d245ae42e388fcb8ae2beaa4c7aadd8c295b66c2942c4a561f4302504b9f3dfd708c41a5d0afffff4a6fb644c088f12f122af8f2c81cfe11f652901bba26a1bf5069b7db5c1fc14bc65e51bea6eeca4f1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0152dce3e3f62f48c64bccb99bb8fd08/0152dce3e3f62f48c64bccb99bb8fd08.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d4cf26d83433ce48d3313182265f87aaa28f8f0922c83cb182c5542bb609d0ad8ed4da2dd439c68710e67f6e75c041d2be2126a94dc9cff5f3a062ad1e3905166d3c72b57c5dd92bb3728b4798a4c1d58873cc77a44f460871f15382e696b72dd60a1ca08cec414f2c8b2ebcef1f7aee4b07add4cc1f425fd785d9a45bcc882df1548ad162309f4229826f286492f70b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0152dce3e3f62f48c64bccb99bb8fd08/0152dce3e3f62f48c64bccb99bb8fd08.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Those Unforgettable Days",
+            "episodeId": "martian-successor-nadesico-1506?ep=20834",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/adf319a600a78248a75d53d0e5c2caca1f532a98957365095c507fe5a1018db0a8bd7884cd4e6f6b6d6061421a5f1793d0794134412e386bfd44cd6fb68eae26b56a772811ca9523261a650862ccfaa514e2b11e0d258a264231671936aa60c8b38811a224273379224dc983f6e1b4a7f26b68600d0f8f0857fda8017305db85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97f773ba33ee079ee6fd91981c8747d9/97f773ba33ee079ee6fd91981c8747d9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/adf319a600a78248a75d53d0e5c2caca1f532a98957365095c507fe5a1018db0a8bd7884cd4e6f6b6d6061421a5f1793c3ad1c007639c76fb887b31b2a0f48e7cfe9cbb44943ba54bbfdc5b508fdd4548d1a5d56a31bb18823a67d07ddf2ee09235227c938dd682eb599394d363dea6d68babc8f8c0f6cfea53b14b419085bd7db43ecb92d70bcc2c87346583ea0e350/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97f773ba33ee079ee6fd91981c8747d9/97f773ba33ee079ee6fd91981c8747d9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There is No Single Truth",
+            "episodeId": "martian-successor-nadesico-1506?ep=20835",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6a37bce01cec57bf06d6617c58d1919b028914cc817f53331bac19d17de1a1cdea5da134d3faaf3a317f26b6ac1a0c09ba76f30d37e29df7764e03d812d38d4773014a046bd61f134c085f115814185ee3cbc589d5c4891553bd22142cb332242464eb4a6cdfc76e2418fc305fa60a3a6e69dee388c8837443c8cf4a749fb753/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58a84ac725835c416991a539c00bcb60/58a84ac725835c416991a539c00bcb60.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6a37bce01cec57bf06d6617c58d1919b028914cc817f53331bac19d17de1a1cdea5da134d3faaf3a317f26b6ac1a0c09f391180993488141283684f4a1786fd701e4d87dd35766546a82ebaef1a224995b95a618f049b404bf3e1912f2f488b7454ea8c1ca29f0580554331cd5f3e7f20fc1d740f5763b58030133b13093f64f441f3b61a0680c6cf9db6a3732dea205/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58a84ac725835c416991a539c00bcb60/58a84ac725835c416991a539c00bcb60.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go with Hot-Blooded Anime",
+            "episodeId": "martian-successor-nadesico-1506?ep=20836",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cec6cd19f9806db1114dd4ae11b253ab197558f7eeaa682c98bf0f0e0db88a7400eb001eb5e912806855783cdc2e1ef8e0cace6efb82876836b42f2928d820a625991639599e09ed787baa9f39e8348ffec9fcce2b30d56abb1dbe5d9e631a9d2209c20e29b914b1ef145c1b41dae1fb63a5470e733d2eb5ca0d73b6b51f73cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b71cde71e3a605d51e3f3bfb1a5296a/8b71cde71e3a605d51e3f3bfb1a5296a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cec6cd19f9806db1114dd4ae11b253ab197558f7eeaa682c98bf0f0e0db88a7400eb001eb5e912806855783cdc2e1ef89126da25c2ed91432a3ca49da6d08a0df9ef0cba902271f15a066400fcdac60aa8b04bde7d04ae1ad29c9c2ebcb29e4a6696d218bc351bc288938c5918b23e51908d8e5216a6db45ea3cbf038e416919a221a8700bb02e609daf04d3eebbed82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b71cde71e3a605d51e3f3bfb1a5296a/8b71cde71e3a605d51e3f3bfb1a5296a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Significant Other from a Star Far Away",
+            "episodeId": "martian-successor-nadesico-1506?ep=20837",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ee9f07a989c77e56a93cad1f18a23a1add9bc62b8e6b9ce44dbfa5b3a541cfeb7349f097ccc750a4db258e7c1ce3722d92a0341fb7966cba99a0145c51d9f7edcc9dc91f531fdb3bc81f6ead4c87bf6d911de0729dde76fa50dcc6532fd2a367415f88e0b51af2be186870103cc97e472ee3cbb7fad2a31954a276bf64248c57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a58c0183ae52b08795a3907a0ac10d1/8a58c0183ae52b08795a3907a0ac10d1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ee9f07a989c77e56a93cad1f18a23a1add9bc62b8e6b9ce44dbfa5b3a541cfeb7349f097ccc750a4db258e7c1ce3722d4e308d1609b283ea0fe71b65b60fe8d2dbaa0f2497232b17f7a71540a41e9b6e80e9f1ba9def40e7609e00d34fe06ba4003969e6b3868c7e5c6bbfb5eafcd0960be6c04809a78f59ef461a1bcc97b49ab9f9fe3f27dd857c09dd9272d62c1e99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a58c0183ae52b08795a3907a0ac10d1/8a58c0183ae52b08795a3907a0ac10d1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Beginning of Nadesico's War",
+            "episodeId": "martian-successor-nadesico-1506?ep=20838",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/dbb0187ac1104c71a33d9555327ec5c8a70452f8771dcbdec3b9260abb1f61053d09aff098fed8b3ad7ef2190bdcd88b15d1fe8fdd6aaaed5d7ab4bc3020ba3e730f1a72d33b87d2cf19735dfaedb517ef1e9165db91c4d0bdca357215a55aa7aa515b6465761db0bb6bf7634cecc7bacb337e768d412b28523d5de2fd99ea86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90404f1978fb95864a7805436566ae3a/90404f1978fb95864a7805436566ae3a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/dbb0187ac1104c71a33d9555327ec5c8a70452f8771dcbdec3b9260abb1f61053d09aff098fed8b3ad7ef2190bdcd88bf1798a7dde425a28f93794795501185bbc701f4cdefe5e55a754034d7839e41e0aaf9253f3989c6c751197a9ed3449d80632bd87e660da972463411b69cf020d6e0db27fe5a58ca3499e4300f23bf1e546198ec19e2a3505f36b4e69ae036087/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90404f1978fb95864a7805436566ae3a/90404f1978fb95864a7805436566ae3a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Reunion That Came Too Late",
+            "episodeId": "martian-successor-nadesico-1506?ep=20839",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1377b24b63a283659d7844522c4b707ddf365caa38b80e97772f887ce084b1d27f2e45276640f3a547ed576f30d76e73590535926db1cbebf069a67a49e0ed3ec4e01939c6c2c62b6fa60a86d074ef0f8fa096e477f1d1558c7b2a85b5a272e26dbaa7f1a8df76208cdde6b033dc1c3d700beeee5eeeec420bfc0f6bac4006a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f55583191cec8d066e3bb0ce2ec9ed3b/f55583191cec8d066e3bb0ce2ec9ed3b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1377b24b63a283659d7844522c4b707ddf365caa38b80e97772f887ce084b1d27f2e45276640f3a547ed576f30d76e73a6d1f4ef6a30d1c2982c6f6d965d61242b8c898c5c683aefe8955c0524d938112490954f42993cfb4608dc68719389abe842d8975963564a9c0bb567a9619ae497bc8161619a20d3c80e36d1de1c4345173a22987e4d75e66dace0264c7e56e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f55583191cec8d066e3bb0ce2ec9ed3b/f55583191cec8d066e3bb0ce2ec9ed3b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Echoes of Self, Echoes of Water",
+            "episodeId": "martian-successor-nadesico-1506?ep=20840",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b3e51aa0e7207c19df10b8727d844ec39adc73cf820661d0d3b0cb19309ed8cc67498c5244ef101b072bbc979437fd716c6f5ee74e19cacb29e5e97f42ab2ce38f7f149a90c9a02b97d18990f455f57af223a1df445a2070deee0c13497af28c49649bc3c8d9d533f04596d2b381e1faf39486829c0fe2252b0eef8552f28ecd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83490f94961104beaefbf1ee27878e34/83490f94961104beaefbf1ee27878e34.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b3e51aa0e7207c19df10b8727d844ec39adc73cf820661d0d3b0cb19309ed8cc67498c5244ef101b072bbc979437fd71929af45b882e4fcf2c011714a7ae24bfb8a29781009f10099c2f864a6d080f6ecccfb040cebbd043b162637e1959dfe6f35a76f54f57b7c4e0a2441f508515eb4bc7c3ce95ed36c266bc823f722a28f2bb3f65d5bbee1dcc3c6e9a278200e29e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/83490f94961104beaefbf1ee27878e34/83490f94961104beaefbf1ee27878e34.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You're the Next Captain of the Nadesico",
+            "episodeId": "martian-successor-nadesico-1506?ep=20841",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/19ca47d1dfcf4ca82f9b2b1a381d623f24447977ccf0a38da5abbb83c9b1faa0a3b3c9064bc372ca46eea70eddb6329077c19047d0c8de6d966e14241be04cc8037284c17f389a4f954b814d570685b57398b4ba861448a39f122e8e5ea7ed7b43ad279f957df8472549bf6be5ad73a45ae91b5ef5e713043d62ffd0bcc03092/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2a709320500a18b74b220bdc4fd3c5f/c2a709320500a18b74b220bdc4fd3c5f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/19ca47d1dfcf4ca82f9b2b1a381d623f24447977ccf0a38da5abbb83c9b1faa0a3b3c9064bc372ca46eea70eddb63290813ad1cd655cca206ddb48b242b71b78b4dac510fa0ca23624ed65c3009cc25d40b4e1234f15db5c525e76530d51b26b1370de30804d5dd7673ce899f10b0c26fc369f50df2c256492f3f3472cb0f2a8c8580634d1725cc68ae8db69fe44ac4b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2a709320500a18b74b220bdc4fd3c5f/c2a709320500a18b74b220bdc4fd3c5f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Run Silent, Run Deep",
+            "episodeId": "martian-successor-nadesico-1506?ep=20842",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/e58c53ab8a78dcdb706293986e5a0adbb7516984826e079d6f591d0dff13531853fc691dd6afba17397a369a9056d708fec434a580ede22d51d1fd4996b1d9e3caeca5bd804f577e0804fe866e82724338ac89041e386bab4e64efc7f182b5e0abe5b54982aae0f0255bc2c13fc496765838706521f94de90f286a2b677e3d7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7ac2c04b1f59756fabd72860f67c339/a7ac2c04b1f59756fabd72860f67c339.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e58c53ab8a78dcdb706293986e5a0adbb7516984826e079d6f591d0dff13531853fc691dd6afba17397a369a9056d708f1fa9b57d5c0222723ed71bb7adffe714ac3e11122d0c862f5e3e7c035227cec186f8f3c28e1ff2091b3be03c633746e844a9e0d2923264e8cbd9fc5474e12fa3ca135bec00adf69b5c4e8f59caa380b0018b77b681fff6a7d4f155c7f73b7bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7ac2c04b1f59756fabd72860f67c339/a7ac2c04b1f59756fabd72860f67c339.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Meadows We Once Ran Across",
+            "episodeId": "martian-successor-nadesico-1506?ep=20843",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3c95ebaf7c5ca421dc366c4396c6ade2c2a6dbcd8c2a0fff8e33f0169a340179aa138b7cbd67d2668ca2891cf78f5da135778da7bab3712b910a164b25a8c34e112799370bba36145d1f42c192642bfaa15fc0fc630c39c89456f89558edec99e595d3f26fcfff2c2ee71d5a43692b3f95874337b037e255633d3d734a9b287c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30bbf0cd41a1c32c859d1feb7d6cbe41/30bbf0cd41a1c32c859d1feb7d6cbe41.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3c95ebaf7c5ca421dc366c4396c6ade2c2a6dbcd8c2a0fff8e33f0169a340179aa138b7cbd67d2668ca2891cf78f5da149aeaa6f39cbb80b0d3d5718824087c9891fae2ea73f59669c25b109aae6b806ef209251dc60075963802833155735df3ddaf879790862d853b67813f15cf24e507ad1e3e7402a7f49c3e9de3d4b522f4bbd67fa47276ca1f6dc754413c81bfc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30bbf0cd41a1c32c859d1feb7d6cbe41/30bbf0cd41a1c32c859d1feb7d6cbe41.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Protect the Visitor?",
+            "episodeId": "martian-successor-nadesico-1506?ep=20844",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a82bd67b5fdf899e8720cdc064f86d2333b16da3437b1892c693c5689783cd9d5fb2af6b0642eb445f31476ea3ccaad3897ee7bae0bd67c7201d080a90ad1c1247ec9914f0416ee4a0dff0314fe44f358adb81db6e31cb25e628f1ed54f967cc8f5aa5619d029c39438aaab5706f6e707c3d08b5966f44355c12b64f4ea3f678/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2793b40da2fdcf1152d44eaf422de34/c2793b40da2fdcf1152d44eaf422de34.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a82bd67b5fdf899e8720cdc064f86d2333b16da3437b1892c693c5689783cd9d5fb2af6b0642eb445f31476ea3ccaad3e410b6cab0bd7eb777ffc6f74a3ef657ba1387beba1760691ac9b286b132c98e7ef6893e8198b377401e067a71eb1e5234b8852fe5930ce18fad31e5d4846668b79801b5e3a3d6b83f6dc7a42bf77f6130175d909b69d66c9f7930943d4a43cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2793b40da2fdcf1152d44eaf422de34/c2793b40da2fdcf1152d44eaf422de34.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Place We Call Home",
+            "episodeId": "martian-successor-nadesico-1506?ep=20845",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8bf14bf233038a129bd3b4e9568e63c33961554ae15f4f241844a21ec8ea9a3709ec0ffbdd5e089ece934aae0d9d92ca7f0befd31912200db448b63a093658c67fdb33868f61ac964291a52867dd395ce26f066e1c45371c2ca96be5ebd5ae1d04eaea74f918eabf78ded2522c6ea6925b3a8fb35955d40f039f7ab89bb5d1c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa3a485c4f6c43b4c49aa68786a8fce4/fa3a485c4f6c43b4c49aa68786a8fce4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8bf14bf233038a129bd3b4e9568e63c33961554ae15f4f241844a21ec8ea9a3709ec0ffbdd5e089ece934aae0d9d92ca0428bb667195ad8e2a0845be0a145a3618a5256e9cb61baa84f83b51c8410af30587e5f9d2bbd07bfcfdb5adb8170d13611f3ee35214b382693c3a4d8b50daef36527cbc29866d520a4c3964c3df2bfd33aed1865565be51261a1a3580600e09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa3a485c4f6c43b4c49aa68786a8fce4/fa3a485c4f6c43b4c49aa68786a8fce4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ubiquitous Righteousness",
+            "episodeId": "martian-successor-nadesico-1506?ep=20846",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/db0c598469c7273b2978a1e506c829a3fe2e4db7ccb8f1539d2b97a463f25879c98fd351c82dde6990976fad03950f61b95430d4a06b8063de5d5f30c979f8aebb84d39e6daa84fc08c36ff92ba213a2d60eec544cdbf54eb04fcf2d89511f7934465a2c10ab9484a8d75dfa3d068f0ffafe2591830e48db8594e9c57524f27d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f76a3ce01f762dea1142a01655b055f5/f76a3ce01f762dea1142a01655b055f5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/db0c598469c7273b2978a1e506c829a3fe2e4db7ccb8f1539d2b97a463f25879c98fd351c82dde6990976fad03950f61ccb49862309a8831b3844a6e94c72f35b5b83538dfcbe0ece53663f266586222f5aead6ccb59c524c6eca7a7038ee877d48fa87c7d7af38d823d3aa4da885906ebfb7a64d940c130a68ffd6929c208afdd397b2c47e4603c4eceb91162a1a31c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f76a3ce01f762dea1142a01655b055f5/f76a3ce01f762dea1142a01655b055f5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Being Myself, Being Yourself",
+            "episodeId": "martian-successor-nadesico-1506?ep=20847",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/be0087a786ae7684c23470815b0af2b4e6a31c852f9a67dd93729f3eb483d103cb91a6247a2ff1eb7f18261be32f53920061b827f398d0b41a25b81f630ffb24b9e02f1c2c722c14d309acfab184c34f3185cba3e50c030dfa6295e2164bf5b87884f7109fe0f20df658a0b27347b292052ddf35de0b775618ef9616cbcf9078/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3e660ecf15e58276603d5ecf9c54088/a3e660ecf15e58276603d5ecf9c54088.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/be0087a786ae7684c23470815b0af2b4e6a31c852f9a67dd93729f3eb483d103cb91a6247a2ff1eb7f18261be32f5392a200be3ffef491ca3b92067b9a76b437f0d55b8ce877c4bd109751ef88c2ca1a201ad4962762913fabf795c3294a4668e3f9c760d5914d92fca93e635bf697f3b7766d1f02b000af537131878847070329d7c2495685cfda836a9533d3dc1523/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3e660ecf15e58276603d5ecf9c54088/a3e660ecf15e58276603d5ecf9c54088.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For the Lady We Will Meet Someday",
+            "episodeId": "martian-successor-nadesico-1506?ep=20848",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/57040dcb4986c83fb5eda1fabac1bd0c408a3fff8fdc70dc629e3b4f2b9bb98be0ac09a3b255c559c7a72de462cee0b28dee609be591d1c0f7490bc0578963d29ed824fd80210eec709e5651cd74b0aff550d454fbca2214268d4a75bb9d524b1320935536810818e1c6e66c8e1a5eff092f390c607f5cbb1623a39abda3322d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/987771fdcc2df4e090d36accf831d925/987771fdcc2df4e090d36accf831d925.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/57040dcb4986c83fb5eda1fabac1bd0c408a3fff8fdc70dc629e3b4f2b9bb98be0ac09a3b255c559c7a72de462cee0b2e668f2f2837e069fb419777d410bb8aeda0fa23b622baadb1e4b0c107aef0e6c82ea6ff6ed028e654f95bfed41cd168b3a5d9abaaf912072dc666061374dfc64adcbacfd086ca5e358aa52b49fdf77438c7f9b1dd0218cc909ef9014b6274c8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/987771fdcc2df4e090d36accf831d925/987771fdcc2df4e090d36accf831d925.vtt"
+                }
+            ]
+        }
+    ]
+}

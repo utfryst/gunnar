@@ -1,0 +1,624 @@
+{
+    "info": {
+        "id": "the-future-diary-1281",
+        "anilistId": 10620,
+        "malId": 10620,
+        "name": "The Future Diary",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/457a5555855a6d8217991812c53a5216.jpg",
+        "description": "Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant. Revealing himself to be an actual entity, Deus grants Yukiteru a \"Random Diary,\" which shows highly descriptive entries based on the future and forces him into a bloody battle royale with 11 other holders of similarly powerful future diaries.\n\nWith the last person standing designated as the new god of time and space, Yukiteru must find and kill the other 11 in order to survive. He reluctantly teams up with his obsessive stalker Yuno Gasai (who also possesses such a diary), and she takes it upon herself to ensure his safety. But there's more to the girl than meets the eye, as she might have other plans for her unrequited love...",
+        "stats": {
+            "rating": "R+",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/cOmW9c43QkA",
+                "thumbnail": "https://i.ytimg.com/vi/cOmW9c43QkA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/52P0DM-JDMg",
+                "thumbnail": "https://i.ytimg.com/vi/52P0DM-JDMg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/PGgj2mZcn20",
+                "thumbnail": "https://i.ytimg.com/vi/PGgj2mZcn20/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "yukiteru-amano-1036",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f5c42ae51b0ae6f7b7afdb59a863360.jpg",
+                    "name": "Amano, Yukiteru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "josh-grelle-304",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46de2f786907f3ae6ecbb7e94bc208fc.jpg",
+                    "name": "Grelle, Josh",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuno-gasai-28",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1a19aef5cbde4f4562b9d4088d427c03.jpg",
+                    "name": "Gasai, Yuno",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "brina-palencia-192",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67b617fb3bda293fea66d48b0d4034b2.jpg",
+                    "name": "Palencia, Brina",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "aru-akise-461",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a34cd61241964717558e4a7e61a2dd0.jpg",
+                    "name": "Akise, Aru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "akira-ishida-55",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b23188f3300abfc6a2e5b7e0f69f2381.jpg",
+                    "name": "Ishida, Akira",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rea-amano-17733",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ee905881a89b693686f0c4fb395ec5ef.jpg",
+                    "name": "Amano, Rea",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "colleen-clinkenbeard-242",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19421e0f987ab7c89e28de08b1716479.jpg",
+                    "name": "Clinkenbeard, Colleen",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "kurou-amano-24628",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4436f3ac63bfbed6bb88c8d712231605.jpg",
+                    "name": "Amano, Kurou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takehito-koyasu-23",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8b9f465de8b0778d2b2b3602b7f4f843.jpg",
+                    "name": "Koyasu, Takehito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "john-bacchus-19657",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/04752b1ae6e97593afb235738d26edf6.jpg",
+                    "name": "Bacchus, John",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takaya-hashi-2085",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f2d97f98cb03fa2a4eca23038f244710.jpg",
+                    "name": "Hashi, Takaya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "未来日記",
+        "synonyms": "Mirai Nikki, Mirai Nikki (2011)",
+        "aired": "Oct 9, 2011 to Apr 15, 2012",
+        "premiered": "Fall 2011",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.59",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Shounen",
+            "Supernatural",
+            "Psychological",
+            "Thriller"
+        ],
+        "studios": "Asread",
+        "producers": [
+            "Lantis",
+            "Kadokawa Shoten",
+            "Rakuonsha",
+            "Kadokawa Pictures Japan",
+            "KlockWorx",
+            "chara-ani.com",
+            "12 Diary Holders",
+            "Dwango",
+            "Sakura Create",
+            "Asread",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Sign Up",
+            "episodeId": "the-future-diary-1281?ep=18677",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2d7807294f36e599b72d4046374b2c194f5f6428d5164b7d11da96b47cd16a1e903cd20384caab52b6cb41fe55dda984ba891cc4bfe014a0612418b9200b59c5bc7b4524ea73631320069036358443b68772cb5c31d801dcdab6958fe58a1d6d1260550805e8ba8d008fe6a48b5320a9a333d52aba917389622f5c658429cbcb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76bd9cd166c61855c50428652daf526b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2d7807294f36e599b72d4046374b2c194f5f6428d5164b7d11da96b47cd16a1e903cd20384caab52b6cb41fe55dda984e7c3faac242eb453848f0e5385cd99aaacf53fa527ca96c5878e900f080306ff59d01355d1c03900e10003394efef7e445f4389d753aedaae3f67850ee0791cbb4035619433e57683b9efde5836f5d4d5be2b7ee47af21f624d6ad1ff9439e87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/76bd9cd166c61855c50428652daf526b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Terms of the Contract",
+            "episodeId": "the-future-diary-1281?ep=18678",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cd93c1de962b51029ef897b0d8a1ec73869a519378297c8feb95f7224d4b8e6471c6253ce4bda82d43922181776369d5793259365935573ca33fd2ceeb68ceeebd0a6af764c2298b0824de31f805b687b6f5f4670744a57d30a70f58bac9c30d309dd721dd283b8cf2a55e2334d5d1bb0c1dd0d21fb63d1e6000bba0e2ea5fe9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8078f1bb56dfc3c36f1cfa6263a4721/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cd93c1de962b51029ef897b0d8a1ec73869a519378297c8feb95f7224d4b8e6471c6253ce4bda82d43922181776369d529fea939ef7997be0d64ad1773afc971e6b5029e56c81430545798effa2d62594baded035a5c2eebf5f000d5bcf0b721bd1b61414e5064ca9c510486d110ea7122c3fd75302ace78e094200e0c20ea7e5a26fe7dc54153ff0b5dfe1406e4b4f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8078f1bb56dfc3c36f1cfa6263a4721/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Early Predicament",
+            "episodeId": "the-future-diary-1281?ep=18679",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5e3912d9a16490bed5830bd6458c6f5016ba8793d32a6e1a241eb643cbf2e66a8a994f9ddb4ec865473507b29249c31ff8e76de7046771f42eaef695d2210e38e879a2892a3a4b6cc81b68012cc1cee8f1dfb780f06486dacb981d3b25f76a28bcf812699162571831e2a3df1ef23d1e2255393957f41fa696aaf8e8128e7d61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/010ea8b147f12e2bc8d4e46b9b305be7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5e3912d9a16490bed5830bd6458c6f5016ba8793d32a6e1a241eb643cbf2e66a8a994f9ddb4ec865473507b29249c31fab024be8b4d637aa2198c68e6ef8307a2192c57f1cc80ad19070b08abe1deea7055283b78d02f1a408b55d5dcada43999beefc3d2ce47a7e76edcc83644bdf0668a8add18f96705f27b5ceb5cec09b9a568bb17697c7fac252da40bc792a172b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/010ea8b147f12e2bc8d4e46b9b305be7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Handwritten Input",
+            "episodeId": "the-future-diary-1281?ep=18680",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/98d86492f0f963e9c0c115d62ec61c5e57038c17255fee8c87b3f1b2b0c1724f08996e130bcc2fed5d1c880b713034ce442f44f01b72b58a2c4d0961ba91adcc94f566bfae484f4f44aacae7fde18b7b3e4f31ddaa556978e47cda8868eaef9afe95d04efb034c0654c5dd1ef73256ce288ec2b4c91d2c23632b10e5c7f2b59c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94f5b8125c56af31b59bf915b8dea1cc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/98d86492f0f963e9c0c115d62ec61c5e57038c17255fee8c87b3f1b2b0c1724f08996e130bcc2fed5d1c880b713034ce5943ded451a4825a50e963c2c8c7387b65136d9960c56f86ae690ee589d0f92a38fea36d65999f163baf321effbd2d9dc7fe53d04f596377df6b08e84fe6680828abb23fc7f076adaeabeb5084dd24dfa457ba65fad0dbaaa896e1635f35376d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94f5b8125c56af31b59bf915b8dea1cc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Voice Memo",
+            "episodeId": "the-future-diary-1281?ep=18681",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bf2f488e5af5d82c418fe82964f12b6244fcbc951ced8268692df1176a01a53d2a61fc5beaa60e8132702002abe2f949d8a67fa314501be45d975c08df18bc5974f1d7354734741d4fc13b7990d898ee33e6f8020fe1b080ecab97347899951e946b21c626a413c4dfb131fddaa71dfb3d008e782ecf903525be86df6254ded7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c98c3205934f49f6cf690602e2e716b3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bf2f488e5af5d82c418fe82964f12b6244fcbc951ced8268692df1176a01a53d2a61fc5beaa60e8132702002abe2f9493f2b04edf0461b7307d4cf577b17e633927de83e8e9fd77f1e1e9d34fdb7b4b2ebe879eb41bce26e7f43e56d2eb7dae53c327569e09358f7b80fd3ef966acb1c5667aefc1640f62d9aefe5e94d33becce0f504dd856535f3528b8a8550e857f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c98c3205934f49f6cf690602e2e716b3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vibration Mode",
+            "episodeId": "the-future-diary-1281?ep=18682",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/3e021bd7de1ac718c900a110fdeceef31272d3523f0f00a4aaaf0c3d21ca371f6675aca4cd4cc3668a86fede877e0766e924d53ebf25be0f5bb71b7d12e2c70a6ebb2fbdffe32413b99233c4d0d3cd534688a55b25d3286e25f2466eadee956db0870ba5e2bb3f1492ca63bb038dbf797aa4a9205b39ba97295580da3934daad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/230a9f6ae21a41727752300f224f22df/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3e021bd7de1ac718c900a110fdeceef31272d3523f0f00a4aaaf0c3d21ca371f6675aca4cd4cc3668a86fede877e0766962b7db060487d6bd3ad157d730c40984cdc2c72421ceaa1dd606a649d173ffbc293e127d23c681e97c6b47bf508c84d67f5e0a1ba084bbe3221d6a7cc74c3bf80d15406d33292581ac651fcad781468b8d036550aa344848c3e0b0eddf578a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/230a9f6ae21a41727752300f224f22df/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dial Tone",
+            "episodeId": "the-future-diary-1281?ep=18683",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/dbc50d42c2bceafba21a9ee7ed728770935a4ba05f863bbce7169651773a61d02b336d337a2910925706e3e539f4a286e22c3080154b11c2d5cd3e457cd3bd13a145570754696d5df944b5cc5c86749ead5b3998155e166c3c86325c1523d0806a67d06be959cc95facef6677c3e30e1836a044d0eb5001266fd4646918b104f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/878ac36e31f5decdfdd213f0eb64a0f5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/dbc50d42c2bceafba21a9ee7ed728770935a4ba05f863bbce7169651773a61d02b336d337a2910925706e3e539f4a2869dc3f03b70eaf3170fa14b6ea07280f72c86e027042365b1ef8eb5a73c6520ac579f58b2c9ab6330ac43ec33ea1ce0f21c55a90fd71ab2d21d464b829abfa8c550ecb4ac6517ab59a621af2abc45fa70c568530247fdb4cb63383e8aad945bbc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/878ac36e31f5decdfdd213f0eb64a0f5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "New Model",
+            "episodeId": "the-future-diary-1281?ep=18684",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3c27d01e80cca4116d3278b2e7002512a334c3dc6abd581995286d02cef4b104885e5a974887e41e2fb3570412a8bf4213d93dcf15f0150349630117f28502d2cb0b3522ddcdb85343892b7e9334a5808bd2e6c1d4c3b1b7b48350b7ca58d3768df609c926549c974d612344db7abe1a8a6d1c404e3ab1c301591f0a6d129e9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85fe3dcac61f27524003cbd1e29c0d49/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3c27d01e80cca4116d3278b2e7002512a334c3dc6abd581995286d02cef4b104885e5a974887e41e2fb3570412a8bf42712329210c40803e52e52024f3ee5d764c11429eb4b62528ea9943c758f490d47db7271f106437c191e2d94a48c2ff131a5de7312c99a43f3f3aaeb1cbf40b241c174c84cb2ea7a97e5591e0c1041d99f61a9b951fce0b0bc0eca277011531f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85fe3dcac61f27524003cbd1e29c0d49/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blocked Number",
+            "episodeId": "the-future-diary-1281?ep=18685",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/64293deb16d326310acad50dc5cec32520e5a0a946b4be8c322750c23997bce9b29dc28976449cdf57c8701c955dec4c4ac71f4203ad55d515e3895671dbb5314ae0f249dca698fd88cd666e24e749442dd4f73c964cfbd1fc11e4f50e6a64d08d2b9b3100b96528ca6ab063e93d8612ee95565f63fd6769e40014d819584a35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40a4879afe65ee58d7ae9233cb70e34f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/64293deb16d326310acad50dc5cec32520e5a0a946b4be8c322750c23997bce9b29dc28976449cdf57c8701c955dec4cd33ad4b10b1d0e10900edf1066e45da56deaecb40c78a72dae60b96a2e43d26df954b18cca84bc1238dd5766e4ae54857f8b600e5ba2657f871e86ef3fc0dabc070f072105706b89813df77ddffb585130b75d7780c432270bc99581b5c644c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40a4879afe65ee58d7ae9233cb70e34f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Family Plan",
+            "episodeId": "the-future-diary-1281?ep=18686",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/adf50852b00c5656322f5b469b496fae9754080f90f3bf340e89713bef80f0f2bd6e7a12d5dfb7b07974e2f54da86b5168c7292f38826069cd80ab38f96dff3537e1083b4f1c8807877a6b7ddb60a62616fefc85ff55dd81f2da6fbd65c34f141d897a2c80502d2d6f960c0c9914d766117552202688cbf8aad21ea8e04014e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a5e8f162c842ae16c4908d3edf7d41e0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/adf50852b00c5656322f5b469b496fae9754080f90f3bf340e89713bef80f0f2bd6e7a12d5dfb7b07974e2f54da86b51d22103fd1b72558137b0bf7280defe9518e1469206ca89bb1339a0c94c6c4f9cdfdd8c80f6fbc62322040aba67af358c922c8d124bcb9cd8333d375bb3a4ea58a4d1e548acc71494777a4308c54467adf2294ed5018808ae57d17017356f34dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a5e8f162c842ae16c4908d3edf7d41e0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Termination of Service",
+            "episodeId": "the-future-diary-1281?ep=18687",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ae3541f7650e38dba88456fd51facc7e214d5a947d2b5d8262084448d9b71a270a6603a3c932eb889b0dbea27fcf7f10f625f74ec778c2d95d24568e2bd48910df1217eaf12ac9df636eaebace5b016016a618475a330c182bf8238f2699814f4f08d91720da0506b708a61025e6707f8523c146a9df1d897ae4d4ea0cb888d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c736926a061400d20b61ad80de787a26/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ae3541f7650e38dba88456fd51facc7e214d5a947d2b5d8262084448d9b71a270a6603a3c932eb889b0dbea27fcf7f106aa3932204830fbe70d91ef8c42e531ff794e226b47c2f92fdc7dc50322c21a5fda0b74936dc09323bc239815dcb0962cb6df61f58191fd45f4067e55a8761c4154f6091675e9771f6404b1076d1ddc66f7aec85fe5765554488feac6244534c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c736926a061400d20b61ad80de787a26/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "No Reception",
+            "episodeId": "the-future-diary-1281?ep=18688",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6aa9e1884bcd9c48433832d32d32a9cef43059d9c34c0d89081cd0adaeb27955f4d4f0b7f5d60145546f6f54e9262464eb4c2438195017976b9577e5eee182afa2f93116a71db8c3ccc95ceb33016f88598ce3a3fbcaba036d8205b5192f3ed16d14080fe7c8199f899d7c08f7b98c0f83539624bf34565b084c0345688fec0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f190dd0c86f2ba34070f9bb69cd76cab/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/6aa9e1884bcd9c48433832d32d32a9cef43059d9c34c0d89081cd0adaeb27955f4d4f0b7f5d60145546f6f54e926246492663eb73e20f2cad6a3597c86578de5dc9ba36c6922c0ff3cbd92bed803daf44db8afaf829837fc0fcc1a498ebe4d39ea0f30b1c42cce2a3a0289225f771c8d33aa2be8afdfa1e2be0776f2909c967e318fda65cb9f95b9e940fa049db42d51/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f190dd0c86f2ba34070f9bb69cd76cab/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Restricted Call",
+            "episodeId": "the-future-diary-1281?ep=18689",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2c6d3580b50e6fe3bc0d4a196d38ef1d45edefce5db4c1677e06b83eb2b89c2f886d22ec670541d9a51e309edf393b93357bfd9272e17cf5612d79492641037b1622857565f53670cea76c76a399c7b5a617b2aa043be494daf6a396dc5f96008cfc4abbe32d8eaa72f709ba7e19da3584166d7e66da8ba1607b122c42987fa1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41fec76f569bc53694aa21389c7088ad/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2c6d3580b50e6fe3bc0d4a196d38ef1d45edefce5db4c1677e06b83eb2b89c2f886d22ec670541d9a51e309edf393b935128b760d4c052bf88b38e813d85a29c95f7990f0219ed5e784bbf149073244afb4386fdb7d2e52301967dcafad9a831d192168f47fa773e014fb9854465be61789c3eeaf153b0610869a5aeccc112a164765b97f20817ba11c6d53531f9c2ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/41fec76f569bc53694aa21389c7088ad/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Memory Reset",
+            "episodeId": "the-future-diary-1281?ep=18690",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/191470a81fc4dcf1ffa394f3950533a7ca0c9692502d74e49fdbd15735583c0ce37047ce0e9660f57fdf14cf41d71a44c002bbf4e5cb755bda3783f96114bcf143d862d639ad80f75814a63bf988c037f4f35aa9119e47423d7a41261e07af4b56c16c403d4ef87eb5079342bf2d9eb441ec521a7f25f6c47bcaef1ac5b05704/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/437db1a5972da9df59706b434361c4d7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/191470a81fc4dcf1ffa394f3950533a7ca0c9692502d74e49fdbd15735583c0ce37047ce0e9660f57fdf14cf41d71a44296a0cd3950b45fa19cab149f3eb0ce3c8ad92495ec0cd3bd0a9406cae56702bb61b11699cd96a09bb41d593b3208dbc4ec19b8ae2356a7ab7917b142719d477a1513bf766bfec351818fd003342e8d8aa6b7f98807c53fb4dfaa9eb588c6b7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/437db1a5972da9df59706b434361c4d7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Double Holder",
+            "episodeId": "the-future-diary-1281?ep=18691",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/de8d3ec39499989fc80349ca8bb6759abaf2558d9c6a9277f64018db77a8cefd59c6cf6f4ee3b8f87bc0bf61653d39aa45b3d416322ae5f34557d219dbd9646e48a78036516640bf2ff31871faf35bc58b11221d99a9dee552e10a7721e8141d5e3769e225ef3d02e26b16990184e0c3b6273007baf774390768b48d463276bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc707ce10dabb4f10b767f92b234e7e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/de8d3ec39499989fc80349ca8bb6759abaf2558d9c6a9277f64018db77a8cefd59c6cf6f4ee3b8f87bc0bf61653d39aa4978a1586c48af57f08bdf23ffe0fc5c1606ddb44ef7bf7b987503568c264746aec67fad27e995e855b6538cf7b068e196b0f9a2b1d6751f4e0ec2fcb456837df288bda9980d9f6a30c8f4dfc53358b1bfcf8efa0c13d10541e099a9dd96b881/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cc707ce10dabb4f10b767f92b234e7e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Repairs",
+            "episodeId": "the-future-diary-1281?ep=18692",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8e1b25a142dd57b5bd625d06c59337698b775ca6e970f34432c36ae0d306ffe0b55f42d2448259ecee855ff2149ca8911d4679bf2c7d61b3eeea2dce33ff6e7f4de3e8672397e19364ae3b9a20d1383f2529813bf3ae08cd28c5746ab0619e5d191006ffa8c5a03734fbedd1ea8c374916934925042b7d578cb6040c2b640355/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4701ca581baadf00c04286a58a7bb7b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8e1b25a142dd57b5bd625d06c59337698b775ca6e970f34432c36ae0d306ffe0b55f42d2448259ecee855ff2149ca89129865924508b350356a1b631974b6b6d92aa0dd122eebff5003b112b84445823ccbaa3cf1c416c23491aaa4cc957c7966a5a4bdb6b4a8ffc33f99fabcd3103feabc30bea9958de110f1e407ab192c15dd3f4164ecbeca95535595099346fb41d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4701ca581baadf00c04286a58a7bb7b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Family Discount",
+            "episodeId": "the-future-diary-1281?ep=18693",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2f7fa9be0d40ca30dfa23096da68f33e7ac57d27c908054ed032a1a6df6b07f8ab2457508fedaa65c2291523f61987cdfcda971670cb06980126e3ee1fc4ea3116935c40367beacbf2ef798ef160b4287abd71506cf64ccb348017a508b854e85755988782aea830447e6e6486b0ac576ad0319c8862696ec358d3a111997546/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9270dae7e6a347fbf2ecb8bb9329c4d6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2f7fa9be0d40ca30dfa23096da68f33e7ac57d27c908054ed032a1a6df6b07f8ab2457508fedaa65c2291523f61987cdc6db983e8ad5c622c310f6ba4e04b6cbe19dfadae44b9cf4dd7844d1faf40b716c61319a8e1a0ed829502051247e97c9b68ea947a4fe542f9f93d9cad39f5ae97a4bc8548e7fa03b9389d9ef84e40700a5dc5600b260e414a0cfec5bde5bd74a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9270dae7e6a347fbf2ecb8bb9329c4d6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Interference",
+            "episodeId": "the-future-diary-1281?ep=18694",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2b479ab376b267cdc6565a4743235f82c2e5b3e6e858d084fb068bc02a5542b34ea38e0801ca8d508f021020a0afb6341a4bab048c9391a9f08ff369b562df4e60846209354223a8530b2732db62250b91c5ff2f3bbd2b6aad5cce6e70c671b536ad5fc00d6fcadeae7eff17acfd9a2274abea20a75dc949beb5d12c7f942bf2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eed15d70e90cbd04f25dad32e1bc9232/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2b479ab376b267cdc6565a4743235f82c2e5b3e6e858d084fb068bc02a5542b34ea38e0801ca8d508f021020a0afb6341b0bf1b4752c3e61a246f53269b6a18f2aa37a6bc76341f5f20d0e06aeb87a1e518e4d2bb2c9f62b26a3b50e38501a0849aa3ff1d00019a7a95ed0ca249bc541c8277dd10438d2d0f718aebe876ea58addbf6d7361087db04c908a9f72ec614d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eed15d70e90cbd04f25dad32e1bc9232/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Delete All Messages",
+            "episodeId": "the-future-diary-1281?ep=18695",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/47cfd5ce0cfbc17e81ea52888eb3083dcf7cce95c6cbec3446e6a4cd18149437f31a0bd266c1741af5fb9f4522a449cbf3d0e95fe1468a5c575440771fd71ed4c4a032b43ba98eff17ff81370296b7758ac113aeda469d62c0c8797531d1d1d9fe0185a52311133517f94dd300aa5267db6dd6511622fc44dcdb55babf046b52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0c443e5dbfca310221ad98b43c7b280/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/47cfd5ce0cfbc17e81ea52888eb3083dcf7cce95c6cbec3446e6a4cd18149437f31a0bd266c1741af5fb9f4522a449cb147f90e77cc4cc0e5f471b553f17972000d707ad46fdfa9f7cce14fe183d19635d89e5262349bfa0e5029f6622c030d3c8116a2bf3d0bb660ea5cb735aac6bbe8cb87e3fae21e9eb089983c0b31d6247008896bb6d201418f284bd80d8e53a60/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0c443e5dbfca310221ad98b43c7b280/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Data Transfer",
+            "episodeId": "the-future-diary-1281?ep=18696",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/690d7cfe991c64c28bfa2fbbcb908d445f85c5ea75066a82bfc8838b7b704870c132b18521916461235e45e83e5944076ff0983709dad9d3438ef949f9299cedbc55a680a52f6de5dfb7cf049001078c88f5bd36e67e4c6bf0db142a88bd378e0ef5e5a2874047b48cffdcd12d3475bd4579f4001001dc3fe7f11e0f2f6a9670/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9fe7888b08f195c44caacea0b47fa32/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/690d7cfe991c64c28bfa2fbbcb908d445f85c5ea75066a82bfc8838b7b704870c132b18521916461235e45e83e594407d74efe9e1efc58b7dca52f31198d9d8187a0db704f206b01de3e7e9ba237e3fc4fc12462172ff4042cc1aa118c0acb8a60df7b9f39d8cccbd94a4ef1dd36cccd70f9da760f7e183cddeb6fff8fbe68ef68b16b09a4f9343e84aa718bd79f5513/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9fe7888b08f195c44caacea0b47fa32/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "PIN",
+            "episodeId": "the-future-diary-1281?ep=18697",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7e0571ccf2cd4334e1ca619afc5ed925e765bb65df6451e4c24edde7f0c2f653691647678338e88710a2a955fbd8461f1c6abc633b30862f935acbb3f414c8f906e4bc8948d4c115f766aca5684f30cd9f0b06948a332d95ec1a75d547deca4772d755f5311f7b4fc9d74658dba8cdbb8168f40e580821fa1a1329d37ca136e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afbe5e61aedcfe7275f7b02ec69c7886/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7e0571ccf2cd4334e1ca619afc5ed925e765bb65df6451e4c24edde7f0c2f653691647678338e88710a2a955fbd8461f9a64af72aaeef89080cf038dc7abb9475b2e46113db1b70300a297ecebdc325358eec7a1d4c06d22b8e35b7ef6587d06eee358c8784e16d10feaa7b702b13ad1851a80702086a939173fdd5ca073f71bc4cb1894bfbe09c03c540704ee596b8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afbe5e61aedcfe7275f7b02ec69c7886/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Disconnection",
+            "episodeId": "the-future-diary-1281?ep=18698",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/75731b15480380edab3ebb1cafc51a0aef30b2456499160d25bf6783409916e9337dedf21c9f7e2e393990396a94b1f47de7405a2ddea2b99d9dea99e25a8e3ca940a1d39b17212bd35b09d70de3f8249e0f9038d60a6f7ae46e750868b86db782d9cddfb24af5bf034b01dd611e59c41206baf3850ea900b1c3734a9360949c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ddb1407b4e876501e390b71ab9b8ad2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/75731b15480380edab3ebb1cafc51a0aef30b2456499160d25bf6783409916e9337dedf21c9f7e2e393990396a94b1f498b4c164e0843a313a6b796cf6f960116c790329dc35d0e636cb4aebf40e73d0d3491cda3b9530506cbce59a0a0110ca3e0f3e125eddd68005ad1ace076683894a97ec56d71538926b48042bd9e6c71c0c9bd5a6c8578ee29d3a1057f545df9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ddb1407b4e876501e390b71ab9b8ad2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Breach of Contract",
+            "episodeId": "the-future-diary-1281?ep=18699",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/acfd1c54d4c5b041357b4b40d2bc78cfa84c40227ba49cc069139057c6f0239e116060d671eeaa548b859f70c59367398234ee5f40bc88e4fca71c0e927a41a53b2faf3ac00b5fe489cec387c53fd180ff2694ba3edd8ee3ec21ebe4e05f2aa613c56ac4978af41346cc90212398c3700f5f6fd79a29c30fca219e347e4662e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a42dfaf3a3a429b0c12547371c71d31/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/acfd1c54d4c5b041357b4b40d2bc78cfa84c40227ba49cc069139057c6f0239e116060d671eeaa548b859f70c5936739b346f678d3b38bec417492d2613f07ea6c8e7d44c80cc3b0075f62eae135da476136d7eddd25f66e82f91f7837cc9dce802136464c0f3390868cc677ba4200c8aca25b5c67278142c21dcf1087e52522447d609ff9db8a5b69bdb1380381989a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a42dfaf3a3a429b0c12547371c71d31/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Data Retrieval",
+            "episodeId": "the-future-diary-1281?ep=18700",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5b981f067707c350fb6b7d0862ac65a2b8cb6eb4db989afc9bee86e069edb6c16cb1da679e1c0834e6f2e8f8fa18b96693266cdceda030f14d7ca708c06f9d4fa0eca993817117390cb53e8263d1e4a291922f7cfa92d60bb2e505c4fa32ca011d51b3e18034530d12a7a045c7b1da1b5bfc9201fd13afb92cb1ef380919353b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/258772d9746073b8756d86cdb3986e06/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5b981f067707c350fb6b7d0862ac65a2b8cb6eb4db989afc9bee86e069edb6c16cb1da679e1c0834e6f2e8f8fa18b9664c52664b7b8c543e56d97439cef274f201997c9a5e28c237e7af43b9dce3867eea1606e4d621c565fbea13ba310ba8e43906ead998600298c7d4e09572780f052352a5e0c3af2f81549de6fb4627895839756c36e34b7ede5b8ccabc6d7029ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/258772d9746073b8756d86cdb3986e06/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reset",
+            "episodeId": "the-future-diary-1281?ep=18701",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/dcabbfe870369872b0c9f5876d856a28fb60058839387c4c0e129ea796d13becf61184029db7ffc494d2fb93b03ae4156b86069c5c2385f1ddbe2a7e7ff9a144e227e1ea32ae1591dc2025a94e2f8e7d15d6d18948165e6659c5e1fe7892fa819b69a7fac766e46c9e2cde60466848c2f6ccb05c82551d4bbc5bf151cea8f922/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aacec58d18cc98bb22bb29de76775af0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/dcabbfe870369872b0c9f5876d856a28fb60058839387c4c0e129ea796d13becf61184029db7ffc494d2fb93b03ae41577a3ee9beb9b3f8dbba7c8e7f28595164dd99920205b78ef58cb979c4edc3614ed37f4b0700ae55e447d391e3e91874e8bec98ea4f2655241d7195a7aeb0be72593f4946b98f8f42f2daacb6ea5efea23ff9f854b6e45ee5561397b2bd347d67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aacec58d18cc98bb22bb29de76775af0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Initialization",
+            "episodeId": "the-future-diary-1281?ep=18702",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a73680a6df8af05f7f2b226b5d0c34e41872630fa4933ada70f0824a43ee4714a5ec0bb22bf1283adf099218ebc912b76870308becf6bf385c8f60ca0c781b9785fd2ecaea22779c756916412b07c9eb4fad37fbad7573887ed0229da3fb68d6fb3f2f202f0545d86de7059075a5f38d77c07f644931bf4799266caf2a241860/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a901d5d8dbc5cc8a9566a399507a7a6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a73680a6df8af05f7f2b226b5d0c34e41872630fa4933ada70f0824a43ee4714a5ec0bb22bf1283adf099218ebc912b70550326ae3ea006face203e68bed05f22d6add11d68b40935a8bd998636b33c1a75a9fd7c098807d73aa2d1c97141e063be1eb31944b1ebc3f73caa364bcb37a5f254011ca183f3088bf9c4285b51e393c908c2be53a97cea091c105e49d056c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a901d5d8dbc5cc8a9566a399507a7a6/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

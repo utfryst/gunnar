@@ -1,0 +1,835 @@
+{
+    "info": {
+        "id": "master-keaton-1226",
+        "anilistId": 1483,
+        "malId": 1483,
+        "name": "Master Keaton",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d34b4461a0750ebceb72da8f97feb6ae.jpg",
+        "description": "Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.\n\n(Source: ANN)",
+        "stats": {
+            "rating": "R",
+            "quality": "SD",
+            "episodes": {
+                "sub": 39,
+                "dub": 39
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "taichi-keaton-4175",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df8009bb2b0ce91852063f349478e07e.jpg",
+                    "name": "Keaton, Taichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "norihiro-inoue-4613",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c17b4cfe377de0bd443f11d051da802f.jpg",
+                    "name": "Inoue, Norihiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "narrator-77323",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/01c9f57634e09606ab04f86081919f47.jpg",
+                    "name": "Narrator",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "keaton-yamada-9761",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/79dffbfa34ce83b1ec6e7c4d9987af0e.jpg",
+                    "name": "Yamada, Keaton",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "charlie-chapman-65801",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/536ed8199c1cdc656c0faf78d269e88f.jpg",
+                    "name": "Chapman, Charlie",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "masashi-sugawara-5917",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0dd6cacf43a64bd70ca5b284a1c3da5.jpg",
+                    "name": "Sugawara, Masashi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "flora-90374",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8411e7020e832d5560fa729ae341d3b2.jpg",
+                    "name": "Flora",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ayumi-uno-12297",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d30744b2b8e8f82c9618eec7f738c6ad.jpg",
+                    "name": "Uno, Ayumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shinsuke-funase-73841",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/90dc057b74f6f45cb1e54531a3f25805.jpg",
+                    "name": "Funase, Shinsuke",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuriko-hiraga-45327",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c06b83bca8fa3d2e44dd305025241bb4.jpg",
+                    "name": "Hiraga, Yuriko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "houko-kuwashima-348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2c4b93c4df004d37772ded08780064f0.jpg",
+                    "name": "Kuwashima, Houko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "マスターキートン",
+        "synonyms": "Master Keaton: Blood and Bullets",
+        "aired": "Oct 6, 1998 to Mar 29, 1999",
+        "premiered": "Fall 1998",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.62",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Drama",
+            "Historical",
+            "Slice of Life",
+            "Seinen"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "VAP",
+            "Shogakukan-Shueisha Productions",
+            "Madhouse",
+            "Geneon Entertainment USA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "master-keaton-1226?ep=70882",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0a53f3d4968db3d7f7dea757c705ba0cac33a2d804323be3bd6a15b0c29ae57b489b927b66ed1e8c9d3580e206caf3e9b087fe205070c91285eb91d8ff524f57d221e1e2bc3764c4fa58eee777c96b6eac4d6fbcf48a80f45b3e5e9413ff7e9876b58d0665e74f543b91816da65a671f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbdebd3503afad479e78a29edcd56b7a/cbdebd3503afad479e78a29edcd56b7a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0a53f3d4968db3d7f7dea757c705ba0cac33a2d804323be3bd6a15b0c29ae57bd9315f7d66f33a3c7307c12571b87814fd003b44dbf3f55685d68887cfd27848e557f20a80c360ee4bf53b5bb4c391aecaad44f66e88a69155edc38c732bee6cfa2e77f0cef48a806f77d1f4d721c89a1a007e93dcd4f5d78047cc28e7f6b4e47aa29aaa111bd1873d75ec0dde073541/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbdebd3503afad479e78a29edcd56b7a/cbdebd3503afad479e78a29edcd56b7a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "master-keaton-1226?ep=70883",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ed9d49138ddda46b3128f20214c86675431086a53d5ee25c88b2839e9886b0c54e890e371c3416339f8d616b3c82a68519566a73070e22545944c12796d57c752936df094582eee3f91a2d7c2b5446ffd0ea938723373c091060489b858707affdb2fdfcff3acba8c40a3d17158055e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a824617de92c6a84cb0feedfe6e2abce/a824617de92c6a84cb0feedfe6e2abce.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ed9d49138ddda46b3128f20214c86675431086a53d5ee25c88b2839e9886b0c5163b339b372dfdadf28c36ca8a2ef1c410a8d840e11a8641cdec647a3bf3ddd50686f3dc91a6bd14440a99d8a46d37a3c094889944e5e3008fbff729a0870869c3a5be62edb395597401bdda6783535144dfb7c573955a44fb36f7f277a95f8663d9d1667890682d09d2636a8454f9df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a824617de92c6a84cb0feedfe6e2abce/a824617de92c6a84cb0feedfe6e2abce.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "master-keaton-1226?ep=70884",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e48d4352a5041f51f0168b2af61a8285a727b480ad07f6fda084e9dcfd591a1011d8984b348dd9d8f6d86bafde4b91b17c05b3bd246f5a19e175b9ea094092cc42067472333ce1390bc4bb45428409057143a4627070cba6de2cfeb75e37efbafc9eade0a486648dccf37af7c8b4efb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/591b7aa650884fcd08bd4b2be1f4f651/591b7aa650884fcd08bd4b2be1f4f651.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e48d4352a5041f51f0168b2af61a8285a727b480ad07f6fda084e9dcfd591a10c1f699de630ad772133ed2583193346be379feee5b57e8bcbf020b90211392c40744cfa56b34a277de8a46a545c577cf4320bc2f2d6dec1fb5368095e2c877f3c2533724b78f633c0f1269c0bd5145588bfbd4389769b69df1d417c41dbfc863c2d2a22c50ed6d82dd848203dc2a5488/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/591b7aa650884fcd08bd4b2be1f4f651/591b7aa650884fcd08bd4b2be1f4f651.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "master-keaton-1226?ep=70885",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2f7964e54dd5577b771f6efd10b15dc6bf2bf49fca5bb719e2806a1b9366837aaa5effe52bf8994a502315ad1c3d9f7db3530c29450a2656d0ef93f0996267d4e6ea1c055d1c64d16f373a683afffe08c0336672edcb4e3aa30360f7054eb4a4b5abf579b8ba5f1e291d9c4fc7ac9209/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dddd021afac9aa82e106beed7f21871/8dddd021afac9aa82e106beed7f21871.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2f7964e54dd5577b771f6efd10b15dc6bf2bf49fca5bb719e2806a1b9366837a5cebb724b9fc48a80f1f92af9531a4b1edf6c6ce8aab5ee7e440c25248734a3d383999cadeab62b2099a7b6c81db482dfd5b097f8785510550d4944b05c3f9980608eef67f87d7e4ba5488ed644056a515f53ed830513a1d98777a4722bc2a18c5530470a182b5a87d489d6c7a06dd58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8dddd021afac9aa82e106beed7f21871/8dddd021afac9aa82e106beed7f21871.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "master-keaton-1226?ep=70886",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fe3eba357bac0f6598740aa8f59f13413d89357e2803ddeb1594477f5cf0cbbdc433daaddfc8e148ce42f6c46ae79275dac6d668d28a63eb14bd7ff29db6bfe9e73bfeaffe178843a870ade6c530a482f63808e1aa9ff85226aff1d32a28d9b59c128f01eb2edb9ef2c3d0e330bf76bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56515c94f8d811b78952ed52cf9607f6/56515c94f8d811b78952ed52cf9607f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fe3eba357bac0f6598740aa8f59f13413d89357e2803ddeb1594477f5cf0cbbdab50b1a8bd315f4965d8b2be9a8493206597af3af31f745208c79963004f6d4b27f29c300580cf37b5f006b1e9359d86eb37481e9e28d5081a2d5271d1caa2b7e1dbab19e0a9b68bc47f05155b2e3e595e14d9fb275f4ca488a336d40b121215228a9d15b8b50aedc572fef9151c3114/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56515c94f8d811b78952ed52cf9607f6/56515c94f8d811b78952ed52cf9607f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "master-keaton-1226?ep=70887",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/393d8f00f20b9ceb42cdcc5c986b61d183c6f6ec38adcd4403aa21453afaeb373901b208362c228bbf40f84e1396e1dfaa4399f802e572180af21e1700cf157a7fbc757706f9ef0571620a6fc1f3a932b2cf7b1160b25ff3ca4e54bf977638f9c8079a70cbb80d5c547af61eca4e287a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e2b787fd95ad3e3eaed1bafee6403fe/3e2b787fd95ad3e3eaed1bafee6403fe.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/393d8f00f20b9ceb42cdcc5c986b61d183c6f6ec38adcd4403aa21453afaeb379ce8dffd8d81d2fe8a9342e38ddff2bc6ef1e5743e188f296a7a58baba8151a858f3cb2c345cc9d35174bfb3cca6d46e88c7d5ea19cbc629c06ce6fb9ba2294f9dd2cc19d69f24de799a410981178737006f3cd10a77b7acc8b0f4f06736b670bdcbac83bea0daefe4db76c436ae1027/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e2b787fd95ad3e3eaed1bafee6403fe/3e2b787fd95ad3e3eaed1bafee6403fe.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "master-keaton-1226?ep=70888",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7b20126d83b6ab859d3ce8f86ace4c3da3da5edf4a82dbfcd58912147653b71e88cfc1edce887aa5d8b362bd11e37a3d4dbe00c660f276502cfc5c5b125f18be2c7ed330ef9c5c89059e567ccc3f90ad323e43856b995c5cf6cf63b1653415acd933b62f1d7b9b13752c187b462d2e63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e25b1620c4a5b82514df70ea9a759127/e25b1620c4a5b82514df70ea9a759127.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7b20126d83b6ab859d3ce8f86ace4c3da3da5edf4a82dbfcd58912147653b71e78435b1071b7316349b0bea981e232d5897b43dcad26e542bf1a6fefb36a6afd59e0863d8d880ca57b91d3700fcc02d23f9a1dd293fbbbd627bd016b8ca234db1b5bc8e99b23ae9543a5fa16ef59d1a18b170d97e8766667605ad7010ab824d377b6f11d8a5b3c80c68e663029deb0d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e25b1620c4a5b82514df70ea9a759127/e25b1620c4a5b82514df70ea9a759127.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "master-keaton-1226?ep=70889",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/fa5c70521f62e5d4a74a2f75ed9fee0e57a9542369b6ddd4e3d739ca9664d0befb464976de7370c3af15d2c43e6c2809a7b6f0394a1e557dd6ce024d70f3afab8872cae7d05e246b75af3cff1553514ac694a183bc3cfc96fc38613ebe08cf3753f48231d7f46f3b61835f67c8e60f6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/874b50d8791908f65d80edd9ff22a546/874b50d8791908f65d80edd9ff22a546.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fa5c70521f62e5d4a74a2f75ed9fee0e57a9542369b6ddd4e3d739ca9664d0bed3bd47f62c84a05beb352dfb2fd40f896d967e259f21af6ae095510bfa02e6f619fa76575cec3de06ef1e5f62bfc053aba35a881980221f66c385329f1e290fcdab8b9308005b34fd86107c46d3f37d99f4b9db823ebd0afbcbf8709e0b0a57c69c9523d98417626e227812c6ef5098b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/874b50d8791908f65d80edd9ff22a546/874b50d8791908f65d80edd9ff22a546.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "master-keaton-1226?ep=70890",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/efe930a866ec11e8f88d74deb7c2624d83225439536cedfb75c0b4e3746c984449766507b3ba6e6b3a1797d11c95c65f2fc1cc66527d7946295dcd2e0333f3238e8f1db5cad077d8760f9fee358439445d4df223e38e7a0d69f2b2c0566186abb2d43d07fb92fbfa154302466257a1d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd78ae682ee72139d09902547735273d/dd78ae682ee72139d09902547735273d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/efe930a866ec11e8f88d74deb7c2624d83225439536cedfb75c0b4e3746c9844ac20cfc2cfc27711b685c8eb5d506de55b7339c56256fdc8087a0dd6622a509e179af4e1d8b65c29ec44d3e204d7ce999a5e136621b61c67c1eebdc16f6716026719834a037b077f63d8fe2edf7a2346769bf59cdd6e9f1309738ced7636cd5fa388d07acfff144cc8ab3eae21bd2858/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd78ae682ee72139d09902547735273d/dd78ae682ee72139d09902547735273d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "master-keaton-1226?ep=70891",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3702beb634f97c20f050434f0ae55a80b33b0b1001d7c41a149348a915dab6099105f0275eb09188e1612bd49fe2ceb23e160b72760108b169c5589734e392bc75a706d8291e2fa0548fa8262735e8da7dd80886efc98ccca4027e63808edecbc3304f88477053359f7fc336f011726d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c768f329197293bd0b04e3539920cf1d/c768f329197293bd0b04e3539920cf1d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3702beb634f97c20f050434f0ae55a80b33b0b1001d7c41a149348a915dab609d4532d9fcdce3ac426df0a87f8db317f4397e0a5376c259a2531ef159e35974e35f148a85c8bfee19d9c033c8d6d93b482a2c95b5eef61687d96cc460d1b12d3617673d359e9cab68562975ed8349ce8354c0921ee5d668c8b1dc5bce9a75848dd22294c479a21ddf2a363260de8b765/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c768f329197293bd0b04e3539920cf1d/c768f329197293bd0b04e3539920cf1d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "master-keaton-1226?ep=70892",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/12fb358fc106922fe6ba551d2dd0659220e9f90dc62e140a28e102a39c3e0cb6e9f20cf9df6ec0f1478e99b55817052a15efd53a5555d000dd6189caeb7b8802e359fbd87f87fe21236252095e1c2119e7e7c9a6fe49500398887fb051df4631748f66d9eeee84be36b47e21b4945b6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50dc9b3b6005e68a2d53f09ac9ca839a/50dc9b3b6005e68a2d53f09ac9ca839a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/12fb358fc106922fe6ba551d2dd0659220e9f90dc62e140a28e102a39c3e0cb615f26114cbd83ef1e1a188a9ce28e70b91ad116279b0babbe5bdf99b6a3ce20de6af4fd9cac3208f001ec0d36dc81cee5acd6724d671644e6fad79d5cc609f13ab1e4a85c7210e0aabea82a606fbe5bb134930f2c912d80fbd1ef6b01bb1efea18c1ea5f1e2649471c5b54af2f35dd4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50dc9b3b6005e68a2d53f09ac9ca839a/50dc9b3b6005e68a2d53f09ac9ca839a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "master-keaton-1226?ep=70893",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/123410640f32fbe27e72d3c9c497d53f2c2dce3f908608c278e7b9b2093026d07ec7066a8e104c581376ee4b6e2abe53dad20d2606f8f7a058bb7b20cb86155cc8e70e5ce29a2bccc9c48da4d96f96a15b03651e3077db077f4d32606f415c77644b7129d11bc615eed5f3b3930b67e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f98106b38276301b63984ef4ad2befc8/f98106b38276301b63984ef4ad2befc8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/123410640f32fbe27e72d3c9c497d53f2c2dce3f908608c278e7b9b2093026d04b28bddd1c7bf1171c9ce3d4eee8eb7ae89530d204386ee5618845dbe816f7f397eb65a2623e2ba2646c185c63e442f8dc434b55209b26e8cbb612e412bfbcaa349142161d717c19f2fa385d3963226a8ae9e042b6f12601ce1c741c6e40f7211c27ec2c28ecd2bd3e10b6f9bbfbb595/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f98106b38276301b63984ef4ad2befc8/f98106b38276301b63984ef4ad2befc8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "master-keaton-1226?ep=70894",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/73b3128bf096d6893f54af5d4c6a68467f25217300f90e30daad24b87ef1496e408fbcaa2e6101708b6bad63f89fd05d7e4cef326a4ed5e085d4d4a63d3a1a8bb74a378f2fc8605757b0632d9677a31637216fa795dd46e0cc13867824127a8445917249b003a739c9f4144190dddad3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09a28c48a846d9e42f2096c952cbf1b8/09a28c48a846d9e42f2096c952cbf1b8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/73b3128bf096d6893f54af5d4c6a68467f25217300f90e30daad24b87ef1496e3c77ed80d961b2d6a85492f289cfac26bbbcbf0c43530af9dccede6db02f18cfb748a71bfddf3e99b3ea4845f2e3cf873c137c92f2c607af3a8ec6b9ea46e5695081d397d9df100d6ca362d8cadb1e4819f5cde759df986ec4e799c18861decd854c20d4127d6150ae9bea25bd08054d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09a28c48a846d9e42f2096c952cbf1b8/09a28c48a846d9e42f2096c952cbf1b8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "master-keaton-1226?ep=70895",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/785a9fc4a6d3511fb96a17f1739574f7dac5e4b261a9cb475d9fab9667ddf085380986520acbeae09cd8e2b0eea0e509ac43358f2e964a374cd040d3ed82b05fd5200e6d1d396189562a125b024a55b3b08878fa765ef847bbe6aaccd96ba879ada971cad69d6b26327c6848375d923e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b1f4b48967482bd8d8694a7f261210f/0b1f4b48967482bd8d8694a7f261210f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/785a9fc4a6d3511fb96a17f1739574f7dac5e4b261a9cb475d9fab9667ddf085b17cf5fc923237c85f3e9d264eed490ba2aecc7870e8ec18583cf5f95ef44b4a92b503688bdef41663e91f061236f208c01892d6f07faf3cf807d76c3dcf6271f45feb8f63e894e04746d1ac2a6f54b956b02c6ab07ba831bc2a3f27d8eb9733b1dadb79a6db4924372d35fc627ff011/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b1f4b48967482bd8d8694a7f261210f/0b1f4b48967482bd8d8694a7f261210f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "master-keaton-1226?ep=70896",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/83bbbf71a18d086ad581422d460af3fdde783a93244efd5659e03ab8e3fa867e5718027bf5ae7a2445bc0c28f9785f78bcc416664ea6728848717a6a8b3ebdafb29dabb2aad2172f60539cd947324bebba779728a13ec052ce73270fa2c3b79cbeb5f7660c19f7606e5bf4df609ec870/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e6eb1798ba51908a1c3407275fbcaae/5e6eb1798ba51908a1c3407275fbcaae.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/83bbbf71a18d086ad581422d460af3fdde783a93244efd5659e03ab8e3fa867edda52d1ff500f2efb16a7d710bd008e4023eca126887e49fedcea50a6fe20927af78c15d6a33e01d1022472ad7d65dde3f0501a560f0aed8f0b75339fbc03e5cb964876e07ee4aaab11d85a17e0dbbd1f2bb2a9b5b0763d3a0df7ec5e725b48c18298c5b7db728d1c54150a2cbc77777/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e6eb1798ba51908a1c3407275fbcaae/5e6eb1798ba51908a1c3407275fbcaae.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "master-keaton-1226?ep=70897",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/52ac9b63c4ca60559fbd2fdcebad421c6b634ad36163c2959d0342f5598e59a6a0c356229933aeb75ef938badf14022eb6e1a79c7697097309db72af2baf10bf228089190e7b60b28abeb86a1265bb8abf08ede96ed7b8c9b94322f43b4550c2290977aaa0ce4f4935d0359dc89721eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5c2d26766300909c9fae8516a21b41a/d5c2d26766300909c9fae8516a21b41a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/52ac9b63c4ca60559fbd2fdcebad421c6b634ad36163c2959d0342f5598e59a6e86bf30b95b0232cc1b09560a06f5f92fc7f6e38299332c4b80e21239a9580f9ae467c9451ef38406bf7ba91ee3706bce60798292a0d7fe6b07a947ea24f1a790d9ae60a1e05ef1307655abde139fb2f2a8e8aa426a5efe36b2b8c329b313e47f7ca75478009a3e9144e159fc0ef727b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5c2d26766300909c9fae8516a21b41a/d5c2d26766300909c9fae8516a21b41a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "master-keaton-1226?ep=70898",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2eeacb0aa70f07844c8c92ef25dd932b24e794ce9f5ce542760d14da7ca567b1160ee2255ec047e368aa6e3a9ae20453df1c40a4887f0f8ef52a7d96b9479f0b4a56156bfa4c7e6489d69f67640708c00b824780d0f4cbb30d45c49fffadea4f214737c871d0771e0d7bc64ed35f6e3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7fb723aeb97911aed3af1ab6fa9388a/b7fb723aeb97911aed3af1ab6fa9388a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2eeacb0aa70f07844c8c92ef25dd932b24e794ce9f5ce542760d14da7ca567b1999bd8c873e988ebdf9b8e8fb08c963084f4c8ed2f38a4eea98dfdb6797700e2b33d053c6239d0713aa28fed5af8ada949fc96da472ffc3734347cb4d2d6565d3cc3d6790b4d4975ee515fea658ed86bb347f197d0f4432a1c69b91bd867eeb22e50fc0488ad699b1ea7135b1a618bb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7fb723aeb97911aed3af1ab6fa9388a/b7fb723aeb97911aed3af1ab6fa9388a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "master-keaton-1226?ep=70899",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/af60c5b110b244fa7c33b93f2627ec34311f78af63370b70ad2a72b4dbb563b0e662fd44ed7636e085960d4512b43935f7f4aea3384d6d91213097beb8ddc055e641b3ee32b6b8ce0f5479e5e41e482cf569cd82028b475f7c17de42c37198481c77fbf348889f056a573a26d284e25c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e5988f621c4c1def23f3424c37df91e/2e5988f621c4c1def23f3424c37df91e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/af60c5b110b244fa7c33b93f2627ec34311f78af63370b70ad2a72b4dbb563b04a7b953e2afa008cf7dcc9ee1d8e8e25ba3f7aad4e00f673be8e201324ba95bd5d45ea865c72b9ce9c04505476356aa72b37bc163bafb381ba68951f518cddeb4cd324c5594f07e7d43657bcd3db15daf2a2c5b6291700273068d4a9a6aca79957af73e51441db374159de9a78bb37b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e5988f621c4c1def23f3424c37df91e/2e5988f621c4c1def23f3424c37df91e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "master-keaton-1226?ep=70900",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5a8583d96db3fada93f401b122a0e31fe3d0005bfefffec1e81364910ebc0e1ac857ea19ffa9f8f8376748a1febf0ca48810775f2ddbe12ded6db8bfd21c0d05d3e713b60fbc84b3b1221694c147834fee76433a09c4f8cf42f97881027338352ef4f144ce021bc890670c609647c055/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77c72ff3bd3ee23914d8837ca16327e4/77c72ff3bd3ee23914d8837ca16327e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5a8583d96db3fada93f401b122a0e31fe3d0005bfefffec1e81364910ebc0e1af6bab6b1d75f73b2dcac5ccf73606d9092be5291d9894e4e237b45149fb8e2c77d204cabeb6e9b1da2775ac776a99c6fa0b02e882e8c6bf9a0ed6a4bdb192111e04d5775bcc593d9deef7b6208bcb5498899afe016b1a728b5d2742c260728093c85a172e963c57b8fbc9946887456c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77c72ff3bd3ee23914d8837ca16327e4/77c72ff3bd3ee23914d8837ca16327e4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "master-keaton-1226?ep=70901",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/889179cc84ef278b36cb77ec7df34e2704f612b9ba4e93c775b337c030de49b01622422238d4014791a26d2864ed0eca44c5db2b798e495966cd6cc474b8827d51077d43acace3af6fa01aed0d34ca4fde2f7d72f0d1a50dc7d731038aefcc416ce023aff2f9ec4e62c8c8044a2b0ff0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce2a59188834eaf9324332bc9fe16e6b/ce2a59188834eaf9324332bc9fe16e6b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/889179cc84ef278b36cb77ec7df34e2704f612b9ba4e93c775b337c030de49b05f78005b3dc8d0e36fbaeb92f78f8cb0cb8b4dc7077c041658d1cde680e69551554a50931ba7319bd03e4d6c932699eae91cf78467a1ff1cc238175df975c8dc96405ad2d4f4e54cbc82568c6171987e2814507faf632b433fcc959339136232abdf0f3378c53c60d6544ec943343544/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce2a59188834eaf9324332bc9fe16e6b/ce2a59188834eaf9324332bc9fe16e6b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "master-keaton-1226?ep=70902",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/79f5af0aa3383512b60a065a49b92aff47c7465f6693b3d405427aa8dd1c160778fd9fd7a31f5f1f09da403e7cb22fd7cffe40e04a733ff25d5eb34721596b07f4f1814badf39367d4348d25fc7349eea7cd569c2a0d25d36083ad30e93e687976842c38e8c6b1cf8087df7a8cbc2ce8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc090df64b13c57e5d53c649b17bd711/fc090df64b13c57e5d53c649b17bd711.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/79f5af0aa3383512b60a065a49b92aff47c7465f6693b3d405427aa8dd1c1607d8eb5efa9621797e1e33c7f35f0666a2a51f9c02a95b580f8366255575b3b29c81ff1fb93a81a8babb9e50ba17e55d30cd17d59d3aca2fdb618b70c689980af93c563c48d48d0491b4696ad921c2fe3cdd6b758b2ecd29d595b16bf3b2a18b07b37a4ebdf6048289d34166561dea05c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc090df64b13c57e5d53c649b17bd711/fc090df64b13c57e5d53c649b17bd711.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "master-keaton-1226?ep=70903",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0ac8594354191c2128907cee83fb01fa328179979019ba73a85a3d0c90364ba6288f224e4c2b30a9404ac4df8cad238f79e2b2b8c629834af83bdc978d638669ab2f69aed27babf73314e7339e07c419843708953e64a60973f208a01a32196fdf6465a8a1c2c01f630eebe2a410aa65/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c3dd95f839737405e8de86fafbbab79/4c3dd95f839737405e8de86fafbbab79.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0ac8594354191c2128907cee83fb01fa328179979019ba73a85a3d0c90364ba69c0992ce6cafd1a2db3c5fe8fdb5f7ebbb7ae2e899f6a0c83d25bdb9282efd3604ac48ee609fabeec8f1ab63f9da6ccb8b02e8a3c87e564dcd11d3a074ceb7ed70422c33a8d94c9b53a7db20cb2ea2224c22f63f1f3871cdcb90845fb144cc16156f54f4dbbf32d55446799774e471c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c3dd95f839737405e8de86fafbbab79/4c3dd95f839737405e8de86fafbbab79.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "master-keaton-1226?ep=70904",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8dcf79cbc3402687063f9c8209ffb887cccf5d9bb2aa3f1090fbe7eec9dc36bcfc5d7e4386d475b629fe374ab243489aaccd887474964508ba066a25d9551e0eb1b49d2cc8bcaf0443124619a7471fe361a8f5381396b31671d63541213c5def0b549180cc1c1ac73bab399aac0df17d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22d472e9d82485653970574276e5b705/22d472e9d82485653970574276e5b705.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8dcf79cbc3402687063f9c8209ffb887cccf5d9bb2aa3f1090fbe7eec9dc36bcc399af36c25a4fd973d417e238f743cbd45688230c8541a9c39580bafdf73298dc4f719b0a5154f33bd23821cd2efacd134950c47005deecd4b929943fa54e54a1003953a05c100f6ad96057c6b7cedfb9d5ab7805e6ed12ea08d4996c140f9ece5282f60461512a8cd6b70bad16f6c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/22d472e9d82485653970574276e5b705/22d472e9d82485653970574276e5b705.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "master-keaton-1226?ep=70905",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/aafb618f41b169c7ed5e9d03e89cd32bc85c939a23dcc10b77147a170c77434c53e6c9e5b2b6ba28730b656a53cb282fdb7795a7ef05a866118d30428cf1d5ec136dee3009c5ff251807229e3be762f5b35dc15b75ddb0731cceb84f775eb3a9bd53fd7df1a7e2c87f33a41033f78a42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d2a0b79216b008852c5aea04daa6afb/6d2a0b79216b008852c5aea04daa6afb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aafb618f41b169c7ed5e9d03e89cd32bc85c939a23dcc10b77147a170c77434c98fdce5b5b4c7bb78431a073aa54042dbbba70c47fb0963d61cd5c9c5cf348ef6de9a8bdca043059aff0cd5a267861041ba11df1b9c5a25ead9dc25795f07d1f1df50360240279805dd8f3f50430b518a5dfb25c32209274587e10f6df31597517cb4f7a33684508cae5351b4ddf6567/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d2a0b79216b008852c5aea04daa6afb/6d2a0b79216b008852c5aea04daa6afb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "master-keaton-1226?ep=70906",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bbd06a3c686be0c178cadafcb3dca3fdb53bfee558d0e9f12b18b839963d1d4fe6a467de8dac33603968481645047f3a7bd28ca464fd25fa0c0da8483a447c9d55f5200e378c3bab0684102563bb7d47e733d884f02676ae950652fa7a8822f470c8cfcfa40cf70184d191cbe63dc331/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eaae8378ffbfc344427898cad3a786e4/eaae8378ffbfc344427898cad3a786e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bbd06a3c686be0c178cadafcb3dca3fdb53bfee558d0e9f12b18b839963d1d4ff6eda14bccfdd16a9f9c420538808e7c509a2158f2ec7e99f1fe2ff185be283cd1a175efde2d4f51167466090d09f19346d14888c85039a20b034c4398d9665c9f28bcb3b58de9baca1d4cd6ec308d0d9e445145b94097b39c5b137abb6b5f91e6f9bd5d00cd82a8baa5be0576481779/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eaae8378ffbfc344427898cad3a786e4/eaae8378ffbfc344427898cad3a786e4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "master-keaton-1226?ep=70907",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7a1e3bb9f5472da7e187390f32ad0ab280d7091bd84a7e23e64910d6b15eb39ca9171fec2a438c4ccc3b7c14deb9ace69e3fa3185a72ac0f74caa6c58314bd60d9185fe757c0506630956df42f520ed6aefdbf68a6eda7b375049afc0b6dfe8552e389bf2c12c3d27e99ce7ff4ae3966/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3c9d115c67ab15b7835e16724e72d7e/b3c9d115c67ab15b7835e16724e72d7e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7a1e3bb9f5472da7e187390f32ad0ab280d7091bd84a7e23e64910d6b15eb39ce0173490b8431224dc5cb69c7dd79eaa17a12c358e62e493dc66bef03f423b67c0f4011ec2b22aa502142868702f1eed8e909b9087984f6864b27c71b3cfc2b1459a588459974e4cd492e5d98f5d4229e19abbdf99bf8f3d59e52b21d9032a052771a359021f08305051bd7e49614840/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3c9d115c67ab15b7835e16724e72d7e/b3c9d115c67ab15b7835e16724e72d7e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "master-keaton-1226?ep=70908",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2ef296434a34535ed7b50257c83d558c19cfb08954a192ad31022c2d8c32f2b3c492dc83ba0af058fb6122c06d2f489445c4aacc92c6f39780b5308c3f71e7694b7598d9fff6e5721076265fd04256f03eb0da9762ce8b38485616a5bb03d1826563aae0ffa159cad71b7e5890b3b7ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6880fa37c4bbfa293072f230161eef16/6880fa37c4bbfa293072f230161eef16.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2ef296434a34535ed7b50257c83d558c19cfb08954a192ad31022c2d8c32f2b31c68ead2a6670e632d71c14cb743addf9bbf5788664ac4ba55bf5eea0be74f8e2db00ae30c68649ee1402556cf09f910de60ae25bbf3e9ef2c7aa1ac4f08f6608527f72ca9fefa8493af5f7c956e73beb522d7f50307c3da2ac8d9e1de770945af7776d10375fff7e9ea9425656e5390/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6880fa37c4bbfa293072f230161eef16/6880fa37c4bbfa293072f230161eef16.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "master-keaton-1226?ep=70909",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6b71aa12317371a1dfdd0fb26a7c63407534877336be27f35157c9539fc29cfcb18751dd46a15d628794449a97f0e2977f4f227c1bbb9ac9d7f656b4b8d73c54b24ed8f81aa694375a50d82571ff1a2134443ac46f04a61b4cd6738ae61ab4774bee57b59b56371f8da1e5ad95db89d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53a9d290967231f52b539eed4606028f/53a9d290967231f52b539eed4606028f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6b71aa12317371a1dfdd0fb26a7c63407534877336be27f35157c9539fc29cfce563625a487b623947714aa9cff31b1871623d343e149ddf13625e89cc34503ca9d254aa37838d1e3678d10ccaec64ac284339d1ed110ae3b007f38766823dc85969c1d71acabeb3f3fa835bd45659816f13e7e62817aca5201a0e9571005fb03500ce2ed109903e22d37395334aa3d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53a9d290967231f52b539eed4606028f/53a9d290967231f52b539eed4606028f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "master-keaton-1226?ep=70910",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6c8c8405c56b9807e5b4acb81df63c597e5939a69063165c95c9152382e53d33f62ae93733fbb83e8c3ea52cd238bc06420c012acabcd026ce7dccdf24d76134028348bab776bae2ae51903eb968cf71ac10b6f4b50858b2e17a43db728ab35f4627dcda0e6143199077fcff5669a615/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27a4ee64f017f0b259e3008bec15fdf5/27a4ee64f017f0b259e3008bec15fdf5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/6c8c8405c56b9807e5b4acb81df63c597e5939a69063165c95c9152382e53d339ab7083bf9470122a1cfcc1a39a35023a3b1ad2dcad1d66c5890302eae852a7df5687b76df613ad4af99f31abc450d29142ee0e94db95fc5ada13fc3f815c24029806b737bd134baad650f892f11ccade4f1f4e090b667355067febf834b73f00685cb735113ac3d802b24ad8bb3b573/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/27a4ee64f017f0b259e3008bec15fdf5/27a4ee64f017f0b259e3008bec15fdf5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "master-keaton-1226?ep=70911",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d660a5d5f619cc4737049729247697eec2a288db2e9d9e6f912703850ca88378e4a2d28c1ef4dd8c736fc62300e38073046645a0d1ffa5ede0dc05967039abb0d506504c267caa3d1a8634217b9fc4b6159517ef5f6d173905dbd3da799cf7fbe9679da655159b4db986c797d3e33876/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5578cb7def0027e9b629addb0597820d/5578cb7def0027e9b629addb0597820d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d660a5d5f619cc4737049729247697eec2a288db2e9d9e6f912703850ca883787d4f7bb3dcdb4bcd8268281f56c6c8cc7663737c8efb020be6d9a79f7b6d3e3a5c8ca9b2c19e5ea5e46d051e20027e811bde76814c9e7c68c6ff17820b0fa7230f997eb8880220a34679bf76bc28d2ea53b8c4e933cecb3c358c84b00652fef673689789687b577aa4f9fca13b574f52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5578cb7def0027e9b629addb0597820d/5578cb7def0027e9b629addb0597820d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "master-keaton-1226?ep=70912",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/84e0766861f54a515aeab62609858fd78e3812ea4a1b5ed8276218ff52f4c484fa43e10cb0e346084db093621f49c2ef86064e6f18e7eff0caa2653edd197f85aecb028012c76f2b964423015a6b31b7bb3b35cdfe74c9dddf1c3cf35bf988e595c5a21ae0ed423dcaaff38a6d937617/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/329db8292611f5baccaf36dba443449a/329db8292611f5baccaf36dba443449a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/84e0766861f54a515aeab62609858fd78e3812ea4a1b5ed8276218ff52f4c4844c5afe3dd9c00bb9194454b06e9a7ae7e77b7bb6f2e9990911d650516aca211ed7acc7ad0effd57b091c064d1b1b3624d153ad49d7717f66d6461b0b22816bb7790ea256f5a6c220b48e8941a8f77fe1384d23540ce62e0cd46c9a59a5780c7955dd5362c728952d5c11b5543f4c970c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/329db8292611f5baccaf36dba443449a/329db8292611f5baccaf36dba443449a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "master-keaton-1226?ep=70913",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3138220e4497a6609121c5efcc7f2f5ecb613bce684ed17874822845614474207930192ae780508b2b9ce8e80d58e126c8f127b7d9bcdf9d2fcdca2c88aad36cdf386c6061f9f9a14c35f5f069b2265161b7bae1fbaf6a764717bc1ab997e32f8c673d25dc5ab66c5e1a5fa2e360072f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2db49ac7101d2e90d27a424542d21ed7/2db49ac7101d2e90d27a424542d21ed7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3138220e4497a6609121c5efcc7f2f5ecb613bce684ed17874822845614474205da18f892157cc708cde72ac92592c9b03539a5196acac33903bd6eb9ecd1d725788ce0efc87230208b1ee1fae0d88817f760ea1897769b778c59cf3ea4d977b83c553bc6fc0f36470afb4c829fe98466a5ac5519d1577a713789054e988efd606135108a7a65a5d916ec44d3842e394/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2db49ac7101d2e90d27a424542d21ed7/2db49ac7101d2e90d27a424542d21ed7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "master-keaton-1226?ep=70914",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/def9e5ceb5c877075a2bf586524035cbc4b1a1cbc4c3aef7b942b5c6f168e7eae7dac37ab7c6d1f3f27d1cd8201fbbe41d386c783ac7b11c59a09df4f29362ecaed53fc2380a1f8bdcce43869c5df7b1270805bd395a513a6643ab1a2a680ecb5eb372d03e0fdcc87d542c1ce95cc08c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c19141d1802497eceb45728aabc99a1/3c19141d1802497eceb45728aabc99a1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/def9e5ceb5c877075a2bf586524035cbc4b1a1cbc4c3aef7b942b5c6f168e7ea733e1171256f1c2116f143df50af986bd67afe43db84f3d476939cfef16ac9edf009fbe2e19521b5f3aef811f53cfce53eb00cd872e332f92f66770d07bed3a0b19f01aea8a6badb3b2daa195495c4b94e6b76d4452a12b8ce44349f8015ceb46b562e166feb07bc5bc580a3cca58684/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c19141d1802497eceb45728aabc99a1/3c19141d1802497eceb45728aabc99a1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "master-keaton-1226?ep=70915",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e9edb3e6e77d9fd1c2fae8b1dd9833932516f800a5f4f9c3a7eaf6bbe90cebb3765fe72d4bd8e2f70a282b5ea7f0468bcc341952cc0302fbe0e8db65325774002731f7d10f089ea76a83845b663543bd842f762c911a9eafb0731d4c45d7f9bccb5f767e1367660d5bfc7607058ae4d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9cb97765e5efba69310974c25392fec/e9cb97765e5efba69310974c25392fec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e9edb3e6e77d9fd1c2fae8b1dd9833932516f800a5f4f9c3a7eaf6bbe90cebb3cf116cf3cd489f57fc6e4157dd619227bea05869ee2d79c76b38b8b216c8605ddc27fbceaf2fbb44f5050037302d492c4293e7e8c38046bb4237fa7ced1b3e9517cd36dcd6ba0ee169ee241121f063669865c5291605cf16666335bf1af613ef2524a0d1ef8c0c69de3cc6afe7f880b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9cb97765e5efba69310974c25392fec/e9cb97765e5efba69310974c25392fec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "master-keaton-1226?ep=70916",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c3b498e6624d5e642b0c32d45a8e0b32b5a99bc4438cbe597e3c821506f097f937f8f45e3df108b780e1649268bf5f88a85bef7e1285369a9d2eb850ba77bf1e58f518884b564ecd3a23a9424af4372395a6fdb3ceabfe89f5fd121db74715d2ff89d5376a8b31013e7de56aff56b3dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c15d4c57a3be384cee2a8dd17b557b04/c15d4c57a3be384cee2a8dd17b557b04.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c3b498e6624d5e642b0c32d45a8e0b32b5a99bc4438cbe597e3c821506f097f9f663f935b09e7afdcc0f18b83cdacef7e59d7e4a50db8d738d470759522234344a8d7e02bad5d524d065e839102a403379e825fb76ea8fd2b84422fa55240de967111dc6915c4d6df93516ec2e56cd9a3ecaf163eb6f2c34ee01ca1027a2612aafdbc22d18cfd0d888c33edfe79dc5a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c15d4c57a3be384cee2a8dd17b557b04/c15d4c57a3be384cee2a8dd17b557b04.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "master-keaton-1226?ep=70917",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/93b9865678ed1586df99a2959219d2259958a8590e3459aa0b8530358974e83eb52b104d041f7d6062c9b0438033510d60d2ac7f9c79ace81ecd8ab7ca09a5b3db8cac8f0528fd6d9e590870486710188a8dd5b7ab728d630526f842d9af8e5178b0276bbdac604f791ecf4f9d98ff85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4191b6084eb7b8bf68ca59369a654ef/a4191b6084eb7b8bf68ca59369a654ef.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/93b9865678ed1586df99a2959219d2259958a8590e3459aa0b8530358974e83e9ee5a6747e06a1085743b9efa917623442b787dee42b8b11fd320f9ec3a11c557c9d33dba61ae58bac425927df2b78874c1094944b6695f87a6fb96f4769bb1c7cc85a127632ff52654bf5bf589b4cb6217f93f4633d656329534a328f74709fb473495483fa8047e67b2fc1f032fb19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4191b6084eb7b8bf68ca59369a654ef/a4191b6084eb7b8bf68ca59369a654ef.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "master-keaton-1226?ep=70918",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/56d4641cd0c23f7ea1eee0cd2c2e9f6947a479ab093b28f3a98ed4f0211818301ba46ced7468b87ad5a28db1eea50b226aadbd77bf2a259b8f78db3f406e040cb9fe4291d531e5db70aae9fff4fe4b5cdf8a89c5396b07ca38e04f061d1d9500f9403e42d0ed01eca2d807e207a3b3df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06a69186975fca50029d3c11817aa880/06a69186975fca50029d3c11817aa880.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/56d4641cd0c23f7ea1eee0cd2c2e9f6947a479ab093b28f3a98ed4f0211818308a1e1c5ca11405fccc201a0ba3b24014e56d9452b58f74ca5392e10d487b523aa5689fd9a21b3d364984bbe72a15f6beec42fb400b185270d63c46f0c6817257d3c1d296e4ba31f84f2f4942b24c93bd6fd9f2a46d7dc645ae2ef6695a079002d42dc673bcb7546cc597d51473bf42d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06a69186975fca50029d3c11817aa880/06a69186975fca50029d3c11817aa880.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "master-keaton-1226?ep=70919",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ca55ab3fbd6fe6478bb8e2fdd0a160c8d81be1eea70e2e4e564a4a9f01d3b4599193ac3a982ee7cb4578842c15c65f950a804c0c3323772ae2ba9caa3c532f09e50bfa2c8ddcff86c8c8923b9aa8ce810334d86a8f5b86b42da2c56bc561f896990b573ccfa2b30a96e489e6846a0af6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c9328338835ec7224667022f1c4d45c/0c9328338835ec7224667022f1c4d45c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ca55ab3fbd6fe6478bb8e2fdd0a160c8d81be1eea70e2e4e564a4a9f01d3b4593bf18e078285744784a37a8e5567b4816792456df76038293f45a2a2921e3311ce74e83145fcf4597f5f9271f3f38ce0753cca55c1535740d551b08072e23532536e027df1655306e7b0e246ca4c6f5cad05fa8734347c9c59dd1881834438fc370e35969537503cf5ae383cb6108582/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c9328338835ec7224667022f1c4d45c/0c9328338835ec7224667022f1c4d45c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "master-keaton-1226?ep=70920",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c16d6b402e1e49ca375c922f0243fa534930b630ee31a4625325c1d200d886e47bf286cd19014b71f6ad62e0f5f3888851945d4d6c8239a8668238eeabbd337e766790d804ee98c620e21bad06bbac2d82c19d6b438cea6c586953b4d52a53bdbb86bb5d471c1158633134cd326e8d48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e3ce1531f6d91e192d8b231c4b9e734/5e3ce1531f6d91e192d8b231c4b9e734.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c16d6b402e1e49ca375c922f0243fa534930b630ee31a4625325c1d200d886e4886c5b9c18d1b3545e131c47ffb9127f67a15bb02e077accb17dce6bd8af79a70e8710418f2cdebbcc6065b35dbde13190169f8398a4cdc1aab17471d38eed57be3c54792ed02d29df5bc3130d5f53fcccdad2df9b8d49933119c663ec144dbae567e55611c06c55cd4c9b015a409f09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e3ce1531f6d91e192d8b231c4b9e734/5e3ce1531f6d91e192d8b231c4b9e734.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "info": {
+        "id": "joshiraku-1620",
+        "anilistId": 0,
+        "malId": 12679,
+        "name": "Joshiraku",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b403cef96d2962fe85eb65a8bb328c4c.jpg",
+        "description": "Joshiraku follows the conversations of five rakugo storyteller girls relating the odd things that happen to them each day. Their comedic and satirical chatting covers all kinds of topics, from pointless observations of everyday life, to politics, manga, and more. Each girl has something new to add to the discussion, and the discourse never ends in the same place it began.\n\nEach of the rakugo girls has their own unique personality, with the energetic but immature Marii Buratei; the seemingly cute Kigurumi Haroukitei; the inherently lucky and carefree Tetora Bouhatei; the calm and violent Gankyou Kuurubiyuutei; and the pessimistic and unstable Kukuru Anrakutei. These girls—and their mysterious friend in a wrestling mask—give their observations to the audience, either backstage at the rakugo theater or in various famous locations around Tokyo.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "CM 3",
+                "source": "https://www.youtube.com/embed/gjUmRgmgq98",
+                "thumbnail": "https://i.ytimg.com/vi/gjUmRgmgq98/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/DMmKWTZeho4",
+                "thumbnail": "https://i.ytimg.com/vi/DMmKWTZeho4/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/OwZP02bXLeg",
+                "thumbnail": "https://i.ytimg.com/vi/OwZP02bXLeg/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kukuru-anrakutei-4468",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8c078401aa07f71eacc087d6e126e635.jpg",
+                    "name": "Anrakutei, Kukuru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "saori-gotou-875",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/836c46e7c6f2a7f6ff55c36fcf11c6a7.jpg",
+                    "name": "Gotou, Saori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tetora-bouhatei-10287",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e1f1c6cd8c24d22f561eb20608d41fa.jpg",
+                    "name": "Bouhatei, Tetora",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nozomi-yamamoto-991",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e952b04462c4c7dbc377f1bd1586a666.jpg",
+                    "name": "Yamamoto, Nozomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "marii-buratei-4737",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb6aa1b9eaa71540dcf2736a42962ad9.jpg",
+                    "name": "Buratei, Marii",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kigurumi-haroukitei-8994",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e849327a6627dd2cdb69c7b858abfa3c.jpg",
+                    "name": "Haroukitei, Kigurumi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kotori-koiwai-508",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b1e6831a257df3f4be142f62418b34b.jpg",
+                    "name": "Koiwai, Kotori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gankyou-kuurubiyuutei-11534",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/abcfd8fea93779b06c39a243e5ee8cfe.jpg",
+                    "name": "Kuurubiyuutei, Gankyou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshino-nanjou-248",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30975a01d62d10412654b0fea0bce38d.jpg",
+                    "name": "Nanjou, Yoshino",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mask-18257",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06e23b68f98e49ad3e94fc67ee25c5ba.jpg",
+                    "name": "Mask",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "aoi-yuuki-20",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df6df1997024579a228b6f2bbf984798.jpg",
+                    "name": "Yuuki, Aoi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "じょしらく",
+        "synonyms": "Rakugo Girls",
+        "aired": "Jul 6, 2012 to Sep 28, 2012",
+        "premiered": "Summer 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.49",
+        "genres": [
+            "Comedy",
+            "Shounen",
+            "Slice of Life"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Starchild Records",
+            "Mainichi Broadcasting System",
+            "Kodansha",
+            "KlockWorx",
+            "J.C.Staff"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Normal Dialogue / Different Clothes / Shouting Instructions",
+            "episodeId": "joshiraku-1620?ep=21603",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2a6b01be7a725afa8edb5f1ea9686ae5c17d88261b5755c6dda74d2f802bc4fc03bd7d582fced14ab8072804ab9d0f9905cc7891308c5d368025b6c702df293431b838eb4061ef8a6ea451c650d5015497b3d7309bd3cfcea3f2d9b762a0ef2340b8a3ec65f40e4d5ffca1c0d471c7dcc36bd73552781da0e569b2fb112d73ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac714721f2db18a045a824a6e94266f1/ac714721f2db18a045a824a6e94266f1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2a6b01be7a725afa8edb5f1ea9686ae5c17d88261b5755c6dda74d2f802bc4fc03bd7d582fced14ab8072804ab9d0f99a54a565d2df4c780db8babbf3b73da6c8b18c950aac4463d85cbb900cc6cb3a1f9584771b4b4b6a9bd526888189307bea7eda66183a033d7f468cdf494471819868bd305a60a9d961c8cb329f62a87e85200d037ea954d169e36403424fbac47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac714721f2db18a045a824a6e94266f1/ac714721f2db18a045a824a6e94266f1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Backstage Riches / Three Towers and a Vow / Cold Girl",
+            "episodeId": "joshiraku-1620?ep=21604",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0acc642662e0bacae491d2b52a6d592c314a048a89c4416cd60034320c5897822b4b3657e06e5ee0be224c119ed073533de89a050abf6f501f5bcdfdf7db4700a95c1d5a8ed8d6814232e8f223ef337181fb0a0b018eb88623fcaade9e993b8aaec3608201886737b7515c6bac6622863b2408f1e748da3df803f9374bae62ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efda26852268269ae889307fbaf81218/efda26852268269ae889307fbaf81218.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0acc642662e0bacae491d2b52a6d592c314a048a89c4416cd60034320c5897822b4b3657e06e5ee0be224c119ed07353095d4c5adba2bbc587ee12fe3ae0d0578f48f40bdf1b20dd9f3a346a8a88a31c4a83cd18d68077fdd3475a5bbda678ad14865f7e879d9ba53aba705be4e2a93678b2684b222f9ea4e4d3c6bdc374e35e80e5d57b688b8f28639fb3216692cc1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efda26852268269ae889307fbaf81218/efda26852268269ae889307fbaf81218.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Heartless Bath / Going to Asakusa / Sanada's Little Zoo",
+            "episodeId": "joshiraku-1620?ep=21605",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2ee55367fff99fcc2c7e3a572c1840029497398360c3d87b1ec95f32cf1d392aed916cc970ff6ce2cfd89d3722f83146af4cb7f6099c8455a400b72cb723ce9063972dcdd3ddc1286af331cab854d03f94dece605c4038a61eb078c2d87ea14fe89393188b0e4715aa24216d0788284f0818e3478b1ff42a35cc20b7fc092ea0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b58a4702f4035919e0ebfbd1f568884/2b58a4702f4035919e0ebfbd1f568884.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2ee55367fff99fcc2c7e3a572c1840029497398360c3d87b1ec95f32cf1d392aed916cc970ff6ce2cfd89d3722f83146551efc16715265278682a0a2cd3f86b389aef0486d834bdf081cf9f55fd6e0ed9975c432df919dda839a4f5894bc840aef4625caf2207167f65dd2bbeae1e7b4fe4c984df9f667ed56bafcb66e6d3823d6d9a7d3125d39f0b200d4c6e850ba71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b58a4702f4035919e0ebfbd1f568884/2b58a4702f4035919e0ebfbd1f568884.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Young Girl With Glasses / A Good, Good Fort / Eyes of the Rabbit",
+            "episodeId": "joshiraku-1620?ep=21606",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a40f7c492d272b0c632e6038e25ad89c35609c2cfc00e5d386bd813226d7985286b6f451ee591bb59918ca61a17c5810d54d4240c5ff4bf2524c4ba832e9c49eca4bd47d7e116de712e6f6893e09b83c71f868585ce9c2c962f186163fbcde12d75245f812aa0f95ed0754536af5992a752e598f98c45d383a26226b3f90de47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0ce384e48899f6cb817815a48c8fc79/c0ce384e48899f6cb817815a48c8fc79.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a40f7c492d272b0c632e6038e25ad89c35609c2cfc00e5d386bd813226d7985286b6f451ee591bb59918ca61a17c5810f800ad5f1186ec7ed98677da4c11b97098f0514fa463bd9d08f10f358ab4b89ea024b9367fd38e529077c38ac9596addeff838747ba53cb69ae0cb48d2ebc3a80eb634e47c58d2590e3aa5b398490d1d9a09736fd1fa543ee13e2e53e14c854d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0ce384e48899f6cb817815a48c8fc79/c0ce384e48899f6cb817815a48c8fc79.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Praise the Girl / Small Holey Town / Farewell to Glasses",
+            "episodeId": "joshiraku-1620?ep=21607",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2802d4897baeb959238d3b5cdfda41d3999346703c1530edf2ddd04e0f2a1e398da9c253b5f9d9faa3aff12aac1969234fbec459b550d4f38bfbae03c9a4c15cfc0f51b465f6d3b5b06e7d679ec539033edcc91edb2938cab3889b8d26bb336a4b879124ec0509766f1bf5de63ed41eb6e45bcf88cda8913c0263e58ce645110/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79518185142496692ad1c9b704eadc3b/79518185142496692ad1c9b704eadc3b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2802d4897baeb959238d3b5cdfda41d3999346703c1530edf2ddd04e0f2a1e398da9c253b5f9d9faa3aff12aac196923156db01279cb7c7c41a61a3d807633971aad8068eea62a77d4e22938ba4dfae9fa22778c3b4d40e7c8641302ad966140503c5dd527196039c9496cabb1cd5aa2cb4d654369eb313ced253cb80281afc906053bcea43776f213e99e0de7d46a90/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79518185142496692ad1c9b704eadc3b/79518185142496692ad1c9b704eadc3b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Four Wows / Musashi Scenery / The Servant's Vengeance",
+            "episodeId": "joshiraku-1620?ep=21608",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a67e5af53008c736a83e2478658ce944f20b9a842e547a88c9a1ca3eb68584206087a0e5509fc8495a2ce968eb6db7df8b510d0ed4cd4bb36c79f36674d752c03eb75e08fd295a540a22d0a84cca8c1989fceabbed1e85eef4761b69be935e3f1417550acbebb8429b097853213573a413968a83cf515bb848393ffb5cc08c5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f19938c7cd361b183621c903423b1b1/0f19938c7cd361b183621c903423b1b1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a67e5af53008c736a83e2478658ce944f20b9a842e547a88c9a1ca3eb68584206087a0e5509fc8495a2ce968eb6db7df083335ddefea1df45f6093eec939a0695f7ceaf1e05e8a821a4538eb73016e5c39cc8bc0f843d18fbc2f648b3a6f0c4e5eba0bd3b5bd52bfa6e00c6116d9642be39fa9e1dbbbe1251f657663438ed527e725bddcbcd0fd4c704253c483936c4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f19938c7cd361b183621c903423b1b1/0f19938c7cd361b183621c903423b1b1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Yankees Are Scary / Fish Story / Backstage Files",
+            "episodeId": "joshiraku-1620?ep=21609",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a5e150b95bfb8ffcc632309f143c13455d1fd39fc6fa0d9c11f56498eff8baa73bd155e75959226637d0836fbd3b927580616d5d76ef6a3a9fb42143b20551e86d008fb2bea6b50df03a655c1ad966f4295da1509a1be276f477f57bce17fa66680aeb9053a2f5e2051256e752b3a755ee3d2d558eaf3d54fc01f11cb813de1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/04612c93e293c625473831ed5a063fdf/04612c93e293c625473831ed5a063fdf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a5e150b95bfb8ffcc632309f143c13455d1fd39fc6fa0d9c11f56498eff8baa73bd155e75959226637d0836fbd3b9275f862a3d439e229d9e8e011eaffef407a84f7136c75bb696c8394e02dd9e6366ef7495f99f6de58c59dbd9c50e90f58feb26173ae3d8e0455df0f7ce42467f5b56bf4f74696cd9f985b986e24bdc1dc4eb526abd12f25162712fd4c9f8c532810/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/04612c93e293c625473831ed5a063fdf/04612c93e293c625473831ed5a063fdf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bag of Gold / Totter / Is It Over Yet?",
+            "episodeId": "joshiraku-1620?ep=21610",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/07c198fa40607eb5029b9fa9344df9802f24e8fc49006fd86b68c0ff6e82037c79edd4213be489a2ce97bffb754b61495954da857b35e94551f273c51e95a38cfce7a973046aee5f71a65682e198a7f57ea5f0ecab51f93ead358da1501c4fd03ec17927fc09635e84a99870b6a2355b449d28e2e1b3efeb22271630661dffc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11b95acc2c34e97b3612859cec1954f9/11b95acc2c34e97b3612859cec1954f9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/07c198fa40607eb5029b9fa9344df9802f24e8fc49006fd86b68c0ff6e82037c79edd4213be489a2ce97bffb754b61493e073b4295eea0ad8eb2c64db6c48aaa2f22ac4f3dd2ec39494fac549c7a71f18795549d2634aa973732d3ad92d7baff2cab41e5c967cbca27dc4958489d19a14e4f8d7dd2bae89ae4e6930a2ec1e42615fe66838692197d1524cfa9eb141e46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11b95acc2c34e97b3612859cec1954f9/11b95acc2c34e97b3612859cec1954f9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Butt-tofu / The Bear of Ueno / Sleep Talking",
+            "episodeId": "joshiraku-1620?ep=21611",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/52b218f8fb1488a76e1be9c0a8af2c0c5ae198a88184fb84f14acdb4ab7f10bcd414132e4caa19e33a5286f5853f50c2deee3f7a451de22e295292da37aed85a0b50a56fdfded447afdaeefb17d2858b146e4555788bf52bc80f08bb85d760ee1788f70ab2f5a56b7e9b99c4895bb8aacba3141787ddc30f007bd3cf2ab7eec2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f624258aa7a263a90510c534d92776a8/f624258aa7a263a90510c534d92776a8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/52b218f8fb1488a76e1be9c0a8af2c0c5ae198a88184fb84f14acdb4ab7f10bcd414132e4caa19e33a5286f5853f50c27829b87d59de0511f3d9fb3ec6b954f9cbd2bf9d217f20b8269fc05038fdf4a2dcff7e1736b21f2c5e7eab2632e566f66dcae89a99a5a558b8f9c7b11124c518d3948e9796091e9b2b5c82cd7c1facb1a56809d45b1e689efb543991e766c7a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f624258aa7a263a90510c534d92776a8/f624258aa7a263a90510c534d92776a8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pumpkin Band / Battle of Shinjuku / Cavity Shore",
+            "episodeId": "joshiraku-1620?ep=21612",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ef6e5548c44fccfc8935d72670bcba08d82fe7653eab34168991f033fc33f36229aa9b0a1d65df524cac99d2aeddb883fc99ded9668b669adcdcd186897b6fedde8382b4ad5c3acfc4bf50ca4670d0cc1c97ac1e69b8272a0cf032ba80088140db48158b01fd3d09a006851b412e9a309cf7d6cb595418d4cb1c13c3aa033ec0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a91286f381a2547f174980307193340e/a91286f381a2547f174980307193340e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ef6e5548c44fccfc8935d72670bcba08d82fe7653eab34168991f033fc33f36229aa9b0a1d65df524cac99d2aeddb88344965f4a868fe94a28de05540578a1b940a3c89ef9bd81cfe1f62268862f70313eee391324d3d360403196641a3246f648dccbf30260bddf3360977345041ba923aa6eabfbacd4a421dbd300b5485afe903f90a5875c5b11180a4ddaeadb8bcc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a91286f381a2547f174980307193340e/a91286f381a2547f174980307193340e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Family Play / Sakai Five / Tree Tragedy",
+            "episodeId": "joshiraku-1620?ep=21613",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/87b4a3b27ebc59457f0a26c9c90753828ddd47ba46ea6a515ab361cffd00cba1a86f61348f417df6680719e51eb30b4c546daca1dc434f4e355dbb4c4357d6a863846c98a7e8985d6a6ad282a01f767af713aa087a92f5d542cb88d68d6a148c0fa716127207310f4f5f4cd6fe1f49a7c3bc917c3bf34afea93f934b937ccb11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fad55371d99a15652c017b54f5e97350/fad55371d99a15652c017b54f5e97350.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/87b4a3b27ebc59457f0a26c9c90753828ddd47ba46ea6a515ab361cffd00cba1a86f61348f417df6680719e51eb30b4cc6880a48671c721ab33bc1880419dd16b66e676682744925126cea257f4b2bd0920569eaccfeae1b5fffad23eda73eabb25f49c585cfdbfa2f8ec8b6112643daf3cabc9fa3c8c044dd1ab955c3e891c1f5110a76cd9c3ac07f797b5e1e49df55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fad55371d99a15652c017b54f5e97350/fad55371d99a15652c017b54f5e97350.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dreamer Strikes Back / Gotta / Blacks",
+            "episodeId": "joshiraku-1620?ep=21614",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9b74833ee9f2a7ca26dd42bd6c2e4de0324d58f4dede4cf72066813394fb3bcb085809d4c453d79d951e975b7b48f1f6592c09086a160804c740ba47ec226572e25ea5b8e197423acd988347db8b9a9014d6d55fbd44747699d3501087ee3f04c6c51006eeb8ec96adcd5fa6dcb53af95e2ca54b48a2436c41d05eae65073a4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2277a6a5383060a1fda56e2abb8a8cb2/2277a6a5383060a1fda56e2abb8a8cb2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9b74833ee9f2a7ca26dd42bd6c2e4de0324d58f4dede4cf72066813394fb3bcb085809d4c453d79d951e975b7b48f1f60fc2d363790412b03095656ceb7a4407df9c5e7cdf79f99407723cf60cb594870ce7a02adcc829ba319126e514260ac8a2fa4d200656faef25f73e0bdc34e5c225a08fbc8301deb090cfa8d77ab877507e77c4a2eecb38afa17d8abf91bc1fe2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2277a6a5383060a1fda56e2abb8a8cb2/2277a6a5383060a1fda56e2abb8a8cb2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Character Guts / Might Akiba / Extra Lectures",
+            "episodeId": "joshiraku-1620?ep=21615",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/560c2c57b5320530cc780f2df02c0ec8c3610c9f8f516d6ff9205b063ad675d8ed2f13db644b766bfdc4d60295651b3491ee284dd178c9d9781e0929e9cdeca36d18cfe70718ebcfc0a08180a7e227209c73e13e989234d76872db7d94041fd7234185d368f683d5e0fac2324845af94858e636c7a199ccf2e3ca965b43be91c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65be8cce5527d902b511924219c0348c/65be8cce5527d902b511924219c0348c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/560c2c57b5320530cc780f2df02c0ec8c3610c9f8f516d6ff9205b063ad675d8ed2f13db644b766bfdc4d60295651b34c2d9e0d576b6dcde889737378f3838f07e1d4f8e91b37e14d35fa8362f0ba6d5aa848424c1b0a7c95398b142bb4f08207c3f14c2a3ddfd54267ba2433b3037095e3eda2e7d31b0f6473c5eb7c4010503dfb7e23d747340473ecb410c391ab193/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65be8cce5527d902b511924219c0348c/65be8cce5527d902b511924219c0348c.vtt"
+                }
+            ]
+        }
+    ]
+}

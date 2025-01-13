@@ -1,0 +1,598 @@
+{
+    "info": {
+        "id": "mr-osomatsu-2-1242",
+        "anilistId": 98565,
+        "malId": 35067,
+        "name": "Mr. Osomatsu 2",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3df4f61076e4f47d93b14fe121dcaf6.jpg",
+        "description": "Second season of Osomatsu-san.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/M06J7P1yCHI",
+                "thumbnail": "https://i.ytimg.com/vi/M06J7P1yCHI/hqdefault.jpg"
+            },
+            {
+                "title": "Happy Birthday, Matsuno Brothers PV",
+                "source": "https://www.youtube.com/embed/sMZV1GMVh9E",
+                "thumbnail": "https://i.ytimg.com/vi/sMZV1GMVh9E/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement CM",
+                "source": "https://www.youtube.com/embed/UiCGhzxaHzc",
+                "thumbnail": "https://i.ytimg.com/vi/UiCGhzxaHzc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "juushimatsu-matsuno-1372",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c354454efce13ab93cae9d193738d205.jpg",
+                    "name": "Matsuno, Juushimatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daisuke-ono-10",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f596d8104e8c64fa6db9e76675c90c67.jpg",
+                    "name": "Ono, Daisuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "todomatsu-matsuno-2635",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/db712dd656648c6e8b875ae83a171a00.jpg",
+                    "name": "Matsuno, Todomatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyu-irino-140",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51ad3af265768e189a061095d365af3b.jpg",
+                    "name": "Irino, Miyu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ichimatsu-matsuno-989",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1c27fc48cd295971dd43d08fe7553e4c.jpg",
+                    "name": "Matsuno, Ichimatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jun-fukuyama-11",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/136c23f9942bcfca1209f93a2e1579d4.jpg",
+                    "name": "Fukuyama, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "choromatsu-matsuno-2448",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19472f9487a5cb49e7ae95315d9e4cc6.jpg",
+                    "name": "Matsuno, Choromatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "karamatsu-matsuno-1097",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1b86bbdd9a20adc739c4cf14deca6f0b.jpg",
+                    "name": "Matsuno, Karamatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuichi-nakamura-22",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb5bf905046aeba973d1b3001de50806.jpg",
+                    "name": "Nakamura, Yuuichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "osomatsu-matsuno-2437",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bcb967b770fdb6de7f62f062be0d376.jpg",
+                    "name": "Matsuno, Osomatsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "おそ松さん 第2期",
+        "aired": "Oct 3, 2017 to Mar 27, 2018",
+        "premiered": "Fall 2017",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.61",
+        "genres": [
+            "Comedy",
+            "Parody"
+        ],
+        "studios": "Studio Pierrot",
+        "producers": [
+            "TV Tokyo",
+            "Dentsu",
+            "Rakuonsha",
+            "AT-X",
+            "Avex Pictures",
+            "Daiichi Shokai",
+            "Studio Pierrot",
+            "Viz Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Mr. Osomatsu Returns",
+            "episodeId": "mr-osomatsu-2-1242?ep=18394",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6395205c513a8fff19eb3c91943878a689731e515cd60dc92f4184d85e02a81d1adf125f58e1e587cb4dd2810139e427c96fc0f1cd14d02fe3754b06e29df62c214eb872c17a5570db82bef386ea9bc9d728033b2a503a74fe06a5299b4e630b6d5a5d9ed0fa20fdcfe29b6988341b5f3034ead0d6da082e72b941af5a9c2c07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c5322d81b7f4daca34554cbad9a9339/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6395205c513a8fff19eb3c91943878a689731e515cd60dc92f4184d85e02a81d1adf125f58e1e587cb4dd2810139e427633fa33cbe5c326a0e5a8f0382cb49e00964472ef1a0ceba6362af805189e32bb6b85792e38a6504934d31884251aab063d8da6db7cd3091f844b7cc335ff44405a64515acaa2909d6302d58e0d567322b9f4ac24ee92d8a3f1ce872f885da54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c5322d81b7f4daca34554cbad9a9339/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Congratulations! Employment!! / Super Detergent",
+            "episodeId": "mr-osomatsu-2-1242?ep=18395",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/df86c1a4c68eae25104a43d0adcc2084b62c19fbaa045a5667559740f9066d1c61efff33d44f29ddf045c9395e67cac8d5bd6ed294d2103d11235df943ae23fa1581963ae0f609e0d7c301ff56db6b6383d1a4c1e820c98a11f373bd60a048aeaf4e64fe77e0164b8d768c3068dc0a8a80d5076e4607361d1b336e65e6b7f6cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88d4c3c29f23edc65230c7ddb964c0a1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/df86c1a4c68eae25104a43d0adcc2084b62c19fbaa045a5667559740f9066d1c61efff33d44f29ddf045c9395e67cac8c9ecac9bee51d387912ce7ce77bb4a4987b85f5f1e100bdc1f038322258f0af1e2f1837a272f3384ac18099e082969843a8f8a7a42050a0ca8e358ea920c1a0b4a2d3d969bec75c467a01374d07d01e5eb340c131de5a1ea8b2ca1d2fe63b944/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88d4c3c29f23edc65230c7ddb964c0a1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Totoko's Challenge",
+            "episodeId": "mr-osomatsu-2-1242?ep=18396",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6c59be90d74b742c5b5e8286e50b82a1bb0e0c70e00d8399cd05bc9e014ef30c656a0c77424f33e365bf7d20f0deb17b653d983841f3b6d6c482d1ac3697638e60812a0a0b0e9ffabd9daabb5656593a5d46a83109b84a0e14af727a7ca2b05e8779d3caac49218705504e7dcbdf45efe6507adefa2f3bf3096260924e99962f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c72ae7a8ea54da65ac4ea379e990856/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6c59be90d74b742c5b5e8286e50b82a1bb0e0c70e00d8399cd05bc9e014ef30c656a0c77424f33e365bf7d20f0deb17ba8e1ce16ae6b08ddac5c09a34a6840f92d8e21aab67112525e0a9372bc462d7e6a674695345b4ad3fe0f8ed0e430f473ebd5d30def6def00d85b91db181921c5e1866b6b8077642a6bde70be3b468ba4232c6db08bccc4815bf71b9453852e2b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2c72ae7a8ea54da65ac4ea379e990856/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Matsuzou and Matsuyo",
+            "episodeId": "mr-osomatsu-2-1242?ep=18397",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3b9428733d60b4b005f089da42be14a24246b62f827acf99f0aaece82765e4b392914272866c0f7b99e3f943e0f3dde75d24bc3104d3d4c4c69aefc2d4f16496f202d51b1b660b9586c7e9d95da23b5765808c2108f99951a0d4e4d47b5d29d2b31f6a31eeec097857033791deeeff1ca5ad29fa527324fd2cc697819f5bcd0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75b5d4cca2a735a176cb46c283085e2e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3b9428733d60b4b005f089da42be14a24246b62f827acf99f0aaece82765e4b392914272866c0f7b99e3f943e0f3dde746ad41df1d8c64c95276c6618452ee8536a43ac05e7907b7579c34472a6be29878bfd34e55d5d8f59ce7d5077264abf91f9a89c079dbbc9fe55fc7b2edf7dedb364bcd5ba85db6fa18bf14be5f43d6518b14a59148be3b4663fa88a39f11f559/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75b5d4cca2a735a176cb46c283085e2e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Osomatsu-san in the Summer",
+            "episodeId": "mr-osomatsu-2-1242?ep=18398",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a697ac240bd0038a112382860abb6b6610cd64f86e32ba9be8b1878d3a372aa6540c66942c81c649614445d9741cc381257fa1574eb43c5d2582861159428bd476c713cb0ab68a3b091483278ea2c14e19b3b7ff0a8c8a387dd2f56dbd6ab8b5b8a3631c6c7f87f1e6f666572fd71410e8fefa7799b4132adb9b465583ac42a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb8b5a5e9e8ec035e6d535e8f1433189/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a697ac240bd0038a112382860abb6b6610cd64f86e32ba9be8b1878d3a372aa6540c66942c81c649614445d9741cc38105fe82f9a55ff47be2ca6d3a5ae3240a239ec5c68bd20199aaa9d5c042833019cd2c4663c31c66e8ffdefbcd551470ffd157b5ca60e86b6225310b86c0a5bb7b9146623b30a986eb38caaef49c200f2ab62744f71c9fc132ba5b57eee567b05e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb8b5a5e9e8ec035e6d535e8f1433189/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Iyami Has Arrived",
+            "episodeId": "mr-osomatsu-2-1242?ep=18399",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ad91bcbcb61687a06d8e868f436542a87b883ad0b82b4a634f0a0ea5e73b3fdb217f4089dbcb355d5cd8d154d9b02523bb4e99dae2036b5b83719ce60a8be8155197e6f63b573435674d472f9321ad4b72c40ea3d0e353e63dc8bbf9c56abeb077fc35e15ccaae09fa25af5b690c330734deda9c1b644b8aec8bcb3890aa6cd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85250ccf19ea806ff0be5656cc17b767/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ad91bcbcb61687a06d8e868f436542a87b883ad0b82b4a634f0a0ea5e73b3fdb217f4089dbcb355d5cd8d154d9b0252349aa23b05187d4343eb0ed967cc3f4b06af14a3b0c11c5268b10b2a32433c630b84bdf5f9cc50cd8df2ee9e9ee5bfed38c8606995cd549d585760b26f92fa1d0528f5df6427b85fe5c599c8f2c8e38cd3b5fc297387570c900e00454d22dfb74/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85250ccf19ea806ff0be5656cc17b767/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Osomatsu and Todomatsu",
+            "episodeId": "mr-osomatsu-2-1242?ep=18400",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3807bbd64a7b38b51108a750d63e66e0858bd1567a4beb95a4713472032fd1ce41ba893cf124aa3800ee2870cdd552c0c8b9f80771ec6ec0810b36b27f9f371d3b6bf1d80756ba6cf6b5647543efbf2d35c41953012dc96106f83ab4dcd5f542e53eb37be6c348ce4ca7a59dc0760fad9657f0d2b3e1215e2a33ca293ccaa195/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93b6ec23dbcb5b6f40d8859d3ab2510f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3807bbd64a7b38b51108a750d63e66e0858bd1567a4beb95a4713472032fd1ce41ba893cf124aa3800ee2870cdd552c01713ea28610a536bb49b45d318727c627d98698179065b243772c636363445347561c108758663238ce40f26215fc8de00e4f823a92cf20f247e0e47f9b372b3eafa8a2c39b96d12b0d265fc84193139c12201f2b9f18020102aa7c80fecee71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93b6ec23dbcb5b6f40d8859d3ab2510f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jyushimatsu and the Dolphin / Totoko and Nyaa",
+            "episodeId": "mr-osomatsu-2-1242?ep=18401",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1be7992834e2783d9ed7445423074b41beb76d49e4bdac6fc6518f15cb95f2cde8b36c0ca1e7395337a2a52cc1a634cd45eee945fab6c4b8f7cfa252a0cc52bb64cfec9a34d590949e43cedf0dff7e3677c101d3a98d69a63b0db35e31f5be4167ccc33968f97d03e15c75ae9737a2014662529a0477f2a0ba92fb987eefb4d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a9c97c2d6abcb5cfcc61527d95c4e2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1be7992834e2783d9ed7445423074b41beb76d49e4bdac6fc6518f15cb95f2cde8b36c0ca1e7395337a2a52cc1a634cdf831ec8a435c5709b8389a7210bd104f00aa33f6b2caec767f798db3c9864f7dd5587718a18e506b91f3b2da107047ca5cdf492245a0a3391e397596970ceb9d3d88f27e54baa4ade23d4180edbeabac95617198fefd0b65e1e3256900e06df0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a9c97c2d6abcb5cfcc61527d95c4e2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Campaign Starting Now!",
+            "episodeId": "mr-osomatsu-2-1242?ep=18402",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8f387f2f2f8aab37aa73a57ace8ac455937eaf959cb9e07de655edde7c60d3fe3c2c762b4f4d6ee94dfd34bd4827a83b43c1cc68133aa0cef973170a18c7a2ff2e365259d17e014fd328a475b7e319bd8d5d52db285cba1831dfba396c492fa1719c6d9d331a9665cbd8a0fde1f837f4b8341dd7c9694ee4a6ba3f943328f393/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3169f3ff5b764f4714bad589c753533b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8f387f2f2f8aab37aa73a57ace8ac455937eaf959cb9e07de655edde7c60d3fe3c2c762b4f4d6ee94dfd34bd4827a83b453735799ea091c73162e4b98b011f34291dfb7a7219c1e4132c64c4116185c4b319b2e73c0aeed01450c6c203aa46b55b6919c102e37801f7e7f24c53b06efcd65766f1ebc30386f79c6649fd4576c1249a942e69fd78858ceb390877dcf846/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3169f3ff5b764f4714bad589c753533b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Karamatsu and Brother",
+            "episodeId": "mr-osomatsu-2-1242?ep=18403",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/33882861f86749d99288a8af46df9b1be27ce00481d9a34027e1dc9621ec6b20238f58b4548add71fef4be8e76d2ab572768c43f5426f2b5954bdd4b04284ccf7cc78eaedaded932e943c25abbb68ac6fe8cbf0ff93c3493b19512b588e6ed3b6c051423f1e80d0be8560ced6ea81347f50663d50832f3047118b71587adbce5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7a1a704f4ada3dd57ae845c59b48e7e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/33882861f86749d99288a8af46df9b1be27ce00481d9a34027e1dc9621ec6b20238f58b4548add71fef4be8e76d2ab57a53de1426064090b2d75a85807b0b764a7823d9ecfbde0ed632b7d7a51b2218581224fc2a8496e9ad652887483febde017b5a27d38133e4ed8ee766b2b7f9cd85105864ba6fa019ab477895603349da9c267d2a4d64143100eca3342c2ca0a5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7a1a704f4ada3dd57ae845c59b48e7e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Chibita's Revenge",
+            "episodeId": "mr-osomatsu-2-1242?ep=18404",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/170bba935616438aedecfc034263453006f65c4a35e73f20583d78d62dd378212f7a7e84ad6a87c8099facc5fca460c03a1804eaeab98f198d0339102e38915682bcd89329468e1594f4c25fab663e1995adde70c1e19ffc729f472afabeec7dcecb2e7f4ccb3224ef8e9e532615fb15d4724e7f6e39796e57deea6642ac4774/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9f579e9a30ed37011df76bbd7dfbd78/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/170bba935616438aedecfc034263453006f65c4a35e73f20583d78d62dd378212f7a7e84ad6a87c8099facc5fca460c03d8370d21e5980e43d1b4b7d64fec4f11c472862e9c7a2e0b7ff61f3740769c7d96001c10553faf5f2f543c1aa79819bcf88db66531c996e4d09172eb1cc2bfa83246ced7d8fed7982fb27e1c9903d6784e5fce21677f5b6ecf1a0917e203404/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9f579e9a30ed37011df76bbd7dfbd78/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Eitarou Family",
+            "episodeId": "mr-osomatsu-2-1242?ep=18405",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2d7dbae9d08b0d95f5110691b9b421a638b6200335b2a83227b3e443b3d015af31e6d030f897f0dd9fca18772f3c6bd578ea885e083103075327e5078e0e17ff9b816c3062e0b95d7f35cfad895f988f765290a2961484343c2fca536c153d3f660e3a1bedc258be77af449b81ac0b0035b67723f86dabdc7b3c5f56acd3c042/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02e3b544d3b47c76612c18559321f1ec/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2d7dbae9d08b0d95f5110691b9b421a638b6200335b2a83227b3e443b3d015af31e6d030f897f0dd9fca18772f3c6bd553989f002d5b80e2b01f374581175dc655e6fab57e9e4710017c4171612e82840d0bd27b6832c381f1d102e93c1153b085a83331b441452989b92d5f5d81a353e4fa3766b2838f26862fddb615af7136eb53438a96fabe8377053c8fe1fec796/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02e3b544d3b47c76612c18559321f1ec/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "End of the Year",
+            "episodeId": "mr-osomatsu-2-1242?ep=18406",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b99c34ff01f0ef27552f0efdb277b03256d4a05c327d1a117786d5c4c625150265cb3d71a99f2d8391a8653a3d527f2d6da33a21a16fb6b7aea9a3f23d329c57cd214405c04554ca363fd95d35e4fd6a772810ed5e63e3ef53289259681c96c866ebf3b9a7b43701d4c4f3a5e4b6a81b0aeba40f7d8ef35f1211bce825df6050/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a59f5978723f1e141e64d4bf4d4c7549/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b99c34ff01f0ef27552f0efdb277b03256d4a05c327d1a117786d5c4c625150265cb3d71a99f2d8391a8653a3d527f2de69308b5e5610735db4cdbed3dfbabaf2fb2cd67fe0755a19384ee72ea3425da1cd4ca700890c103f31994a5fa79c1611271d8dde497c21bdb6ee6447a813ca0d7f2505b390e1a50f14201ebe333f65a49845008c043bc75a9cd2eb041368c4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a59f5978723f1e141e64d4bf4d4c7549/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Choromatsu Incident",
+            "episodeId": "mr-osomatsu-2-1242?ep=18407",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/014f514857185d0fe0422fdd08a6b24efa2e18e6c805cb28cf5042a7ee2aacf35766b54d09def78f883ff422c9f07f934294e52202e05bb73f8be4f8016adb9d8a9c4e8a0dc404575c13e307fd3a001ab46d4d0971ccdaa1073b713a9d9efe596f39dd385dbf401a0d38b34c181f43130650834d9022d92dcf98baf6c793a7a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2975fc07c424261585cb7d388d870d7c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/014f514857185d0fe0422fdd08a6b24efa2e18e6c805cb28cf5042a7ee2aacf35766b54d09def78f883ff422c9f07f93da4e2067999300407755413aa061fdcf55909f94b1a87a278a29349d5ec7c51a4d7d598865f26cca20765d93ac740144d550bc00f40fe14e1e4f6f4a7e2240c426c635714b0c3c62398f5a9e758339888b15ddef4d72115eaa6298c7184f356e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2975fc07c424261585cb7d388d870d7c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jar / Karamatsu Taxi / Totty Quiz",
+            "episodeId": "mr-osomatsu-2-1242?ep=18408",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/06eabd53e5f0acd604f79cf7a6b84997d5821721fc2bad744a18384d53c67857e5a40a34b8a4235c4394dbcfe627af2122da45f705e14673d804a710869dc9599dc3651e98b60000b6c0ff873f4cf8bbd99115e4cb921f0ac39893a10813d5ce9672c963b9e498c248a41abf043ec246be7b4a0ebf4690c23d773a6ea81f5227/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dac8e48054af482e7d182eec716aca6e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/06eabd53e5f0acd604f79cf7a6b84997d5821721fc2bad744a18384d53c67857e5a40a34b8a4235c4394dbcfe627af213bf6ca510f6666787956c59909232cd5f7a2ff68136883f4c7280678eaa9f045abf9ca65ebbc8ddeb8228d3e5131849c535d7721f938f41701c800a7a2a45b0e92f853388eeb477160c6f5046e495d30d28dc9fc2f2c875d15b0cb6adfb26ded/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dac8e48054af482e7d182eec716aca6e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Space Pirates / Gourmet Episode / The Cutie Next Door",
+            "episodeId": "mr-osomatsu-2-1242?ep=18409",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e2e9e44ef3d1517947fd9cdfda60e8d97705deb7ce30d3e54b870e8f48c2d8917d5ddbe2ff6520f14267435998025e9e146b40ac5d66702f7e556f3b08fe491fa6b616c17c28bb8150529ee2cab787c797839693b381ceffc85f23217d12bed7bc6914c3c0785ce31dc5912a621ae5bc1da6dd38cb3252851fe1dae409334810/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16fdfe32ef8366455dc07a56d70f38fe/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e2e9e44ef3d1517947fd9cdfda60e8d97705deb7ce30d3e54b870e8f48c2d8917d5ddbe2ff6520f14267435998025e9e47693ded27a757344a9a3e0a903fac3ee2eec7ffff24c078f06d9f0dfda4a2ce5d2e5123458e808e4656cc12e49739857bb29844d5a08cfd9a485fe197c9e097e97fe4a5ce123e6a27717ff069f187b5b7c601a79cf5bbb05ed75e2959cd15db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16fdfe32ef8366455dc07a56d70f38fe/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Punishment! / Inn",
+            "episodeId": "mr-osomatsu-2-1242?ep=18410",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/313537236c345c3c5e2bac6b07bb9cfcc10d16084b03bed1fba466f72637e66fa201db0ee2c0d5a1ef73e6150eac714dcc3063aac3eb13fb211377466a18a5fcf0f8b9f6b9a6c77f16f722136abde8351bb1dd8f37dd5ad5060987c83ac401606d6ec4c2c8759a9cb7bf5379a200341eb82f374f2a3d136a88aff143109f2904/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cd7472a8b0d7f2215f81c6d765e100c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/313537236c345c3c5e2bac6b07bb9cfcc10d16084b03bed1fba466f72637e66fa201db0ee2c0d5a1ef73e6150eac714da17ced081fa4d7a223cbb77fcbf1cff621db111676afefc3e1b0a94d75d66756ab43d95baebc94c5ccb18fedebeae13382e7ca9e247a00d7f44b803549d15dc700b49b3d32c0ed969f7d1c917b49606c188bd0b4b6595bb1dbcb1235b4188eb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3cd7472a8b0d7f2215f81c6d765e100c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Iyami, Alone in the Wind",
+            "episodeId": "mr-osomatsu-2-1242?ep=18411",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/52948db4dbe3371d23951b8f00154d4114b7e947b145752031ff8a7af6cf64b335e6bfe1d865b38c0fc760a6933819245b461faa454ab11f49b340b469817b0cce7a634ba1e5155a988f99e7000a6841b79f0b889a24cb5fa1d047fc11da538ddc2582c118b71deffc1dafdb720030da28d30291336ee380dcbb7765aa7dd385/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f864c97257ba59d9a5cd97d1e18cb28/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/52948db4dbe3371d23951b8f00154d4114b7e947b145752031ff8a7af6cf64b335e6bfe1d865b38c0fc760a69338192476fef86da9428b42a1bc5230b8d9782bd4ed94ba4528c642d2432cc8c68a70b54d7f4549ccf4bacea5069fa6a61c5cdda2b9888c11ef76a69630c059676e9ceb954d83c0cac721d3b963f58ae603b0e8f32f8b0f0d5b84a087a434fe37cabc7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f864c97257ba59d9a5cd97d1e18cb28/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "President Dekapan / Ventriloquism / Valentine's Day",
+            "episodeId": "mr-osomatsu-2-1242?ep=18412",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5177544e6bde5e2547e8dd330e70e8b703a84fac72d5edd7f5cde109566c23233f97badcb93a767efe58d696da177e761d35f1cda518c35425d505b54ee346df2c33edcd5370b21f6b2ee4da6a594c190603fb9fcd16b5e435159404216e1c8da5ff755b2bba02f3ee3770fe4daf78ce55b35b4476ca1e97327fb20ba2414f0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d42cddde35cd8670a01e8092c7860dfa/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5177544e6bde5e2547e8dd330e70e8b703a84fac72d5edd7f5cde109566c23233f97badcb93a767efe58d696da177e76fecba6271ccaa9783ac50d8acefc35aa61cbd22da03252ed5becd863b19d78b4222cd363b59ffe9bf8a1649bd05a54496944ca72277070c44d201297cb76f38ad7f8cf579b68ad338b6894488d867abf629f0fcd808a922d19fde202baab5b9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d42cddde35cd8670a01e8092c7860dfa/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tidbits Collection 2",
+            "episodeId": "mr-osomatsu-2-1242?ep=18413",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a2891212a92e938f838f0fe2bfd545cb8455b5391037705f01e219e8ca2368fe13889c317bd4876625bb35f880cffeac7b15a6aa64ca7bf9edb0d539f62d351e02bf1499e501081f36c11540247504fef3e3872783f092b97d55dce66539a7ecc4d2b01d9fd4069f37b23223edb940a230bc957b45abaa94ca5d4cbbbf2ab0f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67185776f6ecfa66b1134747b7b91fa4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a2891212a92e938f838f0fe2bfd545cb8455b5391037705f01e219e8ca2368fe13889c317bd4876625bb35f880cffeac6b54f6cd02e10696d53edad5c4df0b383e63823fba82f7067a469ef497feedbe61723bf01f9206299be2772e2f66ed7f3c174aede3822e6f8629aa0d66842f0df7028197fee57d74f2194164248f743dfb475500016439cede1bd8921f5612c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67185776f6ecfa66b1134747b7b91fa4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "BANANA, NEET Correctional Facility, etc.",
+            "episodeId": "mr-osomatsu-2-1242?ep=18414",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/99adc07a9c6958fc01c10213c44385a2772a810bcbf3332361fecb2d0b73bfbb60e09b3320f177c3e8186e7bab4ba185d4f801525e5bd8a1809ae77d26143a51ed72c2153edebe824950f9a396f00cc3b577f1a668836870ceb655da4c71a2a775c5aaed4358a98704dce8f5ed8880e1b137497a764bcdd16ac1f432c49704ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbfc662a4aef564f1ac1f7bf83a7018c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/99adc07a9c6958fc01c10213c44385a2772a810bcbf3332361fecb2d0b73bfbb60e09b3320f177c3e8186e7bab4ba185602129ec8b9e5cdd23a194522a346ab3a3a74169217902c188db3031ee9f852c78e681766c280fc883896e95209792a0bcf3a718204474bc27ff1ed54be15a39343037ac873fe4fce85fe20739201bff3dc321112d4eaaba7f8f9fe671acbe4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbfc662a4aef564f1ac1f7bf83a7018c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Overseas Vacation",
+            "episodeId": "mr-osomatsu-2-1242?ep=18415",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/65b7b637cfd737325462936ef5c8024643ba8b06fa75c5dd7ea0e0a3d8a5edd7b6b7805e92d666eb96f3958a36fc3e81af0a79f2094cfb964d4b724a3b94a04eb439d220db6d1b01ce911474ed2f85f413d4c019b17c1345810d6122d8a37b756f0e9beba23c6bf1af7d1b18ce23e22622ed11aea457342dc571e80763d349d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc4484c3a286a1122d944bac174d463d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/65b7b637cfd737325462936ef5c8024643ba8b06fa75c5dd7ea0e0a3d8a5edd7b6b7805e92d666eb96f3958a36fc3e813e9da68628feaa218eeb44a5332e15ae1adbe127294bd5d6ee3187caa94ba47a75815ce6eae9e1fd245241d3eed0df5ce488621826504a57944cecf8f3758c25e54ba058cfff4d80cdb2bc3aba026fbab2bb7201abd1aff9ecdbd0e98d3af815/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc4484c3a286a1122d944bac174d463d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Late Night Himatsuya / Dayon and Dayon / Iyami-san Is Troubled",
+            "episodeId": "mr-osomatsu-2-1242?ep=18416",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/04760dbee5a32ddb24c1b4d77ce0608cfc7201626ede695417c0a6496f0e51543ad828e13d9369f02adf80684318cba21e42a2d2a293f413383d7c1aeaadda5c828c27b03c3d78c59e05839c7a34d9a9550a993c60c5c42109762185f28a05bb3926aa22b4c1760dc51a9d3e9e8abc3f7fe647d955e7b278d010e2f0a0b36dcd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/790f3d861281dbbc60fe471c75bc5c0b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/04760dbee5a32ddb24c1b4d77ce0608cfc7201626ede695417c0a6496f0e51543ad828e13d9369f02adf80684318cba272ab01e620ff4e19eb19d2785d3da5b60760bf97e98801cf5f2aef7266c2b3fb51cf2aa91edf612e46ea96191bd49779d966eded814c8f03e8ff2ab3ddbdb77d1a210ec926f7313be62729adca2a3a7eb8de6b2040df8ed1d0be7bace7c69888/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/790f3d861281dbbc60fe471c75bc5c0b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cherry Blossoms",
+            "episodeId": "mr-osomatsu-2-1242?ep=18417",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/647638b36502dceb95e50903d0ab66a832432fb79fbee6dbf6b19ac9843d5cedab38af9c335eef6672579355e9d0e910cd5e3a4067599002c9e9aa8032a520837e2251baf1336d3d8b75ce776a8c92f4286531bd39578390571f98a2ba87bb550a7641f5541413e31583eeb3db18a62bc07b1de427ad6af89efe2669a39d086c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5de1f975492a681af9951154c909c3c3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/647638b36502dceb95e50903d0ab66a832432fb79fbee6dbf6b19ac9843d5cedab38af9c335eef6672579355e9d0e9104d6303e92da281c5448a9b146687d3aafd541bbad0d85b7796a5661deb84189c0ef6d094f44947c5c6eb9437f6907e2dd127efe3dcf6d85408d50d52d4e5868afdbee04d2013f52cee1a1b89672984e9476ad0481d07565783a40b23faf60bca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5de1f975492a681af9951154c909c3c3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Osomatsu in Hell",
+            "episodeId": "mr-osomatsu-2-1242?ep=18418",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/283b7767e910b071e8fb1301d3e8e34f0c61cf63f50e53de9a0f581f3151e537b79c5ab9e2a245a2378bc4263c822af41f309a33fc61481f056e00bf3920dd825db299a1e8f795a79ba413c83cefd44dec34d2132ae124ae952064fb58a311398aa05f3dc0d6ff84646efd209701324d88b8b2b4e255823a23e09e54254f5eee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c22842784bca8dea5174c6e11b07b45e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/283b7767e910b071e8fb1301d3e8e34f0c61cf63f50e53de9a0f581f3151e537b79c5ab9e2a245a2378bc4263c822af4494b54ec0801fe99a7c79587a46c362dc98a99f65955a0574b1f5bed6a60e36701697606d1b389bbdfba636b989b3a2b934f9c29e1b58766b9026dc96d00448fe3249b3866a54f0fa93c0fc7309ac4aa4cc509cda75ae09326f1e988539553e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c22842784bca8dea5174c6e11b07b45e/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

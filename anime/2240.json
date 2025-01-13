@@ -1,0 +1,337 @@
+{
+    "info": {
+        "id": "fatekaleid-liner-prisma-illya-2wei-2240",
+        "anilistId": 20467,
+        "malId": 20509,
+        "name": "Fate/Kaleid Liner Prisma Illya 2Wei!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ac7f4c344e4453be114c7610db65d5.jpg",
+        "description": "Another lovely summer goes by for Illyasviel von Einzbern. Taking a break from her magical girl duties, she enjoys her time off after collecting the Class Cards with her best friend Miyu Edelfelt. \n\nHowever, her break comes to an abrupt end when she and Miyu are abducted by Rin Toosaka and Luviagelita Edelfelt, while out with her friends. The magical girls learn that their work is far from over, as Clock Tower informs them that the out of control mana thought to have been sealed continues to be dispersing throughout Fuyuki City. After heading to the origin point of the out of control mana, Illya and Miyu are tasked with solving the anomaly. \n\nBut after casting their spell, Illyasviel discovers that she's split into two people! As this mysterious new form darts off, she can only wonder: what is to come from the existence of her dopplegänger, running amok in the unsuspecting town?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 10,
+                "dub": 10
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/DgDPgDzgC3s",
+                "thumbnail": "https://i.ytimg.com/vi/DgDPgDzgC3s/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/6lITF0YNzkY",
+                "thumbnail": "https://i.ytimg.com/vi/6lITF0YNzkY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/-DrtaUevsjc",
+                "thumbnail": "https://i.ytimg.com/vi/-DrtaUevsjc/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/nf4_vo8Cn_k",
+                "thumbnail": "https://i.ytimg.com/vi/nf4_vo8Cn_k/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "miyu-edelfelt-2756",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56eba09a64215aa9883d23398bb4b801.jpg",
+                    "name": "Edelfelt, Miyu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaori-nazuka-310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/088c8bd885eb238b4fe53eb492aa1705.jpg",
+                    "name": "Nazuka, Kaori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "luviagelita-edelfelt-5153",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd51b78713468fb96cf8dba509aefefb.jpg",
+                    "name": "Edelfelt, Luviagelita",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shizuka-itou-98",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2dd15e43dc6d35e466f42d62fcf792ee.jpg",
+                    "name": "Itou, Shizuka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "rin-toosaka-75",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72791b701a18aaef8bdc6c205910ec2c.jpg",
+                    "name": "Toosaka, Rin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-ueda-228",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b828c865e41c06760debd70d696908c.jpg",
+                    "name": "Ueda, Kana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chloe-von-einzbern-1515",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d9060b7dd93340d7d1917fe532cb0c4d.jpg",
+                    "name": "von Einzbern, Chloe",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "chiwa-saito-54",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+                    "name": "Saito, Chiwa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "illyasviel-von-einzbern-412",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6968e53bf31b81b59f8b6321060205d2.jpg",
+                    "name": "von Einzbern, Illyasviel",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mai-kadowaki-526",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb3e6a2552ffe34a7cf154518ef4d1b4.jpg",
+                    "name": "Kadowaki, Mai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "auguste-25647",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2549a3e12e97b2a500a023324a04a0c3.jpg",
+                    "name": "Auguste",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tessyo-genda-1142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a90a12976000af414436486e3c7a6123.jpg",
+                    "name": "Genda, Tessyo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+        "synonyms": "Prisma Illya 2wei!, Prisma☆Illya 2nd Season",
+        "aired": "Jul 10, 2014 to Sep 11, 2014",
+        "premiered": "Summer 2014",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.32",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Magic"
+        ],
+        "studios": "Silver Link.",
+        "producers": [
+            "Lantis",
+            "Kadokawa Shoten",
+            "AT-X",
+            "DAX Production",
+            "KlockWorx",
+            "Tokyo MX",
+            "Kadokawa Media House",
+            "Silver Link.",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Illya Grow Up?!",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26365",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2e0ff75a7aa298657131e2f1e081ed822650d2cb2984042dc35cb0ca35e1af624bf8137aff4893c90c4c26e45d39795b0790f98ebc1471e40112c33dae748c4e5d95f57c629369c914684f50c75d91f4d3b3e78e34be028ca91ea58deaf0bce2284eb0b10ee963f6ed373dd14ee79b781ebbf62de8d5f0d2702a7063ffa2d019/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f46ac00a04a7b6f92710b48bf08a655/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2e0ff75a7aa298657131e2f1e081ed822650d2cb2984042dc35cb0ca35e1af624bf8137aff4893c90c4c26e45d39795bbbab8b1a3304ba5aa10719a56cd30477233ae5ddbd60709e85a69728b8651a5cf15127fa2420d4b7f8d986fa8413653827b7e658c2c88dbb9c79c5c76191ea3e96fd012050ed97b35d623fe662355bf2d7329389a13c1efcf12309564548c7c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f46ac00a04a7b6f92710b48bf08a655/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Illya x Illya",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26366",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5fb35243b315a62c3bcef3be69fc6ee51f88a780cd9ab9e69011e1857f330de8f4db1ee2d562867017a20f8a851149ac816b43cbd50b6f38e27460d3177c3dd89449ce8a28a9d4a7523d994ff8530bf1bbeda1d9ae7f8ca0ad7e12033fb52616d113e75c039222282cdd165a73326d763b95625f1250feca83930d7f4260db73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78da0bd929b9e2b494d868ed7c82b65e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5fb35243b315a62c3bcef3be69fc6ee51f88a780cd9ab9e69011e1857f330de8f4db1ee2d562867017a20f8a851149ac9c580559ea018ba761cac54a634287d316255f8db74766a7e9eaa538a199cfa1b527757245ecfdf68f440ca671cd07488f418f2a51f17de2a699d33dfc9f901f4d320b4442264ec57d43ea305fa83f4e294a2fd6de097cbb6622e081af66310e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78da0bd929b9e2b494d868ed7c82b65e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Normal Life Breaker",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26367",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/10c5f0d1c7138af59d8439c27feb59cf5e55d3dbdff5fe2b46db0970aca750885a5e2ac514de104e2e187d9ced878986f21f06e84ba0c77520a91da0377f99a9ab144c0c76ec755ee3362377d4a78f297e68cb3870373d8b83e361b028dcb6581a4a3b2cb9bc24e5559070d6847ca04580fc7f9a1b43388b13526ffac5759277/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/507085bf304d258b69cb92efe6aad683/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/10c5f0d1c7138af59d8439c27feb59cf5e55d3dbdff5fe2b46db0970aca750885a5e2ac514de104e2e187d9ced87898630f8fac6754cb712ecaffe236d56556e36ef24e165bebe3763d1026f58ec72274ae617043c83fd3222be3ab3cd6200576bde65614e956e72e6754d03193b6ed566cbb05d19a8fd71d56b2d63cac352b3eba8994454c77045060c8e9c8d7b8102/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/507085bf304d258b69cb92efe6aad683/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wild Transfer Student",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26368",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4023ec11df0d309d61d16c7dde17bb34b9d1c8c3013c2da3b0fb3d2fee56dba81be3f94efbe7de938552d49326fde5c1aaf76ec3b7aa491a21ca3937c13233de0ef405ca55d9ca280dcc850dd3cdcaedeb54719ad74de30ded4cdcb7a3cce555f0bc13fbbe29e286ddf8a1be48718c1e363ca9c0e4c010b562eadf5e0561ec2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e1a407350be71f78c609e8b48c540ee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4023ec11df0d309d61d16c7dde17bb34b9d1c8c3013c2da3b0fb3d2fee56dba81be3f94efbe7de938552d49326fde5c15e6a431e2a30c68714c367a2d3b4c07e0428fb728b9b14b10f478b060060ba6ed96426080bf84db73bf9b15573176077831f8aeb8c7d1532284470de7dabc2b1c12aea7ba6bbb403ab5e3b25064f4ba00c4f60e6bf3929809475f2d5a4c5db1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e1a407350be71f78c609e8b48c540ee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Well, In Other Words",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26369",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/823c7241097bc6f5bfb79ffdcc4af4ae87fcc5cc745875ca5d01ecb46d0751fb6cbeb6a42258c3fbdf521c5b89b994d87547d92b5b3004b79019a32f83cec5ca084a12782945a773febddcf3308fc58a005a2163a720049faf1b09e681e77ed18dc08a91b570dbdd55abddb4a6b0ff871019e23d1579919c041ceb0889206a70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e97e2c1e26b9fbe4e58f5657d7914ec/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/823c7241097bc6f5bfb79ffdcc4af4ae87fcc5cc745875ca5d01ecb46d0751fb6cbeb6a42258c3fbdf521c5b89b994d83d921e32a251ebd0d184caf973714f809670108313284cbdab17d9eeeb790898778a6a8b780f863db71d4b7d19ed7fa713bd04b905e043886140bb8e2059f3c2d6ba171db4c944d5668f248255058ee46d2ca48d6ba340898d72de4cabb18c69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e97e2c1e26b9fbe4e58f5657d7914ec/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "On the Other Side of Lies and Façade",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26370",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/75c20029c33f54c0b4d5ea9ae89cee5c060643685f257a8a9eaf3254ce0677b756640768dba68dd6f3075ed08e55c7c8a25662b311d7721dc460eb06f9c45782c3404ea43299b86d057fa85bea427f17902953141802bebd7e0aaad7e2001d6a558db695b834ebe0c699f905b2b1efdcfd0e8ec3e69bb147df16c1f040094381/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba3051d8be6853e0478fb324a574e2af/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/75c20029c33f54c0b4d5ea9ae89cee5c060643685f257a8a9eaf3254ce0677b756640768dba68dd6f3075ed08e55c7c803c965eb411b77e3e9d17e72b58e67028a491d11bbb199956962ca53b3f2d8030c6520b281a905695463df9e60190564ea50c5dabaf75f5c0b54bd3fd04fb30dbc60569b5b3d4e7f8a8c0e6118c35fb4f81974edab3f7fe4c3bf79d8913c34ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba3051d8be6853e0478fb324a574e2af/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Clash! Cooking Sisters!",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26371",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/54872b68cc092295e37739af4aa289d9c8bb1840236327b98e14ead59df383023fd95ecdfaf7073f6d385b1ea4a02d565ed0886ee7f204c6cfc7f21571d2dc742da61a630e3cd43240156f99e4cba56cc46fbf4d3fbf4d24e84096cd8f15e2e1b52e36a42780cb4c57420f3cf83d150ac6edb89503aad522b04d14190a4fab05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a57dc8cde0c89a2724be639506fe9dd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/54872b68cc092295e37739af4aa289d9c8bb1840236327b98e14ead59df383023fd95ecdfaf7073f6d385b1ea4a02d5673faa806a36bbc1476aa0a885364666b361d5eb9a3733031e4daf159ada80db6e87b7ef926a545b0738e305f609180c8d814684df354517dac7910c1721c9015b837886749fa1ac02adcbff3926d7d8efb19205773851e171419084be54e1f02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4a57dc8cde0c89a2724be639506fe9dd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Her Name Is",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26372",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/53bef642b29a865347579d20a9dd3aa87b69d74c74eff102fa9ad7c8c8aebc1c2fdb1d91d27f20dde18a5e1a00f055bb87a608be36400f735cf6db5773bb3992ffc7069d020dd4b4407ad2ac0da14982a8de3a6cf57c204291941d025b1150e525344c408c1b4e55368e33cc7e572bbbb2316a5ca070c28e4ea78bfa15f98d6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc1fe7a9953d1b92653be6dfc9eb8378/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/53bef642b29a865347579d20a9dd3aa87b69d74c74eff102fa9ad7c8c8aebc1c2fdb1d91d27f20dde18a5e1a00f055bb78f35315fa98ab30dcb04fbfa5144375e79efcf51d8b27ed94382686c31ea84ebbdb8b30d7ebfc28b83c342199fc3ed2084e41f0dd247ab160f62f3302c172503cabf77a89924611ad5d069ce6fd3d213f637629943ce007caf4985cd8e2afea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc1fe7a9953d1b92653be6dfc9eb8378/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lone Battle",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26373",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2bb3c0f9aebe9297c4b12d790d6a11d1064134d3464167554316ce8d044131eda28604fff518fb17d3a442709839b5f67b7c24399620a6f1fd35b3d898fef8521b8b94d9a7428ee574b2a1510c20da1c9b39b6dc11df49b6e2088f9b8d543cfe632adc45cc785f3bac58562776d6d2bee5d661fc897b0cc4f3960d7faa20fa54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f043a0672bd1d33857d0298b6e8c8301/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2bb3c0f9aebe9297c4b12d790d6a11d1064134d3464167554316ce8d044131eda28604fff518fb17d3a442709839b5f630ab1d36703587c3a5112fc9ac20a81e8c3513251c29e27b963cc9e9f7ad271455829863c36150b2fb4584e1faa98ec77a156de63892f8f5fd13435d8c5e4e5a51315c3300f11c334c94a0ee0d5bed9ebec266e14c990758fb1944e020e77e81/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f043a0672bd1d33857d0298b6e8c8301/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Things Those Hands Protected",
+            "episodeId": "fatekaleid-liner-prisma-illya-2wei-2240?ep=26374",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/fd966bad4777169368590cef3e306b65fb1c1aa80d52f18b1336c71fa784b51ebbbabe815dc04f1d523f8055e7aed727dfb63930e09060761ab5809c0a81ada74ecdafbf274ec435b6eaf88f203134531cfbe33cf8917628262f1ea539b1d7a3d494ffd7db5133957eb8c46118227998f0f4d995930c115c0d0640da43e64c63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d26a6d3da4858aea72d0b07d3b4b05c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/fd966bad4777169368590cef3e306b65fb1c1aa80d52f18b1336c71fa784b51ebbbabe815dc04f1d523f8055e7aed727b8e3b80813d96dbde41cf20d4e4d39c35c120be5bdfb3cdc7dfa758a895e50847e6d9c3933bbd3cfc5d694402d973b82e4a5cca925e15451fc53f4df35bd0f5e7b57fe4814e44b7a8a630662fe2155ee352fe1e33dee5daca906b368fefc45d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d26a6d3da4858aea72d0b07d3b4b05c/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}
