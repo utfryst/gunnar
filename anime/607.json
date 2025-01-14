@@ -1,0 +1,1035 @@
+{
+    "info": {
+        "id": "polar-bear-cafe-607",
+        "anilistId": 12815,
+        "malId": 12815,
+        "name": "Polar Bear Cafe",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e41a96e9987a64efbd6f5cf76d15d3d.jpg",
+        "description": "Situated near the local zoo and owned by the charismatic polar bear Shirokuma, Shirokuma Cafe is a popular spot for animals and humans alike, allowing them to sit back and relax after a hard day of work. Whether it's a cold beverage or the latest item on his menu, Shirokuma finds joy in being able to serve his customers, often striking up conversations about various subjects.\n\nTogether with the sarcastic Penguin and the clumsy Panda, they form an odd trio who get themselves caught up in all sorts of misadventures with their other friends such as Grizzly, a bar owner, and Sasako, a human who works at the cafe. From dealing with unrequited love, outdoor camping trips, karaoke sessions, and even the secret to brewing delicious coffee, there's always something bound to be happening in Shirokuma Cafe!",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 50,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/-S7sjXk-t1s",
+                "thumbnail": "https://i.ytimg.com/vi/-S7sjXk-t1s/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "panda-3269",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf317fe27a5a788a29bab376b60fb036.jpg",
+                    "name": "Panda",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jun-fukuyama-11",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/136c23f9942bcfca1209f93a2e1579d4.jpg",
+                    "name": "Fukuyama, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "penguin-4810",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da86cf35b2c9ee1206e7cfa8dddae84d.jpg",
+                    "name": "Penguin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sasako-12630",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0ecaad960bdeedeba4035c88d349d563.jpg",
+                    "name": "Sasako",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aya-endou-442",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aeeac99aeb2a4dc09dc9b837e38c67ad.jpg",
+                    "name": "Endou, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shirokuma-2963",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/510bee7155b4713d9a1e47f8d3503276.jpg",
+                    "name": "Shirokuma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "adelie-penguin-22901",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/87974464fe400b33f2c18c576f674c9d.jpg",
+                    "name": "Adelie Penguin",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "katsuyuki-konishi-118",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efde288d6c83c22388532c5e7b444530.jpg",
+                    "name": "Konishi, Katsuyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "agohimo-penguin-28238",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf53ff06b742a2734de28438b8fd9d04.jpg",
+                    "name": "Agohimo Penguin",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-sugita-8",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/deae516e8edb7cf8e1dfc709ea34fa59.jpg",
+                    "name": "Sugita, Tomokazu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "しろくまカフェ",
+        "synonyms": "Polar Bear Café, Shirokuma Café",
+        "aired": "Apr 5, 2012 to Mar 28, 2013",
+        "premiered": "Spring 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.95",
+        "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Josei"
+        ],
+        "studios": "Studio Pierrot",
+        "producers": [
+            "TV Tokyo",
+            "Avex Entertainment",
+            "Studio Pierrot"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Polar Bear's Café",
+            "episodeId": "polar-bear-cafe-607?ep=11708",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/4ad852b30fcecd73442759a65d9821d25a3144d3159c70eafef86e4c3fe1f404d6026995feaf9502f76a086e70923a9cd318da938c44de2b4c6e9df18b2678c70228a75e29cf0d0ff533f88fb2a4d65cb0a7dd5ff722b445aa645df4eea5942b039e4bc27dd23c83ee17ebb11c79e3d82753e900c69bd318ee6ebfa332c95d8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/146760eded9fa507d70f8d6d84ddee44/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4ad852b30fcecd73442759a65d9821d25a3144d3159c70eafef86e4c3fe1f404d6026995feaf9502f76a086e70923a9c5640e88db28b3df003637e0238e42d4088798a50ffea1c06729ab771c8640e80c2cb114537d5bf7c501934e0d16c0a198c41ba59fac549d0522e838928baa25212b5d5dffecb7b147983b4b3f2848108b9a5bc2bc9685997b27d29ce4374224e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/146760eded9fa507d70f8d6d84ddee44/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Everyone's Café / Café's Cherry Blossom Viewing",
+            "episodeId": "polar-bear-cafe-607?ep=11709",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/793b7825f0a6330f299ed00a77257ec72caf6bf258f37fd4f361d8e3f8b4535da39f2f69a866c583846412e57c34fb3189b3a485e779266e03141d3233dc5ff77165ab9feb55be655bf923be88c2829b0808389ce253cfd698eafc9a60b43bb6d831be490aedc1542aeffd96f69901748dec713407cc764d68d72372389137b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4aed965ce3d13c3a76e2269ea8ab6a2e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/793b7825f0a6330f299ed00a77257ec72caf6bf258f37fd4f361d8e3f8b4535da39f2f69a866c583846412e57c34fb31b2d60af2a7714b2d48a8d8376774c29c485e8e801c809bb914f6f82b2d0e116bce7b27ce9060dc6388c445c86c36bfa01efe00cbc0b8609772a87fd9ec303cae8cd7e6e79204d56b4cef7b4eb74780ac0f01adb24ea25ee8cfdf5fd4d149c8e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4aed965ce3d13c3a76e2269ea8ab6a2e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Polar Bear Goes to the Zoo / Panda's Problems",
+            "episodeId": "polar-bear-cafe-607?ep=11710",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c6a13c5166826da66352765794994f3fc586f804d1e57f54ad6dd2ba43e5affba5cf72d5b0e22403667d7919cae4ae9d9dddf198455bd18b76e441230e7bcee1b834ebefc825000919f6009e6ba918775ef7381071c2dc9e5b65dd01e0bc6f6f70e6b72cc9783c58bf2e6510e6ea6a0c72e3ab6eb93cc21125774e5c1b59984e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bbfa5e8fe5ed01a761fbce1dfb7f8ee/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c6a13c5166826da66352765794994f3fc586f804d1e57f54ad6dd2ba43e5affba5cf72d5b0e22403667d7919cae4ae9dbc9e921fe7be22e35920e0a024ba9b3093697d86173d8a574750d9070d6cf2d4d6a779425af1af32d567c2a21415a9ae6f73088be632650e37663a723fdaad3bbc87969a25af57b8cfd4edcdaac945031c360a9f09b63b9e93ffbf70b75b16a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bbfa5e8fe5ed01a761fbce1dfb7f8ee/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Obsessed with Smartphones / Super Fun Driving Lesson",
+            "episodeId": "polar-bear-cafe-607?ep=11711",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9a66ea64e0cf9c1ee89fd4cd5849288e41980696f053526166ac7a7d9231bc6387720018298e696f89595f414cb446ed2d936bd1a3cfb8f22ab638767326433de09fa94d403134859e9e9e0caaa4117139bf406983ac6de63dea7f7dd3b8800ffba88afc68d25c51ff0d6d11389b44abe038463a809037244545c39b5c7503cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb481631fa2377c27a89a8a62c0094fc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9a66ea64e0cf9c1ee89fd4cd5849288e41980696f053526166ac7a7d9231bc6387720018298e696f89595f414cb446edcd7db09d645dfc7c7da65554388837f7fccc5d86ef9cc5d175d19fe0865b050a3ab2c8f25ce663ec23d392ad8f38b9bdaaa0f422e16c134535174f052a91278482beaa555e58f64e9cb10b27e7090b9f2b8f7d5b31dedb0f450f6075e5be46e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb481631fa2377c27a89a8a62c0094fc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda gets Enthusiastic / Everyone's Parfait",
+            "episodeId": "polar-bear-cafe-607?ep=11712",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cef5010f11c496e78879f76caebdb89437863a3c34d3345602e3dd4d8d4fe4c21faf4a63c770b57b4b61524543528c2995cb5e0d82113a3bf9791dd8d8cd473e8c10ce7fbd43d8ec4ca88dea1866623820890e57a0764222c1d00e750315c28e63d67716961eff5eb4cda7ef1a0c4c77d60e2951e921574b2303875ab87a32fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/849a34b1c8209a5344d7ecd93a016284/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cef5010f11c496e78879f76caebdb89437863a3c34d3345602e3dd4d8d4fe4c21faf4a63c770b57b4b61524543528c29f2e18b9f626738858ce5c1e7526fb13767a29a3765c8fcaf859f74d31f099369e44f2aa7eef484d461f5b499cbe6f10936ff06d364f59bd7f96edec8f237eb866d5b5f85f0c3d54c8acb9338e139922176fc668ceff6e26aaaa80e9fff1f0a1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/849a34b1c8209a5344d7ecd93a016284/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda's Diet / Strive for it! Wild Panda",
+            "episodeId": "polar-bear-cafe-607?ep=11713",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/126c97cab75d7631539393be88a8f321ec6bbffaf90d19313064671488363b68a0760483c62b8cee845f69fcdf18d8faeee98294b51491ebac7df35a67529f1413ddcd8801488a10a6194a6a0619b52293b481cf8a24bd84ceaa658b2b61798271d3347492556a187e2ef0fd94ff7d03792d33359ad1c219729c265d20b0df26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1993d354ac944c969682c5dbacc97288/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/126c97cab75d7631539393be88a8f321ec6bbffaf90d19313064671488363b68a0760483c62b8cee845f69fcdf18d8fa07ce3927a7594d73f8ae9902ee5463ca6066532af74bd65d527d3813354d8c11a4833a7f0480912ad79a9b2083307fa7b90a2049f6d978b6f2d9008b76723fa3ff115c7087506cc2f6560c658ec1dfa9d38c4b898decbb79ac5de3c766e261dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1993d354ac944c969682c5dbacc97288/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Handa's Make-over Plan \\ Love Love Driving Tactics",
+            "episodeId": "polar-bear-cafe-607?ep=11714",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/04c678f705a4b74b1d5fa6d98141bbc296c1d9f51a2524589c3118a073ddb4e977238a0a7150e43e76e754e1194ce2b4ceca8b68bc0cead1037554c1cf32ea7a33b063cbee6184218393e7f08b529db7ab6f3d1ae412b53ee55fd53459055ecd49d0413388d2cfbe14cff1008ab8929e6226f7f55610a3cbf83bf0cd9d82189c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3574035515550827946e3bbe44b99763/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/04c678f705a4b74b1d5fa6d98141bbc296c1d9f51a2524589c3118a073ddb4e977238a0a7150e43e76e754e1194ce2b4e4c4a29435cc8042cf4b9a11f7a14b3a302256c23ca0ed0531a4a73f32d66f6e44049408bb94de32b275b79fa03a6dd10b62ed69ab8079350db6db97c3626b9e7035689b66fb5410b0feb82c534175c829f659aab802c1d835af5df6c51aa647/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3574035515550827946e3bbe44b99763/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Magazine Interview Comes By! \\ Salmon Hunter: Mr. Grizzly!",
+            "episodeId": "polar-bear-cafe-607?ep=11715",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d0e5d4f0c5808a6d472feca2cf70f9bb7699074a642b70d76cd3bdf5270633dca097b727a5dd956332f18cfdff0aa49c4d4985f21dc09727cc0030239e50aadde7198026afdcda8a8ec0e761c099e3ce7a874cdc2b49398214c35362010a7f1971d28bafde992c233d42b2737be9c79a086a5a3fab3fa210ac38a5a6cd26e7e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bb1a3631effdcd740f7f92bc06a6022/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d0e5d4f0c5808a6d472feca2cf70f9bb7699074a642b70d76cd3bdf5270633dca097b727a5dd956332f18cfdff0aa49c8af42b98c0a2d260f19d932df2f80af0dd111ec9f570d802597876c68ccea31d840b38e0b9df2d39c7afd883939a7d788a7cf1dac571e23ce217e4430c8b31d240e715c36723cff109ce268ea56403e96f9977cc23b9db1fb066fc400f68b48b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bb1a3631effdcd740f7f92bc06a6022/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rin Rin Deeply Moved! Panda's House! \\ Mr. Penguin's Proposal",
+            "episodeId": "polar-bear-cafe-607?ep=11716",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c26bbcea81f74db71e0c7ca7a8d3e2f0a29bd9fff922730d3b3b569164472d684b3dff0dc49f6aaa16f1ef94375af247ff3e45bb2468c35768bc9381454c045de07a334b4333497a499175aa2113e7dd46e275965416594753c6eb8bbf6d9653c9aa6c73b85c67704ead223dccb2e7547b4ea9951f8374c08818dfa482b6d3a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10479e19e3c462956ccb7a35e7552d5c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c26bbcea81f74db71e0c7ca7a8d3e2f0a29bd9fff922730d3b3b569164472d684b3dff0dc49f6aaa16f1ef94375af2475328bc3a5d659176d40ffc50075b2a950e0a25dc58a66351843ae88ad1f6354c83939c649204fbc3e219b6a8be7b289567d7f8dc6dd56fe7edc7226535a7e463b1dc4f5fe49926466e27fcb4c06646b422dee2896e02bd156a47ebbc62351ea7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10479e19e3c462956ccb7a35e7552d5c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Handa's Group Blind Date? \\ Mr. Handa's Group Blind Date!",
+            "episodeId": "polar-bear-cafe-607?ep=11717",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/294973e02b49799b697b9ba6bde42d4ebea5cbff34eea5297c1d3217f7b38260834c980638607b1261cc613823e2e90b48558013399133c5ea8a176676f33879955db5f485a7eee62084cf31f55088468447fe12f3506538dc71a848bd3caf8be367d99a292bc94739538244e8c617ac904d625cd70c13773f14235376cec0af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2367c2b161a623c6bffb76c67b272fd7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/294973e02b49799b697b9ba6bde42d4ebea5cbff34eea5297c1d3217f7b38260834c980638607b1261cc613823e2e90bac3bb8a8493dd125ada7156009938e168824a9bad4f41f5181cf1accca4803eb8eb7a060bcbae8dbc7be7266b43023daa28190df3160c26019c809e6e327db3affea65ae87811218d9a931aaae5dae024aed8c123ab8038bb02e9d954a22be02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2367c2b161a623c6bffb76c67b272fd7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Penguin's Broken Heart \\ Panda's Night Out",
+            "episodeId": "polar-bear-cafe-607?ep=11718",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0055e430ef9fddded3bb03b415c64ae6a86e26f1ce2e40adfefaa067f73037984e621e9c7624ee0bbd1b04967e7d192dd76bb8c5b0481452b756c9f772fd8d923a5e67ccde57fb391f142b2fe53d9fa44428cabfcb65998360b4447a5d544a64c71ce222342709c679610dff1f608c9fa7bedf997d2729d5fa452d21d1e15ee5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3232e2c310239cbff302cc055f2d6762/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0055e430ef9fddded3bb03b415c64ae6a86e26f1ce2e40adfefaa067f73037984e621e9c7624ee0bbd1b04967e7d192d93b13c39b0cc32870826b8dc4adda3a6156553b72524189197efce12d1d8e67305ee51f425790eaa095903c1a28e1e6247be0d5ef4e777cb0268eda166d370a7a18ab050dc733d4c996877e0c4d4cab524d06a3b5ebe0101751255c65efc8446/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3232e2c310239cbff302cc055f2d6762/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda, Tired of Boredom \\ Panda's Advice Room for Troubles",
+            "episodeId": "polar-bear-cafe-607?ep=11719",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/51b8b9826ce821db1b62c3a34cd220710b55c6866ee3e4efe2cbbf453e0e4e3c89046fc3bb8bb602ba8ffb1726587fe839d2c45f63a5343a605f8373446d83b505647df9b8948bdbb5a2b10c22d22d65bb8f97085df5702219ec7ba16f896f166436e6963cd1babb12b5e386e2d81416fe57f82621615f468d44f3cd1d59ca72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0082bf1e4a9b1f48e076089da692ca01/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/51b8b9826ce821db1b62c3a34cd220710b55c6866ee3e4efe2cbbf453e0e4e3c89046fc3bb8bb602ba8ffb1726587fe8845019b011f790c1634683dfc6ff109be1ad2447f7bc1797f0897aaad11f63a41fe10799aa4ccd53346898ea502ef4a596c978fdbebf47231213cb9dc9ab17cfe04f4b5122c14b84e3d769394c05aaea15b4457cdbed1efc18a26a74f41c4d07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0082bf1e4a9b1f48e076089da692ca01/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tanabata Decorations \\ Panda's Wish",
+            "episodeId": "polar-bear-cafe-607?ep=11720",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/55b65d696e9a0e3eb810e5ee8135427478e41f3b14b03ba538909717b73ce3aa075b810e8015a809d2ef8f06c379660512cdbe912efacf3b6290931b9e65c7c49a4ccc5c911b07c1a0bd442649de2e0e3ca91bb1bf6b99e37f7c569a39016ed00ffd91e130bf6f9e88d842ba8c2b1cb31eff46f68dd37a21b3d0bbb94b1047fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c7535f822d2442eaa5353f2986d2e6e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/55b65d696e9a0e3eb810e5ee8135427478e41f3b14b03ba538909717b73ce3aa075b810e8015a809d2ef8f06c3796605bcf1b506f931fbb98a6f11bc0b5cd3d54c4a836b63678b79283d4f2268beb74da1b6cfad071cca06bfae1d110966c8e2ad14604c3ceef8057489b6c27d2c1e4ffda5e9305e3e6139fefeabdc119515f3738b54f48373b979d90d3d5a35d1304d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c7535f822d2442eaa5353f2986d2e6e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Enthusiastic Polar Bear.\\ Let's go to the beach!",
+            "episodeId": "polar-bear-cafe-607?ep=11721",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/46f77957702d82e46ea9cd006952b88d09f1075fbbd47525445a48e0a1786bf05ccaf58d2b864ef710d0d037cf6b04656605c83af333c9a24413ef98d35ac400f5741254aadb46b2464ca12211e2abd83f179123adc61c6092ebafd9cfcf826d969bfb47e19cb9ae98ed0ebf0f1a3608a70fb189b552ad0afff3b22464a8529d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b208ce56328f6d518b4186573eb6d3cd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/46f77957702d82e46ea9cd006952b88d09f1075fbbd47525445a48e0a1786bf05ccaf58d2b864ef710d0d037cf6b0465d83800e791c417514b4c7a8f6718f7d7bcaf4d3b8404ccdc127f5bc0d7b4fa6d48551f17a9101cd0b6f160bd3fd5243f8dacacd47018bffe6cbd36a18131f5d72df2d1f9d64123663ec18c3584d526763abcfdcf6598eb29b86e3d5f2a34b221/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b208ce56328f6d518b4186573eb6d3cd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Weeding in the Summer \\ Mr. Penguin's Romance.",
+            "episodeId": "polar-bear-cafe-607?ep=11722",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f9d13a42e7d4ac9696cef776208a632ffbc6dcf0d9f74d066d68bf2fd98e6fc57331cf1436ce57468ac40c3754e6090d63f10c3883b300f0576a8a603b828a729479686c22f0133050becea2acee08b17052745a2c4b86d76ae4b12b86376871eb0a5d4bb88e951cff995a2b3d61a45dfbabdf2e5c0d49fe876758cc9ad61b84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56f02753c775a3e56f4babd3fa6733ba/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/f9d13a42e7d4ac9696cef776208a632ffbc6dcf0d9f74d066d68bf2fd98e6fc57331cf1436ce57468ac40c3754e6090daa1f6a991b3eba4b58bc9057c83b956b5f1fa3bb0e120fece3626de265dee2ab6d2a2834250209efc9d03dd3b39e65267bdfc61614de63d1f866459e27c84ae40106185619e6b04b53d42c07201c7a9d212e44b1c31a1781ddda1fecf8a0f6dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56f02753c775a3e56f4babd3fa6733ba/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Grizzly Goes on an Adventure \\ A Strange Restaurant",
+            "episodeId": "polar-bear-cafe-607?ep=11723",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bd68a5372cb39c5bf1434177393c1a4e595c7c2073b1c9393adcba3bc297a7afec1ada03e1afcac0aae116bed21b4592f944c655af5cdc3f4798cb28feb1873c9862c10b21cda0a4180ba415992ca7053597e7663d41d63d459e536faa206b7fd81b2c3289645d2f609748cb0e6840f90d65278502b12b5b62375b6ef8ec3a32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aca96ab724b337435568d972ea6006e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/bd68a5372cb39c5bf1434177393c1a4e595c7c2073b1c9393adcba3bc297a7afec1ada03e1afcac0aae116bed21b459287fddb50a327ed9b4662e0261e97a7146765f8e73b6bc261b475be34fffc8de238b9fb2fccc9b557f1752555755c3972adea244a566bcc8e4ec8e144299e98e925ae0da7aafa84c665d89ff3d35c9b97239121eb0d08534ae1961dabdb2ccf42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0aca96ab724b337435568d972ea6006e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go Camping! \\ Rin Rin and the High School Girl",
+            "episodeId": "polar-bear-cafe-607?ep=11724",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/facc8aad7e454249d322577bf7763f955d589a1ffefe5c812466804538d24c7b7f53c6960c2a5a603e636c5d07ed4b8739ffbbaf0a22c30f05a3d843836cf3eeaf812a5b061631da695d3d572359f365bae0133d41b763114fc7587ee341f9d9a379ad27533e3005a54653ac20bb124f0f89a26ea2c68f8f7c1760a89ede3f25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6b40979478f221011ae845ccb3ba514/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/facc8aad7e454249d322577bf7763f955d589a1ffefe5c812466804538d24c7b7f53c6960c2a5a603e636c5d07ed4b87093ae6fa3f2180ae1452284fae05938e119a7c18a97b7550418c080d9baf20dde0ef4b385c60f9f2ebec28f83680a4b1690b164e270c50de1dfa6bc03173cd67e3769d7ab2481646e6d17bd741443b2f6f0cb9a44a8af9496db55fad1b772d08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6b40979478f221011ae845ccb3ba514/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Café's Ghost Stories \\ Panda Runs Away from Home",
+            "episodeId": "polar-bear-cafe-607?ep=11725",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2c0bea5d0c4cd42c8eccd37d8ab8eb69cb40ba1392b1e9f17a01dd5bf57839babd3f3d6c05f300100fcc148f1fe644bf17f4e6a9c1cb118ed3c27ca923bb4ecf700b18a80a95998832e7e30d9bd8606f385e043875940d5cef8879ad98a20ac27b043188b7e317467b970e9d155cbf6835cb5108760973bafbd4ad0d38cbc7a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c54ab819054e8751ef8b6a753bcefb0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2c0bea5d0c4cd42c8eccd37d8ab8eb69cb40ba1392b1e9f17a01dd5bf57839babd3f3d6c05f300100fcc148f1fe644bf9c0b7e18529fe323479658a1ce9789ef45d149cc1de2be1ae72a7641a6450fd1413f1006f6872723795a3801020316277f313bf3c635c0a3a1efd9d4e4349d01194527d95a49ad3a2f50b753de86c17c778cf9842c405e279d2adb0c40159833/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c54ab819054e8751ef8b6a753bcefb0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There Are Many Kinds of Penguins / What is Baisen!?",
+            "episodeId": "polar-bear-cafe-607?ep=11726",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b43992f239c28267feef945959b18a94c83a184cbad1b7a3b7ed725f8d1d7bfb4a10a0ca81f03191ea8bb32ffd229209b5ce4ceb135d0740c9985949cb52cb4f3d2fd4049c1c40ec32c2155ff48674f54c3d8450fb3061d4b15fd0a873392415b45fa5804b6413af59adf08d5f951970b96442b5ed23edb656a49a4903cb33d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d71c59c19246b8b9348b7147f24d4a5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b43992f239c28267feef945959b18a94c83a184cbad1b7a3b7ed725f8d1d7bfb4a10a0ca81f03191ea8bb32ffd2292091fbbbf5d291b1102144b49972407d6e9f01592330696d4d372e8ba1fc6b867ce3d1a77213fd6f9e5ceb8f9f382c2193b018cac12e9287e62017767d400888193a42322e6dded7391771fd1b138afde6ff9dea2bd7af845359b1ccf31860ce23a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d71c59c19246b8b9348b7147f24d4a5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ideal Single Living / Summer Festival",
+            "episodeId": "polar-bear-cafe-607?ep=11727",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a4b62a62f7cdce6f6980633a285b14371a2b292ec1dbc877338d1fc2da83aa407a7a1d4daae635de0a1cf5c878a0956835bc22e1f617bffe3402b7c4e72e7d7440986728e1a4fb7b75a463c1ed640ba4ae40ae46fc6f5a14b3bb48449184591681672eb354a21ffc79ae43596512e954dadc7199c3fee2d3c7a1bc9c7447773e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a6c9e8430e3073e7392a22e851d252c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a4b62a62f7cdce6f6980633a285b14371a2b292ec1dbc877338d1fc2da83aa407a7a1d4daae635de0a1cf5c878a0956822471ba5014e4d8c6abc5c22bc88eb66dbdbdfd1093e4fe651216c0d428bfed1b68ab203136c3a3129e676415799521b9ba5487ac3d32eac92ec17cf795627aaa3c26e089ff7de0b0ba7bf7aceacf013b1a2dfde3d6de302367f8e43ebcf8a13/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a6c9e8430e3073e7392a22e851d252c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda is no Longer a Panda. \\ Mei Mei's Prince!",
+            "episodeId": "polar-bear-cafe-607?ep=11728",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f5b7b7d6e106d5f687c02202bdea5ca453fcb63e1b3745b8673e015a91366f1614bdb749c0b43ef11b42703256d62df5b82fc899dec3de8c032bb8b9750d9b41445f80fc9ecd09b869bcdc16f7e531c822840bc21e89292d0f9b4c0a89c0204a24adb43edc8482384f9b4decb675d5b0f99435f35698d635d669ee8ed29ba65b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eeac8b1fd5ac02c650f5db7094097627/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f5b7b7d6e106d5f687c02202bdea5ca453fcb63e1b3745b8673e015a91366f1614bdb749c0b43ef11b42703256d62df563fd1094ceac0ba8a80d6e45eba64ce536bcab1b45a1ff28f8b37805aed5e4fe971a1e9e9385f8125945a530a50b7124b51813918d34ac4810cd571b2396fdaddf196f74ce8f0439d92b70ae3521f6d89128195467e3397e0a6f903c1db7b95c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eeac8b1fd5ac02c650f5db7094097627/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sales Penguin / Mr. Penguin's Picnic",
+            "episodeId": "polar-bear-cafe-607?ep=11729",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a9faaf23c7df350ff8908fe47297a0eba017758a7a11cc5635c023543052f716e7ffe444bf6ea2f88b7f4db3567407c31e267fcd417b28beb7667458f207e48ec76051e8f61ceb9fe6bb45d82dc7790509f8b0bb9537b1009c7221934bd6e212196ad3673bc0ee082a46b346331abb332f175e5bf479434b6ce7d52ec75a4940/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/158186bd8f52626774ba02cb1425b9b4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a9faaf23c7df350ff8908fe47297a0eba017758a7a11cc5635c023543052f716e7ffe444bf6ea2f88b7f4db3567407c37a77542a836ef7b68fabff47fbc0855b2071fb3fd0c1d67868724b6865183a0c8b664c54488148a1e7d90f5e15c1f2fb537b8e49529a9a4188c188622768cdbdc99bc1c26c838833e7e31153cb9926f3c7b01034cb14acd22f512396b7598be2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/158186bd8f52626774ba02cb1425b9b4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Handa's Discussion! / Panda Mama's Daily Life",
+            "episodeId": "polar-bear-cafe-607?ep=11730",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a4879694f609178478b80c2ea5dc0c4ffacbc39a68844cd693d090a585668cb47dfdc7fd515e18578a292b4cb0ccacf03655e0be17301da6e98458b7b5d8c0cc9ed581928511336691f131cfe98ff351b0dfe3525712c34771ccdfaebadc54f2c0248c32d25183be7a4816f23c0cab38f7e9702d119d6c9d5b5c9e4b207b3d8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b31f79e6c8f581307eb0f01e20b31a75/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a4879694f609178478b80c2ea5dc0c4ffacbc39a68844cd693d090a585668cb47dfdc7fd515e18578a292b4cb0ccacf0ef1088451bee9467e7cd26af0b86e043470fe0309be24d9a397ea83f8206c848103d2b85c742387efe56ce3b2768acc1962e0dfebb2cceb6008d02ca6dc9d02f5d6345896d7c2bc6e4cf7be139cde0627090593f876281d201a47485b12007ee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b31f79e6c8f581307eb0f01e20b31a75/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda's Apprenticeship / A Sports Day Filled With Animals Panda",
+            "episodeId": "polar-bear-cafe-607?ep=11731",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/56708a926c5458a59d8a6344351d50a57ff66c937955bebb4ebe6b192e8aeeb3cc75daafe81dbbcb26f5fe14c6f87434de0145bbda55fb1539822851092f5d4cc94ed0db174486515f7baa03ce4b028b19c6ae76c1cb2b45ba35e963e79298e900e8871b30e4141aa4afda1c1e57962e33465f753ac9f75bb03b2070153490cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/483422e5c447137d12a6f28ba5c4a822/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/56708a926c5458a59d8a6344351d50a57ff66c937955bebb4ebe6b192e8aeeb3cc75daafe81dbbcb26f5fe14c6f87434a557deb9b8bf9adb03a9f6448a2ae48ce9b2e8bc9dd7da2ce1c2759f0d1412da4fa9b160e50999787c5237e85d5b6f8c735bb13c4f7478c06710b056d3ce8b0da92281d26db23ad59860010f07851c257c7b6a5aeb488d4b0d42eb4d45d55bf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/483422e5c447137d12a6f28ba5c4a822/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Penguin's Hobbies / Their Childhood Days",
+            "episodeId": "polar-bear-cafe-607?ep=11732",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/284e3e4be27bfeee689d90f69a0860f3ba2038c30ea4b4f079b1ca1522edb3421ebc90b554e82d7f227bd063ce7e048e00498f336b3999a7db0a5f3627a08f5bd306dc61b3854842f4d2997b513b8c9486d95fbe05ae96796a5f761fdeef42064431684533d24ba0f7e3a465d79c4b7518e86f3ea3aa67eb0d7539421b151644/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efbc8d5464101a4ef225f0b3936a4293/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/284e3e4be27bfeee689d90f69a0860f3ba2038c30ea4b4f079b1ca1522edb3421ebc90b554e82d7f227bd063ce7e048e7782c4e16f66ba3aef43cf3df8966a7814bb3f2ed89299592992868583aa29abf1d68dd572c97bfff8d2f859cf9319499dd24d02248e70199264ef4efb1430d282fde2e962461bb7013843adac6dde18418830bce2323a146123fa09d7001c07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efbc8d5464101a4ef225f0b3936a4293/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The New Panda! / Reunion at the Grizzly Bar!",
+            "episodeId": "polar-bear-cafe-607?ep=11733",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ec2e35e9d4168aa63c0c9fce5912c73ea5f3e5b495abba19671b5e576bbc86d2994822ad9f7ed75047c690bdd972a28bc9cf7436cf4df931954f3837c22be62a992a877d39eb6583ae298653452c1f9cc1be18848a0eb3e3dbe68b4162e26426190c87b1a7307d33866cf01fe566f364e0404011787dc7bc31112bbf8e19e8df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68dc64ff4593af81c2da13cf4d833681/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ec2e35e9d4168aa63c0c9fce5912c73ea5f3e5b495abba19671b5e576bbc86d2994822ad9f7ed75047c690bdd972a28b2956f46c53d7bfeabccf0ec4abee3e672eb7f98e766d971adb3fe0da6d931ec46e125c777d61d354ddc1cd74d61900974fe11b813bac331203f74132c52dd532d1551e368440c82aacb79b6561476fd106d7c4267a6e84516c7e9ed661e1ade9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68dc64ff4593af81c2da13cf4d833681/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Animal Field Baseball",
+            "episodeId": "polar-bear-cafe-607?ep=11734",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f30d7c3cafe5fcb867cc3cb47df376236b361fdc168f2082cb9ca711c543787895131c99d32d7a4591efdc8ffc004360aeed811c82d8d6aa1a79df0ef82ac125dbbdd2e14660b2887f41cbd1969896cfa9e22c5036a13087b1b91fdfca62077111863a1f8f0dcc7ae2a58f4d2080ca36b94cc09f8fdef42917ee2027944a72bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c26635fe933f6bcdb7e376a089c5a122/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f30d7c3cafe5fcb867cc3cb47df376236b361fdc168f2082cb9ca711c543787895131c99d32d7a4591efdc8ffc00436012634f982948e0b844e0219dd853a816b6b59794bdb024783299b81743c40527108e708a7ebfac28f4c53ec1ffd5d239a3387ecd72fd2266e13bca9fb89d6c47cacd23b4c9212b35528665dc816ef22aa6ffd7b3757e537f98b572362f705ca0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c26635fe933f6bcdb7e376a089c5a122/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda's Apology! / Rin Rin Welcomed!",
+            "episodeId": "polar-bear-cafe-607?ep=11735",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0e4891aaa01bdcd6ed3b773da073ffec4be6b449d337759d8423dd91234dd2ecdc954f5dc22f2e6f41259db9a149b8f34d47f3220f70ea35164fb3a9dfa68e66a4c699277261d5720a9699b3396d664015a9560208a9fce3fb1bad08b71f5c7a466c90a8b589dc6739a22f21f565298571bac3bb29194aaa16abe8336d076852/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01a19476688fcbe6f7a71d10ab6c3882/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0e4891aaa01bdcd6ed3b773da073ffec4be6b449d337759d8423dd91234dd2ecdc954f5dc22f2e6f41259db9a149b8f3919954664a16447e231143dc83800700e9a6ee124f2561bf5adbf96129779cd001ad0be1ad8bd79c3ee7138aae858d03cd6f5bf55738a22773e33e32d01b6bf4a68bddb3372e63f54421fca2eacab75f5f2374a99489508c2c853f0886e8c280/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01a19476688fcbe6f7a71d10ab6c3882/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda's New Part-time Job! / Mr. Penguin Goes Flying!",
+            "episodeId": "polar-bear-cafe-607?ep=11736",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3d02b4e0e37bbf87530fd0184ce133bd13cff7f45d9bb666c5e1de92aa32c06c0634771eaf7efbc38099195dc0018ec95e77aa99c6574fc4026f37b4ebc275197e55e69bf7ffd2cce2f2bb8c94feb14676c850cd9083e371f5941da631ca3aa6bf17ff8da61b986c3fd4ffc9cfc1fd87226f93aa9f353897da8e525722e33c30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f89ea7670ef459cc13a6b0086021865/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3d02b4e0e37bbf87530fd0184ce133bd13cff7f45d9bb666c5e1de92aa32c06c0634771eaf7efbc38099195dc0018ec9c2a0b99d75385f152011c82b41523a6341e1bbf2b93b86b14be987df66e1cf6596c5aa83930224a138d618f6dc281172ed75d32b015ae4151ff86928658bd074cc25c35a59f2ba83252ab8a39c8018a0f279690879e85bbf96a7eafb9fff2fef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f89ea7670ef459cc13a6b0086021865/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Halloween! / Llama Day!",
+            "episodeId": "polar-bear-cafe-607?ep=11737",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ae600993e02703d5fd1065a99900997da7fa1bcc6f1666c3cc89b9b4e7c9c1005249d912ab2f90e156ace57e40ddb94a479a31c55a65b0c294a73e1d89a998b0149492de3e4353735a4b8bcfe8e6b392e5cf13a1814e7dad21055fca92b7835c045553d4c395679939e35bbfafceb08d6dcd9ee6fbde98aa86f026c9ea60a311/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ab9c243460d2f79dd0f7ec3d3aec247/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ae600993e02703d5fd1065a99900997da7fa1bcc6f1666c3cc89b9b4e7c9c1005249d912ab2f90e156ace57e40ddb94a03f9552275f4bfacdf5ed0b9b47b29037f9aaec4841b3a96e1f6c932690d44237b3131e0547090b89fb77083aa7ae07ef57a5cd76a80e09b3f620570d352c975cee088b915488f12a43882ca91a21c290498708cd89265f3f84aa87570ece871/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ab9c243460d2f79dd0f7ec3d3aec247/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Penguin's Dilemma! / Idol: Yama Arashi!",
+            "episodeId": "polar-bear-cafe-607?ep=11738",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7c32aa1298f657a8a9e5d3c0e55d9b948fd5b4524ebf44c0fa3983455d368ed9ce2d91e701b0374a0e16b66602cb0d24ef788984befa8b47f1c9d7a9febfc2304712d0bdaaf250796fd7f088b72f931c2bc703ace21ebdc156342bb95169b33f0ba6ae5e1252905418117bf7aaac0c1d3870ba33151194f5a58bc86a8b045f7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6c84cfea3fc2293f8ae56bb4ce8d8f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7c32aa1298f657a8a9e5d3c0e55d9b948fd5b4524ebf44c0fa3983455d368ed9ce2d91e701b0374a0e16b66602cb0d24bed3c460accdd69666ae42105acdf56e06d8e9117d8ec8e8284ccabcfd81733104f1f30dc0b661a9fb0a5fba00d028a5b99bd6fbf9d2c7bf44cf900399181cebf282127fb53c22014dd4e95660e838f5fd15e047a4e7391565575b1a9257199a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc6c84cfea3fc2293f8ae56bb4ce8d8f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Café Yard! / Sales Penguins' Sales!",
+            "episodeId": "polar-bear-cafe-607?ep=11739",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7d41708540fe3bfdb40bdb10cb11cc86f2510e22181a6459fd9524784ec77c28966603b227f80182a90ebec9b3568082cdb42231ef8b846e5297bc7778a4e1ecfd3526ddb7fc491a1fdb6f6c77ddcf606bfb860d6497c44bc08a9e9587ced58b49ca98d1000efe852fde5654609db1184a4ee4a578ee70bb713347c21f33e72d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/294f551c3f6fea49c4bad51be7754915/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7d41708540fe3bfdb40bdb10cb11cc86f2510e22181a6459fd9524784ec77c28966603b227f80182a90ebec9b356808229cd0a59385d20e46e70dee306599613ba1f30d3c6839c2bf205480fb685cae8bd1728a40898eb8e75e1e754a10a262a8228cbadc4be2a8d3c3db224d103b42014cd9cee203eda5f4e90c6f8e138e56dbd417b155bb502c6cc39992e5b43cc62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/294f551c3f6fea49c4bad51be7754915/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Panda Corner Contest! / Coffee Roaster Masaki",
+            "episodeId": "polar-bear-cafe-607?ep=11740",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e2d9a7e25b866942e50c701712df0c880f125394f0d760347de6ca6c8d3e4119b83d257b8537ff80683620a160d1d8c566ce413ab1dcc17f55993cfef6fe376558f100741a6a1be08d92d63a556bec669ed4e43c44893e13a4e57d489e84c23e8ebc99f72265aaf1d5fd9f12821a5fb0f2cbc268ee79028f0e576a76fa41a81f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2937f099a391e6c88a6604dcfcf897c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e2d9a7e25b866942e50c701712df0c880f125394f0d760347de6ca6c8d3e4119b83d257b8537ff80683620a160d1d8c5f0de8d0565a3717b40a78af2e0cdefdcb975e14a9f0744f7647c4f8970e9f781e836d7a6d17514c230bc6337bcc28ae61868b64e9af8409a3dc04ddc105b6b770a824e66ee29f8a972e05afc47bc3f007eb7bfc2578fb7f35a9385c7ea9147ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2937f099a391e6c88a6604dcfcf897c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wolf's Occupation Change / Mr. Penguin's New Love!",
+            "episodeId": "polar-bear-cafe-607?ep=11741",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/db87542ee79d6316550e69c0f39fadd29ee1a64afc47272705b241f3169154ccb419e604f8aa56a664d963009fdaac03904850ef988e13f655ac37da57fe48b98773b7c8e672debe947e074664b34cee677ee6325f405c2565e67dcbf449581a5e7010baf1eea933522472a20de29b78ed5619d11c5a239e24031c7088672729/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58ac3afcd79077c7a069e592da613c79/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/db87542ee79d6316550e69c0f39fadd29ee1a64afc47272705b241f3169154ccb419e604f8aa56a664d963009fdaac031f0200152299351f153647d61bfccc6c11fff612ea83cd10c6a17aab399265667646b35f5df35f72f90f87c49e513c148eda6ecdaf1199e749a3f57c45c24620b20b41718b22b14e6c1b8825d0e068eb3ba85fe95fe12059c99ec920fd5f8d8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58ac3afcd79077c7a069e592da613c79/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sloth Wants To Work! / Mr. Handa's Present",
+            "episodeId": "polar-bear-cafe-607?ep=11742",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/23906db00eec186181b0ac488d0ab02c2ffdfafff26271b377068bd636f756805b6337369c5bdc0f02910d1f4b32d878caa70d13ec2642fd0de73b52e7983a47c8ab3b9fb6844f20a229f5ffb0cddf8f8bb5ab3ad91c40f8b88f0cb33eb1b6ce324fec1efc6e6ea57f9018163ff843cb0195db2ba1d60d38ddc48f98f95dc225/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/790779844068abebed8cf960c6417147/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/23906db00eec186181b0ac488d0ab02c2ffdfafff26271b377068bd636f756805b6337369c5bdc0f02910d1f4b32d8780f6d4c60ff0e861c648766f1ffa5bec22c9c892ac41355d872924edac80969255c520a5feb4ed44a23654f3cda60a38f3d638c2dac6ca0246e129258a92596989e34c03438d9d0a1325e79a06e1f87e7929d419a500dbd0e9aeca027f52102e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/790779844068abebed8cf960c6417147/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Grizzly's Hibernation Preparations! / Grizzly's Hibernation!",
+            "episodeId": "polar-bear-cafe-607?ep=11743",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/72e3886fd7097ccbe289a36a9d1d77b450d9bf41deb427c3eb16243b77ebf858ddfe2cdac18cab05002728834b7d168d5ab00501ce5101c9fc33bfaf90a55a20e138e80021ac9d4d63dfe5d678fd39dc6ea1baccfa502475d500fb430ec0e3a18d651c13a8a2144cadc192bdcc612be2abf4b5071fcabd041a4936d29b168e71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05ae14e1c7e26b808aefbf1bce4bb76e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/72e3886fd7097ccbe289a36a9d1d77b450d9bf41deb427c3eb16243b77ebf858ddfe2cdac18cab05002728834b7d168db87eaf5497e844d19690eceb89ec57e6c3806a19bca02e7e1e76166fe8865c8555f36406740759203ce0fb620e31e74948f673c17a7666188857acb18b5707ef33f12e1cd55e158acf13c11da6b2b421944e6a1b15723924bef987c8ef1e4a0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/05ae14e1c7e26b808aefbf1bce4bb76e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Christmas Planning! / Christmas Trouble!",
+            "episodeId": "polar-bear-cafe-607?ep=11744",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6310a72311ffd9975b4f2753a9d33d2e2dc45af7281a90505cf105986c2f845e582ac29c5fe5fdd5061a80749e6dd33dc92ff9167070c2623d3e06b194d7d90c061a451e404dcbb85cbac929a6ffbd01623a6618a7045e35510bcf3ba3a1e1b1fc5c49fce6ef13242623db4fd9fe7312db763d3a8ac8a86b3a8d1fdb09d3fc97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c31ba0b380d17014af8ebf84a4402f6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/6310a72311ffd9975b4f2753a9d33d2e2dc45af7281a90505cf105986c2f845e582ac29c5fe5fdd5061a80749e6dd33d2dfb20aece993ca28a6c39659b16efa2664a5655b744da34b78a1bf9eba14af9b2f7b2a63a642523d746d2c847f3ef0346a60a2f064726ad469695b0ce9161da64af63dae522a6389d1d5ea531b1fdf6764ede175865342441f6025579f85c06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c31ba0b380d17014af8ebf84a4402f6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Big Cleaning at the Café / For Whom Does the Bell Toll",
+            "episodeId": "polar-bear-cafe-607?ep=11745",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ad918bcf865b75350634606cc92f5f7029a34c06121f1208dc972111ee211b60bd0622caa98b89d5108e7c243b13d8027d48d043458e0aa343bb0343dc183995ccbcdae4cb34a9ad2850c37dad87441d181e834d9d996a3ab2bdc68263ff92d96866975ccec022ecb50d27c4ffac179036297f6ab590722706a4b4c594f8810a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2919487e32870145b514f0d56aef14b7/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ad918bcf865b75350634606cc92f5f7029a34c06121f1208dc972111ee211b60bd0622caa98b89d5108e7c243b13d802fd1d3ec6cb165ba8738b4cf33a54a4015b9f4200fa7bcb4d73cad831aa571b54621fb0887923206ee764842ca2d0984ea71dca4deab7cc0857c27f213a78c3547d2d813d967f0bb9f7fdf59852b72402feef6db85bcaa0c73b0447f9ebf54281/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2919487e32870145b514f0d56aef14b7/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Animals' Hidden Talent Competition! / New Year's Guest.",
+            "episodeId": "polar-bear-cafe-607?ep=11746",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/50ba66ce840b6d36fcd91278f6bfd2d3b90ab0b94fdaf0525f82e43a803bcd1e2e0d97f2a4429ca12899fe01e5910841df1a4a66975d36d1ed736c10d96d412c254c509bf4d8a563e2130437f16fda8a0176208173c5c0410a85b44ccdf0441a4813f689ebbeb3133711f0c6eb702282e71c62a9eabef06c6289c5af52164c10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6907eea1aad379c9accd0e074c9351c6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/50ba66ce840b6d36fcd91278f6bfd2d3b90ab0b94fdaf0525f82e43a803bcd1e2e0d97f2a4429ca12899fe01e59108416d5ffa8ec7c825c07818bf0101fbec6a50bb37b73e321e0cddc28ae50e5d6f59381669c089addf80301dbf614c845aaf12a790d33fac9cc36742d56c71574e7608e374cb59437a557cb9c83d1404949509a83045ffd9091e2ff50228af113e0d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6907eea1aad379c9accd0e074c9351c6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Hammock Sea / Panda Mama's Gardening",
+            "episodeId": "polar-bear-cafe-607?ep=11747",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7b21c8fe79a1c6b58c956de126b9e653a0548180e659028ed8bedf72ac1a44c55c6617a5adf1f003240d251c0316aa85455450bd166f1b1752f1b275cd8d2bb7b2bc7c0f9c22e4bf983348c4534fef858eb56b14dea10b388cf907124b0f147dfa1bd5b1727cb9ccf495e5e8c80a8d6e3df6ea1ddec60a364fedb199fe90ce83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52b766ab01e434d123ad7bced73fbe0e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7b21c8fe79a1c6b58c956de126b9e653a0548180e659028ed8bedf72ac1a44c55c6617a5adf1f003240d251c0316aa859e81a3e18d7d5f4c043688fad5848404a0dde17243348b967a10c0039cd82de652665e7da994d30d7352defb1f2e20af213e57fdfc6342fd64d52606beeeb7a45d3ac07123bcf190232544c1e1c7b035493e80caa25c256474a4d12352a63ff8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52b766ab01e434d123ad7bced73fbe0e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Scattering Beans With Everyone / The Café in the Afternoon",
+            "episodeId": "polar-bear-cafe-607?ep=11748",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e0700e75694796461f594356f7a066639b9ab4ea4ebf11fd168f255e57bd85b635e9bd86e7b97902c73845813ec34645fe9aca0d724081aadb14a920a0c0191a8c9a0c1b615e42ab116f2ed4f2e713c84221e2ed629a5986d6910d79166232736af6be371a25b1edb299eeee493007b8377a19ef70cd11a70c3cc9dad7dd402d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ac79a65d35c7220085f86d548d27666/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e0700e75694796461f594356f7a066639b9ab4ea4ebf11fd168f255e57bd85b635e9bd86e7b97902c73845813ec3464547cb1fc10e95e4a813237fc4b7fea42eb9eaffa3893786b7f57d0453015c4a7d6e58d0d92918e03d098711c819e7dc3d4f319dac707972e8750974f303d17805daf9d36bb1cce2cc5959a90a39eff8d2207875e75b2737ee6bdbc32d6e6ce013/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ac79a65d35c7220085f86d548d27666/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Polar Bear's Insomnia / Mr. Grizzly's First Love",
+            "episodeId": "polar-bear-cafe-607?ep=11749",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e21cf149e326fa004b2f286e30ebabdf9dfd4c91b099e25b78757f52c93da604a578d82f80fe4c51102f096ac40a605da83bbf9016ee52b23da1044ed5e2b9cbe4bd4db29ff99e05f79443f1d674ad63759bc7353342c0dce52c373c3c7485cc5fb5801c673e866d866d584e658dfbd5cbb39396afc5279002d6180e9c87f982/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24f742250cdf8e2bd38d00e8baa6b3c3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e21cf149e326fa004b2f286e30ebabdf9dfd4c91b099e25b78757f52c93da604a578d82f80fe4c51102f096ac40a605d9ee1433753f66f37288eb83f6319cd8b9d482881967eb76e413389a07d88c81ace922ba33a37495def9548111d9cdcc5be2a4b448d68c7114c11a26fa352aec9d1a3cb09b244eb5429e58cc4258195a5dbbf89a039fa7f81a0f3270b4e173745/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24f742250cdf8e2bd38d00e8baa6b3c3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pun Café! / Mr. Full-Time Panda, Mr. Llama, and Rin Rin!",
+            "episodeId": "polar-bear-cafe-607?ep=11750",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2189d381c0a51f2bef484dfa35d95ab2ca4e579b5f1388f130a386980aabd2022ea44d12721236fbf57af6f45e8b636583582361876b87feba5080ca7c58f537bd68154e3c61c5990d08d7ca3d4ba93b8b2f83879488b231b1bd214aaae7b869d6035dd4c11bd895a3624c27dc8303c506904ccd0be03b70c185580788920bd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b815292eb21e44024a15e1369158263b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2189d381c0a51f2bef484dfa35d95ab2ca4e579b5f1388f130a386980aabd2022ea44d12721236fbf57af6f45e8b636533042b28905ecadd4f9529d53221dc7bd17cf5a16d46c494b4daf53ffefe5b6d85204b16fb9deae26f2a8a8d0b4c82b05eade266bc4986f414105bab9e5c2f80eb93aea83c5e05f61150cc177dbb38475a64e29624af69b989d767f1c51dbd43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b815292eb21e44024a15e1369158263b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Everyday Zoo! / The Zoo in the Rain.",
+            "episodeId": "polar-bear-cafe-607?ep=11751",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1d7e0f3f5017b0cbf49ff7b34410fb2b7e96b281de8da9acd656a3c4e6c96d77dca2012d7cae7bbaef824547426f0b2e894b12eaa0c8fedebb773523d974bf7137af8a220e32691f4c5b09f8cc7aff0aad9f633f826be8e4d09df2e6f470a273f77b2395eabf4fbac380198f32296c1322edefcf0f0df3502ff074df58461b2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f3d9bf46ff5cf69b2aefde9d343c809/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1d7e0f3f5017b0cbf49ff7b34410fb2b7e96b281de8da9acd656a3c4e6c96d77dca2012d7cae7bbaef824547426f0b2eb04dd03323489182b70dd209052b92695b9432e4747934297e5ad8e37cdc452949d824c8e68a7e051c4ed49c244b36050e8542500854702509f03722ae01a681b557337b6f901740ae81c8565c32e4e0e035b644c15ee7be454cdd46a4a710cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f3d9bf46ff5cf69b2aefde9d343c809/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rin Rin and Mei Mei's Super Exciting Plan / Smelt Fishing",
+            "episodeId": "polar-bear-cafe-607?ep=11752",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f3713130e6a341019fccea3d68d24cf798699c54ef2c084a6b383b04654a2a0be63a48da91cf846eb3106e363db8f1997474e5d448165c2323bb430196f0766d196118a7519961a22b5e6e051dc3de2e58a671164e8694b49f0e431fde71089d8577fcaff3876c33d3be6e51164e7eefe4dea2d522111c4841d3ac274feaa5b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3da39600cde0736018f622789abf239/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f3713130e6a341019fccea3d68d24cf798699c54ef2c084a6b383b04654a2a0be63a48da91cf846eb3106e363db8f199446eea33c820f87c46df0e9a2a937c40d451cda430dbe12a2d26e6f7439b04837d747227b186fa8ae5739bf7b753aede88e803e124554956f08dd7c354cb002a49f0959d10b3d73e2631e4a79800d6fd4d4e70e0bbe13f296b4dc8abc2de7043/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3da39600cde0736018f622789abf239/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Doll Festival / The Animal Doctor",
+            "episodeId": "polar-bear-cafe-607?ep=11753",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4aaf7c974f625774a119c7e4325ba758df09121f21ef81c0ca470249910e11f8c036137f33d3caf7b7f3dc7ec223ba9edca09e5b17df474859a9b5fae63688430251fa52d23cbd15498893ba59059b5d22a9ef38af935cbcdd86891fa6508e83aec963cfa317e2621433c9d3a1f9cb725e04cd5517d15dcfe740ceb7d2feec5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8847bf13cf1c3dcb12a9d18b314abc4c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4aaf7c974f625774a119c7e4325ba758df09121f21ef81c0ca470249910e11f8c036137f33d3caf7b7f3dc7ec223ba9e92c222355bfd9267cf70a0e9b7aa16bcd5ff81e3a505b87df842a53c0c12c3a8e0c15ac5a028594d848a09cc9b0caa81ec6ad34cc6ec6f8e438eda1675b8365d2e68dfca02ac731fb0460f7ac529b89572f3ff9dc72c516621e57d98e6a0581d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8847bf13cf1c3dcb12a9d18b314abc4c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "South Pole Squad Penguinger / Even More, What is Roasting!?",
+            "episodeId": "polar-bear-cafe-607?ep=11754",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3421a2d6341e29b505f2a41c8318b22d5d6eac0ebae3eb39494a21cde30ccbaee1041613d0f9a9df0354288056361853dede42814d34e0aeb6a6905fad9a23b84340cdf35bda81a116dddc6075d0ebf3e857b9be20b3de6ae1ffd4beff17372d178faeb1ab30fb621f98baead8f4cae2126588c78e3cffe78238c0bce037a5e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbc9710d4c552ecf58b1528153389771/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3421a2d6341e29b505f2a41c8318b22d5d6eac0ebae3eb39494a21cde30ccbaee1041613d0f9a9df0354288056361853785a6d68191f2076a4e4edf481bd4552b0aa543ca01a8a2319c570e6c7ef8ad56b3e3626c41aab16061b8bc2957274d38691ea00ec114c869b2475caa0c27ed614ed4c5256ddd5a61e2970afd9e274b9145553036425e225e011a83f599c4d72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbc9710d4c552ecf58b1528153389771/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sloth's Trip / I Became a Doll / White Day",
+            "episodeId": "polar-bear-cafe-607?ep=11755",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0e83cb2d8393a6ce66bdec57c71e1671fab8b6f5afb4570dc50615f0ae9435259b7ee449dfcdaa61ce4beb2143c95a425261115c465dd49b6d7f83b9a3bb28972f9aad19b23103aab7867bc3ac28f652dcd445eebd5a1fff165821ae1a1069c5f33e89fe01e59b65a32809250a96a5f0fd9cf363d5efb589bebf7c53575876c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1201b80165c480944b391e11d43794ed/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0e83cb2d8393a6ce66bdec57c71e1671fab8b6f5afb4570dc50615f0ae9435259b7ee449dfcdaa61ce4beb2143c95a42e2dec22db8c1b9b71143d0b004fa8e49d0e170637942a86d98d340b7b9bb8a33c5ab45bc19dd484b2304d576312f009254f8b4f9a333b6eff63cfb870495b9975dec9a2e7a966280f8663d887e9f3468cde9100f12d21f1c9d2a7ccdd075bac7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1201b80165c480944b391e11d43794ed/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Grizzly's Reunion / Mr. Llama's Time Capsule",
+            "episodeId": "polar-bear-cafe-607?ep=11756",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cde7c154a76cae4e85ebf8e2e4242a6e3b1855b3f203bea3651a328e36fe02135c76fa6d5fa2f81a53cb794126614fa4a549d9d07b9c6bd18068a5864b4cf1e1d258cc779616e3714e37613629b05d0593209d02736d37e5da2fd6b5f86ccfc7cb19853404c45232d4457284f33742cfa1d32ffcd433a879dde81d64473f0d45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec649ab2be6ab2523c30a1606469f721/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cde7c154a76cae4e85ebf8e2e4242a6e3b1855b3f203bea3651a328e36fe02135c76fa6d5fa2f81a53cb794126614fa401afb9a8647b592929afd0015fe50ac0cc325b3756e9ab22b1dd9f36d187c863574a4e08140830836b7952fa4afed5e1e0555b64db0c59a68a6fb71c639c7f26f5bdd325691d8b22412c04b7c66edee810e6080c1ae319a061569ae19137d823/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec649ab2be6ab2523c30a1606469f721/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mr. Penguin's Secret / Cherry Blossom Viewing in Spring",
+            "episodeId": "polar-bear-cafe-607?ep=11757",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/db7cdc519be1f6ccb4d1fbbe47ccce463d5d84f4e84006f5a412a449c0e2a5bfb36561b4e9f8e8430f451b55e600d66e4f61b474b86289cf019bf77df4631f603a1b0de7681ff492b0048373c823fb29169cacc8bb58c720d55ee5cff94d4b571593976ade33fd3d4aa9f0e66575858a9cb41321c3722de1a69b788d1d623985/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/802172e9f24fb950ae8b3339af81114f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/db7cdc519be1f6ccb4d1fbbe47ccce463d5d84f4e84006f5a412a449c0e2a5bfb36561b4e9f8e8430f451b55e600d66ee15115c88310f0b19ddf71b8cef0b914cb4d8b497a70955a7b97778f3fa6bf43e6435f527011f460aa6e7958b8fcca955826405d50f1b052c2e694fc9ff39b8a423b946b516512cc35096286fd6caaebfcef51160513196deb6a1b66a9061bb1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/802172e9f24fb950ae8b3339af81114f/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

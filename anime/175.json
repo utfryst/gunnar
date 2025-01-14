@@ -1,0 +1,589 @@
+{
+    "info": {
+        "id": "dr-stone-175",
+        "anilistId": 105333,
+        "malId": 38691,
+        "name": "Dr. Stone",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ddf88c9249745b681a0c61711f4d240.jpg",
+        "description": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.\n\nHowever, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/2ei4KpfCOAI",
+                "thumbnail": "https://i.ytimg.com/vi/2ei4KpfCOAI/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/rWTqDNnQj6I",
+                "thumbnail": "https://i.ytimg.com/vi/rWTqDNnQj6I/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 2 Stone World version",
+                "source": "https://www.youtube.com/embed/pon9R5n5dMk",
+                "thumbnail": "https://i.ytimg.com/vi/pon9R5n5dMk/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 2 Science Craft version",
+                "source": "https://www.youtube.com/embed/0yMuz8HoZ5w",
+                "thumbnail": "https://i.ytimg.com/vi/0yMuz8HoZ5w/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement 1",
+                "source": "https://www.youtube.com/embed/J0jszHaElvA",
+                "thumbnail": "https://i.ytimg.com/vi/J0jszHaElvA/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "chrome-2092",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a7bd036af0828f82eaf4cd4b342ccd1a.jpg",
+                    "name": "Chrome",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "gen-satou-2839",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/de95b623f4ccc93f7fd4db3c56f2dd91.jpg",
+                    "name": "Satou, Gen",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kohaku-2167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ffb73e67ab2518007dc2395162bcbcfd.jpg",
+                    "name": "Kohaku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "manami-numakura-455",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e53c175623a1a0761823845f5c81d17f.jpg",
+                    "name": "Numakura, Manami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "taiju-ooki-4068",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cea566a5f464f84533bb60c43757d699.jpg",
+                    "name": "Ooki, Taiju",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "makoto-furukawa-152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8538ec596e9ea3c5215523463317a033.jpg",
+                    "name": "Furukawa, Makoto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "senkuu-165",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f974e50bec1a2a84eb13ead1c46d70fc.jpg",
+                    "name": "Senkuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuusuke-kobayashi-155",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d7f5abc18a38b38a7516fa04b0386b73.jpg",
+                    "name": "Kobayashi, Yuusuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "argo-62671",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6ecd646fb7d71b8868bcba605a2e2f9e.jpg",
+                    "name": "Argo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yasuaki-takumi-1925",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/59d832a0d4e00bb40d645b4c9e103302.jpg",
+                    "name": "Takumi, Yasuaki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arumi-59498",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5fa9816f4f706ea6cb625d405628d53a.jpg",
+                    "name": "Arumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hitomi-shogawa-11982",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/653dc918f676d5b17e81392ab1f631e1.jpg",
+                    "name": "Shogawa, Hitomi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ドクターストーン",
+        "aired": "Jul 5, 2019 to Dec 13, 2019",
+        "premiered": "Summer 2019",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.3",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TOHO animation",
+            "Shueisha",
+            "TMS Entertainment",
+            "Funimation",
+            "Crunchyroll"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Stone World",
+            "episodeId": "dr-stone-175?ep=4299",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4e1d13757a9ba9c36d9c08d29c2a868cfd85096cb071ec1d4dbebfb08c43dcbb5194af6a8153f7b3000efaf5d47de485f22f9b586a8b7677d25dde18a25e075256740c7abc9532d8ffc62a48bc57090ca23c8968d19cc988d46b8b7d62af4f41b28184dac3a8ebde77c8bdbfb49db3e2fcbb8e5097e9910337d730ccda60c2cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16d223b3fa586afce869db6dc404bd54/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4e1d13757a9ba9c36d9c08d29c2a868cfd85096cb071ec1d4dbebfb08c43dcbb5194af6a8153f7b3000efaf5d47de48589f284d45831b3bb4b4d8eeb4c666db1dde06bfd46637e82e366c138e9e4896784c241cb35893fed2fea85b0932064a4bf8a80a44eea32a7258676ad6597b3690651e32b3025ea3c9889f8ffe14d5693c7d84088ff9b5cca05108a76b3eeeb07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/16d223b3fa586afce869db6dc404bd54/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "King of the Stone World",
+            "episodeId": "dr-stone-175?ep=4300",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5d5dc1bf5a0cf2089c87c5bec150343bf87be1a480eb50feb4e1dff264091794e09fcbae37c028f7d0cc994eb7407b4732c1cef8d72d8d967c86a6da72a2038fa475cfd27b090a534083037ec7413cce17f840ed9c913d554e6f715edf110b0038d4f58e6b8d8329e7d0f01bd841aa88218224b2ed3507ed180d13185c22417b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68d4c59febf8ae42b561d36555a22b0c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5d5dc1bf5a0cf2089c87c5bec150343bf87be1a480eb50feb4e1dff264091794e09fcbae37c028f7d0cc994eb7407b4794dc4f978db03f2ab690260c00cc3614610c712363ad24fbaa92a8bb73a2dbfd8fabc67e8876639e9d94edc950e1f0b5dd74bc145229f19da94baee6243a9f367e2819ec4f123026cc0a41278c1bab2eed1075d0ccf6494f19691f8e584aa0aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68d4c59febf8ae42b561d36555a22b0c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Weapons of Science",
+            "episodeId": "dr-stone-175?ep=4301",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cbbea6ea68a3fdd5765a2cd64b320f3bed1a73cffeef6c17e1380b7924868df80357bf280d43333931b5c7135bc737d68ba28052150bf6f19a8d934237e4340e4c1b8fc9e05b6e08083c726b3df1facf2495a28579f04f54cff2982a0b5ae280d118f3ac916b8f2d8d6b0e52e4eaa6c6664a0af8d9ce9edeceb57a8b37c37edb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a920de5ca1109a69dcaa71f9506cc889/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cbbea6ea68a3fdd5765a2cd64b320f3bed1a73cffeef6c17e1380b7924868df80357bf280d43333931b5c7135bc737d6fc30e68c35885059b2abb0b7661359bb47348ac1eb41755e72a4e62f47c8179bcb2634d41d9259516347c53da535a69df9ed2ecfbdafcb342a3927e6cd4eab90560476f971c6cff72254434f5169e125eeb1553d77b6b4ef38fc584323b766f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a920de5ca1109a69dcaa71f9506cc889/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fire the Smoke Signal",
+            "episodeId": "dr-stone-175?ep=4302",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/78ea0f3a4268a07d10ccfeb6c6b62c6c11934e090f4435c6b38de896745c642a125b86e940cdbd3a29025abe19e7d8e68db21f7120ddf3200bdcd70d4cacfeb3e7f27baa9e6062181e49ed2fdae490a061b80d1b1438f5ccd5b00893ed3d3e65b7a65e039d8e50e8faf809a2d2730257751b4ded0fa804dd40bf53eecf73f2a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd877cc19c2b207ca7f6712cfa60f115/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/78ea0f3a4268a07d10ccfeb6c6b62c6c11934e090f4435c6b38de896745c642a125b86e940cdbd3a29025abe19e7d8e69cd2b419b56512418dd1ae45e1e6bab5b04358d9111fb45131aa13d49c0d9e6d504c578a2cbd6ada345e2ad65feb45a099eb2be5028c09f2ed82f33c7055c33a8527f98bd4d0ff5075051fa44ac2171dc2ab6acf9e6aaa748c92f6d0b1b92366/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd877cc19c2b207ca7f6712cfa60f115/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stone World The Beginning",
+            "episodeId": "dr-stone-175?ep=4303",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f5d311d772341b4b851354f3d697428920941dd956f7875f42aaa4454137e5eaf0ad4ccd1ea509eb7f6bc676beaa001d86e62c267839f7ee5d7b94f43cdfd380b485551360291f5b8130a1153e2731dfb4df1f298356795f8345389c14f803653889d88448c8ba9ab291225e436c9f8d6c651db35940b8d17f2ccdd72548c10b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b8bbafec4846fb8a4454e9b504a7d04/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f5d311d772341b4b851354f3d697428920941dd956f7875f42aaa4454137e5eaf0ad4ccd1ea509eb7f6bc676beaa001dc971e36b3cfcbf6d3a6b9c25b1e93db9ec75e4580fc61edcd629de7a245d5adef420a1013cdeb6d585b675aa3cb6d7e7ebf7b20f4c7eb20c8f904f5090738c9316ff71e1285955ff09e0e9bacb47baefb5d9fb849a7bb6bf02e0c4d3adcd03da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b8bbafec4846fb8a4454e9b504a7d04/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Two Nations of the Stone World",
+            "episodeId": "dr-stone-175?ep=4304",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3829241a9c304ff4c4a11b892412c960b01951854d01bb0e6b807d3253a288bfe41e2645f702d2f5a3d08cd3fdfa5f81b5c909d0d3c32292ff1727dabbae4afce2a137024586a7f9557ec1449d593f693f8ac9b27396bb53bef04476a4b728a6dc0cdad181e8dba0038c47237161193ac388f8df84390835e6438086eabfca26/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/841717b8e654fec8e61a333c0b4ff1b1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3829241a9c304ff4c4a11b892412c960b01951854d01bb0e6b807d3253a288bfe41e2645f702d2f5a3d08cd3fdfa5f8101729fad5c5bb4e759d3ff156b58a800aa4dc1db777ec75e5b5b777dcbbef27afe43818cb50767490095c344c7bc9253d6fb5565cb0d4587e459f76f2f7ddcb133fad7cfde618f9c110ddc0e3799d1db07e3f408a2b98594e8ecff487e7e0531/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/841717b8e654fec8e61a333c0b4ff1b1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Where Two Million Years Have Gone",
+            "episodeId": "dr-stone-175?ep=4305",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/907669a6b725c9fb5a1a8d9ec15f8a2af22fb5f45cc33c09a9b2ee804da59508897bf4881e5e5a8ddf146720b5ed34974ccf756ce3a67c3f45cf2cc6d331b3488cf6013efe1c3ca60940adac5cd06a680b41d8184b0cbef65e8b7821cf73e952d35a6b82340a313d7b22a57168261bde5b588b7eec893b74b9ceb368d5916103/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd8d73180818417f708c294dd8d9d325/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/907669a6b725c9fb5a1a8d9ec15f8a2af22fb5f45cc33c09a9b2ee804da59508897bf4881e5e5a8ddf146720b5ed3497a038ae38765fa370290f79d68dba57ad7fae4b26ce826434291b9be3970eadf689c423eed32b26b704133f14ba172b24487e8b15d5abc82f26f84042db3ba2bf66cf9825638db66e34b4c0ca70a7c8d1cb64522f78be13f53aa533264fa4cd91/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd8d73180818417f708c294dd8d9d325/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stone Road",
+            "episodeId": "dr-stone-175?ep=4306",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f84769cea7f20f901e000958e703a67caee90bcc80a83b9d4d327329e38b5609d8a14600f93aa1b438d9bd5c3e212340ba64de465c4ba1da7a363ea13b5e27254235eccf805a2a2586fef3b80720c213c9fd34b2103e0ddf86d858d91c8608c1f95fa2530b5b7d50044331bbc33eb90e48201f19aa21a829642fe3ee7df33910/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1902884276f113cfe59097d549cc6e45/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f84769cea7f20f901e000958e703a67caee90bcc80a83b9d4d327329e38b5609d8a14600f93aa1b438d9bd5c3e212340e1e28dd50fb67a36da27beb139f6ddd0b8725f371dd9dcc01f5b24f3216fef6fffdba906701f354c35f3224e101345c31a7d4896ee1139c826a8f393e58bc6fe938e63b6d0bd5a7a04f73f462d745c0a22c90484175d09aaa926d2bd643db641/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1902884276f113cfe59097d549cc6e45/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let There Be the Light of Science",
+            "episodeId": "dr-stone-175?ep=4307",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2f82e58aba77cd58f21fa860473e8fce534898d267f54aea469b2243df4957c949f53aa0e7bb7a26ba60d29c103841958ccb0cafca68dc4796c235e5feb912bebad1b2da841f1fcecebb1b89b9d74c572f03fc356988adef01038ae7f9ab057c9f916684e59acc4d0952955aeecfbb51b80f110c37ec8e727f8b08a29302546e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6888bfca521e8a225d0d0cd22a8c3d3d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2f82e58aba77cd58f21fa860473e8fce534898d267f54aea469b2243df4957c949f53aa0e7bb7a26ba60d29c103841952d31a90a641dba14164ac89e2b57ebd131a1b5932585057babb874a12735831611f94f08fcc0de8379c57a43fbe6cd40503bf2e218d6acbd7a9c7257574dbcd020272b26075f943aeabbb58d8d6720b558554e0f91946089c82c7bf8b5ea7b06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6888bfca521e8a225d0d0cd22a8c3d3d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Flimsy Alliance",
+            "episodeId": "dr-stone-175?ep=4308",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7e8eec96205ef57ecc0300ee58841b17435cdf8c2d0a87f6d0b48921d2c4753b12ea8a8d87f896f07643c473dba0ee8bdeee6991828cafc8ea334fc3ed749a707bc267d820918e91c5e41f5b7800b11dc98e31ce3485220f16bedc851771454725fcf4d2ea2343c5fc71dcdf61f8e3e0c7d67db1c240e58340ab274219bd7d31/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1516e6e32f5888b055500e06f8872a77/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7e8eec96205ef57ecc0300ee58841b17435cdf8c2d0a87f6d0b48921d2c4753b12ea8a8d87f896f07643c473dba0ee8be28637d78e435d896e70d416a05108520047afd5a6e8b4aa171bf01067b6ad995e794e7f4a63c5c9f929ccee3e315a85e3ea4ec3b15826e35945d18773eff3096c32cf978a1dcae55d4c3a9bfbf10817a77e008c586443c7a71f31b6e252d8c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1516e6e32f5888b055500e06f8872a77/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Clear World",
+            "episodeId": "dr-stone-175?ep=4309",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a7e9e89b60431ea9ef105fcf098c532d1dda30d3904fe26ca066bef7a7b4b486909d6663e8cbbc88967537614df8fad625148e26a6670bbf433c41f3a9c5188434c3f829a4f9d10ff4127f3574e5d9a9148019ff6f65817b03d484aeebefcc8b11a42268700ae1b27c99114b8d6d3027dc5538d7c1d9c2be2b122fb1fb2e3e57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fd48256c5b96d0a7f85be11aef010e0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a7e9e89b60431ea9ef105fcf098c532d1dda30d3904fe26ca066bef7a7b4b486909d6663e8cbbc88967537614df8fad69ab2166853870310b7c200e940fbfa29bb16525a8e4f885bdd4c081adb1b37b36025fcc0e319bc361f149fc8a4cd49754a197fb62c0da5b05d11c99edcd1a96ac2efd8925deec7da067049c4c31ec172ad425dfc628ca8ac4307548aec6a6316/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fd48256c5b96d0a7f85be11aef010e0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Buddies Back to Back",
+            "episodeId": "dr-stone-175?ep=4310",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ba62c755bd1137c8c948e808157a991f0c39ebb07d3214a0302a89b61d1f17557de7e77b7a6dffb3732fc32b02c50563a9f24bed9f26212f4f976c9d1a859052cb745988ab4777393ab9972e785b94a9534a40402b058d723382285c9667a219bab62251c3f1188b9ef8918e1509c5be3bccd8815f18970cef48e8c2b9cb3b27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4115b1df9b31ccd225618507fed3d266/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ba62c755bd1137c8c948e808157a991f0c39ebb07d3214a0302a89b61d1f17557de7e77b7a6dffb3732fc32b02c50563324f817cd80e8de12f8ddd9041e7293e9055e0d26375737594b81e43d62f4eb461309c84d251fc1d90cb4e554051627bff802441fc753b5b52ff6604c149bcbb2002776af1f938ef3b3fbaaef4c50f3d569042564a6a4bcd1220e7c25131b535/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4115b1df9b31ccd225618507fed3d266/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Masked Warrior",
+            "episodeId": "dr-stone-175?ep=4311",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/96b61109447b3781ec816d87689b802dfa267f342dad202b80174a46f8f03621c8769b928706eb88357fa154f30f4ecfd4487bf869090994581cb55fa6adeefefe0a02b7e119a339bb9d67df070e3acd4d0df7a69640c1e3a79a15aa9dfe81e0335fd494975b8ed90c981f01ece6b42d7188ee3bb90005da3c00fdac007d0ef3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d84ddc9ffbfc5a0a63a3a655efde8b4/4d84ddc9ffbfc5a0a63a3a655efde8b4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/96b61109447b3781ec816d87689b802dfa267f342dad202b80174a46f8f03621c8769b928706eb88357fa154f30f4ecf67e924d6419dedfbd856f0d8a6642105393a2022025502796d6eaa62d43abefd7b6216bc9910db95f99b223bd38d1339fc9d43e6a79bb6da194ec27f23dcdf8484334c0c1679b4a4f577c30ac8e081513c75b1bdaae91e53c6857213ca3149d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d84ddc9ffbfc5a0a63a3a655efde8b4/4d84ddc9ffbfc5a0a63a3a655efde8b4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Master of Flame",
+            "episodeId": "dr-stone-175?ep=4312",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3edd9875eb2e15c4f8397b987e092a7530621894a98ba042b5840f8013e8080ec996901e5e6119f98ec3bcfa721e0defa24cfbb916f3308bbab055e9bd62643cf79eb8ffe1002327cac1c008f8fbd091992c444687fa502977b48599851e191c026ea1364eeffc6452f2a708dce4c99cfd59692e2a2895567d1726842e9e584d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6aa3ee07afdc9b1135c8bf25c7bb80c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3edd9875eb2e15c4f8397b987e092a7530621894a98ba042b5840f8013e8080ec996901e5e6119f98ec3bcfa721e0def5618a367ee4280ea8d5f15073a62a6c77cb7e6c5dca062131ea454a5e87cc62e6a19ea67a5379ea27bb2abe1071aadd1a3e7fd7142d514792716dc8e9e83de46c0003c49f7940dd7937f1278c4ffca2b958a229f521a4988d038ee36551a1520/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6aa3ee07afdc9b1135c8bf25c7bb80c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Culmination of Two Million Years",
+            "episodeId": "dr-stone-175?ep=4313",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e2da06e7ddee0b4a0fd3f9bd81913a9cddb9ef9935ec287629b7dc657bfee3e699ab579df05e4a04cb4f30dc520dc471e2129d9813dff5fb3dfe625523162914c749cca8f2457c9151d077302fdaa497df41eff62a30d705a4e7454807e300161e478d34b5f62dfe33ac009095a39efcf51a860babfa1bdd9c80ebb9edb06ac0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b55745e33b0e399ce55f5790f65fd15/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e2da06e7ddee0b4a0fd3f9bd81913a9cddb9ef9935ec287629b7dc657bfee3e699ab579df05e4a04cb4f30dc520dc471d179797b614acf776c4224919539b0772153db9d265d1adb1bcfce1db993891861e813efbfc9c64dbf7b6bb9e9d514e1fdd3cc07261538f83c8d7b3f67a770bb72fed1eade706028715683b39f521aef12d513065934c79a65e4caf53b5e27c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b55745e33b0e399ce55f5790f65fd15/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Tale for the Ages",
+            "episodeId": "dr-stone-175?ep=4314",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7dc4286918e758881fd52e08061ea00635dc1e9128545ec99a1a44bf99a472f036228a0b2a5534e64b4c6225ebd7efd6338300199e71a21158fc184d84ac1e1aa88221b5328733b8363a88bef20699f71241465f69baf3bb1254a0c08a7ed5e7e52dc8aa170187c6b731c2626522f57baad51aa37ef88dbe07d8a68b298aa651/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfa093d9e8d3e7d2bf9e21bd05aee0e2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7dc4286918e758881fd52e08061ea00635dc1e9128545ec99a1a44bf99a472f036228a0b2a5534e64b4c6225ebd7efd6bfff18b839925b79b98774f77a38890862830a400fca66ee0daee1a7a0a04e7a2a9a30b45a587b69f20669b29db683793bd070196bd6064722602bdb6e19d81e4f9eabc08405d151978eaddc37cf8825cc1bb3dd421a058c7058e57e7ed9898c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfa093d9e8d3e7d2bf9e21bd05aee0e2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Hundred Nights and a Thousand Skies",
+            "episodeId": "dr-stone-175?ep=4315",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bb6f07f942230476412bfff15c631e9298e334aa222cef4f705d0d8362ae99bbc3694398c492bdbd54520da923b54d5f35a4ab81a92c4ec2dc63b823e5ca87e34ff00c70888881032c3c39d210278d0817342d8bc0e4b05af429e7585afa39a3c92c4ee0bbd9fd8967f525ce1591503924af141fb64fe89068da8ae76f1d6429/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e578a831156af73345fe1110bcc7cdb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bb6f07f942230476412bfff15c631e9298e334aa222cef4f705d0d8362ae99bbc3694398c492bdbd54520da923b54d5f32e32cf1595b3963d286092636d75eae13607a545970f824ab97c2cb167863c8d18007984f570ae92a2e020b2b5b712ee6a3cd65484be72f4abf98a52dc9af573115b76da64a0745fce12023cdb03b3b892c9c0fa7a82227dab0e6e8b471ccb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e578a831156af73345fe1110bcc7cdb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stone Wars",
+            "episodeId": "dr-stone-175?ep=4316",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/91014c4aa74a0cbca5115890ef8346ad7d0cfe40f8798b3a9f1852ab571acc925750c7011b1a413960efd7733f8f151cf30e1aad773db66369881cadc855b0a33837fd8d8c86a1276bd8b844a0563ec364160d46f970fa2df206dcdc160cb2af878a8e79fdf2dac60947c95e4055149a233d68f843a8ffb7f4116c792a506617/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ce0ba9199cea3b88edb02fa6a5e3b2b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/91014c4aa74a0cbca5115890ef8346ad7d0cfe40f8798b3a9f1852ab571acc925750c7011b1a413960efd7733f8f151c9c02abebfa818c13534d9e48b35f19d965d5730c7f73adb615abb78b587eb46b86cfda0f7b7900d92e33ccce36fda5973008b30f20486af2dc4aa64cab2cbe78cd31314cf93af1411ef8b43c4e772105dd5fddd6d381f3c426c2d37610844293/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ce0ba9199cea3b88edb02fa6a5e3b2b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To Modernity",
+            "episodeId": "dr-stone-175?ep=4317",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c2707320b195c3e9d2364123b37af4b248bd31b889b92252d3c0d97620d1874504aafb39f57c3fb4eb66ca4545f15d33df44958d8684c2d90573d0dd39accb8acd239bdbf736e566b18f74bb342a6ead07e07691870ee428cb1f31435aea45de159110287dac4bef7eb1f465bdf3945f7f4aaf1c26f0f2f50195cf1868a68ea8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2caabd2c025e97af27b16ba32af7c92/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c2707320b195c3e9d2364123b37af4b248bd31b889b92252d3c0d97620d1874504aafb39f57c3fb4eb66ca4545f15d331ae8cf1d17705a0f38276b32a665afd8b294c9ce2e5c5223ae6230572cb04168c1f3cd8944fd96c5a3a53fab2c232ff7bd4ecb2545ff9375c5d87408a46cd80f65445fbac7e615f7d0a8bab1d4e0bd55a3e265d473f08f62f46c0d3d3a82edbf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2caabd2c025e97af27b16ba32af7c92/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Age of Energy",
+            "episodeId": "dr-stone-175?ep=4318",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3ff2e24678ca3a56182ef4ae2349e1178706be09e97a26a484dd9e9997da3f389730930fa7b0c54f93006b810599b50b6f26a2f4878515f52fce69f5b2257b9da18b26f30fc33490c7ed2fff52685ebb72d17709b396971d0b03b4157aeec7522e498b610f1091a16efd10516d12cc54c406d9bb3f163503e70db0f836fd0cd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d1e98700fca9cfd1f653ef5f0992b64/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3ff2e24678ca3a56182ef4ae2349e1178706be09e97a26a484dd9e9997da3f389730930fa7b0c54f93006b810599b50b04a0cd5d592209022932ec60f33cbac7256a7b29d980b4819370301d68f7aa0b8d40471ea97d3e7bde5be8569f19a33c15bc8134d6a40ec668ce22a31ccb6383d8598e8f3a5c0b487a1f3a58ad704933c3ac36a5390950749e02e0a2a4d5a992/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d1e98700fca9cfd1f653ef5f0992b64/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spartan Crafts Club",
+            "episodeId": "dr-stone-175?ep=4319",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4e7f4b4d4a02ad21874c92d01697cf7398599368bd68e3cf51bc05ecf296d4e8d17703a6af63c2b679507ea1e572bcd3a223013f859758f2bb5e7678baf46062c65e7132460013df3e5baef748f13b312cb23a604b28f9ff5e6be147e9423cec5120006a99573e7eed415077fb8394036deea2b50617338736f010bd067a5207/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6772d07bcec5fde0d49125b08f98447e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4e7f4b4d4a02ad21874c92d01697cf7398599368bd68e3cf51bc05ecf296d4e8d17703a6af63c2b679507ea1e572bcd37f2e86f1482baa7d24ba6af3ff0affdaf539866cb70d5aac4b83cc72cf7cc9894cf695ab22d8bc9d54d21a2481177ed6fac125d303dba7d183700f8a2e2aade20f4f42551ce845b8a7c1728d2855dca986950be68f76506bf365c5fbc87256d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6772d07bcec5fde0d49125b08f98447e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Treasure",
+            "episodeId": "dr-stone-175?ep=4320",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4c7dbff18de8dfdb308e43223f17add9a2c53ac1a40632608871350e25651af16c59b7ab47b3740bef024f9e96038b5e4fcbc9b071c33663449116916fc868c7f934fc615ef285a26c2dc53fbb151c868dd113c5ff5e8340e5c6f5d325f25238307fb3193a1d0bc24ae9e7bc38c7b9dffe5f19cf2d22a2ab1c1bd809b99eea3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8977993becac61695c430618ca97e05a/8977993becac61695c430618ca97e05a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4c7dbff18de8dfdb308e43223f17add9a2c53ac1a40632608871350e25651af16c59b7ab47b3740bef024f9e96038b5ebd61194b0dcf8e78206d983462b813a267279e95c786134129280fa43c574169452745cef63af41c7b57522eb2488f5fd8fde9383a77063adf8f590e1e817407866f5f5399c20ef77e2e6bef75d3722ab61bd6cd2f9d36d09708997991b689f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8977993becac61695c430618ca97e05a/8977993becac61695c430618ca97e05a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wave of Science",
+            "episodeId": "dr-stone-175?ep=4321",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/73a2b48f9efc62fe1725ab6687937f8554cd4b89422dda7650542d402ecd2072d5968f075f02c96f42f72d856e635ba1d5698bf347feab814260b056600e23ecd66b5b5f4fea3b3cf09fbbc86cacd53000c90e0930de8a8e52165ab6ada41066bcc35a4e04c29f3d70ad34811b2b7dd483ec2caa0a1a29b28fc92e488f1f77c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2a347001e06f488e0e61d1446f4b660/d2a347001e06f488e0e61d1446f4b660.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/73a2b48f9efc62fe1725ab6687937f8554cd4b89422dda7650542d402ecd2072d5968f075f02c96f42f72d856e635ba1f8d3b728705d10ec9e9ef91942b71d5ec3a736152fd14727703002d1b6c4077fba372de8f1618ecacf753c349e93ab7402929e00ed0b0398e983ac7cfd48de790c8dca7bd818177a748933230c5dec32e34eaad60d8e16c6c436ed1672aa71d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2a347001e06f488e0e61d1446f4b660/d2a347001e06f488e0e61d1446f4b660.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Voices Over Infinite Distance",
+            "episodeId": "dr-stone-175?ep=4322",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/566cde9d84df19b9e51c095fed75529719cef9e40115e02f7da2d616933f92db1ad49fef40ed53c8425a3033337fa23c52e9238990b670afb0d8d5e46306e2accbd52014707b78f9f2bca4e1d76a121b429df82015ce6409acd7111858d4f62f9b19edcd106485335529219b521b1ad03340c9c375947683aeec2ee370e17aa9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef15ae13ccc4f0a32f933b3f26d7d997/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/566cde9d84df19b9e51c095fed75529719cef9e40115e02f7da2d616933f92db1ad49fef40ed53c8425a3033337fa23c18d80ee8ab5e9afd8bc7fa5f41e8356e0c636739ebea4f7b6da5b69270ae0a2852beb5fb505cf1ca6dc3c95c313676e838e77a8e152deaa090574f01cc3bad3fca4a6ea7fc76f6675df160fa6175b3bb06ac98735d6111b9dbf03bd817a69ebc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef15ae13ccc4f0a32f933b3f26d7d997/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "info": {
+        "id": "one-punch-man-63",
+        "anilistId": 21087,
+        "malId": 30276,
+        "name": "One Punch Man",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5d173f8317f592c6c70d594829b89e4.jpg",
+        "description": "The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years—and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\n \nThis all changes with the arrival of Genos, a 19-year-old cyborg, who wishes to be Saitama's disciple after seeing what he is capable of. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society, and Saitama, shocked that no one knows who he is, quickly agrees. And thus begins the story of One Punch Man, an action-comedy that follows an eccentric individual who longs to fight strong enemies that can hopefully give him the excitement he once felt and just maybe, he'll become popular in the process.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer AnimeLab ver.",
+                "source": "https://www.youtube.com/embed/ExUMiF1L0HA",
+                "thumbnail": "https://i.ytimg.com/vi/ExUMiF1L0HA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/tMblzsXwAKo",
+                "thumbnail": "https://i.ytimg.com/vi/tMblzsXwAKo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/RzmFKUDOUgw",
+                "thumbnail": "https://i.ytimg.com/vi/RzmFKUDOUgw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/QeaFvbUi7mU",
+                "thumbnail": "https://i.ytimg.com/vi/QeaFvbUi7mU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/6Bdb1V0Io_g",
+                "thumbnail": "https://i.ytimg.com/vi/6Bdb1V0Io_g/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-sec version",
+                "source": "https://www.youtube.com/embed/O7QzR07W0c0",
+                "thumbnail": "https://i.ytimg.com/vi/O7QzR07W0c0/hqdefault.jpg"
+            },
+            {
+                "title": "CM 15-sec version",
+                "source": "https://www.youtube.com/embed/5YordunMGQQ",
+                "thumbnail": "https://i.ytimg.com/vi/5YordunMGQQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 Animax version",
+                "source": "https://www.youtube.com/embed/Qu8ttYyEm9w",
+                "thumbnail": "https://i.ytimg.com/vi/Qu8ttYyEm9w/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "genos-315",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/15a55f6c42486aef000a6cce2e1052a5.jpg",
+                    "name": "Genos",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "saitama-18",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df232a66ca2fc97672042f2f2c187a99.jpg",
+                    "name": "Saitama",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "makoto-furukawa-152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8538ec596e9ea3c5215523463317a033.jpg",
+                    "name": "Furukawa, Makoto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "all-back-man-31487",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a65566b16d0726c1da0c45e582a46807.jpg",
+                    "name": "All Back-Man",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiromichi-tezuka-8355",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/742c41d79a3a6ada22566cc2dea998dc.jpg",
+                    "name": "Tezuka, Hiromichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "armored-gorilla-19273",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d4c1fe7b0f42b3e7297ea31fa7cdfb0d.jpg",
+                    "name": "Armored Gorilla",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shouta-yamamoto-6382",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/323b8857b5b5016af9f715df3940a212.jpg",
+                    "name": "Yamamoto, Shouta",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "atomic-samurai-9858",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67d7bf57eea4a95ac48bd6ba8914e31c.jpg",
+                    "name": "Atomic Samurai",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenjirou-tsuda-71",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13400a4ae4cf4371b317701bb1a251b2.jpg",
+                    "name": "Tsuda, Kenjirou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bang-3802",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8cf77bb6e05658aca355e417ff47416e.jpg",
+                    "name": "Bang",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kazuhiro-yamaji-1826",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0699cabd51c3b55ad53fbfe187fd38c0.jpg",
+                    "name": "Yamaji, Kazuhiro",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ワンパンマン",
+        "synonyms": "One Punch-Man, One-Punch Man, OPM",
+        "aired": "Oct 5, 2015 to Dec 21, 2015",
+        "premiered": "Fall 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.52",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "Sci-Fi",
+            "Super Power",
+            "Supernatural"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "TV Tokyo",
+            "Bandai Visual",
+            "Lantis",
+            "Asatsu DK",
+            "Banpresto",
+            "Good Smile Company",
+            "Shueisha",
+            "JR East Marketing & Communications",
+            "Madhouse",
+            "Viz Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Strongest Man",
+            "episodeId": "one-punch-man-63?ep=1501",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/40a747a1a87083d0d51dedc3a8f7a200396f3e9f2a4d63d931aead1591ef24bbf901d27670de03faad3e7441e1c4e3bd3b87d51e8fb469a7c97cb5cac0e1f6333aa50379a398ac58302ba2c111ca0d7232a9729c17fa690e2a953c099d2f708554bf2afb5517b6c68950a5adf4ee4c0ad3b0c467dc47805d2037db23707ed541/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bc85881dcca416da74961ac692f5fca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/40a747a1a87083d0d51dedc3a8f7a200396f3e9f2a4d63d931aead1591ef24bbf901d27670de03faad3e7441e1c4e3bd3c01b5263387dec788ab8b0626d311cb4566f821294507c270c67c7aa9948db24bfa42057a70785300f86f0137332b9f57fdb933bc7fd788cd5b0c7fd93fd84feaf5e29b4fa776d50a15e41cd899725119e166fd81edce17172ab530fccd35d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5bc85881dcca416da74961ac692f5fca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Lone Cyborg",
+            "episodeId": "one-punch-man-63?ep=1502",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bbb245a5c8b597e4579077f351959480843ea0fd9b56230f9dfea1f42b27aeb726bbc56328c3788eaabc2ef2ffee7318c4bd1967c27b022233458ba2a94507122474407f2cb6422c14262cc901c2c5cae23f382a807b0105bcdffc6d368dbd37ea60292bb2e6ff9e45424b331c1228658e4fbc7611a90503530fb5d1e6344592/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0ceca72c9c299df262c132e0b5cee4d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bbb245a5c8b597e4579077f351959480843ea0fd9b56230f9dfea1f42b27aeb726bbc56328c3788eaabc2ef2ffee7318333ce9c8ebafa0a4d296961f122a9c173d26d9c9f77827b5ca594bb41a404c0263173f9019f4e84332daad551e28859cacc315b79a65934949085155d5e39a4b87889b99cc3de1a001439f7f889ecc8fc55ac3a8f7dbfb5c2b67d336734f033a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b0ceca72c9c299df262c132e0b5cee4d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Obsessive Scientist",
+            "episodeId": "one-punch-man-63?ep=1503",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/78672a20825582a7ba07554f7d81c2eb3a0a6cd44f0cd298a276ae2726b89d67fa454f132c4e80bb64a69b78a5b6c4792963c923d127808ed4caa7e113592d50251dd4b693274ad2346db965a01afc09497b10fd5d19612b8b7ae0fe6ab0a8ca5c718821f3864ef2394f2647c6e874e8a28500dc09670895723e05d681c93e9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1dc4820e2e10621153fc4e479fbe0f4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/78672a20825582a7ba07554f7d81c2eb3a0a6cd44f0cd298a276ae2726b89d67fa454f132c4e80bb64a69b78a5b6c4790bca4e5f4aee4eea1fc57777b1d498df1b221ca133e64759821ddf65423dfd0685c4b62b27e88d902164faa5f80cf6049163a992ae32cee45ff13ebfdf211e7abd025839bc2d0871f9a4f756f86be463690936577021547719c312d21acdbf5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1dc4820e2e10621153fc4e479fbe0f4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Modern Ninja",
+            "episodeId": "one-punch-man-63?ep=1504",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/cbad22b6d174c1d980a9bbfe81d6f86da6c6f6b482bec8e3d74cbdcffb698d462217e52f69c058d1da15ac1b801939823691ea4445238f2c72aaf83ad10fc68cc26159cba75a6c75f42dea71866130a0df8dc947debbd61d351a01024998e7aab7bd0967c02e1299d1beafc8f7c6bba754446bb41cfe91e05e7be60fa083e80a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75983d7088094230b0d1a95363375859/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cbad22b6d174c1d980a9bbfe81d6f86da6c6f6b482bec8e3d74cbdcffb698d462217e52f69c058d1da15ac1b80193982296917dd90933da17860674e696d0ea9a56357da82edef0cac07938bf7e2aad2167a185f2bc471eda946aabd35d3966e71443ae9a5da81fd5f79ca76d3c7aa754a61f586333ee9005d143b2102e9d20e4b97c8c7547909f0ba948ac33241dbca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75983d7088094230b0d1a95363375859/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ultimate Mentor",
+            "episodeId": "one-punch-man-63?ep=1505",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dca277f217aa8b62442025f245ddad30409dc63077bd1217d47066c9e0705dd9d7ce900c8692227131a29a2cb49c64202872e902988255ca7381515d994a11d267a031b0d1c4504f83fc8b85e32f7b2677d9477d753eef6a87c7292f0d0a8a2fb2902114a391e314457391030c223da3bfc0e12c58e8ce8907b56a7e04a0c0d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b59992fae3dfa7707f6090243efd87a6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/dca277f217aa8b62442025f245ddad30409dc63077bd1217d47066c9e0705dd9d7ce900c8692227131a29a2cb49c6420a4ca7328b37d982e76bd6fae1b25aa067a99bcd4ac2f8103816d1273a6b1979ffcdf3ab9d3e79b25c4487b6c17d5ccb42c1784e097b8c6c8a43225e8ed198f9f1453f41f083cbd8905f18a989bfbc8e91cb14b704d0d27818fc264234cec3a8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b59992fae3dfa7707f6090243efd87a6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Terrifying City",
+            "episodeId": "one-punch-man-63?ep=1506",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1ffeb12131f14835ab174173a592784bc96e42033187241ac8dbc6490cffedb808558f6588d5a3a9a50ed04f1987803bf9567dd6ac0f1d4e64c05c22fb68399902b975deca59c436954b192f6d36d2083cff6b2192c8dde0cdca7ca8c582dc1b7261b0b5fbb8af1b89f74aea18a8e233a6048fd024a680c4416e2fef8a4b1aaa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3808955502078e30b0d291f603ac4ba/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1ffeb12131f14835ab174173a592784bc96e42033187241ac8dbc6490cffedb808558f6588d5a3a9a50ed04f1987803bd85def6a13f98f42dfe6ade020a8df3f030ace8fbb79e74b83c788a0b535c091646cd7a9adc8e5ca2bfc4909d5cca013d1560c43fcc76107c0b30f0e31b3bae0172d42cae2d330f361b77060c141fa9b8b12de02336bdd249b5f8f0a5fb0f868/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f3808955502078e30b0d291f603ac4ba/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ultimate Disciple",
+            "episodeId": "one-punch-man-63?ep=1507",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e66cbb7728f686ac3f2e3260f30c17c0c1b947981841e4d7c8eacbd4d7ed1eb707b312cc8b9c9dc3d5e72ec0f05f0a9b4e9f39d56c96cb18bbbb7a5d746d2e46b0efe0aa84e1528b793aedc295e9527fde733394b166224eb70a951254506df38db8ad00f1197222f9c9c1af7efd9b601371e5c84ed5ae3e7c95e6e7c57537a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/314fc39419fe417f304910caee2ad15c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e66cbb7728f686ac3f2e3260f30c17c0c1b947981841e4d7c8eacbd4d7ed1eb707b312cc8b9c9dc3d5e72ec0f05f0a9ba26bf62646b7fa1a910200a0761c17e290711a8d17aed681a21a76dacf7a8482749c238cb2889ca00412bf28730132ddbf9c8aa2d39c5dbf2d0d48e30acf3e73c1badfe10fb5ee5669eb32ac8d655b90f68b2dac40690f40b62a53864eb77cb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/314fc39419fe417f304910caee2ad15c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Deep Sea King",
+            "episodeId": "one-punch-man-63?ep=1508",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4cf972a0af2ce6c3d941ac26db7b217d5459c9c19ea002e40a73508dcbeea96c61a11c9a3eb97a5eb96c9474ce0851f4b565e8f5929f9f1a5a8c74aaa9ca87d2636a04c290c717f649cefec358587b4f5d3975c269c813e7f92e6b5ecd0ad080f2932dbf56e021428714290890348784029f1d9d9bda0764b57e8d70c66c288e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6712c3e3459f768ff35f31fe7d60500/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4cf972a0af2ce6c3d941ac26db7b217d5459c9c19ea002e40a73508dcbeea96c61a11c9a3eb97a5eb96c9474ce0851f4d3987b26cab8d363f6930e97c2fbe8bfe136a37a2f13631d135e71570a11ffdf6daa0fe44f8b02fb383c7a494b710f663e8fc466fcdc0219562752c95e1c546ad6150086a99bbaaa6403dd50cc382d4e8793a7fbe6e4bc2688ac636cef587f3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6712c3e3459f768ff35f31fe7d60500/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unyielding Justice",
+            "episodeId": "one-punch-man-63?ep=1509",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a856dcd178b90334291a761e53d67bef0982fafb40fbcec92bcf944047d0a5fd906403a9d50e7c78700013e5603730d8c6bf1028741ea72e6d749313943e2c1fbe2072a5065a140b532a23defaf4299bfc3ae4168ce7356265696ca4ff3d251bb2ff236d79357d77a91d73819f9b5eb75a3fa112f864e61f4c0098a956202c5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7201290f62b27c8bfe40b1e6e0aa7290/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a856dcd178b90334291a761e53d67bef0982fafb40fbcec92bcf944047d0a5fd906403a9d50e7c78700013e5603730d8f6d6fbda358c18fc84cadc89c38bb8714955d3fc3f684ff0272d63435f0108641ba3f7a3d0e4acb982895a31f5363b2cc708622f3fa7b4618de271b5cbddc99a3dddc4892ce01700eea1ba67163be728c319d6da43625480f411906b0e310432/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7201290f62b27c8bfe40b1e6e0aa7290/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unparalleled Peril",
+            "episodeId": "one-punch-man-63?ep=1510",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/dfec3f4444a0ab030d7966b7f76c08f3df4ca60d81de8d9955aa4d8d95d111f2f27e67db5c38dc2e9c6f676bece94ff0834d214c1104c11c19c05bee7b1c135c61cb0a459d47901bd7a6dac3d2d522faab3b3aa93dcdee3faaf87e90df0d412d456791f05ead0f239f0470ab9e08dbe4ee6de8b4c01af07b03794d7c723eb97d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bddc0dcc3a0a11f482a3eef4522dc32/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/dfec3f4444a0ab030d7966b7f76c08f3df4ca60d81de8d9955aa4d8d95d111f2f27e67db5c38dc2e9c6f676bece94ff09a1f706c1b9c54289f8aaf2d38cfbdd88da650bfd67e6f798b7d0f5b6e29c17976f9da27eb1804e7709c42592899208e7d6a50879e5bc7e84c5f0d52a740fe1f0f020e40fb31aba9bf7ba1cd5f712c1996c932052312c95dc126b5f2e34cd3e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bddc0dcc3a0a11f482a3eef4522dc32/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dominator of the Universe",
+            "episodeId": "one-punch-man-63?ep=1511",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1c8fcaa6e9e90dbb30384837d17ff5d75e5e0f267be9f0c365299eb9e6bfe717e63692c30eef5cba670638628ad15bb6c49f48db04fe273a6f733985f33d6517764048ba7287984ae0c6db3e705a000f7d43520bb67806857f02df2132f84144f9769bda2ccc524d7af03cc6a3848a6ecf0b6aa5b6068b1a63055ec66879522c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54a6887c0857492d37373b0a0cccc555/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1c8fcaa6e9e90dbb30384837d17ff5d75e5e0f267be9f0c365299eb9e6bfe717e63692c30eef5cba670638628ad15bb67279599d78747585a17e425dc1c1f9c1630b9351cc14c924c311403174d0573a8dfbaf39ed0aa84ae117c1dece0dadc196bf36d02b1d8c0bc8595bb5ec1b93652884e809d7b9101b909ea1dac59787565e27237b801e7c41d5c5b4de364fe4ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54a6887c0857492d37373b0a0cccc555/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Strongest Hero",
+            "episodeId": "one-punch-man-63?ep=1512",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/77d881fa056c207e9da050c0beb08133e3e5aec598ef38ea31edb18c795e1489fbd3e439dd40c3c7efcd980af12e9d5ad1b53681b9236d882823dc1afa390010fce73f866019599b50392c9476a2456ddc2f8baabc7985bbbee8d815aac0c1bcd104f3bd5c29d0ac97a1a28d64f54741ab6b9c1eabd2c4f5c2d8ea3a8d0a08d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcebc6b6b236c830c984624921eb022b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/77d881fa056c207e9da050c0beb08133e3e5aec598ef38ea31edb18c795e1489fbd3e439dd40c3c7efcd980af12e9d5ad1a4c95a5b781b162a17f639c43c6d088cbec03b9395aca0dec8befcd2a36a4fa7f8ffd21aea68bb1bf944f9534afcd19af33f20e3c0f9f9987f2aae8d75d10c846f2fa79a2729943057d3e716d23ba865ba99692a2886a148a111c5ac0e9c68/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcebc6b6b236c830c984624921eb022b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

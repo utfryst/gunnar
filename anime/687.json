@@ -1,0 +1,379 @@
+{
+    "info": {
+        "id": "space-dandy-687",
+        "anilistId": 20057,
+        "malId": 20057,
+        "name": "Space Dandy",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c83268a9efdb38c5ab76d3aaaa45c38d.jpg",
+        "description": "The universe is a mysterious and strange place, full of even stranger and more mysterious aliens. Dandy's job is to hunt down unclassified aliens and register them for a reward. It sounds easy enough, but something weird always seems to happen along the way, like chance meetings with zombies, mystical ramen chefs, and adorable orphans. Hunting down aliens may not be easy, but it's definitely never boring.\n\nWith the help of his sidekicks, the adorable robot vacuum QT and cat-like alien Meow, and his slightly-used ship the Aloha Oe, Dandy roams the galaxy searching for new alien species. What he usually finds, however, is adventure, danger, and romance, and no two journeys (or universes) are ever the same. This is Space☆Dandy, baby!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV UK Exclusive version",
+                "source": "https://www.youtube.com/embed/hdhtVKk6-do",
+                "thumbnail": "https://i.ytimg.com/vi/hdhtVKk6-do/hqdefault.jpg"
+            },
+            {
+                "title": "PV Teaser version",
+                "source": "https://www.youtube.com/embed/o480GrsQGmo",
+                "thumbnail": "https://i.ytimg.com/vi/o480GrsQGmo/hqdefault.jpg"
+            },
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/esUKDFZPiLQ",
+                "thumbnail": "https://i.ytimg.com/vi/esUKDFZPiLQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 English sub version",
+                "source": "https://www.youtube.com/embed/8jUWZURna3g",
+                "thumbnail": "https://i.ytimg.com/vi/8jUWZURna3g/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/QvrgMnPogKc",
+                "thumbnail": "https://i.ytimg.com/vi/QvrgMnPogKc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "dandy-509",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/26338892f0c82f8a0a59d438f7eb5887.jpg",
+                    "name": "Dandy",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junichi-suwabe-29",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bdc596dcf1d7a3a61bc894b740a26af.jpg",
+                    "name": "Suwabe, Junichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "meow-2568",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ffb6692e6f1c0bb9d6d9127d054bb8cf.jpg",
+                    "name": "Meow",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroyuki-yoshino-295",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0316ad1ad6049a60b913406f0f9efb43.jpg",
+                    "name": "Yoshino, Hiroyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "qt-4066",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72d083845d3984c474682dfc56ddb29e.jpg",
+                    "name": "QT",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "alison-viktorin-1555",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b78b93816d697ef7ce2c92b6e6a4300.jpg",
+                    "name": "Viktorin, Alison",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "033h-27495",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a316d5a15f9c5e46726ac641577fdae.jpg",
+                    "name": "033H",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomoko-kaneda-741",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56107f5b1663201f028b354a7c2a6bcc.jpg",
+                    "name": "Kaneda, Tomoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "adelies-grandfather-87271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/74d5e836990b386f312e4372505e3356.jpg",
+                    "name": "Ad&eacute;lie's Grandfather",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tamio-ooki-4349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b72a0adde723cb3d278cd1c76e6435d.jpg",
+                    "name": "Ooki, Tamio",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "admiral-perry-26713",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/297093293137c8be759b5eb57f23b288.jpg",
+                    "name": "Admiral Perry",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "banjou-ginga-1137",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9e490886cd2cc7b7a5c32ba3fcd5ba0b.jpg",
+                    "name": "Ginga, Banjou",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "スペース☆ダンディ",
+        "aired": "Jan 5, 2014 to Mar 27, 2014",
+        "premiered": "Winter 2014",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.88",
+        "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Space"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Bandai Visual",
+            "flying DOG",
+            "Bandai Namco Entertainment",
+            "Bones",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Live with the Flow, Baby",
+            "episodeId": "space-dandy-687?ep=12644",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/41215aea540daf17049264307da4aa96a2cea1ba7d0ac3e6576c5b53e6bdc013f928e2efd93bb2c771dacb7df900d14df186a68f0b1591819fb18f5ebc8c50aef3a8719110ec42f49737e75be8fb517bf291607ec3fa1cddc5c6b5a00686f9185035672d6cd47f63ba42032b87068df87464b535f86906e82d61ffbb69feace8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ccd6fcecf18fd84bad6416a3d6a1c3fc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/41215aea540daf17049264307da4aa96a2cea1ba7d0ac3e6576c5b53e6bdc013f928e2efd93bb2c771dacb7df900d14d59b7d49908738a5dfd883b1d2712f630bf356dd558ed5874847a1e9f9dc0adba5ce9ceb1b02d8be90f8ad09ffdbbd7ae4ee19be6a389e7ba7e424bcfb77cc58b8990ffcb8a043663e5ec879402ecc86f597ea15f0d3ec2652683546db7319f9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ccd6fcecf18fd84bad6416a3d6a1c3fc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Search for the Phantom Space Ramen, Baby",
+            "episodeId": "space-dandy-687?ep=12645",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/08ecca16d0780bf5cd21d143cf990060373c7fad99b123289451a126080301f6f9dd99f6d2b1d24043b987f85cf243ab686e24a82565fecfef44743a471e15e2c94c70085f78653177f12f0679ef499da99745021610b0ab8c8e5302a8f448a5dd26f236c3ffe5bc4a1d44ca711715c50ad5e511e444a0e25821ec544dcda17c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/890977fea7185dfc1f97f2c70f4aa262/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/08ecca16d0780bf5cd21d143cf990060373c7fad99b123289451a126080301f6f9dd99f6d2b1d24043b987f85cf243ab854d44a7bb40c9bdf04fad8340614df08fd5f0f579875f9c72ee7388a311b2305535441caf2dadb25eae986c0f547d908689200b14680ee772e90dea09cc4788fda486644ac608b1a8c96c43a7c6d2a58363b624b41167d76cb69e11500ac846/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/890977fea7185dfc1f97f2c70f4aa262/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Occasionally Even the Deceiver Is Deceived, Baby",
+            "episodeId": "space-dandy-687?ep=12646",
+            "number": 3,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Sometimes You Can't Live with Dying, Baby",
+            "episodeId": "space-dandy-687?ep=12647",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4159e6a946e53a6784a179586364238f2b0e3b3a02cee7b0cbc54debcb6886848b1f464e30bea662d7271d6776d273f2773bc349d589f55aa1aab671f9992d73dcd85ede9058b5ae4216e1002c6ad4efabc66a0738ded2d20cc9e91fb49d22083c01a6a2dd51ed0c958c9925c6acf06121a3eea31daca3bcfed440c127c3414c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6db9577ce94c7a230a881dbb1d532933/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4159e6a946e53a6784a179586364238f2b0e3b3a02cee7b0cbc54debcb6886848b1f464e30bea662d7271d6776d273f2285b8ff6d31ed37af5a697933895703836e6bb22f61e15effb83ddedabd5711c1ee8a819c882a2d1ec92b55c3c3793ec2e2e47a36a365980d3d82e3ce9c0044638b762a4bf46d840d2ec366c0f9d06285a37072987c82e3f86c0ec7ed4fcf204/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6db9577ce94c7a230a881dbb1d532933/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Merry Companion Is a Wagon in Space, Baby",
+            "episodeId": "space-dandy-687?ep=12648",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/06e35b4ac5b81ac2440206a8ddcfb6aeb8aa786cd30319a8b82abd2cf542c2772e01e04dfb79f3b75b11da2c1dda33e6f876154bf8c592bfac7715f6487fe08ef40279eb62f04b6214beda2f5c4bfb499736f724dee20e363e77449666f33658c403d82080013aa57bba652a8fd0d096fae153dcc74fe7e32d9dfa62afdc5cf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fd70e84559cb491c89a1057f943c000/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/06e35b4ac5b81ac2440206a8ddcfb6aeb8aa786cd30319a8b82abd2cf542c2772e01e04dfb79f3b75b11da2c1dda33e61a76d104479deae39ae6d900a3c5f90650f086e89738acfb232c8bdf6867991c77dc87f9ff26fce71e29c524b9cb7d0839d56492b0911f031ea19ba426ab34b658df9f1a5b44ce8ee5a92b024e21b98c44cc9f7373804faad68de4d427e6f547/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fd70e84559cb491c89a1057f943c000/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The War of the Undies and Vests, Baby",
+            "episodeId": "space-dandy-687?ep=12649",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9d037080abd34fcfe4b5441b73a54d9e85d508f8bb204ea5416c27c7b20b38abead1850484a9d7b32842bfc7edc0492b6af6dd21f89d6a5ec03aa6ed4bfac9fb41e9eaf570d9894c2cb33e0eaa83fc12eeeb8c144b0db3302ed27f73b6836ae25bdb6a82dc2617edde5945d2a430c8ef88c487313542ea38f75849d5cfb9469b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba9654976559c77646e0b4b1fffdeb10/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9d037080abd34fcfe4b5441b73a54d9e85d508f8bb204ea5416c27c7b20b38abead1850484a9d7b32842bfc7edc0492bc9b8b1df84661b5b553751652ed7e4dd47673b21ad67286ffaf5719f4d72cbecd9772ead9568d28667529d48ce2a96fe6e1a25d4053370b7e8bc2a5ff9a502f2a7dc32beb299bb163c1160acf05fb584dc21e9b8420e1d4d6f503d80660bb65d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba9654976559c77646e0b4b1fffdeb10/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Race in Space Is Dangerous, Baby",
+            "episodeId": "space-dandy-687?ep=12650",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d8a27c28be9da7dafb6c14ba4d9c2ed037c986fe362101966a510ff758734d407d3774bf64a27e855a8f1e6c6f51ca3e2e0083b01e6600fdfc049ab697f26de0f2ca5b7b52c175ce96a74ce49ecbeaa085d9d7c413efae77d3b3cc8b3b92ec5874a96b83b9716311d0be8ba4eb2cb8ec6624706b49c9de72b85bc6a25aaf983f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b3d0ba3a12ba4487f6abec1581067d1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d8a27c28be9da7dafb6c14ba4d9c2ed037c986fe362101966a510ff758734d407d3774bf64a27e855a8f1e6c6f51ca3eb37405984afadb5345f910e3e97dbc97ec1f1011f030f64d6b1910b5436b1fd235affea20e3b3421f906a898600ab0d9ad8ee3a89f21819bcd0220796122cf1b06a3fe80f8d57d0f2e15b39518e6851ad726e417eefd14bc653f7fdd26ceb20d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b3d0ba3a12ba4487f6abec1581067d1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Lonely Pooch Planet, Baby",
+            "episodeId": "space-dandy-687?ep=12651",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1bfbf71f9b7c4bb6e4e028d7dc6bb72dd003ecfd6fe1bbf60e816e845019a4b3ca4c0eba7c8d40e145416074c99f8949ddc17d8290ad9e13baf32f83912e864dcd5693f88a6338ad0b0476a3c3c7d8ca5fdc8362aa30578d26a88fb39667a7af8635959f962135f31166980c7eadd08aa03c718fc9761ca3a3c910e458d2421d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d52f5d2a89f1984ab93a0e5b74369e3/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1bfbf71f9b7c4bb6e4e028d7dc6bb72dd003ecfd6fe1bbf60e816e845019a4b3ca4c0eba7c8d40e145416074c99f894978c5263502fbb3d075b74bf122dd0d9f5d6e821fa0620e1e23a04b14b973c36652b46147d79d77fb1317e181cc32887a385b00f0e70aaaca70332ed6c21846f7b077122e1a66b55f592b9ad005ef50391d3cfa60a23136c0be9ebbc7d9860478/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d52f5d2a89f1984ab93a0e5b74369e3/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Plants Are Living Things, Too, Baby",
+            "episodeId": "space-dandy-687?ep=12652",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/be416c9ae9cca39314a9e6a8f07531993573595bf03088cbfe98c6b45ca13216beac72056f18f919ab9549e304d10ec075ef77b9d376837817def3d83c62d9af930905215c84bdfcc6ac7a834be1721c4cd15cc4ebaa1e8dd56b9c46290ceab607e1e8b016131c023ae061afcc26d4edd01680e6fe3e9a743b9c251893886470/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5b2d8c9a1732b896f02804f413c9433/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/be416c9ae9cca39314a9e6a8f07531993573595bf03088cbfe98c6b45ca13216beac72056f18f919ab9549e304d10ec016f0ec3079b3889f032511a28926057d07262663d6274310a0b0daedeea9f09317c82c4f1bd5a137f3ae820dacae97a3b54e7dadeca52988240d1e583888a1efcb72ee59b617cc12345903da365e971d352e6b36f1747bfb5ffac69a2bd480a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5b2d8c9a1732b896f02804f413c9433/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There's Always Tomorrow, Baby",
+            "episodeId": "space-dandy-687?ep=12653",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/35cc128993dcb23c5e9a56159f56b42690b6e68553941f78f0ad8165684077b4812bcdd79341a7b2a342d0161f6e638bdf623c2b4f8e3c196e93cc3358e6dc5662d2cf18727fa6f62b86a2690d0e9cf84637b35a8138b0d7ad87aef44c7a7f7a11b6fe4dc434aaa997f2f90132f33975196acd2432783a1f23dd36b169f9eb97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5f4164fef9a793cff2f297f9acb8047/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/35cc128993dcb23c5e9a56159f56b42690b6e68553941f78f0ad8165684077b4812bcdd79341a7b2a342d0161f6e638b663ccb541d674041b2e32c5887673decdcf855e6f846ef26f2df1eecc067694bf33948a6e8188745d22573d9f30b4dac53307f9c87288595b2e8fb7f025ca9ad754b5fe4bfc5f7407fd8e6bdfa5030ed2b2d1ea45c2d9686a5f623e8a4b46e5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5f4164fef9a793cff2f297f9acb8047/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Never Remembering You, Baby",
+            "episodeId": "space-dandy-687?ep=12654",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/505899deacb3b1defedc3ea77178bc634419d3fddf7d22d243cc64fddddf264bab3fed78662da7792efe604b5c270bf58e5fb7f439f91c95e97148cfe42e257c0c0447afbbf9d73ff42d9e19d38ccb8eeb7b1605d90792a6cbe5a8d0f95cf3af49ad08d2ea0da508aa8b884020e28f98bac1a82502ad53d30259313103082ff7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe8dfab75594ff388ae3098ac3ec5226/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/505899deacb3b1defedc3ea77178bc634419d3fddf7d22d243cc64fddddf264bab3fed78662da7792efe604b5c270bf555d8925bdfc6e5a6fe577d68e76159b8f2aeba88ad72c7c16dffd8cd8ba50ac95a8e0ab6986ac1bb12984737159f3e6e78765edbf5f748eee6f2aa196f87bebe9e1ab28a70c1a9296dd7e53ed0914607f27036e14dc56dc477f06c3f49554875/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe8dfab75594ff388ae3098ac3ec5226/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Nobody Knows the Chameleon Alien, Baby",
+            "episodeId": "space-dandy-687?ep=12655",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/889ac17633c3779afaf84a8aad7daae6e24a5a1b4c5482031641061a3d2d9bc74b5e9a87efe3dbc2b195fe865dc17703902a1362718e69cd9f3edd636f49280da073e6ea273a3f2b0b245f94c8f4821744362b2afb33fba7a1eae8b6d5f696a4ecb2f93e9df22bb2a6b3765ee9efc07a78e11566a2b5267fbc8fa9f999978ce9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c822f778d91f3b06240d0a076455dbc2/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/889ac17633c3779afaf84a8aad7daae6e24a5a1b4c5482031641061a3d2d9bc74b5e9a87efe3dbc2b195fe865dc1770337d6d75ce68cb0c3a62978c25da9c66ed830f0917137c9b5ab83324805413a5ef2602ab69fcbde570f6bbcfa27e783482a94cce534dfb1654ae0a72b9f980ff123890e59502cd748eb4ccaa660c3ccd265bb5f62055aecf6c9c87b8d987bfd3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c822f778d91f3b06240d0a076455dbc2/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Even Vacuum Cleaners Fall in Love, Baby",
+            "episodeId": "space-dandy-687?ep=12656",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a429de45480de420d99e3b74fbbe05e8ce8ae74bf3e39801a6a513378dc0b6362b56c2cd01fb4724ce037cd632f55b8e7a1edb3f1925cae6da2b10ce039e824bf96ead539fa7123d2f1f01db85b2e6c12d71930c28cd65eb2533e0c1ab9c8e2e83d1bc90f961a7abdd6522f4165bdbe5d0ae09736d7b92b4d629e9a9958e4fce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ceed3a5ba72aa596f00005ed5ebb466/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a429de45480de420d99e3b74fbbe05e8ce8ae74bf3e39801a6a513378dc0b6362b56c2cd01fb4724ce037cd632f55b8e1b5dc3606507db702494e3544709887069c4105ea1b1857a3e750c5d950e7feeb44766332ef94b89b315d20b8a017cd9b66aa968307cc7a678c169b8df742d962f7e584b5f5e9861a99ed3ef5557c940768afbe529d6271af15854996d9fb3a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ceed3a5ba72aa596f00005ed5ebb466/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

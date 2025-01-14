@@ -1,0 +1,607 @@
+{
+    "info": {
+        "id": "shirobako-170",
+        "anilistId": 20812,
+        "malId": 25835,
+        "name": "Shirobako",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498ce2330bda5c321f29ea076607e571.jpg",
+        "description": "It all started in Kaminoyama High School, when five best friends—Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou—discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vow to pursue careers in the industry, aiming to one day work together and create their own mainstream show.\n\nTwo and a half years later, Aoi and Ema have managed to land jobs at the illustrious Musashino Animation production company. The others, however, are finding it difficult to get their dream jobs. Shizuka is feeling the weight of not being recognized as a capable voice actor, Misa has a secure yet unsatisfying career designing 3D models for a car company, and Midori is a university student intent on pursuing her dream as a story writer. These five girls will learn that the path to success is one with many diversions, but dreams can still be achieved through perseverance and a touch of eccentric creativity.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer Madman ver.",
+                "source": "https://www.youtube.com/embed/fpp0mfi6HmY",
+                "thumbnail": "https://i.ytimg.com/vi/fpp0mfi6HmY/hqdefault.jpg"
+            },
+            {
+                "title": "Comiket 87 PV",
+                "source": "https://www.youtube.com/embed/fNWc-8N1LfI",
+                "thumbnail": "https://i.ytimg.com/vi/fNWc-8N1LfI/hqdefault.jpg"
+            },
+            {
+                "title": "Comiket 86 PV",
+                "source": "https://www.youtube.com/embed/2ZR6fCnPcvA",
+                "thumbnail": "https://i.ytimg.com/vi/2ZR6fCnPcvA/hqdefault.jpg"
+            },
+            {
+                "title": "CM 5",
+                "source": "https://www.youtube.com/embed/lxW_zvDRoZ0",
+                "thumbnail": "https://i.ytimg.com/vi/lxW_zvDRoZ0/hqdefault.jpg"
+            },
+            {
+                "title": "CM 4",
+                "source": "https://www.youtube.com/embed/qfCTJKi_ZY4",
+                "thumbnail": "https://i.ytimg.com/vi/qfCTJKi_ZY4/hqdefault.jpg"
+            },
+            {
+                "title": "CM 3",
+                "source": "https://www.youtube.com/embed/snupMrAAIjY",
+                "thumbnail": "https://i.ytimg.com/vi/snupMrAAIjY/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/7xlosTiQt2Q",
+                "thumbnail": "https://i.ytimg.com/vi/7xlosTiQt2Q/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/F-N853yhN5Q",
+                "thumbnail": "https://i.ytimg.com/vi/F-N853yhN5Q/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "midori-imai-3714",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/75a40f5eaeb9ba447f5ef295a87a000f.jpg",
+                    "name": "Imai, Midori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hitomi-ohwada-2271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/89ab6aeb0162a8e4fec96a78e24e9ec3.jpg",
+                    "name": "Ohwada, Hitomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aoi-miyamori-904",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fe266784a701fb599c8381c04d651a33.jpg",
+                    "name": "Miyamori, Aoi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "juri-kimura-1167",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ca23c05027eba88102e541a8099fcd1c.jpg",
+                    "name": "Kimura, Juri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shizuka-sakaki-3497",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/95a5822c2ca1287af4f007ab0a78160d.jpg",
+                    "name": "Sakaki, Shizuka",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "haruka-chisuga-321",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/28f5f75eee11499f0b4fd5cfe39890e1.jpg",
+                    "name": "Chisuga, Haruka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "misa-toudou-12314",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/889cd9de9f248bceedcee9710875cf28.jpg",
+                    "name": "Toudou, Misa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "asami-takano-3740",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/21c2afb4c89dae08448e3e87a70034df.jpg",
+                    "name": "Takano, Asami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ema-yasuhara-2479",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d4e83114d4cec0e64889edf8d08c285c.jpg",
+                    "name": "Yasuhara, Ema",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "haruka-yoshimura-1329",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6cbbdc64ebaeca1334fc6f914101109f.jpg",
+                    "name": "Yoshimura, Haruka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsubaki-andou-11895",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1cfa33d335de8d6bab18d923d8f701b.jpg",
+                    "name": "Andou, Tsubaki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ikumi-hayama-1418",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ff1bbf0daa0d12c8b98bed9d8aed9fc8.jpg",
+                    "name": "Hayama, Ikumi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "SHIROBAKO",
+        "synonyms": "White Box",
+        "aired": "Oct 9, 2014 to Mar 26, 2015",
+        "premiered": "Fall 2014",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.31",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "studios": "P.A. Works",
+        "producers": [
+            "Sotsu",
+            "Movic",
+            "Warner Bros. Japan",
+            "KlockWorx",
+            "Showgate",
+            "Infinite",
+            "Imagine",
+            "P.A. Works",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Exodus to Tomorrow!",
+            "episodeId": "shirobako-170?ep=4235",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9557c7f9409dd66b375adba5ae9a8373887d4a49a4c8e08b1a42ff33d3a01da434800ae07aeb7cd9e4bd07d83269e6190c887097d7db15ba7bd649832cdfedb210f9c63a92ec3bf07d0495182f49321f760515de9931287a89710b2b37526b2d83e289fcba86cd88dc61de27e964a867db6738ba457fef6bc204961571919de8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f9300375e38f116de6aecea919063cb/3f9300375e38f116de6aecea919063cb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9557c7f9409dd66b375adba5ae9a8373887d4a49a4c8e08b1a42ff33d3a01da434800ae07aeb7cd9e4bd07d83269e61909869ffe4562562ff122a7f23f9190ae03375a78a2c6f964fa3e7d49932dbf325b947534cb1f1a05c35190c630269bbcfbde679553e005f373e6feb3a168c3146251031b390f52ebae774a20cc3ecabc5b65f7ae0370ecfe5a88b34a5a2bc3b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f9300375e38f116de6aecea919063cb/3f9300375e38f116de6aecea919063cb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Arupin is Here!",
+            "episodeId": "shirobako-170?ep=4236",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/afeca046a8029c0fdc42a4698e9c272e9f53934fb9e2e27343b552b5b3386667748a29317e89feec0f325899b56dca174b24cc28beb2337eeda56d1f866de67ccb33681384699d1160e1735b34578cca8862dc8be36f56fda236d13278493315c6b113e94495ee886f1617d61ca0475d834bc5a507fa605db9378974e515c941/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f531488ff24f31fdd138c94577a15bfd/f531488ff24f31fdd138c94577a15bfd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/afeca046a8029c0fdc42a4698e9c272e9f53934fb9e2e27343b552b5b3386667748a29317e89feec0f325899b56dca17d2617fce95e8ea8ed3a9348d255fed6cc5ae8b9159798a11e422aeef7c796946ceaf81579ae80b1e718e406c02a7ac0501142b5673115ee32eaea38b7793d1a9af0fbbceed63a1fde5c5c9fa80f33927d607fcc585a53e09e527fc921713e210/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f531488ff24f31fdd138c94577a15bfd/f531488ff24f31fdd138c94577a15bfd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "No More Recap Episodes",
+            "episodeId": "shirobako-170?ep=4237",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f11410dbd919b10125b63293fec65291dbb580decd4f7e97ca360f30714c255bcada66a7fec84abc540040f28ea18ac798690ca68b13d17e108dbde8ad65ab809cdabb31d0631a18805bbe416b8145f97a00c89d5f0bb6616a66060a99b5be7ef1a3b72c05604dafd21e12bc2f94dc0c88e4504799f749e04adcecc8d188fffe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5b2b6f061a9ec0b44434e8e733e8610/b5b2b6f061a9ec0b44434e8e733e8610.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f11410dbd919b10125b63293fec65291dbb580decd4f7e97ca360f30714c255bcada66a7fec84abc540040f28ea18ac7224686f152a409ae40cc6001a16e67d3128a7c9b28a305f747b210c28290ac5502f9f17528497100bf9e579cc08277e72820750055bd72a8dee8f0d0e8696e1561c6f7f4d30a178e955d55d19674b53e4091c3efecfbe5bba0b17487395a548d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5b2b6f061a9ec0b44434e8e733e8610/b5b2b6f061a9ec0b44434e8e733e8610.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Totally Messed Up",
+            "episodeId": "shirobako-170?ep=4238",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3afc06d402c9e31fc5964e356e8d0d60b5c7d955367ec5a4caed8a883d8d8812f5007a5965e47746708441a8aa5018d9c17838cfdf622e462be58aebf76a460616ed21e301b68b20a0e36bd40ed3f14f38331009e50cb8e3bdcd0930679761b1b71393a1bf5883091d97c4b6119cc6ef3bdf5aa32424f3f10899eb6fa50cd195/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40045d04440cef6a8b000aea4f3c7f9c/40045d04440cef6a8b000aea4f3c7f9c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3afc06d402c9e31fc5964e356e8d0d60b5c7d955367ec5a4caed8a883d8d8812f5007a5965e47746708441a8aa5018d92ec9649d669876f981271cebde96f669879c729e4bbcc4cbd0627d5e395fe40621879526e20c5ecd7cedd4070f75c88b5c01df04ef3fedbacae5c8d28a0f134c169a5e42e65e5d57f962059353a1d3797d2be076ca975eb04015cb3b07b46e2c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40045d04440cef6a8b000aea4f3c7f9c/40045d04440cef6a8b000aea4f3c7f9c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Those Who Blame Others Should Just Quit!",
+            "episodeId": "shirobako-170?ep=4239",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/20b2b164880e32fa8f65d6d39e2349a74f6f0f9ed66acfe8415f590e3fa531f4b086411ecbcb592f6204f032cc3d5e273f49221092d5fa1c80ceaa718b874fa10203c4c933f3725247a3d84988e177b646a59eb679aa49ca573d911b7cd244d0e6ae6cbf528e76977192aedde2f18cfcb2391ff9bec57e42e611d46f9b7f8834/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd79b14f01aedf313696e7a178054579/fd79b14f01aedf313696e7a178054579.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/20b2b164880e32fa8f65d6d39e2349a74f6f0f9ed66acfe8415f590e3fa531f4b086411ecbcb592f6204f032cc3d5e2776973291b11e1c2012e47fa53f3c394a5d5780ac56089b4777a80008ebd1ef6d6f48561a2a88b0616de69f52439d3608afd11e23afa158f877b6ce03f2687763bd3001c6a89ef861e9c87fee79fa333cf738dd822635bebf856766e229776c9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd79b14f01aedf313696e7a178054579/fd79b14f01aedf313696e7a178054579.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Idepon Miyamori: On the Move",
+            "episodeId": "shirobako-170?ep=4240",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7045d59e64e8d5547221abe0ce1b7c9ae53246d59c3a584e95874bbca33cf3a0f4a1dd5209f710169646ea1f066b6f6230e7b3fbc8b9547944322ea9f03897c043aa446c22e6eb653a1da238142e7c623f341bb3a3f1cb4c8b697d757ccb215b90a1dbe97b8a0f9d51d2f6a03826228d4945aa8d748a8cbaa857afdc7fe64c24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/814c5f1faab69b53dae0be341f659aac/814c5f1faab69b53dae0be341f659aac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7045d59e64e8d5547221abe0ce1b7c9ae53246d59c3a584e95874bbca33cf3a0f4a1dd5209f710169646ea1f066b6f62a75aa079bedd33d5ec425d81800472470599a258055479676ad35975b03aedf960ff6112c471e3e2c0e35c3e33323aa1951dd2770ddc62277e136d84c1e21fb1bb2eb2a8c25aa325ef07307e4136c25386bb421d95ba42cf621009dddc0180d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/814c5f1faab69b53dae0be341f659aac/814c5f1faab69b53dae0be341f659aac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Retake with the Cat",
+            "episodeId": "shirobako-170?ep=4241",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/188ea63a990000984cb96aedc98201416e437b1f367ef157eb6ed7fad3289868c96a88b45f649f8fdde00304d811cd5fe15d23789dfdddc9536f7ac7989ab0e239a5db109deccf3513268558845bf3393136c13368a170ca73767f6eb86042f4aec7797a9df7f8e777642c1e03040b85d7f7e3a580161118e511769fc16d827f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7c5a1cb2ee906157843375c6abc8998/b7c5a1cb2ee906157843375c6abc8998.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/188ea63a990000984cb96aedc98201416e437b1f367ef157eb6ed7fad3289868c96a88b45f649f8fdde00304d811cd5fc30b2c6d912addc9c94c008c4308a463b6b3d0d95a1be48466f8ab03449c3099a8401c40023d895fb61b67f108e67055cb8cb1e4fa1e9b8a57d8d1c0e04fb66e612773e731a792dc2343ab85dc2d38cbc91e0d466df1bf3a6d86ebbb6fc4d058/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7c5a1cb2ee906157843375c6abc8998/b7c5a1cb2ee906157843375c6abc8998.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Not Blaming You",
+            "episodeId": "shirobako-170?ep=4242",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/06f4c6b39fcb0fcabe62553beae50e449e9ae668c7db92748caa3e6253bb8eadc28d0ad29e49773ba82ed43637b56452040a13a5a66b69b827759bfd5b7529d2041103b0f559ee5ab607363bdd06f19861271f77a89d00f735f70c10d28fd56b936e93bb2d1eb92ff566f8af4045ae80b3cc7fc39b1ff49aebef9620633b655f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fe123f741e8f0142f94f5479b504540/4fe123f741e8f0142f94f5479b504540.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/06f4c6b39fcb0fcabe62553beae50e449e9ae668c7db92748caa3e6253bb8eadc28d0ad29e49773ba82ed43637b56452ce6e0786f2a06d20a2165c09416f31e089379df222f38d3dcbe59a2049eced6c716e8f34d307d527b874a728f01b66572280f236ce4d2e533e5393a39a5d70c0169ac10ee4b39afa594dc5f682589b29ec100cf9422d216b9db845d0dfee8d6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fe123f741e8f0142f94f5479b504540/4fe123f741e8f0142f94f5479b504540.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Do You Think I Was Trying to Say?",
+            "episodeId": "shirobako-170?ep=4243",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5ce9bd29677753ffe3505b63fdf93fd6b720cacbcfe9ddc98fbf694bd99a080f631a881db05f1b89d7c2cbbb6e2a4239036278fe1999dca87830d1ba40d25f70748fc6a970422d0ad576fbfbe0b48421439102f025fc354b54cb4f378b6fdec078fd1977ef07343d6ae265011afadcee5c06743248f4376afab53206b2e77ae1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/126084aca2474654522c5d3ed7fcd61b/126084aca2474654522c5d3ed7fcd61b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5ce9bd29677753ffe3505b63fdf93fd6b720cacbcfe9ddc98fbf694bd99a080f631a881db05f1b89d7c2cbbb6e2a42395a6363eb8ae9a47ced26e82d4bee612880df747de441a86f941dcb466ed61df50219458fe6561141d5698712a7454b41191ea703f907415dc557b03d88c9f71d985aa0939234110ac2b2a2acbb8f09490681f2d8860554d8eab4d4d65efa174b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/126084aca2474654522c5d3ed7fcd61b/126084aca2474654522c5d3ed7fcd61b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Just One More",
+            "episodeId": "shirobako-170?ep=4244",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6353cc2d7927ffd0e1d0b1fd3782f6c0ca79c98334a0d83adb10e282fa6ef95572130c3f9f312828eac4aacd98152e70654ba5f4758c2192b9e1e444f10368acfaf38584d230daa709b354d4dffd69ffc4239ae6fc02e76fee89f15dd28e3a3fcf0c0635ed3f9fc85d5016ea4d6d6537447eb721059e4029133a0997b51e08f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aee0f99859f38c15551e16a6e73dc8a/2aee0f99859f38c15551e16a6e73dc8a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6353cc2d7927ffd0e1d0b1fd3782f6c0ca79c98334a0d83adb10e282fa6ef95572130c3f9f312828eac4aacd98152e700de74acfe279a7089f77a17e8c1df88255d9a0db2ff48ff64eb2c8ee6aa6d3d2d0c738afd0f7783376ea2ee486a1182ff037ff99837d0fc12d221badf78a961b579ba9322943e269387e02deb83b97af89a6b63cc12f94753ed11140fbe0c60d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2aee0f99859f38c15551e16a6e73dc8a/2aee0f99859f38c15551e16a6e73dc8a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Little Key Frames Girl",
+            "episodeId": "shirobako-170?ep=4245",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4de8e2ccdf58682bfb6b9e243352e50a8fc2c2c11264cfa63297da4b43f736a113b58d311edcc3eddb67aa971f211bdf9137e7f8fe45dc584149a4f153bf175344ede4a2b57d179a391a1b27cd3536e203e735890baa4fb32a9a70ee759b8cd230c78177b2f4f4beeac3a796406bee03663ea1aeda9790f0179747cd9249e962/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b50e7f0e51d11edaaa668442919c319/2b50e7f0e51d11edaaa668442919c319.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4de8e2ccdf58682bfb6b9e243352e50a8fc2c2c11264cfa63297da4b43f736a113b58d311edcc3eddb67aa971f211bdf4c22f98fc0c9102a2f1bf21d457313170edf770c91f7c2817be906a5ce97ab52aaa374bb82d3bc2d47058a5312770b01007399229ca31f2e3267d15796ce04f0cb721d07ed58a6d3a0fd45c7c35c1a9dc632c61da8ff18e7bf906e12f1427202/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b50e7f0e51d11edaaa668442919c319/2b50e7f0e51d11edaaa668442919c319.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Exodus Christmas",
+            "episodeId": "shirobako-170?ep=4246",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/486ec3dc45e3651c83b6639c3fc7e651e29cd943a4295b76a5c1cdb8267719ead07de2d936bd81360b21464e512cb67ecb438ff6a1224813a82dcbea60f23ec46141f580041d058941b7130d133754cecce0baf37e4aea531504b4d17aba99f89abd4942b9eb1c943b01fff0aeafed91eda087527dfcc137ad53e9d3ce9def58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/178a304637820b7aed0ce706c998ed1b/178a304637820b7aed0ce706c998ed1b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/486ec3dc45e3651c83b6639c3fc7e651e29cd943a4295b76a5c1cdb8267719ead07de2d936bd81360b21464e512cb67e462238ca85e2e6aa05dd6c46a6f45336ca201685e69993707c6d8d68d4106202f35e53274fdeed3165bf319bf04adf3844b340df50b6af1180e66f83f0d418b3128035ba7a560ac8cfc14bf143f6b0783fc26e3f568f3884b61e120c7ceab485/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/178a304637820b7aed0ce706c998ed1b/178a304637820b7aed0ce706c998ed1b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Kind of Cloud Do You Like?",
+            "episodeId": "shirobako-170?ep=4247",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/24e07c788eac5ea1351e7e3a7c93486a1b6472db897333e6dc6d7619284798fa5ca0a1feaa29762425d96f813c163fd53d251064f216fe84b0d18ee05d21c43cf668113fc2ec4448f3dedeaf8040787e9ddaca2c4c28fc04275242b159273d7e8921d69c4182f7ba726c05e7c47b4d654c3abcf3d48bbdce5ad19f9839d1aae0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d43829fd154031849b0fbdc434c09bc/3d43829fd154031849b0fbdc434c09bc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/24e07c788eac5ea1351e7e3a7c93486a1b6472db897333e6dc6d7619284798fa5ca0a1feaa29762425d96f813c163fd59b32b6cd572026e7c723c3fa9afc3a2d09aa4aae0c84f209ea87b16b08ed483962fb5e9b5d80c0323f211720bb5bbbbb07bb610d77bdeaa1b12fd66063ed4da572b47d01b20612fcece6c0b005fd1c4ab0e0a2915f14626481768f09069bf784/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d43829fd154031849b0fbdc434c09bc/3d43829fd154031849b0fbdc434c09bc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ruthless Audition Meeting",
+            "episodeId": "shirobako-170?ep=4248",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e42cae1e76fc55f7e1866546954621aa66a07a53805d640c1b0ef5075bde238706a9fec9e1bee2ba0fde31b7911241a05f6fc8780c5d6369b759b65679394b11a56dac0c823bc8f8aace2bdaa181f51bd525f6dcfedaf4b7aa38760969e923ee89797bd5445bf458259f7236e18e44e4083d41ba074887207fec48a1a3cfae87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ab0fd03adb49651295bc7282a0c045d/6ab0fd03adb49651295bc7282a0c045d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e42cae1e76fc55f7e1866546954621aa66a07a53805d640c1b0ef5075bde238706a9fec9e1bee2ba0fde31b7911241a0591ea7b23c426ca9507cfc07a9c3498b574cef40c647afc4511073e67eea5d14e2b520736fb4444bf8a9330814fa2f5f098d42a91abd6a320baffff524a0d1cb7df573577e37084e108790c7a56bf93f827290901ec3d593b33f4ad25e3ece54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ab0fd03adb49651295bc7282a0c045d/6ab0fd03adb49651295bc7282a0c045d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Will These Drawings Work?",
+            "episodeId": "shirobako-170?ep=4249",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/039c80dc4d6565749f3a0c660abadb8038f98b8b95a0ffb5d9969d910819e15e68cacbe10182ba3c364f54d15f087f8b288ba4f9514dcab7c71050499923f0f988b9fe890b52ad9e46c2a7fbbca66ad691a6d7f04f8e6579d6c153cff18888fe22623c788b0b47b32c4b7433ba341fd69865cdbedde1962d7128924ccc26329e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db3cd4522ec09e7e9e6ada8cd52050b4/db3cd4522ec09e7e9e6ada8cd52050b4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/039c80dc4d6565749f3a0c660abadb8038f98b8b95a0ffb5d9969d910819e15e68cacbe10182ba3c364f54d15f087f8b0534266921cf8533a4273501e042a14155b283fc8548fcad906fbfd189bc11832c76e7e3dce394faa761e5bfcddfa968040443476aeac65750bb49e856dbde9e4c497d4624d418be8c1977a31bf11e0adda49979294d2bb7488d479802008c62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db3cd4522ec09e7e9e6ada8cd52050b4/db3cd4522ec09e7e9e6ada8cd52050b4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Table Flip",
+            "episodeId": "shirobako-170?ep=4250",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/91a6c294e2b616cb6fec08a47371f7157ee21b024ada32870e6d51c7de05b02e827c04b110d8263bc894e3db49a1cb824ee708542914c486f04060f48c02d5b8c9395eaed0adf97269fc8597d0dfc3842b6966c0b497a1142d1bb84c889c5ebf4d230afada132eae96d400320e87d9cf37cd9f04195c2e1d41bf15bdfd4e2fbc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa3a4fc93b1c7cb8b08b85c18d2c2111/fa3a4fc93b1c7cb8b08b85c18d2c2111.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/91a6c294e2b616cb6fec08a47371f7157ee21b024ada32870e6d51c7de05b02e827c04b110d8263bc894e3db49a1cb82cb437af11edb0ff8c89a20cc4d5a63c869bcd0f2754b0521c15672c62ef47d54137908b6cda84d91e989092611bb2ccb2d2f4221333cea4ed0911cd805095a57b880cd73c909f1cf94f4ae4dd529609b58d3ee885305cfca196a4cb8b8b35a21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa3a4fc93b1c7cb8b08b85c18d2c2111/fa3a4fc93b1c7cb8b08b85c18d2c2111.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Where Am I...",
+            "episodeId": "shirobako-170?ep=4251",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1178d5b2b26af9c32a3ff6a47ad6d51a0983a41b2388bcf09bcdf9f807c8dfc2c17fe717a9892b0eea3caebaaccb488978ee091b86deca82715bde8982951a2f33f6e64ad80329a484ca0404a08f026b15d0b35101df9ed78025def62821a8cc42475611c76248fcc6402e838c1b91e5f6014933b85e40e330a408bc0a131a95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/effbd50fa0e7c716a8593ea011093669/effbd50fa0e7c716a8593ea011093669.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1178d5b2b26af9c32a3ff6a47ad6d51a0983a41b2388bcf09bcdf9f807c8dfc2c17fe717a9892b0eea3caebaaccb48898be4f5983593978fec0324f7511d777690cd22b06cbf7a38a614498e0dea7de2fe4a17cd25a1e637834e9e62de7284fb0b5351355c0223a7579e45a401b87fd604275cd966b93329fbbbd8093b74a2b5ef9955482e21ef0b8b9ff075a1444a3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/effbd50fa0e7c716a8593ea011093669/effbd50fa0e7c716a8593ea011093669.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Set Me Up!",
+            "episodeId": "shirobako-170?ep=4252",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8951fbfbb1ac38ab0061247a8bf45bce49f32f8dcf3f9bb808f3b75a0eee73aa2232a5033403b156afc63fc2bce823af16f64e89ef4fd4fdf883190e9cab9a298ec25afa54b0747f624907741697eced39cb5a0d72017f8d3f56b578486be6349c1d57f5f0e3b38f899845c28fb1789a9897c8a87285d72417a6d84a802ae191/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce743a145c51aad617129da861b1d7c6/ce743a145c51aad617129da861b1d7c6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8951fbfbb1ac38ab0061247a8bf45bce49f32f8dcf3f9bb808f3b75a0eee73aa2232a5033403b156afc63fc2bce823afdd3aaeeb83d8824beffeff9afe0b83547c399bdd68d31e46de544a9a14099ed6ca92de609186ccb78109d310379779bb76e8c3be3e037ddd5d4cb1fb5cf8ea0259e4b8e17ebddee87e4b2233068032a39585479e768b8458643a93a21570fbfd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ce743a145c51aad617129da861b1d7c6/ce743a145c51aad617129da861b1d7c6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Did You Catch Any?",
+            "episodeId": "shirobako-170?ep=4253",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8f653e24739af6d2fab4ebff352636a2d72050d7a6add47e99d77cb9c74296e5fb0cc4aac6ff5048a03b48a83770c926a07fbc08fdd6458ef55d7338c6557f673cd78de841bff380693a7bb0d2fcad66bb51e773f144f5720de1a0e2edff273a0ad094fd587e2b5229584ff6f887a4edf860ed80313179fba4100c478950ca93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a584931a2624a98d1f8c56c4e72758b8/a584931a2624a98d1f8c56c4e72758b8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8f653e24739af6d2fab4ebff352636a2d72050d7a6add47e99d77cb9c74296e5fb0cc4aac6ff5048a03b48a83770c9262dfff84e97f9d5c7d8102f6e00c2ecad05c6385393378b7ccf8c4db68385d78744eb7b745234e5b498366d464bd4add9df8b909d23c82e1a9a0195680bc8ba0c41089f4e49fd2cba9136a077921ae9cb3c73f57c22615e79332bdbf930e94da0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a584931a2624a98d1f8c56c4e72758b8/a584931a2624a98d1f8c56c4e72758b8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'll Do My Best, Mustang!",
+            "episodeId": "shirobako-170?ep=4254",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0146d933a617b838aa68aec9f4f05c65c1f19a5e83525621991ed8cbfcb9e404156629a8b7db4d03811e243aa0233de2c5af663f7b7a5a8fb1c5f8ab183178962c0079c015ae2e41eb8eb539aff28f668ba18a047f318aa064b27de94cfb57b05de6d445e3584438234f2f35aa5ad34f72ef72b0caf4a7bbd95fb5b6879162df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e928c99475405ced3c44206153b2fa69/e928c99475405ced3c44206153b2fa69.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0146d933a617b838aa68aec9f4f05c65c1f19a5e83525621991ed8cbfcb9e404156629a8b7db4d03811e243aa0233de2c9e4409092160fad1008636d89ce8d1b86037d314f0edf7e7e638fc58c272885b1bdfada3c90f57559510c4687f899e354deeb1c56eff35f8332b8ec2820503e1ac5c8f805cffcf028de98e9fe2d7c6376b2d850500effd9a74d11140f699d77/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e928c99475405ced3c44206153b2fa69/e928c99475405ced3c44206153b2fa69.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Hold the Quality Hostage",
+            "episodeId": "shirobako-170?ep=4255",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c45aefa85411b90d72f03c1cea5243efec1a222b1bb3cfc5684719bfc1d4653e77492c6960d6a7517ee471708ab5bda4990d53575eeed0948472d781da71705fe7156031beeee2f24b04b9667134f7e24e9e0e44e2d22390d37bb311905e299441a4ba4173988c2475a80c2dd196cc06ad12f93e476621147d256a0b73acd82b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a4128a1c3d7d13640b25a941e7d0b75/8a4128a1c3d7d13640b25a941e7d0b75.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c45aefa85411b90d72f03c1cea5243efec1a222b1bb3cfc5684719bfc1d4653e77492c6960d6a7517ee471708ab5bda4e4dad8d5facb4141f0a7716085d0268df88d7d01112608c8bda151d81200fe1b277567d1d3dd4bb90859a89a19b35401d860fa306f1dfd5f0c0ec283fa3f0bac884c5fbf7a6164e99a27f42ac5b3c75e99ecf62f0ebdd5611c63932b54c23c12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a4128a1c3d7d13640b25a941e7d0b75/8a4128a1c3d7d13640b25a941e7d0b75.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Noa's in Her Underwear",
+            "episodeId": "shirobako-170?ep=4256",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/396a877bf9ab51ad43dec7871a05586a094229602928c10cf79136be057b2fcca534ac7b5c11c8d953018c146fd13f23f7d45a3ff5b79359cf7d51272c921bc07d6cdc9c2e89eed9a997ee24304c32fc6e6845988511461bd3c4a6454dab123f485109308ea16d2f9f7acadb1242a60007bbd794a44b9062a2e27822ebed0f7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47dba9dedf8749a5fd0b059104216a83/47dba9dedf8749a5fd0b059104216a83.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/396a877bf9ab51ad43dec7871a05586a094229602928c10cf79136be057b2fcca534ac7b5c11c8d953018c146fd13f232eb71dd981da938a390d32ca2bd18373fbb9672b8d61177a0479f79b82fdd4b517a4204b0440580a9cf4f72f4e31ba763a7878acd8f305edeb16c1b987a82fadf607ade0734df35f170c94ce2d96106d3334466fbbac87451c3b265a2102b954/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47dba9dedf8749a5fd0b059104216a83/47dba9dedf8749a5fd0b059104216a83.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Table Flip Continued",
+            "episodeId": "shirobako-170?ep=4257",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4bb48b364079e4def5dba70e58762c407a1df8adfd27abe691863455c77da552ad1c7e4cf561a75e6b113fb7e8236d547b2c486c65522d23f6f412b43ace7dd4a61f84c269561c2ef40ed5fba8ff5872a93f5aeca314f0faf4c57a5c8431b3fd9dd658a6bdbd7fdcc2fdf43393e4b0995076c1141ee00bf579c02a6c78e67b53/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19545609a8e9ee3ad12d4155bd7bc645/19545609a8e9ee3ad12d4155bd7bc645.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4bb48b364079e4def5dba70e58762c407a1df8adfd27abe691863455c77da552ad1c7e4cf561a75e6b113fb7e8236d54d8afb55707be3a0a5e4f8bc579c905fac86f0bee9e47a1d7937546f98a2a4c168930867a1adb716942c3c149e966c6e6216810af0c00fbf9552560651d22499d5d5568c5a6bc9d81e2837848bc406c864b1aabf1a04ac795757a8e870e17d2b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/19545609a8e9ee3ad12d4155bd7bc645/19545609a8e9ee3ad12d4155bd7bc645.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Delivery That Was Too Far Off",
+            "episodeId": "shirobako-170?ep=4258",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/aa6ff515e95ff18a90c4b51e3825f301c00151380595d874dddc14ca838b1c1f9ccf1d762f5985b1e09ab3273b80aca56b601009fa0b01c3be5363b449e40d97d1d34d229842350cad18710778571268ee9bab63c882c7d212c57d603ce0eefe67e7adbf0553412e455d591febf1a7eaaabd35f509aca943c892b1290fd69f53/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0712642c3ad7cd7c164d61d690562b81/0712642c3ad7cd7c164d61d690562b81.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aa6ff515e95ff18a90c4b51e3825f301c00151380595d874dddc14ca838b1c1f9ccf1d762f5985b1e09ab3273b80aca5c8a645047db902336a90694a7467bb2a0c87a3c06cd253e53d9121d5751bdc9ebe36b23ff7cd4592754efd12f63c6392e6fa66e6de5e1fbec360191b794ae61b1899d645813d409390a67129c67daaad04db21bf6a103b92d085b9b1b8d68f7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0712642c3ad7cd7c164d61d690562b81/0712642c3ad7cd7c164d61d690562b81.vtt"
+                }
+            ]
+        }
+    ]
+}

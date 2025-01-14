@@ -1,0 +1,387 @@
+{
+    "info": {
+        "id": "mob-psycho-100-101",
+        "anilistId": 21507,
+        "malId": 32182,
+        "name": "Mob Psycho 100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f20ed9108a583429fd687f986a617e0.jpg",
+        "description": "Eighth-grader Shigeo \"Mob\" Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be a liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is to impress his longtime crush, Tsubomi, who soon grows bored of the same tricks.\n\nIn order to effectuate control on his skills, Mob enlists himself under the wing of Arataka Reigen, a con artist claiming to be a psychic, who exploits Mob's powers for pocket change. Now, exorcising evil spirits on command has become a part of Mob's daily, monotonous life. However, the psychic energy he exerts is barely the tip of the iceberg; if his vast potential and unrestrained emotions run berserk, a cataclysmic event that would render him completely unrecognizable will be triggered. The progression toward Mob's explosion is rising and attempting to stop it is futile.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser PV",
+                "source": "https://www.youtube.com/embed/F8g3TuKsQHs",
+                "thumbnail": "https://i.ytimg.com/vi/F8g3TuKsQHs/hqdefault.jpg"
+            },
+            {
+                "title": "PV Crunchyroll version",
+                "source": "https://www.youtube.com/embed/Vly5hYbolJE",
+                "thumbnail": "https://i.ytimg.com/vi/Vly5hYbolJE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/mV39saBlBLI",
+                "thumbnail": "https://i.ytimg.com/vi/mV39saBlBLI/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/_E0wbdZZKRc",
+                "thumbnail": "https://i.ytimg.com/vi/_E0wbdZZKRc/hqdefault.jpg"
+            },
+            {
+                "title": "CM Crunchyroll version",
+                "source": "https://www.youtube.com/embed/mp65fBM__oM",
+                "thumbnail": "https://i.ytimg.com/vi/mp65fBM__oM/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 Animax version",
+                "source": "https://www.youtube.com/embed/bp4Ry1-WYS4",
+                "thumbnail": "https://i.ytimg.com/vi/bp4Ry1-WYS4/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/yremTcEtkNE",
+                "thumbnail": "https://i.ytimg.com/vi/yremTcEtkNE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "ekubo-1551",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/645ee5ce861e17ac8c4c45bcfb0b1371.jpg",
+                    "name": "Ekubo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "akio-ootsuka-204",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a70a55d9262cd5f53a7309d1e4f3c1f.jpg",
+                    "name": "Ootsuka, Akio",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "teruki-hanazawa-1783",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99fc43279440e48353559a49d835a545.jpg",
+                    "name": "Hanazawa, Teruki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ritsu-kageyama-2263",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1330a7939017fae2d7cd384fc3de0b38.jpg",
+                    "name": "Kageyama, Ritsu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miyu-irino-140",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51ad3af265768e189a061095d365af3b.jpg",
+                    "name": "Irino, Miyu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shigeo-kageyama-113",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c73d5e67f2d46b41aa5540e0f30e1f2f.jpg",
+                    "name": "Kageyama, Shigeo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "setsuo-itou-1062",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f4180111de1de86ff42926d523cfd049.jpg",
+                    "name": "Itou, Setsuo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arataka-reigen-64",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/27c0bda4d7894b0b5c7210cf257682e0.jpg",
+                    "name": "Reigen, Arataka",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gou-asahi-52616",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/517bce08c04a01f941a2e792434e7ff3.jpg",
+                    "name": "Asahi, Gou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuusuke-kuwahata-12984",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6236d83db6728467f7211dec3d510a86.jpg",
+                    "name": "Kuwahata, Yuusuke",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "モブサイコ100",
+        "synonyms": "Mob Psycho Hyaku, Mob Psycho One Hundred",
+        "aired": "Jul 11, 2016 to Sep 27, 2016",
+        "premiered": "Summer 2016",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.48",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Warner Bros. Japan",
+            "KlockWorx",
+            "BS Fuji",
+            "Hakuhodo DY Music & Pictures",
+            "Shogakukan",
+            "Bones",
+            "Funimation",
+            "Crunchyroll"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Self-Proclaimed Psychic Reigen Arataka: And Mob",
+            "episodeId": "mob-psycho-100-101?ep=3087",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2beeea765306259ca19f26f52d3c9a57d405e2ec8cc47b8516c764f89ceecd3349658a384d69fdbccc0c9f9137956d39ba17be6f0ccdc0b90514fc5c141f75b78ede04ee30be236b6eebf088619706cc6b9a4bfbabe14ba93cd26d79843861376892f18a6120c021067261b1c2d69e5215fad1667075f6eb8a3d04d14eca13c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32b97a5bf7fcbc7feec4b3b4e52c131f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2beeea765306259ca19f26f52d3c9a57d405e2ec8cc47b8516c764f89ceecd3349658a384d69fdbccc0c9f9137956d39e24729980f1ad9e5f15eea9ed994756e20e58736c42e16e20053fc9b49a6385469cf7fdccf02f938e72a4f0477a44d48dffadaca581fb25177e3f919dcea82997c4c700c40f2b7f367d097442c5f9c6bc6b89aedeea2c46350120a4a28f645ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32b97a5bf7fcbc7feec4b3b4e52c131f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Doubts About Youth: The Telepathy Club Appears",
+            "episodeId": "mob-psycho-100-101?ep=3088",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a08813c39c6f641b57f3d726f9661c5bdb5794789393163954cd7cf845d363034dd6c639a792046963f56e51130a813d186c00c5df89e8c60c6500ab01d0068909dff901c37662016ff16bcf623c869b562ae0759369e97756705e3dae51815ff2d58dfb6ffae9da9541b1b73d4d4432a6e087ca67c729e3cb607c8771633726/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45a03c2a8a181fa2a1a924db210c4076/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a08813c39c6f641b57f3d726f9661c5bdb5794789393163954cd7cf845d363034dd6c639a792046963f56e51130a813d475ecdced02f350ce349f31d3de15ed97ccf8f318c14651ecd5857e7468104abcfe8ab80271dbe4c2aa4ae98e60cb1d69c8ace1d82dfd4d30b85d86cfb2960054e5b9143ef8f922fd7f62bd032d3026f872c45845fe42e290e9590a78b6d37a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45a03c2a8a181fa2a1a924db210c4076/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Invite to a Meeting: Simply Put, I Just Want to Be Popular",
+            "episodeId": "mob-psycho-100-101?ep=3089",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8190a101d9905ff59f19c202ddef19c99b09eb55d6ef7c8671fae4c78730184a6f8f2706c1990da787f6a8001af9054a6cbfc9c9e75b12199603366d2aee12b2e4b771df2f570d79ccf900c13420799965f6f0795b753c4f30b548f18aaa90ff51f6bd29d4634a07a4e6b6d9c350a6e2c1ca8ed2e6dc4d34a1537eb6f6425a98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/184a0f9ac80cef7da4c63cefb1cf8199/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8190a101d9905ff59f19c202ddef19c99b09eb55d6ef7c8671fae4c78730184a6f8f2706c1990da787f6a8001af9054a01207f1b4207ffd2948a3fad48c93ac0eec8979e53a4bcf6b72b60fde7a05f42f59bb92cd81e6a48f06c880964b6fed1f3bf671a33b7040eaee2f62e63d384e46998533a05dceb684d4584b3e7b5267c5931be37b82079c1727450251e658fc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/184a0f9ac80cef7da4c63cefb1cf8199/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Idiots Only Event: Kin",
+            "episodeId": "mob-psycho-100-101?ep=3090",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7df3db22044881ecf636e6c57c3950d092cbe8c16004e7d39f09cb51f45a5bce3c3ca4c055a910c50b99ceef949d24e889dd8db64ccb8fad7936650e21f2e5adf92dc4c0456b90723a60b12a475f68ac404c0c509877fc0ed1e112fb993fbf78c47583118a2e10aec15e292a09350ae4b80587abcc2e8589572464df8a43a7ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08253469f756e121e5e70b569151d31c/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7df3db22044881ecf636e6c57c3950d092cbe8c16004e7d39f09cb51f45a5bce3c3ca4c055a910c50b99ceef949d24e86ada3acff11072a6b563eba1be09114010571aa0aaba803c047a71db07c7297553ad73d40258762a948928b22da6e017419d51f6753f0521a21671470e02b5685f3f78fc07f974f1ed40ea546b126a191bf788b920eb0177d364ab82139d477e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08253469f756e121e5e70b569151d31c/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ochimusha: Psychic Powers and Me",
+            "episodeId": "mob-psycho-100-101?ep=3091",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bb57b490a95d687875640d81b1b3c45495e07a103ce714f04ca57343ed8e1ae8d6a12ad234847aad83ee39dc00cd54e9c85a04574a095dcd59e844975abcad9beaa027026146cdaa2064fc52fab746b92c73d1fd0aeec12e5bccbdeca4d30204a20e557754dc4c2856f8cd8f3be87d6fb6d016f0368a1bf7acfab35075461c83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99cf2ec31921f399a8a613dd9860cb2c/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bb57b490a95d687875640d81b1b3c45495e07a103ce714f04ca57343ed8e1ae8d6a12ad234847aad83ee39dc00cd54e97c8011d9b8aa29aa3e1e8065cc46134f1746627ea14b095c23fea768f1051e0805889a11f4a6a60c13f76c112cd64d0b787d41161d3dfac8f864c0e25082a12c247523604fe28150ee76dd911f205cea948e5465ae8e1b03ecc556dd73e76493/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99cf2ec31921f399a8a613dd9860cb2c/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Discord: To Become One",
+            "episodeId": "mob-psycho-100-101?ep=3092",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b6bd9670c62fc357e38cc8a66973d16c68749b4850088bf4136947d41c504c76ed5b6e31a3c0f8ff4ccbe1d3010ce5b4f4cfac22d8cd8e847b61808130eba3d14028b661b961dc5e8591919df0083643151aa3a5d02bb848b93b08679948f376c11b15797782e9d3135539cfdc8dafc96dd455a7f210c4e1b5d62459cc019c6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bbe82632ed61fa8af339d06a2d9ce8d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b6bd9670c62fc357e38cc8a66973d16c68749b4850088bf4136947d41c504c76ed5b6e31a3c0f8ff4ccbe1d3010ce5b4044e28c8f8134c18066140195f1c150ff7d9ce080bd7c2b5dcd226fe0d30bc9c0298497155d2da014e146c96639c8336c051cc455430d3e9862fe617d58de31c1f82fbd3abf10314400c3a4f0d2bf581d0a17b08acca79a4b15bbc7f7afeeb2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bbe82632ed61fa8af339d06a2d9ce8d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Exaltation: I've Obtained Loss",
+            "episodeId": "mob-psycho-100-101?ep=3093",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/376ba6bfcf6d3b7307e3be84dad72b3dec6048d1244827b009a4f961991668c39c28f770fa1edd91650616dca88af87cbe36deae8707b0e43cfc322d28fde8ef7559b4ed239f6b2aa4254c53e15ef7accc00089b0e99af74e1fae9b11649e88fee1ed5a38e79f0d964001882a376f4fbac1c11dd45e423bad19505efccbc454d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8f129633f2d9cdf695bb5d0140fcc79/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/376ba6bfcf6d3b7307e3be84dad72b3dec6048d1244827b009a4f961991668c39c28f770fa1edd91650616dca88af87c829a2c7fe0a4059fb307688391ccdafeef52f593457f7d593af880602088b0be2f118bb119b76bd98cac0c2c2a97e1aed34219353190f28510c50c271f650725660de60113095ced6a03f05608af6c396dd003616bdf0af943d76e3438721b1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8f129633f2d9cdf695bb5d0140fcc79/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Older Brother Bows: Destructive Intent",
+            "episodeId": "mob-psycho-100-101?ep=3094",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/92fa63e45bdf020d5941e6458c3322c76a9ea804b1d34dde9f7a900c4b99a01dacc1cff854629c199dc3041fce69993748757594c839cce2cd6e891442fa198f8f469e7dd1bba3965ed3132837f81cf0f45381e03bbab1dc7d1ed7ce04ee779c4e8a1d3de74eb991e90ef1d1b4787bb245a7bfd5755760ef2db8e55c3d670e28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88331849739056757d42c19d3e1b26a9/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/92fa63e45bdf020d5941e6458c3322c76a9ea804b1d34dde9f7a900c4b99a01dacc1cff854629c199dc3041fce69993712380b5f29a06710b4ae1f072eaa20a60cc6307bfb8aa7ade50ecff5ba8ede50f448aaa6a65efe666a7719f0680db08e1f89ad8aebc8c0104780f38df7a7c652b3c0e2380d58dfa7bab3b9e2e70cd4ea59d888ff63d3a92ff4c4aed8878263a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88331849739056757d42c19d3e1b26a9/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "\"Claw\": 7th Division",
+            "episodeId": "mob-psycho-100-101?ep=3095",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/aac38c1a3d5cd0c16a1af66dc40f2538e027991adf1d61861d369adfc43250184246dfdd42631aa7c1eb4c86bcc2eb544e6267705f4d14b32fe4dab49a8bf586569066a4cc3aa7fadf0c0bbf751edd3a3d8769b2156ab82145ab330dc8e16ad3f4b7dbcc9035ff1113eec87588a0da0268ec4ab9574ead15f06e95faa2e5082c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b8be37c3512e0f0cbdc329f5db22284/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aac38c1a3d5cd0c16a1af66dc40f2538e027991adf1d61861d369adfc43250184246dfdd42631aa7c1eb4c86bcc2eb546ec3c0608036f0a12809249eae3e4981f517e1f1538cccdc7fbca15ac9122aa41249097d9deefbbf40ca452f9ef07000909837e4817359e8d3508822f880daa4ee28d1bb115231263350c0dd4190d57f43471ef790c6edc78eb2a81bd3531c66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b8be37c3512e0f0cbdc329f5db22284/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Heinous Aura: Mastermind",
+            "episodeId": "mob-psycho-100-101?ep=3096",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/32a87fc4c000ff14f92c483cc72c577ce7ecbdcc1219785e36a379d6a98653475093d0cc8deeafcb2b5563214df4a180d42c3b8a75775d0d5a8611e36ae7aaf6e29b956646ea3118985f5c1389f9a5b78e44f37da74d8e7dbb0df0fb8ef3c577a9e3962542ebf0ced9e48ccb1e809629e65400b3ee084c82f212487a0dd9dc3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d70bdda29836e0ed0dba0dd5cb75f49a/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/32a87fc4c000ff14f92c483cc72c577ce7ecbdcc1219785e36a379d6a98653475093d0cc8deeafcb2b5563214df4a180cdeb5e600b5bb1c86effc92a416cbb06f9caac19205658c89e214a32723cb6b608aeef61c8bb6b5691a9f4adff5c5670ecaf59819501c2c4a715c17920e8a7480e59f7875574cb79fb987181b3999180cce9b73079b786ed2a7d230bc9a489dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d70bdda29836e0ed0dba0dd5cb75f49a/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Master: Leader",
+            "episodeId": "mob-psycho-100-101?ep=3097",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9ffc59ad438edfa956a4174a46445cb670dcb3a90391546415af33f856659cd3c9e71ebf95255a5f7d71f2c62d5efdbe7511745d8dd598f9a16eec3f11a9160024507c85880b47876642844f55679a521326997dcd9c648957d39afdea35a8685af249723528aa9c6ec480adf73e834b8abb8286a756a487253f1553dbf70612/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcce1ad5672d1a50de208dc8fbd8a897/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9ffc59ad438edfa956a4174a46445cb670dcb3a90391546415af33f856659cd3c9e71ebf95255a5f7d71f2c62d5efdbeffb65db945302c02fd40351904ec3b89b84d41f305d67e490b0511f8a839a8a691b8052ef87cd49869e1d2de335f814d650fafa3ae2da42cd522b96b736bc185b9246aa6907d414c9c0d3e5dabc817e1420a5eedd6f0b790e0414f79a8594cac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bcce1ad5672d1a50de208dc8fbd8a897/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mob and Reigen: A Giant Tsuchinoko Appears",
+            "episodeId": "mob-psycho-100-101?ep=3098",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/32da42901315b2d6e74e67e373da60f26f54ce67f521c6e3af33da2748ef14f3eb193645c420d46f8ccdafed0def572dc9b7a4ba2346d5ecf4dadc6f5eef691675f7753e6d9dc29d9c5ff5f4390540344d6f63e5f827328ca6d432a0b9366974e6e71cc35622a4a0a994db944cacc0e83bac180a90914771359ff793ed92c60b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb5fd287ce826e06252605a4b3394793/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/32da42901315b2d6e74e67e373da60f26f54ce67f521c6e3af33da2748ef14f3eb193645c420d46f8ccdafed0def572d6b94fd47005194f8d9481c1007b80fd8ad332e8447c7cc130b82454e63f03e23bb6ba3552b7ce930e80b27c08a358cd4c03c4e3771907a8769eee52e8e11a52308a887eac1dd93a67f43c3df5d38e08d71c4bbbf66b2198f1e3912d0dd2d1356/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb5fd287ce826e06252605a4b3394793/eng-0.vtt"
+                }
+            ]
+        }
+    ]
+}

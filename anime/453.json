@@ -1,0 +1,591 @@
+{
+    "info": {
+        "id": "a-certain-scientific-railgun-s-453",
+        "anilistId": 16049,
+        "malId": 16049,
+        "name": "A Certain Scientific Railgun S",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f678ec59bf69fef2b8d0d1dd917967d2.jpg",
+        "description": "Mikoto Misaka and her friends are back, investigating rumors across Academy City. Soon, Mikoto discovers something terrifying: horrific experiments are taking place throughout the city, involving the murder of thousands of espers. Moreover, these espers are far from just ordinary people: they are clones of Mikoto herself. Feeling responsible for their treatment, she sets off to put an end to the experiments; however, the forces opposing her are much more dangerous than she anticipated, and Mikoto finds herself up against some of the most powerful espers imaginable.\n\nToaru Kagaku no Railgun S continues the story of the Railgun as she desperately fights to put an end to the inhuman experiments that she believes she helped cause, her life dragged deep into despair in the process. There's never a dull moment in Academy City, but no one ever said all of them would be pleasant.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/Bd-LBH1iQOs",
+                "thumbnail": "https://i.ytimg.com/vi/Bd-LBH1iQOs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/I1Yef5i7oDI",
+                "thumbnail": "https://i.ytimg.com/vi/I1Yef5i7oDI/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2B",
+                "source": "https://www.youtube.com/embed/TYipT9lbLuU",
+                "thumbnail": "https://i.ytimg.com/vi/TYipT9lbLuU/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2A",
+                "source": "https://www.youtube.com/embed/FlTz_yrqZaM",
+                "thumbnail": "https://i.ytimg.com/vi/FlTz_yrqZaM/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/yRVqp0B5QOc",
+                "thumbnail": "https://i.ytimg.com/vi/yRVqp0B5QOc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "mikoto-misaka-79",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0994845bbf567e17dd302d48c26c95cf.jpg",
+                    "name": "Misaka, Mikoto",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rina-satou-210",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9bf4fc8f2370ae9ec4c1db1bcd50a8f2.jpg",
+                    "name": "Satou, Rina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ruiko-saten-685",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f65d5c67bea0f00647299b7bb973c39b.jpg",
+                    "name": "Saten, Ruiko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "brina-palencia-192",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67b617fb3bda293fea66d48b0d4034b2.jpg",
+                    "name": "Palencia, Brina",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "kuroko-shirai-600",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6d11dad01b910272fed04ea02deb0c48.jpg",
+                    "name": "Shirai, Kuroko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "satomi-arai-156",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62de6a488ff4912c62b7ae2fc73c28ad.jpg",
+                    "name": "Arai, Satomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kazari-uiharu-2576",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d714b59433dd559425fde112c73003d.jpg",
+                    "name": "Uiharu, Kazari",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aki-toyosaki-60",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4854184378d2c54e1d939a56abb862fe.jpg",
+                    "name": "Toyosaki, Aki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "accelerator-127",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cbd5a65f57f2de0cf03af25e2e3c691f.jpg",
+                    "name": "Accelerator",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "nobuhiko-okamoto-13",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9aae11fde3482365907a4d59f655150c.jpg",
+                    "name": "Okamoto, Nobuhiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ao-amai-119545",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2f2a7b5dea71a2f0f88719f67563c584.jpg",
+                    "name": "Amai, Ao",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tatsuhisa-suzuki-93",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/baba2b34cab7c362d371ff21f6dc9f69.jpg",
+                    "name": "Suzuki, Tatsuhisa",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "とある科学の超電磁砲S",
+        "synonyms": "Toaru Kagaku no Railgun 2, Toaru Kagaku no Choudenjihou 2, A Certain Scientific Railgun 2",
+        "aired": "Apr 12, 2013 to Sep 27, 2013",
+        "premiered": "Spring 2013",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.07",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Super Power"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Geneon Universal Entertainment",
+            "Movic",
+            "AT-X",
+            "Warner Bros. Japan",
+            "ASCII Media Works",
+            "J.C.Staff",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Railgun",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9680",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1183cab41b9325effec1fe43f2ac1f05940a6459d1e2574977093a4bbed8507e0d39dbecd79127cf2dfa85e9c277155c25c515d183b3f2444a5d99f5f00d89e35ea147126ce9db8683091e840e8dd39949adea6e87230b2f9110ecac995d32f65fd8292834381053affa62cafb635324c588148d9624a4548eebcb962e2ff409/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7672f2391254392a51edbc8b2cfabb92/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1183cab41b9325effec1fe43f2ac1f05940a6459d1e2574977093a4bbed8507e0d39dbecd79127cf2dfa85e9c277155c9d45acd40fd5c391f923a545462b5859d052b19c54696d3104146bb63b009a40d15cf5c1ec43edb339c8384e442311a82acad748002b4bbfbe7c0f11c02866442e3b18a926bbb4b0c0ee35394de6747025583beba26213514a02ae33d4b719ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7672f2391254392a51edbc8b2cfabb92/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Critical",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9681",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0b422f91d09aee56ee4aff6e6b9bb51627e4998af58e59c29a4fed7640d88f86640815a143533a9bdba60cbfc795704829b7c636adae175a85a10d2c6ad98447c73dd99c7624f6414bed61e0fd0878b842d14ddd270b04b78c6cd8a776603c804e77c9c7e9dc9d26f7f00c09c0327e5ad6b8ab5e5fa96d2d7a6ab5e1e79aa55e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9be2229445fd7280dac8c908705f725c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0b422f91d09aee56ee4aff6e6b9bb51627e4998af58e59c29a4fed7640d88f86640815a143533a9bdba60cbfc79570481f2c18093a97b4fcb32ef32ff1b7ca3181f792891725b7cc8948357ab34b60ab7576a247587f71ade3cec54d2664819c42123988bcf8245681c61e89c0560db9a92795b3e83c75d1b0cf8cd63905c9e2c8d768a72f1616a1c302a1109ec3e8ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9be2229445fd7280dac8c908705f725c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Project Radio Noise",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9682",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1968c9c9f0bc6924ad72d95012a1fa7ed8c77c845ba67e86bb1b36907089dfd5e1de2d9f8186c625d2257755bc81d8ebc0806100f03b66136c99c923bccc9a17704d43286e642416d55c1fb53b532fd2e28e471996de38ec561de572f411337e4764557717a9a4cc3946d36842e0414e0103cd7de3a53b3ca9765ff9dd792fb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52e0798764cbe97df84428dc1111d5c7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1968c9c9f0bc6924ad72d95012a1fa7ed8c77c845ba67e86bb1b36907089dfd5e1de2d9f8186c625d2257755bc81d8eb952753d5bbf452f0ec6791c12d0f2cd1e678da1239dd8e73628f721001bd8702ee5c73f5a31e84a7933b2426c0078a7c1199afa7aeb74fd8d9c5d4b75faee305c64accdf3288c2808ce43da1def1f2d7f4cdc021962f3762687c3802c2c25286/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52e0798764cbe97df84428dc1111d5c7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sisters",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9683",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b5835a4f1b0c8d91febf6c14217a097812200653dd0f43c524c1c2550e4aa97da44780091a8b8b91030e7bc1d1d4311aa88f54bce7ce338c3cc3af7615ee08915cfb26d73aa14b9d694c08df3c586838ac1f017232c7eaf98fc69ed410bbcdf58e904bcdd052c13c7cede7789c79ebb66d1a710da663588c5fe5ffae5d0a58cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/649c732753b85d933666e3f1920ed540/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b5835a4f1b0c8d91febf6c14217a097812200653dd0f43c524c1c2550e4aa97da44780091a8b8b91030e7bc1d1d4311a9e3bc5c4d5004798fd645ab9362ee328bbd3de334850464a8cced0a93d7c325dd949fe215332121e5aed7f2832f0232fb12db621933c9d0ff418e27549a8ccdfc278896e60f1278b2c5013fe375da71c3153c02f311490680020ef5c794774b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/649c732753b85d933666e3f1920ed540/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Project Level 6 Shift",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9684",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7035877e1a62a0c2aafbb4c45e9126887bcaf908b0ceac5cf250fc6fe7c3f3b6db0e6e70e8fff3051d5531f8306a44b7da90b506bb227a5203efd15f5c8fb7bbe75bc80e9b8f787be9ffde78c361041a31e4d439288b9938146e1d9ecffb4b89360421bd02e381a88ac24b546cce482f4be618bc329cfbdb3903dc7618a06b42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3a1e7b5e2d512b1b308d0b29ac1c629/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7035877e1a62a0c2aafbb4c45e9126887bcaf908b0ceac5cf250fc6fe7c3f3b6db0e6e70e8fff3051d5531f8306a44b73c45813d6e24833710ac5ce9a1804be6c42537083a209c72e3dcf5d53e42144820f12c89ca81f452328e86c8e1a0d958728b20c201273cfeaf9ffc0309a21bee029170bcf6b841ada3d15c58a300834e760c66b739bb2d43b2083f8be3024a37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3a1e7b5e2d512b1b308d0b29ac1c629/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I... Can See All Of You",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9685",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8e3f1f521bf78beba10c06539920c1f19f4524bbaf03632748746293bd1da9828a9ab42992aa0f5a7c10df824a24c1d2bb1ba35e088005aeec2c66eb8961067bc947944a85560e95b1ac0feca2806affd8d16644792ed12760d4b0a843878be7b620b143a71fc9226bd78dabc4c8bc86eff51943e8ea9838dbb297b1961b64a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d3a705516d704b70a51c2dded959cf7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8e3f1f521bf78beba10c06539920c1f19f4524bbaf03632748746293bd1da9828a9ab42992aa0f5a7c10df824a24c1d2d65efba8186457f9571f9779c5aceda6b571b19d95ef275299176882360605c775da4b6a27bb2d8860ba17b724d128fd8e5321510e2d634a017bdb5330e9475fa8fcc5a2d6ed40801d33cd0dab71dee26ec995d7ef61347a041e807098462b56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d3a705516d704b70a51c2dded959cf7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I... I Want To Be Of Help To You, Sissy",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9686",
+            "number": 7,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fee18e6a1ebeb3246edc1f6835aaa2c22b9fa1d01962db1190fe72e27765f7292d6b230e9265730d75aefc7604f4cc42072bcccdedcbe4a91650bbbdf77b09fcf4ea5062e08e7c2cb34482de29a81193c3e9d79682d168ddddbaff460d88cd27863d93e71aa682ad95afd215d9e61b8a422d5dde6fab21031aaa069011375eb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e589be66ca513d42207d5842de17dc6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/fee18e6a1ebeb3246edc1f6835aaa2c22b9fa1d01962db1190fe72e27765f7292d6b230e9265730d75aefc7604f4cc4266b9216e8e67e0453f8790449d1f4aa62d7aa56a297667c7d9e5fbda5af19204e0d56b9a4738f0b14b4923e47be8069f4fa5db0c510c2fa35d787d24b3007192ba368cd4d8a1d808e90e015522a1b46d08e2f85b1ef8fc7961424b427717f9d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e589be66ca513d42207d5842de17dc6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Item",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9687",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0ca8ebeb20ee8e1170a32f8c0070e3529f0655a1ef26e27c363169335a905ae509a388d8d52e5aa3ffec2f2d7b145ec5881877c65898eb2fe9e9bd35e0dbb4d2b43a712d572c6b2dcc44c9e649f7c5bb61f7701d2bc46bffb68fe71b89897763d370140db964562b57821a4ba40b9e268eebc885a4f0a39c4cd038a4f567bdd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4baf54f28b3dc761e1b743a17201a463/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0ca8ebeb20ee8e1170a32f8c0070e3529f0655a1ef26e27c363169335a905ae509a388d8d52e5aa3ffec2f2d7b145ec5b2317359671a1dcb21c03d1056205827576497b67a9fd9ead90948850427c85fa2f549dc3fa1b63d0b0d2538e505a13d4eb8a11918de8bd81091313eed7bc0366c02574db0e1e0f3089f1cdf2bd66053bf05c1e207fe5a2f22eafb6a4d94482f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4baf54f28b3dc761e1b743a17201a463/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "AIM Stalker",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9688",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4f54e58794ed67c1f60910c739caac1e046b1373fa5ac4fa0b75d8b68d1b49c69b374d83cfdc3fab1a5f39f01a655ca2bd98f3b74e671a47fb26a514d7d7621bdfca51ba04c41a3730d36ce64428b64966fabf599a59156775a8fac18a9d9d9c7d80ca069e5fe2044badd3d55d8087cba1e9f15777489cfdf00a4c795d199f99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7158dc005c5c113211bde5f9d59118f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4f54e58794ed67c1f60910c739caac1e046b1373fa5ac4fa0b75d8b68d1b49c69b374d83cfdc3fab1a5f39f01a655ca20e03a9e8669f4ed3d1cc03777d293f6426d75632207e2600862a244b8020a21d49674db986f28fc3bcd05458551a37f4f3182d87ecf5eb55e2fa437dd00d91a14b72d7f0dad66d457764bacde8cab1914bce1eb5bced6de74726da76f18426bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b7158dc005c5c113211bde5f9d59118f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meltdowner",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9689",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f940e529b305bfde0d4d36346d8721d9b6d2bdfdfab10a7bee7d5fe3a45bb97730eff5d0034185f7503d809f1797b3a5040dc48bf9d962cbb4a8f572f58e25fd9305e0417338320faf849bad3f54a99e2bab2fe61ff22d4260ab8a6eeceaf1db25b0921631bef07b67bd1386fdc59186d51809b3a42fe9c84684131239e799e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d9855daf1396c15824bd093553d719c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f940e529b305bfde0d4d36346d8721d9b6d2bdfdfab10a7bee7d5fe3a45bb97730eff5d0034185f7503d809f1797b3a5a3130d16398db3186cf15917b4e395d50fc2ca94a383175fc6d73e5888fdf0c0f90d724765aee18940e4bb4c2af6f324db4cef97e2b00e8ae8ddf421f134762afb65654cbc687fc772aa74c416eaea639c7bcb132b2b7c79565d747390e53b5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d9855daf1396c15824bd093553d719c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Vending Machine",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9690",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c1650da340448b279bccbb2856762c25e8c8d04920ec14e103c2166758b9cc2cd7bb047414ebfb69b462c3a57e667a07ac4f254ed14ff5619f2c7812746269eb0b61f6b375d96d174cd7fd4baf2b9959da2a70b94a43735cd5eaa4794b96b2fdda91e1f12d0da1792c6c1e029b3f67208e7b0dcbfb7f9b4c99a869c10d6ff1f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbfc835b91f3df7bb648a3972f71714c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c1650da340448b279bccbb2856762c25e8c8d04920ec14e103c2166758b9cc2cd7bb047414ebfb69b462c3a57e667a077995b653734af4c3e59dfbfd273ebd1ad9b0677d4df63ebc2bc0a562a5dc50857a155582ebf3ba19a0da99ab3cc37f2eb1d39d391300c5e844f1f0b5390e2313acf8af04fce46afa00e3b417bae46bab978abe8ea9e00e553d9c4266ba9d9b28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbfc835b91f3df7bb648a3972f71714c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tree Diagram",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9691",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/413c984aa01affbe174e16304e2016b7e007a86cc67da95b06139d82958adb8969b48f790ebb7a3447476a6dea9c7610f625cad23846e93739dcfeb19290c92eeba19b26cc2b09049b453285cce4585eb44bc5a137776f5f8b0c58d0732e22aceacafaa07fd895770d1a826419423353d750ef8279661671809d9329d7d3711d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71d7b17d095759c80e62ceb1e4481464/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/413c984aa01affbe174e16304e2016b7e007a86cc67da95b06139d82958adb8969b48f790ebb7a3447476a6dea9c7610a89dd1698b8f55df2f9cac9d24a47faf151f23ab5fda2b8d3a2a9c2d70bd56b9d46a69060a2b338e62b1a24636400767a51cd8ca668dbe489173d13a78342ae99a5a637fb600678b7d0f5eaec792a2aaf30df67b44508dff283bedc76eb0e4d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71d7b17d095759c80e62ceb1e4481464/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Accelerator",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9692",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/26d388c8a37bdfe0853a6c4ebb486b0b8da5b828cb4352b55839197d7a3c6591d2939edc906db2baf5f473c80f040e4215f6452f17d3f32c81fbad6c6eea432d31339f8402411df222ad85055f46c023e75e1627a9f7236ac6a4e96d0e9c50ad24c380a7322b27553c7ad10564f40149cf83cc159c27d0e025afe1c02a3010bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06dd626218960343cc1d9f0f1d9628e7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/26d388c8a37bdfe0853a6c4ebb486b0b8da5b828cb4352b55839197d7a3c6591d2939edc906db2baf5f473c80f040e42c5d1f4b2b55fc8d27241c44918e68654d629c6ef0f35a15498603a5993d44b2ab5294c957e646c33671e6f117afb43bdd57133257428e5e2ac7caa7154b8a5823c65ccb5b74ea8c070bdfc21c0ac853561d03814e529082354325a954fd3f891/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06dd626218960343cc1d9f0f1d9628e7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Promise",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9693",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/54b03e9ce09a0f2b713b0b0fcbacbee3250315dedc5ed695a3e47770b3061a268689bf049115ee20dfff7ee9f0b49f3b484b7c31bdc9f4127253b81cc894386badaa363a1b8dd549c01a27ea840339acd3d8a392e0f2b2851f6804ac42517ceaa43d07b28f922bd833cc035c953a1c37e03380a2e32a4084d5aa0b2ec8c54481/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25ddfe5ae804d8366ad65d1e5a24e82f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/54b03e9ce09a0f2b713b0b0fcbacbee3250315dedc5ed695a3e47770b3061a268689bf049115ee20dfff7ee9f0b49f3b71a9f0c6b9f4d065ad6baa337b2c485fec3dea97102dc02a3aad9cf90bcae89f17dc8eed6ab0885f543cd9315f46604d1255aeeca3fa07006ff3bd808efc91b65b9fa551eee0e9f287f64ef6315a2ae675d10d7ed9c61a7b948a3280668d6712/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25ddfe5ae804d8366ad65d1e5a24e82f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kamijou Touma",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9694",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/91a159d0ee7fb17b8d7d0e4cd7f028f594ab55f338fc79184a8c07bc0f9469b428c04273d109945128d30f10b1842f6c4f85de6547f76593428dcd7ae0bd0b7d7052f44907f788bb4e7fd0e92314674bdeda54af3f6917bbf832ed1a7688713107762be9a9d0a9b03473851b902e8f6108deaaead51840c1c232968bb470363d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a85dfa22f3b6ae2ebc2314e66a9ce0b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/91a159d0ee7fb17b8d7d0e4cd7f028f594ab55f338fc79184a8c07bc0f9469b428c04273d109945128d30f10b1842f6c4888eb3c73827dd6999374aa1400e8d2e41c51d7e09e8b220f230cabed8b9e1bbd753f1182dd65410751db748f43d9bf7ddedb1592e37790dce532830871c50c21a18ea86e6a1608ee5b01b745976263c2967bc554c317017c80e0c25c5adcd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a85dfa22f3b6ae2ebc2314e66a9ce0b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sisterhood",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9695",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1b34bcc84cc91f502f31dd52c26640a9ad5e2c460cbafa793d0d51ef4b80957426f480e1ccafaa9da12993a416c1491fd6c1285af3ab166ea8beb59df5ae0414e281533488afd4f6380d6c5b27cd63bcb4938fdb792c02c64a81de50a805ded88daf8cb477dc4b4cff0908b55c198e894994c625dc37e80f5acd28e33221b20f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32093a26228e83c5562ad81bc9987e03/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b34bcc84cc91f502f31dd52c26640a9ad5e2c460cbafa793d0d51ef4b80957426f480e1ccafaa9da12993a416c1491f38427bb67edef8a8499c5abddc9fcce2ae36445f553d256e1b8da37b5416f54bfa897b4fb071f97ac903e80ab98305fe189ab8ea767954c7c42bbe472d7b89476662f16a15d6863e2760bf05238effc77c73f592fd0db88922bf85cb9cf5d203/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32093a26228e83c5562ad81bc9987e03/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Study Group",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9696",
+            "number": 17,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1767a9646c5c5c033089839def8edb1b4846cab7cab7ad4890fa18fa4954811ac7c72bb759a4d033f0d5e5e8977f19d7a90067322aa1d3bf3d09153c9d643476bdd7868318ad7575202976d2e7a7f959e6fbd06fdce0bf6b941e432fec013b7fd01fd35c0a0896a227cedb45188ed4f9bcc9dcb6890ae13cd525384f119067de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ec93b305a598fa880565e58bfd2bc97/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1767a9646c5c5c033089839def8edb1b4846cab7cab7ad4890fa18fa4954811ac7c72bb759a4d033f0d5e5e8977f19d70b5fce7b1d24898549de416019356529e6cd6bc15ecd70a1be9f8f67a160f980c2294a5e951cff77a425df9fe6027047e5f4b56915a6e29b927dc408bbb70ae130435581d8a399aece132c4a9853e109f55a27a13a3c11fa8fcef1cf705ac936/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7ec93b305a598fa880565e58bfd2bc97/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moving",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9697",
+            "number": 18,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/27526928265fb847bfe07432fe434da5443490ebf55f2b64a8221394164c1d8dd2dfac5fcf1f7a306c67a195b069bff7dc1b5efc96f1392fc23c85ba5cb5e5fc3fa0af0cb046bf409194f4c5dc593d0a79aef9fe43c28ff5ed2a0ac031ad2cbb18d619cf018a1a1e2691dc662f54176b511d65d2679683f637597f5c3bf6bd82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d76fe10787cd9c64c67331818d3e05/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/27526928265fb847bfe07432fe434da5443490ebf55f2b64a8221394164c1d8dd2dfac5fcf1f7a306c67a195b069bff7e11a77a938e585ddb685eff80f9e1a49b767ea46ea1e465ad73f9585eaae14c4fb1f60afdcf23407460b1aaa8245e22805902856ce969501e3c7c8f3ba0f90f553ec51fe340535dee7eafb23b783e5d7e8a782a1b56a368e8bf374f9d044262d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3d76fe10787cd9c64c67331818d3e05/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Academic Reach Assembly",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9698",
+            "number": 19,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2b6b774abaffa50dc1c809ef959968083044e8df20579dac1aae69e36a3a5b99ad045760b84add69f5d5a8550303f51f06333fd728a3e8d2a909c4cffe8331bd09a94ef4378ff8d60e61853e39d4487695465bd8db5f4eb4f9dc1fdf96e2f570460df9d88681b53fe530f1436eaf2361da01e6f7c77bd6c6214004b28548bf7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0632e6a62bec656690a9bf8ae6261f8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2b6b774abaffa50dc1c809ef959968083044e8df20579dac1aae69e36a3a5b99ad045760b84add69f5d5a8550303f51f7eb42bc5704171a477e4b6c2879a55d290137a8a41e679679c10e90d44cd28bba3eafa174c0051a23a192c7b17ebcfdbf1b570dcae7c2e32373c7651a4d9c4a5a7ff5fe63af7d5b8a3fd29e9f2df62faf65cd5ea3f908223c4df2c33e6d57a9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0632e6a62bec656690a9bf8ae6261f8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Febri",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9699",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6d95bf5c4b025b4bdc077ec2b5e5a446dcbdbdc5ad9d6da31dcbf8079607bb7f9e9d19b63e9fe4d0fc179a54ae2d1b4870bac6cd8928adc2eb8599bfc416342399d3f37b9e0910eb326827e44ef11d426eb55eeff9eb8b92d968590865400effea9c44bc57294ebac18da9f9a8f924abd56ef82195a921bb5916b2af28ce1943/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d004e15ddc31de86d4d181f30e158dd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6d95bf5c4b025b4bdc077ec2b5e5a446dcbdbdc5ad9d6da31dcbf8079607bb7f9e9d19b63e9fe4d0fc179a54ae2d1b4828b656093fe11af975e569e11aef237a705359d9213cacd6af96230fa6009682f23b32108beaec46c1f6dd7227ed5a8771435acead408cb8cc58c4300b7c12c2d489e49c58658c605d05e38fa993b1b6b1bba953b2f5f9df3553ce15831997f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d004e15ddc31de86d4d181f30e158dd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Darkness",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9700",
+            "number": 21,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9bbeda3d4e3884911bc0b4c03445608575b05caf608d068e36fe207f799212dc688bd7878a9b8cc897eab74005be52c3699a0b0e8b5793885cbbdfcf0b7f0efde17507d97f73d7e70c3a2b14cfeab310ad4e22ae1671a703c5ce986d00431ed863b7c751e861e1a5ac77071f2b9496310929ae75449a45955e4fa2aebb2315db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f16694eed93e918dadca7ed97ee5a811/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9bbeda3d4e3884911bc0b4c03445608575b05caf608d068e36fe207f799212dc688bd7878a9b8cc897eab74005be52c3240b8bf1f75f648404221c02eebd4fdc41bee6cbe2402c4b10bb8e91083f55b375469378eb2ffd624eb81de96871d2203be85f4a7ceaae6266af51709b534aef01a643da3979438d36186141c1cb1403dbb0089040bb88a6a7ca6a9d84171e0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f16694eed93e918dadca7ed97ee5a811/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Study",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9701",
+            "number": 22,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5db8806dad85f6a7a839a9630d33fd8b11f7017c3ffc7089a5f5a4df32267ea5ff289a3223e8584044e01866823e80856211ad7a4ac8ff2c50abe45da782af6f543ad787d967fb945f3592ee3e7a9524c01eb1062cd0a7747679e8b1609caca6a19b5f05bc37e435ff276c90f37386a44631401a5d1241dad2585b7eff46fa78/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87709a4655deb2be14d3186aecab4b2c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5db8806dad85f6a7a839a9630d33fd8b11f7017c3ffc7089a5f5a4df32267ea5ff289a3223e8584044e01866823e808516f907140858d7089e376d2e3b541f6baa83e86b7424f39fd59c0cfbb8316b05709e37e1177b519e55514b2c4419469adbf06d84fcc368c27216e438658a7a3bcd2c7b1dc51734c9f01fea21e5245346a61b57dc03ffba68093ee5d8b0bb6da7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87709a4655deb2be14d3186aecab4b2c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Silent Party",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9702",
+            "number": 23,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1fb8d248ce7c71e3f4b0dbc2483c07c7e52976d495da90d02b98514f4014c32c202e2a601129a2cf8860d1b3b873d7e054bccbf2b11bf53c600d98103747faa8cac83b14a45100c9f19b3f480ab388a93b3d0185bc16cd56bdfd1b6139fc2f885d6723a709de7a6736a9c2aa662272f850f51bf097c41c1d82b9d6762d19fc7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d6f4f2eb7b53d64014d9a383c0ce4cc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1fb8d248ce7c71e3f4b0dbc2483c07c7e52976d495da90d02b98514f4014c32c202e2a601129a2cf8860d1b3b873d7e0731b0dfa84ee888429642af18e5ae37d431bb0d9f1a1429c9d8878fd11f087c65932bf67e545a5ed6c5836cc5ade495c295a7b5963c0a532b8a99f1e1aefecaa6821a18a406df9638823d424eca27fd8285aabde045d491af0b407834d78bfa5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7d6f4f2eb7b53d64014d9a383c0ce4cc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Eternal Party",
+            "episodeId": "a-certain-scientific-railgun-s-453?ep=9703",
+            "number": 24,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/357d4a1d3d6e658375f5571b9e49eccd276b5445f98395857581b81a6629c645aa9ef4c51010b14c4149a1a22845ecb9f4aab159f3e07c4c29f7a87be3dc0437a283a3587469800fda73375e29e19efe34548a341c4555edb76b290118e67d8bac030602b08e1b0ffb6df874380b0d8517561b9829ff94c105c8135b05bb1407/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/186c5299595b9fd1448048c557f1b414/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/357d4a1d3d6e658375f5571b9e49eccd276b5445f98395857581b81a6629c645aa9ef4c51010b14c4149a1a22845ecb9a827a69ea85b16133aba53614c9b18e2ed05a91ec2cae0a67177bd9ce5b6ebe23165627a3dbb510d6aa10a7da2c4709783193fdeec06b3e31850e6ce9513568836410f22e12ef377d76b4bc229ad05ca83b43721b29cc369fada428c86613bf6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/186c5299595b9fd1448048c557f1b414/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

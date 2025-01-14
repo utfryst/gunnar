@@ -1,0 +1,607 @@
+{
+    "info": {
+        "id": "magi-the-labyrinth-of-magic-425",
+        "anilistId": 0,
+        "malId": 14513,
+        "name": "Magi: The Labyrinth of Magic",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119db3171acab63d95dc40a3cb8aeee9.jpg",
+        "description": "Dispersed around the world, there are several bizarre labyrinths hiding incredible treasures within them. These mysterious places, known as \"Dungeons,\" are said to be the work of Magi, a class of rare magicians, who also help people build their empires by guiding them to a dungeon. Djinns, supernatural beings that rule over the labyrinths, grant successful conquerors access to their immense power and choose them as potential king candidates to rule the world.\n\nHaving spent life in isolation, Aladdin, a kind and young magician, is eager to explore the world upon finally leaving his home behind. He begins his journey only accompanied by his mentor Ugo—a djinn that Aladdin can summon with his flute. However, Aladdin soon becomes friends with the courageous Alibaba Saluja after causing the destruction of a local merchant's supply cart. In order to pay for the damages, Alibaba suggests that they attempt to conquer the nearest dungeon, taking the first step in an epic adventure that will decide the fate of the world itself.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/2E7o26G1T0c",
+                "thumbnail": "https://i.ytimg.com/vi/2E7o26G1T0c/hqdefault.jpg"
+            },
+            {
+                "title": "PV Comiket 82 version",
+                "source": "https://www.youtube.com/embed/7qDfW_ZqMiM",
+                "thumbnail": "https://i.ytimg.com/vi/7qDfW_ZqMiM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/4BGIQGkpDEI",
+                "thumbnail": "https://i.ytimg.com/vi/4BGIQGkpDEI/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/r4KERvhI9fw",
+                "thumbnail": "https://i.ytimg.com/vi/r4KERvhI9fw/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "aladdin-623",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa04db0bc451a3f75c02af019aafcf96.jpg",
+                    "name": "Aladdin",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "pascale-chemin-4183",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/81077d46521512052961217f6e839da6.jpg",
+                    "name": "Chemin, Pascale",
+                    "cast": "French"
+                }
+            },
+            {
+                "character": {
+                    "id": "morgiana-351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c97747a822344856d75e315b399d048e.jpg",
+                    "name": "Morgiana",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "cristina-valenzuela-386",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2b655018c54838ccaccd49f0153ca5ad.jpg",
+                    "name": "Valenzuela, Cristina",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "alibaba-saluja-544",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0050b5ca1d07160f7878f343bec732ed.jpg",
+                    "name": "Saluja, Alibaba",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "julie-ann-taylor-3143",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bc06e7508d15acf070e7f7b027eb4fce.jpg",
+                    "name": "Taylor, Julie Ann",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "amon-79336",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2955b8a79fd09ee25be1ba24f93be482.jpg",
+                    "name": "Amon",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hidekatsu-shibata-1073",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8bd4edfacde0b76bf6fb04d59f7d7ed.jpg",
+                    "name": "Shibata, Hidekatsu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sharrkan-amun-ra-5500",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a91dc3b82018501f344f4d3f7c6719a3.jpg",
+                    "name": "Amun-Ra, Sharrkan",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shoutarou-morikubo-253",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3df6b3d459a857eafeb33f1f6a82918b.jpg",
+                    "name": "Morikubo, Shoutarou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anise-43018",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa0c7bad0fe64f4ed7316eca5c7ab91a.jpg",
+                    "name": "Anise",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "karen-strassman-1038",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d78e715572a8d5bb788fd4095e99c952.jpg",
+                    "name": "Strassman, Karen",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "マギ The labyrinth of magic",
+        "synonyms": "Magi Season 1",
+        "aired": "Oct 7, 2012 to Mar 31, 2013",
+        "premiered": "Fall 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.09",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Magic",
+            "Shounen"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "Aniplex",
+            "Dentsu",
+            "Shogakukan-Shueisha Productions",
+            "Mainichi Broadcasting System",
+            "Movic",
+            "GYAO!",
+            "A-1 Pictures",
+            "Aniplex of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Aladdin and Alibaba",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9233",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c98b0c1e84f760c89eaa3312c33cfa404f36cc848a6abf8c6c161bb43c28364646ec568b6c3766089ac445cefa201be58a2ad54094d72d22b6c170e7fea25aa10ff0a1219c065f5802f55a48acd4fcaef6b91a95141864906d5ca7fc3693263dfb03ecf29d9cdbe2eab815ad99040f18458a9fa95ff067b5865faa2ade9e4c10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a695cd748e9f5fcc69aee75006c4a255/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c98b0c1e84f760c89eaa3312c33cfa404f36cc848a6abf8c6c161bb43c28364646ec568b6c3766089ac445cefa201be567f5598183d5bd92bb20842beb5ee7ac836ed293ef1600a1c1fa155a52b9ba7b7f92f0ae26d010a1847dfe61f92da623bef4ce84210c130d6437613350033d0bb7246d3806b761a4ed7161491f477396facea4767a3c757aa29262dd57f20378/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a695cd748e9f5fcc69aee75006c4a255/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dungeon Suite",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9234",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ae1bb4aa277831864216980d1221ef5d8f1fdbb77c9efd63270f95a6c5ebdbcec7c748e1814a3ce78d55226c2cc911a04bf1e3605767996cda130f26f67aab615b6b3d4e8006b2f200f2ffcb5325ca294023961d5996ca62f98004f300ef6757c8a1d6b9a7e29985ca27a43d5d665cacbb1199fd506fb2f948cfbb09efd859ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c69d94d9d77eca599de8f488999a0972/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ae1bb4aa277831864216980d1221ef5d8f1fdbb77c9efd63270f95a6c5ebdbcec7c748e1814a3ce78d55226c2cc911a03081fc422a462b15a65178dd54cf834e80abd6e06e93de1e3a4dc81d56527b73ea0518da5cce34d85802610c6529e9f3126def708ab50c120e0016fd7991b6a30bfe0925911449e1d81624d00c1b7354fca83ba18924a277c1d61b2fa6352aa1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c69d94d9d77eca599de8f488999a0972/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sorceror of Creation",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9235",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b91065fa6c5c8a4b9ed440fbe47e39a277e9e8586a996e4457204b15092916b21392756b12491720a1fde1701ba3ac84ba77ff202586c4b86572d6892ee9c3450c574bbbd88f2bcacc18d0cfafe330f2ac9846de32fbc11fe80ed5622c76c9fbc8d8b49e46930eaf8b1b4c7b48a0da51256411eee9738ec20423db593982313a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eca49741a1b4c4a141d3d5ea5e187b5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b91065fa6c5c8a4b9ed440fbe47e39a277e9e8586a996e4457204b15092916b21392756b12491720a1fde1701ba3ac84350ca331ed33348223f780678e2983e7718ded15cc24791db0fe78d9bf6633774a05b291d7ce46c1791ca553804bcb86c72521b6a74c0733942fd4418665535479eeb68b9e69467e9669766214b52ff1e2ee432bb6bcd015a27da7000688336a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eca49741a1b4c4a141d3d5ea5e187b5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "People of the Plains",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9236",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2d64f1a3bf557677364fcda1f81e665f324b503895a1e35d32968405ff5134db8ac6db9334af57f8dcf2cdf9347dfd2fb3c4c01c3d27959f6ecd61155f92ea56e3b83d5a2edc4ea5817e47ef02c533ea27500b4bb8d40b79681af9954d03c5ba995aa81fabce22e01104b9863d02c8138087d8598c41364967e955e24dc1b4e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbdc55ac3eca8be660445927e5f1177f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2d64f1a3bf557677364fcda1f81e665f324b503895a1e35d32968405ff5134db8ac6db9334af57f8dcf2cdf9347dfd2f6e89c690099c317ac6f02b4bc6bfd3b23a611ef4323d45e13eaf543c55b4d90dc849ef22013f6d1e553e3619c20aa8386b64659b3c78234cbd48759963e8b72e2b93512f0995ec22213cbe308bf91c6c376abd4d4f03f7f38313ab97fec3f253/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbdc55ac3eca8be660445927e5f1177f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dungeon-Capturer",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9237",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0ae861abc8f7cf81e4703a060e057baee15f6146425f356c0abe82af0617e56fd79310352e4a45cfb6496a01180efdbfee7234b1b06ebf7b997db8f85f65391592123fdf2bbfa397f5bf3a010cf81a290217ab38ace89c0d0748ec5495442448fc7edfe65bebe41909d20520d2b3a81dd8ea285a95df9fa183a1b1d5dc126eb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/693f81c1628ce8a06b10a2bb35f841d4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0ae861abc8f7cf81e4703a060e057baee15f6146425f356c0abe82af0617e56fd79310352e4a45cfb6496a01180efdbf7366fba15fb7e010f71477fd5e0ba72fc79825f2c2330b5373a6a273c77924081f8e475558597c3cee3a7d500c21f2f93ba7ad2d73a6974abd2f933aab6510023e0a8177d22804f67aac71d32cc45dee0d2a5e087e3adbc75892cb83f9da0384/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/693f81c1628ce8a06b10a2bb35f841d4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fanalis, The Warrior Tribe",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9238",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4b75ab347ec7d3dddf9518324b9d6c71fe2ac9bc61a0cbe087e11e02ff1fcb0df2cc34de393d6419ddc319418f787019fd0cc1dc04e191e906c19e80b0fa0cb1fd0a3da960cb279f749227ac6370c3f3a979a10069571a00c000944dc24c55d2e98fb162f7c96c7d1c30a73e90129d415e7501dccf63a5a41bbe102e62f5aa3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c97e5b2c5e565bd35ffd69101ee8d0e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4b75ab347ec7d3dddf9518324b9d6c71fe2ac9bc61a0cbe087e11e02ff1fcb0df2cc34de393d6419ddc319418f787019770cfef6deb46cef2adc54fcff3fcbb965918373907f4278e939e0604f37941564b520d7c91f0acf6a0b86af79d3af0d49946f12cf5b6030495035fa093d5623938e33b1ce49b403444aaf7ffc50ef712422b313dad8c55ec368d1da7b3242f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c97e5b2c5e565bd35ffd69101ee8d0e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Name Is Sinbad",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9239",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1a5167f9f9e016f2d31a8262c64b33b032b302e973943f2be774d24f2b39996ea6e8cfab4870a162920e598e837c831540ffb28d3e01eaaa1b1001c9dc70803772463eb889231fba94eed24016dc5c63d655a5026493da18e145a2b0ab807b1810d146644263ff55bea7cb72ed034da38c089dbc830031acfcb4986436886066/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77bee7b3c9c67515938ae3dc8ab74c59/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1a5167f9f9e016f2d31a8262c64b33b032b302e973943f2be774d24f2b39996ea6e8cfab4870a162920e598e837c831524a8ec6ccf5dc8801dc8ebe53c211187f66f667c6f47dea219cc1c178be67bf171323edfa581cb03923c30a29e649a451e5688dcfb4eeaa57cf3fe9d69be39d6c7ea01b645f90a29f8dada125f132cc2d2ae74211b4f2bf51549602bd46a055f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77bee7b3c9c67515938ae3dc8ab74c59/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Promise That Can",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9240",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/10ebea98bb66cf3c542d9876c5707e8f367ebedf39ca0cad7cad5ee529a74e18f3eac97c742909ce4cc8405389b969338a0fcf8b962e03ce87325c92a820d8a23b809d94e979adc6bc853e4c0ae8059006c82befc6435bff866363ab2d4de4c77149e397c49ec9a90a44e0f56694d8f37e553ce7daf68032f6966a1d08bca859/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bfe93835e686a45d6687465b28274f93/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/10ebea98bb66cf3c542d9876c5707e8f367ebedf39ca0cad7cad5ee529a74e18f3eac97c742909ce4cc8405389b96933808419deb6a8ba3d83b018a2b9b6716e67cfb0710cff000149490c20226b3eef98430c0920a3b832ed61ca22787594ee43f5f6b8b42303bbd22743098e3b277ab140ae9b5cb7ee61f913fc3d74ef6e65073017e230b070b54c889273c544ecd6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bfe93835e686a45d6687465b28274f93/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Prince",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9241",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4f0b512d1d28d1fa9d3f16553a04b1293c4084f01ede0507a98fd964c711543c1c9c25767eff4e246ab4320a685e6622812145810fbcc3482024d484106e3ee81a5be820514267aa6b6ce86472754683452ef115fe945d26ffa24e79cb1d85b4994335e58b2faff3aa3ad70b7952384f2ff6907dbba7da9fc5f215817f08b7db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40fec4407f21949fa8f1c51ac71aaac8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4f0b512d1d28d1fa9d3f16553a04b1293c4084f01ede0507a98fd964c711543c1c9c25767eff4e246ab4320a685e6622582610a8827cf315417c87e4ad8a77e56fbfff48a2c6d183e77917739879fda03bb807397bb21395ce2e3fef4b6dab3334ca794ce4d54fad189fedbe82c18789d6e617551e6650c7e4253f237f9e7a84934ebddb1c432211390891961025fb63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/40fec4407f21949fa8f1c51ac71aaac8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Name is Judar",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9242",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/12e152a299bab99e7f077551d60f1b7c8084d7c02e174329d86d5f5dec0becbe439b08f502ff3732a43508dc8db8d20150ce4c86032cc0172527f24e4c932c64c9dbe653e0f95688b11efe4a14ffde0d2ab2a82e389e853ce45f20ee627bff984c78643802e113635ee90b30126f0f224256ae54a326663c5655afccb7d89b5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdbd74448d0d3c209ed1c9247d5126e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/12e152a299bab99e7f077551d60f1b7c8084d7c02e174329d86d5f5dec0becbe439b08f502ff3732a43508dc8db8d20148356e19d8cc2f73bd4673f123188a8a7bfd1045083d7cd812f3e7f774e0718140f217fcb353d7f8c25649779046b4f2aa85a33c3f7394a8068b075e8bb59f97fa9b196d7ffc45230a6a4c7f902a1c2c4ff1d91ce551cba4f46f17446c18ec80/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdbd74448d0d3c209ed1c9247d5126e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A New Visitor",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9243",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cfca9b54c5431afec1b0b7badc7a5ecd26e7d753de3090aeb4bb34dadde6531116878c63f631ecdb302a73ea21b5fd75fbfac4c72120363932b719b9222d05625d01909a714aa74cb883ca7c2932826c31bae8b11d0886359e9980d0e3ff3f64b9f00abaebb42f345c585c4ef66cc4657c6ad9be656e31b34c4d3f2e1ea48cd4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e2d9197c6e7e13c9a2d766642f90a12/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cfca9b54c5431afec1b0b7badc7a5ecd26e7d753de3090aeb4bb34dadde6531116878c63f631ecdb302a73ea21b5fd757e23c0bb56d31e4c8eeacb96697891edf5cd51876581289d88c87cad9cb9b39c6b4038d4031c4a1b90908dbe77e2db9f395aee810c8f32ccfeed753f4b58a9ceed29487ea8527134e8fce3c39202ab21b8697267c26f8ef4769b6410bc5a68bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e2d9197c6e7e13c9a2d766642f90a12/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Decisions and Farewells",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9244",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/dc8eef283fbf8ec2dc38b35f93578c327acd851a1e8db8e38f9a46ede829e26bf6299749badebbc413590c8e2b856bac415006fccc457172affe23b90ffbbdea397ad906a94ea147de4298bf5c92b46cf2f61820a50998e4a2f411a6ce29f9f21f784aca1eb3fa33f8c65bacf3e3bcf18568afdcacc116b72f5892e77a68b8c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/719142a8e6f7d6865b58f087e9a26859/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/dc8eef283fbf8ec2dc38b35f93578c327acd851a1e8db8e38f9a46ede829e26bf6299749badebbc413590c8e2b856bacba88d86cf1483795f3803dcc249f69467ec0ee9025541ccafe27955abb9f909c6b33be7a9139d7c20932083c27896f76fbbd6e74f794710909833c5addaf995b801630f920e1cef97e9d1adab5cd24bf99373ffb18de57d0f9dbe93837aec16a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/719142a8e6f7d6865b58f087e9a26859/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Prince in Revolt",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9245",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0cfdffca5ccba0280542c9c1660c4bf49dd0ed0d615c44cc5cd5a9b6987fb8397825bee407174dac8b584255b64879e3ac7d5fe92cd085ff229cea252186168016df594418d416019d8b6abb342f2911f27b29a27bda37f0ec857c9b82b2d143848258645b2107345df505ee104c5efd221919b25eb8f78a6595c093195a11fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a71abf56f71e027415c52e957992f8e0/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0cfdffca5ccba0280542c9c1660c4bf49dd0ed0d615c44cc5cd5a9b6987fb8397825bee407174dac8b584255b64879e32d45ff04fc40f297c9815bc9d115767d083fba6da31efcfba1ee35ae5c878fc9dd4912deafb7dcc7a5dbe88eb153839efaac7d2ee0fbc0ff4bd06d147180980f724bffd7546813b81fd587cd1417c21db6fd69572bc827653552d19f5c20cdb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a71abf56f71e027415c52e957992f8e0/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Alibaba",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9246",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/87636c37a8a7e7f16f6d01564b62c24049a27e6f4f5e34c4f5999ab76e389c5b62c6b96d3afd8b82d90524ebf9748c025e77da179cb0ed77726b912319d6c3881c0e176df4f370deaf43669ee42918c2692fb4b4e5dfe8dc5929a129e7369651d5cfacd9542b5174a226e0cba9f5c29da5c86e202916e14b4947cd590985369d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfbb9ecde6c7460786b4fdaed552a35a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/87636c37a8a7e7f16f6d01564b62c24049a27e6f4f5e34c4f5999ab76e389c5b62c6b96d3afd8b82d90524ebf9748c02b9dfa87d541df71ac381a0aa157b9d366f5d6965e1a4d6f4b1e2630c66c32f91a407cf7f23ef7d7c9287d6bb2793c29285a93f53c6c81a9ae60bde97cf4103ab7123d938138cc0d61aafed1749c159f15feb9434b061835f168713858a6c51d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfbb9ecde6c7460786b4fdaed552a35a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cassim",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9247",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0dd238007ac33a563f44639e176a2326e80c746e37c7e31157865836d8704c8db6325852dff95d88e07f88c19cb1d1d4da64379ef8743198b4ea70f84a668184adf53f9a3aad53078a99969321a33e6929f664fc8041e28c8a8bf93b245ae0f3188b46524ce763d643b6c9253db222991c5d0ac855fe25900c50aa6e07108d96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f860f7309434634fd82fb02b4723dd5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0dd238007ac33a563f44639e176a2326e80c746e37c7e31157865836d8704c8db6325852dff95d88e07f88c19cb1d1d4d8d4915ffebcc4eb9bf52aa3918d3b3aab3bded066a5ac39c7a5e3c8764f46f037e4141ba59e358d1a00a8fdc7297760748be76e818a4107bbfacd1fa7dff91ed8a0e8e2eea171522186ce012566d07308390f5bf4c093c92bbb7ac275b2fdc7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4f860f7309434634fd82fb02b4723dd5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Solomon",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9248",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/9eb0fd72fea663f82b87a3f1cb68b4d5629edf71151e78e2537302b2b07f85883766aa7bc6180411e39f8e2a4248e35c969c7660c9fc0b913e379d687f8ddb6372e6ebc3c65b91663dadc92d71f1586a11111d5c68cfc85a3987984f4a08a01d8fe08b1b69690806d323300632045012e197c405d2094f2757dc9a71d7717c57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/924b83b269c45da6a345f254911b138c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9eb0fd72fea663f82b87a3f1cb68b4d5629edf71151e78e2537302b2b07f85883766aa7bc6180411e39f8e2a4248e35c06967eca82495cfb1b5dd0281e8b0aa1ea118b464c11bbd718958c2c276bdc9faf879a33a04df394dfef470b2296370f8a60e0c2ea53f18f7e0119f9e81eb1d04922b587cbace021f6ef6ca639a3473db484ca4d9a762c3dd0df598afc81d9f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/924b83b269c45da6a345f254911b138c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Smile",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9249",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/310985b894f038ca8891abfa70f00f6ba29429c56873b4b66e20d905d8d8c5fd088d80599e0662e3470f38bf26be373a195178ae8aedaebf5980f5cec3e8bf865d17d7ddaf0271d7cd595dd29014270164a6205b81ebcbaaed5211631051e0fbdfeab9d5baa9b567cb56d41619ca63554a05dee8efaff718e30117c34a5d5e8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8147496c01f4acfaaa90e77bc915ddbd/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/310985b894f038ca8891abfa70f00f6ba29429c56873b4b66e20d905d8d8c5fd088d80599e0662e3470f38bf26be373abc8e6ca2da59fd306d400cd6986a9641435b4ef23622117b904f5241ef957040335badece429204ed94307de72d544284b2aca2e5ec0ec8a11192966f402eab44f6e3478679cfcc0fa9f622c53587f55ff30aa8f3905e291697a31501b709d71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8147496c01f4acfaaa90e77bc915ddbd/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kingdom of Sindria",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9250",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5951d64f87a78681e06427e218eb405ca709abb2c6d990f401d2fa263ab385133e4cdc195c5b015251c48957f10db3aec6b14ba4c2f84ab5e84302168ac731de728ac47959fb167e27838665c878aa991740f3534e06341fc60438cc1a4b0c2570805b6ec3a13c3db8072af1f8c492ac0a92773cb0c7a41f46085e94a9ff8e21/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4cd9642c747aed5d746f9f46bfb126be/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5951d64f87a78681e06427e218eb405ca709abb2c6d990f401d2fa263ab385133e4cdc195c5b015251c48957f10db3aeb82bb2d39f61901d7dc89d8a3cc36a18761ca58b4be4713bb4413caf13430b101abf814a2cfcd62f60ed7c6701e92968a6ad16e078695020e33fe886ea9d616f2d11ce165125b6bf3d310af64b602c077ddb4b6f51707a67f66d1443e4e45cb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4cd9642c747aed5d746f9f46bfb126be/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Name of the Culprit is Sinbad",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9251",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0855f86c027d1c2e957a8ba1b9ddc054d718ef3ab9aa4dfddf87687e4b8ed53c7a2f5ce0da4745ee39cdd8aad9f6b4b9da057df7951f4c09c5fa90cfcf1ffff3af98e68e69a1500ca11af3b6f38d1206bb8b0efcdd46b5f85e8d71401d16fa9cdff2ab2369ad86cd67c92673506f589fd90a63a748fefbb88285a921f0b076dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f55da94e3a3b2f45d159883d457bea67/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0855f86c027d1c2e957a8ba1b9ddc054d718ef3ab9aa4dfddf87687e4b8ed53c7a2f5ce0da4745ee39cdd8aad9f6b4b979062dd4c70d1d278824a15fc3019fa5eae9d3d4996f4d0f6733a4263cdb5b2cab169b5cabdf7159f4c6a9734d2a2917a12111cb8944b44919931c57e38117ef28be6bc2de7b61d75a2b73f8d4461a391d5166db616373a1de2ef6365478492d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f55da94e3a3b2f45d159883d457bea67/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Two Princes",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9252",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/aa4009e3f7b32879c0f9ec02065185be9c1206db469fd0d1f5040afd800a694ceabd32afceb521ac00b464e81f583e293e87114f8204cf649d5e7267081446326f25c0e56963e19e453153b0ce342af4127f1ca2904a4b2cfa3476384879064cb188196d43cd13c1c0ed915e4e71a5962b9fb9699c3153e5976490c8f54c7e37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9757b472d30ae6271062759ad5110a33/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/aa4009e3f7b32879c0f9ec02065185be9c1206db469fd0d1f5040afd800a694ceabd32afceb521ac00b464e81f583e2946e3a3268a2ef690863ca2c78fb979272b0cc8c9e2c764125cc0b5fa6af3ba94f1cbd5a11f35e6f21e9aee2662f6b35a7aa5ea0b183176ccb82a9e121e32b4673b427064769597c730d13e2fd243b4ad212eea694d2dad85d0b8308aa53e01b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9757b472d30ae6271062759ad5110a33/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dungeon Zagan",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9253",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/7acc2c6a97a87954693c2d9a53f8d657045f6e360ec125421a99649ce6d2bf0811dfe1f888d612d767e8c24fe8afab649a709f296c35857c8ef675cfd5ab310f5979485a971a78ba158a9f45af70d9dbeed99d1524ee57cc921519abd201e9072d788a950c8000b1a7774a4d5a89100b3b12bee561889e13bb27cde97533989c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b5683a843234a678f6d5ce22e7a73f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7acc2c6a97a87954693c2d9a53f8d657045f6e360ec125421a99649ce6d2bf0811dfe1f888d612d767e8c24fe8afab647f1ae68cc928c82439c5bb7ab67c84b6141ea3661aabdef9edc7bc734b031285a8d45856674cf8a152cffe0239470d7f2f4b9bf3b0b279adf877034773ab2269204aa6094d237eb3e0b112fc336faf831eb18524603308306054e01db7ff28ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b5683a843234a678f6d5ce22e7a73f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Household of Flames",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9254",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/89314ca5039b8f70878438620e5dc5d4674a82c14bfbd975b95f89fb5c02b1f5e0eb486e8b9c310bd816639308d72f827035b279f1a212bb5c2490282944d0d7e9a161d5d37ac3553fa2ff729cdef739eb9b889bcb72b9312f33aedf0262b3cb4cabdcf988958a596f63f1cb8042ecc863a03c178d1ec0f185d0ed2212b538b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d068722e21e6d49a1296fdadacd220f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/89314ca5039b8f70878438620e5dc5d4674a82c14bfbd975b95f89fb5c02b1f5e0eb486e8b9c310bd816639308d72f82b8191c36098faca5a50034b30355c33cd54e7a70009c97d0e3dd8177ba599430318bfc11e01c62da8333872b3824699b36cc8115a58f17ef7f8b687ae864279873455612321cca2444797e27704da0af31e2a3f75a5872158e5509197c1bd9d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d068722e21e6d49a1296fdadacd220f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle Cry",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9255",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3044723c3a4bc0fe46fb2020bce222adf8125a1469c4f2ec0ebdcbba7b9b9f5518598d87a7915370371ecdbf63fff662acb47ced1878f6399dd813ee4fde85dec529637fc6f8b690bd1f882225d4e9adf6c2f065c32af241cdfab93b1b05ae53a3b74b5fbb3a839fd7e1e21abd405469be2681b702e87a2118873b0854f370c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8f63754d6ee8cce5b3b491ca55f402b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3044723c3a4bc0fe46fb2020bce222adf8125a1469c4f2ec0ebdcbba7b9b9f5518598d87a7915370371ecdbf63fff66294b256850fb47dcd73c06c6734bc3fa4f279f8a55fd2d23f899071d55519c016d12d5a6052d46f579237ed40e6a016be689fd432eb3c81bff144c7fc1144d9304abbd8d9f4030e4e2cbc9d2fbddebec44b699e6f796c50cf7fce736c0f116388/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8f63754d6ee8cce5b3b491ca55f402b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Fall",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9256",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2f9a714b4dabb5be7ef0f9c65e5914fa319521d206fda7f10509347201e0ef4ca9ff6393dcf3b571376fab320f3c281c6e307ca2da4c76601e1fe75bc8afe52c28020b850bcfb4c7c3c448339948263e7caacdbfeb605657a0d3ae6513212563569767f5d2832233587c903abf942ca0443b124ba26e259b242e23ea57828bd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2122b6a1885e464df4ba54acfc35d99b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2f9a714b4dabb5be7ef0f9c65e5914fa319521d206fda7f10509347201e0ef4ca9ff6393dcf3b571376fab320f3c281cce09cede1fd787557f041801b046c5bfb36627d70c3201e198cb9dde9d970266f6a1d9383d934e74386a4b7e535c7f6052092e9bf1f7bb7fadb68bcc5a5500e2a8916749e7596cb27db0dc3badc3cb49a3594f83f8da627ba96bc8e5173977d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2122b6a1885e464df4ba54acfc35d99b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Alibaba and Aladdin",
+            "episodeId": "magi-the-labyrinth-of-magic-425?ep=9257",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b87b60e57c7b3c95d2fbfb5ce2c6ab8240e9c77ba4b80733a91509edf06537371e52fb750302a5d5cbc20478fff518c95b161450edb03a223aadbe8910854293e75e8951958cb83414c590dde69dcbe2df4cbed4c3fd6da23236bae7a2c3e15671951954e400bb212e78b9ff23118f99b603ef5dc0750e8acd9ebd71822d2890/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94e846a1485410b02c756b1791ebe8c6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b87b60e57c7b3c95d2fbfb5ce2c6ab8240e9c77ba4b80733a91509edf06537371e52fb750302a5d5cbc20478fff518c982de2ddcaa76ebb2a070e5bc5a5d5d5e4d5441055d370182e2f5320fb9a87c83758930c9ef1ccad529b0cd73f7e53f099e701f36a323321afcfefcaa0319b24f3a2caaba5ca399ac4475fe7a39c76c2c6ffd881e6ca9a6d19346a52f67c1fc02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94e846a1485410b02c756b1791ebe8c6/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

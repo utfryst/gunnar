@@ -1,0 +1,174 @@
+{
+    "info": {
+        "id": "promare-361",
+        "anilistId": 99425,
+        "malId": 35848,
+        "name": "Promare",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a800914bbc6fb708e421e11d2bb38332.jpg",
+        "description": "Thirty years ago, a new race of flame-wielding mutants suddenly appeared, destroying a large portion of humanity. These so-called “Burnish” have continued to appear at random, leaving a trail of death and destruction in their wake.The autonomous republic of Promepolis is a thriving nation thanks to the incredible efforts of their leader, Kray Foresight, against the Burnish. A team of firefighters known as the Burning Rescue is tasked with stopping these horrifying monsters, using the most performant technology available thanks to their incredible mechanic Lucia Fex. Galo Thymos is an energetic young man, who considers Foresight his hero for saving his life and is the rescue team's most recent recruit. A terrorist group calling themselves Mad Burnish has been causing havoc all over the nation. After an encounter with Mad Burnish leader Lio Fotia, Galo sets out on his fated journey to find the truth about these mutants, ultimately leading him to question everything he previously held to be true.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 1,
+                "dub": 1
+            },
+            "type": "1h",
+            "duration": "51m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer",
+                "source": "https://www.youtube.com/embed/2supSiC27XU",
+                "thumbnail": "https://i.ytimg.com/vi/2supSiC27XU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/Q1z8XFR3nNg",
+                "thumbnail": "https://i.ytimg.com/vi/Q1z8XFR3nNg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/RzFFaLB6fHw",
+                "thumbnail": "https://i.ytimg.com/vi/RzFFaLB6fHw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/rWxUaUU4Heg",
+                "thumbnail": "https://i.ytimg.com/vi/rWxUaUU4Heg/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kray-foresight-17560",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ee8a854665f68e2aa396fbe053dff0d.jpg",
+                    "name": "Foresight, Kray",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masato-sakai-1454",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9152fa46eb16fc53ffd6eafac723d4a9.jpg",
+                    "name": "Sakai, Masato",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lio-fotia-1181",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6983094b6182c3d81a726466d5c64b92.jpg",
+                    "name": "Fotia, Lio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "taichi-saotome-2838",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/380e89b05a5bb47aaf34c8a5a356946d.jpg",
+                    "name": "Saotome, Taichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "galo-thymos-2937",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bd4bf96eb3504cb7a24d2352e9a9c88.jpg",
+                    "name": "Thymos, Galo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenichi-matsuyama-504",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e54a2f31255dcc05eaa857a844cbaa09.jpg",
+                    "name": "Matsuyama, Kenichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aina-ardebit-11328",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0e0cc0a6b48a718453a18bfeaa5274be.jpg",
+                    "name": "Ardebit, Aina",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "heris-ardebit-24155",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46e3b4a939accb5e91686e4bd9653811.jpg",
+                    "name": "Ardebit, Heris",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ami-koshimizu-112",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/099eade37d4e48d42fac02eda385d4d5.jpg",
+                    "name": "Koshimizu, Ami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "burnish-elderly-38631",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b9f7deda9fc5ba8383ac9b8d706388db.jpg",
+                    "name": "Burnish Elderly",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mitsuo-iwata-1172",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a865aa32158e74042ca8c71e62648f7d.jpg",
+                    "name": "Iwata, Mitsuo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "PROMARE（プロメア）",
+        "aired": "May 24, 2019",
+        "premiered": "Summer 2019",
+        "duration": "1h 51m",
+        "status": "Finished Airing",
+        "malscore": "8.13",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi",
+            "Super Power"
+        ],
+        "studios": "Trigger",
+        "producers": [
+            "Aniplex",
+            "Half H.P Studio",
+            "SANZIGEN",
+            "XFLAG",
+            "Toho Visual Entertainment",
+            "VV-ALKLINE",
+            "Deho Gallery",
+            "Trigger",
+            "GKIDS"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Full",
+            "episodeId": "promare-361?ep=58318",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f2693198fef61bba07dc37c7c9b1f6da6eed01b94273ea2ab3ea3ea8a5407864486e197d04386e50fc03800f9d76e73c6bd31e61c152eb7b70b57ed9d65d482ec8680072ab909403d1d8ac03edd430c5131d94060bdba5625312abbe89a170cb87fd6530d899c66adc999a3d458660e0650a9adb5a0224ac818c41eaf64d037a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f921c67830967fcd2a2965a0487904db/f921c67830967fcd2a2965a0487904db.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f2693198fef61bba07dc37c7c9b1f6da6eed01b94273ea2ab3ea3ea8a5407864486e197d04386e50fc03800f9d76e73c0e3f54ffc2231bb27087bcf72e83fb046504870a284375df52e6e4852401e67acee398483583cb71a8d4c556bc8d23ed81825fe2aba2c5109702277eea6a2d542f1fe6987db5580ec2aad79985120086f6d02fae61306a0523bdd2d1b0e0fe23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f921c67830967fcd2a2965a0487904db/f921c67830967fcd2a2965a0487904db.vtt"
+                }
+            ]
+        }
+    ]
+}

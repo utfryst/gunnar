@@ -1,0 +1,613 @@
+{
+    "info": {
+        "id": "fruits-basket-2nd-season-81",
+        "anilistId": 111762,
+        "malId": 40417,
+        "name": "Fruits Basket 2nd Season",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3d2dd21d7db90dffc34b12012d6779c.jpg",
+        "description": "A year has passed since Tooru Honda began living in the Souma residence, and she has since created stronger relationships with its inhabitants Shigure, Kyou, and Yuki. She has also grown closer to the rest of the Souma family and has become familiar with their ancestral secret, having helped them with many of their personal issues. The closer Tooru gets, however, the more she begins to realize that their secret holds a darker truth than she first presumed.\n\nSummer is approaching and Tooru is invited to spend her days with the Soumas, mainly Kyou and Yuki. Tooru wishes for an easy-going vacation, but her close relationships with the two boys and the rest of the Soumas may prove to cause trouble. As they grow more intimate, their carefree time together is hindered by older hardships and feelings from the past that begin to resurface. The Eternal Banquet also dawns on the members of the zodiac, and they must tend to their duties alongside the unnerving head of the family, Akito Souma.\n\nWith the banquet approaching and a plethora of feelings to be solved, will Tooru's life with the Soumas remain peaceful, or will she find herself in a situation from which she cannot escape?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/yBBePKQTWFE",
+                "thumbnail": "https://i.ytimg.com/vi/yBBePKQTWFE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/pnzgAJDHMvs",
+                "thumbnail": "https://i.ytimg.com/vi/pnzgAJDHMvs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/BUJ2aZQWcZM",
+                "thumbnail": "https://i.ytimg.com/vi/BUJ2aZQWcZM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2 (English sub)",
+                "source": "https://www.youtube.com/embed/6oWfY6gw_qk",
+                "thumbnail": "https://i.ytimg.com/vi/6oWfY6gw_qk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/MFmwHt4edSU",
+                "thumbnail": "https://i.ytimg.com/vi/MFmwHt4edSU/hqdefault.jpg"
+            },
+            {
+                "title": "PV",
+                "source": "https://www.youtube.com/embed/dVZ6oGi2tMU",
+                "thumbnail": "https://i.ytimg.com/vi/dVZ6oGi2tMU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tooru-honda-347",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e12d3c89148ef34bbd71eb2111dcf1a.jpg",
+                    "name": "Honda, Tooru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "manaka-iwami-858",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b707dfdd90455c2b5ce0096688b874c.jpg",
+                    "name": "Iwami, Manaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyou-souma-210",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/046210f2ebcebd54b3d910a5cd1a4aca.jpg",
+                    "name": "Souma, Kyou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuma-uchida-211",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/455445bc964e08e5d9f59095d4e95b70.jpg",
+                    "name": "Uchida, Yuuma",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuki-souma-715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72a6511cc23004e36e686c7fcb966468.jpg",
+                    "name": "Souma, Yuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobunaga-shimazaki-97",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/984994a4b5742004f546c5a612c49d61.jpg",
+                    "name": "Shimazaki, Nobunaga",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "saki-hanajima-2396",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1708ee49d7da4068f3ca963dc891966e.jpg",
+                    "name": "Hanajima, Saki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "satomi-sato-205",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/855f80a66457a85747a66c565b47a4e1.jpg",
+                    "name": "Sato, Satomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "machi-kuragi-6772",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/acfa6e37134231f32741c5e1ebf731ce.jpg",
+                    "name": "Kuragi, Machi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ai-kakuma-495",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e8fd2455695d5701c64ae99c92391d03.jpg",
+                    "name": "Kakuma, Ai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mine-kuramae-28672",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d28cc89ab0e4581ed5b49a08d0cba41a.jpg",
+                    "name": "Kuramae, Mine",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "フルーツバスケット 2nd season",
+        "synonyms": "Fruits Basket (2019) 2nd Season, Furuba, Fruits Basket (Zenpen)",
+        "aired": "Apr 7, 2020 to Sep 22, 2020",
+        "premiered": "Spring 2020",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "8.57",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Shoujo",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TMS Music",
+            "TMS Entertainment",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Hello Again",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1689",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ea0bd2968e20220fbcecbba2f48a3566f56f2ecbf98867b45b20753b174582fdd720a3ab54b6fb952e9ac5edcf00360cb7bb27cd3fddfd46b039298d38efa9ca90a6da80f468da433370bdd9148427e7294eca8f4b088a3982449afed796690d6c08d87173b3057171c2bce0da8e6fcbbeb8ad137382fd30387baa456005847c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/badd43dd30cae3d388f21c9c5bb461f8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ea0bd2968e20220fbcecbba2f48a3566f56f2ecbf98867b45b20753b174582fdd720a3ab54b6fb952e9ac5edcf00360cf607f2b731c213c93dd598236f29ec967059c885dbcb0caea3aa2a4dfd0c2ad984d8156d82df1f183582f21316a07f8b7a55a451ffdecadc2eaac3a2bb9e1603f8fd3ec280048635571fece4427f46f43790297be82c6a263cdec041ebe07058/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/badd43dd30cae3d388f21c9c5bb461f8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Eat Somen with Your Friends",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1690",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d149de414b47dbbaef0d6999c42ad263561f2a31dbbbaffb448f3763122653900c7598c66f5a2bb7f8784f3f724f1f1258765a586ba3a1d9955de9c0fad1b80fe569305248dcd2a292e2e7d0753aae6fd9ffc08c415adbedf77c3f7854a4a71f105939b668d1a744cbf63275b9bec06762877012ba5aebe82b4b702af1bce5cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b105172937dd00ab23eba79d344b89d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d149de414b47dbbaef0d6999c42ad263561f2a31dbbbaffb448f3763122653900c7598c66f5a2bb7f8784f3f724f1f120d412508bb5205c72c00274453165357b6a223afb94d132d96cc0486024639bf66f533381c8282e0ee7a61b1bfb7cabbc4cdaa8f814b2e5df9bcbf9a5e2dbe7781932dceed49dd6642de7829725174992384325720b12ea4daf3521127936c73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b105172937dd00ab23eba79d344b89d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shall We Go and Get You Changed?",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1691",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/4ecd4fc1afc86d177eb8c7bd5038bb21d11a485334e707c3fc5ce9d3b3a042e8ccbe71f9141c7a78adf490929516dd8537c13073c5900b8d21a9b225b624a89e1e81cad2292c6608b1bf32bde12bba18a5ecbcc05525a8289b858b450faea57b2fa10dc7bf5e988773d8ee84b56b2e9cc3a7f37abe8be4cbd64063a3afdc176c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/407e7474957b96a5a8184b02f95015ed/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4ecd4fc1afc86d177eb8c7bd5038bb21d11a485334e707c3fc5ce9d3b3a042e8ccbe71f9141c7a78adf490929516dd8540c07e4a0ab495642c9e7fd6af458591516578410c42e47c0bb67959e8f9210fd93bbd349ecfc560e69abf3fb254801cb6042e5e107088e0d93c3ae6d3af721ab44a0dbf98cb7107c4d07908e482926d17d71f7db2b1877bf0350a41436be131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/407e7474957b96a5a8184b02f95015ed/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Got Dumped...",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1692",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8dc24b5be688c0487ea3ce2e92dfd13aec0210d911001a02f7f629169d66ff79b9cb331d732ed4710aad4ebe50f1ac12774cbf7e73c823a9465a9b84490186d055691599f1a2b9bb6e000b224c9e70170b56e6267f3e1e52184d896ad440ae3559875d9ad076f2b8f9550e0f3728df92ade66a225fc20b1aa5f566a3c7d0ea6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/939009d3ac3fcded8e77199b5b60b611/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8dc24b5be688c0487ea3ce2e92dfd13aec0210d911001a02f7f629169d66ff79b9cb331d732ed4710aad4ebe50f1ac122dac6d58633afa02fbffd5424834fbcf7ae0e7cc11678fbbb99a7b3008a07980f1ed4c235f8db5c2f6a2b87be80578b36cc05e8efa74a85632e672379ac590fd4e020528b682f0bd1f76d9ddbbffe8a8035d65aa156f5df47702f2545b9150e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/939009d3ac3fcded8e77199b5b60b611/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wait for Me, Tororo Soba!",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1693",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/720656db4ca113aca89baa69650621eb6f7949c3003d2acb8baf6282fcc52613cc6886840f7989ba7934f7e8777ddc78900ce9eddba8bb2987e962ffe8ddceb3d054edd3a9167ad9a08cbdc0a45e2e236fa8a29c80fcb061d16c942a08ec57633bda67e24b6088513296c1742e600859806f1af9cde93e521aea0a98577d8d70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/242b3a7d291f7cfddc50c76c66e5550b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/720656db4ca113aca89baa69650621eb6f7949c3003d2acb8baf6282fcc52613cc6886840f7989ba7934f7e8777ddc789f456c1fb85192bb0e3316819fd828c9176ae07f97847d39519a40c77208aa2ab32c5a7bf424381df58faa22a29e6d48c98814d47c9a54f4a97e998e42f1efd115c21dbb6f801428034709e9aab217942f3bd9dfc8c487f2b5ea918087ece823/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/242b3a7d291f7cfddc50c76c66e5550b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Are You Really This Stupid?",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1694",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/997b0cc047895afcbe73dfcf2616b8c49a40f3980ab5ae27c6bfdabc21305cecd6534fea3c2ccc84cb468137c89e5fda9d927c4b1e27683f9e182403be5f0700ce242222c795e1ead6ea917801cbde2df2f9b7896f0dccbd64f05d78559f948216a8e0bdba90fb53645933c2ca3a4533ae6527ed0904cdaabd45e509366a50f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1be649b63bb981d80450066a4a92f7e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/997b0cc047895afcbe73dfcf2616b8c49a40f3980ab5ae27c6bfdabc21305cecd6534fea3c2ccc84cb468137c89e5fda73461f7f4ec78cd9b7d3624f65be0d8305ab543cdd908941f335dc86fb189d4f4b397a2585082bc9ef4c79ab5f43849856b014ed4f043aa0e7e8c97a27c2252d53ec95aa434609c86f2da431314df0bf4b1700544f964299ae34199385152bce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1be649b63bb981d80450066a4a92f7e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Start the Watermelon Splitting Contest!",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1695",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/10fe5c30760ef6ec8c5131fd4e7fa5fa0449272bd466810c3fb0e89dbfb9a073bc14509ea3a04d5e6102171801a9a7fbaa4df95bc1316421e05c072bfc37d65be7c8d873c891d8b0b4be082f47eb76ba9482d7f2137d0650e467896aa5f3fc209209972c237954d8f9addce01b8cb1c4afbf857dd2c7a03bbe247663d94de7f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbb1c6ca3e78bc8b662fa86efb606dab/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/10fe5c30760ef6ec8c5131fd4e7fa5fa0449272bd466810c3fb0e89dbfb9a073bc14509ea3a04d5e6102171801a9a7fbffa726277a836423ae70255a497a94426a42790017241c3f1ad20c3e0ca4a7f4eb595ad461f556bbfeb8df43e67bfa0f541da5100ea886c79b4393e1149821f6a209cd60704dfb74f8a89fac584bd0af76f804bf5e1bd09aa1b9ce1a5d04ed6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fbb1c6ca3e78bc8b662fa86efb606dab/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Well, It's True",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1696",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/35412f7d0479521fa007326ae6a92120a7a9e693e2d5e831a6004ca1e930bcf881823c8b073b7ff0f5ba46752a640742cd8939c87353ae74d38a3a803358ba47720a30dd7bc9e8bde3eb4ffa5bd7dfe5313fa47d404a3919c9c0700a03ab049d769cd457bdecbec480d37ec377f27d8b3a35a2728df70e98bb12c549f1381477/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69a1245309f66ef2e9baf2810cafec28/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/35412f7d0479521fa007326ae6a92120a7a9e693e2d5e831a6004ca1e930bcf881823c8b073b7ff0f5ba46752a64074285c390e942e1277f92cf0f67661d69e3695f1c62181443aeda9baadcb7d21a574987df763eb8275330f8560e38d946a9801fdcecda62f72aaf5d7cafa953c2cad562ffc2c0a1b29f36fb8a1986b24b407026d9308e42eb8c1cace5cbead6c6ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69a1245309f66ef2e9baf2810cafec28/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "So Precious...",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1697",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a40a7e6c503a0b74e98c921d35e7cf43eabb6d5cf26120743597d323b0f9a176d85775cbad0b37439f8123d2a858f03e764ee6ca6bb617dc489b63fc451057ea39d4ff2891f7e57b0cd998e7f6f5829af25385181fccb7619983b53fc91d43d35d344bf40207b6043bde0fb49594371948f0d8ad9d167e7fca5c0b1789618293/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d05d5f4401cce0d70ad6caeb50303828/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a40a7e6c503a0b74e98c921d35e7cf43eabb6d5cf26120743597d323b0f9a176d85775cbad0b37439f8123d2a858f03e0eb64ede0177228680280f8cedeaa97aa073749ac1ea306df6e59156e9ac41f2504fda9705da9719bdb23aa69012ce4422b8e474ca440f3925e94b499205c07ac023d76d5265e26f968b069cb70b196c4b4d33c8d19b63fe20155100b6a91101/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d05d5f4401cce0d70ad6caeb50303828/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Who Are You?",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1698",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7debb5f37bbf5ffbb7a97d4de28e4564a6d374442bcb547c8d9891adce415c847b20948011b3290ba4a5fde4dede6c2707ab328e2b883ab3fbf2aaa9e92a7bae633a8566c05ee516ae56b4d6b07c9beb8bf6150fa4be614c0f57eeaf37b414c0d1249e68c8c53f841991fb71c32eaeea7f983a281d6f73a8fce2653509afd41b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ce9f42bbe13ff299d8b9371e2f014d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7debb5f37bbf5ffbb7a97d4de28e4564a6d374442bcb547c8d9891adce415c847b20948011b3290ba4a5fde4dede6c27438daf63d293447a9fe478ba6ff9efcab5c71da9755b7607750dbb3c6124b23458ea3966b77757eb9ed35e8748045364928dfc5f84029e55459b682c1e9fab531d30d4fab06823e0ebd2de1916dbd55af14c8d728a018db0123cc3236cfd535e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ce9f42bbe13ff299d8b9371e2f014d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "All Mine",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1699",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a93b9bc413ad6027eccf69b2b99ce9d4b26a76e150be1ef482b3ebee689c4b71948826af1f0ffe6ec3b14d226d3408fa0e5952283cf71aad04c9ebb4cb13310638fb9ac797365293afab3913474856dd6359f268d26a795b48093f6fdb80ea59a7fd59bfae7a4ddd42fd1db779ac42d9c481c7a1d8f3810cda1b325d2583d063/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb2ed63394b38ebf2abdb7111bfe3dca/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a93b9bc413ad6027eccf69b2b99ce9d4b26a76e150be1ef482b3ebee689c4b71948826af1f0ffe6ec3b14d226d3408faf34a92eb297ca6bee875f7c6cca5ae42e41ec712adb368d08ecbe13086f141490906d63b224c1db40d6e19f812335f15d37936859bf289ed74ccb4164d17997b7800d4089087f99e8d48b69f453e0fe8973f0c00cb1db4ab69a5b6d8d0f58342/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb2ed63394b38ebf2abdb7111bfe3dca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Cried for Me",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1700",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/51657a9fabdc7528a6ab1f6910c92aeef4d23ad116dbfc848a5b5e3350a4b7da6ba139b05d393f3129a3ab6b0e4e9edcd1db1d15918800c8106227b342f319c2d3818ab3d307f6e23c2afdf3e69b7a996e2d4651b5a359f6d1226a345ba339a7248be93b1baa7bf7a10d6abe965a7e80bc52ce6edf7c152a6c457d49e139cefe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f760c2c534ffb15eb8a0e9fe7f3a3e7d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/51657a9fabdc7528a6ab1f6910c92aeef4d23ad116dbfc848a5b5e3350a4b7da6ba139b05d393f3129a3ab6b0e4e9edcfa457eb52d3cb761f241cd80dac3e92ac0e13b77b236a93b19be186214c4ba019089e216c94dbbfea2c692ec69f4faa6c8972431bf11b95f2d7ae48026b36e61755b3b9636b194ad82d0afcdee90ff891d0062b6cbc885f115c89be8b56a003b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f760c2c534ffb15eb8a0e9fe7f3a3e7d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sure Thing",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1701",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2363148cac506866c4e6a741a711b7995271e9d8aab87ceec612572fa1ddeb1ea13f3a7ff38152a00c3f20a9e089cc937128a8af9dab8fb569f1d41404147f5dd7b46dde5311b387d37ab20758d36275c5a521b4f4a28dfd8596d990526b1c4ed70caf84d77b4a7c222e35cf9fcfb659b914e667c135f7389e0089ea7ddfc17f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae44131806c3921f1e93530311f119d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2363148cac506866c4e6a741a711b7995271e9d8aab87ceec612572fa1ddeb1ea13f3a7ff38152a00c3f20a9e089cc936bb763550129ae35546ee276d4d0684f1c1c3381063ff040f987f6de22cda6d5e2e393200c358e758bd4b716c34a81378fa64e22a602fe9f9c915b7a31b525927dc05f52b7069b06ec1d641631a318b5f40693104dc3f02b2051181637e5dcb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae44131806c3921f1e93530311f119d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Should Die...",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1702",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b9dfefd9e429c3a78c4a8947ec33049f6cb9b95cd07fb0b273f7911c56ee1a1b469abc7eadcfa363f5890ea123fd5caa2a184391a19a8fe1fd2f1d401c2bca626f142e6d9923bbc6969f33b84c2cc0fe52170b3256021964da56d2386d116b424c39d34ea48b6ca1e3437206ac2653ae840134da1882905771e101fb16d71331/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf50c1b10f11e8e7d83fb6087c10b03f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b9dfefd9e429c3a78c4a8947ec33049f6cb9b95cd07fb0b273f7911c56ee1a1b469abc7eadcfa363f5890ea123fd5caaecfebbd2d3bb488a2c2637d5913afdf8b09ab99cf81d72f8e0d1a2a7e65717ee6127c00679d9066064504d7c99562a6da113c3b67c78208f8d940d0f69a2023fbf768f92de81723cb6ee32e29519bf267958018224488b57abd76c8c79cedd06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf50c1b10f11e8e7d83fb6087c10b03f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "See You Later",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1703",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cafff8f654c1c010597134c19b69d2b30e141b10b5ba8c4b50fb0fceff363dc29282165c1fd18e394551480e2d2d86808002ff49831166962d65debd2fd4a588aa813a38719a34ae89336acc325c4d914cf9ea45036f16f4467a4e48e45d9ed56b2baff61fabf50095800e6a5dd6945d0bf6e2aa4b784b4366c8f77cbdfc228a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00026d79fc2577a36d71e3f8e758d54f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cafff8f654c1c010597134c19b69d2b30e141b10b5ba8c4b50fb0fceff363dc29282165c1fd18e394551480e2d2d8680e62a06d52e7c7c56f07848de202a28330a95d96bb1af96049d8f81b8942fff69731a04ce10fafe72e466a2fab4006dab533160fc09743f4f30af6967c36ea4cde956f64ac0e8d1a076f5467d08ec616fc86175721ebe66ab43676b2e9e9e414f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00026d79fc2577a36d71e3f8e758d54f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ask Him For Me",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1704",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ab6740f0e5aecc0e5252074954edbb2697555deae6432171d92e749dfffcf960afd7bf7a871b2025084b3c5e5c63060ae628bd39208a82c7b908dbb38a3818a0a2a98f851d543154533db8f15481bc555b3213afda833c182c2e6ef6218dfce6b16c6ac02c534f7f79aa11f3f6986850ef2c02633530619663e0cbfc7d2a2432/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63505f863e89ebbce39138eb07a7f79a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ab6740f0e5aecc0e5252074954edbb2697555deae6432171d92e749dfffcf960afd7bf7a871b2025084b3c5e5c63060a71386bde7a7e359962f997a928b9609e481775136a1642a05f097a1e197d96e5cbba8870484b99f45f84c72cc07e2e60e5ede26d781abfccb0d078f6b5a891975a8ebf40f5ae4a74fe033c02cd525094a08f9f6f26d234909a353c37d43b9724/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/63505f863e89ebbce39138eb07a7f79a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Will, I'm Sure",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1705",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/721064896a12ad69e2b17b6c589ee39a37076882bcf2b640ab079632c316264d22d11a6117290a6e32c9882a43acac07d7d9395a615ca506a59e2fa7fb230f99289a314dc26539359c1e64775ffa0c0a42803b09825db651e225ab8ccd72b3c4e2a14bf8dc4ffaefb66395d396910c3bd41567d9032425ff43ea1e6ffe63d192/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4a15c5a6793ad034bc87b5194a86887/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/721064896a12ad69e2b17b6c589ee39a37076882bcf2b640ab079632c316264d22d11a6117290a6e32c9882a43acac07b4f7cfd2c401923b5067e803a31855b8bc4a57542a019c1b9f5711e56e2c06a7d109583c98e6f0f9c8f44b7c76441cfbfe972cbadc8c0b335c85b8e78e432568291934aad2d55b4fe474d3defa776cb12f11b4428eec45212d590113686dc8c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4a15c5a6793ad034bc87b5194a86887/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Do You Wanna Kiss?",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1706",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fd137a0b24584dcac057a7fdef55a084946e5297b5e5617ba13f64798efad5d641cc13700172ac202e55c4c98670e9bc4d92a80c4da1d59904bdad5a13aaa2af06fd1b600c00e46ba48e916f04d0cc4db7d223e7b164f4423963cf25ebde6e3c70f66b5479f6d97d6e54a43542462a8d56b84c9ba1b33bc01e4a894e45c3420b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e552d8f58e65ca7bcd9c28a2efb48be4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/fd137a0b24584dcac057a7fdef55a084946e5297b5e5617ba13f64798efad5d641cc13700172ac202e55c4c98670e9bc3123c9f6af0a75ed23d3b78f5d8ee9030bf347f2f984a75578009c6c354351632569bd3bd7b683998eeff60798e8fe78690a3b4888a06faec4f0a690a257f414230bde19b01b52eb0c9dd0155e5b6270640569e8a8b35cd4a3eb32a68cdfc8b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e552d8f58e65ca7bcd9c28a2efb48be4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There's Just No Way!",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1707",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/eda7562edb65380fd70fe4cb069932ec50d73efc74acd948f8c31fb9af09988f478209527db2b87358a6752652e7fcd4b49004174f20f783d8096e212c30e30831dfcc2f6f8cc6a285c2ff8066de15ee1e2f153a7b78d665e003b7bfbc0c17e8136c6393b5a987a1afef7644855fdd9cef1de993760432fb31b59fd69d2867c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84d11287f70e71a77635be1f3e5df74a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/eda7562edb65380fd70fe4cb069932ec50d73efc74acd948f8c31fb9af09988f478209527db2b87358a6752652e7fcd423b7735c0235676f2b1f3d4041a511e5bbfe2a81331dfea726f0c166218652e56102cc9fe3ff45f144075e164bdd87a4f97f50b5ed03c75465fc954aa9114b2476855e9aecb7a6d41afcdcb74b52f4d490fb500b94a735319d3ccd93c0eccecf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84d11287f70e71a77635be1f3e5df74a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Are You Okay?",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1708",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/84065e7b56ce6bc57989507848ad8511be5b8cf134c7e27567c98eb654e32d0654eb2a75c60f77a798e23910ab3f0bfea8f98f42e26eaaa688e2a138d0e8dab32d3512fbaf31c2f55e7e13fb4de0808257cf342102d85481d540bb9375bb119d7b714e4a3ed2a99bb7be37c25c75371bb167846fe79bc1770801eb7426b2643c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54bda71c4b250dd2c53e3cfc243874da/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/84065e7b56ce6bc57989507848ad8511be5b8cf134c7e27567c98eb654e32d0654eb2a75c60f77a798e23910ab3f0bfe338df6fba9c237ba60c6deac6c0a1b039d6dabc207bcdc512ab7e13da42aa2c8a35520354382e7df8ef04de78688b8bc98c934bddff016c6ef6b7c3e5745392879790641b7b71f6291b3394e089acb5707938d3779c329b463025e9bf8126b62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54bda71c4b250dd2c53e3cfc243874da/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "There Was, Definitely",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1709",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e6bf897424fc233a38663bd0c324b67bd7b0320b5f39d9dc417d7754290239bc908da8532a23482993c19bcfd86c0968aa0b2b4fee09eb15bb1b66d820d7a1a5d505bd7c6520f09dfff5157c1e7b5e9ba63d67fa0c1c32d5bad0d8b519cbc53a178717ed1e0f0890dd11d74e155c26e45c4a3e83c9f1aa866f294f7ed0b4ef44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b214930ad4e4ac47945cb5dde20cfc88/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e6bf897424fc233a38663bd0c324b67bd7b0320b5f39d9dc417d7754290239bc908da8532a23482993c19bcfd86c09684c26a705fdd3b013f6af4535b8dcc4f656c13e9b4311c03a6a0ddaa7956fef0e5074593526f79b67db5475659124ca5648504a19005d2faec03fa1b5153ca1f97190b4bdcb613ad0547fa7c37cb40f1bc6714dbad0bc196844f20fdeda87a3f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b214930ad4e4ac47945cb5dde20cfc88/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Isn't What I Want",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1710",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2e3cf289804ac0db74b36cccedaada119d2578a68e9b3b4f82e315ef5e566e5ae66af31a029a3ac475c674f8af621f40c473e0a1a7dcac11f14819901f29b3775e0f989fca62ce36832a7005cf0cafa60ae6e73bbb7848023cdd18c5a64c9ade6f8a9bf14ba5e8e81adef2a89c5842923ad074442c75d7f7b58fc16e823750fb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe0ee5d00d3b2d394b2b2ac2fae275d3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2e3cf289804ac0db74b36cccedaada119d2578a68e9b3b4f82e315ef5e566e5ae66af31a029a3ac475c674f8af621f400e90b2687b46b87a628bbf4adeb15b214525bbe07626456b686e0190452f0bc09f7564b635a0a92ba93be51c795e2ca8ca15b284480ca8a26fcd5587d1a2e53d8d04bf06e63c7616f61b622ce18125e6d5d7410fcbfda13ba2b55b4107fbedb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe0ee5d00d3b2d394b2b2ac2fae275d3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Cinderella-ish",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1711",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7c8417293ca9c1e3cad48a8ec2e8f640c4dd79de151fe006dd5f51519c1ef5f1697efb3f59f2d5b018bb95ceec37f805fb5daf4b91e98f6564d099e00ebb5d30f5efcc7489f71052995cd13b52ab7d5efb88cfa069bb4501706780edd8f1c75dca3f9a15f165b5bd1eaae9aedb8ab591fbbdd2786ca1b76e38b9c15c37ee99c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9ddb1f892c1a91f624c51e24fd1ae7a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7c8417293ca9c1e3cad48a8ec2e8f640c4dd79de151fe006dd5f51519c1ef5f1697efb3f59f2d5b018bb95ceec37f805816eb39a7fab7e55a2109d99d97f888d679d61e79c2c4cc98df1ea3dbfb6abfe7fbea0ce3a0e768bf531f1bcf70401328eafcbf23a5de83d2e76bf86eb357520151697b0a92b92d0e369d64d6def680cf974892d1455c38596cf46a7b027ac89/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e9ddb1f892c1a91f624c51e24fd1ae7a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Here You Are",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1712",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3cce61db70ab9b3790af104c91a7dcd79d43e49788206a386e247891bac56e4959c12238425df7532569862c2a096ef5ce3412c56483f4e65dda8faa7be89d947d8dd5bd1013605a74e7fde44330ac8176dfbec5611d859152d1ea2110fdc1100ae76b514cb3fb0d5017a03cb60c752ee1779a3a980e8b58ce0c2de98dd8f5b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e232cc38aaab60c53065369ef5f8db4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3cce61db70ab9b3790af104c91a7dcd79d43e49788206a386e247891bac56e4959c12238425df7532569862c2a096ef5ca82eb094b7903f3fbe0a9c720c5c3ef66613f9d0c855144f7bfd87a041b55162da925fe3256a3dc5fa6a4920d223ba2d226e90f1e3d7596c40e6b54696f03e1a19e5118ba2ff2c70da429a46df394a077764effb2805f8acbe492ea8dc2ff41/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e232cc38aaab60c53065369ef5f8db4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Different Now",
+            "episodeId": "fruits-basket-2nd-season-81?ep=1713",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/49cf4a8d262de746bde90dccd7ec5eb8313db1dc20a04554615a1badfe20e812408b9a34b9f7fd2decea34f2452a9a13968f93ad49dd908e00d2a6d9fe49c8d9ec215826cf3392d9d5faf6752f504c69c33b42246fee536708751a299c22d991aa6d11b4b496ab1c16f916bd3b1e1288071f84d975f0cf2cae63d9126fdf9da1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f153587a2417d5989d543a4c3e4d2448/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/49cf4a8d262de746bde90dccd7ec5eb8313db1dc20a04554615a1badfe20e812408b9a34b9f7fd2decea34f2452a9a1389ccef83c2499bd0b3f6b0e99ecdea2c698efe1629611bbc5f7c107b598e206797491b359a5e2fb7ed737f03ba1dd196386ad79d451ede77ef884461b8e94b560f33120044ce34cee11e165d812582d8558c51b3db16f780fb8f8e8a4b8d656d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f153587a2417d5989d543a4c3e4d2448/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,616 @@
+{
+    "info": {
+        "id": "cowboy-bebop-27",
+        "anilistId": 1,
+        "malId": 1,
+        "name": "Cowboy Bebop",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce5e539af63e42431621fc66a47fbec1.jpg",
+        "description": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys.\" The ragtag team aboard the spaceship Bebop are two such individuals.\n \nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little.\n\nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Blu-ray Box version",
+                "source": "https://www.youtube.com/embed/qig4KOK2R2g",
+                "thumbnail": "https://i.ytimg.com/vi/qig4KOK2R2g/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/QCaEJZqLeTU",
+                "thumbnail": "https://i.ytimg.com/vi/QCaEJZqLeTU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 English dub version",
+                "source": "https://www.youtube.com/embed/gY5nDXOtv_o",
+                "thumbnail": "https://i.ytimg.com/vi/gY5nDXOtv_o/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "jet-black-801",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a7db2a3d311edd61601e694b6545bdb.jpg",
+                    "name": "Black, Jet",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "unshou-ishizuka-256",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb5065316073c262a114e439a0fb5d67.jpg",
+                    "name": "Ishizuka, Unshou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "spike-spiegel-23",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9349169ed820706956984492329d3bf7.jpg",
+                    "name": "Spiegel, Spike",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kouichi-yamadera-282",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e44fcf9b63d50fb44fbc42e4df6fe873.jpg",
+                    "name": "Yamadera, Kouichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "faye-valentine-152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72a85cc23c685ca06ad8ee9ab5bd0f7e.jpg",
+                    "name": "Valentine, Faye",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "megumi-hayashibara-75",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/918e4af5599beca9553be12c05819a20.jpg",
+                    "name": "Hayashibara, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "edward-wong-hau-pepelu-tivrusky-iv-358",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1fa700f475001081c7cc3f28777f7333.jpg",
+                    "name": "Wong Hau Pepelu Tivrusky IV, Edward",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "melissa-fahn-993",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f850ce34aa434055d277813070b6dc78.jpg",
+                    "name": "Fahn, Melissa",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "actress-28173",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05f19169259aeb23529b485293949ce5.jpg",
+                    "name": "Actress",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alisa-83368",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/327c1ab57ddb3522d34a2b142389c74c.jpg",
+                    "name": "Alisa",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mika-doi-2403",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d5376f93debc407b56f6ae578f9016d0.jpg",
+                    "name": "Doi, Mika",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "カウボーイビバップ",
+        "aired": "Apr 3, 1998 to Apr 24, 1999",
+        "premiered": "Spring 1998",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.77",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Sci-Fi",
+            "Space"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Bandai Visual",
+            "Sunrise",
+            "Funimation",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Asteroid Blues",
+            "episodeId": "cowboy-bebop-27?ep=849",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/91ba99007479cfc0ab10fed6ddda40615f5a8da9810cc993a445e389edcc0ec89fd65db16376c4d886c7156123105d181bb8bbb8923983078e038ebd5ebfd46152f9d2fc5e46c2fcbbcc0ab807e079999785e34467c109c1dd0976eb80d32bc6b3920b847cdc9d8eded42aeac647de9f2f1e3698947e4d3a5e61bcec8cdd3bb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3944941c4413813443516a64819af3a5/3944941c4413813443516a64819af3a5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/91ba99007479cfc0ab10fed6ddda40615f5a8da9810cc993a445e389edcc0ec89fd65db16376c4d886c7156123105d18d8bd4a72204afea5b11fff5915d74c025f2928e45e57acfc9f11ba0896a66181c28c863f55ed974f5578d220517040bf7ef50b7b599c2cfaadccb3eb62efb703c43cf09952a4aa5c046c393b881e93a031871485fd7bd53670c3ab1bbd8eb349/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3944941c4413813443516a64819af3a5/3944941c4413813443516a64819af3a5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Stray Dog Strut",
+            "episodeId": "cowboy-bebop-27?ep=850",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/647f26320242392554aa1c9cba7461ca52476b81e8b057994307183514870f185c9cc18670c68803c5b8503e291546ce9843cfef68ec0c076a7192e5406e436aa122b643876d13704cdc2a302e658133d1cbe83c8638d40cbdd424d17c4a522988c5077704a27d5c61a536dd006577569f86fce19a3c905262c6022a0f23b862/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf78cc57d81604d7544f560d49f8b44e/cf78cc57d81604d7544f560d49f8b44e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/647f26320242392554aa1c9cba7461ca52476b81e8b057994307183514870f185c9cc18670c68803c5b8503e291546ced7ca1558485ddace6fb82f2f6bcfc8e52a7f3ae0e385bd0be73d072836960e85a86e8bd5855decf3c1584e981937c8a2cc750bb2af41afb3b9927cf259438ab6870d267f7cb900e634312dd54f5928503a45b5688da5b30691406cbd41e7a611/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf78cc57d81604d7544f560d49f8b44e/cf78cc57d81604d7544f560d49f8b44e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Honky Tonk Women",
+            "episodeId": "cowboy-bebop-27?ep=851",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7b6a7243b427796f8e87a07df1a79d7277b1c2fa9e3aba8fe0f2907e8ea8ba94d57569db80686c3364daeb51aec6074a58bb9448c5221ac8b40142bd74d41f167b302015b3ff7d1a33ab843ab4ff361672e4810f5a3bf01f6ce490762573e71475ded522a6037099f4c843f39f898764afd87587f8ca91c2b4dcb646a0d43304/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6104414a847336a54e2199fa149448e4/6104414a847336a54e2199fa149448e4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7b6a7243b427796f8e87a07df1a79d7277b1c2fa9e3aba8fe0f2907e8ea8ba94d57569db80686c3364daeb51aec6074ab9e50b51cac0f8c34f9a0195f07ffc541630f48a84577c616e35f2bd8505465b9309e676c9453021d4c6c0aa26be09b41322d69acb72479a1f8d39aba95ce682c40a0293fa18a6e71a598a982e139bc1268bf714aa09b2af437c3c71664211ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6104414a847336a54e2199fa149448e4/6104414a847336a54e2199fa149448e4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gateway Shuffle",
+            "episodeId": "cowboy-bebop-27?ep=852",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/55e909a6b2a5ab0c735ca82f5dd25b04f0e054c6d05985a13e6d8dedfa0bf7632b611bb67940f775c846c965d2ba469dc4dbc27d92b1db333c6f43b4d1d9616cf897798756cfecc804e0cef07d8cde335b589a6c685cbb811a34ba4740e3e1161e19bc3c8a1f7efb0fadbd643ffd932dadee0139a5a4c1d914c049b1c078f5a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e37e03edca20b515b93706951fad6ba/9e37e03edca20b515b93706951fad6ba.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/55e909a6b2a5ab0c735ca82f5dd25b04f0e054c6d05985a13e6d8dedfa0bf7632b611bb67940f775c846c965d2ba469d1e34b74a10bcf6d0eae00cad9036d7b6786f792cc2263e4a00554c20b653036684541aff5a0efe7c1262453ccff4f8cea2b1cbb40be9c2aeaa78844f7d27650ecb6ba5145c5982d0bdc1eefdab099c6466da5afa9c6388ec3da010502fcf6d06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9e37e03edca20b515b93706951fad6ba/9e37e03edca20b515b93706951fad6ba.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ballad of Fallen Angels",
+            "episodeId": "cowboy-bebop-27?ep=853",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/bb25944d3bd350d9cf3628e66687c6f95135ba259e2bd57b88bd9099cf0e1f5bda117fa2ec6d43eea7d21bdf03a87532c11d46c7b0a46022cef5f8616ec64b006a20c7d3b12785b4505fcc45bceee1951abb533b22a2b98eed007c5347eb7c54fd7f7eca6cb6ef9ccb8d9621cf88c138b31d6ec1c1adae16e8b336297bcadf2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e091188375fcb7678e20ef71ce2a8ef5/e091188375fcb7678e20ef71ce2a8ef5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bb25944d3bd350d9cf3628e66687c6f95135ba259e2bd57b88bd9099cf0e1f5bda117fa2ec6d43eea7d21bdf03a875320aadb06fd974821081190355276f478e089cf0983667cebe4c03d09c8070894317e83ada04e6aad04a8c2ec0e9518a7271f9d12d614df127d3154f835413fedcbd71716a90d4c78bc5a174b4de3388209eca36bd5e309e7c513f384f7a1675c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e091188375fcb7678e20ef71ce2a8ef5/e091188375fcb7678e20ef71ce2a8ef5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sympathy for the Devil",
+            "episodeId": "cowboy-bebop-27?ep=854",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f4c8297acddf6cc7be26b244f192941aabfa6e1941e6b22ab2acd0756a4d5b2667f96e82c0d580ade1537a6feba489b42b4f215e3be78e10fbb13d4653b645ac2a7b8885a8c9f2b05b80f515bb9dfb8627d57bf42dc3ef72d94bca30e0244226cdd331b4450f305fd1ea58c419ce361acb5cb9066b9958c38ced62ac8331c58d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25b247829a85794b91305f220da038a0/25b247829a85794b91305f220da038a0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f4c8297acddf6cc7be26b244f192941aabfa6e1941e6b22ab2acd0756a4d5b2667f96e82c0d580ade1537a6feba489b43cc250076259062e9de55321eb5561602370b808d3ffe525f64fe8bd75bfa911691b5dfe6da057319847f42dc329118d16a84184b89f88a02b093681781225d00db58a211d2507bfe90c29b952fb4ba7104011662ded7e14f7993d0decef1cb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25b247829a85794b91305f220da038a0/25b247829a85794b91305f220da038a0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Heavy Metal Queen",
+            "episodeId": "cowboy-bebop-27?ep=855",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/33f88f4cc3d8be3f81c15d2547ca0452daa152d74de014a3a070d5dc24d420c03d0af9e62b4943c2f378c0407103da6cecccf328bd907a950c274411806cd843420e0c4b2e75a20da062797c3981ca0b35390caef7d27f2609742e488ebbcecfc2f1c8651accc3acbddbc76096f1315211170e722bbadb6d8c170be9ac894009/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44b915cfc6375c21c46663f23dda43ad/44b915cfc6375c21c46663f23dda43ad.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/33f88f4cc3d8be3f81c15d2547ca0452daa152d74de014a3a070d5dc24d420c03d0af9e62b4943c2f378c0407103da6cc567b7d2a4b9aa728aef62c3e2ea8f87eb2ee256cbcda2d43666a7d02455eed0f749824b0d82f450054b340ecd9d62662ab677aca84778b12ea604844bf8624b7a00448b26ba83c8eedd759c22f1c3728393380b6999bede083fa3aa28a1ddaf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44b915cfc6375c21c46663f23dda43ad/44b915cfc6375c21c46663f23dda43ad.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Waltz for Venus",
+            "episodeId": "cowboy-bebop-27?ep=856",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f7d534d3a5bce87d8f57d9fd1ca9381586b8b1b33ad639c5fa774e8a1e7419b259fec8eab6802e876a74b37455fbd013ef7e9f16f74ae3fd42f44616791297dec9dec0d5e549882cde340e8a0dd2e4af3c0754a010f0747df02df3bfe55562c5651dd16431cc1b5f33a83a9ec69d033b668685b44a521facbacf1bd023eeb351/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7543132c9ba1931d34e0e28587ea08dc/7543132c9ba1931d34e0e28587ea08dc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f7d534d3a5bce87d8f57d9fd1ca9381586b8b1b33ad639c5fa774e8a1e7419b259fec8eab6802e876a74b37455fbd0132960d37d3351d83938816bdcd4c4cb1619f7b84a09eb49a667d85c16416169da2393b9cb34d49a1dbbc2fb88db4f6ea86fa57f0293605d6e1d49d99530231bcf78ec5624cfe128acc5bb413db9f53c42fb3112c05489f0ec550ea9fe82f7b9c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7543132c9ba1931d34e0e28587ea08dc/7543132c9ba1931d34e0e28587ea08dc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jamming with Edward",
+            "episodeId": "cowboy-bebop-27?ep=857",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/368c2ce2d26a06af1b467041910bc71bf425ac9731fd4d3c8b88660a740ae7edcd50ebb0586710569777888c5c2a85761a9c6997c5e846a00e7492d45916b4bce7cd2a4a48941a666c4308de3a4667a6cbe64ec40768244160c34ce5b4c5bb5430c5f8773a27c63fb4cf93101b7ce3b1962e732db40258610cac767c22608bf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ff14596502c36849f00d1c2f339a09f/1ff14596502c36849f00d1c2f339a09f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/368c2ce2d26a06af1b467041910bc71bf425ac9731fd4d3c8b88660a740ae7edcd50ebb0586710569777888c5c2a8576b3fc71c5fd4365b765225fbf26e24fb174aa1c7d9c1da35a6d5afb73d4b7266e90b939c137644873a320ad870ef378b34c53337ac339f35df3d5b9045e103d366372d1307747d2470dac6858d382c505e52fce3d7c8605e2e053f46e2c9428f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ff14596502c36849f00d1c2f339a09f/1ff14596502c36849f00d1c2f339a09f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ganymede Elegy",
+            "episodeId": "cowboy-bebop-27?ep=858",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3203a9ebedc5684e0a7f4070635c1048fd6feb94d44ed3180ea1e938df376f3e38333552bf7e23b8eda2c5b98ca2302857d4e7401b6ace37d8ea2a2f347993d1aff4e06bb57f419a5d03d7b14b6a9b96923adb5cd3b873aac4b6f3e1a79ef7c381172720aa14a562f3df2478eaddd9ea1688a67dc70b939f8ed4bd71bf364731/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aec88cf7d5ec17fd8ccc70ef85ea365f/aec88cf7d5ec17fd8ccc70ef85ea365f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3203a9ebedc5684e0a7f4070635c1048fd6feb94d44ed3180ea1e938df376f3e38333552bf7e23b8eda2c5b98ca23028f5bdcc3c30bc776c16edee8d183bc14d5f6e4d0553d78226d4ce41f034748c43f371d0de4faa27e30ce003b2baabf9d73cc0e9955da0e8ad19acf68674ee066c79ec6feca0a3799216ad1b20a688ff87acb246e8d925d47ea29684ed98bea8b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aec88cf7d5ec17fd8ccc70ef85ea365f/aec88cf7d5ec17fd8ccc70ef85ea365f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Toys in the Attic",
+            "episodeId": "cowboy-bebop-27?ep=859",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/39275a5a201e2eb6bb0f58eb21850f53344b10e1c7f5310c5eb927284119b2c9dd3646f74210980bb6fcd9b346ea9e5b04d346d8aa380a49d6a99ba8c2b8f46be401d65a7ccca2fefba59e9fc04a8425f20aa84bc302ee823a8f21e685753626134b2abb3a17f19efaff42ad935276f0ec00f46903c3a214bd7140df9433dbd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/936ed158ab1a3c04fea846ab2481b5ab/936ed158ab1a3c04fea846ab2481b5ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/39275a5a201e2eb6bb0f58eb21850f53344b10e1c7f5310c5eb927284119b2c9dd3646f74210980bb6fcd9b346ea9e5b4949808254789fb7402f6bd5e93e5a1d6730f1eadd13fbc61c1a93c20aa284c5d4b0804e44578f44e93da95b4b13f54925497af04a1a1e395c6f9605f42075094aa9b9f58dcc8789bce7c1df0cc8793859ac6920c65085fa98b5971913a6cb80/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/936ed158ab1a3c04fea846ab2481b5ab/936ed158ab1a3c04fea846ab2481b5ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jupiter Jazz (Part 1)",
+            "episodeId": "cowboy-bebop-27?ep=860",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/534d03c35feabe364b1e8fc1ebb8f40eb1df7c3fd404aa4d11434dd6bedf06423830b3eedfbea7764bf7afcb15d13ef73fa21e89f897ec8380301ee369629bf387e952613d1dc26c119ab1ec3eca93dca99be83630b723a9667d10676150534995b6556aa0f057f401877bb0590ce27c046fd2e93bc0e8e2c45ea71c4b0b320d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7d02a246be7bf1e3165db801af86423/e7d02a246be7bf1e3165db801af86423.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/534d03c35feabe364b1e8fc1ebb8f40eb1df7c3fd404aa4d11434dd6bedf06423830b3eedfbea7764bf7afcb15d13ef73364bcbf60732d1f89b2700194bc23e3ee4f79fc8ca9ea5ecb2c1b2840bdd66f4e915541158438b436fd18649db2ceedf9a0ad334f3c1003a22a2ea1ae6c1a83a7fdb6191f207abc185ab3cbe5d0c33c253dd5716a7b969ea549c3dc94e3c1e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7d02a246be7bf1e3165db801af86423/e7d02a246be7bf1e3165db801af86423.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Jupiter Jazz (Part 2)",
+            "episodeId": "cowboy-bebop-27?ep=861",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/296c52c44f85731bd92097cd88563a31abfdfa67ad4b4ac51d23b6b76bd355c6175417ecf2cca471492f4df8db18b9c7132a4488a213dbd39e0cc0bff5a6af1d0c428bd2757fe01e2b15bd269ebd9970ebc638a2bb68057b3da7bad914e57f7f2b4b4ba9a5357bd2de0e20b55ed4535a2e84d96b168cb893ee5a06865e9576ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e20e37756da64d9213b4d0ccfbdefdb5/e20e37756da64d9213b4d0ccfbdefdb5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/296c52c44f85731bd92097cd88563a31abfdfa67ad4b4ac51d23b6b76bd355c6175417ecf2cca471492f4df8db18b9c70b64389af3539f6e841ab08e7a7c25a0b6fbd7fd032f2df43364d3414aa30192c1a511d62e5c86db08e2b871af3b2f8004036c277fb61b6eaa57500849da8b48265f25ae0612b4738019b68fba0918e11b0ec962f39329da22e799adfedda5ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e20e37756da64d9213b4d0ccfbdefdb5/e20e37756da64d9213b4d0ccfbdefdb5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bohemian Rhapsody",
+            "episodeId": "cowboy-bebop-27?ep=862",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d0139b74e8da50cc36a2c10a9a4b83de216552cdaf2d0345405ec9180b3577c8564de9a7c773b47097b86ff78e86e139d09dea04af709a2526c53434a256760e9bc4352fe5a2ff46eae66c0da144036e807f985c1fce8c128af1bf0dbbc7bf875001b2b6925c043bcd298e23d6f1f5773788d96279460220fe089be4c8c68b22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85e37f182d463cb8884238c674cef224/85e37f182d463cb8884238c674cef224.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d0139b74e8da50cc36a2c10a9a4b83de216552cdaf2d0345405ec9180b3577c8564de9a7c773b47097b86ff78e86e139f64e3c3e9cdc27a7f8d85552d2e66f9d94f2359f475f869dc163604d02efa476b25a21f42de490be76014c3f91f57c21c80e6f73b72fc2d6ea5556e97b1945050bafeb5fa952a2f3a994d416ede9574b60aeac6aa332ef6ff57092b6361fcfc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/85e37f182d463cb8884238c674cef224/85e37f182d463cb8884238c674cef224.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Funny Valentine",
+            "episodeId": "cowboy-bebop-27?ep=863",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8d15e641a42a7a9a2d3890502bee6ff9d8b9b05fa14283b1f1dcdc1428d9f9291231eee2768069b2b0417cd01b8acd7a463be05cd43a7d597ac2955e6a99371d3402efc93d8f50d4f425b2064cdac7e7f74bdf337bedb296e2c99b89da638a50835934549877912d6c45728b034ea3b0bd39078307952de0612787aa63dea40f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2fdae5cee13b93b5c4ee95c0915c7a/ca2fdae5cee13b93b5c4ee95c0915c7a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8d15e641a42a7a9a2d3890502bee6ff9d8b9b05fa14283b1f1dcdc1428d9f9291231eee2768069b2b0417cd01b8acd7ad2569d998a4dde47c88691f9db2fbd9df48e0b9c7c0f10755d28dd385db719c4287e9692adb7718595743f670733c1989f6ff11eb9b0891af7ab4a905c719181e117182e07b5eb263060e4ccb252ec485f12663fa7f8bdaf55a998bc99fe188d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2fdae5cee13b93b5c4ee95c0915c7a/ca2fdae5cee13b93b5c4ee95c0915c7a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Black Dog Serenade",
+            "episodeId": "cowboy-bebop-27?ep=864",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a3ab22d7691e809cbbe32cc77db50e7ae4d9b8dee32bd048c558be2e6af6c7cd8a08509c63b39607080cdf4da776c0d506a96248cde566d82a8e26a961103ebba1d8a5310dfe95dd950a13102c10c337d6a4cd16c51b57c175e2dbc9ffe3a60786d0c7dd496e4d7dd703d40cd6dd2030ee232d69495f68116501d5b0682c63ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfc75bfa74253528ccd0745392eae72e/dfc75bfa74253528ccd0745392eae72e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a3ab22d7691e809cbbe32cc77db50e7ae4d9b8dee32bd048c558be2e6af6c7cd8a08509c63b39607080cdf4da776c0d5dc70c6ebaced48e0301e3091debbd5d1e9e1db2559486f6698dd68ecdb4af085fb3159eae7c1969bae2b11f5bdfd6661c7f6556bcc91b76658244fc1a6f484def5b78485bdfcacfd0053aba258fb390e0424ef6d09d5324cdc6b8555f537bfc9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfc75bfa74253528ccd0745392eae72e/dfc75bfa74253528ccd0745392eae72e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mushroom Samba",
+            "episodeId": "cowboy-bebop-27?ep=865",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/631f00a853481aef0c117d385ebd8e14f9e29a08f6dfb879dcef036e640793a8ad2e4ef5ee0de44a842ae09c41a2fd22e0b65edf4edef6dad4ee2540d04762230e4b9063ac02e7f0522885fa50ea5c96fda477db8da2fef824e70fdbe25b72e5f16852769bd1d54134c698cf4645152bdce4b5f08498482489496f69ccc97c1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b30891e39a908f6f6f82c35c3df5b58d/b30891e39a908f6f6f82c35c3df5b58d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/631f00a853481aef0c117d385ebd8e14f9e29a08f6dfb879dcef036e640793a8ad2e4ef5ee0de44a842ae09c41a2fd227df88b9e163cdf33aad837df6c19947841276cbf448ff6afca328641b9a8f688d04b612ba046060d9fb16be8b39e8fe99ad024f129e7cfa953e49cf2ba742dee1e5fa0547d4f4fb201e13f5f32ddcace757f8fdaac66121a28f9fe494810ccc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b30891e39a908f6f6f82c35c3df5b58d/b30891e39a908f6f6f82c35c3df5b58d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Speak Like a Child",
+            "episodeId": "cowboy-bebop-27?ep=866",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7e78995230e759218895fd762fdfaa376743c633e29e6d86d0bc561584e1e38f5967f0170e3d39b7a26a1a7b2f157d8bcd4bb66a10a938ac0d4cbe38da1dd9c1d15f1f94e98339a5e8aea0e374a07568bd68e81daaff08ad05d125d29ce83b2b0af2bad78f591b5ca6d9997b144fe6445c42af0de0b521fa07992c1c948fc44a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8af1e938b020cbadb014dc8ed8d74e14/8af1e938b020cbadb014dc8ed8d74e14.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7e78995230e759218895fd762fdfaa376743c633e29e6d86d0bc561584e1e38f5967f0170e3d39b7a26a1a7b2f157d8b565e0943511531ca51eba2596d1da77816e1e9a7390e17c2ba10ede0838b95e973fa07bd1f7a9c35ea109a148cff718aa09ba7970c82efb97695e46ecb78c367bf7d88e3861363904bb4288f63a034b543ef655b8bceec9aee375920d7660c5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8af1e938b020cbadb014dc8ed8d74e14/8af1e938b020cbadb014dc8ed8d74e14.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wild Horses",
+            "episodeId": "cowboy-bebop-27?ep=867",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6029cc5d5fe0a5112a29367ed07d3a7a2cfa83261ddec2e18bc0364e5e2266386694174302f8b226e3bdd55eea9c7023a17eb6658bd7d7089bbbe3933754e8ff5db686b03c0e0295e89f6e54e73d269d53e84b3d01d4820d1aa03affde0ceb01c60a4ab6807112fb24bd2f22d48ac3a5bbe5e9728e052748e0bab65137cee9d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/489b175f89d5f872be976b96ec613744/489b175f89d5f872be976b96ec613744.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6029cc5d5fe0a5112a29367ed07d3a7a2cfa83261ddec2e18bc0364e5e2266386694174302f8b226e3bdd55eea9c702395fd23f4d9bab6c7d05e0ce822e414bcf909e4d66f46354cf2af5ec05543b28bdf011141ade03ec085780ee7eabbdf757e3195231d7adac989291ec886b5fa25a7c4bcedb18dcbb527a52295e64bc6ebfe5d0233ac3a5e27d42a1a253ab82287/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/489b175f89d5f872be976b96ec613744/489b175f89d5f872be976b96ec613744.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pierrot le Fou",
+            "episodeId": "cowboy-bebop-27?ep=868",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/fc77edc1b642f361db8e54261fef2951425c24db112b800716895ee407d00e37a88ea2f85c01c5111dd575ef4b544a91572bd50190c9878333f9dc286bc6e0bdd1db83d479b9e91958da7f95188ba0015578b755795f3449535bfd8b10abbcc6fb49e31d814fa5c54eeb6947d731508beb00c9cd71ec64cf5640c2a066da669e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1512f010b32679cda63f8c2a5ee3dab/f1512f010b32679cda63f8c2a5ee3dab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc77edc1b642f361db8e54261fef2951425c24db112b800716895ee407d00e37a88ea2f85c01c5111dd575ef4b544a91dc07fedfe8d3ab87bd8922ffeaf07df7693796e1f4117abd3fe91f13482bd42d8d37170ab36b9ce595273b1471aea5b4c98bcd69284cafee8f0faead6579be43c716a05ebc867ffc085176a139abb0494fbb603259d0a5f78efb6cb07d2efccb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1512f010b32679cda63f8c2a5ee3dab/f1512f010b32679cda63f8c2a5ee3dab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boogie Woogie Feng Shui",
+            "episodeId": "cowboy-bebop-27?ep=869",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/08e5f28a3d5b80d51f4dee0ffc6cc0eeebf9a15718dc381d81faad71d5cf243bb8e8c1c3ce1baf92fe163113f32b6a5e1f27f315ec24af81004f056c3a0615ddb480a28c11d9c2bb40bae563fca0046c2e9eb41ad60fc4c98bdefdaae26d99580f8ac90c554c5372fe91f9ce369ceab97f4ba999fdb75a07df5c7d0c745fac1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/578573e4fb4458543c11df751ccee6e5/578573e4fb4458543c11df751ccee6e5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/08e5f28a3d5b80d51f4dee0ffc6cc0eeebf9a15718dc381d81faad71d5cf243bb8e8c1c3ce1baf92fe163113f32b6a5eb76dc4ddc6e00f6fa3d9935c1d8df1e4288d872b3f5384c9396c430e9962f7bc8f358400216143604179739744c9ce7a780862d718a571e8bac796c9d9872e51bdc8f8f29bd5bea4749397c2fff4bc0f80200092146c187fb98f17a2e91310ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/578573e4fb4458543c11df751ccee6e5/578573e4fb4458543c11df751ccee6e5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cowboy Funk",
+            "episodeId": "cowboy-bebop-27?ep=870",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/389d22cce3a9a9bd8c8cf5c50195844a49ab9a7863d9144dfd05ecdcf3a4dbbb663b55ea4fd0b2472a5c35262e4608651f84224dba2ec5ba04a695e67acd24ef49eda4bafaa906568e9fa5170bba6e4107cb76715fd711c8c03c8eda8c0f15815b2127abe604421bdb15c69a612597fd039b4119498a97cca5b0cfb273da4f37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fbb2c9ee911efa6d0f645e6b9ad0be8/2fbb2c9ee911efa6d0f645e6b9ad0be8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/389d22cce3a9a9bd8c8cf5c50195844a49ab9a7863d9144dfd05ecdcf3a4dbbb663b55ea4fd0b2472a5c35262e4608657a49c71e8e8f6f2de7f1a53ca7041948ad43f339c0e6742745622f404c863d268250101c86333f20de428e1f121417e443c40992a85ecd3248a661b1a7399b78800f2c4c65ae7c8e31c7da8cd00bbbe2b12603dbc613998d2ceaabe0a7afc4ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fbb2c9ee911efa6d0f645e6b9ad0be8/2fbb2c9ee911efa6d0f645e6b9ad0be8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Brain Scratch",
+            "episodeId": "cowboy-bebop-27?ep=871",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3dac0d25a8e5dfddad7d6cc4b07df4c1f756cd518e95f3c1c914a66a6acc6dc214dc716a1fe83845976460328984a9e2ba75f044fdc266c9ad2b755e38c23684adfc917ac6a1578c361c978cf430548063931d75883b4e8b207ddff190a90b5495a979b2a330b293de972c62c4576b9e12679b0386deed6f7b53215f32c39073/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf7e62deea1b747b26b1c96cced4e1da/bf7e62deea1b747b26b1c96cced4e1da.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3dac0d25a8e5dfddad7d6cc4b07df4c1f756cd518e95f3c1c914a66a6acc6dc214dc716a1fe83845976460328984a9e286a4a1c1ad5edde2a06fb12683f1bc6aca31292257fce2c694b9cb8021f2f1193de94d841c2a016c53f479b8b84cfe60aa6c213d997351ec5241d6fa5cb221a283c1a6f35b319ee3cab63d1151f724608602ab6ff3f923386e2c9b0c2974c584/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bf7e62deea1b747b26b1c96cced4e1da/bf7e62deea1b747b26b1c96cced4e1da.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hard Luck Woman",
+            "episodeId": "cowboy-bebop-27?ep=872",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c5199e8da73899329777d45d55eb85829316b4ae182deac5b2ce618d7d4091263dbe2a56bfaf6848e643b72c6a5af0c305829fee81c7e60bcf8568ab3c29448dc3fca36c6aa2ee6e4f1111b61c7b5a8400a511ebbe8dc6f037b8a90bea72a58fb00845b21c6085fc240653af5bf89f030df2f4346031057e14b60e7bfdc26652/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da331ea0155f009d76dfbcfbbea81b7a/da331ea0155f009d76dfbcfbbea81b7a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c5199e8da73899329777d45d55eb85829316b4ae182deac5b2ce618d7d4091263dbe2a56bfaf6848e643b72c6a5af0c31cee776b4cc0114ece527a8e22a2d564e1b2a15848732a609ec9bbcea7c151837a8dbb9eea4ad8f6e5545e35ef7e84a898499ef5da31b621c87dfb1a43894cf115789179bbfc8770365c6f22ac690368757b747e516f2f52cd83040594d41b4b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da331ea0155f009d76dfbcfbbea81b7a/da331ea0155f009d76dfbcfbbea81b7a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Real Folk Blues (Part 1)",
+            "episodeId": "cowboy-bebop-27?ep=873",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b8531ab61a7b62df0e57c7c24f881d0f7a38d95bbc1a3ad569f5021f4df202c2e42911a6b2ee2095e51800b753a38cc4375b512375947a5841b07ae043cd719bb0b79405e5c89f81ca9d66c6647c2cc3996c18d5c0fd57d67c80d7ce899cc994b14d2735cba22aa9f1babd67486657fe6f8472bf824bd1d6a8078a4eb64f803d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bcea1a96810ad024d478a128d65ca0f/6bcea1a96810ad024d478a128d65ca0f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b8531ab61a7b62df0e57c7c24f881d0f7a38d95bbc1a3ad569f5021f4df202c2e42911a6b2ee2095e51800b753a38cc47c0f79c9487efcf4345212452f49a5663595b7bcfd5354ae9d6d9e0cc45a2da5a97c9bb7c66df982c1ab583097e3971f4ede34ee6475fc49dca1f2cc7ca17d7a9c1660c070dbbe601323d0f49d7ce451c4e379a57d51e000cd2dc59fad6f7844/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bcea1a96810ad024d478a128d65ca0f/6bcea1a96810ad024d478a128d65ca0f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Real Folk Blues (Part 2)",
+            "episodeId": "cowboy-bebop-27?ep=874",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9654b1d2db5ac98ce89df2c2d619f587ed3b11a6e84e0c2bd0758f3c96c5a1e96bdec4da6eae87f1a6f85dcf1c1fc0831d64d48b9d7e25e6ba4d7391c6ed67cfceecacb2b93200e917d56f310cea3103c215005e6fc34dc52d9038d55c61dae980761bd9bfa59a0f484c5152a8f701af1f93adceced9887b8391dabca6577df8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/067dc51c67af106e232958cb82326bfa/067dc51c67af106e232958cb82326bfa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9654b1d2db5ac98ce89df2c2d619f587ed3b11a6e84e0c2bd0758f3c96c5a1e96bdec4da6eae87f1a6f85dcf1c1fc083e510e2b80b1a178025b56802c4262e2484c9e538e7a473db958db652375917ec681bb136cb6bd0e5d3b00dbb1e9f442adf8af50476775bba6b8028eabe899e4234329a8459d092cd3ced310c37d05277edba04afe1e6136e5f005e297c68ae1e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/067dc51c67af106e232958cb82326bfa/067dc51c67af106e232958cb82326bfa.vtt"
+                }
+            ]
+        }
+    ]
+}

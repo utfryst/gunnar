@@ -1,0 +1,585 @@
+{
+    "info": {
+        "id": "gundam-build-fighters-783",
+        "anilistId": 19319,
+        "malId": 19319,
+        "name": "Gundam Build Fighters",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfba9def2c026a35ccf322b2cd5c91b0.jpg",
+        "description": "Though Gundam Plastic Models, better known as Gunpla, exploded in popularity with the release of the anime series Mobile Suit Gundam, their presence faded before resurging with a new purpose. Through the power of Plavsky particles, fans are now able to pit their Gunpla against others in a virtual reality-style battle with the best competing at the annual Gunpla World Tournament. \n\nSei Iori, whose father was a once finalist in the competition, dreams of one day conquering the contest himself. However, while Sei is an expert Gunpla builder, he lacks the prowess to effectively fight his creations during actual battle. In comes Reiji, a mysterious boy who is curiously ignorant of society but quickly demonstrates to Sei tremendous ability in Gunpla battles. The two boys decide to combine their strengths in order to sweep the Gunpla World Tournament and take the Gunpla world by storm.",
+        "stats": {
+            "rating": "G",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/NcOQh0MkLOM",
+                "thumbnail": "https://i.ytimg.com/vi/NcOQh0MkLOM/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "sei-iori-8742",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b1796e5b4cc1cf9bfbbeb1c5cacdcbd.jpg",
+                    "name": "Iori, Sei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mikako-komatsu-229",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecfc7c5c031a8f1c17e4aad34c69166d.jpg",
+                    "name": "Komatsu, Mikako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "reiji-6464",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ad263eb3413d3a2c9ee52bd93f094262.jpg",
+                    "name": "Reiji",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sachi-kokuryu-1107",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/60f5eb1d8afed50ac775e02b62a48a9a.jpg",
+                    "name": "Kokuryu, Sachi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "allan-adams-53891",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4c34012f4c8dd6a06bb05929ce0b31a4.jpg",
+                    "name": "Adams, Allan",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "subaru-kimura-904",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/531fd66acac7b5faf0fab1c348d695aa.jpg",
+                    "name": "Kimura, Subaru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "baker-85460",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/87f1bff3547719e3b1716bc0c2e515b0.jpg",
+                    "name": "Baker",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "natsuki-aikawa-1952",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f25805261a63aca37a36405b9e207879.jpg",
+                    "name": "Aikawa, Natsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nine-barthes-66837",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ba88efd30e343538d95096c4e5e63ab4.jpg",
+                    "name": "Barthes, Nine",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "daichi-endou-6583",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d0fa0ec3930980f52d98141d2e86348.jpg",
+                    "name": "Endou, Daichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chairman-mashita-89345",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af9813d9eae250633c8044ebbc30eb96.jpg",
+                    "name": "Chairman Mashita",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tetsuo-sakaguchi-13609",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/566a6fde2a62b2013eb5c768b517df82.jpg",
+                    "name": "Sakaguchi, Tetsuo",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ガンダムビルドファイターズ",
+        "aired": "Oct 7, 2013 to Mar 31, 2014",
+        "premiered": "Fall 2013",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.81",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "TV Tokyo",
+            "Sotsu",
+            "Sunrise",
+            "Nozomi Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Sei and Reiji",
+            "episodeId": "gundam-build-fighters-783?ep=13510",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6171a418b99701bfa812bf5da5f1336564ab7c665145b7adb62f2a595d796fbf8eae80022fb24511e251278afb1f21ad678d755dfd92fd065bb068110a31853c117c2a9320721d42e99988318eb9f991fb1697b9f4cd453d933a328bb5d03b029a95c37ca56ce770079a5402efd8da9512fcf89521eff57c73f78c2ad13e54e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd33cfb7e5092a72fafc9f3de4588493/fd33cfb7e5092a72fafc9f3de4588493.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6171a418b99701bfa812bf5da5f1336564ab7c665145b7adb62f2a595d796fbf8eae80022fb24511e251278afb1f21ad09d94500177968b53ac60243abdc6a8dedcc2f5a944e67fa61dd9186e82af8a4307a9a0a5f91bc0e18c5dab3df1e3216a1e1f1faba9352fbdd3f32ef2f2e79045801df42c98614893c5552a0b39a7b441f88502b4650a4d85971d69daa652100/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fd33cfb7e5092a72fafc9f3de4588493/fd33cfb7e5092a72fafc9f3de4588493.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Crimson Comet",
+            "episodeId": "gundam-build-fighters-783?ep=13511",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/67ad9540c44b6cac4179257ef448ee3daf3e86930fd5e4b0bd3b4762e460845251a3a46d59a796b412ce43602a0a3316e08ddd4f49904731cf0e8f4fca7ebb71f6481d93656503a0a00078092bf517142a6265f9ceaa90f9bf32fcaa0495dcaf29778dd342867fe8d6543e31071c751130b5d8bee4e65c347f70e8b51798841f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd47ea08ced6da9d28f30a84e044c4a0/cd47ea08ced6da9d28f30a84e044c4a0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/67ad9540c44b6cac4179257ef448ee3daf3e86930fd5e4b0bd3b4762e460845251a3a46d59a796b412ce43602a0a3316e9c22011dd8b2996f0e87921fa8c5774e5cca39d4ab1627e3f64d208be41ddf8d43344f502c21a9a0b886102592fba3dfb06a919e05893d2791b631a745a8cdea67f9398bcfe70591862510750795e1c94a8cd0a1609a0573e40e3b4667028a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd47ea08ced6da9d28f30a84e044c4a0/cd47ea08ced6da9d28f30a84e044c4a0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Full Package",
+            "episodeId": "gundam-build-fighters-783?ep=13512",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/69291f287289378fb7d6bc511c9dc66259c72f3d9aa419d5e38180edd62b6c383d7092d9192192d9dc0c98f495085cbe467808e83799936fa9a039a7fb9086eff6286c5814fa459ee867e9dbfd233de1c81e03f3c6e12565a86b1dd9c4321c63169c0273b39997aa1ec94aadd80457ba30ac40e626c4754a57770d9b3d6f8c98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c56fb003a94c1a83e3c0c6af196b1cc/4c56fb003a94c1a83e3c0c6af196b1cc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/69291f287289378fb7d6bc511c9dc66259c72f3d9aa419d5e38180edd62b6c383d7092d9192192d9dc0c98f495085cbe820a89afefc0cd257406459db62635bf74983a9c86b4f6f410a9845171429ef6939063b6a025d1e07731ba93b5a4f31af9575d1971b6938fec40e6bf4124de434fe66fcf7e98f0fd5a3883d7993634c8643bf09ff3c3a5b15e0af2a9c51c8f2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c56fb003a94c1a83e3c0c6af196b1cc/4c56fb003a94c1a83e3c0c6af196b1cc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gunpla Idol Kirara",
+            "episodeId": "gundam-build-fighters-783?ep=13513",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ce4c46c2a313254e11e3d5da0968d8fc2a0b6e724d1df0ea9f522aabce3705226ea9cc76cdb47330936a7813c4d6b264b23ecbbffaee116511197c32ce15b0e5b4f2c2ec9eb01f0c90125514c6db271cfa7c15f37978134c107285cf91d7e1f05e5e017f21e3f9d601baa53ee40b4562a306d1bf07d6b2ea7dd1eb97faec5eb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4ff8d7f6276d0137df3137cc0381aa/6d4ff8d7f6276d0137df3137cc0381aa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ce4c46c2a313254e11e3d5da0968d8fc2a0b6e724d1df0ea9f522aabce3705226ea9cc76cdb47330936a7813c4d6b264490e90a6060bfbfa0fab727e6cca88fbad897fed0ea64ba41ead23eecb7cfe9b7d564c7a15e346e29d935bc4788bdfbfa82fa86674d3d52219e3005b5f7a5dcd2aa7480c707c19bad5c65b296f0b2b60ab2b8c8003ad008556b605d6df429c2a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d4ff8d7f6276d0137df3137cc0381aa/6d4ff8d7f6276d0137df3137cc0381aa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Strongest Builder",
+            "episodeId": "gundam-build-fighters-783?ep=13514",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9a2061a98700bdfe93cb3f87efcf934da1d6b47f91d0467b3ba21cc42ea80006eb5e0f262918db0a4d51161981fe74c8f9bcdb6845414188857366d05f58e8bf48d0acba63401b06d94eecb0f6089eb5e1af190f1962d5e72811b82c5a3349ef7981892862e21b81f945a598312b784dd2aa8d51b8ae0bb7275637ba9d3d82be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4718b6b177695533040d6a02282957e/a4718b6b177695533040d6a02282957e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9a2061a98700bdfe93cb3f87efcf934da1d6b47f91d0467b3ba21cc42ea80006eb5e0f262918db0a4d51161981fe74c809ccc30bad7a895dbbe58c047b72945413e23260b6f8053d4e64d358be289c337208fee3284d59e51a00d2e37f56223cd31efa24b691a6594c1d9ec204ed29ad38d8a8ff202aef8f1b08330680e464d6726fd81275eac57da6b768e2ddb25690/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4718b6b177695533040d6a02282957e/a4718b6b177695533040d6a02282957e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Reason to Battle",
+            "episodeId": "gundam-build-fighters-783?ep=13515",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/004c7345ba9a29407cff42544418b890efba4289d79540b60edbe15a0ec051f940e92a491cd9f104eaa801bc2b4d195a1a7cbd27699d81ee599716554c07c7d25104d7c951774d96f345aace382bda035357bdf02498e09b1ddd741aa2cce695df187ece1614c3aceea583358d873e33694a5a30c1b188c3a57aab1104660574/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9710f570fadbb47569305db1413ddb09/9710f570fadbb47569305db1413ddb09.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/004c7345ba9a29407cff42544418b890efba4289d79540b60edbe15a0ec051f940e92a491cd9f104eaa801bc2b4d195ae2c200a4c9c055ef10527a71e8cfae25a2684b97d26ebd3cebd70e0dd18afe06eb8e5f9a19d8444a9059321ca004b03cb6054a00ad51b687377660548d5d164c24ec76e1770e8b71a95694a79c1e2b25de12c8bb1b354809d9f147f3f7dc0b82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9710f570fadbb47569305db1413ddb09/9710f570fadbb47569305db1413ddb09.vtt"
+                }
+            ]
+        },
+        {
+            "title": "World-Level Ability",
+            "episodeId": "gundam-build-fighters-783?ep=13516",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6b322fe5da3f3a072daf018b7b30152aa3885088eabe7846213a74b7ef72a843be47997b4480485a297884339a17256c6eac7c53a8e323c47668e0bb3dda4748f3345176fd60d48109418374fbc6a9b4357067af19bc12945f577f655a865d4871a3396e04be77075675c7ed67445c2f41ed65f60af340e005d2ca93614bfbdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a73e7e8ce9ff3e62754209a616fb0d/75a73e7e8ce9ff3e62754209a616fb0d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6b322fe5da3f3a072daf018b7b30152aa3885088eabe7846213a74b7ef72a843be47997b4480485a297884339a17256c6257f764f3f6a7006d7fdd96e73330977571c0615c72d397c133bfd553874d0ebb43e7dac1b4faa91dd78a1afacc22207422b71a3d0f8e16e9ddc31a00aa8f70bd79a5fc8f37bbf2f182321436ecd9eee6cd39b485a279c2bcc622bb12a53bc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a73e7e8ce9ff3e62754209a616fb0d/75a73e7e8ce9ff3e62754209a616fb0d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Encounters of Fighters",
+            "episodeId": "gundam-build-fighters-783?ep=13517",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d1fe2e7f92d980710e338c05e80b9b8e442ae5718666821d0951402e611612009c46cc32ffed8f13b91ef521cd37c2812f71e953e470af8e2263e5aa07e66ec12d855a24c66d9d18a17974666ad19b9507c2b7612a96374dc29d5d9106571350c26d50c96bc1b758b7af0c1214791ed567699a867fb3476f735c972d6bc538a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c097ff8b106f2eab791777048daa1692/c097ff8b106f2eab791777048daa1692.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d1fe2e7f92d980710e338c05e80b9b8e442ae5718666821d0951402e611612009c46cc32ffed8f13b91ef521cd37c281eae9a3b561c81260c06f4684c4f5a56521a419e19a5758ae2e027d38963198764aa4be352814d35132071a980756ad0c4b3f5da89efbf84a16149c9815a53ba49f0a0fa26dfb3779bb649ded80f6e459c4a82a4d15e1589e97556d93ee281a38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c097ff8b106f2eab791777048daa1692/c097ff8b106f2eab791777048daa1692.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wings of Imagination",
+            "episodeId": "gundam-build-fighters-783?ep=13518",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4ffb31a83baa411dd72cc61e18aabd41a00834d622ed54046d7e74d1e139c109ad26ad7a5c8cf49ef7e6668e78c214a624f6e40aaec80d6238882ae6b65cca9c05489d61ac5df181160191caccfbae079bf49ddae2a8daa43d3234f6a62c03e2a04b68eb272000f4955d7575216ee0920db48b4f17ef90542dc594cf61443f2f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d9c0879ed250c62c89aa403978b1d48/0d9c0879ed250c62c89aa403978b1d48.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4ffb31a83baa411dd72cc61e18aabd41a00834d622ed54046d7e74d1e139c109ad26ad7a5c8cf49ef7e6668e78c214a673f919f404cd7994715583fcf3580c85a96fb16866165f0e85d6d5b8fea6e10d9be0bc3f96789de0937e187d1b9d5fcaab4d7af2ec418ee54c0084de7a298f0a4881ed746e3cf044fe99fc79cd05954f0449ff57891596646fc4dd4b92f3d9a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d9c0879ed250c62c89aa403978b1d48/0d9c0879ed250c62c89aa403978b1d48.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The World Tournament Begins",
+            "episodeId": "gundam-build-fighters-783?ep=13519",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/22ea60a4a96a8c2f0c053dc54152299784651d35982d7fefc7abacda7a74270e3a8aed287611d3646a91e154e79ef0e2a2424dc9c239d4b38bf9ca1d4ff9d569ccfe79803ad4117cac1a15c08f7e18db665f309236bd1c146599404248fbda575e79ad72164fa6c80aa97f64bf0292f183e3e741f4fb4a246e39f0672f14a659/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b8b5b9ada7dd55c8572b4ad598e3840/8b8b5b9ada7dd55c8572b4ad598e3840.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/22ea60a4a96a8c2f0c053dc54152299784651d35982d7fefc7abacda7a74270e3a8aed287611d3646a91e154e79ef0e27271e0aa06187ea5adacda7f3389a1bf3da7d89495243c258b99b9c402c286cb99af6118bd13951e5fe846571fd8765010922bb439403fafc0d9a012bca2fb44367ce68638d54f17b75077419235254a9d2bdd8557a2dc5844be03af47effb2f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b8b5b9ada7dd55c8572b4ad598e3840/8b8b5b9ada7dd55c8572b4ad598e3840.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle Royal",
+            "episodeId": "gundam-build-fighters-783?ep=13520",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/41461ca8b19099198c4b298fea3dcd63dd2cb2dab9448f82355201411fbdf7ccbf9167f7483f399b066e49e68ac6db12738f3ac9f2473560a6ae8bb6837b310b3a9c79fbfee31fc9db5cd9579dce4a62873aa94631d1198f2b59aea89d3f7e29007612fbbf5c0a0d3e56937dbdd2694ac6b33792590a6e120dc9f08d65d4bff9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a19ec9ade21327722787dc0e1774cb7/3a19ec9ade21327722787dc0e1774cb7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/41461ca8b19099198c4b298fea3dcd63dd2cb2dab9448f82355201411fbdf7ccbf9167f7483f399b066e49e68ac6db12cd227e3edf89cfefaf7162954294cea5d8163aeac737f55efbae1eafe50d4dbf10d344eba43c0789016f0903f672152d86b413b4b0d84f261db3c566827ab54a84d0f0173024f152f27cf3875600ab3963d99db8494da9593b619a45c7969c7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3a19ec9ade21327722787dc0e1774cb7/3a19ec9ade21327722787dc0e1774cb7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Discharge",
+            "episodeId": "gundam-build-fighters-783?ep=13521",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1bc75726ad30f06bc643c17852b366b5ebdc03e51eeb9c3d886e0c69acfe4e81be249145dac80d641a84e34d3f5fb3124ad35affb8fa9f384c1f9afaa1f50c700d225f45f23d9c164bdae5daf932e05c53154557951641fec474a9b136ecd7bf4bc779b375c66409898f0572d21acac9e0069579052ef18cd3e6973a26c081c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f578c0fe54f0f3e276b2c5612d71a3bb/f578c0fe54f0f3e276b2c5612d71a3bb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1bc75726ad30f06bc643c17852b366b5ebdc03e51eeb9c3d886e0c69acfe4e81be249145dac80d641a84e34d3f5fb312d70fb689edd80f0cf639f4fc388ce20304edf86e81bc9f927f4ea432d7838a2e6379ff9183ce5acad95923617cebfb60791c9f44156271186af03f54017dc6878c27f0c00696674a2ecc2f10081fccef6faf26f9812a29f393b14437c9c2596a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f578c0fe54f0f3e276b2c5612d71a3bb/f578c0fe54f0f3e276b2c5612d71a3bb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle Weapon",
+            "episodeId": "gundam-build-fighters-783?ep=13522",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1672bc3247ba98cd0a04ff34eb78f158011f0d9b92d72bf9b038b5e46b175fabd34da2ea2d4752f29cf563567cc72afe76f6b3c05077b823f7521f44aa32f555bea19f6bcb2573d98150a009d1e08c932bab398d267baf36b35defa480d4dedd1f0714ce128085f1e137a20f0805f32939dc7b4d592c79b0a8f5976c64c63ff2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ab89a004d664d04422e5b694f93a3ac/2ab89a004d664d04422e5b694f93a3ac.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1672bc3247ba98cd0a04ff34eb78f158011f0d9b92d72bf9b038b5e46b175fabd34da2ea2d4752f29cf563567cc72afef3bb96e9f1dcfdc4ca733c2d1c35b4a2f513972654256f24eb23df1ab8d3eb5785b699913fb0f1bec822654099f35f678b651b9d644cfe7d310d5872a3573d709144e3861fcc55be3397a51e099d1e0c620e4f5fe561e48b80428689672fb3a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ab89a004d664d04422e5b694f93a3ac/2ab89a004d664d04422e5b694f93a3ac.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Codename: C",
+            "episodeId": "gundam-build-fighters-783?ep=13523",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/197744e9d8e305d131579b106080c1ab549eb7823c5fb889b0951dc7520d03d4e4f26df3cdab5e51d4502fb7ab84cc8998f4d5e1ab9ded792f706e15c0eeb10f1ee1fd18b93af4def1b7a660b196cd6affd75e50a91db764b26d7f1d11437748e7164033173d3a6defeeb93fbef61d9b40136bcba4b389cab956a762cf187648/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f569ba3e20e2ede75dcbff245be1e7d5/f569ba3e20e2ede75dcbff245be1e7d5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/197744e9d8e305d131579b106080c1ab549eb7823c5fb889b0951dc7520d03d4e4f26df3cdab5e51d4502fb7ab84cc8943da32e2f7dceeb38924b18b0479484b36a70066552e9d7ad9e85ed3a861112d6af528c1e239277c315b8dd766523ee78074717463b417063c659cb5df46bd52a5154d771caa56f4469e4fd22143ee4d90a265f0da91ce168b25687d79907faf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f569ba3e20e2ede75dcbff245be1e7d5/f569ba3e20e2ede75dcbff245be1e7d5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fighter's Radiance",
+            "episodeId": "gundam-build-fighters-783?ep=13524",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/23b987b4d55a26e5804f3527c1181859fb54c9f070520bfdc610c6e7951bb73412dec2442d1d59cdf768d8e5cafcf4353a75961e1e2edfcddf68213c26d27218f1412690e7eef5a4f197902f488fe70d7b3c6eb544f70d30ac6f3081eea794107e6c4cc4fe8b158e0334a3235935273374a827e0c7915c2e8fee3bf05b21a8f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffbb74583b32a950fb652fca2ed9ee84/ffbb74583b32a950fb652fca2ed9ee84.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/23b987b4d55a26e5804f3527c1181859fb54c9f070520bfdc610c6e7951bb73412dec2442d1d59cdf768d8e5cafcf43591e76e07277a53502ef56ad861401be714404c55d984e303dc12c6b7c30b0c3cbae2dc73c6f5a23a6ee9066b254eac432bf019f43e17f18e3c5a26aec0175d4ae00295da9cecf38a47f48f5e2dcb6ddf7675406c23107812ae272f21134567e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffbb74583b32a950fb652fca2ed9ee84/ffbb74583b32a950fb652fca2ed9ee84.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dad, We Meet Again?",
+            "episodeId": "gundam-build-fighters-783?ep=13525",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b1a5cec328e27f61ff76c26bfdd73f1908e62ec6b633f004e43b09a884a119ebbe0670c772981d923c1e10e996faac2c6d198d9919576028ba961771dbd52b4d2501e5139723eefa1135774f14f93be9dbea0736c95cb92564b94f163081cc569831968f769014566f6c2f694515b245207274153b295995e9e9129908b3026b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b4fdffcfd18ed6ecea102daa14fbb8b/6b4fdffcfd18ed6ecea102daa14fbb8b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b1a5cec328e27f61ff76c26bfdd73f1908e62ec6b633f004e43b09a884a119ebbe0670c772981d923c1e10e996faac2c15b6bec99e2e8bdc16ad8876186c32dbecb5420331043a16ddb538fadd4a09ea78f648fcd466afab70d88e18e744ba15d3a97bcf856bc35d01c244cf19da5c80faffc961e8b76be8c9d866e82ca70586d8905fb52c715f31c7d99ad29d11ed73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b4fdffcfd18ed6ecea102daa14fbb8b/6b4fdffcfd18ed6ecea102daa14fbb8b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Model of the Heart",
+            "episodeId": "gundam-build-fighters-783?ep=13526",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3356adbb705a549c18dc4c8c6d317d454dfb6eaa7241ee05bcf8dfef7d1b0b92fc312c4bcd5ac43392a286f250922dc983faf18b30467c0b9b8085369cadc79b94a288ed1c9537cf2dd9ebcfc16477d9721d1a5ba4a5f277348dc142cb9da6377fc85b2830697305c25a6489173751a3bab724a337ff4c36f8cd47fc8bf38146/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59314876e3d61d6298f8494d08040d97/59314876e3d61d6298f8494d08040d97.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3356adbb705a549c18dc4c8c6d317d454dfb6eaa7241ee05bcf8dfef7d1b0b92fc312c4bcd5ac43392a286f250922dc97f69c1bac942068e09be7454a7d2711b90099ad3863bbc611aa8d10d3cfab3b0dcd9e3e05676f2b636bbde7aba1ac9cfc6991353358201cd9b1002809660c2c34dde5a577db192bcbad4584132d9adf3eb5a77878ce7a5c388db019b952015b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59314876e3d61d6298f8494d08040d97/59314876e3d61d6298f8494d08040d97.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bloodhounds",
+            "episodeId": "gundam-build-fighters-783?ep=13527",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/6164434c13b399df3174bc40cd6e58fe40dc2ce4dee5836ec3ccb84c64e73aa86e61bcb8bf7316e439d3d7e628321ab71adbbd240820179feaa4b5870dde0cc66abfa6b67c3a71689282992a0c1164306f9ce46462e3a0cc33259568cdc56cd4a5ddf1ebef78853b186fede541548a3da19cdd457a3231fcd70099517c2c1858/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34cfd2f31106061f72fc3a8349be448f/34cfd2f31106061f72fc3a8349be448f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/6164434c13b399df3174bc40cd6e58fe40dc2ce4dee5836ec3ccb84c64e73aa86e61bcb8bf7316e439d3d7e628321ab74b5be8cbbb1e68359f6a8e491ca513dbae5004ff1bd4474bc0bf56eb2fa704f40293c1d0c8323477f35e9ea29e52703b1dd922b8a3eb4aa55d85f9559ae25a711c93bd7d79889da43b39f23d4caa2dc10319b0507415ee4b1f1bc3d2008f431f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/34cfd2f31106061f72fc3a8349be448f/34cfd2f31106061f72fc3a8349be448f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Astray's Blade",
+            "episodeId": "gundam-build-fighters-783?ep=13528",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5b1fc57780d79689d8072669cfc4611c195f5121a45acfa668042bd02bf80f2ca135c9cb80c8074530913b5b77187e7a99e8f66d59eba1c6086ca7c594fe3c24af272bf519d833da9829358f56781ed598e99b2977208e9e873956136508191c4b7695afb1508d36deaa7dc3ec7b7658896725986a1c58d7526248c30aa92715/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e592ac169363ee6430b3b143c9366ba/0e592ac169363ee6430b3b143c9366ba.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5b1fc57780d79689d8072669cfc4611c195f5121a45acfa668042bd02bf80f2ca135c9cb80c8074530913b5b77187e7a76c67b77a53ecdafb3b4517a6148d8c0af02c973e2d579eeaef7005133087795b6e433ab5a5f7f35b5b0429c21086c33f815cee939a8caba187e7fb15b2f15541fac91b55f3f41c493ef45020da028854e46291fc7857f660a449e03f3678384/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e592ac169363ee6430b3b143c9366ba/0e592ac169363ee6430b3b143c9366ba.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Aila's Betrayal",
+            "episodeId": "gundam-build-fighters-783?ep=13529",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0a9f002f6b7a77c422c225c9e6889ba7c52a3f68266d49f16e29cc89436691a4d8e0754d8e8f08ed94f9a7604309ecb976f3b48300007d86aedd97838f5f3db5474efffc4cd09630ef415412361ef11222dc37d705d341c8d6d3894f876f0d00bec4317607b27509f57aae73fe60c0d5a915c4943ef8882e1124081823258e4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1467faf46ac2df27529177324e6ea342/1467faf46ac2df27529177324e6ea342.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0a9f002f6b7a77c422c225c9e6889ba7c52a3f68266d49f16e29cc89436691a4d8e0754d8e8f08ed94f9a7604309ecb975591a8c624358c0cca3eaf5b3952132754e6c3b23a1cf3768e062cc1e60328808c93a5fd93a6b2602ca7de1ae0abb1b0c43543627480ccfff1f930d84a408b215e6e399b9d536b115d6371246c51c9ac49ed8626515a1e4f6f63aa3c828f5bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1467faf46ac2df27529177324e6ea342/1467faf46ac2df27529177324e6ea342.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Amid the Glittering Particles",
+            "episodeId": "gundam-build-fighters-783?ep=13530",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bf33874c5c173f3cae869b367a7ffad1f5900bb307a6036fae51a0dd4ab83421c3f007e9529bdedab6b98d39b8b1dade1522fd608125fa6d6ec985eb981e3d4b801d3d32862b55a4d9c0c69f65b942a4c720578d13a6c6a8c2247eb8b18ae7dcb8176303cc4fcc82fce25ecd5c9d28bb8e18ac173eaa00ca01824aa0933cbd94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc243993091c555bbef8dbf14087f08c/bc243993091c555bbef8dbf14087f08c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bf33874c5c173f3cae869b367a7ffad1f5900bb307a6036fae51a0dd4ab83421c3f007e9529bdedab6b98d39b8b1dade53f29edab3d3282a0ea5cfe8b233b5f171b30e8758ec7d18086ca7220f0f0b8bc89910311922386ce6ba00c2b1fe1fd8c07589539ce818370ea491edc859cbcf23615adab4332fa607b81215a4af1cf856cd5bbb4ce09a4700e767dd679cc4eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc243993091c555bbef8dbf14087f08c/bc243993091c555bbef8dbf14087f08c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meijin vs. Meijin",
+            "episodeId": "gundam-build-fighters-783?ep=13531",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/516d5e8d14f7347e447905cf2d5d83c11f4da8e55f49d7318e5aa3e4f61a84440752a3b542cd0d9c717785d0ec028a3f6f44d3314a443fce1e1d9988057674f366a3b68e24d9a059116e945cb759b041794bc3848e90794cd60acc355c6795c8319b91c2808da49931d6979cf176bd3bf017b62a4c31e2d8c22012f9d1697431/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a66f6c6a479ec234918743d1e1b1659f/a66f6c6a479ec234918743d1e1b1659f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/516d5e8d14f7347e447905cf2d5d83c11f4da8e55f49d7318e5aa3e4f61a84440752a3b542cd0d9c717785d0ec028a3f23aaa1380397131083cb014193880747dfde917dcd69403f0503b016f1b1ca305523267d37f78a10e8bf47db8cff3b6e488c953f05af278a8b289b16443dea298c59ed24343837dd1ce9a6705a788fd37f7d448ad36dea8c6e93531ae5dc581d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a66f6c6a479ec234918743d1e1b1659f/a66f6c6a479ec234918743d1e1b1659f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gunpla Eve",
+            "episodeId": "gundam-build-fighters-783?ep=13532",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8d5f677dda8f9af3da7592314f491fad9afe11f492cf05bec357e9362980bfda83072e7fada8fa4ebb427dd5a613e325b9f67f407ccbce584d6cf9d630553bb6e3e5272aa251fba5fad92b34fed6ccb4510f5fbb5d61651055934b9b3e80a80d94e9ada847e3aa5aad86da2de1002758ffe3c21c630392ef7641e10d9474629d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffcdc21b8870d76d88fea1e91bf38950/ffcdc21b8870d76d88fea1e91bf38950.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8d5f677dda8f9af3da7592314f491fad9afe11f492cf05bec357e9362980bfda83072e7fada8fa4ebb427dd5a613e325e1800d2d7e6c01a894135689611b3e9d9b535b6b151d0983886f079c519a4d4f6c0e3960f9875156950a6abf86e1ba7bf906d3c8a332d4ba0ffe3894f0712ff608f38de5fdfbdd790370f610a2488aa8f2295c56cda2722ea8ba747fb59b3b34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffcdc21b8870d76d88fea1e91bf38950/ffcdc21b8870d76d88fea1e91bf38950.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dark Matter",
+            "episodeId": "gundam-build-fighters-783?ep=13533",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/365b358459db6e31877624784c46b397a38a7371e86c38c309199e8ed1d50a0d8b4768502cad772c66bc05409ba5d9d0d567496241e4939a50b60208d1fd79a15f7e7a41e9077ee603dc67c57c348a562351bb827089063b52847bcf6d85334eaec5f13ea429489b6851f7349f1fe7095a9e3d5e58854977572d7813e11b2a27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/959813042842ab6f69b2782087854f26/959813042842ab6f69b2782087854f26.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/365b358459db6e31877624784c46b397a38a7371e86c38c309199e8ed1d50a0d8b4768502cad772c66bc05409ba5d9d03646dacda08e72fab541f53ebf56c4348acb4df705498b333fc7cad3b6191a7f0675077a1c3a0e324ce91bc26f01d348a7ead7168c559e3fb1d3e1c1015f9cc996ddff562ade785f20ffa61de0684f35fec257ebab135668279e202d8d2c3949/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/959813042842ab6f69b2782087854f26/959813042842ab6f69b2782087854f26.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Promise",
+            "episodeId": "gundam-build-fighters-783?ep=13534",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/949196c50764b729dad88748d5c5f2b20edb317530c99e12bda7b9e5afdea521439364bc693a679614c528d586414d4dfe3388d25370553f2644ddf1954b30a35bea5c5b6619142940369170ec3b2ffca1c433df6a054ca8511bbbfb481c6daea6fb4d095ae45ae8196a79c606a4b9a499772260c504240e97aa067ab1ce9f77/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e072e82ef2c3b8350c1d91df30026cfa/e072e82ef2c3b8350c1d91df30026cfa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/949196c50764b729dad88748d5c5f2b20edb317530c99e12bda7b9e5afdea521439364bc693a679614c528d586414d4d0b40620d1189309293cca77bbdcf1c23436eaa0714a3e05fa4e2d26665b3a2349aaee045033d3c7f2d31b832ef747c409c72d0f3a1b50bff6ca9fa0738a0f9f549ae6e63d0556e4709640a9014ba312879dac30cd3862c28f1ac6084f8da9832/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e072e82ef2c3b8350c1d91df30026cfa/e072e82ef2c3b8350c1d91df30026cfa.vtt"
+                }
+            ]
+        }
+    ]
+}

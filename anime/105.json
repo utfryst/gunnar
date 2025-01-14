@@ -1,0 +1,575 @@
+{
+    "info": {
+        "id": "run-with-the-wind-105",
+        "anilistId": 101903,
+        "malId": 37965,
+        "name": "Run with the Wind",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebfddbd35bd01c7d3d3b96b3cc02e2b2.jpg",
+        "description": "Former ace runner of Sendai Josei High School, Kakeru Kurahara is chased away from a convenience store for shoplifting. Shaking off his pursuer, he runs into Haiji Kiyose, another student from his university. Haiji is impressed by Kakeru's agility and persuades him to live in Chikusei-sou, the run-down apartment where Haiji resides along with eight other students. Having lost his entire apartment deposit at a mahjong parlor, Kakeru accepts the offer reluctantly.\n\nHowever, Haiji reveals a secret during Kakeru's welcoming party: the apartment is actually the dormitory of the Kansei University Track Club. He unveils his ultimate goal of participating in the Hakone Ekiden—one of the most prominent university marathon relay races in Japan. Unfortunately, all the residents apart from Haiji and Kakeru are complete running novices. Worse still, none of the inhabitants are even remotely interested in being involved with Haiji's ridiculous plan! With only months before the deadline, will the fourth-year student be able to convince them otherwise and realize his elusive dream of running in the Hakone Ekiden?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 23,
+                "dub": 23
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/ANzTSVvgXVI",
+                "thumbnail": "https://i.ytimg.com/vi/ANzTSVvgXVI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/32G179Izznw",
+                "thumbnail": "https://i.ytimg.com/vi/32G179Izznw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/5p3bMFkCFMc",
+                "thumbnail": "https://i.ytimg.com/vi/5p3bMFkCFMc/hqdefault.jpg"
+            },
+            {
+                "title": "PV (English dub version)",
+                "source": "https://www.youtube.com/embed/hECoG4DhFVQ",
+                "thumbnail": "https://i.ytimg.com/vi/hECoG4DhFVQ/hqdefault.jpg"
+            },
+            {
+                "title": "Digest PV",
+                "source": "https://www.youtube.com/embed/SAi1soeTkG4",
+                "thumbnail": "https://i.ytimg.com/vi/SAi1soeTkG4/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "haiji-kiyose-1026",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a40d3f3b9f4d729beed9d6d175a32ce.jpg",
+                    "name": "Kiyose, Haiji",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toshiyuki-toyonaga-212",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0e9b7883096bc3dfa8bf8782b47fa6e6.jpg",
+                    "name": "Toyonaga, Toshiyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kakeru-kurahara-3370",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2ce36a8bb0638bea882d265931d481ce.jpg",
+                    "name": "Kurahara, Kakeru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takeo-ootsuka-3227",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a2eb3650ae4b271b090bc40ed1363b53.jpg",
+                    "name": "Ootsuka, Takeo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kazuma-fujioka-60572",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f0a8fd8c9533cc5ef0bf0b41b89abc7f.jpg",
+                    "name": "Fujioka, Kazuma",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "satoshi-hino-208",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7012b8603f0c4d4a08c58aa69a29545.jpg",
+                    "name": "Hino, Satoshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akihiro-hirata-8447",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d9cccdd0e6e837236374373fc3536f9.jpg",
+                    "name": "Hirata, Akihiro",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takanori-hoshino-1931",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a2fabe196f0ade0c096b5a9eee1e4fe.jpg",
+                    "name": "Hoshino, Takanori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yukihiko-iwakura-6733",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d72eaae9d1d78374691dfa3f0ecd92af.jpg",
+                    "name": "Iwakura, Yukihiko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kazuyuki-okitsu-695",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e85bf9c4c89bf5f418926eaa24ba75d3.jpg",
+                    "name": "Okitsu, Kazuyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "iwanki-114195",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/077dc402de271ba09415c263fe559a30.jpg",
+                    "name": "Iwanki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shinya-takahashi-3299",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c6528fd794aea9958655d1fcf7cf2dd.jpg",
+                    "name": "Takahashi, Shinya",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "風が強く吹いている",
+        "synonyms": "Kaze ga Tsuyoku Fuite Iru, Kazetsuyo",
+        "aired": "Oct 3, 2018 to Mar 27, 2019",
+        "premiered": "Fall 2018",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "8.41",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sports",
+            "Seinen"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Movic",
+            "Nippon Television Network",
+            "TOHO animation",
+            "Toy's Factory",
+            "Cygames",
+            "Yomiuri Shimbun",
+            "Production I.G",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The 10th Man",
+            "episodeId": "run-with-the-wind-105?ep=3148",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b5fb94f2705c1fbc9d5e8255cc2d56df136656dafc0997c0beba2db95b148db6406736021357d5021ebe6924ca4703eafff0231030750fd6d0b86b417f59a2e520ba86c74cad15ea6e60297f29ff53bbbb4421f208c56c1d277caa2cebfad3649049652e064f990520cdef29ac56b4e26359c20abd877014fd410bc615b1a7b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11860a96b1d5c43e7ecccdd825ed87d1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b5fb94f2705c1fbc9d5e8255cc2d56df136656dafc0997c0beba2db95b148db6406736021357d5021ebe6924ca4703eab24dd59c18d287de1132ec711bc77f4b2ac512e32a016325aa9a6cc98a44eeb1ff4b62307e4658f335ae5452e2b57632b27b5112b26c3efaecdc8bd85add57fa7ab7806d9fb8b564764e414dc312db5b3b39b492ff20ee955eed051006096999/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11860a96b1d5c43e7ecccdd825ed87d1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ogre’s Arrival",
+            "episodeId": "run-with-the-wind-105?ep=3149",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a01d9330e84af1db954de8b120a4f4dc623b7cc79fef4359e3010f5e587bfd4289b6e94747b9a2d982d5a545cfa2d998952c297a37163a709b61c8e20fd1a22089a4eb4e63991f8a7154142320414b723bdcceeaa60f0c7d8c13fe30640106e65154c002d99a4dc7f1d55417e9046ea32d2a843b4f8ecdc88806b9e36bb508fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bce9f760b536aaec72dece8b4658d807/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a01d9330e84af1db954de8b120a4f4dc623b7cc79fef4359e3010f5e587bfd4289b6e94747b9a2d982d5a545cfa2d998e5b1e09b29dfeab71da3eddf8e5885c45048ea949586f80c8c2951e12348767edfb1e48a0d1067e12a96ee37d5deb15c4865eff7516681c2d5a8a3fc257e384f29fb83681461119262636ac7c50f275252f2f98ff571d535d8de1747a24c8f11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bce9f760b536aaec72dece8b4658d807/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Single Flower",
+            "episodeId": "run-with-the-wind-105?ep=3150",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4b71c3e9ac88f2d3f446b712f40a36178a89ae49818dd5ba5f4c85104a893d47403704c508e6cea007ea9b00963f8e3a1aea7493dc0fa1f98e41d4ce82000a010833e700d8f923356992ef5381c4f0d1e947594086a8660ce863217c177ecb88e885d371babcf323848079a68d84874253235ff039e3c6a55f4cd836281b5c1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c36208b1edddd7e8aa5605226040be3c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4b71c3e9ac88f2d3f446b712f40a36178a89ae49818dd5ba5f4c85104a893d47403704c508e6cea007ea9b00963f8e3a3eec12ad62ffa05596b78a2174fe1b96b54ff1ddf6133d041e2002292a3173ec28f59910d007c816bf59dc35a0cb8ae5cc58716aeab6a46d62e1027e3c5034f90decda62fca84eced4ef250acb45f7d31d4755851a203ca8d273d192fe4a1158/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c36208b1edddd7e8aa5605226040be3c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shadows That Don’t Fade",
+            "episodeId": "run-with-the-wind-105?ep=3151",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d99ba8a5dc3bbd64d13dab70d3c27295dd6289e99dbbcbff5acd951d55cc17bf118c3b07f0dda2b8b34aba87775d8cfda4325ebfbfd466c3eea95e2c39f70b0271f5c8629f107cd4c2c8f694a513cc5f8c3ed48321226964c30cf18a1d09cf8b266d3c3e24ba58687ff7d15f20cc7499674a32406d91f63aa2a0a10b86bc872a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a41ba74a67fef9cd75e4912ad1f1af44/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d99ba8a5dc3bbd64d13dab70d3c27295dd6289e99dbbcbff5acd951d55cc17bf118c3b07f0dda2b8b34aba87775d8cfdb699636a35a74a4199643ac65f620f5b94559f41f7120e42a5cb4966261ee7a92e6c0698169ad3a41fcb2efbb1164b3c9d7eb83040cb0f48d3bdd69f010805511f177df19b8d8490dc34f2a1bc7845177abb829a07f3e71a8df48ddadd8daa24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a41ba74a67fef9cd75e4912ad1f1af44/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ones Not Chosen",
+            "episodeId": "run-with-the-wind-105?ep=3152",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0f7b16b6eba81486ad8a5d1c42f70a159c951bafbc1252c347b9f773520bad7a0fd2b1f4d4bc736e411fc96f7e0aaddf0fc44003fd387da3bf522f4bd9ec05384f279a395076a804fe1a70d0d03707d80654da0fd0fa7d1043a696410b1ab82bbfa2d7123627daef3744c34deb996b2ae6e23536ed679ec39b35573ce1a81c1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01d6880dfb130053111eae763cf2a80e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0f7b16b6eba81486ad8a5d1c42f70a159c951bafbc1252c347b9f773520bad7a0fd2b1f4d4bc736e411fc96f7e0aaddf99bee0df52cfd530255ed475a3dda5a14f045347d9a74f5e3d05c57c8b425c0812bcabb5421d0ff64a182d91a85cbf1e1b6fd85e5bda0587a099289011c78e3dc89d82325bcee02c408d02073190e47b639fa2c0c703b2371a4f27f7760fb00e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01d6880dfb130053111eae763cf2a80e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Emperor's New Clothes",
+            "episodeId": "run-with-the-wind-105?ep=3153",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8b7138ac772ee7073d0b0e4ab527c0306dfbbbc3147becef3bc838b5311b0a70dd224a964b4b7b64cd8a8f127ddc94705def93fb6be7558b2fe27bb0016d36f560a84df868b6d8cadd6a7672b85fdb272854beb3ee726e69534cca85ec0d81a61662c2301e6b8a40616e590ec636bf1036d93499d10fdcc311eb6d5e0b7d4ead/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a1730787b47efb2180e854cc5567636/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8b7138ac772ee7073d0b0e4ab527c0306dfbbbc3147becef3bc838b5311b0a70dd224a964b4b7b64cd8a8f127ddc9470a564b0dccd32eb7ea4ac5175650df959091a30e9cf236112b2f8c07b952cdb38c586bcb759712a6788c9a7f7687e495a036e3b79c82d43058b6c7a2b97a799aad64b4e7fdff45fe0d6292867c054cfd7fcd42ab9e12772cce39dd4b4dc7fe377/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a1730787b47efb2180e854cc5567636/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bear Your Fangs at the Summit",
+            "episodeId": "run-with-the-wind-105?ep=3154",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c38867bd20b1f3b2535b21f34c61a7d490e3e1655f1a3ace007d5ad973dcc1762827dd803adc8da1f9740bb8d86f4d34959c2a649f9bf7f439db435a00d98b75683d43aa2b424967e588917371624eeaae4a69b8796f859c6ff44fcfd4fb63c38d2660731da7a7604456ec8109356912765cb95812850ecb278b736fe1a8f024/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d560defdbb2b3d218df3c03eaf9cf18/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c38867bd20b1f3b2535b21f34c61a7d490e3e1655f1a3ace007d5ad973dcc1762827dd803adc8da1f9740bb8d86f4d34b97565bed334ecbe32c54bc9b7398684f3bdb4813b11b0146408abc4ec820d7488607217a93f6489ddf9a13fc05916ef41fc39187a9a90832a41789f7367bff5b1c334c7e680a5d6c7fccd2ca031a58ad1ed78669ee5eed479f5d9d60debd5f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d560defdbb2b3d218df3c03eaf9cf18/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dangerous Character",
+            "episodeId": "run-with-the-wind-105?ep=3155",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c8cb83046fa94c58626e407b50c046d287a184afea6d279de27e1ff46132d32a2da73507a6e59849618db8107c3517c62e6497cd9c6a7357533407308de89c91edbc27229001824e8f5a75823e69879a6de5688ebc7a93b421f26eba1263485e97ca5bc25b7e0b79dbe0b5dd4171e293cef923f77bede01fdbd94d65e5338bdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ed488a21638b1af9fb33b7cf38f0a5a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c8cb83046fa94c58626e407b50c046d287a184afea6d279de27e1ff46132d32a2da73507a6e59849618db8107c3517c64845221e0d10b9ed23f208490f58219e2507310b8444b45f52a7b752ab4b03baaee562cf09bc4ff4ff8350f8a137b75285fc715d6da086fcdea1d43bbc067dd3b8f4a0620285e0a624b6902745220962b0ce035d432b5b64747aac7558f42298/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ed488a21638b1af9fb33b7cf38f0a5a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mismatched Runners",
+            "episodeId": "run-with-the-wind-105?ep=3156",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9ab85c11ad113aae8c6df5d413e5f1b8b3602050e0bc769397838a8d234a7a0d79cf14e427ad84414d8538893d988e00bf0e60650cb0abce923cacb2572154d4e3908f5d3aa2bb8c37bd9897a5184a6a9bb90deb98c416dad9b48cbbe27d883435e9df013f714d050ae1d167d8c69e0ebd53a9584b02aa4d888b1a6ebe233546/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96005b73d00d0700d074042303917568/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9ab85c11ad113aae8c6df5d413e5f1b8b3602050e0bc769397838a8d234a7a0d79cf14e427ad84414d8538893d988e008217b0271bb8312405a69d93b8044b371d3d179ae5660da1be8b5049c8016d5b2308658bf378fa893b75379f6406c43b34f8d3ea0df6df00189cd2241b362af8e9a31818cd3a10f9614f427fa976be790a71fdb10649d57c3c444a271af2bba0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96005b73d00d0700d074042303917568/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Our Speed",
+            "episodeId": "run-with-the-wind-105?ep=3157",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ea2b8e5dfe203e3fc5a2935c06a8ac22d990b00df0d3b7aa1a0e9fc83d351ce9ad77997a4918a946e606d21c0ed6e70866671d9a149189c32bed0425d9c244fa80a62efcb55116cf6042c27945ec3628793e2d0aeb38c17a65974b1f664dbdc0c6f4c2a4770c426b53c7d31b5381b8eb1e5ba9647c4b2675df88b1d707637fc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55cf8f53d71bce1ae114c7172826ee69/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ea2b8e5dfe203e3fc5a2935c06a8ac22d990b00df0d3b7aa1a0e9fc83d351ce9ad77997a4918a946e606d21c0ed6e708ec39b20205634fb10035b3fb62844c9717c6e40e41dac31593ed26a0d1900aa8f5f5bd8e6af95ff0a65de4e1cf78530adc88fe164f9da412c1760a2d7d5671edfd5bb84c3a3859a8094924f7e6787a71c020112b4277bb50b9f09c5081684c12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55cf8f53d71bce1ae114c7172826ee69/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Overflowing Drops",
+            "episodeId": "run-with-the-wind-105?ep=3158",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/36d2b4286fb6ca7d78ca2ec6d1b4b4bdc2417ac67a167b6d7d98652e2250087e88efaf16aff27e198bbcf31ec4013ce345db649963adfad1c5ce6d07c24bdde9358058680c849d61d0292beb5facaab691602d0295bf47947207f451730891c2650e94a601bb1953a3006e794b666b719eb232a7531dba658f12370267f29bcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7182cc37a3ca342d5fc1c8e67f6fd3ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/36d2b4286fb6ca7d78ca2ec6d1b4b4bdc2417ac67a167b6d7d98652e2250087e88efaf16aff27e198bbcf31ec4013ce36dcb4181a229d1766e074abe2a4f8da307c322ad04de633efc57010083132a4bc4a91fe4dea13048b4d4670215f7cd0c43ad0f40019eb765039b93c49ea86f4dec7faff40adfd382f2d6b3ab88d1a06b1d0d615f1f378e485f17c5f5ed9fa2ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7182cc37a3ca342d5fc1c8e67f6fd3ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Summer Prank",
+            "episodeId": "run-with-the-wind-105?ep=3159",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/50372dea08d668528a5349fa221271917e816cfa90eef486ce2fca1d0d8ebb41ffd437ea68e61eeeb02cabb83f25097c2dc6d2192e23eab04e044b7e726cf4750452e073cae0917d819703d3e097c431a7b92b85758e699120f231e27026667148b2091e1703826c8ec98f7efef505a75f233a9ff806110f1f4d604478d52516/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a273d391701d99fc99ac16b9c2be60c4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/50372dea08d668528a5349fa221271917e816cfa90eef486ce2fca1d0d8ebb41ffd437ea68e61eeeb02cabb83f25097c4b0e6c581e5bc68a26c32535dcac851b588dab92e2fb07d490ccdf8be1f8830ec83785df9c13788770067b127ac5a8283f27ad28c22bbe3b2e3e1119f3470843144c17736d81cb3b50a9cad20c18e785f2048c5cb587f69fdc751c4f89aac480/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a273d391701d99fc99ac16b9c2be60c4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And Then Start Running",
+            "episodeId": "run-with-the-wind-105?ep=3160",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3a891914ae939d1359347ef8c80e81f89e8a2efbf5bdce0d0adf2d66059cd6dc1ffc6c51a96f69832ebd4d81c6bdff6555dd98ad667f8c52c0c8417e4d228905cde23eba85d243c31d8495269d044c6efb656821205cb82783a13052cd96ae228f25e3ec72ae2d3c435773f0e9f3fb0f7b7c7dbad342bf6f6ba7b79996a73585/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8177299c3ad5931611e5ab820cdbcd9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3a891914ae939d1359347ef8c80e81f89e8a2efbf5bdce0d0adf2d66059cd6dc1ffc6c51a96f69832ebd4d81c6bdff6570877876a9a1f3ebb2ca63a86d52fa16a05a352097876ce5a26fe5ff22ca31b1c86783761748733ff55039c56fb9c8d9866eac590af299702a09471a3d4229e4bf10cb9e0f356c9fc431994828c8e123e781bcf2a0d056e98ffb439fa419f8d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8177299c3ad5931611e5ab820cdbcd9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You’re Not Alone",
+            "episodeId": "run-with-the-wind-105?ep=3161",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1a5072d24f1f49c1a99a58a1d011dc6823108ebedf60019e4181a1c55ba1cbb33ceae2a29efeae60366134f89fa520fb0f707db54b399adafd98275cdb4d1ae8a2ce9e6c071fc810b2c085ba53a11e29fbe510257f060dd531a2b608978c3454f3a48fad4201b690a6818fda1f767bf735f310a4ca3216e9112c47063b25233a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1afae1580071228cd84dad5c8483d56d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1a5072d24f1f49c1a99a58a1d011dc6823108ebedf60019e4181a1c55ba1cbb33ceae2a29efeae60366134f89fa520fb5f95f400b185b79fbf1f726e2c156fab7a6464c2974a4b1a2dbba3e8cc0bd01d00f79311bd338bbf0d79357d8fe4478f8a1029ab3e7f2d00fff1199f6b35bb6ff00beb3fc3d33bf6c3b6610d6830876ebe800f133bf4f202f5ec31243e59855f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1afae1580071228cd84dad5c8483d56d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Place of Destiny",
+            "episodeId": "run-with-the-wind-105?ep=3162",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/93012be5787fae865867d91e721bdd2c820f591bb307b1bbdff9b838764709a16d1bff5851553582c706222e44f1f8083dc51a1ad31c3a4915c98df29ad87500a28e8e708f154762c29863e526a9e2184f22a47cd8be57229af49b53501b5ad23f7975a1e3361af440f9ac025bf41d0e6e94fdcdad79b6840a8ea7a7ce228268/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b79be827275d071ec5f9e947532c4f9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/93012be5787fae865867d91e721bdd2c820f591bb307b1bbdff9b838764709a16d1bff5851553582c706222e44f1f808a0287c7b149fde0829b650769d4d8c3e3eb0c6a5e48b7fb145aea526cbfb333578a173ad216021d2e2c0be2742907d658c1d00974b25f3ee08175e7fd2a7b15e62af44c2724616eccad939207a1a06718e8f406eaeea214792195dcb44c0dc23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b79be827275d071ec5f9e947532c4f9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dreams and Reality",
+            "episodeId": "run-with-the-wind-105?ep=3163",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9afbe7c6a56361fd7fc1d59064ae07e3f3239f6de6e34a12b07b13539e5124f1005f814d7a0dbd9eed8b2e9b99b2adcd8520813462167ade139e236754ca28c67554ea4c84aedcdd73e6b163f572546421636d6b33e0999e8cf3eed865db37d133f2cf0ba652b97b6da68b7ac02b3f7002192a3959579157812c3b51c83ae2f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fea9f1d73e5ddbb45e2acdf7755836e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9afbe7c6a56361fd7fc1d59064ae07e3f3239f6de6e34a12b07b13539e5124f1005f814d7a0dbd9eed8b2e9b99b2adcdf6a764d2dc4eff2df89355e1e925a0c55c366083922ef59cec8b0827b1f021e3a275e91aa71dbf07dd717c85df64ea9b7ebdedf30f65254872c7560f3e23e8f4ff96dde4738d976e695cce5054797f087e98f5f0a06c57a1f756618237c3e59d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fea9f1d73e5ddbb45e2acdf7755836e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Searching for the Answer",
+            "episodeId": "run-with-the-wind-105?ep=3164",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e817ee33777f4aaec6f1bfe8dfcbb1c8c6eeda9824302c5aad10110ebbd1695d502f62038a9aadfbf366caba4120c53b13065f20be0f7c8c43acd5305ed04acd6cac1bfd815b252799efed5b7dc21ac8c2c66c693fdae44068c4eafde04e089982263107185deb6760b0c0cac594ae12084e18809d8fe6867a7173e64fd53dc1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/066d2c9540b8730678cfa79d99f629f0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e817ee33777f4aaec6f1bfe8dfcbb1c8c6eeda9824302c5aad10110ebbd1695d502f62038a9aadfbf366caba4120c53bec8cc023a8e57a65588fa7c9540dfb15f488f5780e0721582a76ae1f0bdab1691f7c25f8ee14c39ee3b854591d6152838f66bfb739d10093028221e8202b8f9f6bfcd8f4fe32c2652e50aeae0573fd17942eacd0ad3c9df8c3062fcf112d72e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/066d2c9540b8730678cfa79d99f629f0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "And Then, Morning",
+            "episodeId": "run-with-the-wind-105?ep=3165",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b34ffa50d332123abaa8612b389ed8e6bd6ca82bb1836ba92ba61d26394c77212b3bf2a54d274456450758a4a0441141824e54b2b1c416be276831a8e14dba181a15736873c745cccb4373577681ea0ab8d4a3e9c4bc9f40c3850da49774a29363b4b4659dc4a42f96d8b8f96b8c13a061a15f636100e4e2550126fe2f915c5e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/451371421a7f19c3f66b396db7e202cc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b34ffa50d332123abaa8612b389ed8e6bd6ca82bb1836ba92ba61d26394c77212b3bf2a54d274456450758a4a0441141f30f2066dc8943a265e16ba4ad1d9539c2a4d4b4df4a449e4a47b17d1b5ee7eb2c9ed0cca89350be5ed353d000c22b24b3b6cbbea8736fc08c8382a8e52811f3fae5ead789721baff2d5eadda503c0b942b022afd7198d4ca42715fc2bb67fce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/451371421a7f19c3f66b396db7e202cc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Moment of Release",
+            "episodeId": "run-with-the-wind-105?ep=3166",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/989131d3c571901e4471ba258c60aa975b17b452da7ea47fd53c0922927e02b4d53baaf01c1185e7ef74afcfb91b8403793dc9f497c424aea4b34ce7318dde2dbd5549c740318e37f48ffd9812b03f86e9a810103a93f5797f824b1cdcf42b79865444711a0963e96e02650f87de95afff6df2c179fd77a5b655ff7125b96109/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a33fcd7360a578974d494ec6427665/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/989131d3c571901e4471ba258c60aa975b17b452da7ea47fd53c0922927e02b4d53baaf01c1185e7ef74afcfb91b8403594418d7eb794b6d24c9b553bbe662f1c2052fd151e878812642cd3c0f6ce2b9d2c876af3d9f561e27fed8b2040f564e321321332eb3cc59c33351253bced3db5c5f8db6d9786d9da0f714d507b4874d487a09bf60b3fe2d71d65e1bd4df7e98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97a33fcd7360a578974d494ec6427665/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Even If I Break",
+            "episodeId": "run-with-the-wind-105?ep=3167",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/703fbbdae8cb2b466287619e929f60314180479dfedf2805e2ec2e17e9e2e92a1794a4f7eb1a7d7ebe5687b145d3a0876d8c309ea793349e0cdf55b3eeb55a141d46c3ed70240df693f44b3a2751b9de5b29ca240f3fce24f83369a9d61e51b74776fff428727218859a1372734b39d515e1e0df16f59b518a1a7cee3503fe93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eafd59f004e2a6ddbf012845629b0d6f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/703fbbdae8cb2b466287619e929f60314180479dfedf2805e2ec2e17e9e2e92a1794a4f7eb1a7d7ebe5687b145d3a08748c054e54cbb05ce508bf09dca13cc0d92225b96c0626fa0cf679159ae5e461d825114fb1f8801aeabe0911863d16624470570dec19eae6c9d8e075de78a8b952af04938871c43d5ace1946c03f8a48fbc1bb0f29c62a08c97808a73b33ab133/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eafd59f004e2a6ddbf012845629b0d6f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Goodbye, Beautiful World",
+            "episodeId": "run-with-the-wind-105?ep=3168",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1b9b9f05e9816afce0201a64f28736a09b477f69340940136ead8021920de6be69b8d66306229888b3c661562ebb2b9d6bc49b1d16ebcf1013fec0a8551e9b9f7976c6e2e7d0c522ce490827ebb482645aedbf2b3d343e697a1da13bba489ad3eeaed7a828b7d1af09d497c596f159583f5909a4c90d6b110950c7f8557571ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2639dbd6f552419c678359f2299e49d3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1b9b9f05e9816afce0201a64f28736a09b477f69340940136ead8021920de6be69b8d66306229888b3c661562ebb2b9dd1a7e4fcbc39a5659ce84c03feffc6422e44604ceae4839bb63c9fcc49318455eb7f6cf9d18a037a9284db257cd9a129a02dd18ab391d397f6d911ab4a5519be2c67aa0649c4d57c40d0f190456472b8dd4ee48e4fba809b6dcfed40a2b45cc4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2639dbd6f552419c678359f2299e49d3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Embrace Your Loneliness",
+            "episodeId": "run-with-the-wind-105?ep=3169",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/84082cb36ed31ec7d52e8056f1dc8999e84f60343c3ecb160debe9f6daaa90bd536c12251f03bce7d9b4711dec83b95341cd2d4cd042a383610507f88428ccdb98652f4008d8e1da72a8ca58c5eeea12ad3b822c0ca8c634e2e2d06108d750fa66b53dd4e3e07f70ac8a7cc5ddaa04c17af618d6513824ed15316340872b427d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e07780affd30fb10836f47873a37b91b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/84082cb36ed31ec7d52e8056f1dc8999e84f60343c3ecb160debe9f6daaa90bd536c12251f03bce7d9b4711dec83b953a0e8eca4af7a52e513675c76a60c8bb2537d55c6e165a3065653ba48345b37ac649cd4635a06f974873424b4dfcd1df6c571db8cb9d9c058e410d0f4555505abfd1a5045de1e2da83045b407886d0e685efec26126438629f2d309174cc15dc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e07780affd30fb10836f47873a37b91b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "In The Wind",
+            "episodeId": "run-with-the-wind-105?ep=3170",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f7268477259d1f007459348252a144f55478ae5932d67ddbce9fa7674e41ef88d957d6d7341894ecb33dd44b4acce98475e2a3115188e120e58c3ecb5d79551599bd4144a5d8e4ba69fb63bb9fd5ca382c3aad9456f10a83f742d48a352250cd039b0a98f3f5dc9123b3e0528e24008a7d1989286fb41df746a687a38b4c4bb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d909fa6fd12db2bf6e2b7d800b2f058/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f7268477259d1f007459348252a144f55478ae5932d67ddbce9fa7674e41ef88d957d6d7341894ecb33dd44b4acce984c7c1ccbd063288a8c6b536c72b4488e945cba77cb217a41e6776ce052946343eb7edeee11336637c54fadfca5556a84d596c2abbeb3668db410a8bb4d80657d66526b5540c8e8cc9989d178c8871cf911e72586f77626f04b0078df042859c07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0d909fa6fd12db2bf6e2b7d800b2f058/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

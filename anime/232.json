@@ -1,0 +1,606 @@
+{
+    "info": {
+        "id": "toradora-232",
+        "anilistId": 4224,
+        "malId": 4224,
+        "name": "Toradora!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29a2eb93554ed3b8ab5d1507ac8f5d77.jpg",
+        "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n\nToradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/ya570uUgQNc",
+                "thumbnail": "https://i.ytimg.com/vi/ya570uUgQNc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/9SQbvtE1yIo",
+                "thumbnail": "https://i.ytimg.com/vi/9SQbvtE1yIo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/dA1EqnmRo4M",
+                "thumbnail": "https://i.ytimg.com/vi/dA1EqnmRo4M/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/wlq23m1qHes",
+                "thumbnail": "https://i.ytimg.com/vi/wlq23m1qHes/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "taiga-aisaka-27",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da22e32be7cb4faa431d030c31b2ed6a.jpg",
+                    "name": "Aisaka, Taiga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ami-kawashima-572",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d42246ff2b6584ea17c5f81dd560f76.jpg",
+                    "name": "Kawashima, Ami",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "eri-kitamura-69",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb6266b14443e96793d946122a4c9529.jpg",
+                    "name": "Kitamura, Eri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuusaku-kitamura-3334",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/65747f662f25ce593a58aad047420f60.jpg",
+                    "name": "Kitamura, Yuusaku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "minori-kushieda-451",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df455ead175d694fa3d91afbcdcdd78f.jpg",
+                    "name": "Kushieda, Minori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryuuji-takasu-281",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a585f1c2c8f9972278b79b5c9cca8aff.jpg",
+                    "name": "Takasu, Ryuuji",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junji-majima-432",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efbc82fd7ddaf5042654f0b10cbab3ce.jpg",
+                    "name": "Majima, Junji",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuu-aisaka-76130",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/158c8bba2f0dba4ec3ff93a51f1a1f9e.jpg",
+                    "name": "Aisaka, Yuu",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "fuyuka-ono-1698",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3596ec5679100b426fbf3072f2dba098.jpg",
+                    "name": "Ono, Fuyuka",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "とらドラ！",
+        "synonyms": "Tiger X Dragon",
+        "aired": "Oct 2, 2008 to Mar 26, 2009",
+        "premiered": "Winter 2008",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.28",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "School",
+            "Slice of Life"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Genco",
+            "Starchild Records",
+            "Magic Capsule",
+            "Yomiuri Advertising",
+            "TV Tokyo Music",
+            "J.C.Staff",
+            "NIS America",
+            "Inc."
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Tiger and Dragon",
+            "episodeId": "toradora-232?ep=4951",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1b68032f1b773b97332324bc954db782a205f13088094c25ec8f0a24cf5c8373b21344b561a3430d92fabd51331e24a752b4419458fcd3622b1df7684a0db0a5e65b718690c37c2758da1cb11a56b26ad0c3c9ae1fd4c99a73a2f43f879afd6284f5decb5c5b95fb26765c30e3119cc48b2329c5d5157df3c00d47a7647f5778/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c63d428a789cc6ab53fcf857db6213d0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1b68032f1b773b97332324bc954db782a205f13088094c25ec8f0a24cf5c8373b21344b561a3430d92fabd51331e24a7bf810fa062afd52dfeba3d31f0cdf5eba4e913c20f41242afb6abcace703c4819ae2ed0640228c1c659e34c3518bdea1b7caff7f2540e9ea667eae59a7a3e7d7ee0c75ee4282f60050be5e2acc6b7ea616e646b2ea8c015c5ddff080e1a48cb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c63d428a789cc6ab53fcf857db6213d0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ryuuji and Taiga",
+            "episodeId": "toradora-232?ep=4952",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9d270e6fc552449ca21eabfd7e175f4ca8011463cb3e4b85a9c5e658b701a02eb6f44f4e18ef3ae0df26e05e44cccc4f64bd6b775a0ba8e921667c8ac20935d970292e65792b286b14d3d6f33f1218f3fc9beb3ac8abba2b2440c3653f999c63dc5350f825873ba9fa6851658dd08bce3ce61843693e9bebd8ae22c3cbae0181/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adf060bb86e917513a1bf2b1d3ebb27a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9d270e6fc552449ca21eabfd7e175f4ca8011463cb3e4b85a9c5e658b701a02eb6f44f4e18ef3ae0df26e05e44cccc4feb617a1adcfe44685bdd757d1ddca91d67818397cc50eb8f4076c5923b769d0fb3b58bcfc3ee9de33b8d2a7a3dc8adfc7a5cb2fb531684e2a4d1e100899b5baa59c3a5a387914f2c43f24d8df2188ccfefe6510962fec11fbe2d47aa64a1384e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adf060bb86e917513a1bf2b1d3ebb27a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Your Song",
+            "episodeId": "toradora-232?ep=4953",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0e75e64146141dde8302b78e330003caae6cad2bfc4382210dd09fc50424b19e0bd2de979dcd3e457cbbf449b09780bfeafd227cdf47225d1f3ac743e7e9044c9f7e2b977c563dba797a27caa0adea5fccf917181d8d281ffea713936d9c680fd23893e9bef50c74887dbdc52e09c1d85c4a4b73a3baa5a1ca162aa832835ad0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52a2b786d6de55eeedbcdfd35dbf9404/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0e75e64146141dde8302b78e330003caae6cad2bfc4382210dd09fc50424b19e0bd2de979dcd3e457cbbf449b09780bf2968da2847145f606fcb06bc4906044d51bfdc50cbe0ec4abd21fd2460ce424b7e7fd976fe991f6927ebd45f84ecd75e3995ddf4a182a4c310f8ed8ae26be5e5b6a667032d11d0c54fc6429131efb2bae07cf9d14559e01d260b4c4f87895e5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/52a2b786d6de55eeedbcdfd35dbf9404/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Moment's Expression",
+            "episodeId": "toradora-232?ep=4954",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/14606a90d1e47aa29cca94198eab13b61e23b9510f0352036f50fd356a114aa26c490a990a5c6b549303daedfdf2419bcbc30ca889d41489b1a65ce856a9aceb421c3f66b96a1138cedb0e48f5ac282c3a8efad323c4343e9149cdb08c4cb0e1af979d9f3b9e186681b0c9f869a305cba2e3df08158733790948df24465d97ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/872cf0a2f73bd679d934c9172578c322/872cf0a2f73bd679d934c9172578c322.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/14606a90d1e47aa29cca94198eab13b61e23b9510f0352036f50fd356a114aa26c490a990a5c6b549303daedfdf2419b06f71fec1b70225c786b23c5a370bf64ea4a18bcae5d6ab7fa62015445d092916a9fccf3927040641b87203aac7db7209a7b43879c1b9f4672b134f3bca2270741048d13c24cb8a3db7966c8039bec795738573526fdf5ff8807e76dae985b1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/872cf0a2f73bd679d934c9172578c322/872cf0a2f73bd679d934c9172578c322.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ami Kawashima",
+            "episodeId": "toradora-232?ep=4955",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c55281510dd389425b2ec58f84ef36098ea1dcb0c60667a9c9c6e198d201631f3361d4bea7b098da6f0db394caa30234c462066e7c047fcece6c71518fa3ae11dc1023805dc8f0823ab40bb320673c80876ba9b0eb9c83e3b11ee0976895e5124905944eb9d262e45a3f59322f30aadde0d126bac344d0bae94e84d29cfa14f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9aeabcd8f3d250715a148cd9be2f7d1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c55281510dd389425b2ec58f84ef36098ea1dcb0c60667a9c9c6e198d201631f3361d4bea7b098da6f0db394caa30234b3775f36d682dcdd4d92dc92ff4658b93ce7f9d5160d2a57ec86ba66820ad872b7d9a870288c022a999bdf09b57fd81bf16053897b67116e86c3430316cd3ad71ad0cac72836127df87c767a367ae729560dd1db7162caf68392a15f77070027/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9aeabcd8f3d250715a148cd9be2f7d1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "True Self",
+            "episodeId": "toradora-232?ep=4956",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/bd81cee3d24e325c86135af9ced6c3c4cb321ab0cef5c485665a460efd1f59f59ef0b3df61e01ba231446ee2ac6d8205b97e67dfe321fef345dc86707ad8e6dcd3b6396334e32b6dde2ad592b50211049ae476f51c7d52a769bb17b5a988ac7847ca6d5e224594d2ff036ce04bb0c6704eb5e34768821066a15248dd9882e445/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cd262da9aeb88f429046bdab9e36ea5/2cd262da9aeb88f429046bdab9e36ea5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bd81cee3d24e325c86135af9ced6c3c4cb321ab0cef5c485665a460efd1f59f59ef0b3df61e01ba231446ee2ac6d8205122078d5f1179c0dfb8ce318ecd38cc38b3e1ae8db2fb7182fe61f22a56c6c201f0716047a118a4dc82834c8bbcdb62ba898ebf7cd2ad1c90cd90a9ae988d86428d75288e3204b823bc72f01e5b7981e00b0015b3dfbfa014aba74c4470b2cbe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cd262da9aeb88f429046bdab9e36ea5/2cd262da9aeb88f429046bdab9e36ea5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pool Opening",
+            "episodeId": "toradora-232?ep=4957",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8f09e6e10ef8a65e0787fc53233dc4e85d48c8f616756a06168e261382d423c68608c4a1a084a6e013686a35bd579b90f7adaffb5a49f0dfc36405b8f9cf6c1fde11a8a4786457df63f515a2e5b764defabe97ddc89c29b6debc37451aac3c6ab85ed12989b357fdd6df885b606eb4e512265a1c1909fceb532102654433d9a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54db353c2cffbd4564f8ee3adc18e8f3/54db353c2cffbd4564f8ee3adc18e8f3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8f09e6e10ef8a65e0787fc53233dc4e85d48c8f616756a06168e261382d423c68608c4a1a084a6e013686a35bd579b902b207bf0ed3a8f89796d2be635a5c3d4d7c97a546c56a5b428915d8d9d408562c46c99f55e6b63ff9d57d14ac09709b174d3ce2c1660059d5e74d94efc303d2fed06fafa86766083616921361ec5d3db34d1e89012366f39d54baf5c7a4d4d7b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54db353c2cffbd4564f8ee3adc18e8f3/54db353c2cffbd4564f8ee3adc18e8f3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For Whose Sake?",
+            "episodeId": "toradora-232?ep=4958",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/61fca70da15541d05528a3ef7969fc380fb680bc6f77e0ac6074d3d0229f3c5b7662a86d24fbc0797d7c75d4e033c3c384c67030cb72b64aa9c3989bd39d10e2735fd904367b131ebc170fd84cce2fab83e801e2a8297236d900546604574f4cf1e8d06f1f46425acf23e50c1f0c491a09fed1e9e63b2306a1fedf38f73082f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f477248c0cae3582f04db6946e396d6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/61fca70da15541d05528a3ef7969fc380fb680bc6f77e0ac6074d3d0229f3c5b7662a86d24fbc0797d7c75d4e033c3c3318ff30e6a02153b14276ce2570e92d46ad67473c84fec2668dbc097cbb68473dcf0f34d2056e9df400461d44381a33e36ca2c6bca6e2fd8205b22d0f41d6f7e6101d344f130d8f8fe0c7d173c34d869014fb680745cdc88e2330c7fdab0e60a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7f477248c0cae3582f04db6946e396d6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go to the Ocean, You Say",
+            "episodeId": "toradora-232?ep=4959",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1461445860f32cf974b1b6c702199c6275372ed3f64327c7c6d0d5317d25780a99be4e0180862571ec6384fad9c0e42b2c3ed0e7b5b77d847d07499100b967361969b2c935daf95a6518f6038f35b1a080e9b3536a78271130b1c21e2a192e7d2136d46ddc1c34e75d18cb7c344a6c1273a3752d018b37aa760f41d2824a0983/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a061c37ca9bb6a730cb9f17d43390dbd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1461445860f32cf974b1b6c702199c6275372ed3f64327c7c6d0d5317d25780a99be4e0180862571ec6384fad9c0e42bc3222e27e80eb3bcd71330340f8be49a81ef5ce1a319c263bd7da09df24fa8306500e5b54d22cb52f0275d2680781912b6537072ff752a1aee5f42f2740cf5d8327d01f28f7ea20dec7acb0eb256ecdccb9d33377c9a3c75d758351853827124/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a061c37ca9bb6a730cb9f17d43390dbd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fireworks",
+            "episodeId": "toradora-232?ep=4960",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/942680143d94df69ce5dd4c5136dc00a419266cbc30e86b93f87e674a7f5c657416deafe66b37b48ef4384c6c2d4317321b4c37686f1081959fc2fbd7337702d9f77213de2b87ccf295c3ff0b199bef98c1fd41199821004ab2fdc3a97251e5a8a583133995d58b84a17214a979abca87b0579584a7b5287e5a7dd0f4fc3c380/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b16dae728f9b1b6d568318ca0bb87bd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/942680143d94df69ce5dd4c5136dc00a419266cbc30e86b93f87e674a7f5c657416deafe66b37b48ef4384c6c2d4317351f32f5cf18a1a1cd1d5b4fddf3b6a4f51545eca64c858611ac03e16ed42a90f33dd9fad24eb05f4272626dda49d8a0d53501f4e616b8eedd8cc36d63b0134465f163d97c57117553c24c7cd55079bddb6d729636da246f2d400909eeaa60503/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6b16dae728f9b1b6d568318ca0bb87bd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ohashi High School Cultural Festival - Part I",
+            "episodeId": "toradora-232?ep=4961",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/de17ff7ac211b324e0526252a779a0a0fc547c855888c793841e5c829508fe252e7888bb41d4fafdcd94272d0749dd60a2d44567de227fdbfcb5fe76197ade2dd704a301baf4f49aee6b032df47598385539eb86d70d165411fcda9e16dabf7024bd354eea5b006e1e32b6eee56139bf950a57a905cfd7ca5ddf786ac57c98ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cc9b0f497145079367aaf90e4f5877c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/de17ff7ac211b324e0526252a779a0a0fc547c855888c793841e5c829508fe252e7888bb41d4fafdcd94272d0749dd60821a9b5ed181d6fa498710148da4b2726338616c422563b94365ca47ab289ecea1948db5c7550c99c42b0595476aea23b97b1c69744688d3ab3b942ab1da6b785a298ea297d2413bb3b18df71cc550bff66548d8f91553f25ccb0b9d12492312/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cc9b0f497145079367aaf90e4f5877c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ohashi High School Cultural Festival - Part II",
+            "episodeId": "toradora-232?ep=4962",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/91ad2d627fd0361b127b29293a6431a65c10b63a74572e99ec0c92af1aea8398af526d48752bb5f8cfcc5997677bb36c03ae55ea1ead87ad0dde8f3d01f913a38252b783bb544369e006e5875cb32743ce34404531e2a37d9fc3d91e16470f48d366ddebfc8df8375248236e9f9acbd0feb3cb51ae410fc433cfe7c89c33c15a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/effae85ca71c53e796a0cbbb8a3c28ea/effae85ca71c53e796a0cbbb8a3c28ea.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/91ad2d627fd0361b127b29293a6431a65c10b63a74572e99ec0c92af1aea8398af526d48752bb5f8cfcc5997677bb36cbf13f5ce3562e893c886349347833c1824144b92b99736457e2a4494231c18cdf35ad02b0e38dd8c4153baab04f1f64c147a92d6a5593194b8961357c2f869e40cbb4eb390f1c5d3c934cb1e54555b1fdfeff59b2699df8ea6590e4c846e7abf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/effae85ca71c53e796a0cbbb8a3c28ea/effae85ca71c53e796a0cbbb8a3c28ea.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ohashi High School Cultural Festival - Part III",
+            "episodeId": "toradora-232?ep=4963",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/688dd9e10529ccf7a7abef40e36ed5b27088d278f18e9e5c55637beeccb8ac58215be211d4e6922d0bfb32be8f7f62799378e706c1539503de1377f022b0a60cb97421c450accf6750447778f89e4a27789408faea4127dbd9dd86faba5c0c5a76c11c200d9af56df7d92c3c7930e45e29018f346feebab6b6be446ef76407bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03c228b1d69afd1c9d90083cd77e4fae/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/688dd9e10529ccf7a7abef40e36ed5b27088d278f18e9e5c55637beeccb8ac58215be211d4e6922d0bfb32be8f7f6279941f154d6dc171ee1b3d757737517d3a8f4f98ba2bbb55c41036f610c24df77e911ae399cb7a9b6d8c92c26a66c9a864d6784310edc53e3d6236e3e05ffe5ddf906ede39954c30d99066c6bd2f491a2442d28901070a64d21dd7e413f6434843/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03c228b1d69afd1c9d90083cd77e4fae/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Palmtop Tiger of Happiness",
+            "episodeId": "toradora-232?ep=4964",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/07bc3ed816195ba3399066b5b67b28d643a1e6442625df40fc7a43f425020fa165bbc8c51d18db90cc172261ce1a9a46d8dd7fa7f6bbaf7e31d49a905884691a33ddd980ea9f89a2370e31c700ccbf04328504b0b1f05754e5988a5af38f9113d54f5602ce292abeeeac75637bd19efe71bb129cba88e3b6a73d153cda88ce9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e5133cb774b65091f6dc812aa2ecf90/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/07bc3ed816195ba3399066b5b67b28d643a1e6442625df40fc7a43f425020fa165bbc8c51d18db90cc172261ce1a9a46d050ce5993525f1c32955388204fa6463ee6c9dd7db0e7cc3311e46f316aeaf8425eeeb1ad1589fdabad9fb204720ebd4daf9a25c8d58885f4f7c56f30fe7e433824b0aac0c03511533d3070a1f5a75a91628a5fe14be57c250687b7f2bd0c8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e5133cb774b65091f6dc812aa2ecf90/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Stars are Far",
+            "episodeId": "toradora-232?ep=4965",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b2d62362e23122812a4fd89326de50e7096b98a67984d5bd36a2dc76c7c78d59534e78b110b01ac9ab46f043af1363e7962632aaffb99e4f0e32fea38e9593e74151a6447966f07695a6c2ab66733db85f6bd5ee1c4310a57552e2908d36e471a8bc66e299676fcea23fd1abf1fd8ccd63808d22c7c46f77a91af8f66d06ad7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fed562982a179c5d743ed3538f1f6d6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b2d62362e23122812a4fd89326de50e7096b98a67984d5bd36a2dc76c7c78d59534e78b110b01ac9ab46f043af1363e7e7c0f7eea3ba8204bde472fc75be462846efac3632af3aa3c623ec25e324ef44da004ee955a35be1442e02a0cb3565fec9990e30d086cd6d58ebde20d1b3078b6c1590a61e184f5a366ff6e8ff6c97d5386ed6d58ee32976a1f9f48ccbd011e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0fed562982a179c5d743ed3538f1f6d6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One Step Forward",
+            "episodeId": "toradora-232?ep=4966",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/52d8c324adf6e51b65440fe8fb75980b7f3405e2b4b40be85f4696d7332bda0eae75dca4f2fdc892fa3a714a9f9045952a971a25ddaf10c819484c5f1ea5f7f63c7c78d83d6a988801a2d6471e87f5b4d6c2e705565f56d6a74627485649040c29e8f0c18e91693b94e4c93bee44a35178e4538aa195b8ccc2f63d6896137511/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5376fa1da5aebb1cc62dd945921237b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/52d8c324adf6e51b65440fe8fb75980b7f3405e2b4b40be85f4696d7332bda0eae75dca4f2fdc892fa3a714a9f904595a59e94399b52e8a94927886c71d3b6aad40151c7bfaa641d74ade018960d96b2445c0ef6e9bf1872e8e76bc45c70aae6ec2049bd60d1f42d92d7b0dd669f6686b3680a8a23b60b64bf76e2da04f1b1565b4cab11634f1c31d3bf78fd54fb0dc1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d5376fa1da5aebb1cc62dd945921237b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Mercury Retrogrades at Christmas",
+            "episodeId": "toradora-232?ep=4967",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/14f9f2656294b20d128d0be1036ae895b61c67356f0a022500ed369167863cd7a21dd69b7066c8fb5d6f25740116028c97c9a49c87b6c6615e84aaddffb5e3077b66124f839373ca5798b2eb1fe485491f97d352810dded15b860181306b61aeaf7946ffc2c8ac5b48c19d2c1a6b6d8f0407f486b690a813f0d2a7dc375ee6f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c38b35437e46277bcd1655a0fa290e04/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/14f9f2656294b20d128d0be1036ae895b61c67356f0a022500ed369167863cd7a21dd69b7066c8fb5d6f25740116028c3728786da2dcf3af78c58ed655e2a64dc098a58a3fa1dc1fc92a06faf1e953cd56ff4a1dec7f3f0844f72508a6fd0347b5ffa2953b66d426abfb6a0abcb2b03bc05e19bdc082aff1ad033aaaf5a66aace362cb6a2fbc9f84892e7426354e795f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c38b35437e46277bcd1655a0fa290e04/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Under the Fir Tree",
+            "episodeId": "toradora-232?ep=4968",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/72d4e3924d18c95e339b27c0cc0573230dcf5198b04a5443b053abc760a36fe958a23a43dfcbdd9db9a2faf4a54d21cac5fa37683f76724ea74343519162b6f22f846e73ef33767c185561c01bd0fc8068cdba5537b8fc1765b4899fbbadeb91dc1b0aae006ccb52008e80f2cd1c7ba65b81b6577f75bd7bd03a998fb5bdf904/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79d161fe865604dd844d4f62a2779463/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/72d4e3924d18c95e339b27c0cc0573230dcf5198b04a5443b053abc760a36fe958a23a43dfcbdd9db9a2faf4a54d21ca396d6a12ca033d1adbf5440ae2f58044bfba46c7a28408f65fb4ee2d52e12a053d3c98bec091bba85f47a1df31a15aed9befa333039495e5e468352a78320e4c3b31df318975882678dfb8200447d9c40abe51ecf535d7218df9937903149c03/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79d161fe865604dd844d4f62a2779463/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Christmas Eve Festival",
+            "episodeId": "toradora-232?ep=4969",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5cd267d4ff8a3eb50863da9193794a790c69d3770a1a2898ef544afb3e0fc2c806aab0917112f7235890ab1eaa163d552d0340ac8872ccacc78adcda673c83cc2debabab05a97d045dbab8a6197136996e8d0622d29120d6922f336ce65bd8f9cf6df26bb5aa000bbbb0c85600980039696eaf46afb0e52f6281e78063c0b9be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10109b25a9f4343871d5036852986688/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5cd267d4ff8a3eb50863da9193794a790c69d3770a1a2898ef544afb3e0fc2c806aab0917112f7235890ab1eaa163d5533c60e1763dcc925a655c3ef5781f3e29d439ede67add366da89c02ff31aaf821eeac6a2d36d541871224c433f8e87f9fb72ce4b001870a490bbefaab8c09435062d31747784bc425506275d76d42a520d949127d9359bd3a5a91cbb09abe5f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/10109b25a9f4343871d5036852986688/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Forever Like This",
+            "episodeId": "toradora-232?ep=4970",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b5a9118e472a734895e3436dda26cb8ab100402462dfd8860852dc3793a467e3af17d44d3d35d71ffea00b532c8c222d0aec334107b5861c6e9e4b1141c4913aa4c8d5e143832d350f179c43366d2c98bbf9b7117da6c8dca6958e5687c4f6aa5029be8d7e1ffd994f1855346a280dbaede8ac1ee6317a514ede919d0de9d2ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc8512bda4605318ef3c495aa3b4135/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b5a9118e472a734895e3436dda26cb8ab100402462dfd8860852dc3793a467e3af17d44d3d35d71ffea00b532c8c222dd6a731d05e67386097acee9ae6674081059839df152ee46d3a5754e6884d850969923f656a09efa66655554de0827e911c52997d315abb3c2af8935a6a9a16a0e591edd38d04963dab812c56c648a4733231e0fe95b9da4aa3c310244984de7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc8512bda4605318ef3c495aa3b4135/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "No Matter What",
+            "episodeId": "toradora-232?ep=4971",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/442c06827067bf5e5c1410e7a4dae0daf46c89ef9d9885c99fde9d04bca3a119d4312e8e6b8258685fdd580f6faaec7d2a425b039541b054bfec8ee1177c9bb3c5f1f9d1a113aacbfa498348856a36961d385a2f37d64619ea32ba7ab0bf7c00c5662aae43366b1fe7c08fc63d7c0ab2b84937ea9123e6840774df508f257139/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a6ae9e07aa2e35100306dea1cb48699/2a6ae9e07aa2e35100306dea1cb48699.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/442c06827067bf5e5c1410e7a4dae0daf46c89ef9d9885c99fde9d04bca3a119d4312e8e6b8258685fdd580f6faaec7d2149f5749487768e5819ef3625f2d8ae75a7500bd99a30942839501072c6123b084d24fbd66a136a5d3e69fdc31462c9c7da13c914c52b86b6af5ccc65af751b833c45dd77d1a28555541e5a8951261ae7aa8ba65313cbd7c41e607f6cb710a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a6ae9e07aa2e35100306dea1cb48699/2a6ae9e07aa2e35100306dea1cb48699.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Scene With You",
+            "episodeId": "toradora-232?ep=4972",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0309cf3df12e751c454cfb37b13fa5a5abc1356f4cd4b4a34d36687bb58eaa029c3cc03fba8f083722fdeda6e3750c81a717909966d2d5a247c1c89305ca1c4dfa2676217ef05e779a0e586d21650ff27807149ba073d0138dfd4f6153e1e36f409f0d87143b9b8fe9dfaa88aa49e7aab4471799f6a3cafa28acd4a741616ded/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bbb18a2e8e4329fd74bf034bce8a795/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0309cf3df12e751c454cfb37b13fa5a5abc1356f4cd4b4a34d36687bb58eaa029c3cc03fba8f083722fdeda6e3750c812d57cb456ba186ac83aa4e838823b69b022faccee77a529bc716c55e1628c1f4f927615735d265362424c7bf9ab49bc140c96c255a6c8c0d19cfbb23ba1752a1dcaca0914a4d2638367613c14299741ddd85473a33b87328bec252bad86e4a88/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6bbb18a2e8e4329fd74bf034bce8a795/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Road That We Must Advance On",
+            "episodeId": "toradora-232?ep=4973",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3f787454600f4be0799f01466fd7eff6a03dec640f8ce569576b582876fe4b9ceeaf89de79f07ff916fe098802ffb7bda5bcb03edbc703902084a40901956cdd803cb90e354ce4c2d193eecf523832e22006c7f89f39f84e88e8869c486d6c4226c59060c04b96508350e69931169b881c9b57a331f87fafe1b105b3494b8d97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/152ef1582a1ffdfaffef33a6b7d8aedb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3f787454600f4be0799f01466fd7eff6a03dec640f8ce569576b582876fe4b9ceeaf89de79f07ff916fe098802ffb7bd910bf97b1a27dfbf7c68ea7affbf147b3aab0ed8ad7b9e188060f93c42d4217255680febe2e206f160299efa5299d1496e5e11e213fe83f96f59bb8b20d3ef33c3523d89260496e9ebd2a5d89c784eba0068b28c12ab810ea91cc4dd7ed1ff80/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/152ef1582a1ffdfaffef33a6b7d8aedb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Confession",
+            "episodeId": "toradora-232?ep=4974",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/02ba85de10299436d2d3db13adb4b09547359605bab42cb90011a61320d56d4e37dd16f3923651c93ae16a7759c6dd2bed09df8aa065d0b49bf3515470bf6ba0804bea8d4a01f67ebb32e6950c90461ef867929169dcc0b99acaee0b00d3d3e2ce0f516dd0d598a86a36dc2d948b209e48a029b95ec6a097e01472efe471e82c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/beed19a1d103df35efec1c806986950d/beed19a1d103df35efec1c806986950d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/02ba85de10299436d2d3db13adb4b09547359605bab42cb90011a61320d56d4e37dd16f3923651c93ae16a7759c6dd2b3e50b07bd043cc77b10bf649a919f691af624fb54727f39607f17b4737a1aa5e7a7ce16f9d8358d4824572fd73a24ac47391510d93c3222776fdd580e4b4219bdfad58c92eba31ab91efd4c6358464e8cf8ec36f3bb230b51f2ed28535d3203a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/beed19a1d103df35efec1c806986950d/beed19a1d103df35efec1c806986950d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Toradora!",
+            "episodeId": "toradora-232?ep=4975",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/133d830908c31b6b5cf5a8cff6373757501b58aa717d268ba4b532bd5dc77415925af2d1ee75fe202450544b494d0e440ee7393014d15a2ee0a9a6ecb441a4f9ece8e7e6f83c6e912e9d230e67d2a6e8dccb89cf66581724c1e8d3f84347eab6067d6d43eaddea1990661c605e5ada9dee2e4ac553276b657f930af2ff919f08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/413b1f693941a2b16dba7ed6b533d3e9/413b1f693941a2b16dba7ed6b533d3e9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/133d830908c31b6b5cf5a8cff6373757501b58aa717d268ba4b532bd5dc77415925af2d1ee75fe202450544b494d0e44542b40edc00fddcd63b1241c991769aef50d8f5129c9cbe4db51cfa788d79d8b4ba4824d991e482eaa06e5bec7dbd7aca9afa90fa1f48b6923bdf919c28b423a444fd20f61e7072832d84de1289ec55d7bc4fa3e41a636a72928677d710596aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/413b1f693941a2b16dba7ed6b533d3e9/413b1f693941a2b16dba7ed6b533d3e9.vtt"
+                }
+            ]
+        }
+    ]
+}

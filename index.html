@@ -104,11 +104,39 @@
             overflow: hidden;
             transition: transform 0.2s;
             cursor: pointer;
+            position: relative;
         }
 
         .video-card:hover {
             transform: translateY(-4px);
             z-index: 2;
+        }
+
+        .download-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            border: none;
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 10;
+            transition: background-color 0.2s;
+        }
+
+        .download-button:hover {
+            background: rgba(37, 99, 235, 0.9);
+        }
+
+        .download-button svg {
+            width: 20px;
+            height: 20px;
+            fill: white;
         }
 
         .tooltip {
@@ -454,7 +482,6 @@
                     const response = await fetch('anime_index.json');
                     series = await response.json();
                     
-                    // Extract unique years and populate year filter
                     const years = new Set();
                     series.forEach(anime => {
                         const year = extractYear(anime.aired);
@@ -465,7 +492,7 @@
                     
                     const yearFilter = document.getElementById('yearFilter');
                     Array.from(years)
-                        .sort((a, b) => b - a) // Sort years descending
+                        .sort((a, b) => b - a)
                         .forEach(year => {
                             const option = document.createElement('option');
                             option.value = year;
@@ -484,7 +511,6 @@
                     return 'unknown';
                 }
                 
-                // Find the first 4-digit number in the string
                 const match = airedString.match(/\d{4}/);
                 return match ? match[0] : 'unknown';
             }
@@ -525,6 +551,22 @@
                 pageSeries.forEach(series => {
                     const card = document.createElement('div');
                     card.className = 'video-card';
+
+                    // Create download button
+                    const downloadButton = document.createElement('button');
+                    downloadButton.className = 'download-button';
+                    downloadButton.innerHTML = `
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+                        </svg>
+                    `;
+                    downloadButton.onclick = (e) => {
+                        e.stopPropagation();
+                        const base64Link = btoa(series.file);
+                        window.location.href = 'anime:?' + base64Link;
+                    };
+
+                    // Card click handler
                     card.onclick = () => loadAndOpenSeries(series);
                     
                     // Tooltip handling
@@ -587,10 +629,14 @@
                         }
                     });
 
-                    card.innerHTML = `
-                        <div class="thumbnail-container">
-                            <img class="thumbnail" src="${series.poster}" alt="${series.name}">
-                        </div>
+                    const thumbnailContainer = document.createElement('div');
+                    thumbnailContainer.className = 'thumbnail-container';
+                    thumbnailContainer.innerHTML = `
+                        <img class="thumbnail" src="${series.poster}" alt="${series.name}">
+                    `;
+                    thumbnailContainer.appendChild(downloadButton);
+
+                    card.innerHTML += `
                         <div class="video-info">
                             <div class="video-title">${series.name}</div>
                             <div class="video-meta">
@@ -605,10 +651,10 @@
                         </div>
                     `;
 
+                    card.insertBefore(thumbnailContainer, card.firstChild);
                     grid.appendChild(card);
                 });
             }
-
             function setupPagination() {
                 const totalPages = Math.ceil(filteredSeries.length / seriesPerPage);
                 const pagination = document.getElementById('pagination');

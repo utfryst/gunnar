@@ -1,0 +1,130 @@
+{
+    "info": {
+        "id": "thermae-romae-3933",
+        "anilistId": 0,
+        "malId": 12727,
+        "name": "Thermae Romae",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aeaead56e842a022db7374bb37412b2.jpg",
+        "description": "Bonus episodes included with the BD/DVD.\n\nThe first episode consists of \"Miwaku no Farosu\" (Alluring Pharos) and \"Sanshimai OL Terumae Satsujin Jiken\" (The Three Sisters of Thermae Romae Murder Case).\n\nThe second episode consists of \"Subesube ni Naritai\" (I Want to Have Smooth Skin) and \"Hitasura Suberitai\" (I Just Want to Slip).",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "N/A",
+            "episodes": {
+                "sub": 4,
+                "dub": 4
+            },
+            "type": "Special",
+            "duration": "24m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "lucius-modestus-10534",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0cd28f59f8deb1cfd24ec70d6bb04da5.jpg",
+                    "name": "Modestus, Lucius",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "",
+                    "poster": "",
+                    "name": "",
+                    "cast": ""
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "テルマエ・ロマエ",
+        "synonyms": "Thermæ Romæ Specials",
+        "aired": "Apr 20, 2012",
+        "premiered": "",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "6.92",
+        "genres": [
+            "Comedy",
+            "Historical",
+            "Seinen"
+        ],
+        "studios": "DLE",
+        "producers": [
+            "DLE",
+            "Discotek Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "A visit to Yoyogi Animation Academy",
+            "episodeId": "thermae-romae-3933?ep=72664",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/421a9fdf3e7477ec859239b6df61f253502a322567c0adb00b05a168322c2baefee414c0ad2409f3fbf3cac1fc9c52a04c0d2bd274c51bcd385d3439162e70f47c4f9aeb28c55f27c45c4f56eef196968d17d96d6916f5339280a2c255c2c5fd6cb0cd4260738ea9365fb8c41a04aa7238442954c58ddf5b1004a4449c51f559/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a057ff6fe9a64992ac68595609d944e2/a057ff6fe9a64992ac68595609d944e2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/421a9fdf3e7477ec859239b6df61f253502a322567c0adb00b05a168322c2baefee414c0ad2409f3fbf3cac1fc9c52a09cfddda8152fb46439dc541689c8fdfc76ab6b119b7448b43f061cdb412463685c2d5ef9b8f794efbe3b26cf3791b33d6764cbda911ae9b0ae0d9c7b0f999ad9c7e7844c584c8e2ddae8c3bfd575e6f664e5daa0bdb8582a265a4b057df4dbad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a057ff6fe9a64992ac68595609d944e2/a057ff6fe9a64992ac68595609d944e2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Alluring Pharos",
+            "episodeId": "thermae-romae-3933?ep=72665",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2c4437c1dba2dcd7d3306327e99ab5fc1adf1dd7dd304982250667527ef38db92aa04598b952e46ffe086c766110b0237f09ee768cbfc36db2b1d394b64d5f965b9433d710497cb97a229b81d7b22d7e6056bcdc3cfce30ac05874965bae1f67480e43705c3751619c6ee454cfc2199a0b02435d34f20cb996a1a60f3df212c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0b53fb6f3623bc466a20f420701a535/f0b53fb6f3623bc466a20f420701a535.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2c4437c1dba2dcd7d3306327e99ab5fc1adf1dd7dd304982250667527ef38db92aa04598b952e46ffe086c766110b023f5f6f9e590e9a2d69aee8063dfcef25d5d7ea911cd4a86dd97d15c4e28c0bb3cc98af747a75853b9ba7007f6632078148410f4b2533a622ff9de479092d8ec4b290050325c77a4f719c5c18c9de3baac6cb1a6ec9472ccd30f91049666ded0f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0b53fb6f3623bc466a20f420701a535/f0b53fb6f3623bc466a20f420701a535.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Just Want To Sli",
+            "episodeId": "thermae-romae-3933?ep=72666",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2ad51df8607e34a383b3a436ad67da84c7094c3e95e25ab59560aeb78908acc87b0900e8c7a5fba1108daf2a2ca9ec9a4fe9b62e00a8f0a00375e49cc1cc292734f06ab08f45c93b104a9fb2dbb57d02fdfdd890d5612d77ea1dd2548f69b4e3d27961968d569abcbaad920fdcc3ab0450feb79830f39c2bc24cc071ac02aacb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb0a5f47137cecbefb5ac7f8fb8afa60/eb0a5f47137cecbefb5ac7f8fb8afa60.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2ad51df8607e34a383b3a436ad67da84c7094c3e95e25ab59560aeb78908acc87b0900e8c7a5fba1108daf2a2ca9ec9a2ddd811eb7b1b0c4d868d8cebcae48cd8a97ca89da4489c8ef7c10037a342359db393b98694ec809d49d29a38e3d8ea7ee28f7e6e0b3332b29e02067cc007134d93430c7d1a96e9d873da0085e44ec4958e5c257879e9e2812a38cdccf4e130f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb0a5f47137cecbefb5ac7f8fb8afa60/eb0a5f47137cecbefb5ac7f8fb8afa60.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Three Sisters of Thermae Murder Case",
+            "episodeId": "thermae-romae-3933?ep=72667",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2a3387735071959dc7eaa2de999fc70e71c28e9a75b5f8c47f569c7f3e012cd7b44e28ce13248cf144bc5b56c696b1245987cec8ec681fc19f263752e229e4b98d74828bf5eb058dbdfee1dffaa3666831a9c59cc4a33ed75a6dcedbb20aabd9ecc589e2a0a2396cb3478b4ee4692eeaade19880431ea868a8b0ee2c0920d866/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abaa25f9712709473934339d1d23a4c3/abaa25f9712709473934339d1d23a4c3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2a3387735071959dc7eaa2de999fc70e71c28e9a75b5f8c47f569c7f3e012cd7b44e28ce13248cf144bc5b56c696b1247f4240c2a48d4c55ba44d02baf77bb184ae9e60f0cbcbc43870e9b5bffc096ae938f676035a2e3a2035eaa819fd2b303731307b2bf2b7947e8476498991925f0cbac8aba62dc4e391dfd5d27c6f47fab6ce34fbe44edb882212f9aa3d9c95dc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abaa25f9712709473934339d1d23a4c3/abaa25f9712709473934339d1d23a4c3.vtt"
+                }
+            ]
+        }
+    ]
+}

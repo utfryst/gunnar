@@ -1,0 +1,364 @@
+{
+    "info": {
+        "id": "keep-your-hands-off-eizouken-307",
+        "anilistId": 109298,
+        "malId": 39792,
+        "name": "Keep Your Hands Off Eizouken!",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8498ea8911ccfaf26a316ca284f4a6e.jpg",
+        "description": "Midori Asakusa sees the world a bit differently. Always having her nose in a sketchbook, Asakusa draws detailed landscapes and backgrounds of both the world around her and the one within her boundless imagination. Even the simple act of doodling on a wall evolves into an emergency repair on the outer hull of her spaceship. She is only brought back to reality by her best friend Sayaka Kanamori. The pair are stark opposites, with Asakusa's childlike wonder contrasted by Kanamori's calculated approach to life. \n\nAfter a chance encounter where the two \"save\" the young model Tsubame Misuzaki from her overprotective bodyguard, a connection instantly sparks between Asakusa and Misuzaki, as both share an intense passion for art and animation. Whereas Asakusa is interested in backgrounds and settings, Misuzaki loves drawing the human form. Sensing a money-making opportunity, Kanamori suggests that they start an animation club, which they disguise as a motion picture club since the school already has an anime club. Thus begins the trio's journey of producing animation that will awe the world. \n\nFrom the brilliant mind of Masaaki Yuasa, Eizouken ni wa Te wo Dasu na! is a love letter to animation, wildly creative in its approach, and a testament to the potential of the medium.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/87d3a47rxcg",
+                "thumbnail": "https://i.ytimg.com/vi/87d3a47rxcg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/dgmsb1axQAs",
+                "thumbnail": "https://i.ytimg.com/vi/dgmsb1axQAs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/x00KnUevfdU",
+                "thumbnail": "https://i.ytimg.com/vi/x00KnUevfdU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "midori-asakusa-2118",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/49e9b1820cc780f8b8a3e2dd787760ce.jpg",
+                    "name": "Asakusa, Midori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sairi-itou-1918",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3157929ae78bb37814e4de72098c1241.jpg",
+                    "name": "Itou, Sairi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sayaka-kanamori-1040",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c8431e06adba666e2357305bbcffcae.jpg",
+                    "name": "Kanamori, Sayaka",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mutsumi-tamura-562",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b1cd9cdc20fdcea2513ea07ccf1fd9b.jpg",
+                    "name": "Tamura, Mutsumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsubame-mizusaki-5129",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb74c5ea5a62372c765e5b9ec205309b.jpg",
+                    "name": "Mizusaki, Tsubame",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "misato-matsuoka-3405",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e617c578824a03a66266a9bc5ef1f7c4.jpg",
+                    "name": "Matsuoka, Misato",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tooru-dotonbori-96911",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3326fce9cee248e4b3bfc4eb3dcd63cf.jpg",
+                    "name": "Dotonbori, Tooru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "miyuki-kawasho-5474",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45e01a185b2491e609dc6046564ac280.jpg",
+                    "name": "Kawasho, Miyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "doumeki-14800",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a425e10637477ca3889b4b6949aa5ee1.jpg",
+                    "name": "Doumeki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yumiri-hanamori-314",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4add1452cee83566e6e8edd6363fd0b8.jpg",
+                    "name": "Hanamori, Yumiri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "fujimoto-sensei-35615",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e46dcef35ec917e8cd6836897eed2d4.jpg",
+                    "name": "Fujimoto-sensei",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kazuhiko-inoue-163",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f491720775bd33ffbd32617ba1a8bb2f.jpg",
+                    "name": "Inoue, Kazuhiko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "映像研には手を出すな!",
+        "synonyms": "Hands off the Motion Pictures Club!",
+        "aired": "Jan 6, 2020 to Mar 23, 2020",
+        "premiered": "Winter 2020",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "8.18",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "School",
+            "Seinen"
+        ],
+        "studios": "Science SARU",
+        "producers": [
+            "Warner Bros. Japan",
+            "Warner Music Japan",
+            "Shogakukan",
+            "NHK Enterprises",
+            "Science SARU"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Greatest World!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5779",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/aef5e5eba502f7a7efda2a81a5034fa7aeb4746361791ee76d8197bb6e0c4b05ded09c520e2241647f5ef8cac91ddc1bb8e2dfcf4394c832710ced88ae0ce16720a04fb939458d662848d2bdf2130aee0142b9f3abc09c4e0573164de57d7162365ac841784137b98e0547ee333626402671ad4aea80f281233689be3ef23457/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d33ef828aedb5fae4c2bc6be8aeb1843/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aef5e5eba502f7a7efda2a81a5034fa7aeb4746361791ee76d8197bb6e0c4b05ded09c520e2241647f5ef8cac91ddc1ba770dd098aacfacbef7dbb8a173c06193bb22905ef5b71d0a58c62b1b25a77e51be90e78dba927d837c4f77b8ef7138eab6ffa4ba0f03137976074e8095aa1ff6e89ac895ab3b6de0315dd74d3f41b9fdb57332b543ef4bc7931213e6c52da1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d33ef828aedb5fae4c2bc6be8aeb1843/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Eizouken Takes the Stage!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5780",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/aa2c8966ac4f2ec43d92b9eed269532f7f9500bf102f846673f31eb9458a5013add6cc9d8395205d28e03bd196095234b7a0fd70131fabac38c8b6a8eca9971a455330fae2852d45e4b9c17467a0b57677592eaa9bda6b64a3a25a9b3f9b559a8263a027f7ed8c869d47ee18247fff3070f8058ebc65098b02dc7cadef3c772c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43b01dacfafceed2c7da661f8e6a4200/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aa2c8966ac4f2ec43d92b9eed269532f7f9500bf102f846673f31eb9458a5013add6cc9d8395205d28e03bd196095234383a52819b8330bf10ea2f29411588e6b23c914a8a40a0b3cf2ceec45c2fb14d7d5659f91a227321506e6d4ad0d3affb775914df2db6394e7e789e64869e0298845b447b5eec9681592361c45a7bcde187d9f64128ca9565c1a027920dc527b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43b01dacfafceed2c7da661f8e6a4200/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Accomplish Something!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5781",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d55f90c6e783d6d83f172fd757532d189484c56cbd637989ec08820febf0c56bbe6805a393ddcc9be79aff8f39d0c4d6465cfc800ca01688c667a94083e505f6088335157715bf0c230fbb117b0adebfdc4b07d69a59f982b3dd1a6531dc5d493e1e23f5c83a4c2d6ac56c387ccc82bddd62b73d75c726dfe2d5ead173fc526e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db761970935877356f38fbe0a0e7b5d1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d55f90c6e783d6d83f172fd757532d189484c56cbd637989ec08820febf0c56bbe6805a393ddcc9be79aff8f39d0c4d682e7bac61b9f2ab3e769de571b3e7935fc795710ac05450400ea0a8c78e62aa7f137621ced0feb08cfd2e2a6eb3e71cf6b2392e8c682c7d96b278c3719ad2e48843544ac7e6f59b93c535b50f90bfd52fc4146332b6ec4a259d376bd16195d02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/db761970935877356f38fbe0a0e7b5d1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hold That Machete Tight!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5782",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c526fd33c61a421f1ae28f33128d5c73a3326345678ba2a5de6838a9b308722ce1cc0448c7e7fba9938647a5bdca55a7833a469a5ae3d57a0216fdb6f10bac31749077470f505145b9759c87eec15ed5ab97bf7433e551095c64dd3e7baa3faa3f0d06a045683f34105f1c864fa7e273f78be5353967dbebc4fad5f344568a3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81526c2fad4fd5654abbb3ca86dbb4f6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c526fd33c61a421f1ae28f33128d5c73a3326345678ba2a5de6838a9b308722ce1cc0448c7e7fba9938647a5bdca55a76e5869020b032d0359654b90d14802e35e3f8945d3ad9afe87dc4f0ccff78d33239d8409b0841a210c61ac1ec99235198519babb545f435be7dabf82fffa6297a03fc49b179b2b3d7113a84804af81725d855520fc19392a7e461cc505aa1a6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81526c2fad4fd5654abbb3ca86dbb4f6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Iron Giant Appears!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5783",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/42ad17205f269c1c246e11c904838886743ac751e85545bd00d8423b05a3252b0b039d1d78c85eb8c7dfd687f100cbcbf8e0caf35af4e363d7b55e182b015bb92d99ac84438466ba3db4f25f67b3ccba846b6498c784005ad7f6893a5cb031d98bcf26f3b3b39e108b6d9dc51196dfb2a91fcc6004c62e7e8f918b200430f8f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4546a08390de03f0d58e8d781321ce95/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/42ad17205f269c1c246e11c904838886743ac751e85545bd00d8423b05a3252b0b039d1d78c85eb8c7dfd687f100cbcb681255d966edd09657874b2bc74ffa2cb8858b9786e92cfba495afa934dd3e3edccf45a0a2f0e946c2fb1eb76625cb76ea4efb1a476d3daa510a4007ceddcdbd045a295a60bb8332be0a6b601311f577fa6d8fa441a8d0b43f231bb40dcef84b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4546a08390de03f0d58e8d781321ce95/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Do Better Than Last Time!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5784",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/66b6f0aadfab62d5dd846d72c8cbbb31053d4fd0a3c26b270348733ef3cc1a7e57591010363c8cd1d800c9fc9e712481ec009cf1215607d03cfa1dfa11e6ba40636153c0a038855e99b831cc7032be9d144c825de38f9b34f8779ce08f3a90f4a669216309dd5d13fb305ee079c8b7097f0fdb588204a9e897a0d4dac48dd6b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e813feaf2ae275a2e813c1c1e31e388/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/66b6f0aadfab62d5dd846d72c8cbbb31053d4fd0a3c26b270348733ef3cc1a7e57591010363c8cd1d800c9fc9e712481c57c07a6ec1fb88c9ee25ac224d035d8f232ea091dc8e7f423639fd9dcab1a1911e3efe46656914515b5e70cc9676b20fc1344235e4f6754f36b7f1da7845a40aed372d159d2fcb3f08574ed30826e3b1bc200024d15c0fa4c317470b92cf70b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e813feaf2ae275a2e813c1c1e31e388/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Have To Do It For Myself!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5785",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/decf7c38a0c91d9c5263fd6381b841e61c415839d29bcb10029866f4e46e46198f08fad388dbe4251d00549f36751352be187e8319340dafdb646d3dcf9e69af09dd99dd621b52cbb9285375506af87e3687dd00fc9ee35acdad9cb6bd14275139f0af6ee1968ad042262bb23911981bde70868c88f2a178afbd58c3d780f4c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f51512c8cb141abeb0b9e9bdf33a564/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/decf7c38a0c91d9c5263fd6381b841e61c415839d29bcb10029866f4e46e46198f08fad388dbe4251d00549f36751352a05acba6ca84a293fee36d4dd0b21091a2f27b92d7ac87df44c45a4f5a63aaf2357088a3eb6d709ebc19d47f27b23d930ef775c03e553d0d57d57b4d8bbb027f7f6301d73d87990f53cf587a569e9c80f1228fc9ee63f6faac19912cbe17e551/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f51512c8cb141abeb0b9e9bdf33a564/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Grand Shibahama Festival!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5786",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/65580d73681b86882e3999528b9e8c180fa4c7d9cde0657ec4c307cd0b0b2009f15b3690fa1d7d703243296f9392ef8493e13cb63349d110aaa62c5f87fa64355f601960acca2d7817a6e6612e08bd7b4de7e8e5d62bf693ccef6da57c93e099ad7cb98e3022a10d9613f4156cd57fa3107c7474f20cba4b682492618df6db58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60fcd89c39fb976d473d02b11473fb51/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/65580d73681b86882e3999528b9e8c180fa4c7d9cde0657ec4c307cd0b0b2009f15b3690fa1d7d703243296f9392ef8400a50a165838a4113fdc2c31995df8831fb1bd11e332c4c1c8005e301d28621894970e6a02c16b0f50fa7606c665ab93f1802a9aba1ab0553fcd89dbe40c879c6f0422ad515052e1c82181eb9725347739e0366988fe28a1679277bae419dffd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60fcd89c39fb976d473d02b11473fb51/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Aim for Comet A!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5787",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c04f86ff6b2757a443ca05f19fb5bba491cd9d7a66eb03282c7a7aeb49ba1c09a0880960147afb53a26c10984c06e04b9bf0b5a8375ecbe4838afbf53e4e3fe15ac8b46e73918fa791c6242243afbff95c907569e3fbc25b08941217698b7591069a260f7910d3fb5d29a473791ba4ecf10d9495673176b28d6d6549244a601d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c726e04f42397db98f7c6b6367831c3c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c04f86ff6b2757a443ca05f19fb5bba491cd9d7a66eb03282c7a7aeb49ba1c09a0880960147afb53a26c10984c06e04ba36cca43b4ba9bb9cbdaaf69a2fa987073d26357fd0b37339394a1b930b2ec5566fab98f99c9028bcbc630f7c42ca568c571d8c723d4ef332e7a325f0b07727436846b509c0586e314cffdcbbed7576c63c6445c08881b938fc60a253c39dc1f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c726e04f42397db98f7c6b6367831c3c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Against Our Independent World!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5788",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2b6b2bafca50f33a0377450cc2636235a3ceb8c22331a81246729a2a75d62e740c0789d66bd16b84dd803281c2987df613711601d050783e35c1a8537968923e074d9c71fc1d92bc4fd984f66637e42783807fecde281153cd471280f39942830526c27beda933942752baf8e8726e8e2e30a1899d2266a05a2a3d069b0088a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07ba19eb574daf0d00a9d224a52e81d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2b6b2bafca50f33a0377450cc2636235a3ceb8c22331a81246729a2a75d62e740c0789d66bd16b84dd803281c2987df66bdc6abd233d689b8c731cc9e411e9cc382ca8d9e675d025688a8ca0c4332c7e9233f11331869f2d6b2a161a4aaef5ab6bc30bd94e48b5bc3df3c627aecc61dc0e8f452e93be00bf7609072cb5530e94021867405b0f47969679aa522616256c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07ba19eb574daf0d00a9d224a52e81d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Each Other's Existence!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5789",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/684664960f1bfea868a20872478e0ab98260d98e378665f17e0bb51462af4bf8c6cdd2c7eff5e35f11d66232b13cad23729e3333c3079a238b5d611c2776230c3c154858a6299fd0986d4dbd270d5a31da3b6dbe2b1ce001ca8ead1da6f1502a13be451e56c71f833a5df79c77eef5de6238bbb02cc0e5e6346ea1bd283e6873/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4f78e0affa705bdb3ebcca30a96c0f6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/684664960f1bfea868a20872478e0ab98260d98e378665f17e0bb51462af4bf8c6cdd2c7eff5e35f11d66232b13cad2341a3fd959e499e0743c6023cb28ba5adff1f890554f86e54259b0122a9d144a510b83d637a01686d4cda44126e8f77035f9232238a9179a1655a6ac636efb48757a23c3fe6a7c172ab3644fa2a5ef6dacf605e7bef9dddb89a7fa02bd33f547e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4f78e0affa705bdb3ebcca30a96c0f6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shibahama UFO Wars!",
+            "episodeId": "keep-your-hands-off-eizouken-307?ep=5790",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cbb8827d12713a3f1572029fc12e656c2b2f2cb5fef51f157c6b3cfb562208e1587abc125f01fe29ee6d10a8dbf4a2683ee7637b7cfe07e09c71fcb48e795ead5275a80e0e7d84f6f43bc8c738b9136f3c8aabe74899064499c4082521a1978a44054cc5c6d89cd660cc11474ac796281592dbfbb2bc0364e9c8923115e01929/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/007772abee3cb1ca51012870669a451e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cbb8827d12713a3f1572029fc12e656c2b2f2cb5fef51f157c6b3cfb562208e1587abc125f01fe29ee6d10a8dbf4a26802a0bfd0b96ca3924baf740a4f9fe44dfa063bc2d7c0487273fe369c8b6a4f46b1a4387a77a60d95e9b974a93b3e9d55a6580ac9aa3653bc5079aa5f4b757bcebee52398dd6387c7f8b7bfb55896b7017c66abb13998e0e8f098669dc80ec257/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/007772abee3cb1ca51012870669a451e/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

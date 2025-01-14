@@ -1,0 +1,928 @@
+{
+    "info": {
+        "id": "mobile-suit-gundam-856",
+        "anilistId": 80,
+        "malId": 80,
+        "name": "Mobile Suit Gundam",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc3295ea7d9bfb7d15d2a44a62bac3.jpg",
+        "description": "It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as \"Sides.\" One of these Sides declares itself the \"Principality of Zeon\" and declares war on the Earth Federation, the governmental body currently ruling Earth. Using powerful humanoid robots known as \"mobile suits,\" Zeon quickly gains the upper hand.\n\nNine months into the conflict, the Earth Federation has developed its own powerful mobile suit called the Gundam. When Zeon launches an attack on the colony holding the Gundam, a 15-year-old civilian named Amuro Ray suddenly finds himself thrown into a conflict that will take him all across Earth and space, pitting him against the enemy's ace pilot, Char Aznable.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 43,
+                "dub": 43
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer English Dub",
+                "source": "https://www.youtube.com/embed/QeNKubtJB1A",
+                "thumbnail": "https://i.ytimg.com/vi/QeNKubtJB1A/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/qLTh7dbQISg",
+                "thumbnail": "https://i.ytimg.com/vi/qLTh7dbQISg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/Uyja7ZEgDxI",
+                "thumbnail": "https://i.ytimg.com/vi/Uyja7ZEgDxI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/Y4mcrfKzHxM",
+                "thumbnail": "https://i.ytimg.com/vi/Y4mcrfKzHxM/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "char-aznable-392",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6c617ec04ff3722f33936410f9b53dd5.jpg",
+                    "name": "Aznable, Char",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shuuichi-ikeda-392",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b719063d36cddeb71d918fdad441217b.jpg",
+                    "name": "Ikeda, Shuuichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "amuro-ray-1337",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efd087da521d5c975a1d367123f0e393.jpg",
+                    "name": "Ray, Amuro",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toru-furuya-628",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c3e890af5929ed2ba3348fe9cc51046d.jpg",
+                    "name": "Furuya, Toru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "matilda-ajan-29741",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/897856d091c5ec653b2af5b5ea1ce40d.jpg",
+                    "name": "Ajan, Matilda",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "keiko-toda-3670",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ce39e76e93579f1c65789a02d8ba2691.jpg",
+                    "name": "Toda, Keiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "akahana-120613",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9905401d0374733f43fe079674b1babb.jpg",
+                    "name": "Akahana",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ichiro-nagai-2063",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47e875c16c0f47e37d131eda39e73c13.jpg",
+                    "name": "Nagai, Ichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "simus-al-bakharov-61360",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/24186f724234d2ed970175d162dc3a3f.jpg",
+                    "name": "Al Bakharov, Simus",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "matsuzawa-kazuko-19748",
+                    "poster": "/images/no-avatar.jpeg",
+                    "name": "Matsuzawa, Kazuko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "asakura-120833",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6222c8a58bf48ad03e61852edfec19a.jpg",
+                    "name": "Asakura",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "masashi-hirose-6080",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/519248d31202163022fb3ec03773e319.jpg",
+                    "name": "Hirose, Masashi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "機動戦士ガンダム",
+        "synonyms": "First Gundam, Mobile Suit Gundam: 0079, MSG, Kidou Senshi Gundam",
+        "aired": "Apr 7, 1979 to Jan 26, 1980",
+        "premiered": "Spring 1979",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.79",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi",
+            "Space",
+            "Military"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Sotsu",
+            "Nagoya Broadcasting Network",
+            "Sunrise",
+            "Nozomi Entertainment",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Gundam Rising!!",
+            "episodeId": "mobile-suit-gundam-856?ep=14890",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c57e58be4128783515be55c39042dac22ec32e691ae0b06fcc1c4c2daf20e9021fe46885ce96510c37121a89883ec7476a4486eb3a34716af25d903299a5e4557432c95ef6cf0ba0e76dbaa0c15d63369038e68e56dfa913ee353542750d70bae606fe7ffd7b1e0ac36cd2b289378eee538b49ebe3fd1adfd8c7404e7baadc08/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07e7a7ae0a18887aae4dd5659958de10/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c57e58be4128783515be55c39042dac22ec32e691ae0b06fcc1c4c2daf20e9021fe46885ce96510c37121a89883ec74741e12cac518a0425426c879590a169c33ca94e58c6408ed8d8001b7053e6e4403172c7d8c1169816d023ab35517808ade4d48efeca93de2f4c8152332cc481d41f197ef9f8f7e53ef95dad5e97d8ad0e4d3b421eda1dc07d761800987882b17b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07e7a7ae0a18887aae4dd5659958de10/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Destroy Gundam!",
+            "episodeId": "mobile-suit-gundam-856?ep=14891",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/49389ecc37d58555afc6e0b64d1fcbf30f80334cfcd6adab97b6359d0b6f2db8fcae8fc5878c5834aa4b6d1ca131aa429e4471f298e71c6180866b7de2ab82802eaca535b2fac5832778e224f6b01fc06470456f2ad47fce2ca150c59fc17bbdfb29e4a3d756b73942e367e4b1cd94a65f97f10aa19651928c83c858b73a4ff2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/246459c4f15776d60fdb0baeb21228a8/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/49389ecc37d58555afc6e0b64d1fcbf30f80334cfcd6adab97b6359d0b6f2db8fcae8fc5878c5834aa4b6d1ca131aa4275b51a51c99cdd839c22bdb383594cd3ea28f8b2ffb22b9dc8c11a5c7c389bc8564ef607cff6f576573070f9d9a060551880ad0657606f33d2182afcafdc6e0892d35e384b19d0c25a3880039930a05a8dc1f89260261244094363e025c8ed4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/246459c4f15776d60fdb0baeb21228a8/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Vote to Attack",
+            "episodeId": "mobile-suit-gundam-856?ep=14892",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f5a168be990af7ed437ddec0ac3627c8fce6e53351a78d2b1cb6c67497227f85bab201ba2445732e4d86a68d7b6981016e96c8388ed4ae09f1b72255be612c921454094f296a4f70646fc38cb8f7a31c77bc90c8816f501e3ed88081dbc119f206d9941b94f5098db2922bcf742c6efdd9736b86b641d3cb5080f6caacbca01e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/537403391f2e14bf2d3678a25be5fb70/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f5a168be990af7ed437ddec0ac3627c8fce6e53351a78d2b1cb6c67497227f85bab201ba2445732e4d86a68d7b698101c414ac1d86518241bffc9184e178b4835c3e7a150e171f412c0066e7a1b9e66f5a01342b4702d21a7ea93a029e2e4334f0ae91480130346afd1d2ce2fae4709577356778bb77d3831c641c454eaffeb6753e99137a38dfdaea1908a2ac0bb803/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/537403391f2e14bf2d3678a25be5fb70/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Escape From Luna II",
+            "episodeId": "mobile-suit-gundam-856?ep=14893",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/60a96f47211773813d5c2bf36fe5de19630283412f319cc8d395b3c8e1649140d107bd9c5bdbfc52c624c77311556b56d753b54ce0346d302d6a4dff123092652ca997ae94db10e378dcb6d4f96fcf941b79e4f8df960f247ef3752766cecf9568037b0685f869e3e75e3fe305172f590b3f2f243df2dc7c96faf6819ecc288a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2c895c97425cf3251e48406f29fc5dc/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/60a96f47211773813d5c2bf36fe5de19630283412f319cc8d395b3c8e1649140d107bd9c5bdbfc52c624c77311556b56f3753f47b3475fb88f9539d82655a74fd6c57b1d94241a94ce32d627e3f7357b0482535811406a53f75e542cf49713f7fb95053b6d78e9bc253e614666ee00ca91cbee45220e5caa9dbd1a0d1c1637f4dfd6e4ed8fa223281d97f73811993694/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2c895c97425cf3251e48406f29fc5dc/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Re-entry to Earth",
+            "episodeId": "mobile-suit-gundam-856?ep=14894",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/eab150a6fd28b8ccf00fff6e03a0cb8a3856b0da06e7e66bac164c23c73926f260928385ab3486c92af32dcfed25b3e9d021b38f98de32437372a981925f71ddc26a2b55b0613b942e9ea5576dccf74bc5f4752f7203fa1256b11b7503c4ceec1e9ca8966820bf8a43376fc08b852675ac1c2fa0de28395f806b2646a9d55b70/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae728e9931c6dd81cf1d96eb9dae1a3c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/eab150a6fd28b8ccf00fff6e03a0cb8a3856b0da06e7e66bac164c23c73926f260928385ab3486c92af32dcfed25b3e9b39ffbd0cfcb1a2dc4ccc2a889163814c8fd435c7356c2e7e8c79af01266bff4c22c22e08070e42ab8a9f151085a2f5733ace031e91df25761098199f632a4a06ae9f8d92fd962a8a370ff3136c30e53018cfdb6f426391eb103b1245bc46379/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae728e9931c6dd81cf1d96eb9dae1a3c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Garma Strikes",
+            "episodeId": "mobile-suit-gundam-856?ep=14895",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/92129a62ad438a1572ca32266a7197f32631cb884956f6e67036d4e60ef971b170f1195c4247391c456792638fd98524bc2f72193a70e3e9f8d4bb1656161124151e0352a8b2cc782948905597ebf90a2d9893d752b5357ef0763941d6ac90289aeefb10b5c7e12b91a2bb4098a24cdebb62da6043700a7015acccb4102bc490/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2dc29dc20638df9776d64eba5113c0b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/92129a62ad438a1572ca32266a7197f32631cb884956f6e67036d4e60ef971b170f1195c4247391c456792638fd98524e42f32c54b39d494b779007928e58f86b2e3bf2329a3e567e798e4772e0cbf57355a15882dc0ca0ccd69a93e9683488cf592cbb1658c17c281043c7f9bcc9d03e21ae0e4bb59aaa39ae8a1ad3c8e6c5b6ca74e7d43fbdf3f84aa6d1665652a5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2dc29dc20638df9776d64eba5113c0b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Core Fighter's Escape",
+            "episodeId": "mobile-suit-gundam-856?ep=14896",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5efe14f2cd860370083fdce397849a6e328d6a15d9d1dbbf04a24fb352dbd0cb110d23e037339f0b0038dc7aca0e686315f51cdf615530a5cd55081068bf626cf7be1f3c41d1c85a9086ed49f25cd2b759fa1c9861dc2e87bca1c73487f4bde8199932c2cf6b0b9b62d2e8138fe707b5c9c45bed44bcc15080dfab88ff087488/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f080964dec83013ea9db74cc0cedd07/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5efe14f2cd860370083fdce397849a6e328d6a15d9d1dbbf04a24fb352dbd0cb110d23e037339f0b0038dc7aca0e6863239988101db7cfd97016b3542aa71455bf7ce0277963eee19ba4197f13712a75eaa1e8365f3867061c00e854ca4c25e98fe9e35dc773067ece605802b0c1ce069fabc73de0fba33638897558130b4f0455f0ca1003af7d3e77cb7170de588a9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f080964dec83013ea9db74cc0cedd07/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Winds of War",
+            "episodeId": "mobile-suit-gundam-856?ep=14897",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a98a5f76374944f66eb4670b538a485c3fe9b630a1d7f6a32f29dc55b8f93b1166dbd545b438d7d65434838b36fdce1cc183c455170d2eac0099e693312622337c76c2da4949a3b88034d15784dd4cf6f82afc8a6c7c454912269f3d838706e53085356c9dd984c15735a7b20c926db7273d959301f7a01627d012f336727d7e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90ddbf39b68d5f1d4c67f0a44289c837/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a98a5f76374944f66eb4670b538a485c3fe9b630a1d7f6a32f29dc55b8f93b1166dbd545b438d7d65434838b36fdce1c7dad45d24e05dfe3dafffae7a3583afbf67184933189fd1e9945b54621f71bc5850e705438ea28e5e1e6a61d6b293de40b74e9d9bcf7f2aaa5c93958dc4d16eeb7fac9a3a683b04a693f5fea3ed3235db7c0cf52d50126bcdd63d973058ba601/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90ddbf39b68d5f1d4c67f0a44289c837/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fly, Gundam!",
+            "episodeId": "mobile-suit-gundam-856?ep=14898",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0f15c139d6551dd792b837b20ebf69c8fdd4f4c0779e31cfc8860395efedf1689159f412680b02c55bd4c44b894c017177dc604b72d99e1b4a184147d81dd30078a211e2d4c5e2e7a6f15ea61a2cfbe6babef00888533c530ea46e360396dfb2b69c65df40c747d13582b3d43fab6834d8a60ddb2683c037b666286db0bfe7df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc1d6177fcf0c84c0008e06ef4277691/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0f15c139d6551dd792b837b20ebf69c8fdd4f4c0779e31cfc8860395efedf1689159f412680b02c55bd4c44b894c0171e0fbfb9e39a35a994c2914ecfb548933923a86fc5142b38ddd91ebbe4980b1c46d3716bfe5d21f29a21c501f994b87f23fe91d6b16ef194a3081f84a950a002c0051aa60726a6665ff4e2194a7adc52ef8b2919e035721700d1e4c16c0b723ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc1d6177fcf0c84c0008e06ef4277691/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Garma's Fate",
+            "episodeId": "mobile-suit-gundam-856?ep=14899",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/9255eec573340e44d716a7683ac2c90c4b789c8044f02028c3269db493b8c5c2e3d773616754f9f6d6c81ef561f608957ea7aadd9fdfd12ebb9bb8f3814c3ca93763aa0121e9d1d8fc1b0b25e89ea469c272fbd9c778593ac65af53d187899dd20779d3e132c3ea44ebb4fc374cfcf8d31c510d00ed7b66f63536376afecc23d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01510b126a93dfec4079bc9811077b7d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/9255eec573340e44d716a7683ac2c90c4b789c8044f02028c3269db493b8c5c2e3d773616754f9f6d6c81ef561f60895bf4f4bc4e5e2f81bcf23a9537dbcf23ddedf41ed039eec316cb05ad5814b4f8dd15f4a643a142290a767181af0d93ecef22252fd73e1304b71b10830ca0a9def0ffd64656480ba0ad70beab8b0cc34780596f981b5d506fea26239f57081b174/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01510b126a93dfec4079bc9811077b7d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Icelina- Love's Remains",
+            "episodeId": "mobile-suit-gundam-856?ep=14900",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f03cddca6d86bbaf44c54442c3c51611dfb999db8e27387404f997135966def7ed40e536ec8c72b7c047b19f75723be15c41fd64e78e96cbc2091ac6aa9c83f7d5ce4ce0395e886c51660cc76a47e5271cb929084daea87b665f6ae2ac9ac51727df035679862d18d09a73acd60ea9cc54c9e932090db2a987eaa01453e16124/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c97ac6ac6924bed6b151ba00879c013b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f03cddca6d86bbaf44c54442c3c51611dfb999db8e27387404f997135966def7ed40e536ec8c72b7c047b19f75723be1d550c595b86c96751f47acfeabcb2c73466f758db461b32229f35fb848113fb5b68b70c4bda48b660388fb5c38fb1319f112725b39909d78d267ab6a7937305631d5e340c963f7f41dec2dda3977b11ca12251f5ba5bb7d4fc23833f559375a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c97ac6ac6924bed6b151ba00879c013b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Threat of Zeon",
+            "episodeId": "mobile-suit-gundam-856?ep=14901",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ba801449b69b8a745a8b9c0b134d92900076c0503fb8cb6bc0764f6a9b93886f6e8556758b574b7dd9c32ebe88f1d0cfaef2499a492c4ee5778253a7c6aed41be3c17d8980416018315b1d04e8d7ea2ec927377aa34524c5add45d1eb316ad7e5965262dbffc709ac89e8e391da19010801d12de95267228b6a97fff977a36c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/861824f59dcd0ce1acb888f23529862e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ba801449b69b8a745a8b9c0b134d92900076c0503fb8cb6bc0764f6a9b93886f6e8556758b574b7dd9c32ebe88f1d0cfd0cfab730c56e2be753dd95c43c771cf1c69fba6f3083893b40e86a5a8270880df75a9d4ef7aa8ea00384ffd72a08411860289807ae80e2bfd96fec830cd401589bce60eccc8aaf0d5a7cc5e8bd72262567d79f14a829c7a6943cc80110560c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/861824f59dcd0ce1acb888f23529862e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Coming Home",
+            "episodeId": "mobile-suit-gundam-856?ep=14902",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f6009c0dcd94f78edbb4f7962656c92059a2d6d3a62a560e3df0f9d397cda826321a533472d156bd39396e22c37b644541cc5fb49a4012a18ee30311bb781cad03ffa371c9691accc623e2387f0c157016aa5c260bc8a8f936c4dfd2eeb814bbfc1f5984d1f9e6ae6b3fb741db51377eb2aa091624b53ec7a1181e4c67318323/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd208b1f123786e78b05742845c738da/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f6009c0dcd94f78edbb4f7962656c92059a2d6d3a62a560e3df0f9d397cda826321a533472d156bd39396e22c37b644575e42908b8c898dd9439506e1b1a8e399925b27febe6e74e319fa58283d2716b9a62fde1dff1d0afc7199b018fede029d841362bb278bbd2d2dff15c5154ae48ca9e51a1c0b430758bd5ef959cab72c8823ee0ae0bfa541ca809bb83a8d8889c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd208b1f123786e78b05742845c738da/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Time, Be Still",
+            "episodeId": "mobile-suit-gundam-856?ep=14903",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/86a4f4042ae77074d3c210af0dc2c7568a99d13a3da0f9232aef46b1d1ee34da33ab78dfe8a3439988b58e00aac9dbcc7c4d020a713050683c7658445a95baac49a8a5b6a76abf7526db94ccb745d421bcb013b79f7d35dcbe8df32b35deae601ffd5dbd0844622d1d43109e8b74196ab3877e4434d14e8e7dcb3acc9be03485/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e58ac2ffcd2d88247e5acac3b24d1db/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/86a4f4042ae77074d3c210af0dc2c7568a99d13a3da0f9232aef46b1d1ee34da33ab78dfe8a3439988b58e00aac9dbcca70b8d26a4427dc375e4ad0687bbead9b318d9eb5badde311a039aff402e105ca915360f250cf5180258c494e960fa9aa9927120bbd6b955d504178ef57ac8d58983d1eed8144f770839b8faa2e5f34e409cbfb8ec9cab60845ff1be0d0fd563/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e58ac2ffcd2d88247e5acac3b24d1db/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cucuruz Doan's Island",
+            "episodeId": "mobile-suit-gundam-856?ep=14904",
+            "number": 15,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a04cfd4360e680df3be41d7a4f561cddfdcedd4756b8d13c266bb1cb3f5a1dd53ace5b5e407b10c81fec2cd2b30a6a34c00bb8de55d797dbcfa028bb8e2710e8f170fc6114cc631ff7b330ae7182ea7a0840c439530d688cd7bbc22766da42d6c9a0793472316907487a8d648cacc3c640432e3b969d4def36a59949e72d9d92/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/386b18c0f3dfc72c7e362d00b30fa6bd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a04cfd4360e680df3be41d7a4f561cddfdcedd4756b8d13c266bb1cb3f5a1dd53ace5b5e407b10c81fec2cd2b30a6a3431546ddd6fe0124b353b4a73c102206ae5ffd9035ebe2043b735ddc3a9e417ebc3cc79b8ac2596e3ef8f48856ee2cac40ac6c5e5a169a59195b9d38505fae8d9d8e69ace5f49cdd40acac1e1e406cf947109dcb323672aa7120d0fafba9da342/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/386b18c0f3dfc72c7e362d00b30fa6bd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sayla's Agony",
+            "episodeId": "mobile-suit-gundam-856?ep=14905",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1a7cf27d2c682ae81b5ea9e88cf955235f5a510509ea90ead37f46777979c9508bcb9728f242304d68ea47789e4ffc118d3316ed60d6ee586e017e32013cc4e93bcdad89bfd72fc2aa92a3a8fd5dbffbdca0ee8ec7407f47a15083545fa0def90a50a08a41d234a77e089a9b7ea4ce123326cc525fcada7ffea20574ca99c238/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ddcce3cde2ae6cd7bd00b9fbd3c3371f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1a7cf27d2c682ae81b5ea9e88cf955235f5a510509ea90ead37f46777979c9508bcb9728f242304d68ea47789e4ffc11351e6b7425b4dc3d0c175fe24ae58f8f79c1c2a86cd2736a3dcd56b5a2248fff3a495e3680b8db6fcdb34716b1f25a6d28e1a0f8f6217f5dcc05ce3f8efa0f0846c67f761a0760194246c08593f6912ca27912c8f029f51e3cb3c93d9b2bf77d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ddcce3cde2ae6cd7bd00b9fbd3c3371f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Amuro Deserts",
+            "episodeId": "mobile-suit-gundam-856?ep=14906",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a7cf6d35af4518d93a1ea2075cc46a4012808f72ffa2d403ca6733455c5839654f4a7df31bc09c209c461ca1b34ecebfbc5a35a0dbcad6871276db6147623d8ad9b61cfb845fe10f5b45bce7f331b541a57b9e19b295e496edd83b5093318ead1d708a1bdb656354d6e2a913217cfdd223cde11b3daa38f5844939fd4f108ea8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25ef7403d9bd2851c10c1de958e4d3e9/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a7cf6d35af4518d93a1ea2075cc46a4012808f72ffa2d403ca6733455c5839654f4a7df31bc09c209c461ca1b34ecebfa8482302e2cf26aa703f35c5695350f30c06393cc612a54d1c835ac61a209e2dc1fbd33148ec3a4a483c0ca613b25f61afd90223dc88ce6a60a011aa91933f0fa5411934ff21b0df95db8e99daae0d29dd5da72e5be82b84380c894441055d65/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25ef7403d9bd2851c10c1de958e4d3e9/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Zeon's Secret Mine",
+            "episodeId": "mobile-suit-gundam-856?ep=14907",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6b9d1b8e436b53893217f6c2859a9312e6e496008ae9f6c25285d2193cc64ba42f81c09aedc2215577b7304dc297b047e8ec95b6479cddd24a673fc89512c51fe3d1c1ede391f59db79cd738c416948cf41342df629d2951964e3d9f14a4f92b3b442b1d659e001cc1036f45e9d83bf743b376e765bf2c150a5d3ce3eb8737c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfaa82e7d96de605fd3a0386e7627f2c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6b9d1b8e436b53893217f6c2859a9312e6e496008ae9f6c25285d2193cc64ba42f81c09aedc2215577b7304dc297b047c1e8a081786990f62c33f039c0b70debd28ba84c60e9cd1e422bdab6319ddcc7b9a8a8f9c8f4884d36684ad9820ae8d5750717ef781e7a5765d2e69b1b20928e083f34ef54a52caf3e7ae5aa2c5b0cbc61af333d260b2f84293ee9ab5618fd50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cfaa82e7d96de605fd3a0386e7627f2c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ramba Ral's Attack",
+            "episodeId": "mobile-suit-gundam-856?ep=14908",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c18aeed2019c5dcd1caa39d4f85bf2f84840be0d8f92ceea964ad54215a5e704da7b7ec950660214471a9d81557676dcb08c67acb4acc2c9ec7823081bb1a827d80400a50ffe5635101e4bb10694a6195fc10ed8457274b1c55a0a422227f4cb787fcbb7ae06ace10ef6035b1c0e060c4b4c7e69cf79fe50ddf04f3e78ae9947/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f75c991d8784ecf8f83d9fb736abe58/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c18aeed2019c5dcd1caa39d4f85bf2f84840be0d8f92ceea964ad54215a5e704da7b7ec950660214471a9d81557676dc17da714ead600d5f48e8e1bf8fef3f5e59c5de74b4bba8e471f3e85d2cc7bfadc48bdbf7e51fb707dc74bffbb7d527212ea0abf3c1a07b9d43271c0a88a67f6cbd72964ae64414d0a35c8352c936f4992c6bd66d5a5f45c1cc884b480a4ee037/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f75c991d8784ecf8f83d9fb736abe58/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hand-to-Hand Combat",
+            "episodeId": "mobile-suit-gundam-856?ep=14909",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/db1557c814f6240aad8412578f50d6ed3f6f3aab62f55ebee1faed25ee69458d62cfee0f739203a8d818c911ebb2048064807696d65c9fc7be135f5d30b77f2bad3af78f4c5602cffb3890e8dd9a747d391a600de85b755c00d9f2ffe812b5c16921606d261789a8556e585c5916bcbeb7a1f57f11894c6da75114e9b66111ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92bcd08d972b3ded1535ddfbbb594b11/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/db1557c814f6240aad8412578f50d6ed3f6f3aab62f55ebee1faed25ee69458d62cfee0f739203a8d818c911ebb2048071b8cbaeeca99887412001f63a35db24baca6e430b557f3e16efc664a91af03013c9e319d710dcdd27172258304563dc5c7600d99d149a8a68d9e3f5d225aece92dbe0b8b31d4803b55540de05ac297b53abcf202eef4209115d8394bfd6feb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92bcd08d972b3ded1535ddfbbb594b11/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sorrow and Hatred",
+            "episodeId": "mobile-suit-gundam-856?ep=14910",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/17cd54b5bd84bbf2c29b887adf58c80dac11b7aa04824cfcea7a8c31f876fb239e8622440d1aad7b6c35a4166b4243a0e3f407828a0d48d1dcf4d1963d24d3a4c1c280d1d2849c9e677f0e4fde8a0b1d75401061ef34a43a176939b7328defd9d4921f4080ece0a640588ed6b77dd915839badbad78e43b50eec0c77d4a95d47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72da5dff88b6bd70a3733e9bac2e7f86/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/17cd54b5bd84bbf2c29b887adf58c80dac11b7aa04824cfcea7a8c31f876fb239e8622440d1aad7b6c35a4166b4243a09d8227bbcd2245dba734abe1cca51caa6635b500e13496cfced4f34a30d558071ffc368d6523605c9c3852ccb1acac00cd601c995befea5f0164b755eda694b41f70ccb446cf45710f54a4410e2730e9b0c180a3cc614809fc943f21e33bb0d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72da5dff88b6bd70a3733e9bac2e7f86/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Trap of M'Quve",
+            "episodeId": "mobile-suit-gundam-856?ep=14911",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/485995aff855f0bc933faa62ef7846b3da50f5bedb55eb0582601b19374c3ae849dfb810a9669cc382f32de77b33efd17592a1a189591de3b6082e7bacd095a406464cdf52282513d5feed8589d5cdda596c33f13617ff75c90ad3e358655883d050ca6df303796204ce23d58894a57b1c8fb9b7f7d46c7decf77a6600642fef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64c805255fc67c87ffb4a3cbb78ff07b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/485995aff855f0bc933faa62ef7846b3da50f5bedb55eb0582601b19374c3ae849dfb810a9669cc382f32de77b33efd158e8f4f4d4f3ec842f44054abc07316e100e99fc7f10066a8b767b7bf910aa33e1495579921d471e0aaed349ad8ed187e8f558174ea761cfd26609b52f1d0a720c52ce325135bacbcfb8a4030d9cfbffc96205142b5cb53defe875395b5e3def/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64c805255fc67c87ffb4a3cbb78ff07b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Matilda's Rescue",
+            "episodeId": "mobile-suit-gundam-856?ep=14912",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/671f053131a6252c8ac8ec54f741b717f185e18ff8c0b390b2d91a8f1ccd0103e43a63cde292c6563993466be1533a5ccbeac122d318774c3fe9c3fd5658e4d4de199963ed8f9ece55cd22760eab3c910d11a9ac482d2482e7ea291099e36a5fff0e6932d4b0e607636c594d670fb850d10de173265ce04b139cd598d10bb2ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/392d7631136367eeb10ca3142c8187c5/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/671f053131a6252c8ac8ec54f741b717f185e18ff8c0b390b2d91a8f1ccd0103e43a63cde292c6563993466be1533a5c2c8a60bcace4ec58f5b96df3c9051a122ee343cb02374b7103804f8750c2a2b537bdd6a0a8c1287cbab2d296887d3956532e66bec7cdb5723589f3d003160761896cc710db907804b07f55f2c8e3611464b98c2cc75ffedf7665a006c231ac6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/392d7631136367eeb10ca3142c8187c5/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Black Tri-Star",
+            "episodeId": "mobile-suit-gundam-856?ep=14913",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4b8826a678dc074f4df41cb801b2e734712b849396d27cd6d44db056bbe9e1d639e43a604c9e390c4647f477b7b33175ce0b44e52f39549685bc85bb652458a415287e07c151f09f4a4eb0bb6db18013e413b81229366822f852addd0759f3b52b5a12e30d8583155eabd5961c427c2f5ebf9895484a15139bf695204138dc50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38ae55b8351b7bfc50beb6de5cb8950c/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4b8826a678dc074f4df41cb801b2e734712b849396d27cd6d44db056bbe9e1d639e43a604c9e390c4647f477b7b33175b01353d473606ee77baa5223f9cd52edd4acbfe897030206e3220117e41e14d7971a76a4aeb4b5e06bb6fc09e99cc913eaeef5ad08662f069ac211b241e6a8054b6c5171f1b882edd4a995fc8d8bf3f562d9fc65439370642de9dfa3bb9614b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/38ae55b8351b7bfc50beb6de5cb8950c/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Battle of Odessa",
+            "episodeId": "mobile-suit-gundam-856?ep=14914",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/aff0c985325f4be1bf77aeefc511ca2d9cdbcbf4a7a396620c2b5ab8dbd0f68be1432d45244e48f674ed9f003d1cc0688eee33292fd12787c909b0a46abd1dc75d464b5d2289238908db7293c4633fa9e133a5d2ca9f8bba19c018ace5347fb5ee95a4822be3c216ee212c8da9961a3e2bcf941ae58640dc93a5d750f3a262f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a557760813b09eefa8558758d437350f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/aff0c985325f4be1bf77aeefc511ca2d9cdbcbf4a7a396620c2b5ab8dbd0f68be1432d45244e48f674ed9f003d1cc068c5ab3a657879785f2d6ad33d593e295505df9d2e330e71f9a667ed3ba32e9493ce3d5f8fe8104ca36b077f9a6e53952d27526e9d66dc59cac43440a69a0c7a6df2c45d219add35f7bc8f08ec9cd27a3b0508ffe019c386bc12cfd2151fea71ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a557760813b09eefa8558758d437350f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Char Returns",
+            "episodeId": "mobile-suit-gundam-856?ep=14915",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3254fe2463074c1c8e0235ff0a814d1bcbf99e7a118304ce6decdb24bca35a43e8ce336bc308f6647b7eabf2c1dd2e093ebf4de781e3c481cd66bbf610f8262c4500919d303c8c3a14693e63c37665a2d7d6756454ceeb52d44a92de3edf10a289c061631019b2ed98cdfdd66c0de4259bff77601929d98eab46dffc3c771d54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35ddbf10aded069af38e98c1ff08125f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3254fe2463074c1c8e0235ff0a814d1bcbf99e7a118304ce6decdb24bca35a43e8ce336bc308f6647b7eabf2c1dd2e09ea99552e9788ded7b494f4464d99f0c08cbdd00380378fd384ffd7c8b55c006bbdde7d575c35b2d49fec8bff21f815105d37d6cf514b5a61d0df2d3f9aea1e4357e69c637fea9857d2d199e95ef5c744722ae10930dfdb5e452c06ecef54e5cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35ddbf10aded069af38e98c1ff08125f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Spy on Board",
+            "episodeId": "mobile-suit-gundam-856?ep=14916",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/24d992d49126f9357d874f92dd833abaa6acc5da3ea1af9ada42a0e1c850fb92d8032feb42267a1500b0d7000288e76e3ef9bb917cce035c414adf3d2ea51b6da0ee54c5c2ebf11c24cde424b8344030f919a35a4e548dfe741d3ae1f5f8500b55a18ecc8a97f616901ea8e3d9f7f255a96d8ef917ed98f74acd1263142345e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fb7d441d44f9f877c68d6250a50737f/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/24d992d49126f9357d874f92dd833abaa6acc5da3ea1af9ada42a0e1c850fb92d8032feb42267a1500b0d7000288e76eadfded69df77cb2356597c45adbdc69cfd5139f61baa0d088fca3f3bdbc32817c4c99eaa2efb47fd84d1e1bc891a945a2a43ca9c8e7d801e336eb23ced64acd6ee2aae48a634150a565b026235b267b37e9500cb6af7b310c2fb6fec6c896585/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fb7d441d44f9f877c68d6250a50737f/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Across the Atlantic Ocean",
+            "episodeId": "mobile-suit-gundam-856?ep=14917",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/bd4d892fb04365dfb9c9f6009546ee3e573b8b8561bb8e76375b8b516cad44574507cc9c9e0010ae5e83d372a1eb52fa3fee636f12c63efdd48eaeebffcde8094ab1b7315b4a14a5eb282dd023f2bac0f00100f40a8ba028233b8529349e290336187c4f494440b3872400ec6efb8c01935209df19820786dd86407053c5e0f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a09a8a36a15e0967edb8164eb943a74/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bd4d892fb04365dfb9c9f6009546ee3e573b8b8561bb8e76375b8b516cad44574507cc9c9e0010ae5e83d372a1eb52fad73afc34d96dd77b277a0d80c6789dc28a46d07a2f582ee53cbef6b7d4ca9ff95f92f473241a3475f68c7dcefa275ccd8370a9719d71302bbf1dd4e4f131446df490f654ce418ca09f8bfe7f00c0cf83de5b4f24424d03fefc37a2612af584ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a09a8a36a15e0967edb8164eb943a74/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tragedy in Jaburo",
+            "episodeId": "mobile-suit-gundam-856?ep=14918",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7663b1d3b3066e34a8defd014a88e27697077d5f796ee02f922387f07ebefdc63b1eefb86d55ac9e9da680f9a054f5605ee1b2a890c234c441cb96312bc77a1471dec47235c68c9376832c7014b2ab6ae3e387335584a8c9ada30a05d63fbdb0a874129ded0a48923a655c8c3bcf74cdf4d5e03919f6d106270dc9ade96462ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4529e3e1904e87f6e475573a431930a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7663b1d3b3066e34a8defd014a88e27697077d5f796ee02f922387f07ebefdc63b1eefb86d55ac9e9da680f9a054f5605734592b80d54827030c857a4ce3c4504197c507c04bcd13ccbcb0ffe5bdcc0066c442af229439499c428d236d6d91003496f2596b8743d2f04b053a28b8b106f4ffed0935a3d2bb637d1789b27735e8681f9801182cad17e40217356b58d640/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f4529e3e1904e87f6e475573a431930a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Wish of War Orphans",
+            "episodeId": "mobile-suit-gundam-856?ep=14919",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/482765f9c4854fc01fd40f99602a97ff4f65e8f71226f1d9bd7a5638a9d08471d8f37c4040e4d92de94fbbfee163a669b56e139409d4583dfaa95bb4d234345529bb02cf1ceadbb31d51798dc3fd4e299ba32d1d902d6075d9f4eaf26abe652c04c20e46c6e806dd5e8ba00e0c88120883b5af5c12de4bd6ed35d78b16a3b910/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fcd87b4d8738f14cf17718dab343623/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/482765f9c4854fc01fd40f99602a97ff4f65e8f71226f1d9bd7a5638a9d08471d8f37c4040e4d92de94fbbfee163a66925757668d02d7e8961534c29eafbe83f3f962700300537609c9665bb9d97de05e9c8ab371748b59df9e2c44b8961682e7086b7b7f300d7c82091b38049b58277f560fda5a373ad7dfa35c90f146fe1a13e898e083d55c932b18045b3425a9a4f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2fcd87b4d8738f14cf17718dab343623/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Decoy in Space",
+            "episodeId": "mobile-suit-gundam-856?ep=14920",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aa6d7a880d6882f8d494945bed75190598fa9658ce7c0b7338ac795e35ae9cc149c9bc4547b4f43791033bf1ce135ecc6307257619a176d2f859adde35e09d93a9646b9cfdee1b9be91d5bdec65b606bdf74e9d970ca2e512a211eea09cba0ce28c63c1f23ebe3685597ccf3bf3d9a31449500021324ce98e4cda0c4713f59d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dfec57a5b23bd95d87fbd9e28208785/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/aa6d7a880d6882f8d494945bed75190598fa9658ce7c0b7338ac795e35ae9cc149c9bc4547b4f43791033bf1ce135ecc06622655955197db8a7c3d657284412052628ab7e0093a2ae221cff53bd2f0b0ff56c929e620dd02398116e92d5529eeae3cad3625a2e9e8d960b16535b0b0b2d1a2121f87fb187e45a52516520a5005b56de6bf6cc0a54a3d61ee15ed90045b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dfec57a5b23bd95d87fbd9e28208785/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Breakthrough",
+            "episodeId": "mobile-suit-gundam-856?ep=14921",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f30e1d94d519736c8bd399f2e3b802ee3505b91f67984fc8220d281e4b52dc068ceb8a704bac3863bbef232d306a230494a936fd2775e989e1d1204e2a14b272497df2b496a0b25fec1d5ec2008b1b9fc808e201381c41e06964e1e65736d1707190c32dbd303357c6cbe3a209d9749c48cc5bae4b958b68877dfba9b68136b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54e870908341b60c862cdca18ea019c4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f30e1d94d519736c8bd399f2e3b802ee3505b91f67984fc8220d281e4b52dc068ceb8a704bac3863bbef232d306a23047ba0f79cf78c7620ea09acf0d4270527a97310415e511ae85d1bb8c717d0f7654dedc26390f8ac602d31fbb6f9a0a1cf9e799dc0c91ecc0a0c08a76af27ffec159906a3192a4bcf0d936f434f19bccee0f9f9fcc191f49b5d9534c5c39e61f40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/54e870908341b60c862cdca18ea019c4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Farewell In Side Six",
+            "episodeId": "mobile-suit-gundam-856?ep=14922",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2a93625df96d8a68bd911ca1927f6d62f3291dbb72696bd8e4bb81e69e73717ceca9f1ebd0a5515e5b1e67087dc3cb34122484afc0422b4183eab5215e07405118eef399ac3b6b728a2b7c568bfa29b0a7b4e9db124427be493b08d875470859f1877212c610a09b16852c3350d15e9f8e4ea7f31cf2576c70db01729386ad95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecbbc51a393f3af415e8325924af746b/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2a93625df96d8a68bd911ca1927f6d62f3291dbb72696bd8e4bb81e69e73717ceca9f1ebd0a5515e5b1e67087dc3cb3483c8b82e1122cfce268bea6a6b0b2178e519eb7b20bd274fd0cf94f4db83915efbaa48580b679058c6692b38f7c22ecd43337db34677e8a15aeeeb8b5cdc5568a0799e09246046b8352751b340ebafc4c42e512156e8e2a7d4d3f4b40621f4c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecbbc51a393f3af415e8325924af746b/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Fateful Encounter",
+            "episodeId": "mobile-suit-gundam-856?ep=14923",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/977bb5a9db789272bb2415b1cb8bb31d852069df8fadf439bfc5de70b845ee9edd81f410b7303783da1e9f4acd0183f107ec9a1da461fb35921621737663b1e74f803bbb52e97b1b7a3756f8e7f6c8ad474274b0278019aa17643d217cb1d758b60aacfa383a44841e07f298b6123268ac5b2f274879576bc9b2fc97a6e2f3c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a49cd1aba8d82149546d3d91f70f7fc4/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/977bb5a9db789272bb2415b1cb8bb31d852069df8fadf439bfc5de70b845ee9edd81f410b7303783da1e9f4acd0183f18d24d70dece8f2d54c4de1a3325b43e8723ddbb6fd90e7ed9838f1aadd72125c9a9ff1ea5f9f5209d2fa90b004b80b757b4fa62b9b3ea493587e04151bb82e1514fb34a74f9fca3ef2cbaf842f29573da1fb6901a72b14bcccd41118bd3086bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a49cd1aba8d82149546d3d91f70f7fc4/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Glory of Solomon",
+            "episodeId": "mobile-suit-gundam-856?ep=14924",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8611bfd0d06cd5852ae93937a462afbc332b356d0179633654d8001d891ab79a6f7cab64ee02534434a7e4456c78a5494fe6bfa43e3a074255213551b2f3b9cb1f50e8a3db5405b88e847d5ae1152ab92b9e9cb5a51b23cc0b567396c13b98489ab1e3548dfcc9e9bd1bf1f5f101e16bfa1e2bfb5d4cd6687c1718c325b270a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c56e79166bd0ef5f182ef9e5610faaf6/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8611bfd0d06cd5852ae93937a462afbc332b356d0179633654d8001d891ab79a6f7cab64ee02534434a7e4456c78a5493a07396e88761e74e423293a2112de1563173159eea4f2ffb21ce161d092b96f14beb0d66066a72ba0d527cc90d631af0c253c8d1baf0eb2293f9eb9b073f0c94a16d87bbb5d4e6a2628009fd8581fa794aa7f36c8dd33d4d27073209e227fcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c56e79166bd0ef5f182ef9e5610faaf6/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Big Zam's Last Stand",
+            "episodeId": "mobile-suit-gundam-856?ep=14925",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/fc0bd4e26702aa0201f2950a045b1563eaaa2f828dd3e664e1fefecc172a362e088083a82189440afb8b28d515f4c2af2032d5ecff707891243976eb9400cd679c854748a72f1861aba22cc8ee7a419a1f434936c11e19d78568420dc9ba1576a93bf5e14e2b26398a4aee9bbe3e49727bb1f734285e2d0986e47aa861bffd32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fea343501b4955d5377b165e2e8a5aa/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc0bd4e26702aa0201f2950a045b1563eaaa2f828dd3e664e1fefecc172a362e088083a82189440afb8b28d515f4c2afd52e9fd168e4fa98fab567c7efdf889af2392305543828f4c626d8afce908137671f2683cdc019fcb5046a2ff8755737cc24df9b76a2ba340aee3869d3d8c319811d9851555dcdc49445879a7c7a1c8f7d7f41da07b75257fc40899bfee01009/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4fea343501b4955d5377b165e2e8a5aa/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Duel in Texas",
+            "episodeId": "mobile-suit-gundam-856?ep=14926",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d09df581ed71667ab6fe21b8127d4bb0a5356776f77f9cff8a5a8e16ece4a0b7a7cde3ee9e5a2a7a8d8b3002d8321db0391b31d3a49abe7a03b77a8ea75b2525760022dcf73ad2949cf5b1d5d7e34eb0342a4e607c0a94d3070c97051cd05f719735d533d84f63ca4d1217076af7ba9321be2f999c3e2830400129921ccee772/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56f3d6ccd0c2616a2a41e8a3ddb0bcb1/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d09df581ed71667ab6fe21b8127d4bb0a5356776f77f9cff8a5a8e16ece4a0b7a7cde3ee9e5a2a7a8d8b3002d8321db06a50389455bcd13a90fe3eab3f17b361d11437d4da5208c497fc9533517e45a0cb792f48cb43c392df81f71cfae8079c140b298323fc62db13917c08f6a841f5c97159e78b6039c6e0173605da47254924e907875838d89211abf810a9c0d52a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/56f3d6ccd0c2616a2a41e8a3ddb0bcb1/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Char and Sayla",
+            "episodeId": "mobile-suit-gundam-856?ep=14927",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c9df470c72da3b660561c975552a462a782a8f8c25eb615ed84c8ed120ed4151dd3efa5cc3e470562a50179e6935f0d06c7c67e7d1a64b369eda4f65f209748f878a1d6771bf3d22aaffba63b0c90f2b435047957be2835de87518c370b8b326a6824e57b7a64e093fae617726811c9cdf758e8a83df9934e01639d17514279c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb108308d1b6745dd0a330948722375/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c9df470c72da3b660561c975552a462a782a8f8c25eb615ed84c8ed120ed4151dd3efa5cc3e470562a50179e6935f0d04e32537fb493e8fb6e731db3bcf9b7d4dda2ea1180b3a77b52a93c500ba5a553abdbe1569de7e95538b78c36fccc639e601faf706344e55bd46fd46e380feff7af9abe96c64bdd263351268d72d6e54e0ba61039ce3ccbf07f3d26ec9f943325/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb108308d1b6745dd0a330948722375/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Newtype: Challia Bull",
+            "episodeId": "mobile-suit-gundam-856?ep=14928",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/e14770c0008870f67552cc41a6fde6fac8f8e716b47d2a0d3ca1a6406025812fa07a4eab4ecfb78d43b029c9009d4afb87cabc7238e2c9586a506437223b453ca3296e41cb9f75a9bf30dadf5b2d8729e073890ee8e0c5d9f26236897372ee8672ab04edbab248d262fd3aeebcc6ca6f22f63ab2b2029f44ead9f8fb3119e09c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b14f15974ec0a07860e8576f12402792/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e14770c0008870f67552cc41a6fde6fac8f8e716b47d2a0d3ca1a6406025812fa07a4eab4ecfb78d43b029c9009d4afb1a0247a48e6252eaf945e4bec5e2e59978856c943b3108a2dcc9ed183bdef51b2559a989d2ae9b9cb16c2a5f6b2ef31908554c14ca506bd382f800959a1a89d3d1a6bd81a3feec7700d2a170da5a8ffb19d2f9539b2ccc8ac84c9d764547d18f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b14f15974ec0a07860e8576f12402792/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lalah's Dilemma",
+            "episodeId": "mobile-suit-gundam-856?ep=14929",
+            "number": 40,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d565c5d8644872d01ff0cbcd33c70205e0adfbbd957f32395b6e7b108f36115d755281f0870b47a255bc6977e6608857a98ba025bde33a03678cf3acc5bb1fc5b2e4419b800f5a855963459c6ca505557fc1cf881f4d0c7f6e0acd91592040005ffdcdbce91d67492669195e5a154580dadab2d406804dd4e73370089451bdd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0e33cc7c07e2e8b148132013c59bc7a/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d565c5d8644872d01ff0cbcd33c70205e0adfbbd957f32395b6e7b108f36115d755281f0870b47a255bc6977e6608857321e301f3eb78369d1b5d1a2394ef0068e160b72837e3af8a358213287d34cd2f982e75765343a9e87825f1d83b2eab9a6d663f5e83fb0603614b420130ad780f4e9cc9699c54f6ac9efe65aa19b1681aa36cfd5d7a5b23d9a55eb5c7f1ff895/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0e33cc7c07e2e8b148132013c59bc7a/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Cosmic Glow",
+            "episodeId": "mobile-suit-gundam-856?ep=14930",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ccd3f78db3c5f410c2f34e6338509fbeb667a6d9f814ec7ef9efd1d9512f6c4784fbe5afe5da0827b006fe2946da709c0ca16158f3b105a0e14c7a105cfbb32b3424567f26e1154d470a868047cb5c1b723faef0be4b7d9356d9e46421cc9152f27dbf0f66994234903742780f09e18810b9439d581f9f68d483db62934cd822/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a81be6c0b9c487ca853c872928bf105d/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ccd3f78db3c5f410c2f34e6338509fbeb667a6d9f814ec7ef9efd1d9512f6c4784fbe5afe5da0827b006fe2946da709cf08bf0363247556b22b4f8873ffc60e340dc721d589c1fbf3a586bbf566b2298322faac3629e9c7bd24ba075d62167fc860502191cd6c4a9f3c091e22c17d875831a3c5118b3c3dcb6e6515837344e67d0b8ceede10a8b8c64e218ceb76dc640/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a81be6c0b9c487ca853c872928bf105d/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Space Fortress A Baoa Qu",
+            "episodeId": "mobile-suit-gundam-856?ep=14931",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/80dc53413aebc372d8207c09254c694929df0b71a48a1b551d0906a11988d6e3f0ff8ab18a6a85a116f84f0e33d93ddf47c44b233abc380488217871d8e1878b8e9d49e51e55e29142574d00354675d051251b597ccb6fc72fe92d2f455721c44531a5749a27f26f2ed4858b4992e0b7a637110a1562faec3ce6fc03ae32174c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0880b912165ee68d5a7db370fc46e0e/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/80dc53413aebc372d8207c09254c694929df0b71a48a1b551d0906a11988d6e3f0ff8ab18a6a85a116f84f0e33d93ddf87c341d063dd03a803fb3c4891e78793d94f88ef50a31768d5d48b9b6f5a404d88565d98780abebc3884c0e472379c7167a22019311c6bf3e8fb55d8c39d2183c90ddd5e049459da5c5a36478a681caf666a0d4237f75bfb7781e6b6bad9f50b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0880b912165ee68d5a7db370fc46e0e/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Escape",
+            "episodeId": "mobile-suit-gundam-856?ep=14932",
+            "number": 43,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/14cc1c810ce591bb16d7d6ad72e8215e926ed5706908a52781fb5615dac1c252a15f2ed7175a82118f1420ca403dbb4b5b191ea7cd917f9ce6c918415d3528efd2d50596b41284109354cdd26c0b536e5e8e89ec361ea55e3e566833d198d27f25c9938f214811ff77f64936545a41b25abf8a236cafec6a82e01c7e8a600e79/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7987e282a94929df77de246d31825568/eng-3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/14cc1c810ce591bb16d7d6ad72e8215e926ed5706908a52781fb5615dac1c252a15f2ed7175a82118f1420ca403dbb4b9518cf2b6d7f737f3eee8e8f3909cda89f1f544369afcfac46091aaaa41849dd07741cc4cf986c6228c5cfa91562e4c68bfa1e810ec3407eba29c6682aeaedcbe3a28c02a29cb31507118b5bac32af4a76f2597221ef3b7aac319bd2fb8b82ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7987e282a94929df77de246d31825568/eng-3.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "info": {
+        "id": "food-wars-the-third-plate-295",
+        "anilistId": 99255,
+        "malId": 35788,
+        "name": "Food Wars! The Third Plate",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3c916f408e9755523e5116ffe13c9b0.jpg",
+        "description": "The Moon Festival is Tootsuki Academy's annual gourmet gala, where students compete against each other to earn the most profit through selling their cuisine of choice. But for Souma Yukihira, it is also his first opportunity to challenge the Elite Ten, the supreme council that rules over the academy.  \n\nHowever, this is only the beginning of Souma's war against the Elite Ten; a nefarious plot is underway that will provide Souma with the challenge he desires but will also shake the very foundations of Tootsuki Academy itself.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/Q7WK89iPkCo",
+                "thumbnail": "https://i.ytimg.com/vi/Q7WK89iPkCo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/SELSLl0_Gmw",
+                "thumbnail": "https://i.ytimg.com/vi/SELSLl0_Gmw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/DOPv8dMNfgE",
+                "thumbnail": "https://i.ytimg.com/vi/DOPv8dMNfgE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/embX33vYoyU",
+                "thumbnail": "https://i.ytimg.com/vi/embX33vYoyU/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement PV",
+                "source": "https://www.youtube.com/embed/kKa--HTwc0g",
+                "thumbnail": "https://i.ytimg.com/vi/kKa--HTwc0g/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "erina-nakiri-352",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a9cfda7b227c2832667b7ee12661adf0.jpg",
+                    "name": "Nakiri, Erina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hisako-kanemoto-331",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/53379cb9f3fe6b197ea347e0f05cb859.jpg",
+                    "name": "Kanemoto, Hisako",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "megumi-tadokoro-575",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d83423676b0235938f0e2fe124528332.jpg",
+                    "name": "Tadokoro, Megumi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "minami-takahashi-413",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05247cef650afb89d4c473f955dc0229.jpg",
+                    "name": "Takahashi, Minami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "souma-yukihira-78",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0526881b3bcda0d890c0b3a6ab4d6c95.jpg",
+                    "name": "Yukihira, Souma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "momo-akanegakubo-7858",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ba671dfbaa7f4344bbc6e4faa7ffe0d1.jpg",
+                    "name": "Akanegakubo, Momo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "rie-kugimiya-6",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+                    "name": "Kugimiya, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "isami-aldini-5331",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ef20471895c2642147b35f867599c21e.jpg",
+                    "name": "Aldini, Isami",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuuki-ono-306",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56bac21abcb5b1eb0f1d8de71a210154.jpg",
+                    "name": "Ono, Yuuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takumi-aldini-2175",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/80753e36203f72c473799708285b8122.jpg",
+                    "name": "Aldini, Takumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "食戟のソーマ 餐ノ皿",
+        "synonyms": "Shokugeki no Soma 3rd Season, Shokugeki no Soma 3",
+        "aired": "Oct 4, 2017 to Dec 20, 2017",
+        "premiered": "Fall 2017",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.21",
+        "genres": [
+            "Ecchi",
+            "School",
+            "Shounen"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Lantis",
+            "Warner Bros. Japan",
+            "KlockWorx",
+            "Shueisha",
+            "J.C.Staff",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Challenging the Elite Ten",
+            "episodeId": "food-wars-the-third-plate-295?ep=5682",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2151b610806e90eaa4c3f7552737c3ec42ddd65bbd6ce81588f671f41d6ab654e4e88ebe47bb5d1bb414dd9c681c12a989168140e210291527989eb268f4d48e2859122dc59b555f08f0ed8ebecb6a8b524c4a22cac1161f0ee5cb5fa1be9a18c7d0ae1cec0555fdfc8a67db4ded35eae939216917f64234586bbe9d51543073/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46ab30a9de8661ad8c5db2c4f61e57a3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2151b610806e90eaa4c3f7552737c3ec42ddd65bbd6ce81588f671f41d6ab654e4e88ebe47bb5d1bb414dd9c681c12a9e2f9a019d8a7b56307459c63da22e031c7dd13b280a2c4d6ddd10561f6f7e8f1961e260badfe070c4910e7aa150485d633fdc4391fb8a4d433fb8daa228303db78c445fc5702234c998bee20ac575f21e944e58170d525c5c55b7b76c91ba96f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/46ab30a9de8661ad8c5db2c4f61e57a3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "\"Ma\" and \"La\"",
+            "episodeId": "food-wars-the-third-plate-295?ep=5683",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3f31718295d230619ce52649a876ceda952b525a62c81035cfa81f8aeeae041ef3d16945a655f50645e5fb091f46c262dbc78bde1920b7ee7c76016bca6fed53776b302775b6d62999bf27fe376e6406ddbb0344fe3583dea703f9da834a86dda6a4ad56d3f135c0c2d2ae3f5322003aa62a5d2941aa4b3a8f638f18b73eeabd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd28d696ab670b394e077ab365be460d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3f31718295d230619ce52649a876ceda952b525a62c81035cfa81f8aeeae041ef3d16945a655f50645e5fb091f46c262f0b27faaf00f84653814ad46d9c39a0c5e64c031e158b9b08d6bda8c9e5bd172df00544f527a82ec7051baa80dfb3aa6dbf7f3f233bb6f54da0ba35995c74bbc483e57970d313582ce1c97a9e3cba8199a121ede817f9469e9fb072b01995d64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd28d696ab670b394e077ab365be460d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moon Festival",
+            "episodeId": "food-wars-the-third-plate-295?ep=5684",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a8262fb36e4d22b50a06ab9afeec21335942822f1c8eeba0acd06abe2ed2c47ca8213eaf7a5e404e69c0db773e13c7039518603cf77bbf26053db32810e4e40d1e3d0a7731f549c9c15f0c6f626ed5792967df495ea3eea9507bfd062ee391849511d3f79971f178478ecb3157e58adeb46a41847f90d868107061cb4f10e081/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/795d15601dab726307fa5e38ed7ad736/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a8262fb36e4d22b50a06ab9afeec21335942822f1c8eeba0acd06abe2ed2c47ca8213eaf7a5e404e69c0db773e13c703451720eaddae754de81a375f80ec03b3f7f62feea231dc2718a5114bebaf15d8fddab5d4d2f3681555dd76460a1356dde0cd7160729a83a33a29380aa991fbdde7e9a0c79e9ff4ab20191a72a402a8db23c6ba03246211ac4d6a7f930a6812e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/795d15601dab726307fa5e38ed7ad736/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pride of Young Lions",
+            "episodeId": "food-wars-the-third-plate-295?ep=5685",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/a653008f315c6c253870cbd3e12528a1abbf8dfe1b2e84b7d0e11a6bec9917fa595031d08738e2d0c65c9bff79dcc7586b58006b40f5ccc11e51198773c600a57cdc63b444ebe03d5fb7aa399e60006164d764bfd8ee6afaab94acd740e3c7da970d3b95ddfad1cb11cc5b3e53dc8987fc28ae4341c5f474f81cea04ecfa2508/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/690fb15bc56d8053e3d61aecee553d72/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a653008f315c6c253870cbd3e12528a1abbf8dfe1b2e84b7d0e11a6bec9917fa595031d08738e2d0c65c9bff79dcc7580d86fac87a89b7d7c415c934ac08e7ad08496eb7da27f1e8e9a2e512d5bb7e0e92fc2e6fbf35ef507569492df35cc85340240742add3d5f7d4f494b698de539c4c244a1472c9d53a2071273b2560fdf823dd8dc843364cd796caeff458eaf9bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/690fb15bc56d8053e3d61aecee553d72/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Darkening Dinner Table",
+            "episodeId": "food-wars-the-third-plate-295?ep=5686",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/03cc8b457ccd2e1c31a07821d8ce7db6b995e41250bb69f19c0230313de0184fb39163022098223133544a66990ffbe56c4531ef0d3c40f5d1a90b5c9c054da14b886019b9a9478ad347e3fbf9e08904e9a4644d5c215640e0e662939e3b9e07284fdfce889e5fd9f15c090b753693459a52acea7e4b311c4c3a59e30f11efae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7568714a3a5c87ff396e43c4b8db1a6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/03cc8b457ccd2e1c31a07821d8ce7db6b995e41250bb69f19c0230313de0184fb39163022098223133544a66990ffbe562389ce14c24f5f253c66d1b797b0f6870d8cca8c712953b7e78811b2fbee80f372ce3283cc101f7029a9a4c923d0c4ae528c25fa2a2b0bddf454bb5f3f92bc59f1097b1bc90712688126c36b83fbe031ce25327ec668bc75b3f9c4de80f94d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7568714a3a5c87ff396e43c4b8db1a6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Imprisoned Queen",
+            "episodeId": "food-wars-the-third-plate-295?ep=5687",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/1492e05edcebaf7b4ce0485cb7725db377bf05cf480deea341f3b61edffeb81ef5b90652e4451f811cd97e2f6905050a2d9297e52d4ef8fc5ca9ca63d5dabe7d0ae4f37fe44b7438b2004cfade161a8d5fb4ce680abd6e6d2c205459d6e0e7086b6ca56c08a7805436a0dc67237c9491635c4dcac63154b52e626588f3244a95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a560a27af9550f05de0bb7d9a9a76cb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1492e05edcebaf7b4ce0485cb7725db377bf05cf480deea341f3b61edffeb81ef5b90652e4451f811cd97e2f6905050a0b62450211a56a6d3e1de85cfe906dfd354623c438ee57e468b4bbae4595bb595fb40d821e25e9b448de9489e5f4206ea1244036707df695920bbd127ab06a2fe8d11758928c8dbc4c2975409d40ee740dd7167d2495215ca6d38a9f4d63daeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a560a27af9550f05de0bb7d9a9a76cb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It Begins",
+            "episodeId": "food-wars-the-third-plate-295?ep=5688",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/578f3a6360b43b0b00d7a093d61a37dd252ff8e5456dc55e3640e0cc56e034ec075f9bd4c45eacb9186d96cbfd3eb89b7c2b3bafa5ac6cb210c9d307377da9b2fd42576d03b7296ce8f8f529978ab89826a97c21f469172470265beb7dc9770faca822d64d140da0c10daee5609cf23502066a9af968e93e09ee2c5a4df64360/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a86295a4123481c4c8012256010b600a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/578f3a6360b43b0b00d7a093d61a37dd252ff8e5456dc55e3640e0cc56e034ec075f9bd4c45eacb9186d96cbfd3eb89be4528298c8795890f59cdf33ad0c4261cdac0c3c96362ee1935f4a857c0d40aa29056b4140550791bb00ab7d9844ece950050573a7941514413ca9c216bd50641cebe53db62a9f2a12ee852f5b8d33af376f9f255d0195f6578a194219bd0d25/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a86295a4123481c4c8012256010b600a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Alchemist",
+            "episodeId": "food-wars-the-third-plate-295?ep=5689",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0b5129b91f74dce8281824325aba03cff725a45e1f646a1f911047e8f4509fa308193179f0df4051ccbcc1c00c2bd468fe150acd717f676b54be0da8bd966425a7bf9497934bdf87c913ad43d3b9f17be586b8e0ab4566d436e9df8869ca50b2a9b17545c4a24b6ab3af0bff471025f95c5b399ab8babec983411584cd303bb7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/353dbf7c9ebe595ea48f660a085683fb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0b5129b91f74dce8281824325aba03cff725a45e1f646a1f911047e8f4509fa308193179f0df4051ccbcc1c00c2bd468b5bdff8959c12ada29d540d8f757eed93a92dc9ef74be0c4f551398c37b3cde2e7ff263dad9cff1cd6da17f7e9c354e4cbaac1d863bd79cca14410bdbd4471e146d776c52bfe37c15ad30a81e0b594c65bd42216ca0fa40f16cc9c0693de1806/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/353dbf7c9ebe595ea48f660a085683fb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hunting the Survivors",
+            "episodeId": "food-wars-the-third-plate-295?ep=5690",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/125e51e53d6ccaf466639612eb08c05f013a7cb7e5c21022d7e3b59389c417674d5f77747a733cb2547dc3561233555eac7e830b07b1c45593ab55e276e05f0e86c7428b5f37c643357ba2be297777b910ccc8a296dc432e9817798e3cb5fc9c79f1c7bcbd9a95ad279c8c9fb86393c0734943e51f3684d2302cebb09925f248/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b68d8e55dbca427cc3a2c60def0d0f43/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/125e51e53d6ccaf466639612eb08c05f013a7cb7e5c21022d7e3b59389c417674d5f77747a733cb2547dc3561233555e0660ee27272b543793ac10b4e55ded4c16a31a60a5022ba209f4e1518f444884e6c2c6a452a80deab8d7fda6b373967d20bf87239dbe384c5f97ca3862dae082015f78b6e676e752a1bdb799e53884f51472fd42b1c7ef10f18f3ef920a20be6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b68d8e55dbca427cc3a2c60def0d0f43/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Salmon Will Dance",
+            "episodeId": "food-wars-the-third-plate-295?ep=5691",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c360ba182661f0357d72bbc94b92bb77d6afa1240cc88042f7e15421a84227c229bbf06f6ddcbc88224c56d5824a5165645ad0e9b1848c30166206b1227a64d6ba07f18c1b44ac39a490eee2fe0947b8fa683e10c6e2263f052f364e0d733555197ea4da94f509c5917dae3ad2c971358b797063de7476994672eea8ff9ddc16/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/191f4380f632adb17f269122ffffacee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c360ba182661f0357d72bbc94b92bb77d6afa1240cc88042f7e15421a84227c229bbf06f6ddcbc88224c56d5824a51656d9ab7956ad815c66a0640d20bba4673aa8f5f50cffd114a49d477447187c195ab998d049d4372365ecdbe271f1f57e1570829930c4098b03d38b4c3ea9e76867384a21eba4d535c1c3bf67a832cec35eb3a2debe23830a92c000a8c9e29cd66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/191f4380f632adb17f269122ffffacee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Der Weiße Ritter der Tafel",
+            "episodeId": "food-wars-the-third-plate-295?ep=5692",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/080830403e108ac8c06cec0479cadddc9d31ca22c71bea34c71c7fffde20d953bddc309897e2dc94962cc94a9577771bed7dd94f9c18e36d20e40fb1038ceb985b3be21618e6a49bcb3e474bab56ca150dde4c714c926b893e41120f79da4e689bb15271d8cd2b52f0416d582aa85a7503fd8094efd9a4b6509fe7b4e6a189e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82f25bd4cb0d589d3b23e73937bbac25/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/080830403e108ac8c06cec0479cadddc9d31ca22c71bea34c71c7fffde20d953bddc309897e2dc94962cc94a9577771bb01cbe67a4358a44592c7b1e648df8d922d603d0b2c8ac5e4774c40e042946dbe22dbac34c8e8f75873b3ec6d2b9dfd9b683b16b7158313c2bb83b94d398c76f5e1d3f56ed6b9af69d6a8ec564b789e92256fa1525866989abea72ac664650c2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82f25bd4cb0d589d3b23e73937bbac25/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The One Who Aims for the Summit",
+            "episodeId": "food-wars-the-third-plate-295?ep=5693",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d070a8000dfb90b5a91d9a2bf805060b12b052f0cf5562dd48db326099f10679c59cb01332528d0a180f71da8e265e64017e03c6b264367a0dca78a5ff434ad15b89af6e2f7ae30433ac7654f27d3276ee58a232a057531881b6649ca5f7280e98fcfb5947e261a7aaa5bdee505102d86bbdf46c9962ad0fbb95271af3b19922/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97c26114b8372ee281f8a57f290d3b8b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d070a8000dfb90b5a91d9a2bf805060b12b052f0cf5562dd48db326099f10679c59cb01332528d0a180f71da8e265e642e53ef97cb90ebf3aea5c1b5dcdc52b30ef6064153dcd950156aeacbcdf8cd1412434fa56778fe5fb1676c1b6c9d0a17f50bc7f4a84e4cf6646569991e67a04e98e8b989cb7525340d16d126704175dc4abc2579a1c033e2fab849d936a068a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97c26114b8372ee281f8a57f290d3b8b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Advancement Exam",
+            "episodeId": "food-wars-the-third-plate-295?ep=5694",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a7c2aeb57c140be678bdd2e7672ca2ad28681bdc6eb81ec07078da8ffdc607ec97462fea93998413a34d5e1bc1a6de7b5598d92f9677090f44dd763541e0322f97c4aa65a76498d8a8477a83a2e82cb43560d5ba9c32454edfd6d10acc012943220fdfec308cc2f869876e12fc9135bbeb81e22cbc0a01bd2496b17296af933c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d698a3805ab1abcfe05c5ca5dc8e27c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a7c2aeb57c140be678bdd2e7672ca2ad28681bdc6eb81ec07078da8ffdc607ec97462fea93998413a34d5e1bc1a6de7b555e883af77760919407dbdb8d5f206f7435142541e240af2248245369bc46982144ac323fee426a7c5fafbc42e50dd112c14049081ac65c0274d2db9d097e3ca5167c82670bfcf6aafe5560b01562b0330fe8c4cfa5b120edd257c685f7f7a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d698a3805ab1abcfe05c5ca5dc8e27c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Totsuki Train Heads Forth/ Onward on the Totsuki Train",
+            "episodeId": "food-wars-the-third-plate-295?ep=5695",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/eb24af34f4e26333ad0204e6efe4c84f51d23919bff50a7b37acd3366c5d3c95fa081cb26b078a75ff960cc0118830e2b95d1f9dc72404c5fa50f5be7a3baa770176494da3f13acb336b0726417bd9d57d7cf1b2f993a414f2f387a52b9dc2cbaa459e545c30936668f80ea9cb9e573712a54390d49e7b48d7b86603196ae092/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eccdf9bd50716fc9ffdff564ca2b4ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/eb24af34f4e26333ad0204e6efe4c84f51d23919bff50a7b37acd3366c5d3c95fa081cb26b078a75ff960cc0118830e29d02051b4b3a419df8751ad103c1d6d9dd7bf3787177c3860599524a1f4ddef453094d7f07ecc48b64b3e5e14ffcb6bb7e558b308a914738ea1fd2e7c87b065f4dc2a1c2ac27589f06698e6b991f6818ad68eca86f014933edaeae6cbeb35035/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5eccdf9bd50716fc9ffdff564ca2b4ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Joan of Arc Arises / Jeanne d'Arc Rises",
+            "episodeId": "food-wars-the-third-plate-295?ep=5696",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cb693bac05f19bb7d091e7c54a0f8ee5776fd0ca71d79c4cf978f9c41a9758423c420abe164b342e46972af47cba0e868aea2b997574ce08c06b19cc94c54f3d2e5dccc5649f170305e8205d52656edcc9085d13d60d03f88a97a27970a729b30858f742b0225db48f2e3b8dc40e47cfb5975b5b1b02513e59464815cf1c3e46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e96e6359684f05722838b7519676fea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cb693bac05f19bb7d091e7c54a0f8ee5776fd0ca71d79c4cf978f9c41a9758423c420abe164b342e46972af47cba0e863e3c892c1e52b82fad6d6af830d0bd8fd3bd18a48212d2363292b55c961a2cd2d48007bb32ed115c3452163a8cb2ac89bc3bea2ba4b0ee7e0a3bf8ca71896a9618ad249b71083a96da5d12cf766a7f4c317d13bfd74c5c62117476a3708469f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e96e6359684f05722838b7519676fea/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Revenge Match",
+            "episodeId": "food-wars-the-third-plate-295?ep=5697",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/331143dfb984d2604b3c8be3cacfdcccf6ec34c9f599fa781d3c22dfee5669f522efc5cfa07c6ec8cfd7934c4247ef09460190a682b1ef71192250cdca0beafaa955ad967cbb5a4ce3cd7d61aa537d8c260d852f541edddcd9fc2d1ec99bf4b66e268e53b17334121e552c8ac7318fb21b669340adc580ebceb7f8ff2c10dc43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a554c2f3e8ce48861a2b91916f96b08e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/331143dfb984d2604b3c8be3cacfdcccf6ec34c9f599fa781d3c22dfee5669f522efc5cfa07c6ec8cfd7934c4247ef093569addf5468d6de3b3791858218e8a992ac1038a56d812c617556c6e3a5dd3f47a7aeba08df9676de16ce933198449599187683c7a7de311ab6984320fc43560fa6251fae0e2bd3c2f86ef22e77203b904df1a1bb7a0c2f865acbc014015f68/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a554c2f3e8ce48861a2b91916f96b08e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Walking the Tightrope of Umami / The Umami Tightrope",
+            "episodeId": "food-wars-the-third-plate-295?ep=5698",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/78f6c06a78af7571848f70f41eb0c977e2cce13602fe5da43e619d303d5dfdfd55052096dc34779b73405b5f78f9f9e94f178313c15fd6b7772e9f4aa455b5956f907c6649dbe9b903bae03fa61879d63c15de6fa04194c4cdc265a9b5a3ae08e25c153062787d7e4ddf9d89b4da6e81a7c104b21d4e7bfc792e75b1876a8be9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c9ae79288fd498036104055fc824a23/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/78f6c06a78af7571848f70f41eb0c977e2cce13602fe5da43e619d303d5dfdfd55052096dc34779b73405b5f78f9f9e99888fe280a72d98513ce1df52e5c865772ea0f16a8a427de22318486a136105503c2a1ec89eb155f2704820b55f2b5fb1feb44aae9b4eb9c042cabf77689939802fe2779769e935199b682ffff748fe59b8db49765d1e3209bd43deb4f513706/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c9ae79288fd498036104055fc824a23/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For Someone's Sake / For Whom",
+            "episodeId": "food-wars-the-third-plate-295?ep=5699",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0f753f5dcb738e831392979d291c344616a2fd6f2da6bbf7c9a29d7b4f434bf2c6d76532ef1ae22ea12d3f452907ad04f90686c93da8ecc3003da38de2532a0ead9025ed5e66e28cb85174b53ecc8956d4fa75604fbcf11cd9353e746faec4a57629455411db4c6ecab8d5a3a5a8f74c936b5446b6f9d265fc0245e5db10f506/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f96f3c924dcc4aa878ad9b868896405d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0f753f5dcb738e831392979d291c344616a2fd6f2da6bbf7c9a29d7b4f434bf2c6d76532ef1ae22ea12d3f452907ad04cd8aea9ee9a54443700f19dfd993004ffb5658d390239eaa682e5e0014e694d6373e05ab6fca43976940ea50beef942b7c104a7d8c5737062cb438095b36b52b63184b122047b857b010cf423f62c63bc868b746653d37a182b0fb950a0adcb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f96f3c924dcc4aa878ad9b868896405d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Declaration of War / Declaration of War",
+            "episodeId": "food-wars-the-third-plate-295?ep=5700",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/01e27f2b5947c486a25585df3342adac95d57eafbf3625077f4611f2caceaa3c3795e213e3519cc3bb068eaba7e3f9a11a2b17635e21fa9fdf5eaae28a3082aada49f05d604575eb6c03643630f1a48011f46e04179f0bd12acfdfa95eee41aae3d337cc6c63a7ae942c5dce4c18f183945a99184b9312532f58a5c5e1473ff4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbb2672b0295cfe5aaf51a851f585452/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/01e27f2b5947c486a25585df3342adac95d57eafbf3625077f4611f2caceaa3c3795e213e3519cc3bb068eaba7e3f9a1f5edd24337342f9facdaa3341598f64040965e7ed1deeb160a2b17541b76e1f56e348078c16b0d62830389db5c8b77703c1c2118ccd568962d32fcb10313c23b7d89194c93c5110f476478fffcc8c0f4b43329d3aece57d95f5d8b9b39760692/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cbb2672b0295cfe5aaf51a851f585452/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Erina's Devotion / Erina's Diligent Studies",
+            "episodeId": "food-wars-the-third-plate-295?ep=5701",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/08b5f99bf44971f7cc57f00c62cf4434805be684ee67e1208af4396b3d7dad6d00a65570307bf78bb0d77bd2e6d81585ff0ccca5f3a9bec794465fe81168a059ac6da97f7dc27240b19f7bbce6c6841b5c13c388e4b6993704547eaba8b00625cbbd1a32bd7e9f12074927ceec6f8522253d8602f565a3e1b992250767cd8b07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82494f2b06a463099f62982992e4659e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/08b5f99bf44971f7cc57f00c62cf4434805be684ee67e1208af4396b3d7dad6d00a65570307bf78bb0d77bd2e6d81585c8c10a328f6e8f15e26cb097c5e78fc77d3bbbbe86ab8ab491b5008745f4328f3c27fa8703ab02ddef71167b13c6a8202193836a52cd9894c9f0a4181da9801bcb9afc9f6665207d99b50ebcb890284dd7b860050c94ae655054d729fc47bf8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82494f2b06a463099f62982992e4659e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "He Who Clears a Path Through the Wilderness / The Pioneer of the Wastelands",
+            "episodeId": "food-wars-the-third-plate-295?ep=5702",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/559f2a0e8f5dcca88a5a1b1a782eac9eabec4acc40c53bb3f3321f73dbc14e64c6e49d6b5aafe5cd0b11185a71a17067f9cbb37ef4f38498efeca9e88c89926c18272ed6d6d5b07b82600030543f33fe9b43a351b512352ce80231ca5fd399a1df87e23d6c37ac7bbccad3b92a69e33147bca685cdf23f179650a6d5b6ab5b96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb6ce620379a508920930de2b1b662a5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/559f2a0e8f5dcca88a5a1b1a782eac9eabec4acc40c53bb3f3321f73dbc14e64c6e49d6b5aafe5cd0b11185a71a17067565770c66a1caf136fb35b5a215dc6e856baa263c56979a2c61ee697a156a146119165afcf2e9528f0c35fcc54dfc69bc0ce9478f9864070c6695374476e7f82fbba4c58d42f3c4836bd11025439e4d495f234d4235ab46f2d5cfd867d63422d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb6ce620379a508920930de2b1b662a5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To the Site of the Final Battle / To the Final Battleground",
+            "episodeId": "food-wars-the-third-plate-295?ep=5703",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1742105bffbe0a9627adade56d492e59166af967b802f5784cfd50041026c5bfb0b53b492a44b2f7bc282cdfa659a0afb953b79c7dbdcae3efa6c590378363cc41f0a6392adc06d4a69bf499457a0ff5d06391c7ea04579c2839e64790af37c8799ad3bb0af5644eca5bf98eb8bd869e3e848c5c599e93eac33029f35f232b20/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a31c657ca5b719cbf8c2447312306c22/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1742105bffbe0a9627adade56d492e59166af967b802f5784cfd50041026c5bfb0b53b492a44b2f7bc282cdfa659a0afda95b4199517789e83a882f742132311bd299e09a428c29db5bf1ec10d0382ecf169a40c3ac5900db157d6f73bba9d3402147e0ef11bc4f5fe9d1a1393b4d96a3bab1b377a9926867b522442264eb4d1f2dec7e6aa466b9479733930e8c3b738/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a31c657ca5b719cbf8c2447312306c22/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For the Sake of Kyokusei Dorm/ Bearing Polar Star Dormitory",
+            "episodeId": "food-wars-the-third-plate-295?ep=5704",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2042cf184d64959cfc12ce45588b26e4cb9b171dea4970998077b9f7d5c8b5140f452735d9e886ebcbafd0f1666410428fd6c765074c3214f51e424c1a3ab65ea00dd591b764f4d7d30c0cda26af856c45cba0d32871bbf2071ee8e1582d94ab63d5612db6159ff52eb94d0bd0156849acdedd80b9effb7fbfc9de7eb207c4e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/479dd616e4e8ed8a64bd7b531fed06eb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2042cf184d64959cfc12ce45588b26e4cb9b171dea4970998077b9f7d5c8b5140f452735d9e886ebcbafd0f16664104215b8b2dad09b576f1247745c411ea73695fe30281f5d75722a08a7aa89c670e60883048279d0619db233ed58551d3e5f8279996f2a4c646fec39a48f5b26079e37ea69111eee476f7c21d6c0e58533ff6ed936efc07320b664a2999b197c3092/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/479dd616e4e8ed8a64bd7b531fed06eb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Which Makes One Strong/ The Basis for Strength",
+            "episodeId": "food-wars-the-third-plate-295?ep=5705",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f38f4e652d769a7ac10214752689663373ef097573019eaeb48773aee1bc2d3d0a5d5b693f38d55090617dad1257b08b09737aa9c3c19afa7222354df52aa0618093356a14ded22bc4a02383126f7b34d96035968a2be9627b45e2122c5512ffdbba2feabf544348173bc54346a4f9364e7eadf70b33da73c84a7d3bb175bdc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97e417e4f9efce9ffc3c575180b0d3ef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f38f4e652d769a7ac10214752689663373ef097573019eaeb48773aee1bc2d3d0a5d5b693f38d55090617dad1257b08b8695fe460238c2abad5fa2dee3b1dab724027bbf9d0a07e16b9d904aeb6b87d13fa0f52ca7670aa855cfb41ec83b0a44bde18676aedb33630767b37d1d68ae40a7750b880b708086ac8a650e7e54269293a2c4cf9aad96de71e4a24cfecf9c74/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97e417e4f9efce9ffc3c575180b0d3ef/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

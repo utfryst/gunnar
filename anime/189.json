@@ -1,0 +1,611 @@
+{
+    "info": {
+        "id": "my-hero-academia-3-189",
+        "anilistId": 0,
+        "malId": 36456,
+        "name": "My Hero Academia 3",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e1115ba906366b39cc7483de68dbbb0.jpg",
+        "description": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. \n\nBoku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/wMCeFIPwrHE",
+                "thumbnail": "https://i.ytimg.com/vi/wMCeFIPwrHE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/YWFzTUHYIw0",
+                "thumbnail": "https://i.ytimg.com/vi/YWFzTUHYIw0/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/JezE6iZUWxo",
+                "thumbnail": "https://i.ytimg.com/vi/JezE6iZUWxo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/nyeNg6VjDqU",
+                "thumbnail": "https://i.ytimg.com/vi/nyeNg6VjDqU/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/_gWE61ujBQw",
+                "thumbnail": "https://i.ytimg.com/vi/_gWE61ujBQw/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "all-might-180",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d399c10e613d7d014e8872723570cf0a.jpg",
+                    "name": "All Might",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kenta-miyake-335",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b0360c6a0bc204a6abd22cb5802cd25.jpg",
+                    "name": "Miyake, Kenta",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "katsuki-bakugou-69",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a68806679289032e8a59314d0e50c83a.jpg",
+                    "name": "Bakugou, Katsuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobuhiko-okamoto-13",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9aae11fde3482365907a4d59f655150c.jpg",
+                    "name": "Okamoto, Nobuhiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "izuku-midoriya-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/58395958dc7b3811e68c3e2d3950f5c0.jpg",
+                    "name": "Midoriya, Izuku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shouta-aizawa-354",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d992204e37a969018bf13ad855d01997.jpg",
+                    "name": "Aizawa, Shouta",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "junichi-suwabe-29",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bdc596dcf1d7a3a61bc894b740a26af.jpg",
+                    "name": "Suwabe, Junichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chizome-akaguro-2014",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/04b42c743af6d0d85bdfff84a25cfe61.jpg",
+                    "name": "Akaguro, Chizome",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "gou-inoue-1791",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b078826de4b900ac86fbf1c4c5576560.jpg",
+                    "name": "Inoue, Gou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "all-for-one-4972",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ef99d785bcd1933f85589175cc0ea0b2.jpg",
+                    "name": "All For One",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "akio-ootsuka-204",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a70a55d9262cd5f53a7309d1e4f3c1f.jpg",
+                    "name": "Ootsuka, Akio",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "僕のヒーローアカデミア",
+        "aired": "Apr 7, 2018 to Sep 29, 2018",
+        "premiered": "Spring 2018",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "8.12",
+        "genres": [
+            "Action",
+            "Comedy",
+            "School",
+            "Shounen",
+            "Super Power"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Dentsu",
+            "Yomiuri Telecasting",
+            "Movic",
+            "Sony Music Entertainment",
+            "TOHO animation",
+            "Shueisha",
+            "Bones",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Game Start",
+            "episodeId": "my-hero-academia-3-189?ep=4476",
+            "number": 1,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6fb6d80832de8428c321f51ab7c66d43a9b3d6831baf31fe5b46e31f76a0fd25b425260c5ffdb0024f21bf791070ccdb1a8173d8f2fbf7340c67a64c72234ccafc174507b8fca9c226ed6c9bd6c45e9adf2940811156f490327cf449bd39c0bbbe7a2a2b56fa8fbaec8f1f8543878997faf9acff29bd61bfa6ced983303f2c5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d19d2f7f38e14a0768c2cbfb9a19d34/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6fb6d80832de8428c321f51ab7c66d43a9b3d6831baf31fe5b46e31f76a0fd25b425260c5ffdb0024f21bf791070ccdb54ea9a959a68eb703a2c3e0e46a83c9dc415acbddb07a2896a7d6267a6702c7f1f8fee7dad6eb25309f9453f8f53e38ca3f6006f6b887af756cb104a858becc0d2b19f732023030648fd882f99bd86425000a4e126ee23b07b0b35ae6107ea35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d19d2f7f38e14a0768c2cbfb9a19d34/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wild, Wild Pussycats",
+            "episodeId": "my-hero-academia-3-189?ep=4477",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/18294832b7bb93990d7dea3f2fbf547ef72af2be8a5ede057a3b41724bb001153bbf5281f98bd9acc63d9065b0c406404b91e385b8d970369d36575683b7dc9ca270ab8b181b0c25327fe714b4212aa3b3e219d804e02cb53ea69a1d4ad019a246d9d6358000e82a8f2d9c0dfaa23ff3170cd358421b541369af17de19365002/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e89046aff3aa153348ad29239e31345/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/18294832b7bb93990d7dea3f2fbf547ef72af2be8a5ede057a3b41724bb001153bbf5281f98bd9acc63d9065b0c406408c01bcdb162f06fbfef032d85cebc1ed748c790035a8a17a95023a187b190ed7e6adaa451b385d3c137ebdfbd083cd3c0fa6928b665b1cb618bba8b21bb83343f2ae1fd9553695fb593ab79314ac34c868c01b9cd7eac69c158597ce9d724928/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e89046aff3aa153348ad29239e31345/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kota",
+            "episodeId": "my-hero-academia-3-189?ep=4478",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d15ae221eb8e2133ca653923932a4d36df02f41625e4611bcbf7d1ebaba48e846ab8d15867ef8bd4c4738e88f937ac09e42dc2a2a15d39358bd50b928b882e1619805241f388a4d72ddcaa12b8045f1b1f17909d552e6f2e5e39d061444d8750bb73a9efa0307947bac6faaba1e52e55c4c71c7cb7e0a98f3b315c1cdfe9de12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d074945bfb2afa0c199e2ba1e9337be/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d15ae221eb8e2133ca653923932a4d36df02f41625e4611bcbf7d1ebaba48e846ab8d15867ef8bd4c4738e88f937ac094162509e083eb1a90ca48b480ebfab5fcd9fcfb6c215f5bf3d1348b9f0eca078d57abf9d574b9af304f85cabf7c4bcd5feceb817b52aa106721c61060cbf6a71b6cd0699e012f5e5654768d2204f30b18799f84e4f4cfa88ad8457afcad6e9ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d074945bfb2afa0c199e2ba1e9337be/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Hero",
+            "episodeId": "my-hero-academia-3-189?ep=4479",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/828d9bdebb3339b1190c17aaf21c9d07e5b0e6360e1860eb070c10da5f993abb7127351ab33db918e4908828d18a6dfe49d07b4aa247782e80eb010727c492afe18a84cb76e3672c01c94a4a6b748faf5c4a52df73201dd7fb3a5926015413e82c226bf14ebb93ef297f80f1eca4b5cf2c6ae28aa33d92ae93ef42a2bdec7943/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/982f5a74442c1146cd9a0cb988565b60/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/828d9bdebb3339b1190c17aaf21c9d07e5b0e6360e1860eb070c10da5f993abb7127351ab33db918e4908828d18a6dfecf340e65c19b95128dd9416499f22cb9350c96247fa04aaa70fcdff199bd6c333c66e8392098a3aa822e5557b42b24c747b6b2bdbd2fdf511a606c7aacaaadbcd0384554c3f557f1f91372ff480573c0ef6363dfe457325582addb75136eb65c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/982f5a74442c1146cd9a0cb988565b60/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Drive it Home, Iron Fist!!!",
+            "episodeId": "my-hero-academia-3-189?ep=4480",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/adf7361308a610c3a183125f23f9523da8a6f8a393b6229b4f91c0c9b1dbe0ed737c1e3ed5f630a527f9bbdf5e1bf34963330a91faf96e97ae5bb79e8e92cb1d50e6dd4ad708cac1f2d3a0397115bb1d0de96caf85b19c3813414c2f8a4b166acb4c686b1ac1105a37880d5bcd1b207796b6e4859de22a01053bde09fe9612f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9485f93bab86d10c68376169e122b61e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/adf7361308a610c3a183125f23f9523da8a6f8a393b6229b4f91c0c9b1dbe0ed737c1e3ed5f630a527f9bbdf5e1bf34994e7258c6af1442a828e9c733b7af7b52541a629f74c2b2051bbfa53efedd39b893e4153c33cb90538a0e90eff4ec21b4bb1e4ee2e736225f394108e99d9f997faa6e9cfd218d692aeb65209ab9c8f8a4fda3eb1189cbd3b6e64d192b890c42d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9485f93bab86d10c68376169e122b61e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Roaring Upheaval",
+            "episodeId": "my-hero-academia-3-189?ep=4481",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a54425fa46459a9696c9eed07fa45e0ac872278834c172b730015826ad75b3232504df8909b5440d0a4d7d8794143f41b87685113ec9ca778e90dc164f0ebc2820db698ec6e34ce2576c0fcbb11c2d5832ad83de37d155180b5a4339dc8c722cd2409697424063b3ea5383215388cc13dc08ce0d8e274af429dc6b4725aa6f0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f5e7e0bbf3383e98e66fb93ec9e51b4/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a54425fa46459a9696c9eed07fa45e0ac872278834c172b730015826ad75b3232504df8909b5440d0a4d7d8794143f414bf578ab95140f070cce27a85dc2765fd1ea7572a8a93526cc93110bf956b4df50195377ab0e28cf66f4c4d125390c2aa37b4e40844281e54f7cf318c1508089bc19dc303d3d96b1b2a2050b2d1266dc83a635cde522e2258e445785dbc95645/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9f5e7e0bbf3383e98e66fb93ec9e51b4/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What a Twist!",
+            "episodeId": "my-hero-academia-3-189?ep=4482",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/54df09274486160f54608a4b5fcaa8cfce9253299f4dcd1178a419e261135cec246531c03ce8066ed3386dc9de76d12acdecf1904d793f0f5e467393c4ca3c53126ec940570d1e1a3f2348208ac4c7fee452a7d980419dc8649b27715b572e7bab432a6fb5f6f5a9fb542fd8d923a188dbf2b59768dcdf3e556c0ce26e661d9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98d6759b64844a22bc2d8ec69c133ed9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/54df09274486160f54608a4b5fcaa8cfce9253299f4dcd1178a419e261135cec246531c03ce8066ed3386dc9de76d12ad20c28a2d6cfab915136995d7942d2a267b254119b0c0edc24883f9aee2e78a55b340241b9e17650555b41ef6f19c1b3973ac37ec580ab92448e35f4955bc56df2c8440084f482bae01c653ea499c496af8bd0966586ac405948b749f0078c0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98d6759b64844a22bc2d8ec69c133ed9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "From Iida to Midoriya",
+            "episodeId": "my-hero-academia-3-189?ep=4483",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5f520dc935a0abb4ce28493a2e32091174fe468e8e130739d342c79044a4c7a4fb88ab974f78b41835cc4216ef7cfd693366fcb101cd6c30664fd03823aeac2e0aff52711dccb28f9f614c508ef9e5ae348c98a2b88e6564e83bc1f7decae6adfb95652ebd7d31a786c09e5a78f919a230969254a612b84c23c3baa5a370b81c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c6dddc06dc9ab38af9f61623760f6ea/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5f520dc935a0abb4ce28493a2e32091174fe468e8e130739d342c79044a4c7a4fb88ab974f78b41835cc4216ef7cfd698a12520292fb8c28afc20c664aaf0885c94b6b99288cbda3c07c022d62614b783692ecd13408657655a4c684098e0c088d03ca41847c9ce12a647de5be8ef2e0bf919d32a151e6f40075400eebafdcf4b2f9d44e7fb30963eea8a7a102b75343/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c6dddc06dc9ab38af9f61623760f6ea/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "All For One",
+            "episodeId": "my-hero-academia-3-189?ep=4484",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/47805dfeba57d3c4f847d07dadc9b466e705749cc38845872547f17bf6a46cfc8e23501b8190654104a56f4a8f23b350e999303fd1d076636e463f15b1e43cf96baea6159a943d754ca5b494b0fb9f7437558a1a95704199e5284e515026255de35af337ecc53f5635355fedfab26c024549e62fe0bba0cddf3360d4413c2c1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b9b45d1d29cd151c304fbef1f0819cc/eng-0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/47805dfeba57d3c4f847d07dadc9b466e705749cc38845872547f17bf6a46cfc8e23501b8190654104a56f4a8f23b350f650734b004b3a26aba55b2e61b77aabded87410a83160015c3412c59794a3fe83ceb34d7b28d049a354f6c24cbec515bbca3d78eb1b5d901765ee6e200d40f1cd8c7435b4d10926a94e0b82cc594ff44d84da97fef7d270824c75888becd7ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b9b45d1d29cd151c304fbef1f0819cc/eng-0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Symbol of Peace",
+            "episodeId": "my-hero-academia-3-189?ep=4485",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/401f84ed7a7557804224e68de97107556c26d9fddaa2e7474895165d2f31763aa77ed7eb57ea0f04b3d2749113c95b4d81541bf5ffdf3e6cfa1881289f47eb9da342b735e7cce3381e58936479ca5b3e15b712d139db1eaa4fe79d3aaa3e2cab98534d61d9ce2e93a673825fbb5edc0ca36941d75db0fa0d97d29c7a950e2c5b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99e0024fc6dc9931b6e3c076afa750f2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/401f84ed7a7557804224e68de97107556c26d9fddaa2e7474895165d2f31763aa77ed7eb57ea0f04b3d2749113c95b4da9c6bbf7245c4abb6663b1a7f6581eeed814b1a0af3cd6afa074c1bdc88122f93dcddc756bd38ce14bae1d31d1c2f775c8b67864002d021f1b7d913cf806d173600811f2c09c49abb1f528116038a72d53545329a8a1494b603cd8dd752d2602/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99e0024fc6dc9931b6e3c076afa750f2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "One For All",
+            "episodeId": "my-hero-academia-3-189?ep=4486",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b8d056796f58571c20bdc24ed001903138f558338ee6234094abe17703926108b75f8acb30f43d2128dc1dbcebe6475773d8bb9ca2c627b2a9b9ec2f196a0cf15c477dd26eaf818281c57a1a169b2bb5dd8a30b33e4b1ea110a23f4823bebbcc1f8a856b8f5194debd4f1c97abbf4b3c1897c949d4f670a57530fa912107e499/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7d4842723d6b5499ebca1d972c2e779/a7d4842723d6b5499ebca1d972c2e779.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b8d056796f58571c20bdc24ed001903138f558338ee6234094abe17703926108b75f8acb30f43d2128dc1dbcebe647572a306fe50883955be50e31457c7dff9ac06adba807ff6c35e6c6d78852563c5465593175b83363742f49df2be89d2ac35d1575b2b6aaa27f920b0f222e329a5e82d61731d1da2f38641b3854fb2feb8a77aca305e77265154d899ad6ab6c80c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a7d4842723d6b5499ebca1d972c2e779/a7d4842723d6b5499ebca1d972c2e779.vtt"
+                }
+            ]
+        },
+        {
+            "title": "End of the Beginning, Beginning of the End",
+            "episodeId": "my-hero-academia-3-189?ep=4487",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/532d66420257ee97e3ab66275ce544228222b24887b976276a5c5c41fdfe41be37a53efb3bebf2d3a91d83c74b906f621c74ba7440a1df0cf0bea7fd9932da4909901b171c8c211025e0cd8cb2629ee19c431b5d8eb6868cf2ef0e30eeb6db2215d48ce7d52b2a4f0698d4234a0a5ec9eb0092127a3fb1e6f2d05382c98c8079/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2e66fbf57e6b8c2954dd3a94873b36c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/532d66420257ee97e3ab66275ce544228222b24887b976276a5c5c41fdfe41be37a53efb3bebf2d3a91d83c74b906f623c1905ca537f78be9c6412144193d6581fc27826a0b451ba5a7225b53b21da895deaddc693e8499c5a5ca6c88f8acff8a9aea087bc736f72e07ddb78e4f010320384e989072cabef8053b3dad153aaf289aa6ea7415a98ae0ff1543463941a66/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a2e66fbf57e6b8c2954dd3a94873b36c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moving into Dorms",
+            "episodeId": "my-hero-academia-3-189?ep=4488",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/af2adb796a0ad8e9352f789abac4fb552cadc37653ded5fd5822678d60b7315286fe556158439bb5ddd4cfc8ecc02b7918e90c7c28ae905f9bb4bda5458f17c5eaa584f3271521040402dc4a7fd5385e3a7dcfaeac44cfa9aef146df50c4e94210c8c552f471d11bd32d9c8fff533fc3b7a5c475e3f2af2bd6fe5b6c9a3ae3af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/638db63438273e7d5c2fd9e85e894616/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/af2adb796a0ad8e9352f789abac4fb552cadc37653ded5fd5822678d60b7315286fe556158439bb5ddd4cfc8ecc02b79c34bc28c40afe523277f58d7aaefbb4bc8550028aca80a6bc7e89fd5b13ebebee0e32585689a1d83065c8455458bd42eb5ea38affb650e2152fdbc8d7792713df9e94876d7509eb8b7cb77eccb700a2d8c8e9926b00bff9aba1180e83d6e6de2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/638db63438273e7d5c2fd9e85e894616/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Create Those Ultimate Moves",
+            "episodeId": "my-hero-academia-3-189?ep=4489",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/6ff2868c897b36fa20c7dc4cae61745ebb08e6b6c38087a2e5248b29d72b96dd008e40e86501ff804a25f531d37cec83309b564651c16bda0c5a9eb5060b1bfd78836d561f2b6728b36ae4e5bdeeffaf9d8c1b6e73767b21592a3f97d8681b69980d348ae7351de33b19aa15cf4bc0cd3459a014e794e48a72ced56fecc3e664/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a7bdf76fe7ec2d5ed54a4f9bd5c71a9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/6ff2868c897b36fa20c7dc4cae61745ebb08e6b6c38087a2e5248b29d72b96dd008e40e86501ff804a25f531d37cec839e6af7c12c22be5a501b9cecbf9f2405901ea64fe747eb4e4cde875424e5bca865bbb8ba3866dddef70ed38b259cbae4496f2368468b542b218db145ca6ed5f31865c04431c84d9ceb7b8e7249465254e32d40793a40e4342246be3dbc8b7b64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a7bdf76fe7ec2d5ed54a4f9bd5c71a9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Test",
+            "episodeId": "my-hero-academia-3-189?ep=4490",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3ffd54675c891bea7926edd3ac8593f0da82ad54930554240c7df2c4aeb881225ac09c612ee39a05f57c8df484fb16ce6c510e41964b656001ed0b98606027c042cad3132f1a1d9bada407a1f2e3f091a5d5b1f4d1e75ca5876767a8535c36d28eb8a145fa8d6b4442635baf212f524149d7a44a5699329016805d4b05fdbe8e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5856f48c5fbd2d2e9e9eb0081b214e3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3ffd54675c891bea7926edd3ac8593f0da82ad54930554240c7df2c4aeb881225ac09c612ee39a05f57c8df484fb16ceae738c54d41a7993974ebbfd5d0a48a106bc6ff2eb4e32f8c6329c6f640c663f0c8511ca862061131ca17b0be571b9d42d147cc787a35df42f54c0428652cda1169841860eed6a372c9fbb8e25864cf7dd2a454c43911907d75b3f96c74b03b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e5856f48c5fbd2d2e9e9eb0081b214e3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shiketsu High Lurking",
+            "episodeId": "my-hero-academia-3-189?ep=4491",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/17681213b3c57b036754151ad0167e9c6af6d8189a4527ffd3a1082e35bce890959fd037c882ecf064131796aad00a731eb5ae6eecc1f96470cc681b3d4c4240ebe5ab943c04929f6201ed89a957e9e997bda7c097f490e1a2b6da1f86719abfad3245ea6a8193e8791afdce938a603eb488efe47ac9dd0ea429e0d9bc4b407b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f6ec834e5aac3bd36b7181afc0a8f46/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/17681213b3c57b036754151ad0167e9c6af6d8189a4527ffd3a1082e35bce890959fd037c882ecf064131796aad00a73e2afcc6f2d62b0d86c8a7b820ab04c5d7f58267a843f85e80ca21463687460ac5353a1053ab488cfbe6fc23b0b1c23a5d8725a4be3408b5113ee30ac1fa21f20bc6d5a991659b72e2dfb1fd3a905014d7423a8e924a48259fcacbcf1a3ef0211/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f6ec834e5aac3bd36b7181afc0a8f46/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Class 1-A",
+            "episodeId": "my-hero-academia-3-189?ep=4492",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/77167fb0b7caac03e1b4f6f155336461b4823f01cca3ae1745d75f876ecb5e5faa33eaf7be0d8a4609d019c6f4dff3717e016a021dfaac0d66efd99028b50bd29d8c53d4d64b8eb2b8ca776821be776a0454900cf9eed00ebce088104f63620c37c94a7fca916a0e9a9f9eda35ad2ab9b12b94b493f734c421e83402c2748cac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80f9f6ed03b69874012e30254f0326f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/77167fb0b7caac03e1b4f6f155336461b4823f01cca3ae1745d75f876ecb5e5faa33eaf7be0d8a4609d019c6f4dff371bf1de60e1128d8ecee2882b94c533e1545fb3753e4169870d4c79c561bb410906f770fffb31689d67896294b49f6cabbdfff058f9867adc535479c75feac6cbd03d8b9af686abf5d1a403a6baa093fe1ebf3e4e29fe77b9ad892a80508af64f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80f9f6ed03b69874012e30254f0326f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rush!",
+            "episodeId": "my-hero-academia-3-189?ep=4493",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/1296739468dd02ef9f992d1b74b95dd7147f386259980cc65494844cf0628c70c1e95fbd8293e3d920283480d4891de199a81bba8ccc9ce227d40e67092d58715551f5457cb092e73cd62e14b08ede91090e077f65e5eb4c9f9e88e8e88b9115c1c39b1717de493e281456ab97a95e1c3bd2e3cb7a16c07745ce302262413465/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/326aaa9bd79fdac6c96e33ee82b87a3a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1296739468dd02ef9f992d1b74b95dd7147f386259980cc65494844cf0628c70c1e95fbd8293e3d920283480d4891de12f46788c3cc395db8e25849ba2230fd8a1667c3fd07461417cb9554f5de1d4dd3bcc258911869da172e16eec5dbc0886118e15ed6e325dc90214dec40de6470a9d310d509cecc72fc72ec7618cbd2166ac320884cf53285114f9f1191cad91f4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/326aaa9bd79fdac6c96e33ee82b87a3a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rescue Exercises",
+            "episodeId": "my-hero-academia-3-189?ep=4494",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a2bf0c86969f68912104f7089b2aaa39b35fd9ab56a64c17058df2024477bd0363a8f3f8718656372b06b062520797511441ad0d98fe21d78d596c160f1d3c27dac5cefd40520eb294a0f3479b3e26af3d56a59b8efb903cbf4c581cdc6cb61bd9f78065c4d8e5ddaeadc6b40aedd9f362ba493a6417853a24c8c9ec5e5672b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70c46ceace9ad9d86ac1e413361ed626/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a2bf0c86969f68912104f7089b2aaa39b35fd9ab56a64c17058df2024477bd0363a8f3f8718656372b06b06252079751c31b64d18e10f0152efc52c122326b3172987657a36552bddee236df663fa8a908ba389e4d08ea2050aa50a8fac8262437d9f62aa8edf6f02e1eb0f145e9212180c2cdca01b32a9d816063cb026891586f6e5db5b6671bc7b4d53840c14cd38a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70c46ceace9ad9d86ac1e413361ed626/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Save the World with Love!",
+            "episodeId": "my-hero-academia-3-189?ep=4495",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8eb800b1008da3628e883be7c1b03b387c73997f22dd8eda07375243ddedd52f47b6451f8b29382e318a09a357afa24f6b71597bf5d0932140586fc016cbefbaf043150a55490b8a27c3ecfc2fe30aa137724908904a82e6af70a32859713c0b0ac0867e02a363f6487eef88c4a44656b7b26c4ed5f8ff653eee6f129c434cc2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ed163d8a1be35d04092933d7d3b4daf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8eb800b1008da3628e883be7c1b03b387c73997f22dd8eda07375243ddedd52f47b6451f8b29382e318a09a357afa24f156587ff8c70b305ca9bf30955b6f159b2e6577c4631ddcb25f8840c0d39f06accb1a6565670439c18e463cb56281fcf7b4d86f5e1697cbb15aea03e12a4a6de6975310692405a2944bd3d1f82a539603f13829bcf4e43b697e2150dd9319087/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ed163d8a1be35d04092933d7d3b4daf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What",
+            "episodeId": "my-hero-academia-3-189?ep=4496",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cc51bb75ac35570a90220f259de63eb3a95ecc3bc318dd0ed55fecd950c236975a7c7091b4f00704f6ff6b2fe6854ecae068aea4faf6d5da792799151e13e7264dbae782237991308c82bd096d7eeef082a5dc7104643f58627adfa33a06d4bb4d94d7b1e0427b2845a4b70260cf0d386ef981495a2d0b9ffcb42fc0e0106a24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b19116876c77f9cf174c4a78593decf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cc51bb75ac35570a90220f259de63eb3a95ecc3bc318dd0ed55fecd950c236975a7c7091b4f00704f6ff6b2fe6854ecab19481f05c423e4761c0d687473d9f8b3e6d647ce6200a22a6974d7304c987fcf0236af37ca97c6a4ed3638d83899cd62e89cb880f8b90cb65631fe6d0ac03b7f01e3bf8f2a2bc708eda544e99ce56359b9dcdb0f0cb8642cfeaec8ecd3558da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b19116876c77f9cf174c4a78593decf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Talk about Your Quirk",
+            "episodeId": "my-hero-academia-3-189?ep=4497",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/51463437924fe89b98485e9cfc511abc9dce07763d37dcc302f0ae12ddebae5f511df4667269e40a0cd00192a689dd730928687bab914229c0dea4aee0f628f80b2dc31d21d6b4dd089b8de9d2d87a1d4279dbe6c1ae0fc0de5dad556e7931c03a8f939d3aa0969db246a9f4c355f809a84a66e1fd0f8d4d485d7a9f20f4c1e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88af401ef85772fd63763e8905b474b3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/51463437924fe89b98485e9cfc511abc9dce07763d37dcc302f0ae12ddebae5f511df4667269e40a0cd00192a689dd73d403172463bedcba7e6bc85a098eaac6829cd7d5563946e459a69c70513cfefc3e404419ea21e0ec714784dc38335e38355d674a2dc69061b1d194e2a7f479b6fdaf23caa37d907349626152ea8379aa20ad0df5f4304889634340e85d0fdfb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/88af401ef85772fd63763e8905b474b3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Deku vs. Kacchan, Part 2",
+            "episodeId": "my-hero-academia-3-189?ep=4498",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/832e3bd6b147927834a001272dc2894477a8cbf1cba25ab798054200f7c1e07205890ebe42dd81844bf11f51ad9a8b25948804b4804187506e28e64e3860734b296ca8a9968b26635abe327f5e6ec98b58fafd58e52b79d02cd4eee48a0e0a0ffd2eb4a54871d8163ce4d59ded82e86afd3e53fdf1ad18c9c7927447d76a2736/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9aad1c13a4615ca11c796f70d2c1c0c3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/832e3bd6b147927834a001272dc2894477a8cbf1cba25ab798054200f7c1e07205890ebe42dd81844bf11f51ad9a8b254d09838a51d872d06ac8a81e06ed1b49e64f11fbd5b7cb6b83ae38ca52e8b381c438178231a848b70f1f864cce6a0d66ad97914404753c97c0141a66b9f44cfe1c2f52e0f4c63c9b0ab15c371f33d48eddfd32c4c6e7e9775330823dab268121/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9aad1c13a4615ca11c796f70d2c1c0c3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Season for Encounters",
+            "episodeId": "my-hero-academia-3-189?ep=4499",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0d5c75f0ad5d3d1ff6ba607227c11222c953fc1cea573744a9e40d36d36ef5e8b4bad698e7c7bf052dd7c88c67c17ddff484600048911590061d491ba3a3cb7551d367bc476e0708ffdcb3003e82e41eccdde182fe5050f1b7c8694dc743e8e57f40d28c0d3deb22da43185bb3af953bcb560c4905fcf7e44bec992c5b901291/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc953cf84adee1a4acae15585e23e237/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0d5c75f0ad5d3d1ff6ba607227c11222c953fc1cea573744a9e40d36d36ef5e8b4bad698e7c7bf052dd7c88c67c17ddfcf40f3dedb2314b04ce944ccacb36c6f15eef78f4409da473b61595456f70a19867deb137b9e11244c57cbc2e8805eb27dc33bf7bd8569f8815b571fee631ec2d3df04a81ba7665b51e8bf0f682d0a190d08f4ff45258e2f5ceb8f2cba4878d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc953cf84adee1a4acae15585e23e237/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unrivaled",
+            "episodeId": "my-hero-academia-3-189?ep=4500",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e6067f5772b12bd400e919fdb6d1b7940c06a1e5a6aaa4184eb80de8c686acc445e0cce88328d97ca795270d13386b6722eba857305a11087c2299a29a3be63d29e6a48c75887e1589b2f0c47a48e3b165ece64afdc1f33784a181a61c343ca07d654265d591675c6315a69b69dd32327fbf09214161cebbf582d7b1870be43d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a38362e898798e6e343b285290c0e06b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e6067f5772b12bd400e919fdb6d1b7940c06a1e5a6aaa4184eb80de8c686acc445e0cce88328d97ca795270d13386b67edc95013e476ee9e2e7dece824759a4d4410d40fff6855bcf9f2ee0995657d5ac430094a488ed27334a845a5758ea43f171bf7749106b4e6c3002d35df31397f8e6d5ccf63e7c9e9a55a08bee4f6ff28edde9ea34048ab3529f41d436e76058c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a38362e898798e6e343b285290c0e06b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "info": {
+        "id": "violet-evergarden-59",
+        "anilistId": 21827,
+        "malId": 33352,
+        "name": "Violet Evergarden",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/223fc01a72fcc2ac45ff4fce4072087d.jpg",
+        "description": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.\n\nRecovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an \"Auto Memory Doll,\" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/g5xWqjFglsk",
+                "thumbnail": "https://i.ytimg.com/vi/g5xWqjFglsk/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/BcgxyvX1rVU",
+                "thumbnail": "https://i.ytimg.com/vi/BcgxyvX1rVU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/M_Zdfcdl3mg",
+                "thumbnail": "https://i.ytimg.com/vi/M_Zdfcdl3mg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/UmApa2dBDPo",
+                "thumbnail": "https://i.ytimg.com/vi/UmApa2dBDPo/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/yuQA5_O0RxE",
+                "thumbnail": "https://i.ytimg.com/vi/yuQA5_O0RxE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/0CJeDetA45Q",
+                "thumbnail": "https://i.ytimg.com/vi/0CJeDetA45Q/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "violet-evergarden-74",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6e5cd0a37c678d2b6353a4888c894f94.jpg",
+                    "name": "Evergarden, Violet",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-ishikawa-108",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa5885c7931f29473368897256f20266.jpg",
+                    "name": "Ishikawa, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "charlotte-abelfreyja-drossel-7773",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6a798219e59eebad5e614517c2f6a9f9.jpg",
+                    "name": "Abelfreyja Drossel, Charlotte",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "megumi-nakajima-382",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ae168b227b52af928e58bfdaf6c65ca.jpg",
+                    "name": "Nakajima, Megumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "aidans-mother-105671",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43824694332ba4df01c660aeb4cb1dcd.jpg",
+                    "name": "Aidan&#039;s Mother",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mari-doi-5328",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c49d709e21da32125402756a5baef98.jpg",
+                    "name": "Doi, Mari",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "alberta-41385",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0058923e0955cb4c6b0080423d9c0b1c.jpg",
+                    "name": "Alberta",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mami-koyama-869",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a442adf135293802f8992bd6c87d5fa6.jpg",
+                    "name": "Koyama, Mami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "russell-bailey-104490",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/564a2d682011f509307d6fac22d8e52b.jpg",
+                    "name": "Bailey, Russell",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kengo-tsujii-12060",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1008b80afff124c3457d3278b0ae5815.jpg",
+                    "name": "Tsujii, Kengo",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "damian-baldur-flugel-27581",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/074c5279673dae867928942d032f7c2e.jpg",
+                    "name": "Baldur Flugel, Damian",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenjirou-tsuda-71",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13400a4ae4cf4371b317701bb1a251b2.jpg",
+                    "name": "Tsuda, Kenjirou",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ヴァイオレット・エヴァーガーデン",
+        "aired": "Jan 11, 2018 to Apr 5, 2018",
+        "premiered": "Winter 2018",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.66",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "studios": "Kyoto Animation",
+        "producers": [
+            "Lantis",
+            "Pony Canyon",
+            "Rakuonsha",
+            "ABC Animation",
+            "Kyoto Animation",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "'I Love You' and Auto Memoir Doll",
+            "episodeId": "violet-evergarden-59?ep=1451",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b70325256225cd7b5572aecf4f7386bcd26e12178cb5da61741cb4ae533234e7e075c4340d9dfbb6a54039840758ae77302b1ddce3dc9d88105bb3ac35150afa1f8411d8e1e0b5db2ed521e5c6e0b1b08682fe198a6d65da40f4950925ef6c874a2df5912407b0d4288e45c4e563cbaaf57cb81f5287155f6b89f0df6e64c1cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2efa493db513dc6ea6f2acfd2237f187/2efa493db513dc6ea6f2acfd2237f187.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b70325256225cd7b5572aecf4f7386bcd26e12178cb5da61741cb4ae533234e7e075c4340d9dfbb6a54039840758ae77101ae136eb655d742abe35524c1c16962a98467a34437b70b20b04ec0c498e1c57416a07f2fd404f1497b340335c5644a24b8db8690bf620199ce58d0e79ba423a431b7d6ed5fac46f417d9979c5f58af82c24c051c8831e33df418d0df4d558/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2efa493db513dc6ea6f2acfd2237f187/2efa493db513dc6ea6f2acfd2237f187.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'Never Coming Back'",
+            "episodeId": "violet-evergarden-59?ep=1452",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/35e00b24816039daa57a61fffc0968fd6f2fab84eace83dd437c54f37bad239a35f46fb856c10afec5e03192901e24a4c183f8f57b7723d7dc461001452244370827fce2ee38e6e1abceae331263a90f560a1b52d0fd821c4d5e13b4f3c681b09d0917658e67b3fd98b58d8eef1d44268dee0c5ad9a63a6aa2aae639f2b634ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cced1054fc318ac758587fd7603cbcf9/cced1054fc318ac758587fd7603cbcf9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/35e00b24816039daa57a61fffc0968fd6f2fab84eace83dd437c54f37bad239a35f46fb856c10afec5e03192901e24a485a06e9bc243a1ee1e3bbbc5ff306120dd0c71e4d5f3ea28121c2dd559d4d883c112cc4e7a93a64445d0a42066265deb1ba80036bab7d3a5183a4e173e9d1badcc80aba6490c4696bae7aeb3b8fdffbe93556a8eddfc08c6de2c27dd93a3e53d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cced1054fc318ac758587fd7603cbcf9/cced1054fc318ac758587fd7603cbcf9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'May You Be an Exemplary Auto Memoir Doll'",
+            "episodeId": "violet-evergarden-59?ep=1453",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8090ca5a65adfaef5084f891ab466a9ac2454fb99fbfba71d59045612ad8ec858e147b9671ce264fb7866f8091349c156198563791b0492084ee95e2e7510ced6264cd5802928a594e1a3bb2645e472d04be1bb53d307b99c2c2051d90197b429f1d4066364dbc7a876cd61215ad143a58393f5440cd97cfe244b08dd1eb537b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/002e2f5235913768ed07ca3f6fbb9541/002e2f5235913768ed07ca3f6fbb9541.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8090ca5a65adfaef5084f891ab466a9ac2454fb99fbfba71d59045612ad8ec858e147b9671ce264fb7866f8091349c154c902e9a80fe511969eab1d8effeeb45aa2e7805c9cfa7e4a4618766876c4f088d3634ad269e87597174490c945bf43fdc45eed9eda592478087e6805497f97d421a13dbb80a4f9512cfd5d8e537bf04bb02565d97bfab38ec63908ea9fd69cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/002e2f5235913768ed07ca3f6fbb9541/002e2f5235913768ed07ca3f6fbb9541.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'You Won't be a Tool, but a Person Worthy of that Name'",
+            "episodeId": "violet-evergarden-59?ep=1454",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/05a5e67e312be64285f2f6b0a76c9135c986f3836aefbbdeafb8742dd6afffbcfd6795ccc56abb4d82747c570bb06c02028561af562f211651c07ee169f2eeca20f3380cca5e45938c23da74716c6d6d59d403065e99d46ad3decbc517d9528274a20e18d87c3f7befd44a771a415efab3785a545110bb08d680f47e9e9fc6b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc0e157ed2e4c8cfdd569bb8d5753dd1/fc0e157ed2e4c8cfdd569bb8d5753dd1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/05a5e67e312be64285f2f6b0a76c9135c986f3836aefbbdeafb8742dd6afffbcfd6795ccc56abb4d82747c570bb06c022366ee24d9a3a5bd8e45d671f86f49f8fd45caede5278ec5bb0d9ca9a66f47be1bad661f2559cd293398df6fa75e617a60d231501d4d634d3727888e0ec5f0d24940d5402315af8ee7a814d5b63007ffd8cc202c7557f56062e4c135941721a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc0e157ed2e4c8cfdd569bb8d5753dd1/fc0e157ed2e4c8cfdd569bb8d5753dd1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'You Write Letters That Bring People Together?'",
+            "episodeId": "violet-evergarden-59?ep=1455",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/308a7661b19c47bfcb82c68586f9f73ad3f111fffd43f696983fe1d4ea4499e17e8dff36d12b4cd62860a1ff257504d56208e96af95ed6143b3ea3e62a57a643bc36b7c7f5580d2e1b1071f08968f712d578476366f24cc5960daccd44bfceaae38dd8fa7fe2e456174752b8853cf5be235a28190e7af8817ff4f6106bb1a391/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2ffd8617be0e6dbb723c5842c15f040/d2ffd8617be0e6dbb723c5842c15f040.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/308a7661b19c47bfcb82c68586f9f73ad3f111fffd43f696983fe1d4ea4499e17e8dff36d12b4cd62860a1ff257504d541292ef051940e09f6986c036a9e57c1a0bf54a94bcf29e13e74558d7d36c88da87ded161d3dab4339457b63d116e3ad710f3a14f08aeea9a241cd5f76e40df67c38df3bd67a8ee202288af62cd428134d7266f49c3869d4de269cccb8befb3c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2ffd8617be0e6dbb723c5842c15f040/d2ffd8617be0e6dbb723c5842c15f040.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'Somewhere Under the Starry Sky'",
+            "episodeId": "violet-evergarden-59?ep=1456",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/07ecfc58e28208de3b3c573208c07d69c504ec250cd78aa1b9b1a138b165c4f090257cd89f8557a44f2dda88bcbcd089b96b76df4a0364ebfc98d2d46a49f7048c55617d9bc7b77e704e3e40bc029a6d3a63d6b83501479f9cbff8c3bb2e9f143b0a0b0aa2ddf7a739e38e993d3b1e7bbf292ba61b5a5ddf8eee028cbec61d07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4f68809e470357c9b2b9dacddd951f0/c4f68809e470357c9b2b9dacddd951f0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/07ecfc58e28208de3b3c573208c07d69c504ec250cd78aa1b9b1a138b165c4f090257cd89f8557a44f2dda88bcbcd089c9d62a63ec8836d61c3227f3aa558f40eef27f70ea1fcb7b9366d0821e69a162de6c26c40626d93555dafae6a372b9f9d54d664f610d7f265a506a207889050e26db31bb52b22a05f159854b32b5cb5fb7763ee7b5518ea221caddf0dcf20ea3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4f68809e470357c9b2b9dacddd951f0/c4f68809e470357c9b2b9dacddd951f0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'　　　　　　　　'",
+            "episodeId": "violet-evergarden-59?ep=1457",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/af528e79f09ad8deaf68ac2f34de70b02c434735609cbd79b468c44e972fd59503104cf60cfed209c6c0a46cfc882644c52e6802afc5ecfea7794e4b8500d8dacf77bd60ffa450be8b33ccdd08907d88a14d7baed0650cdd325916a04d621f7852cc5aa1f59205b5609c80fa1280a2a047769dcc19185bb95d8de95495067600/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0da94d5c4ac6e23af1313d8da2300cea/0da94d5c4ac6e23af1313d8da2300cea.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/af528e79f09ad8deaf68ac2f34de70b02c434735609cbd79b468c44e972fd59503104cf60cfed209c6c0a46cfc8826442695e62a8ec71984b01673071bb6418be8f019f5280a27ca300ec594077446182ed1db2eb2b116e462fd4b130ecd72c7eba07c96cdcecd08faf3313ce27043442094316090d930991eae3ab10316b19db043416a7318f9997818626176e1c792/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0da94d5c4ac6e23af1313d8da2300cea/0da94d5c4ac6e23af1313d8da2300cea.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "violet-evergarden-59?ep=1458",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8bb90354bee8eea644be55c8cbd614b2afba382729cebc8d6ddd65b560bdcf00ada7c4c682b3f319d681cae5e9639a89b4ecd42014c72b46c5e6913db137a3200d007c761c4584b9d441c4a5c2f5cc38e2ce46d477b3f2a54f702ff16e15ccc6ea557460be8dd99841c72104f4e484fc9c72da06dd7e1e078b66634d9fc14428/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/488e2a82b0cd4e1fc7c4428806ac73e7/488e2a82b0cd4e1fc7c4428806ac73e7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8bb90354bee8eea644be55c8cbd614b2afba382729cebc8d6ddd65b560bdcf00ada7c4c682b3f319d681cae5e9639a89dfccb1d143a4625d0339719f68fce036a6f8a274bb1f97680ca4d79c4700f07614e062dfd0dab81192906a7c11f43e25698c18478bedc4e031f25caca5ae6bfd331b81c9bd1f8d2cbfcfb2bb809aac338eb237ee1f1e36df60805e11b687b2b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/488e2a82b0cd4e1fc7c4428806ac73e7/488e2a82b0cd4e1fc7c4428806ac73e7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'Violet Evergarden'",
+            "episodeId": "violet-evergarden-59?ep=1459",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d9670e22e8de3490fc1f1846c18f9ac744cc2b761322cc77ede766fc81601925652bb43e831bf89438c14befeef21bc2b2ced00686ab0a8990f9682e59981ddecf9f3c42cba4751b4e123827d3c082a45efc83bc4d38c1ca77fb9f0b238a1b2d3af3b8ceef769ccb7e32ae4128405142944efb658cdeeb332f326122a791705e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/801d2e99f3d56a72316bf8df574905bb/801d2e99f3d56a72316bf8df574905bb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d9670e22e8de3490fc1f1846c18f9ac744cc2b761322cc77ede766fc81601925652bb43e831bf89438c14befeef21bc2145c50356bc08262be6251a2df8540798551de2cef411cc2917edb26929be969214b9ac8db28b52c37d207280781dcc9282aff9b3f295bf6b27cdc9f453c3376030b77229ba723cfabc4f69488eb860e6e2d9bf70756959f39bfcf83ddf1a503/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/801d2e99f3d56a72316bf8df574905bb/801d2e99f3d56a72316bf8df574905bb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'A Loved One Will Always Watch Over You'",
+            "episodeId": "violet-evergarden-59?ep=1460",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1dc779dc0dc5fc46f95eec4ab9a15989cd52d7c640fdd69665a27bf076be785c6ab4f979216239379a4e1ef39300f6be3b2ce55e19ac0258ec0173bf299be5fccf6af498cd19390f5fb2d0d16d174ee2310cfc55e59306cb7a86b1d52f20868e3d78debdcb14bbd81d02c94d94e532424314c77f5eddfe480aa83101422d2f6e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7401490be79db94a884dbf73faa5d023/7401490be79db94a884dbf73faa5d023.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1dc779dc0dc5fc46f95eec4ab9a15989cd52d7c640fdd69665a27bf076be785c6ab4f979216239379a4e1ef39300f6bee6d31f2e61b753b25efaecf9798173fda79405eaed5625cabb9a0b2b2878df8491b76e8d4190ef2d0e5e83a2d8833a904ae0dd323f95e06d320050e68eef0737071177180eff6e19ca899af021462cf55c47ec1252076f36945c2492866c8a49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7401490be79db94a884dbf73faa5d023/7401490be79db94a884dbf73faa5d023.vtt"
+                }
+            ]
+        },
+        {
+            "title": "'I Don't Want Anybody Else to Die'",
+            "episodeId": "violet-evergarden-59?ep=1461",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8de294e36c6c7774925bf8849bb89781bece479cbeeeb38f410b54d1f781b19cb7e0c5fca1a32f0c1af6023e5a64646e80092b86a9d277af405960705fdef1cc4e18a489fe52beb94cd5a05fb976bf84c6090e16ac382396ae1e859482849f2ca09fb2bdd292044e3898478ea9be3d77ad3e441e489d931553544501c053d07a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/222b543adae9a5840e6eb75ef19fae4a/222b543adae9a5840e6eb75ef19fae4a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8de294e36c6c7774925bf8849bb89781bece479cbeeeb38f410b54d1f781b19cb7e0c5fca1a32f0c1af6023e5a64646ed7b12a0f2a66967ff60ea84f68513c0e95f03ad0e2081833b1c9f0dc303e371c970b5434ca31a272502e25f3c5e2c75cd1c3a4c590ad8cd97677f75652d6bd58f1cdf25d2111d2ea7f6fc8e91b83d1569e2ca421974640f43abd09da907c196d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/222b543adae9a5840e6eb75ef19fae4a/222b543adae9a5840e6eb75ef19fae4a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "violet-evergarden-59?ep=1462",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/76b9f4cf0b26e2e81fb6e77ea181896c752aff1df650f1c8491e815dcbf95f293a493aa3c72164dfb5034801408ba4d93d4c771fb8e1d82833c8b4e96323cd7628094061c86624b0ccd12db00c90595b466548e7819cd3a800058f8eea0cf4b184340b1df3af15e6555f8a44d95088786899f6d39ba795de38219b30b34f0242/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4abd60c16826e7ec16efce0988d84cf/d4abd60c16826e7ec16efce0988d84cf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/76b9f4cf0b26e2e81fb6e77ea181896c752aff1df650f1c8491e815dcbf95f293a493aa3c72164dfb5034801408ba4d90bddc721e07ba66e5bc0eee58acd78c6c743e64e584498046d7f76cfd855fa4fbaee92d4fafc59d300540bb605706b041634da40568ad80cafc732d170b4ad493eef318fbd6d20758b7b585644bec478b694de5d224de5afb98067bff000b80a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d4abd60c16826e7ec16efce0988d84cf/d4abd60c16826e7ec16efce0988d84cf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Auto Memoir Doll and 'I Love You'",
+            "episodeId": "violet-evergarden-59?ep=1463",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d4cfd31b6ee5158846eef9d9e80128c87a03fcafba1a91ea9f908826968e5b24d980659a33ba0bdb3557ee7efcc9e60c52b7b0881055c98a03f8de27d1b90d9d353180fe5f34d53c6cbc3f862a02fa6df3a167be9437d0d91f6783e95d71923ad86a1925c83789271e7aceebb2514aec07fc18aa6a14de4d22db43d297c9c26b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e3d0141b407009a1f77b1482943b082/7e3d0141b407009a1f77b1482943b082.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d4cfd31b6ee5158846eef9d9e80128c87a03fcafba1a91ea9f908826968e5b24d980659a33ba0bdb3557ee7efcc9e60c01c25923699e62ebb842f63d791a440e29f8549e15228f900683d0e42791e937008dc133ed9c8b6cd87cecfa6ec5fe926757910e1d52788b7604e5260ce05c5e185c6d1a71e38a5856adabb5c91cf614e3f01e93e91058be7e7d729da9487f9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e3d0141b407009a1f77b1482943b082/7e3d0141b407009a1f77b1482943b082.vtt"
+                }
+            ]
+        }
+    ]
+}

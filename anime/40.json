@@ -1,0 +1,625 @@
+{
+    "info": {
+        "id": "vinland-saga-40",
+        "anilistId": 101348,
+        "malId": 37521,
+        "name": "Vinland Saga",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cc864ccccce7f38f7a100627ef21516.jpg",
+        "description": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You have no enemies, nobody does. There is nobody who it's okay to hurt,\" as he grew, Thorfinn knew that nothing was further from the truth.\n\nThe war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Thors Character PV",
+                "source": "https://www.youtube.com/embed/y99VgqpW1-8",
+                "thumbnail": "https://i.ytimg.com/vi/y99VgqpW1-8/hqdefault.jpg"
+            },
+            {
+                "title": "Thorkell Character PV",
+                "source": "https://www.youtube.com/embed/B-9G78Rp8pc",
+                "thumbnail": "https://i.ytimg.com/vi/B-9G78Rp8pc/hqdefault.jpg"
+            },
+            {
+                "title": "Thorfinn Character PV",
+                "source": "https://www.youtube.com/embed/GnrVZXSCHJs",
+                "thumbnail": "https://i.ytimg.com/vi/GnrVZXSCHJs/hqdefault.jpg"
+            },
+            {
+                "title": "PV 7",
+                "source": "https://www.youtube.com/embed/QlvdlIPCUHo",
+                "thumbnail": "https://i.ytimg.com/vi/QlvdlIPCUHo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 6",
+                "source": "https://www.youtube.com/embed/b7ptrklt1sc",
+                "thumbnail": "https://i.ytimg.com/vi/b7ptrklt1sc/hqdefault.jpg"
+            },
+            {
+                "title": "PV 5",
+                "source": "https://www.youtube.com/embed/5xqEp7R9SYM",
+                "thumbnail": "https://i.ytimg.com/vi/5xqEp7R9SYM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/3xAlirMzjCQ",
+                "thumbnail": "https://i.ytimg.com/vi/3xAlirMzjCQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/XVs4io58Gm4",
+                "thumbnail": "https://i.ytimg.com/vi/XVs4io58Gm4/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/x2aneW0sH7c",
+                "thumbnail": "https://i.ytimg.com/vi/x2aneW0sH7c/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/UkJmBWvCfNU",
+                "thumbnail": "https://i.ytimg.com/vi/UkJmBWvCfNU/hqdefault.jpg"
+            },
+            {
+                "title": "Askeladd Character PV",
+                "source": "https://www.youtube.com/embed/eP-tWngCa6M",
+                "thumbnail": "https://i.ytimg.com/vi/eP-tWngCa6M/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Rwiua0hXOVo",
+                "thumbnail": "https://i.ytimg.com/vi/Rwiua0hXOVo/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "askeladd-141",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/919d4e142c6b642c2ed50b3333be0a80.jpg",
+                    "name": "Askeladd",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "naoya-uchida-376",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/035d62e85786f9239e4173200af7fecd.jpg",
+                    "name": "Uchida, Naoya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "canute-1983",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8baa639ddbc1417fa6dfa194cc56a9ea.jpg",
+                    "name": "Canute",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kensho-ono-100",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9a4de954ab9aba29a5cc8ce71516533.jpg",
+                    "name": "Ono, Kensho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "thorfinn-349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6a3e9710e563be832480e228b3128007.jpg",
+                    "name": "Thorfinn",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuto-uemura-351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d666fa59f254027980ad9cf57a83fdb7.jpg",
+                    "name": "Uemura, Yuuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ake-128212",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/196ccfda09f00e5ea83eb99cf42af689.jpg",
+                    "name": "Ake",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mitsuhiro-ichiki-1854",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d8768f935c96215cec786b0dfe6b77f.jpg",
+                    "name": "Ichiki, Mitsuhiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anne-33139",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/984a45b447b433c9d267612843ed36c7.jpg",
+                    "name": "Anne",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yumi-hara-302",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eff6239fa2817f1308e2c4e39eca857d.jpg",
+                    "name": "Hara, Yumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "annes-father-84652",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/30f27cc14dd56563457d289901167188.jpg",
+                    "name": "Anne&#039;s Father",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-shirokuma-5412",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e5a9730b4b6937ea31139c944beee5e.jpg",
+                    "name": "Shirokuma, Hiroshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ヴィンランド・サガ",
+        "aired": "Jul 8, 2019 to Dec 30, 2019",
+        "premiered": "Summer 2019",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.73",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Historical",
+            "Seinen"
+        ],
+        "studios": "Wit Studio",
+        "producers": [
+            "Production I.G",
+            "Dentsu",
+            "Kodansha",
+            "Twin Engine",
+            "Wit Studio"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Somewhere Not Here",
+            "episodeId": "vinland-saga-40?ep=1134",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/f46bd69062d78da7d9a39b82dca11845d6540a4f75b1439cd6ef4431ae0daef98d13a2392db221f6b0e20f901ab825af14265585d6829d49b8cadde8aecc9b0cea0815a86054d6724f5e4ec907089ae1ab484858188f0118b250c495571dc15afb70382bc1fb7938f549df2c6f89aad03521e69343be0120687d91db83e5a96b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea4cdfd734c6686f7afaeca8c4b7aeb2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/f46bd69062d78da7d9a39b82dca11845d6540a4f75b1439cd6ef4431ae0daef98d13a2392db221f6b0e20f901ab825afc989e7bd0eb65d938643ab7d865125aa756960bdbff9ea683dfe1430773c1299b8273d0baa73b124780c5a5b07765dc3c233a92e4e3472a3f9dac6a3436ef21e68792c61869a96b48cff5ab9b6cd6ec11998c1037ce31d266223184f84ada795/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea4cdfd734c6686f7afaeca8c4b7aeb2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sword",
+            "episodeId": "vinland-saga-40?ep=1135",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4b5ab6c7c432991e6cff86e41add01863cd4513715d57fb85184aa7ac3085e236129999b69f114534c066d1f32f247d8c76de874929e54a230f5f137431b23cdd1ba8084e33a68133b3887c45ba8d8bfb9e9a64d6b0cf807acb48c3105751bd583bad2af33e09b7be8ce7b63fecbe3207fb53aa5c0aa95b2b9e09726aa1ae453/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13bf79515b99770591c58581123c2afd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4b5ab6c7c432991e6cff86e41add01863cd4513715d57fb85184aa7ac3085e236129999b69f114534c066d1f32f247d8deb56f4078fbe576bceaeab1ed0785d505f962d76948d8c46e1955a6499e5cbba7c4c9def7bee4f62c668f00b36f5f95faa8b4504bd306d893d864c411b2e615efea6e9864cb9e81065408c748c62a6d4af0aa8ebbd20f8a51a4ca531c0c1431/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13bf79515b99770591c58581123c2afd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Troll",
+            "episodeId": "vinland-saga-40?ep=1136",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/52c55d6cc1a7e13c36f38e13b4355d525cc1eeb43bd51b0c4004f272bdce34c34cba16c6b8bdecb7a67bb84301d95d6d383c351440b8681e399e45aaaec48b9ba3d878ecdce19ca7c53aa7949eacf90a1ac432037c8b803e6222b4e163eabf1ef8453bb2e53730136535f4ac2994fbbe639d391fc6a5d01d633303ab7b26102d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f708c8ac2f579ffc78683fce1cd4eeb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/52c55d6cc1a7e13c36f38e13b4355d525cc1eeb43bd51b0c4004f272bdce34c34cba16c6b8bdecb7a67bb84301d95d6d4986874a867f1175d53223038e80720889f7da6435c8edd52dff5d67d696b1ab308903de225bd4994da02da17dcc4e1c54661bc7c44bba5b51f5252f78756a1025d795c4ed48649771af13dc479de0bb5d8990bea94301ce59dc3564987e669c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f708c8ac2f579ffc78683fce1cd4eeb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A True Warrior",
+            "episodeId": "vinland-saga-40?ep=1137",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d6292f664037b39c3ee57923dfc68b44f2dc5fcba3782f591dd1e5fc306de40ca990e596ab974c49abd0d60fc653b1f50419ee6eb03ec7d09b37edce5ec5307294d8db3c15fb3f5148edd43b2fb14bf730e8f4486a9ec3b024aa078280318a76d1cafe406d665e0fcc3e287ce36d0f49d0b0aad64085afc2804e9b92e391ff9c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/14f296ba9758f0ac9bf657ddeb80b32a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d6292f664037b39c3ee57923dfc68b44f2dc5fcba3782f591dd1e5fc306de40ca990e596ab974c49abd0d60fc653b1f50b2ecadea0521f41621f6b149da1b7301aa76f6377b6c7437f2f64e63a4c9f8590ff1b8670c065a70a83ffc8f268db40c3a00d665fe989d609bf49427e24b84ca28ffffcf5de4e5cdd7f3f7690c795866ff72085ba025a24b23701d183b3c644/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/14f296ba9758f0ac9bf657ddeb80b32a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Troll's Son",
+            "episodeId": "vinland-saga-40?ep=1138",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/910c9d8f5275b080331039c9ed051326dc3b6da5a5f7e3ae87f057da3399acd5c21a8bffb515f84a0a1ba7b4897b8ec4cedd9ea0fe6e007d02f52114170e50143968b137e8ba278d7b75d2571733daa8a2ce0ae518f6873f40ecc7d43f724ca131a2e5c27696f0b537c23727bd971f5fb1ba5d0d5c3fadc40808b68544e70076/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a35f6961b17b3b0715a878cb1556348/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/910c9d8f5275b080331039c9ed051326dc3b6da5a5f7e3ae87f057da3399acd5c21a8bffb515f84a0a1ba7b4897b8ec475e238011de42aac3d8d3273a632674d4a564910bac7afc48e16cf5178d0a885fc3aa50d9ad8f71d1c8230e3738bdfc42b818840fd4d724644039d1cb716eb82270c4ab639b9fda7e0ee833d14ff9a6eaaa78c53c3c7254e3ccfa88d58c0c642/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7a35f6961b17b3b0715a878cb1556348/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Journey Begins",
+            "episodeId": "vinland-saga-40?ep=1139",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/537b3b53bdb26be46e67a190e19f2143786839016141b350d0176b882a8f859fff6616b9d8ec445bc333da8ad15ffc13bd9f522115c9221b80583ab80a1c7a2d32d6cee444cd8a1d631390d678dc152ae95b899c54b30149960f889817ad183b7436691b3b1cba80dd032b9d041de5e66da10702e7b3257e2944f00e43e5682b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7f90e5ee60d6eebc440ffc2e56279e8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/537b3b53bdb26be46e67a190e19f2143786839016141b350d0176b882a8f859fff6616b9d8ec445bc333da8ad15ffc13ccc3713a53bd431c63c1facdc82458ffe699a6d2ce1e9e57f21b4fe69ca9815f671ba57e9c67162484a80a6b922e09139f7529c0347c80c4289b89ad0df6c352b6b31028fa4e50a06b6735d13b9c4ca186719179518866082beede18fad1dcb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e7f90e5ee60d6eebc440ffc2e56279e8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Normanni",
+            "episodeId": "vinland-saga-40?ep=1140",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ea2c3917fc9ea325f96bee8a95ccde056fd86d3256a573c84164e92869ea5b092b626e33eddf4c6994d7f9da0242a8d47bb9bb212e17259ba1d04813cce339b6784ea7da60028d8b2dc6c75e32690ab3ca6f9e3224dd8e1d5b663e1b82cb8d576c54467eeca69bae472cb810285da8e97572339e2aec97637aff799168bfd572/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3527d1a77e629c85c8a060e860e429c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ea2c3917fc9ea325f96bee8a95ccde056fd86d3256a573c84164e92869ea5b092b626e33eddf4c6994d7f9da0242a8d4d162ba5099e106086b653ef6bbafca196b2da229075dc10828ac8e9f1b71f945b7e82830f234757f73f9ceb31d33cfc33f3f8e63c599b23f57e05fa29c47f635998b99717862e2eb4872885697b0353ade217914d985a7ad5ddb806cf5db1e07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3527d1a77e629c85c8a060e860e429c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Beyond the Edge of the Sea",
+            "episodeId": "vinland-saga-40?ep=1141",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/2e0911052ca695c535abbe05e5276d756918fd77e63b8817e6dec90079f4bbf11660dcf0f89158acab4d5d1a4c8b983c5b8795ba8eeb2f070d8339b11066601e9a59a0e6a5fc1902cbb52151b809eb9493361d187a8290e2d703dacee72946cf5f8a6421b6023ed11236b7fab8b7c83d7ce3dbdb6ac40e16260d57611b19613e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d173668a6d7127facf49abc48abaca71/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2e0911052ca695c535abbe05e5276d756918fd77e63b8817e6dec90079f4bbf11660dcf0f89158acab4d5d1a4c8b983c74e08922eb7ec11b86ccfa0b69a3fb90c370ef8753489f0d5b8b10a44f893c57005f6bbf5ac12f666b511b53cf620132f08cbd494da014c41d3f45d87ac33123052c8f930a673fd71b37eb374e6ae491afff2edd94a3174e4fedd1fecbd3043c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d173668a6d7127facf49abc48abaca71/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Battle of London Bridge",
+            "episodeId": "vinland-saga-40?ep=1142",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/417b2c4d4847727dbd5efaa91afdd0f984785e4013fa7d0d29bc3ae78c95e530a5f891e15681d56edb429683d32bb1cade85c5ed23637ca66be7d6ff29eb1b0fad88add05190d96ceb413eea70cdc85885d710bdb6713c9bd1ce31c603e7343193ca09f1d9e57483b3e2e2feef2bc3a7bcfabc18c1c7d9e4e93cdc7eafc84f62/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24f63706971ced7314424782d33ea2bf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/417b2c4d4847727dbd5efaa91afdd0f984785e4013fa7d0d29bc3ae78c95e530a5f891e15681d56edb429683d32bb1ca88efcfeec94a18a3ccbd615453f1216a8f74dd998bb30eded294b03952b0c6f94456cc1213a804c27c505892bcecdc0169bbfc7e277718c3bf12e1b7b1a499453a0773f980c398935cb9109b5fdea4ad32e133d68e5040d327cadd30a0686c43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24f63706971ced7314424782d33ea2bf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ragnarok",
+            "episodeId": "vinland-saga-40?ep=1143",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5c17c7e9821ecc46f4eacb0ad5a3bc7702a0978c88cb61b81c30ff660ac34500b6704ede3d505ea793404edc7e77e213c469792d0c76a158ed250b6b188f008939c553003acfd245492a20210126e2cce35e79fe78a899c800dbe275a7b216cfc5f949df78fb7fc2962ffc6b27c469cf14d6d669f75255a4fc8fe1d1c5cc16da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd91094df4ff6a90ef66b0ff46b3b7ff/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5c17c7e9821ecc46f4eacb0ad5a3bc7702a0978c88cb61b81c30ff660ac34500b6704ede3d505ea793404edc7e77e213d4518436fae25f8ffcded0a11e48d7a88379ac9948088e1e470cf72f10cdda9ce72a3adc9f29f55c2a70fa8d9ef3855b585a23f9e17ce01ebb78970519a8dade038efb77a6272a1aea74771de4e4d59d232b7e800d28207061ecefe8e1d6aa2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd91094df4ff6a90ef66b0ff46b3b7ff/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Gamble",
+            "episodeId": "vinland-saga-40?ep=1144",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6b40d02c9e626143b88213edefbf9278e77a3c587ed373d67c92e74020d1b97a0ffe9f640c3bd88a47761e4e023ef501f94885d5aa87875c8ba0f2d19fd005b21ec467048b74ef628e58076e799f5620d315c27b63dcb247b5235af95572a49aec8191028be7f2256f37e1a0b836e42e806aff43cf3ccbeeae06a1cc43e05984/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/492eb4a7b153d81f040cf30d8dc18fd9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6b40d02c9e626143b88213edefbf9278e77a3c587ed373d67c92e74020d1b97a0ffe9f640c3bd88a47761e4e023ef501437ac646bf4a7ce918c8752baddac271a4eb7db2ad22e3852a9947247c05880610ed080c06dc99dc2bd19035f92d856e42c959c9f0bbe319411c1fac5d417487c3e4cb77601747f76be75e2a3d11c8ec1922a71f4c701908dcab13a9ef2935b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/492eb4a7b153d81f040cf30d8dc18fd9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Land on the Far Bank",
+            "episodeId": "vinland-saga-40?ep=1145",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/469c6d8157661c3d4ffab476dd9482f307013752e64d0918dec1dabcad1d14f406ba9ab7764fa263b149dc1d784cb79743f7237134db21ea3bd1c10814a7afd7193d09ed8b45f1b4b7093d2f83215ffb235259cb2b99b1de7298b9478107005310240b64791d26bf261a5043d3531274017348a9daf87accee4635b7175681a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df70c02f44fb02ade7acc881027546f8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/469c6d8157661c3d4ffab476dd9482f307013752e64d0918dec1dabcad1d14f406ba9ab7764fa263b149dc1d784cb797b23d8005109c6b9c0a9e0462222a647b2f58c1ee2f41b1d230239406b9cb08ca7ef038db7cb01342feaa6029fe8ca60bfa4c70ae7395e21dca74c7ee7cf6dd745878cb9567b7db76817df2aa0486ea02ec951ae4a98ece328b18c917d4b26ace/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df70c02f44fb02ade7acc881027546f8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Child of a Hero",
+            "episodeId": "vinland-saga-40?ep=1146",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/06e812ba80d1837af392784c173bd6b8fb4128888699a5bc76ef2983999c09553083c74a10de952658aa92679da44742fff94f05a6e375822fe1fbf7824aff350fb8a4b87d6eb1cc0f03c6ecd1fb16b180d94821c7c6459b6e6a7f65af1e24f31e6bd8e72a7570338d49dfd809356750f7878118c1019cb9e8fe6f96b89ba8ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/551fc5bf95b3e6d865452c6dd939e55e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/06e812ba80d1837af392784c173bd6b8fb4128888699a5bc76ef2983999c09553083c74a10de952658aa92679da447422ed4c36678e7a8a9223d648d124a40812a38cfc34c6bab36ccf77fe5fa6bab59de4df9ce86d192ef70a84e60b37c3a94ee4432b43c7ebcaa9abf622c03286fdf92923c1edf159780fe18dd05f2010d4a058c2c9d6c76124b8b18ef07087b5440/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/551fc5bf95b3e6d865452c6dd939e55e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Light of Dawn",
+            "episodeId": "vinland-saga-40?ep=1147",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/981c8e1432b2028cb3a91a373e3b90e19f9e75b660a43c5169f0f2e4e7a87b7e6819216cb6f83cad3690a74855cf5a6ce5b629b3f4990fb0f5cdf483519b1fc788c1ec9e5bb9f73a72779d8703b56d3ed514740ef9d889cf54d2e063c5b227c686fc7ac26b5c965a019f576d2eaa52f68dca8ff75c2b2ee83d380196d238a04e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd89f66b971726ae2fc27083cca719d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/981c8e1432b2028cb3a91a373e3b90e19f9e75b660a43c5169f0f2e4e7a87b7e6819216cb6f83cad3690a74855cf5a6cb98beff33ea0bfc237cd20c5f535127a5a942f7ae7291173aa81e1cfc6ab59b416fecd10862dbc139f813a9e834610f8af749c39753ce264cd9bd7cbfcf93a6cb2faf30eaeb94098318686b7382745ee93dabb1a0965b84452c15466fd321d4b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bd89f66b971726ae2fc27083cca719d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "After Yule",
+            "episodeId": "vinland-saga-40?ep=1148",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3ea416d5a314eb42000dcc99cb0ef3dbf2dbec727ac19b35968a9fdee199268bbd5dddc1576c51b7944ebf2bf92cc1bcac490f337d1fb6c1c28b0388b13fc95b0d1f62cb720edff3ed8d7fcc41ce32caf735301adfa1d899779557dd35845b8b0791d7e6e939ece9a6ca8ac25adcf9ac5bbaa5300784b4afb4d868acd644ca23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be1d87fe33f930ba2597f7d985a2c334/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3ea416d5a314eb42000dcc99cb0ef3dbf2dbec727ac19b35968a9fdee199268bbd5dddc1576c51b7944ebf2bf92cc1bcbc0395852bc0fd0fee23733aaf5f995ac19753c712c0ab4f70797c5dbb5f1780ea239d4fae36b626303d2809c2ba2735f96675c899b50f40a64e51026900227e9be34245282553c88f2027d5257142e82dcd7dcee6da94ecbb603745b2847562/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/be1d87fe33f930ba2597f7d985a2c334/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "History of Beasts",
+            "episodeId": "vinland-saga-40?ep=1149",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b7896877edba8de0333306caae797e3e08f69a460263db89c488d9670fa9ed0d85f9366e5da6b9a4d28747c611b7e5d49ed5f1954d0168942ee3c7d7ad8154e08a9e2a82efdc74befc0a02b4a87e4d4a43401ff37e0a633f86b9d6755e2a5e8e0238133cdb6dee920323c8bcb5a0f861de8d55ded3618883502808a70f8ca9e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a20f57ee1c4b817c41794d98d0ab33a3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b7896877edba8de0333306caae797e3e08f69a460263db89c488d9670fa9ed0d85f9366e5da6b9a4d28747c611b7e5d4c39e3d4ed2c4c557ac1e443cd26125914aeb01582330689346c83d2c6e455d7afb55239623d3c677d265a47b2d52d83605edfdfd1f2168d88451a02cc85fd178e50a94fbc9b21ecac7aeb71542a454f6e8b9480595ea1d4f6960357c22ec8b36/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a20f57ee1c4b817c41794d98d0ab33a3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Servant",
+            "episodeId": "vinland-saga-40?ep=1150",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c84ee0eddfed8bff2c0153bc89b96376b6468fba0ec8795b730b09dd80b833324ebbcaeba84a61faf4bd9989ea9437f9aefaccb6f581a8ee477bfc8cbb1b6a9bd1fc0df992b13baeb700b6f30d265c01f588a2fe5788caba3066ce6500247a790960392a2aa0e1369474797b9d9105d47ff56a0d0729307cbb281e3e57dbd344/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2d8754cc243efe43a759384917580e2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c84ee0eddfed8bff2c0153bc89b96376b6468fba0ec8795b730b09dd80b833324ebbcaeba84a61faf4bd9989ea9437f9df8e82043efb93a6e10cd5bd7fd90aca964899bba8f670830a1e36bccf312bdd8841782d7fdf2a18ff30d9a3795db632bddf131ccc63869d1636421eceb7854a66f7d45569c7199cb6bb76be67686b0c78c34c310acaa2fbc6ce17dbf31f2a8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2d8754cc243efe43a759384917580e2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Out of the Cradle",
+            "episodeId": "vinland-saga-40?ep=1151",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6531aa6fdc21f0af57d242a19a424e263e7c46baf85246b0ae33c811b3b01dd3ed4b6914d0914728bb85e954b77094397760325c8d82825702ce572636e4049e57c43d5bb133bac4c1deb0223d3f75aa29101095c12003993168f4b2ee108514ba6172c269e6aff6295141285ac679c8919a57315491a882a6ba4fcd73227385/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4479ef7ecb58fb245a9fd3b329a7d676/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6531aa6fdc21f0af57d242a19a424e263e7c46baf85246b0ae33c811b3b01dd3ed4b6914d0914728bb85e954b77094396a4534594d80114abea5ce219e8acc7e700770e0895fd5f6cfe6b445bb2b7e2d070092008d95ec20b8a77f1f1534b85587711350f094341422e714064c316b5c057359b8d8074d43ca258c0c2775bef3b00b68bcdfba948300f706e3a3a73a4e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4479ef7ecb58fb245a9fd3b329a7d676/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "United Front",
+            "episodeId": "vinland-saga-40?ep=1152",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8fe580a2f0f48fcb0fd6dac1b70086afbfda74823b22b0b2837bd016f05665fd3d0f88f801cb3d592eebf5839f456459a5245886cc4760dcad27b8411658086fb31c0aa609cbf6d70bb8f807c6520819ad6518c4467522fffd8bf956de6ad03b187c59d6f42fe66dacb72c0d499019a07849cc437f42ecf40fb61fedfcfcde84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23d186a6f5a5939928315040084779d2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8fe580a2f0f48fcb0fd6dac1b70086afbfda74823b22b0b2837bd016f05665fd3d0f88f801cb3d592eebf5839f456459de8a1abe50db131b1097d9fa94f0f2ee7b902510f429061f43ca5729ad49f8da5ed9bc7764c40aaa2bcf23c270d000466b142aae3e02f6f765aba434c4a67979bcf89ae43890bd9ff5d043b792ec32672dacfe933d5963ce6beea34c53d4682c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23d186a6f5a5939928315040084779d2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crown",
+            "episodeId": "vinland-saga-40?ep=1153",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/571069c168d9e5439fa856a4aad358d1bc8763b76658ee202ba5b48249a10975778523b9e8d3f50dd9209feed34274a0e98f6c2a3927a15dfaf4de5041bd16acfd254201cd5039aa471956ffff8e5e0f8b2d764f532c5757ea17fac8be1021ac5f9f23a11e39c914727b7828a645505a4cec95849ca0f19789771ff9750f0622/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/047ea73d8f52d320fdfa5e09dd276876/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/571069c168d9e5439fa856a4aad358d1bc8763b76658ee202ba5b48249a10975778523b9e8d3f50dd9209feed34274a0a81c3ad0fde905e9ff0d76ac55f0161dc9e1a6d678c1d86630e3d122cc0434cda1c75f044793af326ca74c2819e17b4ac828aab349c3221d3193bfed80b9633a370234e93357524fd142ffb762b72d5083086495b8774c725f4c7c9c6becfbb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/047ea73d8f52d320fdfa5e09dd276876/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reunion",
+            "episodeId": "vinland-saga-40?ep=1154",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8b64327396373f926dbfa5a9cefb959d607bd84205b15da486855ef1556634866b6b0e2f5f7fad711b0f4ad015fe7bdf903596a185f5d0683f7c2237c4d74fa1789a193eff28485b4bda66e6dd528912ea53d6c89d0754c3d000ab175f72080934d9040593e2e0fdf6f274eb86ad604b44673528f150d33ef2407a09efb18db9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44aee6f8c2bd535e100f314bb5a991a7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8b64327396373f926dbfa5a9cefb959d607bd84205b15da486855ef1556634866b6b0e2f5f7fad711b0f4ad015fe7bdfcc36d7df608cad49b3fa176e2c0092b2133edcb5bc1d6cb97922a81d1ae2a2ec54cf974f8c8f16e7caa465a73b15c7d37d250245dab3ba2701a8fefc59ea16c313574f9d80cd601717822a0518d6779e2c75a69eb5bea44befe8f24374f92394/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/44aee6f8c2bd535e100f314bb5a991a7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lone Wolf",
+            "episodeId": "vinland-saga-40?ep=1155",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e7c32125a3f2173066c735572376bf420e794c414d027e283533897e4f3af2e2cbb4f9b902c44dbffc2c8f71551cfae06ef3c826587467063196064975f60d61592185c1c551629a3bee29a3cd0195ebcef70616d1df958b54bbc623b2359ab2071fe1ba0a52a5ff8cffd82ca9591b6bc43fb080f978a5d5c178c615516c777d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc2a66b9f55ed0effa010ff024ab60f6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e7c32125a3f2173066c735572376bf420e794c414d027e283533897e4f3af2e2cbb4f9b902c44dbffc2c8f71551cfae02861a310d08dd263a6bd489d6cd5fc44bddf08801380ba7d99a0b4571f9213a5f2a33d315d8dd6f967a4c780e452a586bb1dca5811b0dcf4466cff8287b21296c7cfda9b9f20c00fc76360a5a269f58ad9e2001fe5c476edb4b01f855528f148/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc2a66b9f55ed0effa010ff024ab60f6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Miscalculation",
+            "episodeId": "vinland-saga-40?ep=1156",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/db6a831911b34b3d5fae673947e9ec95f96308e38cb99a0f95067fdf52487a2b303e1decb4372dfb1143d672df156e6c443c6ff23fbb3e1cf86385328144f012faa2470ba136748468ac8e0639932636754a94a06a86ab0cad8b57ebcb416e2f11d47eff1e9e0b4cc8b35cd3832744979ff33317e9766e301220193a63ee9439/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fe15325ee34544e2d2c1314c9c4310f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/db6a831911b34b3d5fae673947e9ec95f96308e38cb99a0f95067fdf52487a2b303e1decb4372dfb1143d672df156e6cee41a31fc3b62afd58a546e9a79ad423d8a7038b6c97f6b96b8fa1d17ae38ea8ba0b1bbcef1fb9d7f935abb265e09cde6b9c22a678f270e66a88b1a8773d796532dcb5d3523eafcade1487fc1f1d071f71cf0105c69099f2fef9a363c206efb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8fe15325ee34544e2d2c1314c9c4310f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "End of the Prologue",
+            "episodeId": "vinland-saga-40?ep=1157",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0869a1fbe280a410d841f84af3b56e8f27a6b09ba151731559ce21be0aece48819913c89775b37d924f88e4994fef2a70ef191be03ee059de82e50487799184d96f1309899b335115b531104c4c4d05f060af89456621064293be81c9202612a96e4a33b6e1a7825bf92f88aa4d187435e2896b309b91c579e58add11016c473/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b5da6edbd49f4ebd442bab360b1381b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/0869a1fbe280a410d841f84af3b56e8f27a6b09ba151731559ce21be0aece48819913c89775b37d924f88e4994fef2a73d8e4c7c65015af6492d8d01685f833da1d4dfaf448a43d34c21f2bd1adc24ba6cf266936390c1db479aa03887bbb1ece196f26545f9d2abb1177c4f9db16d9a8c32bb84c72114e80046710e2174b82bb7dfd19554482dc4374b4c6591b92d98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4b5da6edbd49f4ebd442bab360b1381b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

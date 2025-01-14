@@ -1,0 +1,418 @@
+{
+    "info": {
+        "id": "megalobox-603",
+        "anilistId": 100298,
+        "malId": 36563,
+        "name": "Megalobox",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbe8f8b21a49d59e7055cf93b144d163.jpg",
+        "description": "\"To be quiet and do as you're told, that's the cowardly choice.\" These are the words of Junk Dog, an underground fighter of Megalo Box, an evolution of boxing that utilizes mechanical limbs known as Gear to enhance the speed and power of its users. Despite the young man's brimming potential as a boxer, the illegal nature of his participation forces him to make a living off of throwing matches as dictated by his boss Gansaku Nanbu. However, this all changes when the Megalo Box champion Yuuri enters his shabby ring under the guise of just another challenger. Taken out in a single round, Junk Dog is left with a challenge: \"If you're serious about fighting me again, then fight your way up to me and my ring.\"\n\nFilled with overwhelming excitement and backed by the criminal syndicate responsible for his thrown matches, Junk Dog enters Megalonia: a world-spanning tournament that will decide the strongest Megalo Boxer of them all. Having no name of his own, he takes on the moniker of \"Joe\" as he begins his climb from the very bottom of the ranked list of fighters. With only three months left to qualify, Joe must face off against opponents the likes of which he has never fought in order to meet the challenge of his rival.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 13,
+                "dub": 13
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser 2",
+                "source": "https://www.youtube.com/embed/Trs1rCoLKLc",
+                "thumbnail": "https://i.ytimg.com/vi/Trs1rCoLKLc/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser 1",
+                "source": "https://www.youtube.com/embed/-j8sX95vkfc",
+                "thumbnail": "https://i.ytimg.com/vi/-j8sX95vkfc/hqdefault.jpg"
+            },
+            {
+                "title": "PV COMA-CHI's Rap",
+                "source": "https://www.youtube.com/embed/D7GqbDVMNXQ",
+                "thumbnail": "https://i.ytimg.com/vi/D7GqbDVMNXQ/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Yuuri ver.",
+                "source": "https://www.youtube.com/embed/o9sDdCnX2to",
+                "thumbnail": "https://i.ytimg.com/vi/o9sDdCnX2to/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Yukiko Shirato ver.",
+                "source": "https://www.youtube.com/embed/",
+                "thumbnail": "https://i.ytimg.com/vi//hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Sachio ver.",
+                "source": "https://www.youtube.com/embed/FIdtUesIdXw",
+                "thumbnail": "https://i.ytimg.com/vi/FIdtUesIdXw/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Junk Dog ver.",
+                "source": "https://www.youtube.com/embed/S-G1sRbvSiU",
+                "thumbnail": "https://i.ytimg.com/vi/S-G1sRbvSiU/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Gansatsu Nanbu ver.",
+                "source": "https://www.youtube.com/embed/d5t3JaAlek4",
+                "thumbnail": "https://i.ytimg.com/vi/d5t3JaAlek4/hqdefault.jpg"
+            },
+            {
+                "title": "Character PV Fujimaki ver.",
+                "source": "https://www.youtube.com/embed/aqfJghjRK0k",
+                "thumbnail": "https://i.ytimg.com/vi/aqfJghjRK0k/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/-ZUqskWgL08",
+                "thumbnail": "https://i.ytimg.com/vi/-ZUqskWgL08/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "joe-1610",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9920e2ac4e1a225baf49137b8faeee44.jpg",
+                    "name": "Joe",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshimasa-hosoya-76",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0b3a7b74f06e525bc10aa1244578db5e.jpg",
+                    "name": "Hosoya, Yoshimasa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "abuhachi-89265",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e9e6e204cfed47a39ec07a20ff373c9b.jpg",
+                    "name": "Abuhachi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mutsumi-sasaki-3992",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06d612cdd43c6313273f4533575337d9.jpg",
+                    "name": "Sasaki, Mutsumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tatsumi-leonald-aragaki-28379",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1fabb5ef5fbb786b8d544150950d58ec.jpg",
+                    "name": "Aragaki, Tatsumi Leonald",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "makoto-tamura-7080",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c337f91fbf1302404116e7fb92364fbe.jpg",
+                    "name": "Tamura, Makoto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bonjiri-89556",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/423ae9d34631532bd004b9d50c9b2463.jpg",
+                    "name": "Bonjiri",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "reimi-10329",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a7327027e232d718d8b812627f4edfe8.jpg",
+                    "name": "Reimi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "domoto-118478",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2d80a4019fbdded698f3bbf347bd7b4.jpg",
+                    "name": "Domoto",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "jin-urayama-7753",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/29beb4f0a01b2df37cd87dd1b49199d8.jpg",
+                    "name": "Urayama, Jin",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "fujimaki-25507",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46e223a3753521373515a33ea31d30f8.jpg",
+                    "name": "Fujimaki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroyuki-kinoshita-3767",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d359b97926bb630b2d03d3d6aa891e0b.jpg",
+                    "name": "Kinoshita, Hiroyuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "メガロボクス",
+        "aired": "Apr 6, 2018 to Jun 29, 2018",
+        "premiered": "Spring 2018",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.94",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Sports",
+            "Slice of Life"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TBS",
+            "Kodansha",
+            "Bandai Namco Arts",
+            "TMS Music",
+            "TMS Entertainment",
+            "Viz Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Buy or Die?",
+            "episodeId": "megalobox-603?ep=11637",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/945ff15c8d00b40ce3a10cce8762c3d8c9474cf74c3675e9cd43b3d316a27d76647e6d9e890ccf6c2d8568032f4907c4d120cdaf48ee5d1ff9ff2aaa84fe817f60613174d8658fc6fc2a9e101e1a4fe6d2da495384ed967741c36e36aaff147209f8f5f700dd270c01536f0a48e86f36fe0695dd4cb79fa5ceba33005eacc757/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71d127fc5c2b359b75c90ff669147b0d/71d127fc5c2b359b75c90ff669147b0d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/945ff15c8d00b40ce3a10cce8762c3d8c9474cf74c3675e9cd43b3d316a27d76647e6d9e890ccf6c2d8568032f4907c47f94429c99c3699df3bf2a8e3e5da49bfe76a8b68e797f6d4c2679a5ef04d136035fe57491ad8b3f03a2d56dd11214ae9a8ce199067df37225ee9d4567c97e994e9456255313ae586f5edae5e18e0d71da9ab1de144f9e8a64f37ceb90a8da94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/71d127fc5c2b359b75c90ff669147b0d/71d127fc5c2b359b75c90ff669147b0d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Man Only Dies Once",
+            "episodeId": "megalobox-603?ep=11638",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bea44ad7b8c73fb610790de8872bc63708d6a2cfbe9ca7df2c7d0b27d8cc53c832003702e6917f76b7171b26d5e468ddc2695d4d6fb11261e16017fb39733adaa8bb9fe3eeecf1e0f7204455b56bb2151beeacc673f677de86b4d3b123721dcae37a6194e70fc33c7cbd45b469be74bd21541c72b86a9f7a8e06c5f37f9d6029/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef69fe1139b5631306f564ce97256bd2/ef69fe1139b5631306f564ce97256bd2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bea44ad7b8c73fb610790de8872bc63708d6a2cfbe9ca7df2c7d0b27d8cc53c832003702e6917f76b7171b26d5e468ddec7842826e57dbe815adf02d36ffd38ed139ed1e12be0c3ffdd8dc61f339c9756d76fb58820ac71872c7d0a24a658b2e8bfa696b6f17e7a6708c0fa22a928f410d854ba354582e1475030fb9a6ede905258e98870a75707071d3c2060db5658d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ef69fe1139b5631306f564ce97256bd2/ef69fe1139b5631306f564ce97256bd2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gear Is Dead",
+            "episodeId": "megalobox-603?ep=11639",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1fe9045f8b8ed2bd29676a2261f1fe128cad99c9cb2a9a41a822de865a74c6a7c6300c1819223fbc0e0cd9c493993531dfbbdac79307c2b5f114463e0d3b179bf07483a0fcf12297dcf1ccf2d125df8e93e8fe10d49e9e9c2a28ef79b23f2b49c825597c62f03b8bfebc850e1f6c126d2ef0514cd9613a601f5a8c411d4d4101/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d23f99ba348a266e9f9fe7fe9134b41/9d23f99ba348a266e9f9fe7fe9134b41.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1fe9045f8b8ed2bd29676a2261f1fe128cad99c9cb2a9a41a822de865a74c6a7c6300c1819223fbc0e0cd9c4939935312d6dd168c22673939e3f37d6809cbb13d87bd04d7eef68f7ed3605c5b2cd00e36a72f0fb16776d89ab2d50f069c997fca7334a80fbdca1643059a328dd273ff10d8c1fe8bad4675d49f10df2d9fc5441dfda2f2ae901637b8c7e70b3c9171b7c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d23f99ba348a266e9f9fe7fe9134b41/9d23f99ba348a266e9f9fe7fe9134b41.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Dance with Death",
+            "episodeId": "megalobox-603?ep=11640",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8c4039aa29e722363bc8cfdb38cd2ae3da27815807a941d8659494a5331a77636ac551bd494fe1f4c59b27cf1ecea5c1e161a0e54bfacfde644a7840435ee10e6374102d48f0c5f979b882fffd2c4234b455de9d8ba53cccbacf0769a9d5fb2d67f5fe7e2df93ae63175289aa654db4d843906448d83e48e8919c4101d9f0a46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6e79f1f3508823abd050bb1248f599f/b6e79f1f3508823abd050bb1248f599f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8c4039aa29e722363bc8cfdb38cd2ae3da27815807a941d8659494a5331a77636ac551bd494fe1f4c59b27cf1ecea5c1c2d4c3272ace1cf8c6bee37e41280f3d08f690a33e819692cd5115094aa8e4f11cff68fb4b073727502b5ac40c120bbffdc9d2dafdcfa39928d27fa7bc764381b491526b3f2d288925ce320d8ceeba7bebd6794ffc2d1915e03c48b3f15b8bb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6e79f1f3508823abd050bb1248f599f/b6e79f1f3508823abd050bb1248f599f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Man from Death",
+            "episodeId": "megalobox-603?ep=11641",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/15ddc640c93df465c4c2af84da225c8190c5642c707d6aa7fb1ae4270e2449b7be2d5f6c7743eaa5226d6628a78b95f5e248eaf9fbaa8e1fee4535e4a1cd6025678c8be9b2a95d40281d1a497390b5c8f6b2ac9b6cfb3b6b84397d8a4875271cb4bf836e33eadbcea6c040d36a4054689bd578c9003078dfce51612d22d91d8b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b8b311447d13da5bafaff3f4fc7b6b/f7b8b311447d13da5bafaff3f4fc7b6b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/15ddc640c93df465c4c2af84da225c8190c5642c707d6aa7fb1ae4270e2449b7be2d5f6c7743eaa5226d6628a78b95f587041537ded3cc06b7d681f1285964badb53ec29642d8ab747e7aefdaaaa4addf1a82780bb519ca5059f8d82bc2640bcb7a7eef3a7c7e633a33c7408abf37ead0c5cfaa24489f55b7e9b51ec8231f51b1e8e35ee4c8ce5fa52ce8ca81f8c8744/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b8b311447d13da5bafaff3f4fc7b6b/f7b8b311447d13da5bafaff3f4fc7b6b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Until the Last Dog Dies",
+            "episodeId": "megalobox-603?ep=11642",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/93973dbc8e959f9bf75eb20722dda9aca68d4892a072bc7ec83f67031a55b7aa197059997386e9c9c4be600d6e457ebd7047fa552d7375d62a6a1013807f575029ab50ee46be3f1fba7115a059185494658f40f57e0a9145f815fa6a5471312b2beab7093d64654557a33e7cacf299d74b7b5491b1394124bb584a56e3f67a57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68de91fc4cb6348d2d72d12b155775d0/68de91fc4cb6348d2d72d12b155775d0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/93973dbc8e959f9bf75eb20722dda9aca68d4892a072bc7ec83f67031a55b7aa197059997386e9c9c4be600d6e457ebde3cb719aaeb7e18ea27ff5ce1d7a24bc96814a8ac30dff82b76afaac10660c997be301b28e02aad49dcb3c0273d4e75e6ff777e8513b4a08c90de7d93788ddac8108f52e178940c26a4872cb27796ff16fdabcf3408c94b780aec6a4eaf60826/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/68de91fc4cb6348d2d72d12b155775d0/68de91fc4cb6348d2d72d12b155775d0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Road to Death",
+            "episodeId": "megalobox-603?ep=11643",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7198151133c9f37f146312bfc792e580d336040f2204d61f16b0f3bb72bd222e4b48b1db8ce574fe7ff64643c9ce5ceb4e716174aff32508aeb7179d0e7b68ebe1ea341eb0a509a44eb515dd6066a32bc4384a4cb43d482acd9a702ae3d59542834c839641a4dd0ad865fac885f81cc1ead53d9642b18ffadade372f0221b174/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a6f54d93535a87583e3c71626237109/6a6f54d93535a87583e3c71626237109.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7198151133c9f37f146312bfc792e580d336040f2204d61f16b0f3bb72bd222e4b48b1db8ce574fe7ff64643c9ce5cebeceec3fffc45db789471c2c49682d3f3c3e6390ba13e3dba87c5868333d181947f4d276ff6905b24e678bc8ce9ac18390859d28524dce9090014296204df8e910cb6b26e292e4ece3f4aaa390ab5c526ea0c8dcc63e69f1024fd3409c0dc9303/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a6f54d93535a87583e3c71626237109/6a6f54d93535a87583e3c71626237109.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Deadline of the Dream",
+            "episodeId": "megalobox-603?ep=11644",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/84480bfeab6b0f3f66d4aea19f8031ca62960c2f49f257982fea6b0915c2a37dcbeda71619e5279bec84c37e098653661f4894c3d1a22610d0c9b74d2cd2f3dd14edc6715b276ebe10b9cdb45249c8a2de35cacbddcdcc173b172f341a70bc206986a91259ca6d045920bb46595ede00cdb011c3b144830a6c0fdf8c199c8632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70a328f0955ce0b9913c1c7c70911e20/70a328f0955ce0b9913c1c7c70911e20.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/84480bfeab6b0f3f66d4aea19f8031ca62960c2f49f257982fea6b0915c2a37dcbeda71619e5279bec84c37e09865366ffcc59ad84d2ded59509d597c86339bb4030b3ce32af858eb635f630bfc41996c78af76dc0c7304c22f4551f02f1d2bb4bcc5710be092e74efd7def411be2d38ff9adb5fb71be27e25f9ae1f004a09b71d6d3f23f9f2a8e479a970079539e8e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/70a328f0955ce0b9913c1c7c70911e20/70a328f0955ce0b9913c1c7c70911e20.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Dead Flower Shall Never Bloom",
+            "episodeId": "megalobox-603?ep=11645",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/56cd87da16b40db358464240510872053829324ac3c3fecc64f6822c4a9de38ea52629ee405b576f2eea5e7280b097f87b2dd661e73ed0b8a6391c644f595cdf3d7de010f16ec4c19c5f0ccd31f921023c648b0e3d6974d45702cc515efde5473f41c09e6e0735ee04ff51e07c5501f78c7233ec3ec9e86cb31c602a47ce8bd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f0ed108b0a87c5285a95f8aa6ff3121/3f0ed108b0a87c5285a95f8aa6ff3121.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/56cd87da16b40db358464240510872053829324ac3c3fecc64f6822c4a9de38ea52629ee405b576f2eea5e7280b097f83a670147648d993b32c001e15017cd2fbfed68321bb31af9c4bf45e600d96e4917758929ceec77ea4b475c836a6f2fdb1b4ca896d8f1f1b4bb62840099561daf9fd47f57009cb81d7ec87c6d1c1f47624059bec88e1e5e7840e6f8b000c77c7a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f0ed108b0a87c5285a95f8aa6ff3121/3f0ed108b0a87c5285a95f8aa6ff3121.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Die Is Cast",
+            "episodeId": "megalobox-603?ep=11646",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d8f6c1ed166b3063026fd6593a0d7f96371092f7161d3a5803617c431357db32f418e726fe6f44dfa731cac47b6ff42edd51b504fd2aa639ca3f0d3fa280d8f48f572081a9fbe0fa7bb92e76f881fae2110fe7209d45b4b04ac3415e1c5cda5801997fd5f1fa713edabbcc1a2f854676216b71eb7be14dc7b3eb41b90dfb2f10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e87fe4164f8e422a48d4a86a6a36e40/2e87fe4164f8e422a48d4a86a6a36e40.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d8f6c1ed166b3063026fd6593a0d7f96371092f7161d3a5803617c431357db32f418e726fe6f44dfa731cac47b6ff42ec552374d7bb97b68b03ab41abf05e8c2720b35b14f25d870e5382629030cca9c796d3ed43848eb9a931dc4d9011c5fb01ccce598cdf570da46b351056c87667d2706056b3a73e370c4103b41d6396433a75250a0473eb715dd080e8fe46150f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e87fe4164f8e422a48d4a86a6a36e40/2e87fe4164f8e422a48d4a86a6a36e40.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Deadmarch",
+            "episodeId": "megalobox-603?ep=11647",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c3f0c36649adc4999f9b202b86dc34d0b9098f56509ca1ff2b5973bb406ee72ad7b6a29ac1e437d68d8c4a06f3e53ab7167aac1273c34ce9158882d081c080e543f48d2cbe4d179aed404cdbf4c8799e8e79bfd2883a2017bf97c9abd7a06a26c10d157a0bc68fcb28f2f497dfe35df617b48dd22b64b4dd47c0bbdbb09f7378/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e3bf270d40067c7ce88745d20e511ab/1e3bf270d40067c7ce88745d20e511ab.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c3f0c36649adc4999f9b202b86dc34d0b9098f56509ca1ff2b5973bb406ee72ad7b6a29ac1e437d68d8c4a06f3e53ab769db537fbced4cc11196d1fadae346143485b376afd3cb0d2f07b6392b4193ccde67e7f0452be9d1e32bab603517b353b938be37a546b4a0b2f015a1c761f379a0b49c53eb1053962dd8ac2fe377263b84da3b10990b04d13955ff2255cde05c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1e3bf270d40067c7ce88745d20e511ab/1e3bf270d40067c7ce88745d20e511ab.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Leap Over the Edge of Death",
+            "episodeId": "megalobox-603?ep=11648",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/eb3d4fc21342a4bed45f01723f207cde2304818ef9afc656e9aed60e3b7411a69badad5daf1c597c69f07c16478e46d53e9ad3307c38b230a103361dcaf765d5bdefce00c5c770ba2b5fcc1dd4981706b62a0029fffe6886c0c29370597d7b2112d142efcd1df00af683db6223a67cbf741db5b4e15f5e8f865738ea7d1ba963/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78ef3de04b3a549110e96c42fa8845a7/78ef3de04b3a549110e96c42fa8845a7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/eb3d4fc21342a4bed45f01723f207cde2304818ef9afc656e9aed60e3b7411a69badad5daf1c597c69f07c16478e46d549ae72a70e35e905597d9a79530d67fe11af9568df0237e43cbb8b4d57e67d98df94fba9573b5a57a08dbf1de364ebdb8c74fbdaf6aeabd0708c7629d998b95eff4729b37aafa51ce21e4b18ba4ffbf533b347c6a9c3e862703c2daabc57b91d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78ef3de04b3a549110e96c42fa8845a7/78ef3de04b3a549110e96c42fa8845a7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Born to Die",
+            "episodeId": "megalobox-603?ep=11649",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/669ebfd923ca65a4b3137f274281f35415d9e1d2934341367e6efc1d429064b5b6203a9d808fcf61b5f2ba1b1485977bbce29deb07ef5341d720fd4fa0df53da636c2f00139d16dfd59ae34f4642f758ae80718df0f8ed823a809a024c2f1c462fb58660e7fe719cbdc4b8885f810ae738773e870ec7ce607f7d3320a6cf492a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03b101eba6a6a54efdcde7718028b092/03b101eba6a6a54efdcde7718028b092.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/669ebfd923ca65a4b3137f274281f35415d9e1d2934341367e6efc1d429064b5b6203a9d808fcf61b5f2ba1b1485977b58e5322dca9e2d10889fb7863929faf5ea6c9b419c33ba0ecc3bb7df94ea78abd4e3de93fbda00d10acecf912da94a6c5d6cd93e88eaea566b25684b44091df5a7df418ef82382a4a727e5318f1e45198c4dffed449e95dccac45ca347d6b0e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03b101eba6a6a54efdcde7718028b092/03b101eba6a6a54efdcde7718028b092.vtt"
+                }
+            ]
+        }
+    ]
+}

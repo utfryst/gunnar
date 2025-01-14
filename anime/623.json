@@ -1,0 +1,785 @@
+{
+    "info": {
+        "id": "macross-623",
+        "anilistId": 1088,
+        "malId": 1088,
+        "name": "Macross",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a429000fbc9c2f6ec7bb5e0b7c130867.jpg",
+        "description": "After a mysterious spaceship crashes into Earth, humanity realizes that they are not alone. Fearing a potential threat from space, the world pushes aside their nationalism, conflicting interests, and cultural differences, unifying under the banner of the United Nations. The newly formed UN forces decide to repurpose the alien spacecraft, naming it SDF-1 Macross. Unfortunately, on the day of its maiden voyage, a fleet of spaceships belonging to a race of aliens known as the Zentradi descend upon Earth, and the SDF-1 Macross, acting of its own accord, shoots down the incoming squadron, sparking an intergalactic war.\n\nIn an attempt to escape, the Macross tries to launch itself into the Moon's orbit, but the ship—as well as the city it was in—is teleported to the far reaches of space. Caught up in this mess are Hikaru Ichijou, a free-spirited acrobatic pilot, and Minmay Lynn, an aspiring singer. These two, alongside Macross' crew, experience an epic journey rife with grief and drama, coming face-to-face with the cruelties of war along the way.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 36,
+                "dub": 36
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "misa-hayase-2835",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2e98d169d703297644658f076daacd6.jpg",
+                    "name": "Hayase, Misa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mika-doi-2403",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d5376f93debc407b56f6ae578f9016d0.jpg",
+                    "name": "Doi, Mika",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hikaru-ichijou-4152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd6549aaa4127e1367dd30c87b95ebdc.jpg",
+                    "name": "Ichijou, Hikaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "vic-mignogna-61",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72fa3abf710845d7006aa79e11a001fa.jpg",
+                    "name": "Mignogna, Vic",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "minmay-lynn-2929",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6097ee70a173bc065773ca2021a6ab53.jpg",
+                    "name": "Lynn, Minmay",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rebecca-forstadt-3644",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b54e15952943faac6e7fc878300c37f.jpg",
+                    "name": "Forstadt, Rebecca",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "golg-boddole-zer-91661",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ddd968b162af143303c531e6f88b64d.jpg",
+                    "name": "Boddole Zer, Golg",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "osamu-ichikawa-9790",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dd9a0339dfccd55eac669caa6a442ad.jpg",
+                    "name": "Ichikawa, Osamu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "conda-bromco-85187",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a5bf18f53a2b28a3e78f99b30562692f.jpg",
+                    "name": "Bromco, Conda",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kousuke-meguro-6479",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b7596747f522e414d4fd2f25ebab11aa.jpg",
+                    "name": "Meguro, Kousuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "dagao-59629",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bdedaaa18ee67947fbfc06f162b83cf5.jpg",
+                    "name": "Dagao",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryuuji-nakagi-13767",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f0a44eafdbe21e0795ad5ee75997d9ab.jpg",
+                    "name": "Nakagi, Ryuuji",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "超時空要塞マクロス",
+        "synonyms": "Choujikuu Yousai Macross, Cho Jiku Yosai Macross, Super Dimension Fortress Macross, SDF Macross, Robotech (U.S.)",
+        "aired": "Oct 3, 1982 to Jun 26, 1983",
+        "premiered": "Fall 1982",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "7.94",
+        "genres": [
+            "Action",
+            "Mecha",
+            "Music",
+            "Romance",
+            "Sci-Fi",
+            "Space",
+            "Military"
+        ],
+        "studios": "Tatsunoko Production",
+        "producers": [
+            "Artland",
+            "Mainichi Broadcasting System",
+            "Studio Nue",
+            "Anime Friend",
+            "Tatsunoko Production",
+            "ADV Films",
+            "AnimEigo"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Booby Trap",
+            "episodeId": "macross-623?ep=11926",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/73a059cb9e69cc2b4da4120bdaa9e79e9b5cfacac4dee533d13f0d9086f4155f69bb04a76547aa0a3605c2fd92c835d85458edcf6e9abc92766339b6ba4f90cb6cb4bbcf80cc65051f71acfa2ab6f773c0eef9a2d9adaa3917c3badd1150b53d33693cd8207365729d8b3bdf7b0b7061adb011a68a99f4c7958edb0394210fb0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6deaaacd7d2a4b4510ddb035812be7ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/73a059cb9e69cc2b4da4120bdaa9e79e9b5cfacac4dee533d13f0d9086f4155f69bb04a76547aa0a3605c2fd92c835d85aed8e3370e80db76da909aebeb971e023bc7416e71fcad1dbbb77f8c3d925ed6ec522b13cbe3aac93d53df281bf03a612c0b8d93603171faae2c704399f43258ed41f60f0a2a146272c278f7db9b51db4bfd8193db3f64aefcdb1c0f788dcdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6deaaacd7d2a4b4510ddb035812be7ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Countdown",
+            "episodeId": "macross-623?ep=11927",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5cfac1d4e1486c046ca62ed93f495885d9af2178399685654b5806b59c5a256c70b58f42dd4c5f60f8ffa6d389f5e71f5dcffc6629e78c294d55393c0a9ae4ad673dc93de7ef9876914445024994e6dfc4b872c13b126347d7531c5a9b83a4aab2d316a39b3461e75135514c56688866bd82c2586b977d233d6d5abd2dcd049f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/118adf96fed53afa6053127d7f3f0a3b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5cfac1d4e1486c046ca62ed93f495885d9af2178399685654b5806b59c5a256c70b58f42dd4c5f60f8ffa6d389f5e71f9be86ef0efcd2bf5146e6384e424ed83081dfd33d42c5da2c1d2fa9bd0cd2ef1f8e26b963679ac700fb59359ab5bdccc9db7b1ee75ab1a02dae8a477d3a1e1383bfe940023c9a57a4fa1b7ac2989e6a4289b14b16469925a9fc97d325d900d0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/118adf96fed53afa6053127d7f3f0a3b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Space Fold",
+            "episodeId": "macross-623?ep=11928",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/98869b67c66fe217cd5be60d5c74b4ed8d92560ff1b50e681e815758c08ae8c87aa365cbb85bce7bce7198d1a6eeebec8a1a95fe772562303a73ade4c30d40d28649862bfc9ce3514bef02386b5de6aec8722cc2a7ec52f923e60d9078ff6ee973357c0dd1648bf78486f818f37c7c85d1f57b109eca735edb103be914e807d2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c79164f56930496cacc011fdd17e0bf8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/98869b67c66fe217cd5be60d5c74b4ed8d92560ff1b50e681e815758c08ae8c87aa365cbb85bce7bce7198d1a6eeebeccce010f8e0bd98400a38c26e23b9c0d087529752f472a471d3fca12abd21d1cbd61268fc8763a5ccb6688a61e83dc42936576f1aac67f0ae4700063ebbc8845b3d7a05ef8035a4c352fb1f9d79cc183443601d75fe9b3226ae8f149a044e93d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c79164f56930496cacc011fdd17e0bf8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lynn Minmay",
+            "episodeId": "macross-623?ep=11929",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3b469da9fc628e51e803740c8a7c0a9d48eae3a431c6e2e7c92f45359385b7247a8b4272eed84d84dfbfc0f8f5c8291d43d43245d5b10eea4f7ab58fc9dcce63cf0bb7976714521dd4b89f18731e0623e725c842b8b5f3b190d5ecae50b6d3434211dc401b7c717c4d0bfaad70544d5ffdacc4f6c3116d610825a3bbd7ceace4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd05e115ed23ed9c9dc3a0ed83f99354/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3b469da9fc628e51e803740c8a7c0a9d48eae3a431c6e2e7c92f45359385b7247a8b4272eed84d84dfbfc0f8f5c8291d9f83201b1021f6aed100d48c298697656f9f7c94fccf063ca90baaa169eb9dd407cf556db83f8ad3e1dfad3555e92fb98cd4540deade3c9bf3d42683ee3519832c9fde623b4c501e078b29ca251310f997769339726f29a962f0682fe727b1fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd05e115ed23ed9c9dc3a0ed83f99354/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Transformation",
+            "episodeId": "macross-623?ep=11930",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/08ac85cab2ba545ba0853cb5d48b0fcf7b8b92bf16201fbba3cf7e57a41607ee46355a04c3c7f9cf536a17e619012c6b8b4d6a121007494a8b9e3e0c7693fb94adf900d4a2b783d43f3cbb974b33f7bc5fef755e59abe8fa317f6566703dd19ed8292965f130cef554f9df1924abbcf4235b912cb64ce694384dcd61661d30a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d830670a2ed00fc4764d589b11cd77b4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/08ac85cab2ba545ba0853cb5d48b0fcf7b8b92bf16201fbba3cf7e57a41607ee46355a04c3c7f9cf536a17e619012c6bbc20b240d94d8d13453dd4514252c62281c2d71b5fa8f4d7620c50e0bf4671ddd8260749b680bf03cbc496d31c960ad6e4b32a9f05fa5efd14be4bee59038a9f05e9d17eb7c08c031df9f678619649844305a695b18b4a4c301bf5062e711953/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d830670a2ed00fc4764d589b11cd77b4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Daedalus Attack",
+            "episodeId": "macross-623?ep=11931",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/cebac33a68d78aae4a9f4cbf55ed0493abc69992bb5d50d83956cf05e6358389d3ee8dc14d140d0401574c7d347e17cc901e0f9a902a014418f731f1dffd09ea14577d4df2fb365ca6384da44e4879796ddc6d6aea222d5ef21291139dedb0ae7db57c32b882952ac8b05f9c20a335742bd1c1a9a656ef6714290a4ff1e8d129/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65ddd8d917b0e7c44014686c7aa5c422/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cebac33a68d78aae4a9f4cbf55ed0493abc69992bb5d50d83956cf05e6358389d3ee8dc14d140d0401574c7d347e17cc4d20dec614ef7edc3d72b7ffd20b89bfd3741e7ec86b696c49cba4d8dc389438b449bedc79bae9998a8cdf23a2958913ef140dc780319207bffcc37f17dfc27414c3e5236261679ed6a358d2171d3a5e1c8f9a298096c511b6491e38f21e56c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65ddd8d917b0e7c44014686c7aa5c422/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bye-Bye Mars",
+            "episodeId": "macross-623?ep=11932",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/56709284402f33945da551d8578ed84b4d6c1f25e4a60336a6955c2485af2d75e670d1ac4c7e9848975155aa4bb43d9d3d6b23d9370fb1c630142015f7facddda23597ff1b0b3dd860f0c95851b708bdb0b604f505c0cd438d578cd8d9b879158b07034decfdfca0d050a6f0008c57f69d39ecf608c9b3262002641488e29696/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b54a949ad97af1c3d58e329f0e15474f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/56709284402f33945da551d8578ed84b4d6c1f25e4a60336a6955c2485af2d75e670d1ac4c7e9848975155aa4bb43d9ddaefd0a1689e79a165ce2df1fb86975e4fb2328e45eadf09871651ec1eba0fe38775dd042b5d1594b1353c6b6be844249ed1c0fce6a692b43f68191d67201f230dc718273ff2355f64a13aeb359e91a83c01d3fbf0e6ca67d53da4a2cd2d2af6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b54a949ad97af1c3d58e329f0e15474f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Longest Birthday",
+            "episodeId": "macross-623?ep=11933",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/20abc8e1876cca7987ee4538cad7ca1702f2fe9e2ae122422aee5f97c0ccf4d48fa611c36fadcf5064c5cce01537217965eb4b8ffb0f8ffc94d40243d7a47f9b904a9ebcc3491de9bbe45d20071f1ced68b9ca047fac7b20ff088b84bf5485b2565cef513accc999bcf3475a7502f49dedc8b0a12ced0e51328d7a4268ae0cb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afb7fcafb94af0ca795faeda2c1afb2e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/20abc8e1876cca7987ee4538cad7ca1702f2fe9e2ae122422aee5f97c0ccf4d48fa611c36fadcf5064c5cce0153721796b6c591f6ad4cb0b762387275c83e1d6403b6e4f9eb6fa664307586bcd60f0c4cc9005d3306c05808dc508bce076cebcc1f4c002c2a621a8b29b8cf44ac2405981faaff4dc1ee0062563ec9d6d206a459852072e975e7d858205016b4d6522e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/afb7fcafb94af0ca795faeda2c1afb2e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Miss Macross",
+            "episodeId": "macross-623?ep=11934",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a8cd668bface236d1956f4b9e605e74f5b10cde005710364ba70f613a45a4101dc5037ac987a41e08f3f54f1335a2b75a8a7cbe09e38921770010ae0ff80da31e3703ac1637a3488ffabb093fcbfc4024f55e8d7064825b32ae08b71cd38573245924f8354b1bec8b973005968b02df627d70286d8b8fc8cf31f2c7d997de01b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7edd1c669e957eba7697df0f03dcb610/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a8cd668bface236d1956f4b9e605e74f5b10cde005710364ba70f613a45a4101dc5037ac987a41e08f3f54f1335a2b75b78e8d02d258bcf233743e65cc3b1201fc77ca5fe526cc8c74b37a3e874790af71836bcce33e1c93cd1f7e2d1d4956ab0664b09a05cc1c362539441fc076957ae68b21bbb61efdf6b0443c230b81c5ebf57b1cfcb44596decf4872347fceb9b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7edd1c669e957eba7697df0f03dcb610/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blind Game",
+            "episodeId": "macross-623?ep=11935",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0e755a0b6d12dadd26a7b2e0404d18318b154aaee4aaf84f30bea12cb2f8253da7675df2a8804ff4653db3c1c4137f104dc04ed7b3ff83eb087b10ee5836b2f57a632f5a288c5897062de472132861021c769c2e61709bbaa78ba47fd22b2149ec65a189e7d1b8a6db297d4686c9cd3d4961108381038e6da01338a89efb639d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1faf23435086213135ca41ff96165b61/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0e755a0b6d12dadd26a7b2e0404d18318b154aaee4aaf84f30bea12cb2f8253da7675df2a8804ff4653db3c1c4137f108127810bfda5e6511fe1c004b3cfb104a6b9e4faafd381902d30d2df23fd095a73a6f695ee7b89fd91fe628e94be732c0d9e531c0cc059f4e094f39ccf007019c9ec10f988a2fd4db4f9aac0cedd1b2f7d4e60bda293486594311cc807fa40f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1faf23435086213135ca41ff96165b61/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First Contact",
+            "episodeId": "macross-623?ep=11936",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/79588bfa07d72bbc7d4cca4013011e75cc695515d96af7e4c2e2a70d13f06c45b2e7b97e79e2ce223a9a542bae06890befcc58ac2a45e089e94c655005ae293e6c326c69e227fac68a3e81dff7a631ab2835017ee087d5fb9d69ec214a113928b80dfdec269f604360126ce4d27b807e6d81e6949256ccd925c1e1d9b0b646cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f06cf7176225102e9a16d86ea536e82c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/79588bfa07d72bbc7d4cca4013011e75cc695515d96af7e4c2e2a70d13f06c45b2e7b97e79e2ce223a9a542bae06890b3f9ef75083bbe15e55b0aa3600fc1ec54280f540c57b81a5bf464711767fdb2148616180511d1f9b5e6c3305bf2707e956e0e651d206dbaa451bd5a7b043385ea5acb138540846497bd9199fdf61ba2061f1282389fe2a2d62260000be38baa9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f06cf7176225102e9a16d86ea536e82c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Big Escape",
+            "episodeId": "macross-623?ep=11937",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/030b429c2d3c342f968fb4cd591e0c9f4febf9102ca0c856a91c30f84723d0041788a83bd1999a85662c8a57c554b0f8491a6e3abccbbcd46d4896301b09ea1bf3200dede85d7e0ed1ee87266e7df8c17c18cd3cd6e15bea54753522d8cc74724296645ea2ca5839cf286483a4113a026aaaa28b997f49aee5965927f8f645f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc7463b839cf3b1df0ac5ceef4bad66c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/030b429c2d3c342f968fb4cd591e0c9f4febf9102ca0c856a91c30f84723d0041788a83bd1999a85662c8a57c554b0f8093be63a51686ab6b3717cc4a3f79be15b9e49bbe96185d33aac20d9205cd9625e4fa12bdb5b84c03459c63015f7f90e59bb56f5fa113191f659d9e56566514b9c42907f42be20c9975f3f03dd3dabd4c720067d935e929e620d3756a443f677/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc7463b839cf3b1df0ac5ceef4bad66c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Blue Wind",
+            "episodeId": "macross-623?ep=11938",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/853744bcc5bbb056e2af0207b62d6d74fedce8baeeb9e8eff331f10575220a85f9dc5f8b7d4ea967254f076ec5897ed782576935ea55221f77032089fce68ba747d9a7704d7e9ae519d8d9ae4ced68b1d077019ee19571cbb56c0c9ded4450d6897d92d6ba45e28465995b120f8b720cb4c2ebd1ea740d7f2805363dddf19dca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/981a9b03c68b1054349159b098ea28a4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/853744bcc5bbb056e2af0207b62d6d74fedce8baeeb9e8eff331f10575220a85f9dc5f8b7d4ea967254f076ec5897ed747b7dc7213c6e26d324016dc2c4d1593a2694fdb764e003becd9931b27a12d759601cd93c737d3b9b39837d854ea3cafff44130b0b241080a06c672fa4b92acafe09793019a05966693702f3daa27f1ee223a941cea9f15b07250f44ee4fa987/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/981a9b03c68b1054349159b098ea28a4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Global Report",
+            "episodeId": "macross-623?ep=11939",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1056b4cb1d0e20e48ab5fd299021ed0257254917cb40ee3921c2e3e9c8ba5184c0c024c45fd05ed8c39bf18c534ecd3d2e6e913acd87ab904410f2c94ed62d91ff4a50ee9f01d53f5f17214e0df4826ed44733c4afdd050129bd87874ab5d30b20f16b0d8161e283044f040baae8a42139fab043387eca526878a412231c86cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc66fe264ba02bb2ae660563e5a06a12/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1056b4cb1d0e20e48ab5fd299021ed0257254917cb40ee3921c2e3e9c8ba5184c0c024c45fd05ed8c39bf18c534ecd3d4b7ad3659fb35c17607579d6a0366e97424d86a99a1a6e38d8155f1e3e959161e43344f62e6684c0a4cd188ac76d0e08ac66625bee43ac13a09a1540bb0db2740529caadc2e04cb8d64ca0f8d477e99725f6b4de92f7838197e7244197edba5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc66fe264ba02bb2ae660563e5a06a12/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Chinatown",
+            "episodeId": "macross-623?ep=11940",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4b6308dc4541d0309f568053a9e1e6087ecb2bbe009e6b49058a56a78d08c7dac5d55aec03e4336aad569ea312ae887f0c9483ed3d35f12e8ae9646420f4dafc85916b63b203a89e0bf3e0dec03004fbf9a6a69e361ed6cfc98084e14f428a770d504d49906f55d813b9369b5e34f029752822d131cbccf85587812065f73785/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26c4a279bc07aeeab81cc96bf5b7fb38/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4b6308dc4541d0309f568053a9e1e6087ecb2bbe009e6b49058a56a78d08c7dac5d55aec03e4336aad569ea312ae887f72c0c7c4a173294ef931c42278118521cb00771779c52c4133c3ffe49bd9054f16a07871a532c570449a9b2f558b04b48b210ce3caa9b17bd0ccf1013a49c9dc27b444a13bd1c3550b26993ca0a36e0d29e3e4a9033774f40a4c01d9472e2a0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/26c4a279bc07aeeab81cc96bf5b7fb38/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Kung Fu Dandy",
+            "episodeId": "macross-623?ep=11941",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/459050b72ef2f65e6e1851e704f8dd1a80a4436c2d8e3fca90c8b7d8972b1e05841a3fd5a127731b191bb3568aff3c4ee906467c8ba80d310877ceb1e44f734e8aa07657518c4584fcf260d920f3b58b2e148e10fd966ec3a2f3625664fde4ec2a21282df8e5639fe13b44375bc91a231fde514dfff51863bbb5769d2de5a839/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3862390e8aa25a9649e26e9ad602da0e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/459050b72ef2f65e6e1851e704f8dd1a80a4436c2d8e3fca90c8b7d8972b1e05841a3fd5a127731b191bb3568aff3c4edb9a9265a91556789388054b6968103552cdd26bc4fc416077a7fb784056bfa22a518988cc2e3aa158e25202f8358f9b0f842d792179031579f4ded59b3875330999ae210433f7524cf7850045756475826379ba4959a54f88e769445dfe6542/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3862390e8aa25a9649e26e9ad602da0e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Phantasm",
+            "episodeId": "macross-623?ep=11942",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4ee6c08df686f8fa3868a1b84cd27aae194ef9aac76479070d5ce4adfa88a9b40aef951ce459aa5641c8378b9e661e4659fb7324af7b381c009601c02853981506d04b1775cab4c1108ef867eb332886634d10ab0c39642bbebe5cdd310da8c51e102fff7d972c2d45a910d8a7f94167f248c2b5699885ddcd340c3306046da3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0085534743706bf6e2fa08e076addef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4ee6c08df686f8fa3868a1b84cd27aae194ef9aac76479070d5ce4adfa88a9b40aef951ce459aa5641c8378b9e661e466c025aba691a4e2cf964eb28b2f37fa97e514438056fab4b1feff081b63d1b09fd9201cf5075cceade440d70922817fe4e1903a1ef8da3dba1704e917bf23e0b10a509686f8eec03eb853fcd9f7a8e8056467adf117d8ad5580dae222f39252a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0085534743706bf6e2fa08e076addef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Pineapple Salad",
+            "episodeId": "macross-623?ep=11943",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7647fb6529575d493b1a6782547317b5f55b0fb4e52d637e1d7c47749a193498868694585fa06e9ddd994b96099bf5f02220957abc0f94a5352d3b015c6180b87f0ae0cf2be61fce071e560e94aeeb43bdf6be0b57593778c51cfa0804c1129dfe15ad0304d6e9446a11c59b2c1551478266f5c529498d66a69afd7d6a29e5a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/728e1162fdeace7e123fdce2e650ec29/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7647fb6529575d493b1a6782547317b5f55b0fb4e52d637e1d7c47749a193498868694585fa06e9ddd994b96099bf5f045240bfe4c6074c8086cd4ec6836a47373c62415980605ba99f29c2ffc03ada6c674ee1d68683141b5e1faf3d22ad16feb418ce19ffe63528c5f84816c969796b6bf5eec044e79a58b4055647a8fcb7b4a56cca80f2f221519f17cb21fefc717/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/728e1162fdeace7e123fdce2e650ec29/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Burst Point",
+            "episodeId": "macross-623?ep=11944",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1ad8d4efd0b9330e7aad4cc95953be783e07ee82ccf75d56e5a8f860575a5c2823eabb4e8dc728b8ec43cf2ff1e736606d170d240e3d313b746af64cff2b1affaad62ab34406188400061019a880610df81bb93ca2a79f74ff5b8f5e9014430d4c4fbce37dfc811eabe73e9e3beeedc6a0531eba28aa9d7138b0a96f8a67e7f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5537395a906c028620d17d4f9eb92eb2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1ad8d4efd0b9330e7aad4cc95953be783e07ee82ccf75d56e5a8f860575a5c2823eabb4e8dc728b8ec43cf2ff1e73660c4aac972f0cacdd698ac1dd90722a335b93f3e55be7d6294c6a2e04c19fee2817d8d948d80dbf11ea51fa35c68f0b779cf3603dd4e5c62d3350278468653dec27c19fe562a3d1615689e148d94aeb3d43637b8bf382e31f623af09b5579a8a93/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5537395a906c028620d17d4f9eb92eb2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Paradise Lost",
+            "episodeId": "macross-623?ep=11945",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/24bcc150df485b167b38aa8fe8be3c7986e5d62c11efeae448642ed8ea35a1dfd614e13399a6f19e2d53e6ff0671793768fc656747ac605143346c5c2c21e5bb32956c9cfc629b45b25b41b5660ed70a5c69037777928099b8ea18c6b0eb4883435853fca27736a66582f48eba7aa11d2e4e3eff7101135cef9ef4a24cc5b2f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa1fb7d30b2b8abbd4a028d3c9db6844/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/24bcc150df485b167b38aa8fe8be3c7986e5d62c11efeae448642ed8ea35a1dfd614e13399a6f19e2d53e6ff06717937d4d07a83a82ddd2fbb89a07b3f05433ecae3e3065999de971a95bc9f6f6b18068ab83af854b1d6ab2f58164d6fedf4e4a44da679f4345d4619d7c14faed32599d7ab0d03b93961eb545af0f7beb9fb275a2536428c178db83911bce74bcf4049/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa1fb7d30b2b8abbd4a028d3c9db6844/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Micro Cosmos",
+            "episodeId": "macross-623?ep=11946",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c707499f8f0369075ea68f00ec22b0badad99ed2cf0617b1adce6a385a8a4ac1ace249e8c60737bb275fa3c292efa8abe8311afe3ad3c30c76dc2f21d1d44c8bce6d5518242006ca32d930d88ae3ab3984325e7045a600467fc40c97cd9dd3f41436d46f193b6484b1abda9faef8a4b512436cf53851bdac630ee25018ad5f42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79fe43a5d28e245fb0a1e51d1f8ffa7f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c707499f8f0369075ea68f00ec22b0badad99ed2cf0617b1adce6a385a8a4ac1ace249e8c60737bb275fa3c292efa8ab9bd7fd235560ccd47ff63f21a4a99687f61dae84451857c478db4b7d678bbebcf079adec7cc3412f9ed923d24608121134b44c785ee5e7d6dee999698352e63147411dab67adce3d108e1d7dfe5510e959dd43b449d342f64811ff84e85ce019/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79fe43a5d28e245fb0a1e51d1f8ffa7f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Concert",
+            "episodeId": "macross-623?ep=11947",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c22957e54aecdc3adb8725fbf9c04edd58b67937ad2b3a1532e54e2fd8abd5af5f50cd76a6094b7ca6ffdf194dbffdc5898c0e97a1ebd08aad3bcacdf94679298000e93f7de26fe1bf5030f137b7aacaa65db57a4993b730d8b7b15a79343d8d5211333f7461bf8a550c94524ed762681fa698a5a66f8818d496ccd320ab77f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dcf136618c95309b821d2c3c88492d8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c22957e54aecdc3adb8725fbf9c04edd58b67937ad2b3a1532e54e2fd8abd5af5f50cd76a6094b7ca6ffdf194dbffdc5ff4349c23bcdce3e20b6b8336dd5babb9a523ac817f1456888f40dc8b5d5ea353b18b43a648741d26110a8a19c23a7a976f2eef09db72b56a7170bdc760040c3524afe8710ad7fbf733c1c0163ead38076e1068944dda2bbc397515294fafd94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9dcf136618c95309b821d2c3c88492d8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Drop Out",
+            "episodeId": "macross-623?ep=11948",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d78b7a4c90b976916d054b72d164ff37e9b5ec4b86e02ed05d3d2d24866e4322af19cd669fe85fa3fcb6fd0cf05499f121923c4d45f397161d8f36a52781133a3b93a08d0da828e85a804979dc25685164db597b63f4343a95b73e607caac212c6ebccc00b0ef530574a30830460d2eac95bf3c53af90e91d71eba9b1d1b4d22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d0a872d7a91dd7e9e35577440aa171d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d78b7a4c90b976916d054b72d164ff37e9b5ec4b86e02ed05d3d2d24866e4322af19cd669fe85fa3fcb6fd0cf05499f1cc3122e8cb87899108aa77e9146dd0e04a48aa87e4787a2d2c40a6bd1062768f219801ec5f8e0a92ad3707d2de9ae779e256ecee7a350c879aa82a926cf7a96cf3fad7dc0ffcdbcfcf8b65248ac97cae2a8553c47888ba5a3e977bd4a28dfa87/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6d0a872d7a91dd7e9e35577440aa171d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Good-Bye Girl",
+            "episodeId": "macross-623?ep=11949",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/5135cac00ae5775fef1c23786b5151c575822de46371fca745de4a0b3f37f23447f1b3f07ad11c1e626801621598c27727366fda12b38f5d6c972fb3a25b3cc2bc2457e1d83608973c9931d8769d10726440802434f2860738277e61c345bb6ea0f83671ac2905d1c0e3440b28e3e3da5b122ebce3ecb7081091eb4452a28e0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d88fa431e2fce7d8edf5117ed731f866/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5135cac00ae5775fef1c23786b5151c575822de46371fca745de4a0b3f37f23447f1b3f07ad11c1e626801621598c277c650b4574e078c4b90489607cb566f1028c56cf3666f867e308cfe3ae0c5e3f7fc8829afe8e58efc6a9c7c0498b98e24c702b483c014668cad8daed87716839333e6d3f1109af3b0d23c49f5fced76d213934a7137342e1a95f4e9595cfccf83/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d88fa431e2fce7d8edf5117ed731f866/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Road",
+            "episodeId": "macross-623?ep=11950",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/33ee6a8057512705bcc7978155de3d163d1e52e259eefaaf8648d7367bfae2c1b98c5d78969d46b27abc68ace3468b37a2cff315376fd9c452f3fdd45d678a98b99eb7954838d736fa058e13dfd294e1a56e6a6efc91f20bb22bdec0608bcb4c7adce9a25d98b31d8f504b39d0210774d3e1cc191efb009c135d6adeda54ee54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ba0a0ae0c79106f950ed3d81bdd9163/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/33ee6a8057512705bcc7978155de3d163d1e52e259eefaaf8648d7367bfae2c1b98c5d78969d46b27abc68ace3468b37b702ea55174f96304a31d3270a9bbdca868065b5f047410622778bd4ace0343be4609e2f45b78c33d2726fb9b534f45a12c78f6653b74237764bbe911530a5daad8351c0acfc7322526c5049a0a83cf5dcccdd194b36074fb58b7dec157f07a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5ba0a0ae0c79106f950ed3d81bdd9163/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Messenger",
+            "episodeId": "macross-623?ep=11951",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/ab90bb9a6b2b75e80b5e446e85c7c8b3b9ace47a34ab2912d26190c3f9f0184bde9d00d3d77a37b37e0cb51f3ede0e527cbce28690af39e4fbcddcef7e96c838c316705f8ebe8341ea8d8d4609e251c3a382059f14d410d5b0c93d4e5c3ffed95945d65d3f3e45ca83e0be435ba4baa8f65740368114b716d6153950e9ab9d99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0704e1046a72d950e5ee86c964517c4c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ab90bb9a6b2b75e80b5e446e85c7c8b3b9ace47a34ab2912d26190c3f9f0184bde9d00d3d77a37b37e0cb51f3ede0e5299a87a78acdfa5afba35e43b459b6ec9758d9e131d23609eac29322c6fb9ea3e8cec45c29cb31fb7f7844d4421bd43e8b8c65a1abab8299ebf6077d496ad1493e26834b7b3598d5f0c76a961cf651257717cdae704d3994eb81ab152eeb907e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0704e1046a72d950e5ee86c964517c4c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love Flows By",
+            "episodeId": "macross-623?ep=11952",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8d3711285683fd05b8505d1244748c83623ed6574189c1be9c012b2628266bb059594e13f49cf25e244e810c95c56431cd560b755c993d8fde21e9e9a18f2b2da94236553becd242412fd07026ff75b53283f4948f49669272c0fb7ce43a46405a842b93fe4bcaffddea5aba963eff79de534e96885ab219f67488c6860fb12a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0be4d8abd9ed137d948a0b9fd3123ca8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8d3711285683fd05b8505d1244748c83623ed6574189c1be9c012b2628266bb059594e13f49cf25e244e810c95c56431f77d6b9377733af91ef3b1f29e244442ebbed15fe41c39dfeeae67af1c4ce12d5aadc1aa3fa9f38a0b1b58115e89afd07d38e4b768e85555a92d8aeca9e0f6344a6500e7b6905651cdf238bf1d7a75410da56a60d7228e323b934e14f6423bf3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0be4d8abd9ed137d948a0b9fd3123ca8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "My Album",
+            "episodeId": "macross-623?ep=11953",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c0e5743fa7a83443c3d8335316082f496cca733548dff5bec1ad6125b97b453fd4a7ede8ac3eba7e9d6723023ab68eeeb7df9c2f9659f581bfb565cca253ac2efcff897028873f2185136217df32c5b6e20561402232de87857957ecbfbdc8c732b099b14eeea295d45376db35e6c5d0d419f8824b3da5d347cfc7f90ed5f09b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c287da9dda42acea9b45d12fa51cd878/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c0e5743fa7a83443c3d8335316082f496cca733548dff5bec1ad6125b97b453fd4a7ede8ac3eba7e9d6723023ab68eee7602ef5ad2a4ee06b6f195e5beb936df90341a4c3b644c53347558805bd727a57eefac1d3bd3901772d3bfadc0c844612707e49207ee64f3e941592445893deafd2745fb58228640476b5cd0c88a2d2103413b954cb7b00214f3ad95e5634388/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c287da9dda42acea9b45d12fa51cd878/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lonely Song",
+            "episodeId": "macross-623?ep=11954",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/923bed9db3538a71bc03392cdf6513040e274e7f68850b169f6f6cf56bd6432eee650c531ce769e136ad5504c3cdcf511a77324ce54bc4ee5085a0d4e07a41f5ae29c2346505bfbc258a3edc56ae153d1c0e5118d29e27b66d713ab6195af087875a91c658ccae02b1d09f3a1837e5932a9cc3205d66a16668113e03fcd2e99e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a9398cab6155cd26052820ca3c12d3a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/923bed9db3538a71bc03392cdf6513040e274e7f68850b169f6f6cf56bd6432eee650c531ce769e136ad5504c3cdcf5162abed5bd414363c7521585787248d7a41b1a9ca5663c6e508462459c38de7790a4fe33e07411cac578a7adc41324e12a7a0925f5d89343e3d1014acedd709a7520e0b950a77d433ec47c092471d23cd120c283d5e35570d84095b588b4f6755/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a9398cab6155cd26052820ca3c12d3a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Viva Maria",
+            "episodeId": "macross-623?ep=11955",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3605c532c6cbf8d43603ac8d87dea0709b67183bf178a241b38bf4bd1347ca8077266b6c003074b14945eb38a96f35a54e8c47d7ba2581fd3217f5803598bda2bdc17ef24d6751e056acb698c91b83e55bb2257230f15fa993b0a0254db87398470132bfeaab58e9fc488b1cc4aee84db99afebc4421e7bf1af2c0e3fde79d73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/458df78b31ab2d074f595e1f11015568/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3605c532c6cbf8d43603ac8d87dea0709b67183bf178a241b38bf4bd1347ca8077266b6c003074b14945eb38a96f35a533dafb36213ad53b8b50248fd762d33e22b33f644ef7012caad3fcd0f1810c68cf4d3514cbd11f16ce32a7b1c12d1ce86e29926f1d20f54891fdd9ac8545ac0e7968f2f45e7da0bfd2783719b8b42e006fbc9a1fbadbeb45d19779508d91d9e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/458df78b31ab2d074f595e1f11015568/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Satan's Dolls",
+            "episodeId": "macross-623?ep=11956",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/52bde4c0a258747106a696b954afb06cc145c3825ee0d752c6017d1c9f42802e10c15a7176b84c09b5dca2076b0572a665dfe181d1ec2cba6157f2e9b000edbf48094861870a456f96827b291a1ba5f531e4e2792a7d8dd07ccb9ff7613b9dec325fbc580357db6288b0573dca18f931287446b18f2238bd4c0e65ad5b991e97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8ea74f72d6d716531d264b2d7d65106/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/52bde4c0a258747106a696b954afb06cc145c3825ee0d752c6017d1c9f42802e10c15a7176b84c09b5dca2076b0572a6f194e5117bd8d6a00771a443843c12efb3f4958941a3dd294e6bb9ebe74da0faed360e083b77cc404cb15285e19879ce6ecb755a188b1c07b20e81e9336bd10ed2254c9c6dee715ae7c612446b55e4d2c669f52c3e6f7d08fecfd8f2ffbbe6cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8ea74f72d6d716531d264b2d7d65106/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Broken Heart",
+            "episodeId": "macross-623?ep=11957",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1836f624542abb7cb19362bacf3e470b93aed85c3bb5c32e31c3f9608b868fdf137341236b05f1fccf660c504c7d5966eb11fae4c7ef4c1d0cf261a2bdf6862c44fee5b4803d7963b90a184b431c60aeaf7994d879709b1cb1f2ef1f0b9d2816f1b95773b7c1bab2335f78e8e3e6f41f383cec396825e4c534db0fcb8941481b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9caa0649614c569b20f20950890883f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1836f624542abb7cb19362bacf3e470b93aed85c3bb5c32e31c3f9608b868fdf137341236b05f1fccf660c504c7d5966cc68cbd86465a3a13ef3487354cffef112003e80a1817e49f4391004278a9994b51e27140fb8ef3fc7f4164dd928c4c2e47e4c64b93a36c602abdba8555962fb08d7982a299d958153cbaedd558be442db81e0193e3c71cc921bbe862ccce9ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9caa0649614c569b20f20950890883f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rainy Night",
+            "episodeId": "macross-623?ep=11958",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4cccfdcf96fd9134f79a579b2fa49436016fdaefa7122bfd3796bb1ee3fd5f954b06d315c88b019415300054462ed40a5a1b6a343e9dce5adde0f3f093826ba3d40248640a714fb929688d89596eb638ff73c030e5cb0114a306ee0c7fcb2fcc0ad0bb068694d983304e1a47a510edae21918c6da236a8d1a522883433c90c16/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8573161bffc45ee97a4a9ba122568f4e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4cccfdcf96fd9134f79a579b2fa49436016fdaefa7122bfd3796bb1ee3fd5f954b06d315c88b019415300054462ed40a948e1d7d50117eb94a3d53a8622cabade96fae14f0825c8d594eb7e362fcf97c15ec64c7f294e3c0b90ef703246224bd8fc2cde288a0579a7ec5f0241d16f662f71476c28865aa729b7e04661342d6af10d2946e53475f72b55c5c018bd973d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8573161bffc45ee97a4a9ba122568f4e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Private Time",
+            "episodeId": "macross-623?ep=11959",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bec777ef89f4545ab43aecb893325012c8214a473dc2fcec92b88952f2ea678125df06699f7cab839141d9c4bd8c4d44cf1ab8fe2a4ad3d8561e331d0ca638f298bb0c6d27bd0913a2d3837eacb74705413192d99d5f470d703bcb2efd9d613ce968adb7d27ff056b1e1680fc690cfabb22c85fe8c18f821dc3856d857694e37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab8958a2ea3aac24afde792ebabbe034/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bec777ef89f4545ab43aecb893325012c8214a473dc2fcec92b88952f2ea678125df06699f7cab839141d9c4bd8c4d44f96360e316699a43f57bc9b49703049f092552dc2c9273238d6eb461ff8288e729fdf072c68fee2f1e43875d75540786beff2fdfa2dfb89774eb502e2ec7bf6cda50804b28b2cd273dc4a73fa61063c46fd42d811d574bd47777bc1bf590cc20/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab8958a2ea3aac24afde792ebabbe034/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Romanesque",
+            "episodeId": "macross-623?ep=11960",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2f73c7ca9031d99e596a5cb7b958bc67fd7f09faa56817c357f018c0a69a7c4b11c721b4f93c05d91c2697fadf2469acb966cd00c2612a307aebbd0f20cc9a53253585cf377f62e701a6c9bc52747507862b069558b1448cb22311f7b0b6ad8b5c341882159e5f57fcdc09609c3c828eafeb340feebfe75f7c16521cbbb96fe2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a7503f70e927e21f571cf6881b2398/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2f73c7ca9031d99e596a5cb7b958bc67fd7f09faa56817c357f018c0a69a7c4b11c721b4f93c05d91c2697fadf2469ac09c1a16da8d80947a46f9a88f7b4c99339e424a9985978d5e2a6f546f9c826e4fd38ea74bc29b416fc81c47d74306a972e6e88b2e2e160716ba5e9eca4d3e7d77f91454b120c79f5354bb93b35874c6df1ebdba8e1c0a8fc8816d2cecf66c78a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/75a7503f70e927e21f571cf6881b2398/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gentle Farewell",
+            "episodeId": "macross-623?ep=11961",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d5ad0fbf304e2b294f0a1b47fb643bbc88a009be284817c30f5402ec471e272bef633e5e9049a9ac125469f91e4d8b661eb0f7eb2044ab09af9aabc0bbf419a24798286c013beb9e2bcdadce96bd4ca6bb23afacea420f5d6038267f0f04569556d5ebe13d9964987e17881be22135f5b03f74f722c0f0584979129dccf5327d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0839eb147b5ac7d334f9064caccf413/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d5ad0fbf304e2b294f0a1b47fb643bbc88a009be284817c30f5402ec471e272bef633e5e9049a9ac125469f91e4d8b66e8ecb5e6faa987b501340d7c0d81664cd1ee690c5dbdc5d01c1964b4725284de9a28bfc3acec310d81e1e6cc71696859606ba4a9a9a1bdb0f04d0579578a029eb2b7f0a29870ad1d27e8c56571d65edd4292bc0d7466a2b73c0453f0069171d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0839eb147b5ac7d334f9064caccf413/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,598 @@
+{
+    "info": {
+        "id": "tiger-bunny-585",
+        "anilistId": 9941,
+        "malId": 9941,
+        "name": "Tiger & Bunny",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23eb2d81e83d29323e4f2b909afd2677.jpg",
+        "description": "In Stern Bild City, those with special abilities are called \"NEXT,\" and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoers to bring limelight to their sponsors and earn Hero Points in the hopes of becoming the next \"King of Heroes.\"\n\nKotetsu T. Kaburagi, known as \"Wild Tiger,\" is a veteran hero whose performance has been dwindling as of late, partially due to his inability to cooperate with other heroes. After a disappointing season in which most of the other heroes far outperformed Tiger, he is paired up with a brand new hero who identifies himself by his real name—Barnaby Brooks Jr.\n\nBarnaby, nicknamed \"Bunny\" by his frivolous new partner, quickly makes it clear that the two could not be more different. Though they mix as well as oil and water, Tiger and Bunny must learn to work together, both for the sake of their careers and to face the looming threats within Stern Bild.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/KaHXlxD5BMQ",
+                "thumbnail": "https://i.ytimg.com/vi/KaHXlxD5BMQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/kryoyT7pwxM",
+                "thumbnail": "https://i.ytimg.com/vi/kryoyT7pwxM/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/FwpC59P_fjE",
+                "thumbnail": "https://i.ytimg.com/vi/FwpC59P_fjE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "barnaby-brooks-jr-2675",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62445c7ed8a323011cd3dbace74cc171.jpg",
+                    "name": "Brooks Jr., Barnaby",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "masakazu-morita-245",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/59d50d0741ce6daf07c40be6e5f99f0f.jpg",
+                    "name": "Morita, Masakazu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kotetsu-t-kaburagi-676",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ab3e38f14e2239fd23a30321f4c2daad.jpg",
+                    "name": "Kaburagi, Kotetsu T.",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroaki-hirata-223",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbec5a53065504df5aadeba4399632c9.jpg",
+                    "name": "Hirata, Hiroaki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bombeman-76335",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cdbc413c9f69d83468ee4547366ec02d.jpg",
+                    "name": "Bombeman",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuu-hayashi-1310",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fd11d7d305cc046521b2d980cce6eb4a.jpg",
+                    "name": "Hayashi, Yuu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "emily-brooks-46601",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13332bf8b77cb602ba2af3bbe56e8e9e.jpg",
+                    "name": "Brooks, Emily",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yumiko-akaike-13142",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/afecb2b43ab504bb8e8a8f6b3fa893ab.jpg",
+                    "name": "Akaike, Yumiko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "barnaby-brooks-94361",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aac22c562e8a2d944212ef06dde60a50.jpg",
+                    "name": "Brooks, Barnaby",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "youji-ueda-1574",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f34eaa37470198ae5b77c9aafab347b0.jpg",
+                    "name": "Ueda, Youji",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "catherine-76013",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6c8030fa69a0ff6069225d8a5a252a3.jpg",
+                    "name": "Catherine",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "tomoko-nakamura-5989",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/df1e55333501acffe55f823c2827d2e8.jpg",
+                    "name": "Nakamura, Tomoko",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "TIGER & BUNNY （タイガー・アンド・バニー）",
+        "synonyms": "Tiger and Bunny, Taibani",
+        "aired": "Apr 3, 2011 to Sep 18, 2011",
+        "premiered": "Spring 2011",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "7.96",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery",
+            "Super Power"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Bandai Visual",
+            "Mainichi Broadcasting System",
+            "Tohokushinsha Film Corporation",
+            "Sunrise",
+            "Viz Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "All's Well That Ends Well.",
+            "episodeId": "tiger-bunny-585?ep=11372",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/10b056bcb3beb68e4cf0ed75c5995acd1f62c8f92ec0ca7475cd79b8af0d7ce2f374b292ee11b735018f5c827224d501aad5f9f99069b8524194121f6557d511532169b0d10bee88dbff0f7ee27da31f2e8bf51b77cf815c24dbc4daea2a0087609f302a4c4194b788c9250c34c54616c0d5979de0d94c26c2a7e8aea502ed9e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/10b056bcb3beb68e4cf0ed75c5995acd1f62c8f92ec0ca7475cd79b8af0d7ce2f374b292ee11b735018f5c827224d50127352e8ba063cb60fce9350431795dec9d48f9204370061304a08b9501d5f7cc53a842bc955a94e6bc9ece3cde0236b1fa62eacfec7d72a16f704e6bb04cbea1de2afe152e652fea93b6a12df9a78019887d088db181790e4d75e57389b323dc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "A Good Beginning Makes a Good Ending.",
+            "episodeId": "tiger-bunny-585?ep=11373",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7d9e9292b45b516272f25e936a9303483690107901ce754c39a2c535f0744953c0edddd50c0ba59bbef174037f029f12c42b75e09eb76c07343a26e2a3a62ba938686e11919f8cf728c83145197c855b62552b26aec1143f84ae598989cd4351186d72a19a7b2d27a3229f868dc4dd0a86c85c99ba3f0022701d9379ad2b7418/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7d9e9292b45b516272f25e936a9303483690107901ce754c39a2c535f0744953c0edddd50c0ba59bbef174037f029f12946408ef0093ab1c3db0671f0e8d0ae43a01bab0f247c30069f5ad2f6976f967ad5ad400a9c9e8514a03e3bf101c225aa7c742d4f769e6b212c62e46f10a02a82bb21fafa32ef902bdae3cffd8aaf41c709827cb77572ce334e8b0ecd3b8a291/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Many a True Word Is Spoken in Jest.",
+            "episodeId": "tiger-bunny-585?ep=11374",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5e903f7bf0f3dfe3d82788770917a17f68b960a77ca459bfe890a44ddaac9ec56cfff08086281a0c03fda740257c6f8f392938dd2ac60154c89c0f1caf0c36996cc19f2e79fab7b9485a801db8060b17105eeef740d3e48e800741875463de67eebe75d7b66866790c55798a7535e9e2202f86a1b08560b252d0205646a95932/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5e903f7bf0f3dfe3d82788770917a17f68b960a77ca459bfe890a44ddaac9ec56cfff08086281a0c03fda740257c6f8f9f689a6c71fdfa1e54cf57ad4495e0018c4251b503fc57cab05469343c4905df8ec8fa2a31fb7a9cebaf946f7afad9b5de629723497e502c99aa9c03d6c6147356ff9ba0bb61b77e6a984ce00ef58af1d80b4b30e68aea0b866a5ddbb9dea20a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Fear Is Often Greater Than the Danger.",
+            "episodeId": "tiger-bunny-585?ep=11375",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a66ece11e259bc9afe9f223b99b6b90c26c83f13cb5af1b3598c715e88888c2d99f96317766fa468b81b6ca8c3a72d3e07adda9107105c0deb41f75102a3d32d0cf62547c8bffbc599208f32d246820d982eb5fa8416db15e2225a82ee72c6f8ca60bc34f8d60f63668367fc5787434837379c94cbb5748acb3bcbc2d211a7ce/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a66ece11e259bc9afe9f223b99b6b90c26c83f13cb5af1b3598c715e88888c2d99f96317766fa468b81b6ca8c3a72d3eb38b65e66e56cefb561a1a2abd339fcfa8cb1d1df3c8a7e4b83fed74521c230b269de79922597d79cbaff825c4e3d4921896f734a30c3ce68692ad7fcd49f416991352b418d7990b4cecd76e9fea2c8aa2d820efe384ca6666326e87e7e5e081/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Go for Broke!",
+            "episodeId": "tiger-bunny-585?ep=11376",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/28ea7ed0ccbfe99a0ee4dd3aac0a56668cba1c13d8e695ea88a0d8e4c6420a84b76af13bac26d078509201268b61ff599c782175380d6478b96d56efd281a96bdfbacd0d7951501bd0c7fe09b1204a02575d4b39df2acbb074f03291785eef97e97daabebb3dff7e73d5a8fda266a5364d783e03907d6a8014f836c47f52d2ef/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/28ea7ed0ccbfe99a0ee4dd3aac0a56668cba1c13d8e695ea88a0d8e4c6420a84b76af13bac26d078509201268b61ff598f3e56bcef807d4ea7ea0f9f5c3069629c45c965dddb42c64e9296c60dc18b7c63cc202748476d4ecab444a973b2c7873ad5c9829908a9a755d65a539fd30e230f35965f7c39b8443bc4d61e693b54e881567e2cf4817f5b537ccdd104e39d11/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Fire Is a Good Servant But a Bad Master.",
+            "episodeId": "tiger-bunny-585?ep=11377",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/44874c2929fc7a39cfe8258c93b700f173e6cfcb59e786e9f26f2936a09aab78869dc818388a88bd70fff66588772fe9bce0932573210eeb2f1afd721364d72f328fa02811150e96c9c027d3970be3efe0bf8f24555852e37fb0243f522106ba14a9c01c2ea4c80f927919c0ea1e030a47fcf682da074af3e93a6c98704029dd/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/44874c2929fc7a39cfe8258c93b700f173e6cfcb59e786e9f26f2936a09aab78869dc818388a88bd70fff66588772fe90248943359d4693eb4e1b0cd8b8ecb8d6cd5e66643f79651252c40dfda64aa38e32f97a3ab745cba95f45f7134724cdcf67256002f92ab42e813b89806968a2f00652620dd79e155b9ae77cb6a15387daced52e60a940ab4df8d4c08ed318f5f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Wolf Knows What the Ill Beast Thinks.",
+            "episodeId": "tiger-bunny-585?ep=11378",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4d64abde9562dcafe5405aebd5c787cabb06699cc0ad86886d47b2f73608bd4e2cde9383cab9941fda567543a31fd2596033d3ad63d7e5da54983cedc3e65b89e374773aed4c51064bf216425179605c636bc2258d63a54f1914b633e825f516d69fc0a8323083266109c357ca826000ae58c22eea4c9d7ed0cf850f7f3d0b84/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4d64abde9562dcafe5405aebd5c787cabb06699cc0ad86886d47b2f73608bd4e2cde9383cab9941fda567543a31fd259eb3c1264d42a7c300ca2fe8e65a7f37ae5b20c1926df944a3c229356136b7d54186d038d419b09877d99813ff57d8d024e1a2b979523903762964e1116e3e4cb8700935f7e4af224e2c7e0bad08b9e7f4304c857995630f724fbd81ae426e57a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "There Is Always a Next Time.",
+            "episodeId": "tiger-bunny-585?ep=11379",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/9759856760e020a4c3706c3878ec0afc8a898ee2f246e23daa2374b71df6d94b9883358fbf9b798dab111178044ca580f1f1de9aa4b64159c076975a5e7d3a491052ab7e44282e245589800c1e9c13cc2cc5af32fc35831531d19f469ddc72241f2cbf1eecaa50e6e7bd25a820780dff878a40bf87c043f5320e20b635a72a9b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9759856760e020a4c3706c3878ec0afc8a898ee2f246e23daa2374b71df6d94b9883358fbf9b798dab111178044ca580f9076a30844e8aeaed32bf6fada3bfa48d94ceeb01097aff533a9a241e3be818a3089fc6b3c9e4c2bde2a38e90f6a9ebdbf7afcb9930e442b6ab416e8dcb8687028e9b4f567670044b496e57f01e21a7ad369b92531dc68e2008f893edd23064/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Spare the Rod and Spoil the Child.",
+            "episodeId": "tiger-bunny-585?ep=11380",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bd6f859ae79d717342fd3de26abc9ccfc8bdbee67fd7d92a14769f6337ba7612e5d07ab20993e38ca67bea254179be51b92fda451a6d5a18e33631f9a0bd777607edc7bc32dda6b8ffb94bfef0829517222a4b3e2442084d5878e8eb2177bae363610c949a8207ba269fd2bd12034bd1bf69d1574385c6e0b90e15c2f683beb1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bd6f859ae79d717342fd3de26abc9ccfc8bdbee67fd7d92a14769f6337ba7612e5d07ab20993e38ca67bea254179be515e822d101d3961586118bc43e49859a6b06f158776b714db62ffcba93c998a73ae533e426307e28a4faf642961cdcf75c0fe1a51d84e719bea5e28005861184e419785aa0cdf8d7be0b755078bf89f13e84cad2c8098838a7c68c617fb5cf7d9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Calm Before the Storm.",
+            "episodeId": "tiger-bunny-585?ep=11381",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/0ba51efa8e752f86de299d57a61214642ff5de0233050c856e01ed3889621ff7ccc35c5ec2516e5aeabe6279d3aba0312a54dff1280cf1eee02c28aec9f7d47f1ba9d4dc5ab9e68cf0e0d542a7182809686d60825aecf2bc0e183175fffa45445f6fec6c0cc2d70d169a36a10b970818f383e4387cc357bc5a380a55731a7409/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0ba51efa8e752f86de299d57a61214642ff5de0233050c856e01ed3889621ff7ccc35c5ec2516e5aeabe6279d3aba031cac78d0d5bac79e9ba0b09bcb863614151f76b5b32105bcd27c9c709c0d5c80b09682d4c2539308d9cb43eb116c38f520af1ce00d627034d6e8e2af70d3c604446a97ac190bc0c15e7a016ea973385f7159e4894f361f652eb7c6a09f1fe1626/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Die Is Cast.",
+            "episodeId": "tiger-bunny-585?ep=11382",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7adf4c309cf5bdd8cfe7ae9035803a1320d1d6f36c7864ca0baccdd0b6715334bc4cf7ac280afdf44b431b83c75a0fb5ea55df660f1dadf1ccc891b169333358f3a94121913531a1be2aaba03ca69a8e764c6306c953192ff81f410a3743f6b6384584c91fc873a1aabaebd11ca8ffa40a01e5a79db6f02e026dcedf4eba25d6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7adf4c309cf5bdd8cfe7ae9035803a1320d1d6f36c7864ca0baccdd0b6715334bc4cf7ac280afdf44b431b83c75a0fb5e5ad79969a2efc496eb7412f03beffb659eb57534491b5a0d9225ddaee0507b60b943891f656f7117efbb0b04b560a2c8ecd506685a5f443121f1c35cd8bc6006580b91423b6598710c898f1872a6c338f32233c34804d11d13f7b31deec1e0e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Take Heed of the Snake in the Grass.",
+            "episodeId": "tiger-bunny-585?ep=11383",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f2ab72e81f3a86c449829456353844bcb2cff96413404e3c5f2c9b3ec804684e0ef0e97880a8d7f633a84ae43af7004aefbf2a0b64da2bb0d40e7fa8ebbfe1e47770f0c3f000864482d38da1f52fad0087a400b67f694456a7ff1e5e69cb5d783ddfffddbd727a8adbf9519d77678aa8770cbdfa33ed34b6e7ab3f5dfdc284b7/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f2ab72e81f3a86c449829456353844bcb2cff96413404e3c5f2c9b3ec804684e0ef0e97880a8d7f633a84ae43af7004aa64f9c7e6521bcfc0fdfe0aaf90755e82f675da168df5fd2e47bde9bd1f0c28e4cbbf6315f7be3bade1a51d0fb82eee59bf23e129340cafee0eaa75642328dbe78b2ea68f1d8bfcbb7aeec4592e61ecf4668b645e84f4a7b7c03816758d536a0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Confidence is a plant of slow growth.",
+            "episodeId": "tiger-bunny-585?ep=11384",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3577cc15387aeabc6dc29d43b644d4f87b50dd6067106287befe3ccb8aa729c4bde1391d5c468cc23644d9ab28872ef5e30aa0ac3f86a15f89c34346e599e284647c7cf8896ae09c561b3b6e1dbdaaab60dd1214446bd5832a8ea4959c8d11158037d0f2d4568a4fd11036fa74bd6eef43f7d1f8d2255cd6ca99cfcd76b7a86b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3577cc15387aeabc6dc29d43b644d4f87b50dd6067106287befe3ccb8aa729c4bde1391d5c468cc23644d9ab28872ef5078c7617dfddcb6aed956600e07fbe6b850281d5300ccb2f42bb68c90772e51093f200b447d8470e38e8e77a6d1ec741f5a4b3e25dcd8faf9b527ef0ce1396ee527a2d74cf10daf487ed263c8cdc6279543cf0f131233d6fbf7eb60e4db09b88/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Love Is Blind",
+            "episodeId": "tiger-bunny-585?ep=11385",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1c64dfa957d79fd4422b7a45fdcc6fa2698bf11986367836f4abc67e9439aeacf7a7d346a070a2f0e15e883a3d0dd6b3da5dd7e2dbf0b8b28e3e3d5ba63d7934ffbbd536b596ca77be3757ba004509c484adefdf2dfc232c21e0303fb220da0a1a37a2920aa6e4134fb026ad78c17bd0b2b6ee5c8a1d008093ccad4150ac51fe/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1c64dfa957d79fd4422b7a45fdcc6fa2698bf11986367836f4abc67e9439aeacf7a7d346a070a2f0e15e883a3d0dd6b3aa16e6818970c67004690ac63f5e82030a48d1047dd7e9743ee78f7b7e81e1680727910204a27bc3beae64241acdbf6f580962fbcec69b8172c3fe843312b793bc3186ef370ffbfcafd4bc427418f75a6cd613f08fe6ec03f3b0080ba7d4ede9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "The Sky's The Limit…",
+            "episodeId": "tiger-bunny-585?ep=11386",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/38ce8d111c6e0cfbf0e2fbb17f7137ff5aadf1981337e0b7884c1fcbd1d2e0fa5a3cc6f595812304e73004a684ed11470f1a4999073e9ff1e65d62310eb6169cbd94e43106c0c67dcbca9908d891ea78c268ed29d70aadebd0133b131c8e6bed1e4114b5d4b90c635e29a4464e77470ca2d61b4af2c77007f0a4d3190aa0f0d9/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/38ce8d111c6e0cfbf0e2fbb17f7137ff5aadf1981337e0b7884c1fcbd1d2e0fa5a3cc6f595812304e73004a684ed114741550240b6776f3f096b297e0c449fe1cac2b31a22d86a62f0f70c64e7f2939e12cf96f21d5090b1110f3004991cd54694a12fde26b1732a6e10aa0277207099a968e4fea71581117eeb3643a90f0d8ac5f2f0098d78873e3d0b8e6a0ece0469/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Truth Lies at The Bottom Of a well.",
+            "episodeId": "tiger-bunny-585?ep=11387",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/60cec4c1c936d0d50a8fa0e88b7a422ef170a18239b8c346eb07bded3a3bd2ce91a0c969f331c4c20e7be655b665a09187e39ec120fd048a694f07c97f7fa9f2832fc16fec7bf6b9a71207c97f77d83e162c19a76613805baa83c69c77a4a1e98b5159d9575bfebcf40b0c4fc4c204f639cd6496eb8dd09ceeed09042a593021/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/60cec4c1c936d0d50a8fa0e88b7a422ef170a18239b8c346eb07bded3a3bd2ce91a0c969f331c4c20e7be655b665a0911642675838dd5983f10cc6730c7d54c59c78bc89a5d9f0913456df0593fa7ba5b974cc7d3a0ceea815708f3c8b25cfabb6e8af33639125aa855d886643ba21fc2ece986491e976a56b6ba03fa83089a6083fcd1b1f0da3b54f3f959576f49531/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Blood Is Thicker Than Water.",
+            "episodeId": "tiger-bunny-585?ep=11388",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6e9a0d34000a098e09d5de76b3de64c3c6d58c32345961e2fa8f7f1f80d90b7b2cda032fd8cf21c1715ed94c9103290d251a4c15aa30da684226c4e6f9778f0ba6ad50a1e57763f95675f156c9436d104823c5f64772e24afeb959be6d338bd35e10f9d39780c6e2ad00059c18ee6deb0ec5be3d93f3d3b673fe4138a6387132/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6e9a0d34000a098e09d5de76b3de64c3c6d58c32345961e2fa8f7f1f80d90b7b2cda032fd8cf21c1715ed94c9103290d66ef9f3dcdeca0eb19916c1af54ab5091423219464c2b5a312d58d249a81ebfb43ddd296138638ca7875ee62559f9331de857a513ddc22c8b3e71d5b496c2e8db97314de655f6604f4520f2bfa58966cb137bb5a2621b676661acfff7082890f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Ignorance Is Bliss",
+            "episodeId": "tiger-bunny-585?ep=11389",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/ed5529d0a9d85df77f251d6aeba97d1a7938e5216c86b20650baf4fb66fca2c24750a92dd126a2c5ad606bddfddf093ddbbde57747bb478fdb9dc804e210ad986204fc7909bacc20d4830f16e37ec377bae4ab1d0b29e1e3553dfd710576e9e3810210c4aa3dd5d8291da78b56afed4f8554d9d392fdcbc95358a8fe6474b833/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ed5529d0a9d85df77f251d6aeba97d1a7938e5216c86b20650baf4fb66fca2c24750a92dd126a2c5ad606bddfddf093da8403959bbddf91ad5f205ae746bb967b1b0721e7569487e52c78481eb639964397cb1bdda3a906d0471d92d42f3f5f10c976624ac72a89555768f741c91b8fd7867b5fa25df03619add8900d921f8265a94eece378f7353074e1aa2922d9359/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "There's No Way Out.",
+            "episodeId": "tiger-bunny-585?ep=11390",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9b6b0109493d86ab3e0d8ef7921fe1aef35b65764cc169e5b33dadd9eee7a107c20d5318921d4595c27946acce8232ba546b481fac2c1bf84a7decbddeaa5b35dc5f68d59f2c1e62ad9aa6f7b5e5613d3b779e62c9586ce39ec9f9c6a741299f006490209e04288bd676bb03150647c27e29eab25c81c207ea733c688f12530c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9b6b0109493d86ab3e0d8ef7921fe1aef35b65764cc169e5b33dadd9eee7a107c20d5318921d4595c27946acce8232bae329a767e9ad4895d3ad644b174117e99c455fbaf9d424801cb7dc4c34438a802d046a7e8d2138adf6a59a5d63910c8897b4b01083c1c3273ceecdcafe71788fdfb28d3f4e4fef87b0efb766874f178af4cc05e9f584231c3104535e9ae777a9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Full of Courtesy, Full of Craft",
+            "episodeId": "tiger-bunny-585?ep=11391",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/c5217ae8b39f9467166badd49fa9c5dc997308a5c0690df077e034a58206beb17ae46c77ab13d092ecc023d0fe195fb024871e3c2b4dd2dbacc363b3db6345d50e799e39a992a5b31006f07ee36bb40ea0a98db9957b79987053d76a4805ed1dc37d5cbfcb564e45037934b6633a6882159c88d99c213945e9888fda57ff34fd/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c5217ae8b39f9467166badd49fa9c5dc997308a5c0690df077e034a58206beb17ae46c77ab13d092ecc023d0fe195fb0a4a589c06dbe2c27c4632351ce8b75aadcca092c890783d9118e8fa90d494c0bd9aad27f43aff8c2aae4f12734f35ede4c11b414ff54c6548eb483dbe3fd40d28ea5581f7bbf099adfdee391bf3edf6bd37ba31c9f03a9457a5c1c2fb5b3689e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Heaven Helps Those Who Help Themselves.",
+            "episodeId": "tiger-bunny-585?ep=11392",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/504f4028f2703b4e75c5d68688ddf7e9ae03055bb55b9073e7ef0cd959be73c5009de63452cbf7d8c2286daf6b90b30daec6f46e88466100f6eaea8136996fcfa646cf8e4f9a4bb30b27c75195ace0b29f361e0c52acf76fbd3f38e327e9febb8757a21fddc0db4fcc3d4202162523547d3ddf3302f32e711f600fc8a9bf82a1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/504f4028f2703b4e75c5d68688ddf7e9ae03055bb55b9073e7ef0cd959be73c5009de63452cbf7d8c2286daf6b90b30d7cc8d24a86d66490402054c0851d3ca96430ace17a330a8e6eafab4360c2efbe8873c2a5522447749c6bbc4372278e42e461226df3bb669520024a856bd04e7f9b54de4662c0f30bfba19da5bf30591ac03efb2f4c90ee697a9a673ce95e085a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Bad Luck Often Brings Good Luck.",
+            "episodeId": "tiger-bunny-585?ep=11393",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/28d369049113fa5c8e745d91785cc8671f49eb755103f433c50c5244500384e131106bc243334e2470d05e501b314b3024a57fb2ae3f6706d8fae8a5fab9eea3b7b9b6e3e494dd3a2e0db2d79c190fad0dfd9f8625ec7501af22faf99d286e80ecbe93659e3ab94a90724ab7948a2c98e4150a6b0bb5301e5fee9d9c9ba9b623/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/28d369049113fa5c8e745d91785cc8671f49eb755103f433c50c5244500384e131106bc243334e2470d05e501b314b30fcf80213ec2bfa1d17f3b3a9cbc9fffe5c340f3991fcdf38b031209207fa3e1cb0bb48010eed17562c546d294ed9904d02429c8b855d58a9392f850a8927ba1e23c04255439f9b0cc2ead0bb17d491309366027f7d54c5960c5a90f51ab10672/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Misfortunes Never Come Singly.",
+            "episodeId": "tiger-bunny-585?ep=11394",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7664338e728c458a3dddcf149acb8391724779894503ebf6a72ab29dac2b23bf790272d390e39fafc470dff0bdbd875e022074bb630bb3ccedb20b84fc60c6813b5257b2bd43bb6a297d2404edd7f7d59954dc837d81f0ae95bb840783b1020788de2a653419056e410efdaad04bc1473ac905c77edf9186ff7e152160b36c1b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7664338e728c458a3dddcf149acb8391724779894503ebf6a72ab29dac2b23bf790272d390e39fafc470dff0bdbd875e5da25066b61f7c977498c90fff23f5e818a0e290a6606917c08a3fce52e0bd241a24110565c88b106540ef49bb173ed06fb4c042c36aab5f8eabbb8e24a80953e55f882ff76f79b5cbea3a5e821b94b711fbf3c5a00611c74499e10ec1383c7a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nothing Ventured, Nothing Gained.",
+            "episodeId": "tiger-bunny-585?ep=11395",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/9a720476f6a4baab7c547e1ffd291b4b80744c2568bb84860e91c61f8e9e6f8ca7599140cfefbb40f6e63adc0415bce156ca8b2c3001df66b40b9997dab5c8521d54fc4f7fd21818c38be06ddc81ce153ce29aa2fe08e3531289c1183dcbafde079ccad1816caf216217323eda4a182f00a2b1b94571f7cd8ac212b119c8099d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9a720476f6a4baab7c547e1ffd291b4b80744c2568bb84860e91c61f8e9e6f8ca7599140cfefbb40f6e63adc0415bce1606463aaded5da1e2fd68cb5f59461fe7a6f4074d733319f53d5c48bc6be0df1133cc8f6a56aa95318bb492f7cd6327c1d50ecd4f5b8c88c0890241470ba82e81423281f086ae42bef0dd02cf520209f9f8247fb7dd6fe63fac6144b032cce4a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Eternal Immortality",
+            "episodeId": "tiger-bunny-585?ep=11396",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/74df5eb39bab1a9998228d7aa7a88d652a65361011a89f95b7d87f284194019f8e1d8e3feda206956f7313eed0473fe7875e4c8f24e3d37ffa998bcda75dfed1cf345c5e60a7a7008659fb89c1ac36d99c94ce5a69a27f00c5ef8274fea0f34180412ef7d7031f14b4c6c9265df59a90f6701c7826ebf2f690d6cf0eebe1a49d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/74df5eb39bab1a9998228d7aa7a88d652a65361011a89f95b7d87f284194019f8e1d8e3feda206956f7313eed0473fe72ced0cea6befd8a91fac13c00579a04c804b39a36d4a327e48dbf63ae8f4a8e5309377db238122f7533a9d50634112da572a2891c2a1ea9cb21da097050a9069a1a1b1ed2cee3cc244a0bf094a922efe2058f3eec2e2979e72921cb81628f30d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

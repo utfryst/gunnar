@@ -1,0 +1,834 @@
+{
+    "info": {
+        "id": "tales-of-saiunkoku-428",
+        "anilistId": 0,
+        "malId": 1914,
+        "name": "Tales of Saiunkoku",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8b0fb3b355a219be76c89b850075221.jpg",
+        "description": "Shuurei Kou and her friend Eigetsu To, a boy prodigy of humble origins, have been appointed co-governors of the Sa province, one of the eight provinces in Saiunkoku. Together, they decide to make the province an academic research center in the hopes of bringing a long overdue prosperity to the region.\n\nHowever, while Shuurei goes to the capital to obtain approvals for the ambitious project, the Sa province's recently established tranquility is threatened by a pandemic that brings both death and turmoil as it begins to spread among the people. Counting on Eigetsu to monitor the situation until her return, Shuurei seeks support from her allies to find a suitable treatment. Yet, Eigetsu's past personal conflicts distract him, providing an opportunity for opponents of Shuurei's position to take advantage of the troubles and undermine her authority.\n\nBecoming a government official has been Shuurei's lifelong dream, but it is no easy task for the first woman undertaking such a position. Will she step up and overcome this great challenge or give in to the looming adversities?",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 39,
+                "dub": 39
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shuurei-kou-2021",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ad85f759beaec4e91f7043b5a7fc335c.jpg",
+                    "name": "Kou, Shuurei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "houko-kuwashima-348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2c4b93c4df004d37772ded08780064f0.jpg",
+                    "name": "Kuwashima, Houko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kouyuu-li-7180",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ba02b944ed62cbf147f295357c5948d6.jpg",
+                    "name": "Li, Kouyuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobuyuki-hiyama-233",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b1b24f2aeec0373b1c83a4a2482bc6a8.jpg",
+                    "name": "Hiyama, Nobuyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shuuei-ran-9359",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5150ce8d530ed5e1433072c8171c27e0.jpg",
+                    "name": "Ran, Shuuei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "toshiyuki-morikawa-154",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7adb49d363a726548f0b493d20fa8986.jpg",
+                    "name": "Morikawa, Toshiyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryuuki-shi-2854",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/40817dfbc365b8e8f2762e953dd0720f.jpg",
+                    "name": "Shi, Ryuuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-seki-101",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b30017b6da7c11931379c4c2be2577a3.jpg",
+                    "name": "Seki, Tomokazu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "seiran-shi-3490",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a16b868a9d32e20955aecd0fb6c3ce1.jpg",
+                    "name": "Shi, Seiran",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hikaru-midorikawa-138",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a47accb0b3a69149de4bb2bce3aee2f5.jpg",
+                    "name": "Midorikawa, Hikaru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "anju-39323",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16d5b1351c9cb9ecc5d4f17f6fd939a0.jpg",
+                    "name": "Anju",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "isshin-chiba-2813",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dcc3857cfbc7ecf2acbe590b51b038c9.jpg",
+                    "name": "Chiba, Isshin",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "彩雲国物語 第2シリーズ",
+        "synonyms": "Saiunmono, Saimono, Saiunkoku Monogatari Dai 2 Series",
+        "aired": "Apr 7, 2007 to Mar 8, 2008",
+        "premiered": "Spring 2007",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "8.08",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Historical",
+            "Romance"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "NHK",
+            "Sogo Vision",
+            "Madhouse"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Episode 1",
+            "episodeId": "tales-of-saiunkoku-428?ep=9291",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4a18b474697564204cdfd3ac2d6a91f68d51139282984cbe825cb16015e057c17090abfb398fbce376f4c118292b4f3dc5976fcabc822a4c5535be00ea0a7efe70b7aaff58635e2bb8ee1528a504a3c5b62166f358424891f3d2e0e95453afc992599bbb1fa0ead56e824258e40019af0b6a61c5b6f9a2921a179ba3dd7b6649/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb20b5cb0cd44915a3d87c01a2a51cbf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4a18b474697564204cdfd3ac2d6a91f68d51139282984cbe825cb16015e057c17090abfb398fbce376f4c118292b4f3d9dbc825a3af70605674c340f9687fe20f06bd15ee2d8760ee679cb842bd5606351e2a33e1df7057ee5074de2cc299d82ec883600a68e194a813e86de968e0dcfd88fc04e149c0b65198e4566a08193bd2feceb0f2bac4148a681c2b9914cea0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bb20b5cb0cd44915a3d87c01a2a51cbf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "tales-of-saiunkoku-428?ep=9292",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0109556538ffb07eb9eee0cea347f4bb5a80b91f1c03ca85def5a60eb1b5fb74e017842197eba4126a377cbd09adede5815acef5f71d9ed28776a9c1e01696f2164913d48bf682d9de050520924089460d6551c26a8ba555d927b3595dbe88ad6ff0cd60817b21c8c2931a5948b69b465e0576e4e1ec0ac7ba03009b9138abab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/165992d46dc28ef7e91fca8b7aaf43cd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0109556538ffb07eb9eee0cea347f4bb5a80b91f1c03ca85def5a60eb1b5fb74e017842197eba4126a377cbd09adede53c98ac908425b014a3b97f186703780481b107f10b986efc63e73b60b328a3df012925d6089ed7134b5160539b3c00e972069041858f6458a0be1f11b9c562418ab0542c8dadcae719e46f9b2987a05756f7de6b710a7a82c09b368b04b79df2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/165992d46dc28ef7e91fca8b7aaf43cd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "tales-of-saiunkoku-428?ep=9293",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/e2036c21b643a18fc030b39e19f749a8f81e770eaeffec67eb6fc0a569c81422811ed52020c4c665ed359c4e973e99a36010a0e9f23769389047521b5301fb721d0fa2607ad597fe5c4acec3d835a79e1dc46c242acd3b6ff51de28dc9d7bd4dc9382aee2190aa7141dcd4550f792c005b6ddd865addfcf55d33d60f20adb277/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/827a5cb7854aae6b021e0eed6cd05cf7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e2036c21b643a18fc030b39e19f749a8f81e770eaeffec67eb6fc0a569c81422811ed52020c4c665ed359c4e973e99a3354119c6c5adbe3ffb48ead784856de15be4c60c0c9fd6b7d79683ff80b264051e60067eafa1ea0f83eef981a1a770bfae603f46ba66d2519e85ea3c639a3e73577a72a01787e8ed9d45f11ff7b9eed389daa39a305ec864989ef8aa72d2bd5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/827a5cb7854aae6b021e0eed6cd05cf7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "tales-of-saiunkoku-428?ep=9294",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bcedc93d4e4e0188b67a35feb715a01875ca1424a55743c25fc3664321ef56c53d99d66d481802594250f2cba628906b3ac42cfc67823d8edeb4c087c011599a5a6981750bbaaf703054aa56fce7d6e422eb12cef6b8a681ab34f07dd745659b246b64756024f3e49cd1dc412c05076896fed2b4e9a916bd8e2b41ec2d5e2870/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9666760d9ac18749c627d27add027a11/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bcedc93d4e4e0188b67a35feb715a01875ca1424a55743c25fc3664321ef56c53d99d66d481802594250f2cba628906b9ecd75b6c804dd806a9a748fdb63b801cac666bced679b72c5c7c80f4846cb82ad1d26245ce8dbff4882f2732a6828ea9e1d2e05824cae0834b635be3a4d52bd8539c51e888c138c92d9913377e2f1025c4b9f31711c8fbf04c98b28da6d482c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9666760d9ac18749c627d27add027a11/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "tales-of-saiunkoku-428?ep=91477",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/802a55e2ec45fda6ab89b878fcd16aac7eded182118f2a882f12e87a4e1c98cf7e96ef2fca59b63c62fc8a5bdf0e6310053a45f92d3f4d0445dfdca0cc764d869caf1daeb381fccf2d01f437c29e11307b1ecb91d4a488f2c7f66e6c5f284cc28f51f85a17dd2ccaa2ed37b8b652bcbcabb46e850664d897f4e46966b1deb5dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9bcfcb0f4141aeb5f7eaa87e7d45983/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/802a55e2ec45fda6ab89b878fcd16aac7eded182118f2a882f12e87a4e1c98cf7e96ef2fca59b63c62fc8a5bdf0e6310e3d866167af9b76776e07d4382656b8259af5cfd1f8d3bb7825625d279a1cd5ea41c5957e73aafe41746c8567bd176b4737b0d7d4269f772550cc4574553a84948899b06010fb75edf36f9c9db8685026737c98834168a71dce6f384f139c7cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9bcfcb0f4141aeb5f7eaa87e7d45983/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "tales-of-saiunkoku-428?ep=91478",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/020e1b08279e1278b13d1bf712b21816ec2affb76556229b9533c464c9f2d19bef82d4b56003ba52239fe9e0e88d80efcd9cfd30fc4281316080000d6d01ceb795301a870996175e5f79145b71df3f4aa0a4c3906869876930ee623ac550d02bbb82cc5f17a1a1ddbd54125338874aef6563c79313039302940bfa54161f66ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b57251afb882f56182fd9aedf702a277/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/020e1b08279e1278b13d1bf712b21816ec2affb76556229b9533c464c9f2d19bef82d4b56003ba52239fe9e0e88d80efa4a98c2a6269559073aa1a2ebe4d4d4fb9ed7a1b6b45d317d9ac08742221b5c75ce32044b39f47c9796603438bcb2c7470ca15b5f87da20b32560dea96c98b51d4f5d9e4c207fa1d7718624f40a60b24fd8c8cec044b080650b7fca843241854/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b57251afb882f56182fd9aedf702a277/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 7",
+            "episodeId": "tales-of-saiunkoku-428?ep=91479",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/31913ff478acc029cc4b05d4a11aebc8ffff122587cb9c01639106966c6014e2b28dd71f7691615a962945dd5302c8431ad5a3de1b4e4322e1a92a8aca045171de3f4ca4e4fc0baae9642911f9982631f2a4b7f0aeeb23ff8ef270f84fe82be903b7b78f160b533921a587c9a343d36e2483fc70e2345a87faea054c66b06e85/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/892c166986f2097fe7929d8efd64c36c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/31913ff478acc029cc4b05d4a11aebc8ffff122587cb9c01639106966c6014e2b28dd71f7691615a962945dd5302c84399ba42cf9879de09bbb91b9227c4a4e794b959025af8424156e60eac7ec918a6eaf678ae98164a0ff6117e3681387eae93a8fbb0a48695fd224a380e17381161f317a677825654d92ab185fec9ea7e6861b76ad451b8c9f675786684a1fba9ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/892c166986f2097fe7929d8efd64c36c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "tales-of-saiunkoku-428?ep=91480",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ccee4bf5e94d566bb1d9ea3daf8ccfd60b584f7d3b04199826f659b9b30d8a15f06dde626d358e6109b927caa345979d7dea92cac4c15daea4e06c98d045789143a9d764da144383f976d11789f83216029bb330691d168410f506683b6ebe5d2acc3c7354c453d4b2377b5c44e0775c0a53c8ff5a9856978a597a17074f0022/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96a279bfc6d1e3d0b8b1c22781c903fc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ccee4bf5e94d566bb1d9ea3daf8ccfd60b584f7d3b04199826f659b9b30d8a15f06dde626d358e6109b927caa345979d6a8ff3383e539f9e514ce7cd8a7a5e413b27b99b7e1237e3b30c29858e45af7a6e4f8612599ca13ce4808de3e5df7824915900a2759cd3a0eaa2fc4b1c0ec566a5b0866c960d1dc668f50b7ea9e92c203cb5b7603830b001c9ef6414b2cb84ef/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/96a279bfc6d1e3d0b8b1c22781c903fc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "tales-of-saiunkoku-428?ep=91481",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8689b4dc0bc198ce36d7c299c0d7ea713a12677828200bd8e21805f3617c4889a1b7d546acda49d283ec7a25ae59e3417a5723daddc80a744907d1efefdfb815ec1241e194172f598c9d0601105f1ce042bfabc2aa3a37ba50d7887c1cf90877e842c569d57179eebaed42596688b69f73aaaf100b7b1a167721d954589ac825/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca288990d67335bb049b58c8db91959d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8689b4dc0bc198ce36d7c299c0d7ea713a12677828200bd8e21805f3617c4889a1b7d546acda49d283ec7a25ae59e341c0f7c7936d19329502aa72fee18c67bbb7376f23a26548bf901a7fdfd30810af36181460f337fb8acf9c0d9adea60cbdc36e2cf77291c651981cc10505b07c017562204dbf2ae92a381af85663c398f7eae2e8abd38dae981ff95565aed4b210/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca288990d67335bb049b58c8db91959d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "tales-of-saiunkoku-428?ep=91482",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2064758f9bdd6024968d75cec0e7487d11293f5e3e079fec98e5a4c5ad0472dd66eb43b1aa2790028c4b6c8b30b1b9a3d4739cc178dceb1cfb7fd0996f75bd84b592250f5ae774761813f8ff99d5a74991a90de7e0bffc95089a03e44d421de2d05e1bb0821a02f467a86e9e95b09fbb88211af61ffc1db0b3f512533afbbf10/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21560fa97b12ae411d6f8b3358a1b00b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/2064758f9bdd6024968d75cec0e7487d11293f5e3e079fec98e5a4c5ad0472dd66eb43b1aa2790028c4b6c8b30b1b9a30945c9f630083697d5725877cd809023d5a714f76424e88b9ae8ed7fd9bbf2bff4a70b41725d7e48c7257bde7d13059184c79d846d425421ea5cfc4c3f88c407ba807d00c17bcbf0d54a27a739396e9eae01619ae9f9581d395d2f30f1e8bb9e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/21560fa97b12ae411d6f8b3358a1b00b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "tales-of-saiunkoku-428?ep=91483",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0396851682f99401fd6a57ebe3461fc091c264de7a37b6dbe3c6fafe96d2f53ac8d4d3154f89dfb332e8c1d3c1b55174198565c9f8da2942f8dba4ff87af5168bb61ea25ff29a7090347662d48a4b15473246edfb17e14e4a011cb7d2eca480f9884ce4c61a113814b9d06d9910a39eaadae56c65a9a6b947ef99dea71c4892f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4215b3a4349077466fc3f3ed262462a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0396851682f99401fd6a57ebe3461fc091c264de7a37b6dbe3c6fafe96d2f53ac8d4d3154f89dfb332e8c1d3c1b5517478cc05011627480e455d7cb7a12c5e1215cee682b6fdda008770cf8386fa2dbb7a19a1cb474600fdebd7854f01630cd47ec7a5c4a890c0236bb83e9b6a85cac6c53d559cf7595b4c29691f7e19e63c4d7e2212cfbbb7f10e137cdc58dc732508/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a4215b3a4349077466fc3f3ed262462a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "tales-of-saiunkoku-428?ep=91484",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3a89138b5a8ba488276c2dbb5a929e3399c371df5b7eaa16d8ce1e03e9ba4ffab4675a7c1fc9fdd31575a2dbc571fa610dff7510471af110acf806ef81c0ea789a519f14545b678c58f2705dc481b01e8159cc25eab812618ffda86d2eee72ecfbc776f1c2852f02d2453fd423518dd00afb6ed5b1dc617fe3f64a75ec1a3970/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fdb2ca2a45d017df7e010458d0be9ee/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3a89138b5a8ba488276c2dbb5a929e3399c371df5b7eaa16d8ce1e03e9ba4ffab4675a7c1fc9fdd31575a2dbc571fa613c2b31bf59c97912e6f01f2d6d1d8c1e3b14de569f4e8d9384c0c6718c72edfc438931a2875cab4495f0e45194b68b0a7689a196475b5b7922472f5a3492d422b4cccf0612e6630e30e6eeaaf25955ba18cb558f5d616d1be026d6092573f600/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3fdb2ca2a45d017df7e010458d0be9ee/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "tales-of-saiunkoku-428?ep=91485",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d185fc5a692aa5883066522932c266a6f67f0ec1f991bd002c5276d9d57d4be663230bf3f6fa34b32bd7f5cd7e037bd681dba4f2b04f460885b75d660046b84409a33757bcd1ccfed95159d71743b84ed6e36089486fd60e8ce475e8c75760f42b961d5c7521b9992839c493de2260d0acd2a9f728c32ac312f115224e08bf44/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e0fc29d9ab2ed6b895737d185b598d5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d185fc5a692aa5883066522932c266a6f67f0ec1f991bd002c5276d9d57d4be663230bf3f6fa34b32bd7f5cd7e037bd699742ed0c0b42c4e7ef82f2d1575c82ca98396204574975cfa81bcc8661eaa3ec2d99d2f349ed896db02921a2731f1e6178df983f5039fa47f2f49f9668ad6f46436503aed3289efe3450427d0d735a5a140966bb87bdd861620e776810035a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4e0fc29d9ab2ed6b895737d185b598d5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "tales-of-saiunkoku-428?ep=91486",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/db929193527e95ada9f284ab735bbd6bc3c1fdbd2e9779a5f4d53366c2637212dd8021df9b6d95181f87371bb4cb889416dea0274b9aee359892d1e1be0ae105523689144926fffa4cefcc4d7df29409ef83b0e9f52c15183122394736faf1c65f04d6c695b7b5c54c87ac58432f511e6d1efee7888fc9eda12ffaba71476461/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94dcd7ea2b35febcb41279d2c547f4ad/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/db929193527e95ada9f284ab735bbd6bc3c1fdbd2e9779a5f4d53366c2637212dd8021df9b6d95181f87371bb4cb8894ed785623aab5866f53b3a176a02a3d70015e1ccb31bf712daec778ecba35a04d3356479bd33442292d9a4e74ed4210f0588e5ccf8f91649a6a3f8c1afe1947b89981e99f239767b42fe070f19c6d7cc508ca861316f0da44691e0037327b19f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/94dcd7ea2b35febcb41279d2c547f4ad/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "tales-of-saiunkoku-428?ep=91487",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bbfbac22230af1ba3db163ca5c520a9cebd949d25667e0916b4f88fadd9e9fd98ff3fc421d5af3c5008a8bb0e695d0be2394c352d8f0817b12e9161879bd0219224f91c47d9092547bab540c14a4d62cd8b10b8e4e57113c46942256e0d6a49d4b1811ea3d5521a4125f06df43f4215577bfd71405f06703ecf0990f1fd01c98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c5724f6ee61e8b2271bb4e89f8cb7ce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bbfbac22230af1ba3db163ca5c520a9cebd949d25667e0916b4f88fadd9e9fd98ff3fc421d5af3c5008a8bb0e695d0be81dd101ab66b6412f8ae2952eb513a958c4143f35b99906be779a529b93f932b8910235418fda4b148aa3018c732575cd37783bead621b82ba434def2a47a7631157388d3d93bd2a79491450aaf09f7946beb99249ff277bff55c51e1d1d646f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c5724f6ee61e8b2271bb4e89f8cb7ce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "tales-of-saiunkoku-428?ep=91488",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e1bf72aeda25231c26d4eb7b612ce56f1b2cc8d8cb55978540201b9a99c3f501f54fe85c2d6201c674997560eb4d5629997c05ab1cb11859fd1238741e23535b0ac981b9635afa39d1b65b32e51d0723008613d1e7def14e6b8f1492c2b4b479ab5111a34f0d9b9bda2ed75f0dbad43928134f20cdc0b9a04d9a8e8c3ad351c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba33144985cb2ce2da3f01f6346c0152/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/e1bf72aeda25231c26d4eb7b612ce56f1b2cc8d8cb55978540201b9a99c3f501f54fe85c2d6201c674997560eb4d562951f71e0dc1d8ecd3d953f30410ab15dec02affacee8f94e709c51245f29d9720057a063be5bff2c5f2e04adfe7ebbb6bd63e59c8759cc4c83a2bf7766c763cdb6f43ba10d7270cd3020aa7e14a7c958ec84d4a42b7beb399c68cf37579919b9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba33144985cb2ce2da3f01f6346c0152/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "tales-of-saiunkoku-428?ep=91489",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8c158a1634a6de9f59cbc50f22d0dbffeea7e62398866e33d35fedad99081a6768aad2a3f8f096d9b923258905cff82042150ecd67e8c98e2811f565558e953fe75c5ea586c3c0e2f822a0745484f496134bd28984b9710e02f7edd034737d8ed299364197bef5d529975e89d8227812730ce2ed27ae3075beecbd0a4120d860/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa8ee1575142b9b1d81076d8ceded13f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8c158a1634a6de9f59cbc50f22d0dbffeea7e62398866e33d35fedad99081a6768aad2a3f8f096d9b923258905cff820f3b77b16ecf65fa85d727b70cb099cefc14e9a3b32745d32cd3ebcb6b40a65a29cdac8b195b56106b2ad690c048693e59645f469a103768edb16db3b3af93c5e350de6caea6b370de93b8e25561be906e88f8fa6a7faaf4bde11361f451cd354/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa8ee1575142b9b1d81076d8ceded13f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "tales-of-saiunkoku-428?ep=91490",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/be432a5eec639e41b402425a8c8f99b3d57052a32c444df160fba0865080b218cde374054f3ca1bd1c7a7141cb24d2550962197905c638a1549d89e225a144f9de513d125ae79c18888a4cbd29bfa86ae8b5d1fbce4b16001e91e9e1cbfc9dbbb887827c9686e877f9812c06ff070da31446fd592ad4bd2f73822a6eccd23757/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fa8d3bef60bb7a6a85e6465c9806afe/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/be432a5eec639e41b402425a8c8f99b3d57052a32c444df160fba0865080b218cde374054f3ca1bd1c7a7141cb24d255ad9a952a35a69e28290df29fbae0559ca515cb6bae10193f3f1db4297763b4c25d64760092c98a0f31dea79550ca25118faf600ce7e300813517595f60f44b68f2674e428c842b328672d4f574148e06a7063c01c4cdafe380fc3ca3248f567d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5fa8d3bef60bb7a6a85e6465c9806afe/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 19",
+            "episodeId": "tales-of-saiunkoku-428?ep=91491",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/41b524d8cc925dd578b15c14b26659645e094cc28211dec9e3f4a9ddbd04f19c7e0efaf5502e2cb8535351f113590679b1bc59d8ddf350fdaa131d5e43574dfa104855028f107136747181c391580ba70ea4bba01fc2f13380ebb37d09da924b03a8209c01033289e77a4435673da2f2b0c3322135b325c7ef4993dd5e1c37b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06b8cad8afbaaaa2f9c697f4ff7dcd55/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/41b524d8cc925dd578b15c14b26659645e094cc28211dec9e3f4a9ddbd04f19c7e0efaf5502e2cb8535351f113590679f5a62903e36cc103ed4fb4fe220c70acb735b3586c1c8eb365dc256469a90e538cc80af18056fb8ffeac555f3ad905c3d850cae3720e6eb5e8edec6a74ae0fc95028cb97319ea679c0260de3d50697865fab83f87836c8ddfcf2c116e0c57ddd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06b8cad8afbaaaa2f9c697f4ff7dcd55/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 20",
+            "episodeId": "tales-of-saiunkoku-428?ep=91492",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/632b214f2c36444653138768544d9633bce96562f09d4124fa148c7f0c2e9d1fb67526fa40564eb22bb86bb69887c5d98b8a51e241a357020d26c58eefed5b985729f82126284f6962896ee1c44972b0cebdbf1a7cccc3436a06f49fa10b3ef41e1d7b50fd1b71bbf9305dc356f9c3d835c0cbd1ac1d48e48af823e98d1c496f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984643dd0bda2bba098a41c06ad215f3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/632b214f2c36444653138768544d9633bce96562f09d4124fa148c7f0c2e9d1fb67526fa40564eb22bb86bb69887c5d9761b16a99cd8dccf9e277347d959b5b11b087121c3da0dcadddf05bc07b5c6bb6ea29c9a971b6abaf22b026ea4459b7548b49ae844c321a052471e2d1195db161cf1efb604693f41d653d0b7811fbc217d023dddb6ee9c5e32963a41cbcb404f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/984643dd0bda2bba098a41c06ad215f3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 21",
+            "episodeId": "tales-of-saiunkoku-428?ep=91493",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e60c0664476e8b145a220e7127129f240356b4cfec367af72c4e58c689b6db4c0aad0ab67e5fd7f72f15c5bd1e6c0fcfa32a062203be793dda24b4506aee808fb15c4c96c5cb279607e9de48cd7d7ab9c8fa1d7651b17bedffd715f84e1b2a69c28530e06298c9b923df200b7e0d9c48404c3fbbb504c77e712913b89656d4f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3a70409e648796b23845bf2aada0737/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e60c0664476e8b145a220e7127129f240356b4cfec367af72c4e58c689b6db4c0aad0ab67e5fd7f72f15c5bd1e6c0fcff4516b9282dfe7bd1415e0047eb1471921d55a702ef960be4d8aee1fb5533534dec25ecf5079863577d72090591e13a0d446e0a1997cd6730f96d680493bd85ac5485c034e377c36e89df90cf9c3f25de1ef0598f6a857794fd931a665dbf232/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3a70409e648796b23845bf2aada0737/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 22",
+            "episodeId": "tales-of-saiunkoku-428?ep=91494",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0a33b95eee12967879024c4100c3e9bc37437447073c0f226a37dc28075768544327383fcd5eb0b005bfcd4e9a1af845a69309415084cb962e4788fa18e3a0c5f1ac404b5593419f87592f30ab297bd7280522bde27c036fa3b3449c6dc62cfe9d2fb447794e26652290e136ab82389a574254066bc3adb2e64acfa510a6e251/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1691248d3c38e91715e6b9061d993e4f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0a33b95eee12967879024c4100c3e9bc37437447073c0f226a37dc28075768544327383fcd5eb0b005bfcd4e9a1af845ac5b73c7e77d0f5a917058db0502ec568cbf2058661c735521fcb150afd06f2585efff13577dba8044f173bb512968398749f93e652bb68b0f9d11f26838ddd1d3b4e3f15c953b1909c1b2c310c560108cb3a264beadc485f77deff015ce5c15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1691248d3c38e91715e6b9061d993e4f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 23",
+            "episodeId": "tales-of-saiunkoku-428?ep=91495",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d96980bf16f1fa8c9eb9ee879daea8195240a0c8d81259574466c42741a32978f36a2c45d744779eba2ab296bded76d87f45fd811ea56a15a7d5c5edf9531e27efa5907ef20b9228215880e3ed56e1aad3735d0a271ebf8d24c4ab95c66ad4c45260e0c5be55e4bbc5b5a8bfef9dd93cd4bea9335100f9e8f2636a66c2342def/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97d66af9782c4bbcd2bd212ca2339f36/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d96980bf16f1fa8c9eb9ee879daea8195240a0c8d81259574466c42741a32978f36a2c45d744779eba2ab296bded76d81c7b05136f75df046577ee10934046da4411fad091f61d2a53a07b6cb8f5042e780b2451504cca90e19bf5c003486466d6bbea9a854b790729d652962fe337040754b0042bb7e867f28552b2f40846f1fe95bf641dca5caad1c1974b07a26edc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97d66af9782c4bbcd2bd212ca2339f36/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 24",
+            "episodeId": "tales-of-saiunkoku-428?ep=91496",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/4018a82fad5097c395919f311dbe50d57bee5dbc98842a6d55ae677faa07bc80e694f2a977531680b5811a4a4cebdf0a7d4e99b11f6ec49521d583b3b42428e5bcf34698c70faf30917a738d8aa780d19f36ff72511cebcd9185d0d3396a03cf2af8afa62e1e803793d98691c4cce42670215042bd3b904d06c41f35fb35a318/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b141a87539a7969be5f0747ad0f42518/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4018a82fad5097c395919f311dbe50d57bee5dbc98842a6d55ae677faa07bc80e694f2a977531680b5811a4a4cebdf0afdf1db1a88c80feedaa951e687d9dffe400050bc529a10d841772bd6b2acb2fbaeb183096e92ca3d48fc29c2bcb57783afa788bc576fd8d1efb06b3a59ba384f54f0bd6eb545e8eb1f8cf1ca2c27a0cd530ddd375569041f9ab8922c28e3c8b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b141a87539a7969be5f0747ad0f42518/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 25",
+            "episodeId": "tales-of-saiunkoku-428?ep=91497",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/d8a7efcc28104c1ddc1738fad115932b559d085f28c62675ae8f7a8ab3086ebd1cb4944703f5f1fe9e7750d6074fd25d93f7be67fe50448837ad12a05a87bca661290189a481813854ff1b94a5cf4498a18728e265d233e39289c63eaa2c10da18337979c08470aac4637104aba0f2aaec7cad558cce36ba33e09f144ad647ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d67e66d3506a4b475c46420289481c12/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d8a7efcc28104c1ddc1738fad115932b559d085f28c62675ae8f7a8ab3086ebd1cb4944703f5f1fe9e7750d6074fd25d712dfec751246af26e1b4b62cedebd2ef0cb012115648d73031ac2b3afdf40300fcc23fb131a06432bf87e17ea3c73b5179f358ff3fa820d5b4cbdf2cf76f7d94e5ba5cc90827f7a100fbea5c7e3dacd041929e45a5567415713da0a8ffdda98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d67e66d3506a4b475c46420289481c12/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 26",
+            "episodeId": "tales-of-saiunkoku-428?ep=91498",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3095cd838549e53d9bb88856edade82dca2d0f13314eb40b048ee5f76735e808950aa3aa5470caa2fad8d61017ef65057ba1bf8b74c0e0e06d10d7fb909167831d1df03f0bf5beb0a1ef58d6b4e42e58e762093d794a2ce920eeb0671c51fee2e8320b4659f2101ebd02a85be1389e36bacd4ad673205971a83dced35e7a3102/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d5e1dc54c5cd3667851b3ba94a424f2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3095cd838549e53d9bb88856edade82dca2d0f13314eb40b048ee5f76735e808950aa3aa5470caa2fad8d61017ef6505fcfc3fdbc5a6c5953d5219eb0490f2b6a2f627292de1311508194949882ea6b419160719317d4f0f4911a8177459e14a1fa73bb4f06bf31f6417a23f29981e2890caa9b8cbd0105b7a8561fd43ab951bf317833c8e47031f185af1d82082b928/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d5e1dc54c5cd3667851b3ba94a424f2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 27",
+            "episodeId": "tales-of-saiunkoku-428?ep=91499",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/edd88179868e32d8f57fbbde6c98fcc9574203adaee3298a1e80530d9637b4671465dfb2eabf824617772912938f30e5a5e9bdee97390ea72f89267a97de84a498b9ea52365ec5c992062c01850123052981d3ab9b376cc84b043fcd02a6f49e75048fbd1504b32721c63ebf15a9b266f480d364b17d8a5b3fe9dca571160eee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/056d7ad4e6a4e771295286247b6406e1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/edd88179868e32d8f57fbbde6c98fcc9574203adaee3298a1e80530d9637b4671465dfb2eabf824617772912938f30e5e866ff0daa3bd4d814bc91f6488e62a0c02795a37603b9461cf19620016ab96590af839fb1a1ce7d38c83a52f2c77356e7efcb6d34b29b9c04788e9db66b4e4af60bebdb918ba2b62944a929359ea2d44758b604f6f55f0d968e109bbeb92dd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/056d7ad4e6a4e771295286247b6406e1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 28",
+            "episodeId": "tales-of-saiunkoku-428?ep=91500",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5187b95735c288deb271a127e177b16516a3b6cc5ca622e743fdff91a99ab1b90d1db50281b7eeb07417780379c87e2f7b177226423bd104d1c15ebd53e799687f02d51c507b1236e63648190b26c63497c0784070b849badda26916edebfb26fc6afad3832bd3e42675948c6f6c17a0fc76e7876d3e5663adaf3b69f8b0571a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03f5e824be71972d5add8f3d06c7d9d5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5187b95735c288deb271a127e177b16516a3b6cc5ca622e743fdff91a99ab1b90d1db50281b7eeb07417780379c87e2faf62319c690b4cbd543f78290bc6da96feb963af9141f3a083640ab89f6d00bdcddf929318e3a00a4a129bcc02f0c4ff577d9b7018640bbcff83e6d99b82cbc365daa3bf3ddff0b2a271f50cf2762196a592c42dd61652329a9b8e3de8daca5f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03f5e824be71972d5add8f3d06c7d9d5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 29",
+            "episodeId": "tales-of-saiunkoku-428?ep=91501",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/767a2dbbc51c960a168b0926eb4f64e2fadd1f3e0d537db931aed8da23de125e45abb35b7ac69872b1c89d1edbfb846a8f74906d61af942bf79c82f18abc23caba09772f28d384cbe4035b5adb7a69c02d0258be4d9fdb6027992a8e583cfccbe40a33491eab6ea99c191630a971737a797010b49b2b7509c4aa22c7cb7e157a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d891b2e3a573f7bb04ec09b5f0fab560/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/767a2dbbc51c960a168b0926eb4f64e2fadd1f3e0d537db931aed8da23de125e45abb35b7ac69872b1c89d1edbfb846a6278a2c5c80c42d40bb4594b51b764417df65a30214c54ae3830938937c2d8a1fd4cbc803154ab8e1ffc04ee544eda671957cf6a0154ccbb6c6fdb729071556b3fb6b1c18e7d5b98dc08ea362185702022b7a6f116523818b3cb2ddf12652179/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d891b2e3a573f7bb04ec09b5f0fab560/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 30",
+            "episodeId": "tales-of-saiunkoku-428?ep=91502",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2666ba70f57da22eeae456ba14eb1974432a9be8447f7e7b18a492a4240851b7bb03e0f639b098d045d3f70c707a33644debf857ab74e77e425f4df2152e60748d226f6c03d5bf1c19c0c8e207f836085d27a7f8d26ffd7b1afa48a3b5edde8e9834758b8fae8c83dfd8f5f8c0b7f063a85b14631cc430abbb3cb033045901c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93521f5724d271a8dcce86c5920c56c9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2666ba70f57da22eeae456ba14eb1974432a9be8447f7e7b18a492a4240851b7bb03e0f639b098d045d3f70c707a3364386d05e863ad2efa44d91c187b5aa2a0d9131e13bf662c9806f4b9056af621a81dbe35672a939298806d3f8055a1b100a9c6a783aa639b5a5144fa4604d2d80efa88d1a496dab2217aa0d0784339b5d7d02ff0be9c6b2125b9f68f8696429514/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93521f5724d271a8dcce86c5920c56c9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 31",
+            "episodeId": "tales-of-saiunkoku-428?ep=91503",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/580a8e4dc24a9af1ef41b3f1e938f3ba0bcfcbabb86ed6c66bc2e03a77dc053d343aa2631a27e11fb17af67124615bbb7ffa290b86099eceab21f79250c611eeabc1f595fe2c21155de25223e9b6783bdf3b275a262b947c91f02d0738d9625abc5cdfc2cf6b043f1d7a61fc6afa16718fa78c10d980d9b5cade14c4d96d2e0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eef59c2fb86d3b59136ae9cc31b93994/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/580a8e4dc24a9af1ef41b3f1e938f3ba0bcfcbabb86ed6c66bc2e03a77dc053d343aa2631a27e11fb17af67124615bbb34a45df019b152b65b2ebaf13a37b9541d61663883a5603bfdc8085392974c1f2a05b1124a830766b17a208a55a7bc26a93c415dec997099477bc7939c440b8179d7886430498bc5e5fe0ec6839125dbc0860d78ab9faf4959413a9e86ff3037/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eef59c2fb86d3b59136ae9cc31b93994/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 32",
+            "episodeId": "tales-of-saiunkoku-428?ep=91504",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1e8125557e7de22568a63725b9e0e0dcaa87b8dd2288c795c06e45ec0061b86147287c035011cf9f6292ecf25795bb30e547f1c26440713a06c476470bd68ffa623ae6dc6b016dc08827d5463bac96d765b66d15ef5a07f7a2455c1a488df72d3595d9f4fb2cb7fc331ff92ba7aa7012e8dbdf7057915a174c1173a68c123d5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45712f8f0a069648b415edb7b5dd517b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1e8125557e7de22568a63725b9e0e0dcaa87b8dd2288c795c06e45ec0061b86147287c035011cf9f6292ecf25795bb30fc53388c69bf23c810bf832a71ca609aca915e87d8541c200005ea0238bfd3d197f527225375c6675299e0b193ac1870f887d107e0bd664a01653077e049dc8ae71de34fe36974e1cb3b3dbab0ee0c11409da5c216dc8ee96cceba9556cf8488/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45712f8f0a069648b415edb7b5dd517b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 33",
+            "episodeId": "tales-of-saiunkoku-428?ep=91505",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/22899dd01e41e47cc0100d2672eb97def9e201401e26a286f121f16e71a81c97cc9f99a9e31b25f05b6f36fc4b00ea8a3c9ec86ac6dd8257bc88fbe2c9ea1d4fd15ff7ba457d4c7555b0cf632b7335c92600eac778f2d46652c3b620dd36eb6e62222d3d300c71b108de1a5f54fd6d1be26fed0367983b246ba7bb9142077a1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a709aaede358fa92adff33ae4abbf43/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/22899dd01e41e47cc0100d2672eb97def9e201401e26a286f121f16e71a81c97cc9f99a9e31b25f05b6f36fc4b00ea8ae2dbcc7abbe9e2d62fd69ee380cf0367cd2f7d26e97233c7f68e12afbf1c7adc4a29105c23829d574e62b838b0e28e03a51c5afb18d5c393cadf0c21b6c836ad38ded3c263cf366f249c2382b431d72618e93c056ce92a01e119fd4f8eae6384/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a709aaede358fa92adff33ae4abbf43/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 34",
+            "episodeId": "tales-of-saiunkoku-428?ep=91506",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0abb7cb865840628848f8ef03d50bc24aa8933cedbde68105cf0aa288fdd07c7a68d16c27aee1e5c89ae1cdc1b5d6812ff46895a7b387812e9c4fea317041c11bfb4d716f1e3109af391ab7997f3798ea0d359256cf4ce15425051237439fbdbe21db7a30e6f669ab984980dd2acbb35f2bfa27c50ad06b9a076b03c8c92686e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f02670a9ae7c7a026fccf4536f82d4b2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0abb7cb865840628848f8ef03d50bc24aa8933cedbde68105cf0aa288fdd07c7a68d16c27aee1e5c89ae1cdc1b5d68123930e1327746227f558c89fd9d05cd05b593794b9ab2c4d7324eb3bb40f797e6e24d3bc3e8548c39c6babe9781dfdf01e67f1d8c04409d640c427a2e994be213788f83bafbefbcfa4fe89515bdc237d483f31ca72fd7e558c00a412f3091b487/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f02670a9ae7c7a026fccf4536f82d4b2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 35",
+            "episodeId": "tales-of-saiunkoku-428?ep=91507",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f5a93090ae8cbec41712a39efe41d935b3a06cdc683d4cab565d2197e7fbb0a7dbbd3dba8945a46ecef3f3b8be4c7e5816160981c27c6d488f38ac8d12a58eb0e6e8c7de5ab2628545322e54eb2f3d3da51397298018a2cd3884a0f0262361d6236dbdbfcc2632df073b34b0d17401663530940351b4f11535f7bd27042f03a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50d821d31bde0b45bbe53414d388585e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f5a93090ae8cbec41712a39efe41d935b3a06cdc683d4cab565d2197e7fbb0a7dbbd3dba8945a46ecef3f3b8be4c7e58d5a8b9a49fe6bf89056106592da24fb4dc6a5ba95207599410d810f60e04c5c2cf1975327d79cd139a9b324d945cbf9fdcf083be08415fba9ec5fe135ca3823e4763dfb1faf310f7f5ee6590ce7e96b584d1788bc781d7d3d4d58a9a2e422f46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50d821d31bde0b45bbe53414d388585e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 36",
+            "episodeId": "tales-of-saiunkoku-428?ep=91508",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/af2d69c975c8dc6bbf6006859744a8f3bbd1f1d94d3ac23d7af9f88e6dc97a1ef33996a59e4bef585d7b0cde45268e77b52984c1c012bd1ced45950a50ca24dff58506c980786b5cc2e1a0d574a85daf1a543df4611be478e614689c80642c5b6bae08b109027f0bb3fa57c7f8a52b96028ce2c798f353d9ea286e37f9589490/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8f5aff88295dbaf183c37dcafe35844/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/af2d69c975c8dc6bbf6006859744a8f3bbd1f1d94d3ac23d7af9f88e6dc97a1ef33996a59e4bef585d7b0cde45268e772488a933e5c1965cf2de8750f54c372d89a94fe7ef19acf2f506f6617f94e403b59b872e6a59c62cac44dd5e4e31d2d995b38149c0e5d027daf73dbfe1426b57731560219b8c80371891d43953809e27a01b1e2c4c5fe57da66f3ad2747c7514/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8f5aff88295dbaf183c37dcafe35844/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 37",
+            "episodeId": "tales-of-saiunkoku-428?ep=91509",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e10db0d6aaf06f7d1bd5fff06f592765bfc31c5311aeba2b938266393df886fffa5bf4a5dced78bf9c547b4329036007eb9c63d7ab036eb882fb5ccb33dd5cba226a5be026f630648e9de8bdf6bd4a5434fbdeeee59773e862263975748966d368f8fa4d23af83417ebb12cf55890393cd53612e4936c451364acacbcf610365/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58f6322074734e891c6801d22004f9e4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/e10db0d6aaf06f7d1bd5fff06f592765bfc31c5311aeba2b938266393df886fffa5bf4a5dced78bf9c547b43290360076c78d92106ebc417ff7d9012298ee922e51ea37ff402b9a541be72a698d697cc07cd2d29081ea30d15d0df2467381563c367fb855e868517b5af0bdb2c966d93885045291ef4aee89a5aacb2ed0dcb054390c923ff4481771d268f86124d1aba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58f6322074734e891c6801d22004f9e4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 38",
+            "episodeId": "tales-of-saiunkoku-428?ep=91510",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/af6a6ef948bc6024e1c191c3a0048471700cb17b9c87d8a54609d2fc97311fcbd1b11eff024ab17d3f9e92af7cce956b90b842f8a435aeb9cce30ac725757e99a7408795847e4ab281ecae2c44fdd852ca73d0f021e4de29999a8e0331732f14eb33c3fd4b87f647439e4b3fbc4fe55e22e353abf4104407528e1789d729dcf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb3a5782f6b81abb7f59f2fecdcf06b7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/af6a6ef948bc6024e1c191c3a0048471700cb17b9c87d8a54609d2fc97311fcbd1b11eff024ab17d3f9e92af7cce956ba51d6101810cd5816d29a5b6cb156e8f5b9e4e888954949a66e8dd1a760d6ff82a451e95ea66db7ccbfc356363b6a7e6ef03491acf0664928f463c13ef4dbb365e08b2ce90cbdee5b6ac3cee7b0c3ffcb91bfe1bc80591043ecfeefffa6f67bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb3a5782f6b81abb7f59f2fecdcf06b7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 39",
+            "episodeId": "tales-of-saiunkoku-428?ep=91511",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/820d2c3969e3b9aea380c8432ccd0974fdcccbee8ad3785f6a20f3aca08c927fb319c66b7df5f4670275876878b4684bc5d26f6acc631727762c1bca4f3f0e0e02551f2dc4a2ee8e7c57ab5dd7fa6f627a543dd80fc7e112799ea60c6c61bfc990d6b71860c07411b9cd81571553584fe6af26226b0301b415f56bb4c0eb775d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4160c6a8c8f477475ea4cf4d67564d6b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/820d2c3969e3b9aea380c8432ccd0974fdcccbee8ad3785f6a20f3aca08c927fb319c66b7df5f4670275876878b4684bdb5009409d845785feeedcbeae9d566d421df15817d963a324189fc6d0e4e53ee0f5a8989082623c13728c7bb074067f3ddf082727d91f707b1555d0f7dad3746ac98b9da81576d2570480d54ecbc4e07bde50123a556ea184818cabf9ab4637/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4160c6a8c8f477475ea4cf4d67564d6b/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

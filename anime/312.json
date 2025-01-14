@@ -1,0 +1,601 @@
+{
+    "info": {
+        "id": "kurokos-basketball-312",
+        "anilistId": 11771,
+        "malId": 11771,
+        "name": "Kuroko's Basketball",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8040e316fbe195b07c2a390d2af6663c.jpg",
+        "description": "Teikou Junior High School's basketball team is crowned champion three years in a row thanks to five outstanding players who, with their breathtaking and unique skills, leave opponents in despair and fans in admiration. However, after graduating, these teammates, known as \"The Generation of Miracles\", go their separate ways and now consider each other as rivals.\n\nAt Seirin High School, two newly recruited freshmen prove that they are not ordinary basketball players: Taiga Kagami, a promising player returning from the US, and Tetsuya Kuroko, a seemingly ordinary student whose lack of presence allows him to move around unnoticed. Although Kuroko is neither athletic nor able to score any points, he was a member of Teikou's basketball team, where he played as the \"Phantom Sixth Man,\" who easily passed the ball and assisted his teammates.\n\nKuroko no Basket follows the journey of Seirin's players as they attempt to become the best Japanese high school team by winning the Interhigh Championship. To reach their goal, they have to cross pathways with several powerful teams, some of which have one of the five players with godlike abilities, whom Kuroko and Taiga make a pact to defeat.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Blu-ray & DVD version",
+                "source": "https://www.youtube.com/embed/FTUIs_SuQfw",
+                "thumbnail": "https://i.ytimg.com/vi/FTUIs_SuQfw/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/8d7ixNcLoAo",
+                "thumbnail": "https://i.ytimg.com/vi/8d7ixNcLoAo/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/VbpSAW_h2UU",
+                "thumbnail": "https://i.ytimg.com/vi/VbpSAW_h2UU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "taiga-kagami-530",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b1201ac837c159755d32a5268dbd20a3.jpg",
+                    "name": "Kagami, Taiga",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuki-ono-306",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56bac21abcb5b1eb0f1d8de71a210154.jpg",
+                    "name": "Ono, Yuuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tetsuya-kuroko-138",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/02ab7cf4718be078d62427a9dc9248f1.jpg",
+                    "name": "Kuroko, Tetsuya",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kensho-ono-100",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9a4de954ab9aba29a5cc8ce71516533.jpg",
+                    "name": "Ono, Kensho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kagetora-aida-38588",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/948a178ed2a763f55cea71383e8e077e.jpg",
+                    "name": "Aida, Kagetora",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shinichiro-miki-96",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8556745f224ea14b9da8bd71b1294ce.jpg",
+                    "name": "Miki, Shinichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "riko-aida-4289",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43116dcd069860b388e224cc9e899202.jpg",
+                    "name": "Aida, Riko",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "chiwa-saito-54",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+                    "name": "Saito, Chiwa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "seijuurou-akashi-197",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52d875d2e3cf153368832f5e30878f29.jpg",
+                    "name": "Akashi, Seijuurou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "daiki-aomine-158",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/342e489c0ca0495b6cb00c3a452ecda9.jpg",
+                    "name": "Aomine, Daiki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "junichi-suwabe-29",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bdc596dcf1d7a3a61bc894b740a26af.jpg",
+                    "name": "Suwabe, Junichi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "黒子のバスケ",
+        "synonyms": "Kuroko no Basuke, KuroBas",
+        "aired": "Apr 8, 2012 to Sep 22, 2012",
+        "premiered": "Spring 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.19",
+        "genres": [
+            "Comedy",
+            "School",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "Bandai Visual",
+            "Lantis",
+            "Nihon Ad Systems",
+            "Mainichi Broadcasting System",
+            "Banpresto",
+            "Shueisha",
+            "BS11",
+            "Production I.G"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "I Am Kuroko",
+            "episodeId": "kurokos-basketball-312?ep=6069",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0d902635168197261015f59db5dea4ce9cc6116fcb4acbd06a843a9119dcb6cdc1f55098da0f0d8114e4dbecbb9fd699978c2d3d1ad0d5ced7dde1dd6e768b1806b0b0404c835c9266f5cfef0a84cb4994fbe4b3ee8c6fc931d24c35c5bce3ad19251471ed8bb94a33d029f58587cea32819d6c5b9552ed5f4c9a45ab7b4a623/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d732e1f6c3a22c36656a0ca41dfd0d20/d732e1f6c3a22c36656a0ca41dfd0d20.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0d902635168197261015f59db5dea4ce9cc6116fcb4acbd06a843a9119dcb6cdc1f55098da0f0d8114e4dbecbb9fd6993edce7bbf0919a3ce936025490320e0e0c6379e87be8ce7dd3263261f39605ac39b6de139635528ca8b6d8d7a1152fbcfeabe563460e3e79f785e263d876a488bd6851b14c1ced97499e21c73e2295d5693c76a113491f437242fb85f190b2c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d732e1f6c3a22c36656a0ca41dfd0d20/d732e1f6c3a22c36656a0ca41dfd0d20.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Serious",
+            "episodeId": "kurokos-basketball-312?ep=6070",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c2ad101156150e75b5cb27577f8156f8239053b6e537fda22e7ee8941937ec2de01dc042c86062306a6050de0d3d444145c460f2eb5f3a1d5decfaf3b859de02637ef9650c0a9c94dc6f522ff9a23e674a86f56880e4249016161c0b54cc50fc0354d728c9ad0fc393a109eada0e3f232d8473577924e6e30892b01c444b2971/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae121bee75ad18914a6483e922475e83/ae121bee75ad18914a6483e922475e83.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c2ad101156150e75b5cb27577f8156f8239053b6e537fda22e7ee8941937ec2de01dc042c86062306a6050de0d3d4441105af6a9f902bb75f38d4c57b83a51b33448794b9f428fa8f34ea64ce92a35518ad43a64485b1d296b2d5f67ea92c9f8a041e4a9c79b90aad74c42a16154df72f68cd92ef6651edc2caa36f9831b333c72e837a5de916e03e6067291873454aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae121bee75ad18914a6483e922475e83/ae121bee75ad18914a6483e922475e83.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Better If I Can't Win",
+            "episodeId": "kurokos-basketball-312?ep=6071",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/27a27025de717c9a2b737bcd5ac487028ee54c4b9dac5899aad96997aa531783ac7061ce604d2b5ce465003887aa5ad131ae142605c345c5eb50e56f65c37693f0a7aaee421caef3aed5a264d290fdec687baf9abd70854e6bd3484d6408246745b1706b507e310036b765f846df6415b6f8d1ba03bbb771a875086eb8628096/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/865c29e594ea42d2837bdd5c959bdbf2/865c29e594ea42d2837bdd5c959bdbf2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/27a27025de717c9a2b737bcd5ac487028ee54c4b9dac5899aad96997aa531783ac7061ce604d2b5ce465003887aa5ad12185d52d30f08cf25f5a5216df12df1dcdeb800039f144ce0c678b9d942894086d8bdbdea471b4d589779131cb1b7762c56ce1c9b21998673515ea27d75a8456411d1774133eae05bf56a06bb4082dec53ec9293392f1f4e4dfebbb9b82c1d6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/865c29e594ea42d2837bdd5c959bdbf2/865c29e594ea42d2837bdd5c959bdbf2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Take Care of the Counter Attack!",
+            "episodeId": "kurokos-basketball-312?ep=6072",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/72ee9997dca2c9d46c39b5a9cef8f120db312e4f73a87e86ed563bda117b34bbc2ba7ec1e0b3cc7aa552a0b81735ef8045ee85e4ade3eaad2229be14f5afdb019a4681c05e9c2d8ccc0ef9c8f86002117feaae3a151bbea926a49afa3584d0bc8405cf0a94cf46cf0f0ed817013db429ef6e0603128b192a9a563c3f78aac15a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03bd44089c82486e6fecd57cccf79bc3/03bd44089c82486e6fecd57cccf79bc3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/72ee9997dca2c9d46c39b5a9cef8f120db312e4f73a87e86ed563bda117b34bbc2ba7ec1e0b3cc7aa552a0b81735ef808962ea37bfab4250fa7edaa8964cf8a3b7e2f7ba60295f9c0c94158268c264cc009f39423ddb51333416a8c4aa4d228cc8b08117984124306ae07694c05022b2d9330265718db5d5088012b8d8618366a20877afa5a6123cc261242b5b89076c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03bd44089c82486e6fecd57cccf79bc3/03bd44089c82486e6fecd57cccf79bc3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Your Basketball",
+            "episodeId": "kurokos-basketball-312?ep=6073",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/70d015ad4bdfb44e093f64e48a3bdeaa66471c97425c2e0d9dd3c18cb24f5129ea2ad44e14e84352712afa251a2d62ce546bd98958cfb5a924342ffd59e8183d35bb2e255432405a4d6a61ba36b6f9866d417d2038aadf9c176929c08e9f81128e17a867320f2922f8e4827db442aa8fa2d248c2f8df70e16b8809c18c464582/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7da8ccc90f05a2963ffa68cef6375723/7da8ccc90f05a2963ffa68cef6375723.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/70d015ad4bdfb44e093f64e48a3bdeaa66471c97425c2e0d9dd3c18cb24f5129ea2ad44e14e84352712afa251a2d62cec6b90822ee7ad87064721780319f79cb86883f513c90c934a092b246a452d4bf06b0a3afea0b970c522472e78ab06f8d0327f18ad6fb12c01e497b6041a2fdf537028465cf9ffac4d99579d50e53ecb2096b1f363b94e1284de546093720d99f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7da8ccc90f05a2963ffa68cef6375723/7da8ccc90f05a2963ffa68cef6375723.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let Me Tell You Two Things",
+            "episodeId": "kurokos-basketball-312?ep=6074",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/5ca3f8ed021db3fc5941d78e206c435e8f3561f4d360dbd2d60ceb59419bbb8ce394e77b60baef708856086e34b277572c9e277f5d2ab762c2564dd851035dd2c2ad1c4c90fdcf3d9852aa06fea425de28ab26ed0824240027400b34084e60669baf986806716fdef01854d2feb21f7f40ab04f3657df06e51be0f14c4409dab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3809a536f85cf67bff03a785bcb37221/3809a536f85cf67bff03a785bcb37221.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5ca3f8ed021db3fc5941d78e206c435e8f3561f4d360dbd2d60ceb59419bbb8ce394e77b60baef708856086e34b27757043cf961d16e87cc723aa769f495ed45605fa068370aa4df09592fb36bbad82f7a516b7ab6290e8f835101ec1cd0a85b664ee5086098e1361d36c7c1ba8d6f81b3e90fd8aaa3094cf3eb63469305fe8d0d32d8aa85e0fb4cc7637b965caf02bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3809a536f85cf67bff03a785bcb37221/3809a536f85cf67bff03a785bcb37221.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You'll See Something Amazing",
+            "episodeId": "kurokos-basketball-312?ep=6075",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/505736a58dcae3cef856611e1fc9db6426b96e38f28e2a9281698ac1793c9372d556b4455077fc4069ba3e0bb211b813aa5520ff9dd1bb28ce2c68592906f9a013a5c0bb9376eeeb8559518eda0cb11ddd9e57e899b57177b10ff8443525c137335d58085ffdabdff7e81871b86b96f8ea6d2b645456be8a37de52b7faa293a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13db8fd0466dc87ced303301bbd782f6/13db8fd0466dc87ced303301bbd782f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/505736a58dcae3cef856611e1fc9db6426b96e38f28e2a9281698ac1793c9372d556b4455077fc4069ba3e0bb211b813ccdca98391a6c836e69543fdb0d00c84fecdf84c65eb50d2f6c962c8166c504d66875c595f70da2537219feb460e10ba4dfcc7317b77e9d2c7f28388b8ca00e497a10655e6a4d0269b4f837ec93ffc7ac8ce4e6506eab43079927ddd94be5106/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/13db8fd0466dc87ced303301bbd782f6/13db8fd0466dc87ced303301bbd782f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Now That I Think About It",
+            "episodeId": "kurokos-basketball-312?ep=6076",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5363907ae90ad3014eff256d1fbd3bcbe4720d91ac172b354fce72deaea92507e55f4ce6b15c3d7d6ef71c5a0e0e4e7fa02ba1671e5dd55d952a226bf4704a7c3d22e2aa433baebdf7a64418c0001de3f97ce76f22ac024469de2ceca7ec0024f1d061f660a202485270c69aa8e26ac1e86c615608457fe71fa1e4cb35e08f67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77be07c759dd60239b898f25e0726f15/77be07c759dd60239b898f25e0726f15.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5363907ae90ad3014eff256d1fbd3bcbe4720d91ac172b354fce72deaea92507e55f4ce6b15c3d7d6ef71c5a0e0e4e7f6dab59f99bb01336a133eef88a13d77094a842d3f085b9374ebec4ed1d0cc2aed2388e7a9569f67671474d26762288160f8329601b4df4fd05099fe60110cabccf17dd442d06ca2cf15a6410cf46059a3d72970857de9d2bded67c69048eb49c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77be07c759dd60239b898f25e0726f15/77be07c759dd60239b898f25e0726f15.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To Win",
+            "episodeId": "kurokos-basketball-312?ep=6077",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/065381b1d87d87bbda058fbce79b53a8defa4ffd5e9e718ac93ca03590c9a8e364ed36d2f5947311ff532a7d9f12f5e9c68a3d7cc0492b76b4c815b7654541fb62660221c6fd6f75ae6301b36fdce01110e6dfd9bb14e7fddf169a307e3022ed54babbdae5c88327e5de347fd6da9b5b301b889da7a9385a6a9f3351b4f44915/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78448e5eac968705e22ce2f8c2b5b0be/78448e5eac968705e22ce2f8c2b5b0be.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/065381b1d87d87bbda058fbce79b53a8defa4ffd5e9e718ac93ca03590c9a8e364ed36d2f5947311ff532a7d9f12f5e95121f5120cd5bca7d63febc8a213525709fc2f215e97fbc13ef926de5337ab1748d931a43a007da05bc9f925b873d51d3a8bb40a1f941e7887f90610ba6ab27195cb438dee48cac67e947d0e4fcab2ffb96bb4452a7d35ad119ae0efad2fd4ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/78448e5eac968705e22ce2f8c2b5b0be/78448e5eac968705e22ce2f8c2b5b0be.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Can't Have That",
+            "episodeId": "kurokos-basketball-312?ep=6078",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/f824541a65693c88c9e1a4d1677d33ea18c9d9b4991594d4bdd3a268604b7a061c3b1ae59cefb0d62d9d32b117b0861fe568067fd6fe5525fc0c5ac270451317327ad1b4e6334bb1c5e25cc3a1887818bc05b87058a7917b0216b0169f0bf60faaa28fc8e882ce937bf16942ae5d1b665338b4f49abc9f391d7be09bec82abee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55db6c19c8e6f63d37eadf4fdf46365f/55db6c19c8e6f63d37eadf4fdf46365f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f824541a65693c88c9e1a4d1677d33ea18c9d9b4991594d4bdd3a268604b7a061c3b1ae59cefb0d62d9d32b117b0861f371d6c06a9ca077a19c948241d8ba647720ad74ba378eb489c46df0d6aabba0c46f29fb0b6cc84970997faee3312ccd20d49c6b7ad1f8ff087c742f89a110d054a682f4247a6a650ecb5377dfadf17a93f96bf437e169bdd764e5ea0aa14a4fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/55db6c19c8e6f63d37eadf4fdf46365f/55db6c19c8e6f63d37eadf4fdf46365f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That's Not It",
+            "episodeId": "kurokos-basketball-312?ep=6079",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4f2e42aa0baac213c05fcf075359d7d55b04da1d4b5a5df0a95554573f1cdeb2ebd775c2483fe729132cc2b37109bf6b7068ab4347f23c003b588cacf75c2bbea8a8eb60c1fdc0ba0b5d3426066657440e44a6a046ae11ffeba6a16e17b788d8bc40dcd234d9e4943d35f3aad8ea2b3fa39f96b2a78f6b6893e75ba22898fcc3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed4c5aecc2a6f1e8eec26d71c0a23c9/aed4c5aecc2a6f1e8eec26d71c0a23c9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4f2e42aa0baac213c05fcf075359d7d55b04da1d4b5a5df0a95554573f1cdeb2ebd775c2483fe729132cc2b37109bf6b9fba8145656cc230f38260be7b762e7a347825e3ce08a0844e3202ecd2e687469cef0763b13700c1c95a230bda0fdb39168146e83e1e2e4b2345c164bca0fcea0afc1d7e878f1257ba385dd62595e38ea318ae34b7280afb82d97d1c202fdb58/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aed4c5aecc2a6f1e8eec26d71c0a23c9/aed4c5aecc2a6f1e8eec26d71c0a23c9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Is \"Victory\"",
+            "episodeId": "kurokos-basketball-312?ep=6080",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4cc10271cd807dc20ef28a735c77b79338895e3cbc02d9f65644026db39a3055bd28a62e640b2600582cb9fb10810ff27df9d578aeac250ae9bc95292a211762ce4f182c25ccdab37ca7e4d90016466b9bdf7c96d6f8ff463b07b121ec5d4260b710f7af41753f7180be0752df71d111826eed0d3814b15e2dead53560879914/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3457edee24a3794f7481c745adb1dbec/3457edee24a3794f7481c745adb1dbec.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4cc10271cd807dc20ef28a735c77b79338895e3cbc02d9f65644026db39a3055bd28a62e640b2600582cb9fb10810ff259d8d96761511e54f0f6851dc7ce2e3e43a9f7ad649755237b27946ea109d13746120ca57064173145c388586b84fc6e7baf226903252c5aefc0b907c126b959c910b10127cd0e43999e7eecfd335b785bf3f36ad1db88aa830ff748b621fc67/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3457edee24a3794f7481c745adb1dbec/3457edee24a3794f7481c745adb1dbec.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Believed In You",
+            "episodeId": "kurokos-basketball-312?ep=6081",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/f3782db72605abd56b56c1e892584ea863dc4e3c097b7d991e0914ab39ef204892a0245acb480bdf2a480839a80ba596b5532c5a12438ddaebe8033c24c33e103d4a38488c9a92a04cb6283333e57342e96540fc07dda664d61f92afa89fa6106ca9a88f8074a28244ff972f15fc33ce236e41a5736e1f95bf748f8cff6bf0fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7f69d2c7e0b3a93add5669d02cd5658/c7f69d2c7e0b3a93add5669d02cd5658.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/f3782db72605abd56b56c1e892584ea863dc4e3c097b7d991e0914ab39ef204892a0245acb480bdf2a480839a80ba596c9001f2fd2a69d02a9b72b95cc19bbf1d6051ac9a1773ee2b2df03cf602e5f4f82b898610ae711e0f238cd8ac7b756cb89fffffe003fc6b650cc2efa84091bcf40c03a4347a9a7564e85d255b90f7ddef905a18a7e554ae0376b2e27c10c3ac3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7f69d2c7e0b3a93add5669d02cd5658/c7f69d2c7e0b3a93add5669d02cd5658.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Look Just Like Him",
+            "episodeId": "kurokos-basketball-312?ep=6082",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/840d67e0042c023aa5e6b1ce85053050cbbb572753204b06c52e5ccf90e1e1e14779b3b1b537ee32fcd178cccf113d6ef2af8cd6aff53c97562fbd95abd61f3cf35272f957d16ca759a37a27ea2969c04cc422f856b79115b671c663c6a91f9cd3e55ab07193919510996fda3e7127b1e70578feb3256fa1f23be4f3f09803ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47a822244036d133ca66b620d3106e18/47a822244036d133ca66b620d3106e18.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/840d67e0042c023aa5e6b1ce85053050cbbb572753204b06c52e5ccf90e1e1e14779b3b1b537ee32fcd178cccf113d6eb9093f9c8c58f7f415e96dc3d43c7d9454206802238037e05beae14cd4dc7207ac768d3945f60b6d24967c1d70fa3086386e2ee247ffd4a0a97ed166d6b5cb04abbf70828f3423319c2509188cb863f396c7dc9302fe657ecab8f120722abcf7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/47a822244036d133ca66b620d3106e18/47a822244036d133ca66b620d3106e18.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Make Me Laugh",
+            "episodeId": "kurokos-basketball-312?ep=6083",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/87e0bfa6c87e933abc372d990fc6c48f6d7c8328a7b0ac445ffbba7e2b63328f150150ec548fa52b8995e53ddf6fc67a2b268b20aa17f417be2194c12e97401832ec97be6753add2b039d74ee1b5d3b8f42eeb4187e3b247bac75eef9b62fa5f64fae9d1f0f2ffa7b722cb3e1b25db3a45adb8cce1ff00795512e3d2999ae23e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07d2797e55c726849b5d4a817ab98dd5/07d2797e55c726849b5d4a817ab98dd5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/87e0bfa6c87e933abc372d990fc6c48f6d7c8328a7b0ac445ffbba7e2b63328f150150ec548fa52b8995e53ddf6fc67aab378efa45b0ce7bcd0eaacef8e31d3316410eb02c9f9c161c56128c18c5add033376aaa5bbb9fbf3160bbb034ae0eb40d8b1dc3d68ab8cec2a1429ae60367e09978961e37e212886468bf080e39abea68a2121e27b36f995616c6fc0aa1599d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07d2797e55c726849b5d4a817ab98dd5/07d2797e55c726849b5d4a817ab98dd5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go",
+            "episodeId": "kurokos-basketball-312?ep=6084",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b56814c47823876bdada74ed29eb2cc38c924514ded3fba1c9fe6a7d6092ad91bf55cdf1b42c702b14311fd40c65d274f1a5400c41e6c1e04203c356266e549a6b9a3f341806a29b34d7c7896bf6a7c1636163ce79e2c17ebb4165fbbe022539653d436beb105f94c01a882821abbb2ade8bc20c7c6fc331e641147dfb6a73ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72791bec5644b0fbfb83db01179637d5/72791bec5644b0fbfb83db01179637d5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b56814c47823876bdada74ed29eb2cc38c924514ded3fba1c9fe6a7d6092ad91bf55cdf1b42c702b14311fd40c65d274e3152aadfedd91257001c24610246c54d9bd7e35c96bea50b26cec099c4b3feb4640afb4408aa8e49898d2a92f566491bc97909d1bb02b1047ad4d792d03a34e6585e7bc2d045dec8edc35d1a019193dfbc97a6f12332b4bcc6b5b3b4629b949/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72791bec5644b0fbfb83db01179637d5/72791bec5644b0fbfb83db01179637d5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You're All Ridiculous",
+            "episodeId": "kurokos-basketball-312?ep=6085",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e6867f3952ad59b35af9e7eadb8c5924186e6e90418b7b554c3b26fc86fb60d760d3b3d04cb8887b8c0362114b932e248bb75338dfada5b79c749039ccda5e005cece6630cb8e20521472b21f9c532aadd6ae003499cd70e681756107437346579b211b7713da75272d35d6db52ab424f9586e2a648f291117e96c8db0bd9421/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07fa1507985d8b2509521b1554d1a0f9/07fa1507985d8b2509521b1554d1a0f9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e6867f3952ad59b35af9e7eadb8c5924186e6e90418b7b554c3b26fc86fb60d760d3b3d04cb8887b8c0362114b932e24e6b1267369b4c9101271e89fcc4014e596753d1c6ba7ac6e32e2eff4c1215c509bfd9a179cbe4ed6aeacfbdc80380aba1e70803d3c7499004007f4a2be7a07c5d6069f75e665d93406d31f2b4dce3ff0d5c95aa75e51b23d05a073b482e5754f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/07fa1507985d8b2509521b1554d1a0f9/07fa1507985d8b2509521b1554d1a0f9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "No!!",
+            "episodeId": "kurokos-basketball-312?ep=6086",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7dbbc963cbdc4754ecfc4b0a3d26dbf1d47a26ac0a7bacb3e9302e986c31d843614a370df8f1a273d6c83156fafc4187299cdbe36ef669e40604957d1aff2352c04d9c60a1f9612e4ea4de7a179b07438696d8351f08d97ce9defb4bffe6f469c8cb5d10ff6fc29ea5a1995f4cd3b75781ae64a1e736371e84bd73f97735ba02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b56c50d2f96ba0672fd9626413fb3e/f7b56c50d2f96ba0672fd9626413fb3e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7dbbc963cbdc4754ecfc4b0a3d26dbf1d47a26ac0a7bacb3e9302e986c31d843614a370df8f1a273d6c83156fafc418703bf83f3b1459f22a905d62a12ad26397daee5b4932aff42863ec1ad98e54b98a8ac6f7f172062bdb4319d1143572e58840011dcccbde9fde4c8bde587bfe93ae68373c7473d903aa19a3edcd2a7f79edc147b4c9ba68fb98dec41d87b8c2cd4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b56c50d2f96ba0672fd9626413fb3e/f7b56c50d2f96ba0672fd9626413fb3e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "On to a New Challenge",
+            "episodeId": "kurokos-basketball-312?ep=6087",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/16f6ca5883b0b95305a0dba73f4c6d1d4d4056b0b080b2ef61b43c3a3f00a5614a4ce68e021caf6e76a442fa3eb79b8ff7349b1f653cb780de3a6cee621024bed60b4998406e55b066347c51aa6618b605cc32c4de066cdf175c055ada8cf07f04318293ecd37283a1b0cb81176fbecbdb0bdd82d11c132ae7103e347298e8a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50f52351072dd69575f1f628f674fc52/50f52351072dd69575f1f628f674fc52.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/16f6ca5883b0b95305a0dba73f4c6d1d4d4056b0b080b2ef61b43c3a3f00a5614a4ce68e021caf6e76a442fa3eb79b8f9eaf9ba850428ea6dac4b7777a20d5c5e2de1598249697cb932103b6b4b72c522b8a289057a778031192eddeb69f6f631c458a5458efe18de00b702fabbfe5ab993adc1b3c5a7b35f6a536dc7d95672e4ecc142008a86486ec1fca17c9be5eb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50f52351072dd69575f1f628f674fc52/50f52351072dd69575f1f628f674fc52.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Don't Want To Be",
+            "episodeId": "kurokos-basketball-312?ep=6088",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/5405c295c3a78642d12dc88d6a7c51c280e86629b14a6bad9e3b100c8f7748e53768ac0ebce712183ca2b2c2f538470bf1f2ac95709425a9ea45cefa05d92adb92d084d556bbf7e5388862564e769ec8c7aa70b7de6a4f35573fb1458fc6674a530c22973ccccd22f9b5a4b3fbe5763c6a80c6b0d6c3ba8e483421c639224e3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6584f7f30aa4c5a7f76ae2630fbd7a00/6584f7f30aa4c5a7f76ae2630fbd7a00.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5405c295c3a78642d12dc88d6a7c51c280e86629b14a6bad9e3b100c8f7748e53768ac0ebce712183ca2b2c2f538470b524f1513503e0bed7a0e66e63de7eef43b8f9ebb3e90bd673e53e575e8b4928bf1e47147d163665dc7c8264e360b7ef44a169ff4543cb13c51e7596a556be7a8df089ded33714ef2691150a226e4f8e077eb2528157d4cebe8501887804df057/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6584f7f30aa4c5a7f76ae2630fbd7a00/6584f7f30aa4c5a7f76ae2630fbd7a00.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Get Started",
+            "episodeId": "kurokos-basketball-312?ep=6089",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/218795f317e8fe894f2d28396054107b94d8c5ef881ed3910adf402e3d290850da7caaaa0b4a89f38b8c4e4c27e7f4969287e97774474dbb3ea9276c15b1a5e93cdb200a132fdf73b9fdef8c6e5821b12fee72b0bd67648414ef3351a8182dd312f802cbdf549e2c3c0c2596033253db435a7f8e90c7c0f2ed04c0fc06ef97f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a94271a733f33a17aa4e6430c4c75a3e/a94271a733f33a17aa4e6430c4c75a3e.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/218795f317e8fe894f2d28396054107b94d8c5ef881ed3910adf402e3d290850da7caaaa0b4a89f38b8c4e4c27e7f496ce900b254a114b3164d5378dcb36089f6aa844a87508fb5682a2b354502904f9e5c1f15d6df919de558b7d223aa2dab7856c5d4b64c02baf97cffe4919c421549cc89bea1a5a200e627fc3db72130e720bcbc5a901c23af7359b2bc73252770f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a94271a733f33a17aa4e6430c4c75a3e/a94271a733f33a17aa4e6430c4c75a3e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'll Win Even if it Kills Me",
+            "episodeId": "kurokos-basketball-312?ep=6090",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0d1bfb2d1c2ff4eb607cb5700e70291ee62f1bd20b68724dac533a0c12d7310e0d443b44b529a84c1c030423a37e3209454ba09051912496734b72dbe4ed44a8950ef28228f0aea2cb7305ac231b293bf47b30bbe30f57521939fb9b5fbe1e3e48331fd1c03ea8f94a7745f6d9bb3586bb2cf850a9431bddaf722f0fd27d639d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9389fe0f6727105206c747a8221d7db/b9389fe0f6727105206c747a8221d7db.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0d1bfb2d1c2ff4eb607cb5700e70291ee62f1bd20b68724dac533a0c12d7310e0d443b44b529a84c1c030423a37e32095dcc234b634a838e9cd086833db9c25495c0459c6fb4f4b2b10e3ca9bdf16abdbcb773eacb3ee051096ed22bbefe5671ef823b9ecfe9812efb0abbc2887cec94ad3bc51bdde6c3b481472de91f5443f24734c478c23d85087206f846892cbb8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b9389fe0f6727105206c747a8221d7db/b9389fe0f6727105206c747a8221d7db.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm Not Mature!",
+            "episodeId": "kurokos-basketball-312?ep=6091",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7e9e3aa10b33cbb3f67f2dadfcde9dfc6c789db252495def99d10117521c8a472d6a02b13587a771b2d727ae284ee09ea43dbb2abf7d4959d33c8ca2bcc9d10c2e9b68ac92f5bcd868d4bd70de0b3658efa7cfba3ff07e708bda18855e62f242df2069cf91142ad82937a55d528b18a5e88095e6963cd727804230bc2066516c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4a5f4d9f4a92c495dae8f2283baefaa/b4a5f4d9f4a92c495dae8f2283baefaa.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7e9e3aa10b33cbb3f67f2dadfcde9dfc6c789db252495def99d10117521c8a472d6a02b13587a771b2d727ae284ee09e0ddeba01ef3523b70f87b7d3f7b77dcc28bac20987c80d186c46859fa3e9da4ce3899e36e0ba4ab4b3e9eb4c3370ce6169a670fd8299c1945570c4e173501b6220684f4369a01234ff30eb4f3b30827ec776e6c2102056ebca1b8cef6148086e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b4a5f4d9f4a92c495dae8f2283baefaa/b4a5f4d9f4a92c495dae8f2283baefaa.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Don't Get the Wrong Idea",
+            "episodeId": "kurokos-basketball-312?ep=6092",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/87ce3df85e2877090a9a8c04fceb31482bfa2c293d1e0a476285f27b2d57e498d1f9015456113e3a3f3870901bafaf98ce8137008b4e0d8e24ac41fa9dce504db7ca3395558adab884666f5b9505ce6028f55d312fcb675854aa88eb9b682f1a71c886f9a9d1d2323a3202981c6d4965947d4b6e3817381abeb2d0fea94aff7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eecbf653fa437a076392b117b90c5786/eecbf653fa437a076392b117b90c5786.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/87ce3df85e2877090a9a8c04fceb31482bfa2c293d1e0a476285f27b2d57e498d1f9015456113e3a3f3870901bafaf98d0e283d4030a375f7994edd6de30725f8017f4125bb8f5b06ea97ace0ee6acdef56478bb66aa47fd910f48398f6c21f70fd3a9725246c9e1d681f7769f3868caa31faf0588da2417be31a5d8385f12a6b3c58bb44c358fd1c94b3ee02c51e658/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eecbf653fa437a076392b117b90c5786/eecbf653fa437a076392b117b90c5786.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Our Basketball",
+            "episodeId": "kurokos-basketball-312?ep=6093",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/253218d57fbb9399d52f71788ce84aff7ee1dd639fe4f7559353c2f74034128e4c2a1eeb650cf8171b81e2b08f3e0f227ecb97998dd760003c53ca5f13518ecd624ac9c29058a7061f01981f15b55d9077dd29d6348591eab3bf6059bf30d61d006fe9f5aab395049c0ed4ab682c72bd7d4889cd0c37a354b3556109a425cf05/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/068e9b252409aff377ff5bea4c4e9322/068e9b252409aff377ff5bea4c4e9322.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/253218d57fbb9399d52f71788ce84aff7ee1dd639fe4f7559353c2f74034128e4c2a1eeb650cf8171b81e2b08f3e0f2275eb4788bf205480a96d9f2b6e25db45c0dcb7641bd60f0e644a6971fb7d22a1d7c11bf2cf858da857960c3e64f20fd5cb6f9ceab3b47ea75da6fee48c043e2968694cc3d9282c1ae0ec550b9806c77c93e6e7effb43819d5abb1b455e61bf11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/068e9b252409aff377ff5bea4c4e9322/068e9b252409aff377ff5bea4c4e9322.vtt"
+                }
+            ]
+        }
+    ]
+}

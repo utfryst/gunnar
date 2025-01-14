@@ -1,0 +1,592 @@
+{
+    "info": {
+        "id": "dororo-324",
+        "anilistId": 101347,
+        "malId": 37520,
+        "name": "Dororo",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e13f545f690e4278625b68aea755aa.jpg",
+        "description": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.\n\nThis child is disposed of in a river and forgotten. But as luck would have it, he is saved by a medicine man who provides him with prosthetics and weapons, allowing for him to survive and fend for himself. The boy lives and grows, and although he cannot see, hear, or feel anything, he must defeat the demons that took him as sacrifice. With the death of each one, he regains a part of himself that is rightfully his. For many years he wanders alone, until one day an orphan boy, Dororo, befriends him. The unlikely pair of castaways now fight for their survival and humanity in an unforgiving, demon-infested world.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/",
+                "thumbnail": "https://i.ytimg.com/vi//hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/CPG64L4bSkI",
+                "thumbnail": "https://i.ytimg.com/vi/CPG64L4bSkI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/NIO8M-jgQeo",
+                "thumbnail": "https://i.ytimg.com/vi/NIO8M-jgQeo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/Fuph-DDesSA",
+                "thumbnail": "https://i.ytimg.com/vi/Fuph-DDesSA/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/_wPl0zCDpSc",
+                "thumbnail": "https://i.ytimg.com/vi/_wPl0zCDpSc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "dororo-1328",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/de1bf3ef6190d171608d9aaf21c399cc.jpg",
+                    "name": "Dororo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "rio-suzuki-1427",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ca56a33018e203c40693793d57ce92cd.jpg",
+                    "name": "Suzuki, Rio",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hyakkimaru-452",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/55d52ac9f4479b2f3df46184ad3c7acc.jpg",
+                    "name": "Hyakkimaru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroki-suzuki-1032",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b0ae1069ad35e9d82e75456387bcfdd0.jpg",
+                    "name": "Suzuki, Hiroki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bandai-27480",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/816fcb7159ff6e5a9ca9864671ced60a.jpg",
+                    "name": "Bandai",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mami-koyama-869",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a442adf135293802f8992bd6c87d5fa6.jpg",
+                    "name": "Koyama, Mami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "biwamaru-5424",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e23e6d58e51124a7fd6bcf1cfe0cca62.jpg",
+                    "name": "Biwamaru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "mutsumi-sasaki-3992",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06d612cdd43c6313273f4533575337d9.jpg",
+                    "name": "Sasaki, Mutsumi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "denkichi-100362",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f615347f8c3319a6a9163fc906373afb.jpg",
+                    "name": "Denkichi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takamaru-seko-12936",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/363a5f4f864b7c336ec6e7a854120e89.jpg",
+                    "name": "Seko, Takamaru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hibukuro-42798",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/311d2cc919a82686ddf3a13d52840179.jpg",
+                    "name": "Hibukuro",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenta-miyake-335",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b0360c6a0bc204a6abd22cb5802cd25.jpg",
+                    "name": "Miyake, Kenta",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "どろろ",
+        "synonyms": "Dororo to Hyakkimaru",
+        "aired": "Jan 7, 2019 to Jun 24, 2019",
+        "premiered": "Winter 2019",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.18",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Demons",
+            "Historical",
+            "Samurai",
+            "Shounen",
+            "Supernatural"
+        ],
+        "studios": "Tezuka Productions,MAPPA",
+        "producers": [
+            "Twin Engine",
+            "Tezuka Productions",
+            "MAPPA",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Story of Daigo",
+            "episodeId": "dororo-324?ep=7206",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/78e4d14e04b32421c10192f2d77ebaf6f3bd36b8f018b8e648c87c8055dd3e08fc76c5bc8e84929811cb3f0c696fe541c9f34d06940f59eed8d2461e1d84e410352c155218c1bb1e7a53d17494e8b646975165e05e2d6706c9199092f86b4e890fe13b22713948e578146ed66a01347e78a6a4d887f78f5d82857ecb8531379e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02f2634093705eec6bb8c38493ba639a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/78e4d14e04b32421c10192f2d77ebaf6f3bd36b8f018b8e648c87c8055dd3e08fc76c5bc8e84929811cb3f0c696fe541bb58222c84560556a6dc89d617a9cc511bf05bc026f74605c5a181a4414124d29c060e1122df407fb731f306df63bd0275f5c52f21d4d8f991fdf7b3d0f746b06ac227504c59757fbe91ee52d51acd92e99ed179e84db9ef5b53ed4a4c96763a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02f2634093705eec6bb8c38493ba639a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Bandai",
+            "episodeId": "dororo-324?ep=7207",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/927c74fceb430b70feba31651dd57e37f79401e64000d50d7c251076611c7eccddf6f2157b7208234c989a70154d986815df590e1d72c3f9c496188dc1083de3e90b0bae91448d2d8d6f9a21e43fdcf14c8535db95a17d927e393c542750ed29455faaf65fc73fb04dd02ee6f283b909570bccf5992ff2f9c840233ae62def42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bfbb9ebab09e5986e21b4749fae9733/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/927c74fceb430b70feba31651dd57e37f79401e64000d50d7c251076611c7eccddf6f2157b7208234c989a70154d9868a38eb2b5b3899354af73b103465632266fac9de0a2c5eac07dd33698105d7102b83b625c8b828425662093f29ea31fddd1692ef9a80a4a4130c54edb8e954120fd4ba4aa7624b9c9635a78c8b41200ea2c11d356d9bdfc59e05efaa3a527b0db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bfbb9ebab09e5986e21b4749fae9733/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Jukai",
+            "episodeId": "dororo-324?ep=7208",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/364823e737395c273ac10d46c61096c3ad00a64e1e79d70e96c23dead54697b4ea582d9bda3d8f0491a1a0ffeceda53b6fc27c896ce0d693db3c121c44c03c0018eaecc117f37d8a3e0bf47dfeaf30f882357743a5a24901511421f3919f177edea5d9bb4f964c6c4b985cff77826e303ec8f9f62bd703b4e221e087c608f4a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09170aa1c577803b4ba4783b3eaf5c4b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/364823e737395c273ac10d46c61096c3ad00a64e1e79d70e96c23dead54697b4ea582d9bda3d8f0491a1a0ffeceda53b4678a5b2273cd5f6becd77ef0da6e41db8d95538d2d8a832059cd246d912be0afcba4cfe753d626c1b5efd444cb2c9362670c5fe7fa8515fa3a81187100df68418c7f8526f86d567495a43cc6705fa815651478532f7c97a0fd864a66268e3d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09170aa1c577803b4ba4783b3eaf5c4b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Cursed Sword",
+            "episodeId": "dororo-324?ep=7209",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ea471e02e0134b7539fc61b79f0d354002ca1e32696d118a58fd85973878d27d35d500ef185ac4682305184fa2ce5014f2c8dd315a81923380cff3f89a1191e3b784c8070bb66fbf1988764ca0863ab189fa5bbbda5bd9060b462d3592626b85556a94e404f25dbb607fe1909f36712f7901745efeeaf0961ca92b94b105bb8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67fdb6d3072ba703d7a20d136882ec47/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ea471e02e0134b7539fc61b79f0d354002ca1e32696d118a58fd85973878d27d35d500ef185ac4682305184fa2ce50143a6fd0daec26007b90191653d72f7b9eb31269513be29d10906d1cbd6045927d8d9d303bad7f5ade8fade69eb499b71eb7d5ba8d29635bba9c190049800cbc7ed4b79aba64b53269725242e5f98e431834886fa10bb68d30c2d0868f6ba3ed6f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67fdb6d3072ba703d7a20d136882ec47/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Moriko Song, Part 1",
+            "episodeId": "dororo-324?ep=7210",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/63f93f9e658e1d1a80dd265a6c5f11af262a6c9355e764d6dc13841641bd68ae84fa6e897e9dd0b8ae9fff3db07a6f1c3955bd7b71148a5c2e5dab7d478b347bb9013cae4d1eb56f16d55e4b680c41a9f56267dc89a92557c2cb3658c0e8bcc14fd8c80a6d95f2ee26a7c8f7d99faafb61f052076dcdef844fd386fda4178ace/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b025fb6710e22e1c6a63dd26ae01065/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/63f93f9e658e1d1a80dd265a6c5f11af262a6c9355e764d6dc13841641bd68ae84fa6e897e9dd0b8ae9fff3db07a6f1c4786f214da85e7fa03d5f0cd97dddf644dc7d05d816baec27958ceb8b813e9a138803647d9f46432f2d0deec094e670dd4c9f967be4a925a2dced5e74d78283404e655d1f077af6f6cce3876b5cca1064885b610523d8b806dc72f2e07584e48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5b025fb6710e22e1c6a63dd26ae01065/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Moriko Song, Part 2",
+            "episodeId": "dororo-324?ep=7211",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7e55b6e48c4767ca61f459e8c31c74b8e2cca849d55b0b25bfef040c531ef4b75e11430790104c59eb946cba4fbb5ab47a4ac0c045086d92481123b340e0625b0f014ce870419e96b915fd82e2e0ef50223d849af2fa1cfae72ba02821210a06c10e3df68ded4136625424c4afe91331966d29e1484fe2f07c891afd00a690b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d1d257854c58fa7d7101bd34ad796f2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7e55b6e48c4767ca61f459e8c31c74b8e2cca849d55b0b25bfef040c531ef4b75e11430790104c59eb946cba4fbb5ab4234e66900a6a24dd5556ea5bcb84fcd25bcbbe26c4b7a0704328f290374b78f1eac6a386f106518728490b863c9fa63df26556c0a05cbb823972ebdd5b978294d6641a13af6e1167072a6c2dfdc265db3f5ee940f05ec83cb5e5c83cea008ff9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d1d257854c58fa7d7101bd34ad796f2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Jorogumo Silk Spider",
+            "episodeId": "dororo-324?ep=7212",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4a40ab8c37f560feda31f82f63326b429d9c2a2bb4f333a73738cc5ef12fdd9b1bddcc7b4ee076337c9f8d10a1c7e19cd520bd10056980790fed70f2a1aebb6a223330bff2ca66a1934b12f7ac58a57e06d650bac65138b081da669d455709c5a255f22e01e4025352efe37d274fc170732c100cd8dafe2346b7f4dc2db29885/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5485373aab74f5390ac79fa66ab2ede7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4a40ab8c37f560feda31f82f63326b429d9c2a2bb4f333a73738cc5ef12fdd9b1bddcc7b4ee076337c9f8d10a1c7e19c900f82356051d20deeca58c3cc20194e3400ef5990b2f1e5e2012564ef62e0a382fa7deeac025263303d770e9bd36a586ac2c06a23fa4c2cae49180dff4d7e35288fc4380f54247c1f8ff5d67c7a2b5791084b8503c9c3bd79c8fc6d27d4bd23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5485373aab74f5390ac79fa66ab2ede7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Saru",
+            "episodeId": "dororo-324?ep=7213",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6f023c17178bd97fcfe11af6a8c72aa289237a37854f583043f3ddb18ffd0409375febaeedc962c784d256edb3035489c0867b16d041123830f07d5a76ed23bbe670ee05d2bdd9d0a2c0f16e8cc1e8442e065e4f6665c2f22d204137b2d4376587c0d358670fba9efbe47ae58eeaf4b14cbce76950e301ad89ec3a55b2ab5a30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/458e7f462a690d40534340c3bea9c23f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6f023c17178bd97fcfe11af6a8c72aa289237a37854f583043f3ddb18ffd0409375febaeedc962c784d256edb303548912f39377b98d618b2fecf3b935f59b3bd55c8323c3422d455baccd34744c31dec42611ca41ca8af5c883ba6abdcae523cc31a49a8073394675ee220120cc1bb67d1b90a935c0c48c466416fe77eb297e60507143c96dd066d6d7dcb6540b47c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/458e7f462a690d40534340c3bea9c23f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Mercilessness",
+            "episodeId": "dororo-324?ep=7214",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/21e07b2ae121c1b992704e61dd214b9bbfc3a6820443e3a17b49c92da35b1aa7c8b333915b8f9e7ee73daa9844a9a3edab25ee4952272ab6005d1dfa2f8f9b4c89bf1a7718f782e496ab592ce1964e84972f795db13e0415964b7c08451d80edbf1af29222d424c020da9a494311cc39415e070be1c0012efc76fb576af3c878/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81569ee76f1d14a11ca0ddfc30793c82/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/21e07b2ae121c1b992704e61dd214b9bbfc3a6820443e3a17b49c92da35b1aa7c8b333915b8f9e7ee73daa9844a9a3edb442c97eced9a51e804ee94548925eb72b3ebce8502c291880255c67562543f96ff94f939d4f3672306581b49047b0cdef7608b9ba853cc73b66232fdf5602baed7bd6c55bca4a7dbf78f2ecf339bb29f58637c8466f3d2d0e096f26a48459f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81569ee76f1d14a11ca0ddfc30793c82/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Tahoumaru",
+            "episodeId": "dororo-324?ep=7215",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/0db198e8947b0f355d0b785a1991cf8bc63b237b4442916cf4071df22a2bffa4a4331384a8f6be5082b318a5c046f632780bbe400c911dbade2ab2698752eb937c24c5ec404e59f164df6ed6e8b798104a8013f78695f6694a3eaaeace369330395480b9cedca2e1eecd9b61e1a8b9e56968e7a1b94568388a042a932255e9aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3afc1169a180d424916a4371277153cc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0db198e8947b0f355d0b785a1991cf8bc63b237b4442916cf4071df22a2bffa4a4331384a8f6be5082b318a5c046f63262491ab57c0483c7e08b969231f09deb72114fbced3ea7dc06588f2211b5d9ab9580c739edd5e7611b22ced11fb2f747c6632f6675c9142ff24cd6172be4ad1f2d0cb7dd17c4909c7ea7e8168be0c6bd45ba7981dbc624ce7ad9837152e35b54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3afc1169a180d424916a4371277153cc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Banmon, Part 1",
+            "episodeId": "dororo-324?ep=7216",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/daae18bb6712a1f82c28e15ec0d86016106eadb8bfaa8bdcfbfcd6209c7d9fe124f6130dbdbc248b95343e145ddaabf48e0a25672fe21e9641515ba8eef4d1b2a3571d0149c6b70eac4e51b3baca19ce1d2c8b11623158aae9e393684a4217727f0d417ebfd2c6840af9f4f6be811f0f2d7edc438e8070a48e62efb7c1baceeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3b2041a3e6ee6fd42f49901ee08a137/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/daae18bb6712a1f82c28e15ec0d86016106eadb8bfaa8bdcfbfcd6209c7d9fe124f6130dbdbc248b95343e145ddaabf4d74f79bca3d80d8cd8daf90c72a8f9fec42452879dbe086f15a4819c0da35148418ac6204f0d737c7a0c9727ca3aaa9a285c2a89f3a968f88827c5edae6950a0fdc8ac7f8f8827b76da842d8bcb7fd87429e667e427beedfa64f06f9daf87274/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a3b2041a3e6ee6fd42f49901ee08a137/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Banmon, Part 2",
+            "episodeId": "dororo-324?ep=7217",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/406e04a22b0b7180e6b01c185c3b3fcb547fda39368f350456f111d72f4df992777af5036840e50f7ea1107ac66796822c1d569e7579c0334322b6e01570ca05bfcc4668be9f7928cfd33635d7dfc4255163949cba2f3e502cd44d667e0beaf9c71d752c02a9d480ff6bee5a3bc0d76cae92510b962465aee5e25fa288a7e668/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4185d3fa2739501eb1a3f8d254a4c518/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/406e04a22b0b7180e6b01c185c3b3fcb547fda39368f350456f111d72f4df992777af5036840e50f7ea1107ac6679682e3b4bc02dc68645084255109d687ee4bbcc34d73851b55fee729ecf5e432ca7bc25c55c3e3ff517d293dc0563fe74c3cffff0bc02088942cbc4b56ed84c07a5ba97179a9b39f4443fbe3e48351b97f79bfef5a273c71ae5647d62ea2de7debbf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4185d3fa2739501eb1a3f8d254a4c518/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Blank-faced Buddah",
+            "episodeId": "dororo-324?ep=7218",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/e945347331b10cebaa4ef0fb9c940819b060e47e3aa8c2759049c95a47a77803ba72e532b29c828be9d6e1f28b464c6732a4907cea6388eab40b9417a9f60706937ed15c148a91ba27f1dda028c26c3eeb2ded166d5a2f0a537e5bbf306edd53d41e2b518382f62eea99efbb1866fcd8da0dce13e1d1edb4d6ac574ff00bfa4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c911d8262360b1a4bbee83fd290a809/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e945347331b10cebaa4ef0fb9c940819b060e47e3aa8c2759049c95a47a77803ba72e532b29c828be9d6e1f28b464c67f69e49ef6d22effaa838ea5daa97e313ec718bd83d67e4644e3505e2b23755b1839d6a860cee6209d2dccd46e824ab6ee255e6f2b82be8e6404f730904adbeb4e6e6862d121bd6809b06650f6ca1da9aa11d719fc74ed1d61481a011857cf391/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c911d8262360b1a4bbee83fd290a809/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Sabame",
+            "episodeId": "dororo-324?ep=7219",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5fb9d27958ce3094b415ff729c79a7ab409632e1b800509b3ee48fb3e0ecce1ca70da72355181885222a72f8caf58f0566e96f8b99ed1f8f9460a762a00916e6c5c9320747c4fb4057f1d516c132af2a0a48ffdf6e4b6046ea38069d415f1ddbf33b6b2fc7a6fc8b3794506125887a2fc12d2b7eb2d3c426eabaf5c2daf00ca1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec44b61d99811809ccd161076542cfcc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/5fb9d27958ce3094b415ff729c79a7ab409632e1b800509b3ee48fb3e0ecce1ca70da72355181885222a72f8caf58f050057a0bccf4c1dfcb3d1b6bed0ad6a2c6b8fd0d6c5e433597c22367215a7f789c43d6e81123c82715da45d8b4135557933c169e972d9aee5227e20d6cf8542bc088480be4b62883c36597851a620884570a7f78136cde5c14b76d68190654c63/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec44b61d99811809ccd161076542cfcc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Scene from Hell",
+            "episodeId": "dororo-324?ep=7220",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4a9faa725d1fc6f43e224f5278e12c3108ddbd4a7fd967f34dbe7e7c88c8fa728e6fe64cb28a6bb9ea3c9a4f36d6f0537f9f9913e4790d848a9e47bdd1dd28b6d8044edc5e6325d282ce090a36ee74e5ae6068852462b5607ddd3f7ac14982c09785dd19e9414ba4fbb80390e91e591794365c996086ebe35954dcb71d2201c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7231c47e57d1586cae2efbd39d263c25/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4a9faa725d1fc6f43e224f5278e12c3108ddbd4a7fd967f34dbe7e7c88c8fa728e6fe64cb28a6bb9ea3c9a4f36d6f053e82be65395da8012b328a6a18ac4aca5d8e5e745bec0699226a87520e610376c9f49027a60e3a0c9b40ab81afa42cb31db75f81fdc8bb206a25b335bfa612ea77805a0ca61114c91137e2092291d68bd27feb1f6e7cb36ebce2ed295b5a60af3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7231c47e57d1586cae2efbd39d263c25/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Shiranui\" Transcription",
+            "episodeId": "dororo-324?ep=7221",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/85b16191ec3854e90749b3f6dfda83292a6c91cadf6867c2804dc0b4f6ccd3892f1108fd9518e93627bd1c781a2a9c1a2c3b33d08f4d87bea2049e4912b491366b0fbcf449714e2954d8cedc08678f7df3cc4677e5e9001319a758815c0f842d84055d3867febbfb8c9d0ba17a60f2b97fdd4353ecd926cf197a950d8ad9cc09/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3dd4b50bab56c22a8e34eae7acf4192/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/85b16191ec3854e90749b3f6dfda83292a6c91cadf6867c2804dc0b4f6ccd3892f1108fd9518e93627bd1c781a2a9c1a2f8289332e281400c196fcdb80565a83b5d82cc98dd3b3f1d73e18aa20e3951ebf144619fe513e7353b69ac994c399c4d5569a8de9436a1fe05853b60722f67f7216e8c2355181432e9e1defa4d9432c3fd8f2e38d20fbf2a47fbf4770aa0b8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3dd4b50bab56c22a8e34eae7acf4192/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Questions and Answers",
+            "episodeId": "dororo-324?ep=7222",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/34ce0ff4685656d1fc1e4a77131ccc58ac776f4738ed7110b683bd2ee31e784e4e71fd20db3156c193fbcb8fedb678c7e869e5ef810bad1b6fdbdb9f3fb923e52a1108e03ff08b220a37b2dc256ed641ff8912551690897068873bace7e98e35cbcfdf518d3effc2b060643c27341186bb7f7618783cc333d1b87f19fd24bc75/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb265c562643bd765ba4718dd3d8a23d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/34ce0ff4685656d1fc1e4a77131ccc58ac776f4738ed7110b683bd2ee31e784e4e71fd20db3156c193fbcb8fedb678c797b9a7530d62a5ae5a0052739532f26c6206f5146538e01731950fdc0a78ecf915f7318397813405d5554fc85f62f4137ac56484a14fc35fc207bbf71fc759c633c8b9f8a2d4c6c7b90c7a2010eebcca03fa4cd8860978ab4041167e376bdb61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb265c562643bd765ba4718dd3d8a23d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Cape of No Mercy",
+            "episodeId": "dororo-324?ep=7223",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a5be9086a720f103e5b43714c90c54088ceae637c6bc33c8f4afee44c9cd364598f4960bfb2e418475ed893a633f3d10294f57ea16b7684b0b4b870e890547f058d6a356f4908c6d52c715f75ca8a61a186177747f890fce779a222cbc1ad740c5ecf4597bb29cbc2ea7bff5f070ec3a3933924b7d37cd97d6b174c4c410d8ec/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8eaa0b3cf52c6cf423fb5485819cbaaa/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a5be9086a720f103e5b43714c90c54088ceae637c6bc33c8f4afee44c9cd364598f4960bfb2e418475ed893a633f3d10712edafff4a27718c5dacee163e415c5486fedb6190a4781c1e39741512afb29d3dcb55a8096db1cf1edf553ed0eab65d163d9010696b430625f43fa849398111602bde02c30aee03f5564784a0c10237353d69c7565ac44855ce9ed484b0051/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8eaa0b3cf52c6cf423fb5485819cbaaa/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Amanojaku",
+            "episodeId": "dororo-324?ep=7224",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fef6011e59b6e1d8c84edc5bd734308ab5f0027dbb5ab7ca1b03644aeb9a76b367fb5cbdde0d40ffcc61c98a551d498230b67fe67205c8e83e0abfc662fcbde10bda50510b57663f1605de9cde58dc47b9b958738e83dd0640ab9e4a0279e88ff99b4304ea44232f67e76104967507d82b33d89d03b6e344ce3a11aade041901/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/255c71cd592b11f2b22a1aa6bee799d9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fef6011e59b6e1d8c84edc5bd734308ab5f0027dbb5ab7ca1b03644aeb9a76b367fb5cbdde0d40ffcc61c98a551d498273bb4c6845cafb8a4412c5ed8db7da45c3d1e830ad50a57f42334bb8f3c31ab056bde8774033fb2461585455af6f5435f8f789aa3a461510629933d79ba566826e6882d95906f1efcd12faac4e94879ae8b27a1107b665b2889a25e1a6b48829/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/255c71cd592b11f2b22a1aa6bee799d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Nue",
+            "episodeId": "dororo-324?ep=7225",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4786312bc3c4ab542753aadcaf6d2f04b9e07d8491319c98edbaa3a19ad2417c30b3f48f1cd1586e88ee8f6616232b213518342a65a6f21fdaaa2a3bfbed823b1fe32d3e4d856d028cef2a7507f18d392c2aa60ec77c1f41275061eea07274c7d8d641353ea4ea9b803eedcf9b52843fb7a9def1201fba5f9d1e3534cc4522ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2165ac5815da4e5e6456c7a86c54a7b6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4786312bc3c4ab542753aadcaf6d2f04b9e07d8491319c98edbaa3a19ad2417c30b3f48f1cd1586e88ee8f6616232b2157c25356982977393c6c694edf8c5059030f5bb5f79ab6a34e84e1c829ed10bd9dc5874db81e5178f0989d6d542c7420b778aafbd64c17a96b740242d80d43b2e6dec1f210413f3a86e9db47b8bc35cda1aabd9d7c2f813f6f916cba39ee070b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2165ac5815da4e5e6456c7a86c54a7b6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Breaking the Cycle of Suffering",
+            "episodeId": "dororo-324?ep=7226",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d343f7b19ab5655a333c1007d7aa86b0d00d067e5db3785ca288de7b6556911a31eba4b936d52800b095eb4f0289349beff8f87f4a47b7ca6da5c9f5ee9bbbb85a5f44d6d2d14a806ce63d17a958dd542cb2414a73d6cd7e81c5ba98931e9d23a8950fb8e25e815d5cebc10ac46b88d8b60d02eb89eddf4670467558b6a199ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c21ff654002e5fe3d4af6a36e6560b2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d343f7b19ab5655a333c1007d7aa86b0d00d067e5db3785ca288de7b6556911a31eba4b936d52800b095eb4f0289349bc061c6be82b833d9c572f84c6d543d90f1d9c171cd60909bcc0fbaac8648d286e03380bda7159084a5327ac3c123e0b92e7c59570fbb071ad6df394634c00e36941a79995da9f7b0bcb0c5259bf2543e63bad95abb92e399779b43391d4e988b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c21ff654002e5fe3d4af6a36e6560b2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of Nui",
+            "episodeId": "dororo-324?ep=7227",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/06059ffc8fb317c897b3811f5fdbb55fe7e32f13d8df51fb8950736bf25f6ef203a2d3f7a28870b4da6b5d70e190c0eecb904900acefc969a85d5355860bca1d2fb4c1b4028a10bd3dfcc0844d98ee6100ab850456c70db3580b2f20e39a5855547b003330158f89836bfe8859e77d76cf3de847f0598f36ef223a81ecb61256/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d60fee7788a59287d0e45e5e6df4ece6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/06059ffc8fb317c897b3811f5fdbb55fe7e32f13d8df51fb8950736bf25f6ef203a2d3f7a28870b4da6b5d70e190c0eef940bed66e3ed8b152330f2dace0fcd5e0e92d4a86a6023e3cd712d245f54055b28a1c96c21531f5e2c24d90c1fe49bc99a756b84aed85fe9fd4c6fdd160fa6c208e7b30407e60930c40200fd326b9daff8e1ae389be7365604f75c66a7d0902/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d60fee7788a59287d0e45e5e6df4ece6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Story of the Demons",
+            "episodeId": "dororo-324?ep=7228",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/797989a47dfccb65bf094d124df49b19e96f9c9043c8ba71f82fe6111356be5c21eeb82b7c31504ff2d9319f1ddd027945f9974a5e677157458e2e96fe5c4ceb134bfac575cd1bf77da497a443d99f40fd490b3af304eb8e1283bdaa6d497df4f9a1b630dadb51e34a1b98dd106bb108718b3a261d2a0b2523bef65de9ceb526/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6fd2a757f8ac8d86330bc6bb5fe6544/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/797989a47dfccb65bf094d124df49b19e96f9c9043c8ba71f82fe6111356be5c21eeb82b7c31504ff2d9319f1ddd0279159b991eec666786c5890145a1c6e55b5fc171f4a3b239c938bc54a749368896e361da26e1cd6c7ad447cb53cb8a3fcb3318d4d6a38301915222d0c0ea40bf896f2e76b3550330b7874ae22a23de8132372d2ace7bb0c48443d50970e1ddb705/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6fd2a757f8ac8d86330bc6bb5fe6544/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dororo and Hyakkimaru",
+            "episodeId": "dororo-324?ep=7229",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/103caf13d7b7510bdca491157242bffec0f566a5b0d19df7a8470b1d05c2201780cda3886d61ee3b3c0a4c6cefa7213a2901978697ad6c11ff8049504fc90eb49c1cb1cb31b557ca6e1eca0641bbf7075fb0f849571f76c70c282957ae8d0b58003b7e5ba1b79a5eec70cb6bcbdbad11631983592bfd4fd1d97848a2a0d74580/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f54be15f5796076ef4cc30d57be4a784/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/103caf13d7b7510bdca491157242bffec0f566a5b0d19df7a8470b1d05c2201780cda3886d61ee3b3c0a4c6cefa7213a38be72a2a8e20ab7ec20e936c2eb2dee6256b151ebef1b4755549ee387eee6e2e76e5f32ec123a161842c413c877b92b68da21b2e680bea941ee92babc099f1a4b7b50f0c6792b104e091a166b4feda1cb45f3a547da9bcc9b6f4ec33d8a1687/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f54be15f5796076ef4cc30d57be4a784/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

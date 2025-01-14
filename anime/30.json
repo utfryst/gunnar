@@ -1,0 +1,627 @@
+{
+    "info": {
+        "id": "monogatari-series-second-season-30",
+        "anilistId": 17074,
+        "malId": 17074,
+        "name": "Monogatari Series: Second Season",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cc1697af64c1f7dc2d6ac6110afa41d.jpg",
+        "description": "Apparitions, oddities, and gods continue to manifest around Koyomi Araragi and his close-knit group of friends: Tsubasa Hanekawa, the group's modest genius; Shinobu Oshino, the resident doughnut-loving vampire; athletic deviant Suruga Kanbaru; bite-happy spirit Mayoi Hachikuji; Koyomi's cutesy stalker Nadeko Sengoku; and Hitagi Senjogahara, the poignant tsundere.\n\nMonogatari Series: Second Season revolves around these individuals and their struggle to overcome the darkness that is rapidly approaching. A new semester has begun and with graduation looming over Araragi, he must quickly decide the paths he will walk, as well as the relationships and friends that he'll save. But as strange events begin to unfold, Araragi is nowhere to be found, and a vicious tiger apparition has appeared in his absence. Hanekawa has become its target, and she must fend for herself—or bow to the creature's perspective on the feebleness of humanity.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV Otorimonogatari version",
+                "source": "https://www.youtube.com/embed/YrAdRp69BBY",
+                "thumbnail": "https://i.ytimg.com/vi/YrAdRp69BBY/hqdefault.jpg"
+            },
+            {
+                "title": "PV Onimonogatari version",
+                "source": "https://www.youtube.com/embed/622CKlCkaUw",
+                "thumbnail": "https://i.ytimg.com/vi/622CKlCkaUw/hqdefault.jpg"
+            },
+            {
+                "title": "PV Koimonogatari version",
+                "source": "https://www.youtube.com/embed/ox11ksuptoE",
+                "thumbnail": "https://i.ytimg.com/vi/ox11ksuptoE/hqdefault.jpg"
+            },
+            {
+                "title": "PV Kabukimonogatari version",
+                "source": "https://www.youtube.com/embed/AYchJZkmTAk",
+                "thumbnail": "https://i.ytimg.com/vi/AYchJZkmTAk/hqdefault.jpg"
+            },
+            {
+                "title": "Nekomonogatari Shiro version",
+                "source": "https://www.youtube.com/embed/byyT-ughx-s",
+                "thumbnail": "https://i.ytimg.com/vi/byyT-ughx-s/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "koyomi-araragi-45",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9d2c87fe274245e690e4605200016d83.jpg",
+                    "name": "Araragi, Koyomi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mayoi-hachikuji-230",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/89e6c31d6b755f91ae4b113a8cfb853f.jpg",
+                    "name": "Hachikuji, Mayoi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "emiri-katou-213",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0b1777840fc86db3ecb2efaada6f234.jpg",
+                    "name": "Katou, Emiri",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsubasa-hanekawa-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf9e2e83190bbfad9f66ee9bdb30d86e.jpg",
+                    "name": "Hanekawa, Tsubasa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "deishuu-kaiki-146",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3733d0f588a99fd692ed3099bb75939a.jpg",
+                    "name": "Kaiki, Deishuu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "shinichiro-miki-96",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8556745f224ea14b9da8bd71b1294ce.jpg",
+                    "name": "Miki, Shinichiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shinobu-oshino-35",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/41e75c29bc2bd1a55102860d3c8df1ee.jpg",
+                    "name": "Oshino, Shinobu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "maaya-sakamoto-34",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f8d1ff4eeeb93d5c65e3a3c1e4587c26.jpg",
+                    "name": "Sakamoto, Maaya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nadeko-sengoku-442",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+                    "name": "Sengoku, Nadeko",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kana-hanazawa-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+                    "name": "Hanazawa, Kana",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "〈物語〉シリーズ セカンドシーズン",
+        "synonyms": "Nekomonogatari: Shiro, Kabukimonogatari: Mayoi Jianshi, Otorimonogatari, Onimonogatari, Koimonogatari",
+        "aired": "Jul 7, 2013 to Dec 29, 2013",
+        "premiered": "Summer 2013",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.78",
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Romance",
+            "Vampire",
+            "Supernatural"
+        ],
+        "studios": "Shaft",
+        "producers": [
+            "Aniplex",
+            "Kodansha",
+            "Cyclone Graphics",
+            "Shaft",
+            "Aniplex of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Tsubasa Tiger, Part One",
+            "episodeId": "monogatari-series-second-season-30?ep=900",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3ac4c80599dd1d1d783bdc79bc80226aabe0ac15c1ea95d01f65c38ea15e3864ffd0f4cc2b9a35d0cb7f412ce4c4acfffad05de5c20dd0e2dd55097ea001f985f8f97c84df97d34af661a7f692c758556b507042fab1c8e4da8df89194f754cf900a59d2ebbbda8988e29048c04710314dfd0fbde24dffa9b6ad2effe473bb8f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3ac4c80599dd1d1d783bdc79bc80226aabe0ac15c1ea95d01f65c38ea15e3864ffd0f4cc2b9a35d0cb7f412ce4c4acffdd2bbd65e0f4011dc9d0e5f934f92f889930c569d9225d0e2c1cdf33c461de0c5bc65732bd27b03a712499116781b0e4d34177ac86f309494594af4b7b908d102dc0a62091f23de1ff8c45f7f783dc58d594f3da4335f3045aab065b6dd46785/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Tsubasa Tiger, Part Two",
+            "episodeId": "monogatari-series-second-season-30?ep=901",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d7e8a396b92f8cd57258e0747f5065e74963b590cf458bab4042cd1a95eda7fb8d865326b5933a9132ff2311e288302f56af99933415d3cc1ed12964cfdcf44215ba7707fe4ad3ec66354b55bd0bacd654a56f6e7fc426b7b659e250284ab23e6117995f96332a85c4def7f08450643f9eb2232944ef108009b926ec0808a327/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d7e8a396b92f8cd57258e0747f5065e74963b590cf458bab4042cd1a95eda7fb8d865326b5933a9132ff2311e288302fc7c5d83c711b8c638047bb1b0496edcccd51521168c5f81831d516d8ea4e0edb64e6d3dde8c10e16f383f70a2784a6dc8fc20f2b33c064296cdc4dc8f2fa5143a57bba8741ea67ce6ee318cd42c1b02acbe4334a62179d5637d2fd3995025187/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Tsubasa Tiger, Part Three",
+            "episodeId": "monogatari-series-second-season-30?ep=902",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3fa46387105c6d9053f6941ce8cef65bb13cf190c5bb91df5b19b180dbf8f38a9dd0d3af2ac9a899db28a888b1c74211e82b7e824ecab9afcf46ce39ce65ed228199435756b5d6767e010ace1d6fedd81657b374310e76611517fb222a3a708bcc5046945855bdb7174a01c759437469c95b63bf5fdf3e10003d19129d5614c6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3fa46387105c6d9053f6941ce8cef65bb13cf190c5bb91df5b19b180dbf8f38a9dd0d3af2ac9a899db28a888b1c74211c5fadd50777e351352ee6c1e24d06cb0f007dc0df0cac6655851623e63b5d88058f9a002ca8aa9fe537569ddd127c602a34d2ceb92a08e3c5db20fed01c3b83cf005b8b8c55d694686cd129e40b69dfa14df278a7c8b0685128b9b79af4f93aa/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Tsubasa Tiger, Part Four",
+            "episodeId": "monogatari-series-second-season-30?ep=903",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7e5f9591dc0e0d13ef2b32c2784d8a4ea61eb7daaa9b5c99863806008be26ce9a14e3170d1e9eb014583d0d706c12c016e7339aa387c4792b31e7f9c02548cfaee816b44e299ec98ac97f08c1bef2ea600ea0d7b83f7cf3fd2436a8ef8e8d3624c15db38144a5b1d1ce8137ddb32d64530aeadc62a0a46ddefa4b6eb42fa71ff/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7e5f9591dc0e0d13ef2b32c2784d8a4ea61eb7daaa9b5c99863806008be26ce9a14e3170d1e9eb014583d0d706c12c017f439c9858b4865bc7bcba1b2acae9cd6fa2c3c9c842fb60e68d7bacd6c2304e3ec6c17d5de81394c83c089254aa4edfb521130a1f24f492f87bc97e9eb25fff3c0f285052083d677e56ca8c26676ea4b6b9cd0134fd35f81eb87ea19ff70f10/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Tsubasa Tiger, Part Five",
+            "episodeId": "monogatari-series-second-season-30?ep=904",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3b030ed1d1ccf8e61281d758ad73d3b6ef3f8f0436159fb09e1ae6314301c73c3f7f3e6af92bb42a43fb8f08aa7a2da4b3b08e56ec773e060be4c4bdc0e3eade091d21460417e8cdadd6f5bbccec3e1a1c4c23ffa787eeebc826f239e7c8c3b4ac9de18990e1df45994722c3406b53387bbdde0c375d398b88b5d61fb803cf10/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/3b030ed1d1ccf8e61281d758ad73d3b6ef3f8f0436159fb09e1ae6314301c73c3f7f3e6af92bb42a43fb8f08aa7a2da4217c56a3443c9f0839946dfaa531ed5bd92a70904e17c8f7244f6cb240a2b47d3063053bd4231002820ada848005af11b564d83fc837f64c16bb7ea2d608767a521fe1f5e1159fbe20d7671181cdcbfada6976aaefce0a611b11ec2d525fc21c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Summary One",
+            "episodeId": "monogatari-series-second-season-30?ep=905",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3c06cf6a09b539f7c046b72dbc86cf3bcd87c9205a49947abccb007aba7e32742a5eb80fb65a9f9e2e82443758d2ab8b7251810efdba903850f0eebb3f281e570bd1b19ac6ebf81d0b713a0ed0e4403182e74373d664b90ba8010269bf3e72e085dc4ae59331f89f614f391149d3d3e636448c85536458bce1af676b95b14436/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3c06cf6a09b539f7c046b72dbc86cf3bcd87c9205a49947abccb007aba7e32742a5eb80fb65a9f9e2e82443758d2ab8bcf20dcd06cb0eb64957318062ebf0fe0f75577b5ee8030b133c6442f10028e6f38673e7c270e35173b6be72cccd28afca5bf2b26c8ec010ed42110b7837a0a96f7430a87aafe54f9bfa527a8b52d46eb8ec32c34020ba06bc333806ccdc9e12a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Mayoi Jiangshi, Part One",
+            "episodeId": "monogatari-series-second-season-30?ep=906",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f676a99cb33d8e17fc8e6b8dba668c87ea98429b194d8b6b2a674cb0a887a4f778cc63e2f183615b39ca56e67932062b254a07918e8676a9e22b7ee96e701006859a71bbd40bcf1f45758820d49a8e1cc3cbc5d288c75dcbcfeb98ffc2b8ef981f44ff69dbc31362cb1cea0914dcd406735eef77f0cc93d2de1e27eb12974ab2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f676a99cb33d8e17fc8e6b8dba668c87ea98429b194d8b6b2a674cb0a887a4f778cc63e2f183615b39ca56e67932062bc570daf0c0a7b3893751a6ecbd25ba129d6aecffcadf61728af3546aea675354c2ed9effbbdd4765f67837fe3b21da1a1f8ed4d9e58226033961fb0de779106ff33829259a81946c3162eb3060a4fdac2975d02e0ef05a3b2768628324688fc1/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Mayoi Jiangshi, Part Two",
+            "episodeId": "monogatari-series-second-season-30?ep=907",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/86ff16d2616e412503bd468e11b9f21cb84db746472cf89a92604fcc95708ad9ddf403888eeb09233f8fc687de97c30bd1017566486bf8a7a0620e25434d0629bf18820ac973ec341ef8d9a8971d1198ec277ec4245bcc4a06a4fef5e810d4769be6020284da4815cd5d674761d9481b186b0cff88e2ee4f6df7086da605ff7c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/86ff16d2616e412503bd468e11b9f21cb84db746472cf89a92604fcc95708ad9ddf403888eeb09233f8fc687de97c30b79486d9cabb10a59b8983bae64bcf6ceada86fe7b10a675a8e02eaec2695b2852de180796b24b4a7778f5ab9ed9ceecf34205d989de4b2674e29d61b51cc37ba8a592c38b588b13b4000781b0d0fed55bd824851e886aa2d898de7c6d3369e19/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Mayoi Jiangshi, Part Three",
+            "episodeId": "monogatari-series-second-season-30?ep=908",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/114804c2ea2ef43693c50edabc554eb53749b3890a66bc079789b9bfb458705e04be8f93e2c738dee2edde79bab6d58546da85d9a1d9df9b71e889a7403e7b4afbf65298780c310370c639e62189c38b4f1b5b1822633b7c2c9e1bf8368387f065fcbbe7b334fe499b2372b426d61e0e4e5fe1e23e110f1198b1f50508d28804/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/114804c2ea2ef43693c50edabc554eb53749b3890a66bc079789b9bfb458705e04be8f93e2c738dee2edde79bab6d585e161e841ed4323b5fbe0d9bed75c9d5db39c351e8b6ba41155becc37524622410662089d5f18fc1054ff26cafed332ed7fbb85a32e481579a11e497ff51b0f774720234342e6337b2968b516aec793c8af1ba444984e39d8f0438b5838cd6f69/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Mayoi Jiangshi, Part Four",
+            "episodeId": "monogatari-series-second-season-30?ep=909",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8ec508d29839c8cf02cc8fd56efd149a675126c85178c1cdfdf4aa253514b13b114f8ccbe61d28e3948a393ed9765220321d90f428cb62ed58adabf6b5934a236468d221c17c58f1c18809f2341daf4126ca9fa9f83060ae847357216a2d231c898ce7d3cd61288b09b09f538f989ce610856264908d1f653066e1b1facfdd42/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8ec508d29839c8cf02cc8fd56efd149a675126c85178c1cdfdf4aa253514b13b114f8ccbe61d28e3948a393ed976522031350c443ca9c96770c7240720753bdbe96180af114f9af070339c06bcbcec5f95d64c63a2377be73ddf4b1aa603e1a9b920e8e7c8eb055eaa6ad8cdf4b93e0e1a9ab67fe3785b3e4a86eaf3dd8d8ec306af80f4158f8a006bbbddcd0bd35512/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Summary Two",
+            "episodeId": "monogatari-series-second-season-30?ep=910",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c08796c9cc7f3498a2043f9b64b1ac3414f8b7c972962fcefbf8520c23e93149075744d46fbaa596b230d8aae5190adf0f523a31b410f604c16a7c8570057b380dbb129c7ee8cc26afc43e9cf8be62d9cb20c888b376c78eaca1bddf88f4cad12c19459662955e805ea469c2d44da282cf7d5213526e18514c24ef3793849891/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c08796c9cc7f3498a2043f9b64b1ac3414f8b7c972962fcefbf8520c23e93149075744d46fbaa596b230d8aae5190adf114db14368d4c4c2b28eb0a6e320d39decfc226f749fb8733586618be87bff31ff46f2770f14b785c1f8c6f9f62d25255604617ca706322e3e75bf3ebbcd78f90ba65a36de1ad8f1bacb42dbbc4d96350efd5889a7ecf9c2ebcf1d1764f0a72b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nadeko Medusa, Part One",
+            "episodeId": "monogatari-series-second-season-30?ep=911",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/493775861a81ccfb2c679743298147fb54ac21026eee814fc552adeea5569c1c44e3288fa6f06e2f63d40ed67f7e13fd1c20e38b3953e015566f6b9f27f5feeb4f81539abed016315822658fabbea70965d355c94ab17e43b569d229c5dd225b92e4add442791011ad5b8525764daafecff2810aa8653da46c22411655a5417e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/493775861a81ccfb2c679743298147fb54ac21026eee814fc552adeea5569c1c44e3288fa6f06e2f63d40ed67f7e13fd78de39e0379e8df07843dacfd920fe9f04fc106c21f6021a55d1e3d2b9a30f890c42f4502f4bdff74befc46a2d454e52c05e586c7482e04bb6fbe8297d39585e864b00e06e8886bd842515b6ac957b1295ecd7e5f64ca8d86b71acbdb70193c1/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nadeko Medusa, Part Two",
+            "episodeId": "monogatari-series-second-season-30?ep=912",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8e9cbdedecdd98f8826e2f68e85b4bb465f57216fe2a1d1c143aa814ebb19100e72a919092a9f17a23133a5a9ba40ca953756b018930d296e765f7e4efe1e631067b7d0af39930f0335daba481b4d0e1dbc37e931ea84a6042bf294390a63e527e3146fb4a5ff5c2edfa7a6c9e516adde1d98ed37183ce91050ae441d85d4284/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8e9cbdedecdd98f8826e2f68e85b4bb465f57216fe2a1d1c143aa814ebb19100e72a919092a9f17a23133a5a9ba40ca92755f2ecc717e3253f3b5a1976542f6b97f74c31a4c4e73fdcdd593cddfae1f631c27f09ade320f0e2188d19f9c9cc4350bd95c319a4c9bf7b7c9637837b710be8edb5d026c5ec40ea2d63a2100a00f39e05437990c60f57719f732de6c2cc9b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nadeko Medusa, Part Three",
+            "episodeId": "monogatari-series-second-season-30?ep=913",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/76914bd0643aff7bbfbd13dda84b011d1d3e0234928f4f74c2e9a5b1386d055d87e7c82efabd466c943cb78f4eda9dfd944e8efa0d5d4cc37ba0c022dfa54d2e07ab4e39754083ad93fa3c9cd4a45e670fb588e539fff7e5f45b1997a24893b407d809675aa82a9c34acbe92fd22017fc543bee7e84daf5cdd84d6caf238dd9a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/76914bd0643aff7bbfbd13dda84b011d1d3e0234928f4f74c2e9a5b1386d055d87e7c82efabd466c943cb78f4eda9dfd04622f636ee5b7b3b7f9cc2dbf4fd749a4be5a38ee927307b0d5bf82fcb5819bf308b75fc51a717306fb53a4952e8fdfc541ae9db59d29b75d14d68fa7af07c9a717b7f177de8bd703fd85690be074be7de39cb8864a61f67f512f1cf3910c61/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Nadeko Medusa, Part Four",
+            "episodeId": "monogatari-series-second-season-30?ep=914",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bdd3348d252fa2f010a20155c8f1b9b5b541c0e05d8ed6667d3bb76115ae1b1b904f7dc4ab988aa82381cf6dcf0e18e0f0e0b0c0afbb74f273b6b8a66b62c2cdb443333d8260e7b84ffffa9d046354be11cfdf661dbe0a5becc01f2e4ac82a689197c32ba66c4236cec2804294abb03fa49366da26c819deb5df58c07d98af30/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bdd3348d252fa2f010a20155c8f1b9b5b541c0e05d8ed6667d3bb76115ae1b1b904f7dc4ab988aa82381cf6dcf0e18e0ae96114fe28d7496fcefaf0a52debd571b403bc164e3bb3176854a0cc9e30bcbfc4255d54899867b80b0baec356d92162ccf6b4b43655488818d7968ce1522451939d80b02f52d2fe3de206f05e9c45e215fdc5f1d6ff51dc45d3590662204f6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Summary Three",
+            "episodeId": "monogatari-series-second-season-30?ep=915",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/40be6ba86c6023ee4a819244017f275398410d1433f0c0473df5167e550c6ed2b13333f647c8c44c5fca1f658886e523a8f241f108c3df37913adc6e02effebaa47235a587d394a3fd41f876c26dc0d4f156fdee9f31304b552331b197aba6456b135a8a973e29baba00a132f3edd61f0a8d848bee8a2038ec9a10c9c8a184f8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/40be6ba86c6023ee4a819244017f275398410d1433f0c0473df5167e550c6ed2b13333f647c8c44c5fca1f658886e523f9d715675d720badda604591891e0bf24a6352b3939ebdba741b5fa55d5158d75cce4e44bab4aebc825b05bb671411126fbecfa90f1240658ce11548aaa781ae222c7aea1ecd6b885be71d8c2fe644f95c2efe2ed4932eda10d8f735eb0bf39c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Shinobu Time, Part One",
+            "episodeId": "monogatari-series-second-season-30?ep=916",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f347df1c6ced7f8a90cd7eea10460c7a919cd1dfef1988a29c365b24f3507c2da9f8a19780ba22e48d2cb1264f97634fb7631ec50285a4110550dd4f9a50b11bfb39193148775ff0c832f34a6777439a7d61d233d6798c391faabb4f7bf5f4e97bb82e8f40bb55d71fbbcb4f5a3e17780a09d919d8102d042946bbd6dcd48e0a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f347df1c6ced7f8a90cd7eea10460c7a919cd1dfef1988a29c365b24f3507c2da9f8a19780ba22e48d2cb1264f97634f152b8639b56f894d3472ed44ea1c259f97a895bdc01d94fa23915eeb711e15411b2695c4df09c0a0f792587f521ad91103e7a9b7d2c062360307ca2ce0974fab7ce4052cff175a99e660993070d0ff748bdccb8fdfd529c3e5c4122233beb249/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Shinobu Time, Part Two",
+            "episodeId": "monogatari-series-second-season-30?ep=917",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/96037cb746373a980a74619238730d2ec0148b91fcad8516d63a14e0449e2f3f01bf4f26ffe572a4c1ed64c4f686b276cca8aadb709243fc3f3ac4f6b718b0ab41e71b2ff43805d6da8b86d3d73615a03e8bc0354eb24279505cf8eb9a361a883aca911124e786230e37e1dda9d5e25a22744fac569490d64ff99e0abe0c7225/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/96037cb746373a980a74619238730d2ec0148b91fcad8516d63a14e0449e2f3f01bf4f26ffe572a4c1ed64c4f686b276fa9567339fdf44af5ed9dd845fe4325599e1601df6a8be1b8d30c7da723ea34290009426fdb7924cd37ccce8df19624be96c8eb577fe78c00f6d7615e75afcd6a6d97265359cb0c09e44cbe2ffbfe9fd4ed7970077152568e61d252fca00539f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Shinobu Time, Part Three",
+            "episodeId": "monogatari-series-second-season-30?ep=918",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a9db706341415287dbf85719bc71eb512a030d6c66185e614481bd2acfa19aa2b87e04b34c4dd7e3fed1d4d5293afff916d773e4126155503affbb80e4e36dc00e53b5cc823904579ba7b760d6d16d75058bec5faadbc5a4c2c0169f00866926dce6d69ba8698853516b10a27a737a37589daf88c5319b18dd144ad244b277ab/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a9db706341415287dbf85719bc71eb512a030d6c66185e614481bd2acfa19aa2b87e04b34c4dd7e3fed1d4d5293afff94cec25c94704a6a1661f25387919118398c685020c77a6bab462f7f40490c6faf205965e20f6511001ba50193e5a61f51ec42ffa21641ba745e884aa10dac21a9d46eaae13f895a3ba53025397ffdfc57b6ac2448e7d89cd3d919bb5ecce9a1c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Shinobu Time, Part Four",
+            "episodeId": "monogatari-series-second-season-30?ep=919",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c3e1592a53f899e70b69c6791010aac2ef14a3552f8684c96de15782bec962ff0e7450c58604a5d75665be0a921f3b5d489cf5d509fb7b1514cd0f2b025a558f1f90655b38073d9003e8c4c9527deac3f0c711af625fe4622649ddeb90621cdfcc2f9f45117e5888f2f5a56691cb36fc157656e78a2d2756b20ddd5ee9a976d6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c3e1592a53f899e70b69c6791010aac2ef14a3552f8684c96de15782bec962ff0e7450c58604a5d75665be0a921f3b5d7ba524f7d52526085352030ed8694c231f496c645a07b9373398313cbe69c4798be0878aff438e28380db0ce5c57c453c5c91193964bb29ff3b482c780d9e716c942fe30ebb22fafea4470c4a157e2ff2b986ee508958a2eeb38792d61d60735/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part One",
+            "episodeId": "monogatari-series-second-season-30?ep=920",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/15ed1d3854cb354d7174b202c50b849a2e13d2e7c844858669220f34610727e7f7214a8bc1c777c8b495987e2a565e5334a8323ceed63d2eef8169428fdd6ce5e794c548299a81ceb4b93c9a3213cc468cebba2b0668dc125230ab15eaef5ab72dd825f03967c7a6a1166458eb8c3cc8ae7b0ca1e3f86f7173022c8380a39809/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/15ed1d3854cb354d7174b202c50b849a2e13d2e7c844858669220f34610727e7f7214a8bc1c777c8b495987e2a565e53aa17be9da152baea68db6e6ec09ca077e51aff066c36d3e2ffb72570d2afbb84ed24d463fee67393d79afcbcb94100b813f392342fb24067cd4a8d24c726ed5c5ebc480d41fa320b21b9ae7b159cf3549422fce0c714bd04d68ed20c7b1a7b2b/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part Two",
+            "episodeId": "monogatari-series-second-season-30?ep=921",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a3895584efb7ef26999542868347460804e7025b529339137a95f5a4d03ff0ede949083a2f6b8db0205b1b3d0de32d524fb5c4f2ebc385c01fedb4af8654dd7e6e04c08cc6416438a819adb64b9bfb17d3eb2b58acf3313861a2eb378a89a997672335f723c4589304179c25f8caccf2baeaaf1e856b86c9df1444be7aa0d1d2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a3895584efb7ef26999542868347460804e7025b529339137a95f5a4d03ff0ede949083a2f6b8db0205b1b3d0de32d52f1d3f099058d35b03513dd45d6b6d74b8c6c0902c5d224c02210dff923a76d3fa11fc7cc045a40ddd4eb095702f4a55d9e4f180075faa3905203c8579392267ad2e781675f0f243250394ce51a3daf49e54e634729725c543ce1077105612d30/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part Three",
+            "episodeId": "monogatari-series-second-season-30?ep=922",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0231453573286b6d2a1430299636c869affb3160bbbf3dba98ec753fe9d4a2745634426b9190b92a0e200cc8c856d2204d0d9ad07f09553211b87862f50f7e18ca9f14308eed0852fb3859d8d77c0802c64206f4b2f399841823e00a76073632933493d8d1686e078ce801b5b1f22a1fddc88778f2d85442d0f0407b82079fbc/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0231453573286b6d2a1430299636c869affb3160bbbf3dba98ec753fe9d4a2745634426b9190b92a0e200cc8c856d220d097eedba51f829f72a0c6172ca230e1f609fa292195110b8d384d4814f7f9177a36db2b3d06ec41b2b82f1786ff2dcae82af5d8c60f6c77c36daa8283253ad17afad012a87d561af1b254e7be816d2b17f1fd62725d00edc876c52e12c504b3/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part Four",
+            "episodeId": "monogatari-series-second-season-30?ep=923",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/fdb10ae1b590877fd30da5cb907fa077de3688dc632f48f51c1956d4c9129a1bf2e6465596e0fb369d9f359368f289b81a50071b9391ee61f270519ec6c94e62692a5af940f121b9bcbd853f5f77c6fceabfe95b34fc94976c8375b2b53a817111b5c504b8414810ff4c6c8d49be3d4fa92dd22fa66cff05d9dab89b6cf399a8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fdb10ae1b590877fd30da5cb907fa077de3688dc632f48f51c1956d4c9129a1bf2e6465596e0fb369d9f359368f289b8aca184e29b2799dcbe3affb2e60610e764674258a132d33e4d771a2c4e9c1b7f5f720433656c4ea6c542a86a31eb0e52b343ee997e921960861f9172e7abe4c4e1677097a307f3903e7ab426a08ab4a88df3ec3b9a7a411db61bff268ebe7124/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part Five",
+            "episodeId": "monogatari-series-second-season-30?ep=924",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/68c992ae51d69e3a4658b951f7c787e38661a7c51019422c0506634ed18d7a865d48acd2a91d12bb3f580ad0636a6f424a715b15dc82e98817a87d76d3dd13ef831b230edf592a95c88a49878d9d3d7145985bc2fcc74cf5cdf081acea6fe99b574a9a11a68aba175ea56ca4e3c0d427f920c91b50961a8b5a1eb2b2f7c3918c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/68c992ae51d69e3a4658b951f7c787e38661a7c51019422c0506634ed18d7a865d48acd2a91d12bb3f580ad0636a6f42aeac7dde62d7519c7f9ee867f784fb84da65f6466daa6ed497b6fb601f9ce05194f58748102b90e20ddfc025ba43956383f57417d1587612351acece1cf44a09fc3cf11f37266e910332f78106d55835f640619225c36f1e63079e5b46903144/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Hitagi End, Part Six",
+            "episodeId": "monogatari-series-second-season-30?ep=925",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ec8b4f555e49e751217706d3335f59f8c0df883ba5a94f813425aa65f7327b39be81b3bef9177e15b44ea8b74f9721bf88b94a683177539b009e3eaf542ba2c7b9f568a9bea848f2d2aef25965509bb80571aeedded6c7e172437fd3da4f5351269ea8ae8c84d5ed0915cfa05cdddcdf2d1ab2d866ec2cd83d7f1beef9324a71/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ec8b4f555e49e751217706d3335f59f8c0df883ba5a94f813425aa65f7327b39be81b3bef9177e15b44ea8b74f9721bf82eaa1540767fc16694fe09c4ea514d8850c1b52c29cf24667487df2d6684aec485de1748e13ba016b3a3263b05350d2c1f01e4548043f67c295d237ad09107a3ee7d5c6149debea64e54843ba50510b2a4700e58094796ca114c723087fa419/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,841 @@
+{
+    "info": {
+        "id": "yowamushi-pedal-525",
+        "anilistId": 18179,
+        "malId": 18179,
+        "name": "Yowamushi Pedal",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d06ba722f0f72eeb4bd473cfaef5651.jpg",
+        "description": "Sakamichi Onoda is a cheerful otaku looking to join his new school's anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade.\n \nThis is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school's steep incline for practice. Surprised by Onoda's ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy's first foray into the world of high school bicycle racing!",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 38,
+                "dub": null
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 5",
+                "source": "https://www.youtube.com/embed/tzkiTvJWKtg",
+                "thumbnail": "https://i.ytimg.com/vi/tzkiTvJWKtg/hqdefault.jpg"
+            },
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/4TDg9SYaLDY",
+                "thumbnail": "https://i.ytimg.com/vi/4TDg9SYaLDY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/U-q8KBCSlGw",
+                "thumbnail": "https://i.ytimg.com/vi/U-q8KBCSlGw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/qLZJUBspgO4",
+                "thumbnail": "https://i.ytimg.com/vi/qLZJUBspgO4/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/EV6pG5FB9qc",
+                "thumbnail": "https://i.ytimg.com/vi/EV6pG5FB9qc/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shunsuke-imaizumi-5470",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/99121c10ea1f7316b8278c3016daa198.jpg",
+                    "name": "Imaizumi, Shunsuke",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kousuke-toriumi-255",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6bb21f3d5a1a4f610897433f642f703.jpg",
+                    "name": "Toriumi, Kousuke",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shoukichi-naruko-2724",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68a848d7a888605d2b1859e917f3d417.jpg",
+                    "name": "Naruko, Shoukichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "jun-fukushima-134",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa3068e08141500a0a9a02d29afdd514.jpg",
+                    "name": "Fukushima, Jun",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sakamichi-onoda-1871",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47b595af523072c5d98be0efd5156bf1.jpg",
+                    "name": "Onoda, Sakamichi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "hajime-aoyagi-9104",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a34b9bc2571ef082fa4b38ee3aa94c8.jpg",
+                    "name": "Aoyagi, Hajime",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yasutomo-arakita-2351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb0155c379dcdce77d009766969784bf.jpg",
+                    "name": "Arakita, Yasutomo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroyuki-yoshino-295",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0316ad1ad6049a60b913406f0f9efb43.jpg",
+                    "name": "Yoshino, Hiroyuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takeshi-daitsubu-123350",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3a60d65c31e69e21bc67051d7623328e.jpg",
+                    "name": "Daitsubu, Takeshi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shinji-kawada-2730",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b4f1f667af5f3c7235c1f27f662fd885.jpg",
+                    "name": "Kawada, Shinji",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "弱虫ペダル",
+        "synonyms": "Yowapeda",
+        "aired": "Oct 8, 2013 to Jul 1, 2014",
+        "premiered": "Fall 2013",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.01",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TOHO animation",
+            "Akita Shoten",
+            "TMS Entertainment",
+            "Discotek Media"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Because I Can Go to Akiba for Free",
+            "episodeId": "yowamushi-pedal-525?ep=10534",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a92802901bc2b613d0ab7c9ddb0facfc2632fbaf64d0977dda4701da3df72e7497759ea4f8edc8ff5d8e3f8fc1f1ebe6d111d564b9ebfc629f7209e897ffbf83b458f54876cfdbe16320b1d248401af82c92bcef4fd59562129c876a1e5477d3cd2b8055ab3ed293d80d27d1053ec5b5d5034c861f2d640a41ed3ec94af4202f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c2cf7927adfb4919dfe56f4e0e42b04/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a92802901bc2b613d0ab7c9ddb0facfc2632fbaf64d0977dda4701da3df72e7497759ea4f8edc8ff5d8e3f8fc1f1ebe62a6f6c6628f7b447ea5322b96bec7cae1f45c7ebd00d81a243509138f29ce2e59e3480d9f4e56a57da92bad607eed2d73e0d29f05da65ed62afe3a2768b5ad3e090f00272a5703fa45bf4e2ab66fa061a0fd0f5b6cf551008769e309f6c1bf11/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c2cf7927adfb4919dfe56f4e0e42b04/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "To Recruit More Members",
+            "episodeId": "yowamushi-pedal-525?ep=10535",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/26b00d12aa50021cdfa677c11e4559829e6fed17534790ced09cd140058d8212edfceb3208a053044e77e6ab4df74df0f5f8d614e1a495ae4211e67c4106014b2f07aa0228940c94ca0dc09c53ac157f4ec5e803dcb98fe03f6be601b984da9e4ef64020607ae977d60b98f879041064915e156144cd01e570477990ad802856/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1aaf53b4deb051d8308512985b05be2e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/26b00d12aa50021cdfa677c11e4559829e6fed17534790ced09cd140058d8212edfceb3208a053044e77e6ab4df74df0e51de6d8ab4eb7fffd7857910c225633c529ce8e04c7849e00d1d803384b803ea2a4ec9bac6a2681f7d22c9bfd4e694033b10d721f60991cc1c18c80a409de5e06848acfef11868f3ae0faaca76e3f088fe62a92ce6a7766a78af496480f47fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1aaf53b4deb051d8308512985b05be2e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Don't Have Any Friends",
+            "episodeId": "yowamushi-pedal-525?ep=10536",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/4af22ac70504c2b1726509cd5b3fc4d8b4009cfcf6dfebc0db1be16e207c051d45c36e2fe7dce4c69b12107fb2097a2c9bb0a381ed10e1ec63432b013d3b27753779de4d28301c296f089d6531725b3cec5b64bf314b0e09a451c6f36174460c2b00cf9264362e3131408d452284d7dc42f00dc9368734297500dc392d539616/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0ac42b43302992400030740d85a6883/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4af22ac70504c2b1726509cd5b3fc4d8b4009cfcf6dfebc0db1be16e207c051d45c36e2fe7dce4c69b12107fb2097a2c5d00f2629ba776ae2bf2b56bf548129318034ae909b436a3a32616e47b32a0ac0fdda97011a0cee9de0e1af3211363ae4af226172c7280ba4d7414436b0c84051ee3a5bc646eabd689477bbd2a92dbc22d4ddb9f4fc0f1cd34d5c8fdfcf84c8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a0ac42b43302992400030740d85a6883/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Naruko Shoukichi",
+            "episodeId": "yowamushi-pedal-525?ep=10537",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/def930c9df0c81fe299d7fb9e6503b0a7a4c78c269f639378d02ea29944b34033e2c51f643d3b609427724e59a769062bbff6e5b50e9c7ce7c24051aff23c64ac8ade92bfc38479d475ee2c39ae9f4298b6b02b5bcda81e8585c0dae467187daceb367f1de9ce50f22966dca1b43952b6820b07e27becc4ee8a5010170217baa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc648421530b27b4b358bce33ed4f438/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/def930c9df0c81fe299d7fb9e6503b0a7a4c78c269f639378d02ea29944b34033e2c51f643d3b609427724e59a769062f2e0a93add6e44f7169a1e3984c18d8a9da4104696879a2fa8685ce3edff6e6d90afbb985d69b7b8050f5bfa69ab4a1552d00f00d6d3f1e362fcc29b9e05c08a3493201072b103ec935c8ab9ceb2fb8e4d01f9051b3d7b32b04e75289833b854/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc648421530b27b4b358bce33ed4f438/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Sōhoku High School Bicycle Racing Team",
+            "episodeId": "yowamushi-pedal-525?ep=10538",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2354386ae7f396a993140710a558b8abcc0ec33b10cda024660848ead749c9514b90f867244a6d20be8ec1337a812f5093468d19d1e82d46afb43b65a1e0506ef8837fe08c126d3dbcb1ec683ebf3681587b1b1d84e99d9579177f227c82f284554469d20945082699389f8da53eb56bea00b66b543e691e48d13caa3bcb50f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c950e6814254c8ede761ff3ae2feb761/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2354386ae7f396a993140710a558b8abcc0ec33b10cda024660848ead749c9514b90f867244a6d20be8ec1337a812f508afd41369c5ca7c7b3244a3509b2d440c23e51763bb8e4e85eaf6e5ba617095c7eba52f74cff49f463fc42eb4d0c1f971be3d31a8b380319659d6c0459d656ebf51ba20e1dbe8e5c9693b3c70e6b821b665536796d535453fa0daccedf0151ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c950e6814254c8ede761ff3ae2feb761/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Welcoming Race",
+            "episodeId": "yowamushi-pedal-525?ep=10539",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/508fb907638ebd3b4d12d1d9ff32e3c65d32fe1f72b89f95895b973751aee1e27edc50b1ea70cbf10a8394e2459ccfb6806cf70042a8789c19955344d307512af2b93c03259302899ea8e62e9114580573ad8938b3c02b329f1dbccb5730a061775f321132b8fd05b421eaebcffeb816c09e831dc03a349e1c07a6d02ac2d678/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60a2593ab6f696e409b34de0ddd46413/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/508fb907638ebd3b4d12d1d9ff32e3c65d32fe1f72b89f95895b973751aee1e27edc50b1ea70cbf10a8394e2459ccfb69b95e0a3b72c22e105729aa017b356cde490737d88e52d29f8752a754279b8a52f1c68f94dce0a9a27bd5c189d00feab224366ab0722adb20d960b38d111307e3e4fb6bbc4678a0b3712f99371372f8ab42fff1631e8badec08a8a825bf0b6cf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60a2593ab6f696e409b34de0ddd46413/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Want to Catch Up!",
+            "episodeId": "yowamushi-pedal-525?ep=10540",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/68378e3473dbc41b45e741dc685a68248eb4768d49746c68eca2a5bda3d3b107ed39fd38cb7c4cce998f10dea2ed4a12edc00cb23ee04ad0371c22e418bdc56136202be6266db527d6e0b79d063915794fd07f7f5fb2f79fa5fa6fd53303c3bd14880d52162aeaa581478c57d736edb3017d89c4a4853e80da82eae3b7394dc6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06838ffb41487de4a3dd7d0c5f59b117/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/68378e3473dbc41b45e741dc685a68248eb4768d49746c68eca2a5bda3d3b107ed39fd38cb7c4cce998f10dea2ed4a125e06e7cd866373b15e4e61abc379d9169df7ce91e927fd21a35854a6603f407bd13b3127c80493e5f78ec18ed58607e519b2451567689b1bfcb462e232afa9f14fab7d088834cedf5f6495ab5a03421e6cae40a9d665dedd2a50d1c114d9a6e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/06838ffb41487de4a3dd7d0c5f59b117/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sprint Climb!!",
+            "episodeId": "yowamushi-pedal-525?ep=10541",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/fe038102236da7191963f5c2e145ae3870f4a7fb48ae8e9c14d04770c2350bb77c1892a670caf3a7265e19e89f7eb82289a9f3a030bc230034ac88ec9282ec3537c2e31306bd372360986aa5bab060b0dd26dde1cb3d288563fd74f3d05516583f9bb667f27723fde97a5deaf153d24347f074e94110a247e02416daa8b0e103/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f48884a8667e67822c79a5dd17dfd97b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fe038102236da7191963f5c2e145ae3870f4a7fb48ae8e9c14d04770c2350bb77c1892a670caf3a7265e19e89f7eb822002c6a266123fe46f8bf7038c7003bd969966c420bf8f641ece9b43111112fd5f12d15e591ee2051bdb7a3bb600006dacffe532764840d8b092afee7c4e5eddbc321093021181679256f576275fc32490f4fa0275c800a6df598d83c918e31b8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f48884a8667e67822c79a5dd17dfd97b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Full Power vs. Full Power",
+            "episodeId": "yowamushi-pedal-525?ep=10542",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b0573e128c64daa15145b94b924ee6e60ad0ad7f3d7718b28f802ca943be15da0e37250dcda4aa47f51b8233a31cf73b1e6954d7b2cad5bb4fa9d09139406e38eb1afd41d8050fd678b5349026920f3780db21e8281d20975111a254227a1b9955719bda1e4a999b3ab78ad2f253bd025d596b55dc460365a026af08cc84630e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2c33e775a093b3551f4c104dc9caf65/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b0573e128c64daa15145b94b924ee6e60ad0ad7f3d7718b28f802ca943be15da0e37250dcda4aa47f51b8233a31cf73b5e77cab2ef92a6279fb3f1b01bce27725eae8e10817ec320b6f7568b7b2429cfee41491dd15ae609f8b0a78dea3cfce219072c21400615192718eb6e7c95fcf6fad39d0c95ba55e4c4fe494c38a8c318d818499eb8bdd4795c4bede5fd33f7e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f2c33e775a093b3551f4c104dc9caf65/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Peak Spider",
+            "episodeId": "yowamushi-pedal-525?ep=10543",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4ca505e4d497fc0c0b7188457054c0d644cdeeab20aa126e1e8d397bab118e59978a37140bcab8dcf8f242f0560a8088dc62cb362f95f89c7bc19a6b76ebeffb7db275da5d53ae37af407b5b8df79a6796aed755465d1275bf3f45bb987433ab7b94d7d530193f27cd53db445e8b44695b48bae93992755f091bb8e7e3b8cc3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a362a036ff7f0c8a571756272f2383c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4ca505e4d497fc0c0b7188457054c0d644cdeeab20aa126e1e8d397bab118e59978a37140bcab8dcf8f242f0560a808884e181fee154f5989ea9a69393143fbb156f00e02343ba43a8b73321f59ad0c14a4e64bc64d466c7257e296a29d836e048164dc112ccb62e2214fdbd7f7e0fdae6540d695868d81a1fb4c97514f241b3b9ede0c4be041b4fe4077b45999bd721/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a362a036ff7f0c8a571756272f2383c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Human Bullet Train!!",
+            "episodeId": "yowamushi-pedal-525?ep=10544",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b04559569fb4fdac385be2e67d9662c47ea92a6c95c81c0d2d250e313553202c3d25f861ff8f22067c9be081c9f80b497acaca1c16ce8d8abe20501641ea2c22ebe4ace5fac7b3f59d967b1ae89d30dcc00bd819eb78b2f2d54ca394dab420db109dccfc7a27cb98090ac1689f9eb3a1e787dfc53ef8fa7d9994fc887fe04223/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73789dcb43567a46ed16c5d38e1b9a83/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b04559569fb4fdac385be2e67d9662c47ea92a6c95c81c0d2d250e313553202c3d25f861ff8f22067c9be081c9f80b49a04c52bcbc5ff47dea7b87923291b195a2917b4d7fcb95c91a57b3203f75b4dbb5b4d388c31a9208e516b1fa74f98f277478b5705b3b70db773e04aa09a3d981699c9f172f0501e30c2055741d99662a4e1cdb0f0451e7580a77f8678fc1adeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/73789dcb43567a46ed16c5d38e1b9a83/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First Day of Camp!",
+            "episodeId": "yowamushi-pedal-525?ep=10545",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c748474780a79bc00c4accf4d55cbf2992adfaa9592317a54f844ab754392b8158d25bcde05e561ab571e2cf10b193afd7fa25494b6e2462698cc7c9a32851a50349a60cbb39766625d58d6b564cbbb9f8891ded2d2378608cdc9ecf9b8137a053880e1b30d5f2fbde2bfa232e792c281b2ab3bf28818a54be6e3d868eb335d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f9f7ed2ee5112285187bc6128c038ee/6f9f7ed2ee5112285187bc6128c038ee.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c748474780a79bc00c4accf4d55cbf2992adfaa9592317a54f844ab754392b8158d25bcde05e561ab571e2cf10b193afe5f5f428e0e064fa27e01f05ef2e87ccc465365d7835cd45a9b16a7f0e520aff0a4030eaf165e1581ae7903ca9fc4b39853be6cfb6532901ca0dc7384142efdeaef9c9bd92f52b700fab5d430d88ed2120cbebb045451521019f0ce107a1a010/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f9f7ed2ee5112285187bc6128c038ee/6f9f7ed2ee5112285187bc6128c038ee.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Imaizumi and Naruko's 1000km",
+            "episodeId": "yowamushi-pedal-525?ep=10546",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/aa3f71761c3967b406c2ea00487504e025d1d076318391b555f80bd1c55ef8c6790a49168b7f608ff7deda5297d5d57e8e5f122045bca63dc43780e6766aa1a39d3dcbd779be9da262e3cac9fcf02c7ee94a847a79f9e4770827b4e28707fa96f94ece0d6e8739a35e83d36c4ac9d9bd9edbeba79eaaa4cc7eaf0bc0397af4d5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6532e7ac1ace4ac3906a0f4647c0aa80/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/aa3f71761c3967b406c2ea00487504e025d1d076318391b555f80bd1c55ef8c6790a49168b7f608ff7deda5297d5d57e912a336e9f48687593c03892be472e843e8941e87f5f1c59a92783e63c4f21ff92f65470ff7ec22b4f828187aed0f0763890c17d59a1d9be864d1857c26f145f1599d422a93522cb44d7713fcd3c10fb970f480a0bf3677b5842e96dd0173f47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6532e7ac1ace4ac3906a0f4647c0aa80/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Reunion at Dawn",
+            "episodeId": "yowamushi-pedal-525?ep=10547",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/003aaae69e32fbe557c96f728331880494ccc3b308f1e5aef4769a781c595c0718db8d967a7867df2228a50a94d02f0ebe1594cde0dbc960d5289f6ee06c1ea2bac091e8d587f4824ec6a84d0689a0903ce317d6162efbecdc2a164590011c0a32c55cd8f60019ae4c236ceb0ad289c1bc50a26ee0aa4a086db852aad0e9fc75/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f9c88e93b51ec177f095fba8fd38ae0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/003aaae69e32fbe557c96f728331880494ccc3b308f1e5aef4769a781c595c0718db8d967a7867df2228a50a94d02f0e9dbd42be40c3eff762af0682df7045bc193bdb3eef2a9a037fe1ad8f52949208c2a63dd540880ed7a60e46f4ae3068581da97d7046158f7d31db46efe76862cd1424cf2721bbbb143dd5cc719c8ff031427a2961d60970540a57691be3b72308/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f9c88e93b51ec177f095fba8fd38ae0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Strategy",
+            "episodeId": "yowamushi-pedal-525?ep=10548",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/5889b38430b7a0d615cdb7e8be9c4a6e38335e59a8f625f90a0b0432de69c75f86b2c10bf872e5d99fa4e374c914d141b072c50d1a7d13f1f11d215e00138b34e9c6c64fe44e1482066ac532eeff94db9a6f296bfb4bcd5fc2d86c33d7fb9f63089cc724d8ecd7b307b0682cad395a9ca460c5d1210b47e618e54bd82d574fdb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad8e4ab972367c765ddacd7a0f1cdfa3/ad8e4ab972367c765ddacd7a0f1cdfa3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5889b38430b7a0d615cdb7e8be9c4a6e38335e59a8f625f90a0b0432de69c75f86b2c10bf872e5d99fa4e374c914d141ac8bd720947c34c44119f81c51211c58556c05cce41ec954cfbfb91576ec9b1b0bb591517663c596d4a3ed3e8cbb155a8b4e159923b58a3a7cbb3128d1535f1c26009800c0c2072d4aa14e723ed409a2390cd4883186325b847a03d6b61fb44c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad8e4ab972367c765ddacd7a0f1cdfa3/ad8e4ab972367c765ddacd7a0f1cdfa3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Breakthrough",
+            "episodeId": "yowamushi-pedal-525?ep=10549",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8e0f308da7a6d07b197842610959b884907d5dab5724335da4daabeaa86311a3cf196713fcaac6e30e01a4086060a7b5fc7f534768f45553b37a91489b38d58b3e2a8929b486e038fc85e5d644d24a8b200b2a9e4975bd96482a312f90e6943e08fdb49311c20b9216c94e0cfb367982413c896296f6c157ef9dd8d90eb4b805/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a79265e55be9e5757acf5f66840b6005/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8e0f308da7a6d07b197842610959b884907d5dab5724335da4daabeaa86311a3cf196713fcaac6e30e01a4086060a7b579a66b6e0f57d2345ee927f05820276ad5ae67bdc3e713581ff64525867ad193240b428cc80dd50ac95b64fdba7cb3aa9b50e397de32cc889512dc5a1a079c5eb7f827fb9357184e7afcde47710f021533ed744765cd5f40b969a1a4c2cd5e34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a79265e55be9e5757acf5f66840b6005/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Onoda in Last Place",
+            "episodeId": "yowamushi-pedal-525?ep=10550",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/0e78806c5ad07d6ba70ccf715df46b6b94629d6d2b9cd3245df366b620b2f133f7730166b91d00af2cc3f58beef76fff91f9460e4d3a1a5872a5dd3deb3139bcf8a866c73bbb0bbb45bb73d5244d7b89eebf5aafc0863c240a39c6b4932f3eafffdea9db0254c0b78173bb39fcdfb6ea70a739b8f06c099e6891ac58d0dda1b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1399a868239d51a6e63cd3b49b4594ba/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0e78806c5ad07d6ba70ccf715df46b6b94629d6d2b9cd3245df366b620b2f133f7730166b91d00af2cc3f58beef76fff44831915ef3ebbe1370168ecec9488df2facd60a2d5c6e83b02fe7d2c881971940c8e04b43266e63eed8071991491d8fed8e4b21690dc19faccdd4a84ed61332bf4205d7d1067097dfa60361cc3030fc6aa5db24c452959d80bc7eb8e5f10e49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1399a868239d51a6e63cd3b49b4594ba/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "All-Out Battle",
+            "episodeId": "yowamushi-pedal-525?ep=10551",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4a229c4778ed08d447c4f0f47aafced9e46188eb3dc5cfcc5ebcefb2b7b1da73af009baf197a89dc3b3c6cdeda2a21aebf740964d808485b67f3620f6cb918629b471a07f1cf3442cf8f1274189191cd7516e4222aa3b16078d1a682b4fe228365d004f11b43748c4c5ae5e29313b8f4055fd76d3e665ffa393b2861e66c6cc1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b09166c2d94c0a028f5c32e78a6a99fe/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4a229c4778ed08d447c4f0f47aafced9e46188eb3dc5cfcc5ebcefb2b7b1da73af009baf197a89dc3b3c6cdeda2a21ae353a3cb911a4aebc5c35dd30f4ebb7b97f3c6896bb262b1370cbaf96a48a02796e8ff5e53b085c086d2bf614103213a6484602db42d72e31d70df73513fab055591001cbf9b5f49e2b7dda499cfdff9589d9cb4c8354f719ca4b3ffae3c034fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b09166c2d94c0a028f5c32e78a6a99fe/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A New Start",
+            "episodeId": "yowamushi-pedal-525?ep=10552",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d6fbe0f0d4f6dd4e5e916cb58d65c5c2996d997f9b3bbfe5eaaa10bcd54eee0030aa104445e51c701dbf84870794ebb5958a36f47e01d07179efc08e6de548cacf936ce90f40cb5cb57467f6ea8f0c88af0609b497b8c136695d16641aeeb4a4b8459395b62dc84fb45f3d11ef12030baa4ee7fac3f7e512b8a31c3071ee4f72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ea5d8826be460aac13e7cd16e24acce/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d6fbe0f0d4f6dd4e5e916cb58d65c5c2996d997f9b3bbfe5eaaa10bcd54eee0030aa104445e51c701dbf84870794ebb541ecedab300473cc668fdbe111d8451218f090e88697921c049cb11b0af4a4ff0aa70e161e60415ea54acc1b74b8a6beb50813474cbd5d6a44a182508f9abfeab0bafc0cbfa163c85aedd61e13e32e6f37ce71c61ebcc6915ef2efb347c1d99e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2ea5d8826be460aac13e7cd16e24acce/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Manami Sangaku",
+            "episodeId": "yowamushi-pedal-525?ep=10553",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c4717efccad9ab308c6b3877e7841d9152bde4b4e82123495ffa8569c7a80337e19893098a98306548a73691adbcb866504abff6566f1e859ab286bb322dfbe9c30a13ce93abe2b2095b6ce009b61de320b37c459f5dee6f8fdc7fffa0368764f8ebe85de816b25c2cba6022bc6b94fe787aa5f7995d63819eebc011e4ec567e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a91f5904b66ba58ecc4972460e24737/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c4717efccad9ab308c6b3877e7841d9152bde4b4e82123495ffa8569c7a80337e19893098a98306548a73691adbcb86601e5256369d1f4893a6a9f3933a41e24406f0a11a9963bf51bce4918745e5a36299a890129450792f50e9dceaedf1b38ca0f620ccca99a6d1615bd3e18d6a6f68a9456f91421b04f3bb56c4fd4c78ed7738c628b30c70379af4f2d6475c280f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a91f5904b66ba58ecc4972460e24737/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Snake of the Stone Path",
+            "episodeId": "yowamushi-pedal-525?ep=10554",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/6a624e9b867d19927655453f87802de14bf189b713f1af77899320c0bcfea173b9af9a7d05f11a4102585f73eb8a9c6be6c419a2ad9323316d7735ab02345d2284e2782d4f7b52c3d85e57d14d4c573cdbd0ab4a8c226a188290d23fbf24297de357d60d3c71ff4f10796d422ca5b30961e85767a672cb16682c56253edcdf97/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a438cd70c4128ecbf4cf8c103e28b300/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/6a624e9b867d19927655453f87802de14bf189b713f1af77899320c0bcfea173b9af9a7d05f11a4102585f73eb8a9c6b3ec3e981e28a6e36342f770c1eea86dfe53e03043cd32de90c9c0f1eea5586cd0203fe83c8ea9daac062b3d0f1940c49867bc0e261196857db42774321526178d2231a58dcd92d31b098ee67a3e39da3fb050f369c65e9aad74d3674db89814b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a438cd70c4128ecbf4cf8c103e28b300/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Inter-High Begins",
+            "episodeId": "yowamushi-pedal-525?ep=10555",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/960447d8eddfd42e3e7d6db11b730e842098f0f768eb8668f9c027698ef585450d0d88074ef47ffae9ba7ddd466df8ed9d5a9b81bfb0832e7d58d3cd85a53c7b10be463d59a84125240c2af734a1f975349d64e87d7f16877f5a0710cdefe6813c7228f951deabe4f983533e65135c209515ecfd84464138c68d2e3492aa4a1a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c6cb4caa381cdde05a49206a793b2f7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/960447d8eddfd42e3e7d6db11b730e842098f0f768eb8668f9c027698ef585450d0d88074ef47ffae9ba7ddd466df8ed27d544b2937da177a1c1b192d8b081a553c64ac6a15647de913d75fc5033ea2b299caee19906cfff300479d180e2335e37142b1ef812af7d8e0aa0dd9c2570679cbed8350a7b3eca97751f2a51ff87bf446f0a5dd788234b96291ff95df33c5d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8c6cb4caa381cdde05a49206a793b2f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Top Sprinter!!",
+            "episodeId": "yowamushi-pedal-525?ep=10556",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/26db2210747ddbb7fee4064527a8f21fe5c7346d8f897ba08bf045d39d8aaf2267c9960dbc99cd1a86068ea8851b3df8527e1e21d0a112aaf9ed3717080972e1c3b192be9e0744b15c7762b601153d20361fd0157f788607d32d784fc4359e5e9a37cc64c567bf89e5de2dbc4881d5b0896c081ab3425c1ab8db6a7305a48217/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/017753883d6365addd368e3d09c08d78/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/26db2210747ddbb7fee4064527a8f21fe5c7346d8f897ba08bf045d39d8aaf2267c9960dbc99cd1a86068ea8851b3df8e1cf673b814c791f2dbb01e653fe2bbec1c09b2d288cb573d63b855bb45ae5788b1fca053261a8c74c1c2f7a3a398fbe34c44b6bb8786f985f3bc0f9618827ef53b3760a0161a5c21b01d4426e03a7ce5d916e8feb738d76df7ba9ff76246f55/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/017753883d6365addd368e3d09c08d78/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Trembling Izumida",
+            "episodeId": "yowamushi-pedal-525?ep=10557",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b594456a1c130a4b42e4160f6f37fb14180c8081e62c9d8f94f3650b6d5f1abd02a3839ab9e0341f71bf36d9ddf948b846cff4cfde7bc7aa3927f883903b678a4d418d54f2191af765fe59d1fac4ff1b39dd6f65af1f85a85f8470270f9f425ab2ab697b2396fac8a3482d6949ce93265ed77d74f1c907df0964b4a3ba5dffcf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82ae16bf4c66fb2d7eb70334395fc241/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b594456a1c130a4b42e4160f6f37fb14180c8081e62c9d8f94f3650b6d5f1abd02a3839ab9e0341f71bf36d9ddf948b8ef417dbef5361d5729bacfc18fc3448c5d248a7eaddd294d12892acb66bc46240399835a592f544f24334f108c1c9fbbc53f2c45d1256c7a4c432358d6ff3d75c119496662d5b60b741a3bc4d89660c4bb9681cfe383694fd6a6813650913d45/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82ae16bf4c66fb2d7eb70334395fc241/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Loss",
+            "episodeId": "yowamushi-pedal-525?ep=10558",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/aec32168fffda4e49df0d1d34bc5256fd44a9232be7a71d8045bd31d3332c14bb796177ff4fb0f8d88807e861f2e1e10cceadfb33f2d2a1fc3979ba2b27d939aef8ddd0fa8e753bdf8afab9653523d961845a6d24791f29d0c4260aa1d9615914f7d241c6fa0700fc30cd8614b96b59b7459dfa018c9f9380b2b5ddb6383a2bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a44c117513bd714c7ded0d246c6842e6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/aec32168fffda4e49df0d1d34bc5256fd44a9232be7a71d8045bd31d3332c14bb796177ff4fb0f8d88807e861f2e1e10e17873974924c2ded5a2364314e92548640b4b6cfba9acb8d3d581a853bdecdba52e8deddd02231f8363149b7175827d0774d0b6757b38e390d9d9fb94a26b4fbf3cbeab94cb1cb20f42d21f417d2643cd650a93fbb2e71efa10db20d41919e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a44c117513bd714c7ded0d246c6842e6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Can See The Sky",
+            "episodeId": "yowamushi-pedal-525?ep=10559",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c7accb90cc88cff9b6fad3c0ade38241a28cb490d5d2823a6f9c7a8a15d526b04192c086c6e1ac837347edcc00c1bb373f5df1013e5b2a0963dff8966a69bd399a8828b7ea6c71c2505d00c3d863a51dae0826e744164b5ad057802691cb0239ed8bd73568230b15e09c0d574dcbd18f33090dde2ef1ee6f76bc8f9e1cc6e6c7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/233deea390214bdfc78169e8fa56224b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c7accb90cc88cff9b6fad3c0ade38241a28cb490d5d2823a6f9c7a8a15d526b04192c086c6e1ac837347edcc00c1bb37ff9439cdd507a8d6e739954d331e49c49239d5821d857ab4c9899bd58c9080227d03bc0561afba3cd3b875d02fa1646ea4e57e8d1eb5292252433cbec17ac45c9f27b48e2aaeacf0742542313dd7f32a39ae4089de47ab998189a6ae4c15a411/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/233deea390214bdfc78169e8fa56224b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Toudou, God of the Mountains",
+            "episodeId": "yowamushi-pedal-525?ep=10560",
+            "number": 27,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/17a23a4a8d4fa91a4b9cc52c608ed1bf9461941615edcf5703f5fb032897b46d29ecf43bd998d8948fd3d77f01d28a1a74cacdab9c068b31fa176452f0cb57634178d8852b446b312eb6162355f828b6a063e7eff40f8698e4e726ca49ab21c13d8c74a87c493d81d986a81198f557bc75d945da0af77767c43f25ffec5bb53a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/728d071adb15f4a0315bcb5b790a2824/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/17a23a4a8d4fa91a4b9cc52c608ed1bf9461941615edcf5703f5fb032897b46d29ecf43bd998d8948fd3d77f01d28a1a05aa72a875a762dd23843f8830273a5cfbd62d46f3cb2b25fbe2862aeca7bcff459b652ac9d9febe591d9108a24e5989fb5f3d929708065a1eaa60a21e66e079ecdf8ceead03e8ccf2b8b510697e254a4c37aee565748c06dc54fdcf9bf0b9d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/728d071adb15f4a0315bcb5b790a2824/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "100 Man Barrier",
+            "episodeId": "yowamushi-pedal-525?ep=10561",
+            "number": 28,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/abc02a2350e1fcac8c5975caf99b90bdae3f0ef4618a1f16d77d028c8362deac58cabfdd80545c75927871f4c307e99c4868d8bb26697d045c49c378ccf295dfbff60ff9e1a8c68f0d03a0570cfb3b306e5a17e1a4f04ce556a8bba8b48bd1ac12f44297d2679a4a40fbeca1e2c7f792aa02077c624b1ec97fad83825b08f982/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/204ac3b0e1919c16f35f595f9a78d8c1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/abc02a2350e1fcac8c5975caf99b90bdae3f0ef4618a1f16d77d028c8362deac58cabfdd80545c75927871f4c307e99c85916b4684b2b45e9fabf67808858f1bafebb38198648579f4610331632c8ffd5c707ca78ed78e280af5b2f858b0565942391f7c66809227e39fb9d088f782bf0425e009ba2a8e249fb40b15c39afca5785d794c407a360a6b03d5bfba532969/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/204ac3b0e1919c16f35f595f9a78d8c1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Summit",
+            "episodeId": "yowamushi-pedal-525?ep=10562",
+            "number": 29,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/291203dff0810ee78e2604ebe2825618d49080ea9737f2cc2ebcc7d52a4da1871bc98f41ddc259da8e39a8850c741a3625285ebbc42bb1a31df16fe08e29bbb2534a0df20f831a88ecdb2cb16eab0b4a299cf662ab368a7ae6cba649c6d8450e787a90187bda74be1f70c51249d464c9258ace0b1adb820eb7069a08666f986b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86adcc7a966f07c9002f185f34ef172b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/291203dff0810ee78e2604ebe2825618d49080ea9737f2cc2ebcc7d52a4da1871bc98f41ddc259da8e39a8850c741a360502bce9c0d52101c3272b930793b72dcfc111ae0f3d70fc0563827e67c9810d65ddf8d21c0b9cc61e1d7afa73c848d2677615967aa7a802f210109c1763fdcd1afbb333fe6b64bc934d3a5c36a2f74fcdd92aab39cbeb31aecd143e68425fdd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/86adcc7a966f07c9002f185f34ef172b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Arakita and Imaizumi",
+            "episodeId": "yowamushi-pedal-525?ep=10563",
+            "number": 30,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/46c8807f5eac89a03b1e72cd8c1a3f1af0163a2b66b9f6f526dd2bcfda21a31302b6a34f867c01d6f77b2a5aba3e0cf8342fc8c1c47d549884871a8f2c9d0fd0c36ee1a7091049243649730e7a7be6e4e6cf2577916cf51b705236cd791b71f84663305669edc546f76573a02918a1c2d028e7c65c5ce80e3e93ca4fb04c07ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6442fbe43056475979f2b852b09b495a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/46c8807f5eac89a03b1e72cd8c1a3f1af0163a2b66b9f6f526dd2bcfda21a31302b6a34f867c01d6f77b2a5aba3e0cf803820ecc6adbafb8921e64632a26737e551d28f44c5b253cb68f199c6f766418fbee37701fc66ee0a5369c888aac900f5a971158c6ddcbb75a65b66652e048862d6b6db3c59287468ae0937385f5aabf047bad4ee342eba28c04127739184b29/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6442fbe43056475979f2b852b09b495a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Strong Three",
+            "episodeId": "yowamushi-pedal-525?ep=10564",
+            "number": 31,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/86cb754ebc06389aa0696292c5c477445e5ae7784c6ba73fca9eb8accb22831fe227c369e5ee1bee3b37ee4f782c5bd3e64e193c23d16002258e20c97fd5224fd75e4eff82be7e0d8962023e6a804bfa56646dd2b95130008bc6c7c7ffd468267a102f6865d16e269a192eea8244f9f614ed544992c9aa98d1efde372d60b55a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdce67d1b3d153ebb374ebb97f0eb6b3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/86cb754ebc06389aa0696292c5c477445e5ae7784c6ba73fca9eb8accb22831fe227c369e5ee1bee3b37ee4f782c5bd337256a390c869f3261ad43380a1f330ae41e18e5aa31a56632755fd307f4bf74370b986f81dd74a01b61f98dc402deb0167775c39545ec86aaa755147dc3c02e3df2ea93c71529c194d6204c569b306ee0c67ad0004fe9d935208963010318bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cdce67d1b3d153ebb374ebb97f0eb6b3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Night of Hope",
+            "episodeId": "yowamushi-pedal-525?ep=10565",
+            "number": 32,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/17f988af6967be2f211665ed3fa6ed2230dd9f6254c54d9a327a0ceac8ae91b93a1c0a6ba1d540b509f9ccc06647b473d7eed0fbf29f88ba3b225530012297d8d9509977950a160ffdfc653a413ecf35c93568814f43251ad7e11ca68dd38c6679a050dc9dde6d9f23008f55fe77d97093bcf3baf4229d425304499199f2b691/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8e357f7a79dde95ac35a5329399bfb8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/17f988af6967be2f211665ed3fa6ed2230dd9f6254c54d9a327a0ceac8ae91b93a1c0a6ba1d540b509f9ccc06647b473dc97670473574ebef64a09527cbb7f629634be308d541e3667a7ce3aeec418419154b9438909721d92ec4306b0d7a6c667b56456aaea8123588da62018e3d36b52a257dacaab78e11bebcb74814776086b60caeb2270afeb512ef2264ea13b4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8e357f7a79dde95ac35a5329399bfb8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Are the Princess",
+            "episodeId": "yowamushi-pedal-525?ep=10566",
+            "number": 33,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3125fb5401bce5ecb97328810532fbd24826d6de3e74b9a32d7379120d31ca6a923be8fda95952f8aff280948d2049c9eaac743382587cfacb48b53dcb2aae57e2dcdc8c701b0bea922326ae5c9c214ac8fdfdfd57d1e94e8e608ce2b60181e9ab58b0dc2c1bd6b6a9a4635f6ed428d320796945258b61317f8662cd1a3ea93b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9b109b92138902999a068a1c633a620/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3125fb5401bce5ecb97328810532fbd24826d6de3e74b9a32d7379120d31ca6a923be8fda95952f8aff280948d2049c99708058031295e26ea931dd29cfbd9eba08fc52cb50c8161092d005f85407bd363c9fd7fc2c8eba8cbb71f669841f125788302a32415920127ef274bad621f948ff0a3dbe850a1f368ae7a1babda40420bae2e42134273cb054fb52dda2ff004/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9b109b92138902999a068a1c633a620/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shinkai Hayato",
+            "episodeId": "yowamushi-pedal-525?ep=10567",
+            "number": 34,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/35a79b7b5e717655def7ac74d526a4bec28564cf1ca2f09cdc3e77c2e09b921c66bf326dfaa16854aaba4a0f3b71164d5f8ea5acb6219c906491ce3d92e362ea9768f29c203073c88c6373fecd9d5261df98d2b8f0784a87f5027ad733f66e2b2b20c2886ea0364dbfba0aae07ee881725db7569039bffbb52fd5e7be48e998c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feb0f0f49627ded8e16a2cfb88644aed/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/35a79b7b5e717655def7ac74d526a4bec28564cf1ca2f09cdc3e77c2e09b921c66bf326dfaa16854aaba4a0f3b71164d5b5934c7aa97f35c69182dc71a1561a26ac91395785ad95db06ccfa9375ac8504d4d54138af793114c429f29c8e19bc533e22bba3fd3ff9416d41260e407b062f69305b1ae6f9a579e37f5a7c937a035ca5b38e8df292be898aab4858b2a0eeb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/feb0f0f49627ded8e16a2cfb88644aed/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Winner",
+            "episodeId": "yowamushi-pedal-525?ep=10568",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/099cae25823ca566c069889ca69b8df8983e65b1b0197866c2570ba4776962930c275397b286b87d6e26837dfb9aa2312c58e94064da0825b76d1a537501bbcf04b74d434d2e5115e04ed802e4b4760b4da31fa9fd05867514cc7a32606986985af4327fd4f904fece3e5c9f080aec7ebc1f0eb752437911fd4d741cd00da6be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c73ab2ebe3070a11dab579c5c622bbcf/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/099cae25823ca566c069889ca69b8df8983e65b1b0197866c2570ba4776962930c275397b286b87d6e26837dfb9aa231a0256beeb942a6119090da8db788afe76248db7c5d6cc34a6a46bbdf5c4381aad8dae379ca35e0b1a4d6d700f4fe6c70735596b5e361c91cc0651fc04374794d6eed8a163d506078fe2c7cb80738d78c466f31fa5dbc24ac8dc3e2e43ed04bb8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c73ab2ebe3070a11dab579c5c622bbcf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Strongest and Fastest",
+            "episodeId": "yowamushi-pedal-525?ep=10569",
+            "number": 36,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f16ce181fc2973d44b60d542ef016cdf403171a88977c83439322140ebb1cd209f95204b0d144e1dea61fffc6d75c0f876973de27828eda9d1755eeff8d75c963c5df01bde31d7cf20de6f4939a05d2f799ac647d19cbcf18bab0711479ee39b94ce0d6270a22b69f90351aac1a0619019b61d9743f4add810de0b69c0f71eb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d19f70c00eb677f2602aeace2a362ab9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f16ce181fc2973d44b60d542ef016cdf403171a88977c83439322140ebb1cd209f95204b0d144e1dea61fffc6d75c0f8e405ce060308a47623a62c3d6d2b58fb459f7de9d94b8cfa0a950dae87f7d9f617f0aa8a75ec4153069994d1816e37ca45c8fb259800440466234f422041dd3cc15f04a84396c65a4a27f3a6dbe380414c0b34fedfacaf1cf650cb81013f7ebe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d19f70c00eb677f2602aeace2a362ab9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Passing the Crown",
+            "episodeId": "yowamushi-pedal-525?ep=10570",
+            "number": 37,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cfb339794a5096fa08a8af11ea668be0fd1cc953188f4b91abdd690d192790a24f26bc303e324d1157de1c295b67d835ddfd4dbb38a364fc9af2ffb0c3365df2d8f0ccf6757bc6eee6b5444cd211451f0f922a27983eaa8269c3b0877341961b434cb723612942f64aa4a74f5801d0818b61d4551e291dffe1130ce7e933e702/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/780468046c34e6a32d9a21799525c982/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cfb339794a5096fa08a8af11ea668be0fd1cc953188f4b91abdd690d192790a24f26bc303e324d1157de1c295b67d835a27a6e79e2966b54de66199a332c85925a2981b57a204d08329738888b9911711b95fac1e75cba03c0e97cad6e4e528041f7927cde96aade5fd3823dc9156033d46ee60a0b0d562af219b94e3e5f5047d95e489548b291ee16f25f9ae2627725/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/780468046c34e6a32d9a21799525c982/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Soul of Sohoku",
+            "episodeId": "yowamushi-pedal-525?ep=10571",
+            "number": 38,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/6670b1b21df551be4f4444e8def259fa72ea04c339e30c9842955dd91e153fa0d3ea5827d5f208808ca1434a49d7e5dd4fa656df29fa3ba2ae21da0f6ce5289d83b8095f1bcac4c61162abe9b11f372edb4b3d78e610133fd5cbe53dc9724ef85a695fc2492beab3b9556dc20e6b8da4c3667b2d11f4f05fc73974236f1f3e27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9bf862f2c8a3abff3d65ae7dcf1aee2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6670b1b21df551be4f4444e8def259fa72ea04c339e30c9842955dd91e153fa0d3ea5827d5f208808ca1434a49d7e5dd9a4517ab431daadd5972e596fdf921583b00247ff789fb31dd4f018f6c3adb97bfe28b328bab1460b4269e05d61a32170c06a0d01e0d1ba3fe38cc4a2d5fd9cb9f5f83204df5c10a8a6eca715f51d77c09043b4080c6b0b3141f17037805048e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a9bf862f2c8a3abff3d65ae7dcf1aee2/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

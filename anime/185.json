@@ -1,0 +1,620 @@
+{
+    "info": {
+        "id": "food-wars-shokugeki-no-soma-185",
+        "anilistId": 20923,
+        "malId": 28171,
+        "name": "Food Wars! Shokugeki no Soma",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1172468d31201dedbab79c348ff6f1.jpg",
+        "description": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef.\n\nYet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns.\n\nAs Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/H-4Qyr_3V-E",
+                "thumbnail": "https://i.ytimg.com/vi/H-4Qyr_3V-E/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/jUAnRpHnndw",
+                "thumbnail": "https://i.ytimg.com/vi/jUAnRpHnndw/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/Ei7r95k5d_Q",
+                "thumbnail": "https://i.ytimg.com/vi/Ei7r95k5d_Q/hqdefault.jpg"
+            },
+            {
+                "title": "CM 6",
+                "source": "https://www.youtube.com/embed/YARLZj527NQ",
+                "thumbnail": "https://i.ytimg.com/vi/YARLZj527NQ/hqdefault.jpg"
+            },
+            {
+                "title": "CM 5",
+                "source": "https://www.youtube.com/embed/PXz_rdO-WnA",
+                "thumbnail": "https://i.ytimg.com/vi/PXz_rdO-WnA/hqdefault.jpg"
+            },
+            {
+                "title": "CM 4",
+                "source": "https://www.youtube.com/embed/Qe2eXAFUXqE",
+                "thumbnail": "https://i.ytimg.com/vi/Qe2eXAFUXqE/hqdefault.jpg"
+            },
+            {
+                "title": "CM 3",
+                "source": "https://www.youtube.com/embed/cJ-GK4F78M4",
+                "thumbnail": "https://i.ytimg.com/vi/cJ-GK4F78M4/hqdefault.jpg"
+            },
+            {
+                "title": "CM 2",
+                "source": "https://www.youtube.com/embed/4jAWJD8CDn0",
+                "thumbnail": "https://i.ytimg.com/vi/4jAWJD8CDn0/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1",
+                "source": "https://www.youtube.com/embed/So6i6NFDHCo",
+                "thumbnail": "https://i.ytimg.com/vi/So6i6NFDHCo/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Ae31R4z-UAM",
+                "thumbnail": "https://i.ytimg.com/vi/Ae31R4z-UAM/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "erina-nakiri-352",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a9cfda7b227c2832667b7ee12661adf0.jpg",
+                    "name": "Nakiri, Erina",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "risa-taneda-73",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19b89e30261bfe5753ffef0e2057843c.jpg",
+                    "name": "Taneda, Risa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "megumi-tadokoro-575",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d83423676b0235938f0e2fe124528332.jpg",
+                    "name": "Tadokoro, Megumi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "minami-takahashi-413",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/05247cef650afb89d4c473f955dc0229.jpg",
+                    "name": "Takahashi, Minami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "souma-yukihira-78",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0526881b3bcda0d890c0b3a6ab4d6c95.jpg",
+                    "name": "Yukihira, Souma",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoshitsugu-matsuoka-14",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d118bf7fd4328db615386b7305dc872.jpg",
+                    "name": "Matsuoka, Yoshitsugu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "isami-aldini-5331",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ef20471895c2642147b35f867599c21e.jpg",
+                    "name": "Aldini, Isami",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuuki-ono-306",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56bac21abcb5b1eb0f1d8de71a210154.jpg",
+                    "name": "Ono, Yuuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "uncle-aldini-89772",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/070cb74658dd1a0a49d92b08651f8287.jpg",
+                    "name": "Aldini, Uncle",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "saitou-hironori-18000",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2e12222cebbd8557d5cf17bdf0d37761.jpg",
+                    "name": "Saitou, Hironori",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "father-aldini-89377",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0e0d1e6be934b4b0a74f8c4c00e55b63.jpg",
+                    "name": "Aldini, Father",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kouichi-souma-8751",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e5f297634bb7ec708013d6999c01ae1.jpg",
+                    "name": "Souma, Kouichi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "食戟のソーマ",
+        "synonyms": "Shokugeki no Soma, Food Wars: Shokugeki no Soma",
+        "aired": "Apr 4, 2015 to Sep 26, 2015",
+        "premiered": "Spring 2015",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "8.2",
+        "genres": [
+            "Ecchi",
+            "School",
+            "Shounen"
+        ],
+        "studios": "J.C.Staff",
+        "producers": [
+            "Dentsu",
+            "Frontier Works",
+            "Mainichi Broadcasting System",
+            "Magic Capsule",
+            "Warner Bros. Japan",
+            "KlockWorx",
+            "Showgate",
+            "Shueisha",
+            "I Will",
+            "J.C.Staff",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "An Endless Wasteland",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4405",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2cb965ec5968e194ef8da336aef9011e9d70188c1d341e21ccfb52808a39fba57385d3d24a9ae3b0ca55bb5fb6da8d94a08a1b9a8fd805feba4c0d73bada06363b50f88c428d2814f7f2f26620d9fa757544b0d4c9d0f5c87f6d307d639f179d1c1da645119e2ee8f3524c639b57e0e9693b104a4241d46f12c1f73f2eb4cad8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4474c32bfcf8a338fc2a443d301e57b9/4474c32bfcf8a338fc2a443d301e57b9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2cb965ec5968e194ef8da336aef9011e9d70188c1d341e21ccfb52808a39fba57385d3d24a9ae3b0ca55bb5fb6da8d945bcc4973e27cecc2feecb01c21a9ee343573c1c10db682880f76a27087ea0dee286136190f83977e8d47686b7a3a3f2a4d54e0e834d714b4b2cc1420fc8ff390adfb9b27260221ded48657280dd6d13280155448087d9c138c2e6605d59a2cf8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4474c32bfcf8a338fc2a443d301e57b9/4474c32bfcf8a338fc2a443d301e57b9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "God Tongue",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4406",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/b2ea0da0c21bbb9203eab54872eb8ef47b435f3cb7bbe8180b72f11d103ded8b59a9d3443b4ca267fa4a6a3d62b645775957a9c55efc69c2c97311e96ebee47919abb60ef1709ee650ca68d0e39bb392dd8177504453620f7d4ae046df2e576afa90cc8668c3bc65befa3f2de508a9c37311ee5963bb9d2c2cbd8c70b55e3387/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a976e35bfa519251424ced70e47a2bc/2a976e35bfa519251424ced70e47a2bc.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b2ea0da0c21bbb9203eab54872eb8ef47b435f3cb7bbe8180b72f11d103ded8b59a9d3443b4ca267fa4a6a3d62b64577fe292070f3648e7a82d6c72453b035079232a6626998920a77aed2e71088b66ad92944b27bd96909cb3652c3dc8ff570611a4a54f146bc0431ab5772dead311f38b94bf067fc244bfa4d6493e5f140574c6f997cc570c6c212a9a13712801410/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a976e35bfa519251424ced70e47a2bc/2a976e35bfa519251424ced70e47a2bc.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That Chef Never Smiles",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4407",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/02c3c2aa59b08e76148fa72236412a7534f49f485ac250d30b5d505c72277221cb4c72ea64dac710b19b36a59b770dae0a392974ef10a682199f97a4975429f5c5418638fbd5fef6a8634c14b270505d4cdf9619910c7454a8abf21b2f2032b10964c29ab8640d3bc6362de0e4aee86c1b62d02694949406d744a95f60fb155c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9753266740c955dd45737b82eef6a931/9753266740c955dd45737b82eef6a931.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/02c3c2aa59b08e76148fa72236412a7534f49f485ac250d30b5d505c72277221cb4c72ea64dac710b19b36a59b770dae16afe51b17ac437afa7ecffc41206a0e921d49582d44f7efb109db40ae6929879b330cf39c9703aaf1877c55ba91f6e4fa1c0206c0dcab0ded2fd8c007ca0dbf00b3695de643591bc2bec70bee340100c81e14a6c97061acc374bfd79c658340/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9753266740c955dd45737b82eef6a931/9753266740c955dd45737b82eef6a931.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Madonna of the Polar Star",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4408",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/2ed1689448bbec3d1d7d4348749d9bfb0bc78dc2c6698bd61cac9caa150445b3c5c065df84e631c6b931b52dd90fe828b07863ff25841cc21dc5d04f294269f3cbef7241cd8dc82dfd557e2f4764b7f25faa62d8ddffcf360a85ace43884720641c5c4a5dae27073374e910272ca68fa4a5b901d69b072b2122acead1ebea23e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ed7492f66ccc08047d8fd1bd22f1d5c/1ed7492f66ccc08047d8fd1bd22f1d5c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/2ed1689448bbec3d1d7d4348749d9bfb0bc78dc2c6698bd61cac9caa150445b3c5c065df84e631c6b931b52dd90fe8284b0925cc6b54465fd8169f562acc07a693175316262f9bed54dc6ef6ec14eac98c1ae8d54b64278cf1d0ab747719a726b2e1ffedcb3db0a45243c8361905edb171ba4fb50b465e085951fe9572e248afc2ca9a583ab920dac7369683e1883b89/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ed7492f66ccc08047d8fd1bd22f1d5c/1ed7492f66ccc08047d8fd1bd22f1d5c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ice Queen and the Spring Storm",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4409",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/926704dfa6f9bafb8e6ca59f358bf7c9ec1cae6ffc131ed429ff093c01baafa5f08c15cdb222e24cc2a72c7d55635eb1bfa3d970a43124634b4a053684fbf6ddf9c6ca09f501e54f2b6e18b0ec8dd51dc30f6dec8c5b0c749460dfe1d834425583e9bcb6ffff8d2582a40fb036731a7b3a2b28956fa76b83f7d9332093d156b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d202f554fabbd0addf3a04488cbf5538/d202f554fabbd0addf3a04488cbf5538.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/926704dfa6f9bafb8e6ca59f358bf7c9ec1cae6ffc131ed429ff093c01baafa5f08c15cdb222e24cc2a72c7d55635eb1477e760de22c7c0140b5a5ed5d379db8818fe73f95ab72b87af94ae9770c7419045475b93b6b11c3f4964a6a637bf615c7892ffcb373076342cea096508dc48861e31b97eeaa86aebdfe1a50f2d9c2c39670c437ed21cef7cbaa6ce35e63d1e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d202f554fabbd0addf3a04488cbf5538/d202f554fabbd0addf3a04488cbf5538.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Meat Invader",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4410",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a8e24f644c15c534df6a671245c8c061ed39a6dace29aa7f39fa33eb87002268102078298288c010935d789e5eebac20d1797be1c8c4bcfd863fe64355e583a9c459a89b4c3696a8fdc80d468306af94b40286f6cae45bb373b6323ef1b752cd3b3cfc4b818c550311ed87af1cd2a4d607870250d865814aa04133d6497bd5a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffa961bbc5ff4d96f36a236930eddec5/ffa961bbc5ff4d96f36a236930eddec5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a8e24f644c15c534df6a671245c8c061ed39a6dace29aa7f39fa33eb87002268102078298288c010935d789e5eebac2079a20a0255298c7fc0f6cad7d86dfc291fb1962970a6cd9fd7178c6d0077cb4761bbd44b0b3ca9acd05638c68012bafdf424b110b5cd39c401854ac5168ae79ab71192fa68e2003a48a9f01c70a300e3474b3b2de1e12754f03ca2deed7d6c73/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ffa961bbc5ff4d96f36a236930eddec5/ffa961bbc5ff4d96f36a236930eddec5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Quiet Don, the Eloquent Don",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4411",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/ae61901ce2f4decb1b7467eb1cd1fdcc6c686f0e9ed56182daf275c835d2dfd5f3236dc79134c59d0d4d5fa944eb3091fe703ccfe59d52b27fbd10937fe939306ee87ffd5e450b1ead7f52a0adaa338b2dfc9febc9c992ac4902d2da9664c145efc8c1d08cca7dd90c05a59a96b0da04992f1c3a882474377a317b3692f8d9a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f3614f9603eb8423b3c2a4d0d787acd/5f3614f9603eb8423b3c2a4d0d787acd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ae61901ce2f4decb1b7467eb1cd1fdcc6c686f0e9ed56182daf275c835d2dfd5f3236dc79134c59d0d4d5fa944eb30917b296166125f87e2d4170d9c6b70596994d34d5bc7ef3e78b20a60ecc3da518fa479d68b0dcbc54537722a2516318e2f4bddc083756909689c2344562bddfd0209a53a35d715607f872514f0a54ec06b60a5e324a092fe830db1988fecd81490/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5f3614f9603eb8423b3c2a4d0d787acd/5f3614f9603eb8423b3c2a4d0d787acd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Concerto of Inspiration and Imagination",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4412",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/22369dff4f9b69327ceba6e4ad84d23ddc5ebea5484d502fef3727f33741ad2187bb9843d2363bc3feffa34c6dfde1ef8315c1a9cc637e088088f75fe520c9c74c01022ac46da7f5a8941568b557f5488e4ea98b2a7c5a0423773379da4fb077f36933b3aa3a29d3d4ef23ff6596c29b6a22f0933a9de3e48fa7de4a79d1ab52/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1602b75266ef6ce531414112d4972fb2/1602b75266ef6ce531414112d4972fb2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/22369dff4f9b69327ceba6e4ad84d23ddc5ebea5484d502fef3727f33741ad2187bb9843d2363bc3feffa34c6dfde1ef7ca8a17d5c787547c691a9fcb192013b6bf43f72721613b501d20616268343a48a71956d12a3a5d38e360f396b339b1fb625ee9cfc8dce24ee998d649249ce384ac7c392cf6243f78019062b01bef63cf6f8361b41150716f991a4d4c3a5fcbc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1602b75266ef6ce531414112d4972fb2/1602b75266ef6ce531414112d4972fb2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Breading to Adorn the Mountains",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4413",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8a98d64389f083644637e8078a9dad0732eb501dcddfa61b2c5562c472817a06abece7b50782f5240bc9fbc676c0c4d2beac33794c75ecbaa6710bae3788f706c36fb533074cd0f73f70e8c2a9e770b38b2a02da943cbcc9a469c6c856ca4c247eae7d52175bd87e387326cdc677b31ba7272109e6f7d64d2bc89448876ea69a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e47d7a4e22a09209ba176199ba0f7258/e47d7a4e22a09209ba176199ba0f7258.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8a98d64389f083644637e8078a9dad0732eb501dcddfa61b2c5562c472817a06abece7b50782f5240bc9fbc676c0c4d2e99f4aa13ad0e1fe7e5850b6cb9de271509c17b9c00532da04a05459857685c8a9596be762088d7771d25393a5c6be48474487ba43e6ba11397ce005a0655d24f8c45762e8a8e11104cfbd80f6b4de3da425fe5c1089335f0d5f5143de769239/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e47d7a4e22a09209ba176199ba0f7258/e47d7a4e22a09209ba176199ba0f7258.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Heavenly Recette",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4414",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/82c04acc2ac2d5e19f9047e2faa195f985ea824861d2ad746235217ae45bc618e1578b37f93e11b5a29d224b0b21e5b9b7ec21344d73f884c90afcedad80339fb0435c0266e6b209b550a2ef448909004519c6d0c7b0c6c520150b5fe338c2d6a992de9a41e978d5d2d3096fd02979375c4fcaf393b5304bf0c57d55b181d6f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02a3ebd93d20d259fcfb773972ab2205/02a3ebd93d20d259fcfb773972ab2205.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/82c04acc2ac2d5e19f9047e2faa195f985ea824861d2ad746235217ae45bc618e1578b37f93e11b5a29d224b0b21e5b946518f27d57228f05f18fae25cedfbdbca5e7eceffc7dccad8bb4747dde98a5a10834c8be58d2baea4b219edc4dcfec33230ae1cc13b48c77f6875931efb0bbb0b1b295960a1ca6e7bffd3be9bb9e68021175a5c811612f8cf04084e1d33ffb4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02a3ebd93d20d259fcfb773972ab2205/02a3ebd93d20d259fcfb773972ab2205.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Magician From The East",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4415",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/2ec131e28250d37e790026861951c28012143864087a1425091bc96f5463d00e2b9c3651d2146cbba7c71da97d57d7f299537b1c9df501b881f8762bbc13a699368b73af538db4dd068304df6b1a10666977d01168a9af1be87ea7a6cf50fddd4955f9a22214dea8e0f4f38f263546a2aa9793799bcb1f2059baf9f637217227/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eed3629f2282ccaa40a324aab05568a1/eed3629f2282ccaa40a324aab05568a1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2ec131e28250d37e790026861951c28012143864087a1425091bc96f5463d00e2b9c3651d2146cbba7c71da97d57d7f2aac6c11e93b99b5422a58907a39d5d3b13f9cc528543b3f88201975a6c125ec5b13947fa04f9c7d9ac7a5be50bc59d9a891bd4ac5e6120dc682e764bccc1bcfd77a3e182d7b7cc0c6b6d88d260df9d1e1b60e28d7b31352350760626ccf8efd9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eed3629f2282ccaa40a324aab05568a1/eed3629f2282ccaa40a324aab05568a1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Memory of a Dish",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4416",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/6b9a11cdb234cb8d6946b796913a1e8503eb897afaf59db9fd79bbe6efd7149ac7e576ee9100b6e90b5a530ede2c532514a31b0b47cde41d15e0c38d42d6e03823d2405dd0fce61a5c7de9fac81bcd18de9235ecb7c8123fa1c79ccf4b9076cf939e97982094120ed67c796f640e68b5ef8ee9008514fa521f8fe8deaa306d46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6fd82f9a37eb3d68a7f731eb66f9b13/e6fd82f9a37eb3d68a7f731eb66f9b13.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6b9a11cdb234cb8d6946b796913a1e8503eb897afaf59db9fd79bbe6efd7149ac7e576ee9100b6e90b5a530ede2c53250b0d77ebfb962229a16cb9fc42f05fd7c1308640917186cdd1a2a009f158728698b794f8b6600a7888c26d503b3a9ab2b5e6e690990b67fa1f5489848420692752ff0991be1a694d266c3207c72589949f3a0676642f3b55dd230b5d1d0a706b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e6fd82f9a37eb3d68a7f731eb66f9b13/e6fd82f9a37eb3d68a7f731eb66f9b13.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Eggs Before Dawn",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4417",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/d7a6cd6bb573c5271c98706ac176945de0902d398130361d882f69d5e15434eec4b4f46e26d231787546efbfe15a1ce97ddb80ca6c7bd33bac3e959ce64562e7d00a0fbc2e9c7fdd1f6b859bcf4459ad643139e32b95d2f6721d755be9816d5f91ee57dda1a3c35c56b54b9b2ce72679d3aa87fdbffd761bc3a6c2472467f10e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a7b85e0395a50bc2c0e26c37aae3373/9a7b85e0395a50bc2c0e26c37aae3373.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d7a6cd6bb573c5271c98706ac176945de0902d398130361d882f69d5e15434eec4b4f46e26d231787546efbfe15a1ce9eda752287e759a592949cf276c335676193b0646bca21cd1e35edc53f1d0a1f30f8c96123320e1a88773f74cbcf5d1faaca56ac6f3b8bd0659c3fd935f129c0f9aafb08648c06166a9824e295ea21a18e85b0bd0c04b3a68fd368136a0cde8f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a7b85e0395a50bc2c0e26c37aae3373/9a7b85e0395a50bc2c0e26c37aae3373.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Metamorphosis",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4418",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/70b13d3a3c4992dbc84a5844d196fb04189649e97121efb53aeae5f3e3cf1543c86110721d2e2399387cfff89f4b576bb5644261b08d2633fed9f1cb4b16733cace791acc6c5172fac347f6fed8b064a8e9b9adfda30af0bde9f74651eec987f4e4395f2cb9f4f305b7530504083ab9f77d30866506f2876ff0a992ab9f5bc0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d78ddae7075d2b8e1420a8d244d7e93/8d78ddae7075d2b8e1420a8d244d7e93.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/70b13d3a3c4992dbc84a5844d196fb04189649e97121efb53aeae5f3e3cf1543c86110721d2e2399387cfff89f4b576b06b89fc60e36dfa257a8d9633a88537b13e062aee8ac9f225c014e103ea902829d8cd66dc2cb82c4d2575f6dd213db998f7f7459a5ab6370782a9bd44eb3a0e73022b320fa4389402ca321e49b26f38d262417b82297b93d26c023bdb59aab69/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d78ddae7075d2b8e1420a8d244d7e93/8d78ddae7075d2b8e1420a8d244d7e93.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Man Called the Demon",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4419",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f93fbc1f1f0a3f7cef0f9de3a523b60b0dbac25bcd6d34c208fab450da837aedb9ec9b22ad934286427a1d6d47bbf626728068630e005224c9d9d465ded504ed379714ccc336aba10928da648aee38029addfff52f3c9ea9c87af387dba2f830185760bcfd3098d0eb55262897c27b732c2a1ec9140fcef0fb46e38a5fc77561/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8c72061aaede2bfc067128c03512088/e8c72061aaede2bfc067128c03512088.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f93fbc1f1f0a3f7cef0f9de3a523b60b0dbac25bcd6d34c208fab450da837aedb9ec9b22ad934286427a1d6d47bbf626a47d6dafe9f47ea80bb47f53bfb8676763f428ea1147c38b62ee4db26c0cc36bca7b13a0872443e67bd1a37cef4d29587ba6de6e8ef584c3dceed413b914232f78f95fa5d6f37e95739c25851b76a3f00886c756e6a56c5fd2aadfc878139cc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e8c72061aaede2bfc067128c03512088/e8c72061aaede2bfc067128c03512088.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Chef Who's Crossed a Thousand Leagues",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4420",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b10750008ac44ad4ef1ec87ea4a431cc810be2a9113aa090e0c6089ce359a81d2f3048f3421b8134f14507c6b0a5319a68e4aa9e73daa3028e163221b45d921d953730031674c389eaf421061083cec40ac9860d5444d22128805fa67009628ace0563ccea826414c0b47a04a06243f106fff7ae51831c8297c96a63bc32a392/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b68b32a3db677008fe4f789a36e163c2/b68b32a3db677008fe4f789a36e163c2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b10750008ac44ad4ef1ec87ea4a431cc810be2a9113aa090e0c6089ce359a81d2f3048f3421b8134f14507c6b0a5319a5906f2576c9b8d16fb177f65df0a1b15342bfe1224d8f5f80e2fbee866ffc44a15e0d732c10d81c5d11f2e819b8218fc821f43eb3c81db03c77379d075b44e93d0f70e7425271023102d8ccba460b551fcfbdca05c1137176917e967365dfe6a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b68b32a3db677008fe4f789a36e163c2/b68b32a3db677008fe4f789a36e163c2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Seductive Karaage",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4421",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/285064a69200827d4bb668878e57cc547f632273baad1c064b80b8e79d5348dd7931589edd476c673dd0734592995a82cee859f444e52213df2f624e60970c513d36d413979d1ff902e8344adde56fe89f35acfa759d991ff09f4213578a42f1cf4963e844871598fe6d650657a87065d076e0e53b056177a34d64896ce529ea/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb00dd556bb940c2a58d761667a0220f/cb00dd556bb940c2a58d761667a0220f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/285064a69200827d4bb668878e57cc547f632273baad1c064b80b8e79d5348dd7931589edd476c673dd0734592995a82685ef712eff33e00aa05141a766e1d315f2d0abe6c019025ef54c78b1b44fb54779fd7b1ad092c0a1bc9b338c850f39a15a9cb0e43a8c51ddd0b05de50d7544f664bedb2a68353dd61eebeb7cff2005e561456063f21ba266fa530c273f6182f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb00dd556bb940c2a58d761667a0220f/cb00dd556bb940c2a58d761667a0220f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Karaage of Youth",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4422",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/a10ef94280279be3ea153c820fa022859985c19d547bccff7a4063440b3614f9bfc0981c84a719616d68451788399b3386c3c4480dcc531cd7588edf33b018ab27b248393584908edf35b051d80a4727f262d754f08c0d46b74b5e11bbdeea14a4bbeaef42bfc4ef8bf4413590fadad24c83e7b98c4fd060bb64c2dd0ce73313/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a3db63efcdb77a49afd723b5ff3d67b/2a3db63efcdb77a49afd723b5ff3d67b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a10ef94280279be3ea153c820fa022859985c19d547bccff7a4063440b3614f9bfc0981c84a719616d68451788399b331eb2b020b0fd553f69410f1892151533e02c217910ef6dab1fd1a039a77fa129395c1661c52e722d9196169e77a4a1bc39b79f0e8ee9f2e483c4f9a83f8cc6a2a444b2fa218b0d1f579eee50579a5f64036ecf7a3ec0fdc970eb950a6ed16d84/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a3db63efcdb77a49afd723b5ff3d67b/2a3db63efcdb77a49afd723b5ff3d67b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Chosen One",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4423",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/746d464ea548b66a93f3b4cbfe76ab6a5d101a3d434a29e086d288017ed71b229072f280746a63b8fd6385e1c0b64799f2e236eccd6b23a947eafa33eb3e8c4d1ae7b9b58c95b9676e8d9d056ad6de6c3191580fb6daed9b1fc6ea9a2f7f0c9ecc8fcb267a57757954f47a4f1c65773939c4049cb267cc4c8168ade3fc3ec86f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/523ddc680a19be67d1eb06a3a9f6a25d/523ddc680a19be67d1eb06a3a9f6a25d.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/746d464ea548b66a93f3b4cbfe76ab6a5d101a3d434a29e086d288017ed71b229072f280746a63b8fd6385e1c0b647994a5b5e2257c4c6b85256028be8a874551a98f8b87f30f73fed2dfcc4a0f97972f29d67174aed7404054efb57b6ff233da24548358c950798c35586605a59baa21994c53cd4ea48db2e54a6bf903a8866b2dce7b2039043616692af7884daf347/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/523ddc680a19be67d1eb06a3a9f6a25d/523ddc680a19be67d1eb06a3a9f6a25d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dragon Lies Down and Ascends the Skies",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4424",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8179e498037621ee73e6a0f01c0b3a7d1f32a78037c68380ea00ff591ef605ba1e67b214426728dcf098a35a29c02d65bfa3ca29ee72985ea271216e917f4108d007a28479fc09eb13a5212c450637665f9abef4cfadc7bafd9d2531ec82dc7caa905e0428c1d5a46dbc5a32f79c3616db5b9833fb1a4e9de1571b902b491f96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df7a790c4cd87ade5475ddfbbee11685/df7a790c4cd87ade5475ddfbbee11685.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8179e498037621ee73e6a0f01c0b3a7d1f32a78037c68380ea00ff591ef605ba1e67b214426728dcf098a35a29c02d650beabc948da15019758c5fb17f4486e8adb3b083b3539c1ccc12e9e5e86886351b277afc0de9eafd7dcb1533e3b751c3a14dedf078529a725001351a25d3e08f3e6d0ae3f9994d7dc143e859c1bf894aa731c60acbe002ad66848a58450a830b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df7a790c4cd87ade5475ddfbbee11685/df7a790c4cd87ade5475ddfbbee11685.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Unknown Known",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4425",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8ba44833a8488866932bed33d82c3edf0ed702568060ddd773fd250ecaf808b084dfbbffbb4e6a6f81b40201bb9b664265cbd1a1fce26f386ae77e0a3ac1ef56ad57efcaf6bccd3653bef537fc264ea86b03369390892e19888d657b55133b732ad5ca4e31301c204eca28357cb47314e59480e0c7d9227bbdc09f1fcee88aae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a64041074224b5e1d78919e244a721f6/a64041074224b5e1d78919e244a721f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8ba44833a8488866932bed33d82c3edf0ed702568060ddd773fd250ecaf808b084dfbbffbb4e6a6f81b40201bb9b66426a542ba80e33c15bc7ed09b85b033b8a6d7b8f5ddf99100188937800811d8e6ef220fbf3f5fa3af88dffbe6790adfac3a495cad775068bc8d2fa66dd81b80088b87ffa47163956d1086be71d6bd9a84a6da5b277a46dd8f3728c6cb7b351524b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a64041074224b5e1d78919e244a721f6/a64041074224b5e1d78919e244a721f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The One Who Surpasses the Ordinary",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4426",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bedfe2fd54cd037603942f96815e877cf23b5d9110bd40c3df7441604cdb62cbd84472e277eb4e8b7397342c89ea89766ae9908abecd341da617455b472703296c693571cffa89420c9ea6b2f1990922dc4d6c30089eef211c232822fbe929aa683e373eadec257f527a3e974925e4b4379dd5c847485a6d8173d9b3edc1cdac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97875e910d7055936a15383242d1c4e5/97875e910d7055936a15383242d1c4e5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bedfe2fd54cd037603942f96815e877cf23b5d9110bd40c3df7441604cdb62cbd84472e277eb4e8b7397342c89ea8976ef0455ebd2f369702f97814c909b048da47b4f97ae95576681a4e7233169b65b237421ae59ee8b1fd3baa9d27916c54d44de7c286cde63bf86244be92b79daa291e1df942f8370f4e8d4d03c22b47ab232c70042d47c9771afb8bd499a338063/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/97875e910d7055936a15383242d1c4e5/97875e910d7055936a15383242d1c4e5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Competition of the Blossoming Individuals",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4427",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/6b5661a6b0958478b4d1f91d0505da6c6162b2a97e084237f23970e8441e4f7ab14f10737e79f8ea624ce089ae099065c5a9946ccfd951a09b875dbfcea3fe505916e7a92d023c103a7a36f370120e50dcb754e23f77248f48f5befc1115355fadbe71933295f75e8caf28b4e1935efddd6ba56c94b2dbcf24b421603400b329/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b18084054cfead7323ca34e400a6b596/b18084054cfead7323ca34e400a6b596.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6b5661a6b0958478b4d1f91d0505da6c6162b2a97e084237f23970e8441e4f7ab14f10737e79f8ea624ce089ae099065e2807d0a2f0925df49cbb0a6a3849b65de0d04ba3fff26a75090279989011eb80ebe7778caf386a9df6cd21566852770bbffb4a9b0f3d07049ea192bad4e1633c1f083afd7c31f8cecfff7a3e4538f9593e6cfc7fae4d88ed987cd49e9c06c6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b18084054cfead7323ca34e400a6b596/b18084054cfead7323ca34e400a6b596.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Banquet of Warriors",
+            "episodeId": "food-wars-shokugeki-no-soma-185?ep=4428",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c118a89ec418b6782e6190d8f501386032ce2914ff5252ab09792d142bab78d94956df642e2727b59e2d453ebbfc8ec1e2032a42d2e578bf0427ec97459bf84371c2ce2d4f6965607f4ae9c950fd6dde40c4be7db93f0c5208e702fdcc11a390f5a1229ea177e70394bad13ce790725447b964264ea8f4f5587e6a56b4c0c31a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac188fd3fb674a59e085a3c128cd3460/ac188fd3fb674a59e085a3c128cd3460.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c118a89ec418b6782e6190d8f501386032ce2914ff5252ab09792d142bab78d94956df642e2727b59e2d453ebbfc8ec1d6ed9b2ffab4e6cf055b8ee45fa8e9e8a1870f48ca0f461d654e7dfbe41465ff632e67f333a7895fde884016d484effe6aed8d62a6a53569290aabbef2964cf96263e27911ae6cfba670f354a2758dc512ffbb5b14ea266da43e3eaf8b5d737f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac188fd3fb674a59e085a3c128cd3460/ac188fd3fb674a59e085a3c128cd3460.vtt"
+                }
+            ]
+        }
+    ]
+}

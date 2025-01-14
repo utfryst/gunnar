@@ -1,0 +1,601 @@
+{
+    "info": {
+        "id": "that-time-i-got-reincarnated-as-a-slime-429",
+        "anilistId": 101280,
+        "malId": 37430,
+        "name": "That Time I Got Reincarnated as a Slime",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6f0a1657b0f119bb850fe3b1bbf81b5.jpg",
+        "description": "Thirty-seven-year-old Satoru Mikami is a typical corporate worker, who is perfectly content with his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life. In the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed. However, while succumbing to his injuries, a peculiar voice echoes in his mind, and recites a bunch of commands which the dying man cannot make sense of.\n\nWhen Satoru regains consciousness, he discovers that he has reincarnated as a goop of slime in an unfamiliar realm. In doing so, he acquires newfound skills—notably, the power to devour anything and mimic its appearance and abilities. He then stumbles upon the sealed Catastrophe-level monster \"Storm Dragon\" Veldora who had been sealed away for the past 300 years for devastating a town to ashes. Sympathetic to his predicament, Satoru befriends him, promising to assist in destroying the seal. In return, Veldora bestows upon him the name Rimuru Tempest to grant him divine protection. \n\nNow, liberated from the mundanities of his past life, Rimuru embarks on a fresh journey with a distinct goal in mind. As he grows accustomed to his new physique, his gooey antics ripple throughout the world, gradually altering his fate.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 24,
+                "dub": 24
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/bkQkyzXEXKE",
+                "thumbnail": "https://i.ytimg.com/vi/bkQkyzXEXKE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/t0xuqi2qvxY",
+                "thumbnail": "https://i.ytimg.com/vi/t0xuqi2qvxY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/uzQT1teinv8",
+                "thumbnail": "https://i.ytimg.com/vi/uzQT1teinv8/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/jShQgEUob0I",
+                "thumbnail": "https://i.ytimg.com/vi/jShQgEUob0I/hqdefault.jpg"
+            },
+            {
+                "title": "CM 30-second version",
+                "source": "https://www.youtube.com/embed/9dOb796qS4E",
+                "thumbnail": "https://i.ytimg.com/vi/9dOb796qS4E/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/0JV-AKRExCI",
+                "thumbnail": "https://i.ytimg.com/vi/0JV-AKRExCI/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "rimuru-tempest-262",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/35d1631130e975914145a85a5952a02a.jpg",
+                    "name": "Tempest, Rimuru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "miho-okasaki-682",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9dc466a9263af1acb90e4398bd00e2f9.jpg",
+                    "name": "Okasaki, Miho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "chloe-aubert-19496",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/48aaff40d369fda61add8017745b838b.jpg",
+                    "name": "Aubert, Chloe",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "azusa-tadokoro-605",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5c30c599e8d6b594907367465e1fd14f.jpg",
+                    "name": "Tadokoro, Azusa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "belyard-106860",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8aeaaea9eb97e84bbb84931eb80a391.jpg",
+                    "name": "Belyard",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "itaru-yamamoto-7116",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbcaddbf0dd14304fe00ddd03ac6611b.jpg",
+                    "name": "Yamamoto, Itaru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "benimaru-3578",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c897ffac7edb9e16389c8a6caf5e574e.jpg",
+                    "name": "Benimaru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "makoto-furukawa-152",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8538ec596e9ea3c5215523463317a033.jpg",
+                    "name": "Furukawa, Makoto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "bester-106280",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2978a00488b762330a3aeb0b78989f25.jpg",
+                    "name": "Bester",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenjirou-tsuda-71",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13400a4ae4cf4371b317701bb1a251b2.jpg",
+                    "name": "Tsuda, Kenjirou",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "clayman-45348",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d6ae87fb98f5ed5f11be20563437b3c3.jpg",
+                    "name": "Clayman",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "takehito-koyasu-23",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8b9f465de8b0778d2b2b3602b7f4f843.jpg",
+                    "name": "Koyasu, Takehito",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "転生したらスライムだった件",
+        "synonyms": "TenSura",
+        "aired": "Oct 2, 2018 to Mar 19, 2019",
+        "premiered": "Fall 2018",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "8.08",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Demons",
+            "Fantasy",
+            "Magic",
+            "Shounen",
+            "Isekai"
+        ],
+        "studios": "8bit",
+        "producers": [
+            "Lantis",
+            "BS11",
+            "Bandai Namco Arts",
+            "Micro Magazine Publishing",
+            "Kodansha",
+            "8bit",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Storm Dragon, Verudora",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9295",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/69e4bc2d395d3230faacdf6e56074e2a884499e6f4e17c92ee0fba98e815a4d5df4b2d2c44756f8e578c14449c095abe3c21303b746833eb6c42473605c02a72fa21f3ecfeb5efad4c3fd59001efcceaf190fa58c9494c7be9714cf23e0f5b3974633cfcd27a0a91b1fbe299d5f8cf0776ed64d45fcf94a48541edb42d3c52c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45875d8e34c4f691a7b9f79d6bf2a747/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/69e4bc2d395d3230faacdf6e56074e2a884499e6f4e17c92ee0fba98e815a4d5df4b2d2c44756f8e578c14449c095abee5db9bcb52c8e4de008d34b3f1958d0e3c83a6334d35075f09980cd57b7853c286ddae6c820efbd219a4ec4249a05fe1530948eed0ead508572206728b1b16d6f7fed19264753a529e93b14df76b5e7146b750d42e39fcb758f1af94a4b37334/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45875d8e34c4f691a7b9f79d6bf2a747/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meeting the Goblins",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9296",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a198d452e0ed3f61083892385ac3c52a53e7fe0d6e9090610003f842a07872e0317342a2f8e0357557f4774612398e55ede46ed0f0397c2af1837d285de0cc46b11477dc30ae2f2c9f232c944e8ce9da1eb1d11ab5b0bfa0e6effe0df44be40afa6b430e853b6d4473f18da5e4a9310f7a012bc15346a25f0756052f02849aa3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25d6c9b5c7c0d2ac243a602de6d006b4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a198d452e0ed3f61083892385ac3c52a53e7fe0d6e9090610003f842a07872e0317342a2f8e0357557f4774612398e55c0a9854de2cd82b5962fe760d52862f528cee6048c4809395cce3efd98203a88d1b6d41be2ac5347a21f3001f0b307df29be10a64a43d96df0b78374571da689abad2ce14d348c89d9f19ab3b66a4ec2f69549ada4788dd59246d2b4d3b5dc82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/25d6c9b5c7c0d2ac243a602de6d006b4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle at the Goblin Village",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9297",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/aa3779882cef81bbceb50735aefbd7e16654bc015b819aea724456d4675153cf3a37d087eae497be1223c56eb9322d9f49dd215363a9c88c1f63e1014acca3517634b5438fa2a2569c02e4edeb44236fcd3f43531462d02587e0375b5958dcd111a6212ac3f6e5461aed05dd99f0e86e50b4022b4d0d358d34dc9d6aab4dd5c9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24660f2774c2e5d4bc22e15916d8220f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/aa3779882cef81bbceb50735aefbd7e16654bc015b819aea724456d4675153cf3a37d087eae497be1223c56eb9322d9f6a30decb764323289f8fd44865c5a9329d69153069e9a96b46a8b19bffd6613ee7b5d191cb474a738ba8c08fdc36dc08a5d9305f8d444187d58b2c0409517061bfc74b238f063fa750e19850cca2e93d907ee4de871c4ba7358fbc9f90365779/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/24660f2774c2e5d4bc22e15916d8220f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "In the Kingdom of the Dwarves",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9298",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b3810ca07b8d08937bb26bd94dc17d77de3ae970ec947d5f099811b980dc160348becd687f3b557dd8ac35aad74cb6f7e77b9e4bf3c5599ca50f1f044b775c00f20a7c31f8be9f91cf461cede143bc64106262052306413ea6cd4fbd53962ddbc83bb7ff01039913a48932981f544f1cc41eff98ca2e0bc4051c9d67663067d9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4777e49417006afb8fd9db7df24055e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b3810ca07b8d08937bb26bd94dc17d77de3ae970ec947d5f099811b980dc160348becd687f3b557dd8ac35aad74cb6f74149445c3f3f53bcbbf5612ffdec03937f269bbfdc521f8944db4751c9a002a3010b892870b396a7ea12d1039e7fa81191d0feeebbd48c74ec836963c320e51613d06343a5e0119e3482ceba903b065fcab1093ba26354601633ddf39050c57d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c4777e49417006afb8fd9db7df24055e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hero King, Gazel Dwargo",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9299",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/8147c29a6f170d35eb557e461a130a7e56e31cf765874fcc97e5508b61a09d893fca1246907806079e14b88b04d93b5a3d5ab9da458c823a95b88f215d418473a81e891db4c3c5d92dee71547a8ba08f2d2bdc1b1a92e34ce861eede24066448ea58653c985e7b472fa05c1f6427eea1f6fe00ad1f4c01f7ba635ffe695e3d37/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69fa304e4f71d0c60dce30f8fec24751/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8147c29a6f170d35eb557e461a130a7e56e31cf765874fcc97e5508b61a09d893fca1246907806079e14b88b04d93b5a9637ce31618d3a71a7150d5197fe58a5f4ca4babf66df86890305201127773bfd92e8e97e55eaa9922de563a5e7c1c7830fdd9663df405bee161db1ed3ecb151f46f229bd974c0bb2d3691e9e04e85cb08acca83db6e72b9ad8fefc200c2cc0a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69fa304e4f71d0c60dce30f8fec24751/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shizu",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9300",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c0365bfe36aa416d2dda12ceb04de822ca48a2c26ecb25d6c0f8d3cf587f8283d5acb9a695282441a9261a11d5e6543d160d137df22b9ab073e19d136ffeb0055ff5225fcaaad0d121d353cae31d26962dae0bfc513034fca21cb6ec242e9108de36cbb8a151b751f7aff019033c664d83eddcd584deee93c475b951fcbf1739/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa7ce4f019a80bdc832a7a1ce6755b82/fa7ce4f019a80bdc832a7a1ce6755b82.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c0365bfe36aa416d2dda12ceb04de822ca48a2c26ecb25d6c0f8d3cf587f8283d5acb9a695282441a9261a11d5e6543de71b49a4a6bd63835037c46d52f9c8ad14c8f80226b739c6b35b4bce744d0ae95e4381c96f061d957c4316e7d91504be42ed44716f50cd01c4d574997af07246b1152cc05a6e19e439fd9aec8fc05b8abc78fbfc6bffe3558ec8da192fd811ce/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa7ce4f019a80bdc832a7a1ce6755b82/fa7ce4f019a80bdc832a7a1ce6755b82.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Conqueror of Flames",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9301",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/16a6524db0fdf719ed677b914e680b51a56b47ff07394bb919363a1027663096a7cba2e9e461acf9cad0530e9994e2abbcbc50554fdbfd7b7adb46fb8d38ab5d80e9877f39295590ef2961bef1018846caa1ec8585c58d731148ac2bb58d552cd7665f85ae1a1709751f9c84d46747285cd87419919378d516858383ddcfd1ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/61cd68ed525fb7aae175fb9827626324/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/16a6524db0fdf719ed677b914e680b51a56b47ff07394bb919363a1027663096a7cba2e9e461acf9cad0530e9994e2ab12de1fd623dd93467325e7686336f50446c617458c58b77bf52042f2194d481cd587f56323709a8b742d0557b47d77b950167769b1b2167f4984c9a62205372e5442edab9f1e6deaa5b251bb70e0788f5aa20e873197dc8d0b7fbfb8d5f1bd98/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/61cd68ed525fb7aae175fb9827626324/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Inherited Will",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9302",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b2d154fa62b3f3dc21424aacae19ae3bb0f48e8fd175f3a6282cb430a397cd1422bd17cf9dd4f645e9c2aab8668083f9469766aef01e13902bc88f6716f60e4764995ea6b91f9ff9860fa716c99c0879c536fc9adb93e56d00301a2e3b54ed883fb2179a11f51b024d8dbc06298d0ef6064658d9fc89ae7b4671a14270d79dfe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e12dfdb6b3f582cbfa7f9837cedfa88/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b2d154fa62b3f3dc21424aacae19ae3bb0f48e8fd175f3a6282cb430a397cd1422bd17cf9dd4f645e9c2aab8668083f90e44575d63813a04bc7c56b261c74934c055faadaf9d730da92dcb2e1443f5a43b745b4bbbe76b3631dee52076f0867f4d2b6aaefe6b69104d091fd4cf652582995d588e13cf74e9fe2340644670eafa07663a538f1bf8a37b90699e443fe471/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0e12dfdb6b3f582cbfa7f9837cedfa88/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Attack of the Ogres",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9303",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a6b4382e63e2e4496a90b0f7e57ca85e751f93b8359646f5d565296c688604cdba5c43ce829932309fa941c2b76e1073da09f74218a5a6f932d00f5763c5b540c7372b206da7ffd974dce23ee6bc13e60af6fdeb9f572c9fb59dd7e396b191d541c76a10b29831e7db36b0346b7040d029b96880279e6e3131c29b0740d62463/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35dbbb720b70aa3f8611ca17b31a6cc4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a6b4382e63e2e4496a90b0f7e57ca85e751f93b8359646f5d565296c688604cdba5c43ce829932309fa941c2b76e107382ebffc447d511bc9e9482ba6f5a787f97d4f13da70fadd3147d0e54c55687b025173dc1232c08e70642a024fa8df4929affe5d6f0175b0367f8b24b9f7131d1787003b1ca15954c8d065d341b349dd863b150495a5e6967d5bddce4d723e27f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/35dbbb720b70aa3f8611ca17b31a6cc4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Orc Lord",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9304",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/7c7d3fc5f52136bb595ae011d58fee90b14cd800e9e7bee390edb332e13e038368b27830ab45c211b0532c0f26badff203e5fb4477a1274499629578730e247d3ac7a326e99b2473a210d3a83be0ed976a6dc7812fc665f30c6ae2b3c0804abb4f762908fa13fec1d6c828d9be8e2ecd980009fe845107a7d658c785584a92fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac44e74db174a946a51a6042e3e4e587/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7c7d3fc5f52136bb595ae011d58fee90b14cd800e9e7bee390edb332e13e038368b27830ab45c211b0532c0f26badff220a8f9d1c8d2d8806d9d2c912c579ade399274e51596b4024fedc56c5ab592f550c6b396938b808042fbf9ad7f3ed14fec4fab1eef6848bb9cbf2ce66facf33d2333849ea36fcb9af5890f6414c25e3619b84b5819145ba8cb6c8b1a08fb84f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ac44e74db174a946a51a6042e3e4e587/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gabiru Is Here!",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9305",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/03be20074abc2d73dff4a7c911b345800ce429e902742b0006e41df8067c094d885451efff669c7b64f3b5fd99649e75e370caf1ab770792d6b5fb5ab4a53fde6319235b85a613c603c61ebbc9462a7f91381feccd5c8fca9a9a66ae91f9253adc84160c8da953f6a71154f6e1a7a9de278b3bbebab09f91f7ceb04dda208f2b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f95c833fe68a5530b514c0e84975670d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/03be20074abc2d73dff4a7c911b345800ce429e902742b0006e41df8067c094d885451efff669c7b64f3b5fd99649e75f787568f31146ee025e30e94c054f1c4a0acabb70e7dbb3384819502116822f35d39d0f7f9677922f2f122bc5f4f63063be5e71f6d453228fcb5c21a0ed0a35e68964cff63d39a1ccd965bc0358cef659aaf011bca6606faf46b0185b84e3fc4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f95c833fe68a5530b514c0e84975670d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Gears Spin Out of Control",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9306",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e425c29148cc1a9734d51b570541cc8939de4c49e739d0bbe9e97f32d7bd89b21a7443a27c2a2a578f7894aec0d8f99827cb397b180a2542a13562129c29dd90843895414b6c349940fb6d69dbfe93d3c6f02f4cdb1d5a2208b9791b5d2ece1c77f1bf7a59703f0337be026b4751d9b9c07f5592d2133fffdc1af35e91feedd5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6c55d461ad628bf0faf6cdb3b0f0d1f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e425c29148cc1a9734d51b570541cc8939de4c49e739d0bbe9e97f32d7bd89b21a7443a27c2a2a578f7894aec0d8f9983bd54916f630c994b9b76cb92d68c491e0cac8de20724d705b55e880ed97e41737e90050be3feec0e839cbc9d768784538ebe9d9c640596129c5d5c822b7d0cee4c176b72a24881ad5737328880a528f7aafb6325446a9a7bf17b521bba47f9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a6c55d461ad628bf0faf6cdb3b0f0d1f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Great Clash",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9307",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b9bbebbaace53fa785da5b263cf726476a7e01be075001757954a12b1c46ea16c8c9cdbc1df1e16c4c92c69c6e7a49ced02656e48084b7a31fb081f62af5df0935f4d0bf78cc504d3759c6d9ce8602734689cb11ce434a6a4b3cb7b7507031b662a99743bf9ce5cc44343daf660337b9b7d0a3623418362d2d1315dc5b9e313e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ccb821fb69caa301a0c54bc15bcc1df5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b9bbebbaace53fa785da5b263cf726476a7e01be075001757954a12b1c46ea16c8c9cdbc1df1e16c4c92c69c6e7a49ce8e7626ace8340187de319cf230072ae1699c9f0f4017be89531d514ab13d7e89fa6f24a3ad0695c85500c7dfd79ddbf6425b75a8b634203021a5f641a04c48a443f63d0308577673e306cb8662a24b838da7b7ee65f40f2d9c170715da42ee35/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ccb821fb69caa301a0c54bc15bcc1df5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The One Who Devours All",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9308",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/4f5059f5e248d2ee104aa3e6c4a37ada42b2f11e9c40c725f45b23ccc769d875b9c580f5e957235449a99ec87acff265e42ece57c8544db46ad7feabea238591e1e908be7db518747ee4416cd57079fcdb323ff90a79638a1ba0885444c35ea6340ac3225af012ccf38504fcaf1f92cb581ee8c07f7c365773f4762ffc8b5d33/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74c7a76fdd092cfe1a1155981729e9d2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4f5059f5e248d2ee104aa3e6c4a37ada42b2f11e9c40c725f45b23ccc769d875b9c580f5e957235449a99ec87acff265de495ac1f395413bdabdd4a3cb10065cb9d242eb601de1c452c0d708de3c8454b92552168c5244bb8b75031817132d24a55c88dc9b6a26c991b79aa7481d9eb5a5619abda85bd268aa0d4bcc9e98cf11a06152cdac3c03d78d0991b67581f632/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/74c7a76fdd092cfe1a1155981729e9d2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Jura Forest Alliance",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9309",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8ffebd5fd37c6598ae055d2ce3c425ca3c2baaadc4d7eb6f75a27ff6ab2116d7a6885de4da08a1532aeb410ad766b380eb232f3b60961b3612904ab953216c2a94b99ef3d59537a641ca5167636ad49783fdad9c85e4a942c1ff18cd4fd4df6ea5b3b1ca55fd1869e0bc5ff9ba979b00de0df02bb2706e61c71fbf38a3a12b64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/791f00f25fd12af4354932ab80e64238/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8ffebd5fd37c6598ae055d2ce3c425ca3c2baaadc4d7eb6f75a27ff6ab2116d7a6885de4da08a1532aeb410ad766b380a931f04d0a4c7b2ee956b75dd08188186808cc1011d18d2bddb0315d2bf1a3f964afa7cfa745c8e468cccc014dc371770664b72633f214c6c6759dcc50597dd8ec2036c582df1e9b4dd4aef62cdc7f1012beea5d4fd2402378c97d06328cf208/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/791f00f25fd12af4354932ab80e64238/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Demon Lord Milim Attacks",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9310",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0362c8c08472d69ff02ff871b8e8c5eba78e0d6f00a436d9e415b56dde898cdf11b3d7314da565234d30ec709ffb41019e5339f3ce54b97fc05593ce29baa9488f66a1930459f57718d1ad03e6c2682ab07e2c641b9bdd7c7d3d0266a4438519b897ffede8c5a122fc8aa574b6d4122d8b96bf753aace8a1a9ccd2567ed1b886/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f60d5b272059469d11541966598546a/6f60d5b272059469d11541966598546a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0362c8c08472d69ff02ff871b8e8c5eba78e0d6f00a436d9e415b56dde898cdf11b3d7314da565234d30ec709ffb4101aee9663b42ed0372032d90a95e9a26c1292e1919a994dae0aea8633db964c6482624bb932fcfd3887e0157569fb75d6e59046857af98619609cd10f5f1bec5a364766e239293c2d58225802405385402b76c30a84f4c62d50741f7dd9349f12c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f60d5b272059469d11541966598546a/6f60d5b272059469d11541966598546a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Gathering",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9311",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/52dea33da7b14c6bd0051d2c16162491a895ed5d111b72c81fdcbc1ac01d5448c9e1e6ea7af26c9e08eb821f2e5411aebf6c03253ae46aeb3b6978b4d4abfb75df499a4400da993c682abd774c90e44bb375f3eab5531cf942deeb7811ce54aca8b792aa376fe136712f6d32611eb5cf989db4a3e6d27fffc1f910ebd89ddad7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e4247882aca8c2d3d763557fd0021a2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/52dea33da7b14c6bd0051d2c16162491a895ed5d111b72c81fdcbc1ac01d5448c9e1e6ea7af26c9e08eb821f2e5411ae6b2a362ccb02280161869000d496688ec1feb73b1ab8f360a4523ef5e481df41addc4dd6e0bb19f9bbd669a610eacaa749df1cb7fefdea168c718d2ed46763bf893e106dba540b40f664db5bd0efbaf2856e20546ee4263c9058d9b30135745b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e4247882aca8c2d3d763557fd0021a2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Evil Creeps Closer",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9312",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/66c770375865f8d45f048893d5535233cb4593bcdf900ea7e0151397e2797c56007e8764af26c78aa8f67249b3d40e21a2c9542cf7bdd676b72bc20c69c85e51832bbc3434e495c7c39b9348049098b95b88d661d93312e092d2b225cbdea5062daffa62bce6339fe332da200234edab5b47a68e1cbdf1c67da55608c393d57e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/308ff334d230521b4b392acc00cc8e8f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/66c770375865f8d45f048893d5535233cb4593bcdf900ea7e0151397e2797c56007e8764af26c78aa8f67249b3d40e21907272faae6d0277988c65599c11782def9850bd53ee5c9d0ea5ae4c07766521bf68376b1a80c9975163bde094b6f1758e7a588cdb154c645d52469557c984ded69135f6be1a7f6c09b55ed9ff2694c4fd71b1742111dab866ac146890cc252f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/308ff334d230521b4b392acc00cc8e8f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Charybdis",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9313",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/78bb766a1e2d3407026f2d17eee5c1c24855c522d59f972d48b2736f59babf23d29be2d5c4c01b2b70c43d309db3411a22b5fd181d3acaee68bddc247357a3301774ed62fd60d500e261c244c28bfc12d0100b8deb2805a716dad14297d2449bcc200c24b8a39105943bda5bb88fce3733ca6cfe5126c926a4d9b08087d77580/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6767cfd4ca45736349cf3a6c7380eef/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/78bb766a1e2d3407026f2d17eee5c1c24855c522d59f972d48b2736f59babf23d29be2d5c4c01b2b70c43d309db3411aa61db16924d6dd68d0e073cd861755ce1b97514f59a1f4812341e22ae647fe5ba83a783d79037787f19994d00b039eac2d90ffccfefe9eecb162f6cfef7355ab367d600fe3860fe86edbf7d799a04000a3d56da9c72c025158be66806ea67cf1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b6767cfd4ca45736349cf3a6c7380eef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Yuuki Kagurazaka",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9314",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c95a1100cdb4085ccd413845bdc7df62540cb46e9621fa6f75892ed5e893f5eefad8da24f50c21bc22d9ddbf6771c322acdc51acce65180d25015877ec198bcd8f390266caef708661453675dbfb1eb74a699a87b8da41cd6dbb0f123d55cf56dc3d06e157f5714edae0021b6673cb0039d8c12f96dbea6df21b93e16022f6ba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d4157ae48be7a8450707a5000fcc798/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/c95a1100cdb4085ccd413845bdc7df62540cb46e9621fa6f75892ed5e893f5eefad8da24f50c21bc22d9ddbf6771c322af47a2f3836be245f22220412292fcfa79440bfa0b4905684a664cae3f93dba359d45e6b882cb5846f989986990a0018f72689ae67b55820d0fd5d96959d60fc94668319f1bf7714e711fe65dd7de50485437f60f8cdc9128668abf5360deb43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9d4157ae48be7a8450707a5000fcc798/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shizu-san's Students",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9315",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/330881fd145e5f6e131d193374bf0267a46356ca697ef82548fd41b8e19c873450fae0a44a5387c96b0dc0d5e4c221af5a979378c6df4735f2d0c4d6faefd3cf78782364a549d1c0f33b2e408a6961abd913fdc5e50fcf92dc5aa9a187c14e162b0f7032abbd1f3c06731a11e78c01e68afd62b0c8cb90d364317ceacbf17cde/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84a5bdb23ad6eb905a2aa6a33439ca1d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/330881fd145e5f6e131d193374bf0267a46356ca697ef82548fd41b8e19c873450fae0a44a5387c96b0dc0d5e4c221afd727c6f4337e984f0e9e934f1f561a68af123f5cffabe77b2dc42736b27192e1695e2aaf4d9646e19f99a963bea3684a8ba5f30ac01dc6d509ff1d273155ca944d21160ed2c77152a38ad4ae96b6fcef45754eadae56da01d78918635a55569d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/84a5bdb23ad6eb905a2aa6a33439ca1d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Conquering the Labyrinth",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9316",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/157d0073d744d2d7fc135e222bc61c7ff2f11e7264be3af264168e2b7cb63a90c00712b35094617f0de11fbbdd640afb63665235c070c02ced589f96f0865dd9d3f50da74a79903cceab525ea45b08bddf7bd9b6e42f69cd85f28f7e5edd62a9ed4c002a8a0f4ff026886fa4e5daede8e4e1dbaafcf13e393e24a35a6b40ebd3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72dec1b348e4e10ff613d2abf560d1e5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/157d0073d744d2d7fc135e222bc61c7ff2f11e7264be3af264168e2b7cb63a90c00712b35094617f0de11fbbdd640afb95d48bc639ee3dbf2f70a1f773c66dbbd98c6364bb322638061538027e632d7eac1a1fcbb562384bec833f04ab2927f142c0c54a419c3d62ace4f8563e765a2043f25e292fc8e944ed153f6618d1deb03e51474a5d002aa69381d5a804e16368/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/72dec1b348e4e10ff613d2abf560d1e5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Saved Souls",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9317",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/efe8dc4dc05e1f758c48279449cf420db4c4b2e2b25d2979a701aeb413ad06ae13e9d8ad9006097232f0ed87c87843325fae5e9767eae5bf7147163f6c0e9d77ab5884efc940f2ffcda8fc7b56e738713e2399b980d23f9da711e6041738d77e1125480ce2770deb68f0dcc338f6e89109dbc1821765fef3472c2d6c94b685d3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9de6feb795ffe9e174eb8220564beccc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/efe8dc4dc05e1f758c48279449cf420db4c4b2e2b25d2979a701aeb413ad06ae13e9d8ad9006097232f0ed87c87843327b53c1eff19b52a0c00be0208a3c224e2817c3d33f3c509a5f16dfc1f8c4829f1d9ea42f2f6829447ad56e9307c99a9c49fdd876bd1dfb017ec8a018f3902f4e3f1b7e519d9ba67ba7e0ace394a06a1733ba27dd6ae304bb4f916dab2b5d20d8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9de6feb795ffe9e174eb8220564beccc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Black and the Mask",
+            "episodeId": "that-time-i-got-reincarnated-as-a-slime-429?ep=9318",
+            "number": 24,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5e8ceca6763649c96b94bb7deebc1490082b25ce4a2a678f30c01fece372d7a5a3905ce72a93973a93f61f643c7dca3e57914c51aa6bb9eae4e50845833e151ad46a6bf7428b61bd1f10a6a62bcab9da42624be2039f064c5995ba3a7338d64b91a194e9db15513afda41ca20c076f0d8b4eceeabaa043e16a938e81beac8e7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4abcf34d473aee9d970da61d5ae19ca5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5e8ceca6763649c96b94bb7deebc1490082b25ce4a2a678f30c01fece372d7a5a3905ce72a93973a93f61f643c7dca3ed517ecae283a03043fa961bfcb57ffe75c6a498905e1a783ece694075858fd163ba0821224be527c1a554af7b4eaf20922629ab890afc6e139569ef094ccf7e41d4dc20a1dee7ce99733753260327e89dc39db0029ae8279d2affa6a13eda0e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4abcf34d473aee9d970da61d5ae19ca5/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

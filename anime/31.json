@@ -1,0 +1,576 @@
+{
+    "info": {
+        "id": "your-lie-in-april-31",
+        "anilistId": 20665,
+        "malId": 23273,
+        "name": "Your Lie in April",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1713f98ec94d824b3a34ef0f4ace633f.jpg",
+        "description": "Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano.\n \nTwo years later, Kousei still avoids the piano, leaving behind his admirers and rivals, and lives a colorless life alongside his friends Tsubaki Sawabe and Ryouta Watari. However, everything changes when he meets a beautiful violinist, Kaori Miyazono, who stirs up his world and sets him on a journey to face music again.\n\nBased on the manga series of the same name, Shigatsu wa Kimi no Uso approaches the story of Kousei's recovery as he discovers that music is more than playing each note perfectly, and a single melody can bring in the fresh spring air of April.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 22,
+                "dub": 22
+            },
+            "type": "TV",
+            "duration": "22m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Trailer Aniplex USA dub version",
+                "source": "https://www.youtube.com/embed/aMJpI_fEsA4",
+                "thumbnail": "https://i.ytimg.com/vi/aMJpI_fEsA4/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer 3 Aniplex USA version",
+                "source": "https://www.youtube.com/embed/PcMRAe-6zds",
+                "thumbnail": "https://i.ytimg.com/vi/PcMRAe-6zds/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer 3",
+                "source": "https://www.youtube.com/embed/otVXySnd5ZA",
+                "thumbnail": "https://i.ytimg.com/vi/otVXySnd5ZA/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer 2 Aniplex USA version",
+                "source": "https://www.youtube.com/embed/3aL0gDZtFbE",
+                "thumbnail": "https://i.ytimg.com/vi/3aL0gDZtFbE/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer 2",
+                "source": "https://www.youtube.com/embed/EnE2sYAJaHY",
+                "thumbnail": "https://i.ytimg.com/vi/EnE2sYAJaHY/hqdefault.jpg"
+            },
+            {
+                "title": "Trailer 1",
+                "source": "https://www.youtube.com/embed/Sk39zsayK_0",
+                "thumbnail": "https://i.ytimg.com/vi/Sk39zsayK_0/hqdefault.jpg"
+            },
+            {
+                "title": "CM Blu-ray & DVD version",
+                "source": "https://www.youtube.com/embed/gSM2AKUq1AU",
+                "thumbnail": "https://i.ytimg.com/vi/gSM2AKUq1AU/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 30-second version",
+                "source": "https://www.youtube.com/embed/Z6NzDH0T9-U",
+                "thumbnail": "https://i.ytimg.com/vi/Z6NzDH0T9-U/hqdefault.jpg"
+            },
+            {
+                "title": "CM 1 15-second version",
+                "source": "https://www.youtube.com/embed/kkL2nBjYHNE",
+                "thumbnail": "https://i.ytimg.com/vi/kkL2nBjYHNE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "kousei-arima-227",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c07515d3eb109205177e846b41f0dd78.jpg",
+                    "name": "Arima, Kousei",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "natsuki-hanae-53",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+                    "name": "Hanae, Natsuki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kaori-miyazono-56",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea30848d4ee1b4c9637a3ba719a83bfe.jpg",
+                    "name": "Miyazono, Kaori",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "risa-taneda-73",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19b89e30261bfe5753ffef0e2057843c.jpg",
+                    "name": "Taneda, Risa",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsubaki-sawabe-890",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7d534c055430a6eea4a5d7801d6b40c7.jpg",
+                    "name": "Sawabe, Tsubaki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayane-sakura-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/45b0994692a50b8d4123028d3301398a.jpg",
+                    "name": "Sakura, Ayane",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryouta-watari-2826",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3c462a6346f7f4abf765c74ab37e8d00.jpg",
+                    "name": "Watari, Ryouta",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ryota-osaka-184",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c164d403f9e40d0582048eab78c7ec20.jpg",
+                    "name": "Osaka, Ryota",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nagi-aiza-5239",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7a40822d30623203a4103267e78c5334.jpg",
+                    "name": "Aiza, Nagi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ai-kayano-18",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9b480a845cd23c36ee8fedf4ccc2b70.jpg",
+                    "name": "Kayano, Ai",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "takeshi-aiza-5515",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e4a254bb8a65f4c95034bdf30c00ecc1.jpg",
+                    "name": "Aiza, Takeshi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yuki-kaji-5",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+                    "name": "Kaji, Yuki",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "四月は君の嘘",
+        "aired": "Oct 10, 2014 to Mar 20, 2015",
+        "premiered": "Fall 2014",
+        "duration": "22m",
+        "status": "Finished Airing",
+        "malscore": "8.68",
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance",
+            "School",
+            "Shounen"
+        ],
+        "studios": "A-1 Pictures",
+        "producers": [
+            "Aniplex",
+            "Dentsu",
+            "Kodansha",
+            "Fuji TV",
+            "Kyoraku Industrial Holdings",
+            "A-1 Pictures",
+            "Aniplex of America"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Monotone/Colorful",
+            "episodeId": "your-lie-in-april-31?ep=926",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/eccb0b332f0e8ad2ae20816cd6e73f63bda3abed8b5caed111f9b0b9ccda80ac93534f30d788284170b4ba3158e9058583a18f9de64b51008e866e73caef894a672352eb4b0dee8320414ac15ab0876aef7847203011f55050c4630debfd7cc21741c6dc9cb9010e948c32267189cf0f518034674e7a901c0122e486f1c8bf3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59e86a6608e22ecef732e9357a2c2b58/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/eccb0b332f0e8ad2ae20816cd6e73f63bda3abed8b5caed111f9b0b9ccda80ac93534f30d788284170b4ba3158e9058589c7f8806002307e27ba6aec4cc627dec78a195084ad732d5e3af9848df1e5a909ea0dd70d705a76e816a10118d9a54ef0ca10e50df219d2123b66039e5b3de452e19425e73551d4dc9ac6e35071f009c510fdbca4de62cbcd61eabc0abb06d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/59e86a6608e22ecef732e9357a2c2b58/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Friend A",
+            "episodeId": "your-lie-in-april-31?ep=927",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9cd4199e66c07b0de11c97e3ddc0df5f96ff21a4d59091377eb06924b6288fe929449f70fd59056515e0ba96972ec11e6da4fff89e7ef583325bd5e6ed68e0f800493ee4838fbe843356bafb029b36cd18910d6c4b76f4eb2d054c8ee4642fada549059734035147a6a55cb6d92bb9302e8d41e6d9868edb9343ac467a23e131/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e399a330eb9bf305ce41a94862c750e7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/9cd4199e66c07b0de11c97e3ddc0df5f96ff21a4d59091377eb06924b6288fe929449f70fd59056515e0ba96972ec11e1cee0874f199d143a0db4d508d16966166257670f242b8a5d0c00a8773ac8eac372c477590bb1d9d240d2a6f515e914bccb119863f2a42fcd26b158cba66a7ac60748ee3a80326a2031cdccfbd531b4a21f43a10be4ff8c9484a7837cd360bc8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e399a330eb9bf305ce41a94862c750e7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Inside Spring",
+            "episodeId": "your-lie-in-april-31?ep=928",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d00f6764a3cf83adcf15c1d9c31b6d0da3d6d1bde785fa5a2af02fd8a09d8e6b9e7299de3c415df2768a214baa15407b6ada0b35f767fa48b4359302634746a7656bf99fa53365c58b96125dd81289972798e23e47db6808812e574a3772cc59cb64303e61501c1720fbbb9d4c768a1187cdff104a98e7c8cab7716ec01b5598/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc9668bae7642db6d9c5a3e7a8d853bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d00f6764a3cf83adcf15c1d9c31b6d0da3d6d1bde785fa5a2af02fd8a09d8e6b9e7299de3c415df2768a214baa15407bf30b59d2ef910aa8955e53056244e989965b6c3ea6640e8f1a73687426d4bc36ef1eda7036dea33bdd2700442a92ba0a2a67229f9b687546522f9294cd40535bcb2808bc0ae9c2362bbe39f23b86eea3ac52b1802b3d9c4b481cc794d9a86363/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc9668bae7642db6d9c5a3e7a8d853bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Journey",
+            "episodeId": "your-lie-in-april-31?ep=929",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/56fed482861b9e01a1dc02a638be398162948e6d66783fbd307bcfb421e5ad0c4366aff34153039494edd55d26746d7a0ce13a555b0c7be2801504c9621a0d7b385f7fe6f23febfef3507c14ec4b9eabbe3f1992fa9c2bc413aad5823b379e2c8b080cbf6977faa130ac1bd4063fc8add4d771c7e62bb4802f4a8a56451d057c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f388bf666ff618371eda894929f7c72/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/56fed482861b9e01a1dc02a638be398162948e6d66783fbd307bcfb421e5ad0c4366aff34153039494edd55d26746d7a68479034bf04f4dc1aa771d821c8658ecb819fb7c60c944796a7ef1fa5994ea7c3184d06831bfd6f7eb9b41c6237cc69ae684baadfb213e8e6b949ac3b50cd14a228114806617563ad8f12d2108e533cf416d9d49f8657e095adc26633a6de79/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8f388bf666ff618371eda894929f7c72/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gray Skies",
+            "episodeId": "your-lie-in-april-31?ep=930",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/528be6157109e5b9d045bf801bbb11f582f3cbd0fd2d3fa715e955704836e868e6ad4487f7c7ed6d6616a49242457cf36cad58a65cbd0b2d8ef490acec974078c267dfc472cd2ce3e74a498f8a0a3afbb75dcc98e3c50fe0db6e2813069b250b6d60b8dd32d9d0829680ff2e6f8a2cc0daeca6c0e8369f81b74ef46c61ea5dde/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd640999bc73689173b499ccca0fde09/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/528be6157109e5b9d045bf801bbb11f582f3cbd0fd2d3fa715e955704836e868e6ad4487f7c7ed6d6616a49242457cf3fcd41421ac7f339391bd731827d475b88723a14d0747035f26ea3537474be09083ff81df5b1724217806c75068df698046db4b559b460174919b10228b3219d4a8c7569c58743c80135cdd0c5d3e49dd687a2fee8b588f9e3a60a719970804b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dd640999bc73689173b499ccca0fde09/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "On the Way Home",
+            "episodeId": "your-lie-in-april-31?ep=931",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/75158059b525d06ce9edc99f999ae07caaca93ebd92ed18e667f91f625a69582d80d3bfb84dd025feec775a74303554fc70bf3689aefce7cac0406437a5c125321d25b3483681547d7307c81561f45f805b4b3d627ba8a8540e7497efef64ebc22792b4386586c421173d0c41179d77e8e9ae10eb8f0e264efc91deea7965217/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec27da1dd9558dc2c8208e0159f3b24a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/75158059b525d06ce9edc99f999ae07caaca93ebd92ed18e667f91f625a69582d80d3bfb84dd025feec775a74303554fa555dc94280d18184a8ac732acf9e59f801003cff8fb615c6e9e93e722c6a9762ae9a45337e9dab44893e9195f40b78144f8b9da3673fa3ede8b43c57d1c75d5153919862706a745dd088dc5d3462e94c3a069ae5b2ad9ca0371dd93e7cbd3dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ec27da1dd9558dc2c8208e0159f3b24a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Shadows Whisper",
+            "episodeId": "your-lie-in-april-31?ep=932",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ce281fc5783bd84e1d58b10536bafb742ffeaa302bc5b8381bb3b1f5431289a688b9c240fd455666d1ca539a1f7ed98549861bbd3754237b291bb0a595efe64351ccca81ef1cb1c9f39346a9209892690530a7963a22c5f1748489827cd5467a00110facd0d146235d307f6cc40ed11f96d7aa361ed146fe42ef1ad800bc9e23/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5117215c74504cb91750bc91a557e6b6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ce281fc5783bd84e1d58b10536bafb742ffeaa302bc5b8381bb3b1f5431289a688b9c240fd455666d1ca539a1f7ed985a2d10f78561ec73f66bafe53dfe77cb033ec0e3f7118f6e91cd624d9dc5bc1dfa4b3e5777f34af6f161353bd87dd2ed57067b9310708770ecc0d8748a34464442b9fe13fcc1dd6db5ae3b0d28d0809134f3f8a6915c8b940c48a257e60e9676c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5117215c74504cb91750bc91a557e6b6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let It Ring",
+            "episodeId": "your-lie-in-april-31?ep=933",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bd60cd555a87821b280a146fe17d630106a539ade3a8a2c1460e41391ef33128ad9baeaed47dd151dd66238020d96d2f551e0c6229b59ab908411296677824dc967bca05da7129b2f2de48d55af94dd342e367368d23d13a3bfb5b9acc443d94bff2b33ad2382bf52728efa5c62d3e2c3b7104cb16aefce1502b1cff21e787a2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23c714c714e9bb8326bb8d3bce01c66e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bd60cd555a87821b280a146fe17d630106a539ade3a8a2c1460e41391ef33128ad9baeaed47dd151dd66238020d96d2fe0a7468caa3c6e1aeda3c842a9f1bdbeeb3a47e6ab4522d4ea6bfaee9f2e04168046fb4dd662f24cf826e2a658236a7121c72c08389c641be8a873ac04b1a665e31fcf910f03d42898c18d673c5930bd3991285e3f9d39345723813ed2f8cf27/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23c714c714e9bb8326bb8d3bce01c66e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Resonance",
+            "episodeId": "your-lie-in-april-31?ep=934",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5db2d2091ca475b28d154ef302c477ac9bb3abeaf9e3cb23c2dc0587b092bd1b3cf2db6ba17071cb3e943957e920ef483b57c6ef9dcd5410aaf7141c2a888e6b578c26ec33b9c970a00a55072915e8d316733a01e36493c1b72a5ba01a33d0d1583ba663ac2db40bc8bec465b1aa1e50fca24d40fb1dedecba3dd408fc219956/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79f269a24225d26af5a9e77523210086/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/5db2d2091ca475b28d154ef302c477ac9bb3abeaf9e3cb23c2dc0587b092bd1b3cf2db6ba17071cb3e943957e920ef48169138be65fec3f7af49878e91a92b3b6a2b45f5f62dbaf6f1c8cf38bac0ba1900d56b01b0f0fd960b09fe6464f93b2036e2a67e77f9570b9dc8dec8decfab621bfb5ae2b5100d9c8eba69c079ba4a92a5e39246097ff4f27eb56933776d6bf3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/79f269a24225d26af5a9e77523210086/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Scenery I Shared with You",
+            "episodeId": "your-lie-in-april-31?ep=935",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/229280c386938558dbb6dc380e479a08caa2a1a65bf7ef211a0bfe3d7d098ab785142456a2372fce94f7b396b9885f871a734a08495148513504ae34a1340984824b3941724a44b0afbcc9623166bbe37bec1839fe6ef29755bce6d9cc4fcc910d89f3701c5e1fe645381740380edcdf76756708dcabbf93de24d26efac6bc30/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cd040680b3ec74d086ae46850830421/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/229280c386938558dbb6dc380e479a08caa2a1a65bf7ef211a0bfe3d7d098ab785142456a2372fce94f7b396b9885f872f0e58efe61b7bd76d6686176182b84d711c4ad66fb45aecbb2329351a21e0cd5da68cd18eb2485f8a0c57edd1fd6c40644bb678d311872ab33932fb2244fb6b351186a23f5d538fda1d11293bd2ab180583c66e639cc9eaafcac13e95489145/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2cd040680b3ec74d086ae46850830421/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Light of Life",
+            "episodeId": "your-lie-in-april-31?ep=936",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3622bffe1b304e66c920987f28f99039559181d66feb4dc03b5fa4d572f9837236b3081048cd598161d5c3ddcbb224499bd2348a5fe9681e14df25881c99d8a23f3b2c618726ab3549fcf9dce5384036a8aedc0a26056a5df866d4ea2fdd26fcb45509b50c8000a00df010d1b0bd7174736cd30d56f890d37f9ce0cb3b8e2abe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5faaed7c49762942754a94916f38a9bd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3622bffe1b304e66c920987f28f99039559181d66feb4dc03b5fa4d572f9837236b3081048cd598161d5c3ddcbb22449d57bce463cbe3700101dfbe21eba36f417b324db52ebfd8212336ce476eb63e6afad0f0dad395352e1992efe76194a0f7715305dc1e189f23b97f14f073b18693a53c7da000fc0766950ed1d449c43a34da15dceeca9d0d18612b50c49d92dd0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5faaed7c49762942754a94916f38a9bd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Twinkle Little Star",
+            "episodeId": "your-lie-in-april-31?ep=937",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cacda43cff2fb338e50df93f8c991979e01e7bc3c7174cbc5547071728a8372aa0c5b49bf62a975aed44fb0e943550babd593550d4126975d38fe8f49876ceab4f168e2a982e459584e4f83e6527a6b171e06d81e778d6593e1512e626117ad1a3370df8847ec201be6bbb4345fb9c63aa34e815076e1fcbc6a5e4db235b0cc0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eae37dc1d9e7000f0ed95640e8ab9939/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cacda43cff2fb338e50df93f8c991979e01e7bc3c7174cbc5547071728a8372aa0c5b49bf62a975aed44fb0e943550ba3639b0cd86c97d8b31955af173352565bc86aa4db4d87b35506a4a6e087e1279f627bc833d8257317090ec46aeb77d6ff8689501bff04acdd073ac597ae77ca98202d1e9c5fbf0837509c6d422673f7ef8f5e9a94274612e5a4e8d756becb5a8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eae37dc1d9e7000f0ed95640e8ab9939/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love",
+            "episodeId": "your-lie-in-april-31?ep=938",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/41427d02e5aba70da1ec351101b96d227f05f1faa410255ec332e5b6121c21385dffb0f7168945334e9c2cd3b0d023a8e63aaf66272057d461bd9ceba013e703d41040db4b03f003c5fbb9669d9b8195c31109a8f17fa81b8727ac44c49fb5749247f41caf1307948f72ebf60e0fb8a531572e8ee95a9c4f3199aecaf6b3c722/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e1cc730d27666f336f05f4ac53ca82a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/41427d02e5aba70da1ec351101b96d227f05f1faa410255ec332e5b6121c21385dffb0f7168945334e9c2cd3b0d023a86bd9706060a1ba1de1cd65eaf7c942f74f6e59f30fc55bf35c171dcb880a904e3dcd4b438dd974eebc6dda78e56d22d6c9247646544388f6f9bab502db9a6ea665313c8ddc9ba3695a7f2a3389dee421afbd0ae70567b945ea2c239b6bc400a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8e1cc730d27666f336f05f4ac53ca82a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Footprints",
+            "episodeId": "your-lie-in-april-31?ep=939",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9091c83ae2397d6d6ec6255c0972e33cedc51b19b756841836e5b5779efd924d6e628c81f011aaac2db618ee2c945d37ac85f02f9d1bf170adcceb61c124b2ef2021e19dc993b4b5d4d497b162956cf09e8f3be4b8ccde3c144a30f9dc76d86eafd5379cfa67e3a050f45774807384570b4d3fddda1f852fcbac5c28c541249b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0080d42cd153b9b05d7713de1b83dc51/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9091c83ae2397d6d6ec6255c0972e33cedc51b19b756841836e5b5779efd924d6e628c81f011aaac2db618ee2c945d3744ee8f357eed213d5d013a44775848bec396cb9697f88e3685289b2001cd756efb9637eb348cfa90ba1c2ee93e2d668ecc9659f8bf4edec0beecdd1942c91e554c6e7b09bf1bbb0d0c36501e7f3687c464a9f67af2ac7a563db2d2a04afcfcae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0080d42cd153b9b05d7713de1b83dc51/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Liar",
+            "episodeId": "your-lie-in-april-31?ep=940",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/cba90a0bca50fd7ae70b8a6da77be7d8d211f83928b9a8f61bdce8b668c83022b24dcb7e7cb2190769deaf961e81ff46eead690aa93b415ea991c9452055cb9f4ecc23c1e5769240376872eb3b9398ad43803313b33dda36160ee403418f7944259c88bcc28632a10547151d1e9cc2095d3d01b094023b3ed62df981219324b2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c8d692ca10c472cb76b4fb4d3b40b42/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cba90a0bca50fd7ae70b8a6da77be7d8d211f83928b9a8f61bdce8b668c83022b24dcb7e7cb2190769deaf961e81ff4696da2a55d8097cdf0b781ba2aa63ac1a2b561e94faf76ae2b3d59a1069f3b00566f9809efdd1701f7eb56dc893d82ad82d2b181d646702ce6b4cdff829a016a10df7b2a904290b8490d9369e41001dba0e5a9af7f4f1be8174135995997108cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9c8d692ca10c472cb76b4fb4d3b40b42/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Two of a Kind",
+            "episodeId": "your-lie-in-april-31?ep=941",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b208fca0145c5901539cdba852bd653a545358795793b7dc4826301641267fd76f0430a30f75d7b2c40c09d875dbcd648f517afaf842642a3a8ae17d60d6d8c76978c6d24d0c1a0e2e7c76a030e46956d7a43e166a2715909c298e8d10ddd823e959f513e08b809d4d0b90ef976d013aad8fb4c62a9cf7b23911df7d87070031/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45ad1b0da8bec036745e9c46cb49ca0d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/b208fca0145c5901539cdba852bd653a545358795793b7dc4826301641267fd76f0430a30f75d7b2c40c09d875dbcd64bc072b8fd1ff2f3bea974a6daef8b759cbf46b00a19c735b48f89893ed4981713c7eb9895fcabd2cb3a9a485cb9e3fd25b8fc9c6be1aca76baf65a24ea7aed3172a6d7d15bdc527a620f3f24221e7a4b669f7474ff67037aea4807db2ed95ea5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/45ad1b0da8bec036745e9c46cb49ca0d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Twilight",
+            "episodeId": "your-lie-in-april-31?ep=942",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2d6876acf12802b45476cdeed06750ba0c9392480ef1ce06c2f9fce15c4438bd3f770e0654d3f7bf95ca856aa6cd8cdc3da4e76bd069ef62455775018c6a77bfdce3539ffd2f2bbe5e23fadc8c1f4cc83edad9f4cb080d531c34a1fa7190d6da821dac0ddb005707704bcb83587d698eb6ba3bf49986bbcc0d181b70b91ac9a0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb8366c11086b712949c97f666e753aa/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/2d6876acf12802b45476cdeed06750ba0c9392480ef1ce06c2f9fce15c4438bd3f770e0654d3f7bf95ca856aa6cd8cdcf9e21ef2cbdf4ffb222b402272c79e3228c62d29e2b3271e874cabc686d409fa5e1548121f75263ad6cf64303a709c8708ff1a8483268357d4b1cde2e9b5e8af7f2a8716c0ec601df39b733fa79bb8923e4cd72d29ac5b0846098b75ba6fa382/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eb8366c11086b712949c97f666e753aa/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hearts Come Together",
+            "episodeId": "your-lie-in-april-31?ep=943",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/37e66cc2b2198dbb24d985bc82817df3eaaf680fd31b05fdd8f9132347b78762617c3a82702b9a0592dcfd31355be0630ff6b78a25b0abe4741481fe54354c0dd30848666a0e0a6fb5de6bdbde93e2337f99b2bebe786d184752e448b4ee80bdc18bc0f9e2baf34fece4d23ee20ae3fad76e541e55e27f650c475c0bc360c7fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5caa4c9de666272de10ac6ddd25dbd0b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/37e66cc2b2198dbb24d985bc82817df3eaaf680fd31b05fdd8f9132347b78762617c3a82702b9a0592dcfd31355be06355eb9cda38f370fdb064d05ba43873776f7e2467b64b1bc1d6eb2449de4f787412f853f53bdd8c42f1f2b5011c19e17bf79e9b819b76ef1e4c19c3f1d50d46dc40b6d4da95008bf35971c605eb10126d42198184afb999bfa01c317821646341/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5caa4c9de666272de10ac6ddd25dbd0b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Goodbye, Hero",
+            "episodeId": "your-lie-in-april-31?ep=944",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/34eb6e388b199f4bdf6cb771ca4a2e100f7cebddbe0d8a33b7e335b5b26b6b120738c8b9f215d07b1db4f131e41514ab59e8339d837843ca5aeebdb9e0fd52a8bf61157757ff957925acad63e03b04a133193416a1fb8e73a723e062c85e369452c718fb95fee52d707905f69bf9666d2774548fd06746f9894b6a3b8bd61461/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3f5ec79e07f93eca1b8912647e38135/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/34eb6e388b199f4bdf6cb771ca4a2e100f7cebddbe0d8a33b7e335b5b26b6b120738c8b9f215d07b1db4f131e41514ab35611238dd77978726882501002f64318400741aa1d8c7c51f1aed8b8d56ecb9847852c70101b72688aa02d8d75920a1434ecd02e66e0a09aecf71a354f33290f0a4de5b1ec63b2b04be1493dede8c0ac4b7273f66b2ef7489d2c5fa66290558/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3f5ec79e07f93eca1b8912647e38135/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Hand in Hand",
+            "episodeId": "your-lie-in-april-31?ep=945",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/044cfb957c00286ddddfa63b2f3c6e4a0edde6932f066d70d7d450e64e64d68145e6f1e520a0d68df78e2332469b1d4083365ec18be125bef10541bc160a5937db8165dec3c2bef39c136b05f086dae7e2d63a23512f68184699cba3bf066f0b300745d05feb11c267481777f1e48acf756a9364c76ca16858018b160f63a5e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ae7d9bb371620834b4d1bbc63a3ebe4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/044cfb957c00286ddddfa63b2f3c6e4a0edde6932f066d70d7d450e64e64d68145e6f1e520a0d68df78e2332469b1d40706a1b373e36d0a711d1125840a2cfbe5b1eeb9f1a601bd173482235a74b3c4b417ac050abc608224bd738de6c3a405a6c9f419e5146374b6585082483e415ed9a7c0cd11d7c123d484711c95b77933e82ddf25169e9da8e7daf2e449cda29df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ae7d9bb371620834b4d1bbc63a3ebe4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Snow",
+            "episodeId": "your-lie-in-april-31?ep=946",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/112a9328aaf63f81df0d7fe84c2dc0e324dd7cb7fb697cb04654e89c4f3a0cc4615ac4581628fb04fe856a1a04e62c8d32e3cab8ad880ea0e26a4a0a4ab4828704258a5b97fd257e789c339d256744fc9d143e2fa4790d64a3d9a6f9cdcfc43fa355e04211632490ec542470bfb45f8c3c853adf88da3283aff7df65ad9340f2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053a06fc97436404876c6ff16564456c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/112a9328aaf63f81df0d7fe84c2dc0e324dd7cb7fb697cb04654e89c4f3a0cc4615ac4581628fb04fe856a1a04e62c8dfba918cfa3278c749f4cf0322a952184af7fab4c9f121aee0e5fc9fbef7786f03f650a58707aaf1b095f2f0b880c84390559253e2e82e3fc05db44126a57d680a98d7e71968d117e2a4bcbdbd8f9593f432e7b92481fa7624285d888058caace/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/053a06fc97436404876c6ff16564456c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spring Wind",
+            "episodeId": "your-lie-in-april-31?ep=947",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b0a8e0af731bfecffe77e26c22580fc176cb97b1d7397a1a7843fe5ad9209ed85d2542723d257bb005b46da61a1f9cadf877670d1ed45589400f4793cf507449d2bf48ceb9817c3da117f71c35f0785dd9b7b912a2ea72fc055852cb7ea35341fa6968cf927472a126a17b441f4bd83a82a5ecb690d412c20b19d02c534b286c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e369bf336fe7d282d8e71560fcb3cc3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b0a8e0af731bfecffe77e26c22580fc176cb97b1d7397a1a7843fe5ad9209ed85d2542723d257bb005b46da61a1f9cad96f92ecabd2a8cb23197951531d7c24f567ed1e3552b8c694b78cf294d38821cf5542ae8a316f6edcecd07ae5b740bba34597ca0790a97771d04d6a7e7f2f9f3cb3dc18b9b272ac4593bc92a869b0fa119accfdf154d68a2fac58a4187c731da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7e369bf336fe7d282d8e71560fcb3cc3/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,611 @@
+{
+    "info": {
+        "id": "my-hero-academia-4-365",
+        "anilistId": 0,
+        "malId": 38408,
+        "name": "My Hero Academia 4",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a727d8e34cba9a4bb8f151397533e662.jpg",
+        "description": "After successfully passing his Provisional Hero License exam, Izuku \"Deku\" Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might's former sidekick, Sir Nighteye, now a famous hero in his own right.\n\nAs Midoriya's classmates further their own abilities through various internships, up-and-coming villain Kai Chisaki utilizes his terrifying powers to gather favor in the criminal underworld. Known by the moniker Overhaul, Chisaki's ambitions collide with the League of Villains and its leader, Tomura Shigaraki.\n\nThrough his work with Sir Nighteye, Midoriya discovers Chisaki's crime syndicate and the villain's hostile relationship with a mysterious young girl named Eri. Fearing for the child's safety, Midoriya and his upperclassman Mirio Toogata must work together to put an end to Chisaki's reign of terror.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 4",
+                "source": "https://www.youtube.com/embed/5VQwDC5jqzQ",
+                "thumbnail": "https://i.ytimg.com/vi/5VQwDC5jqzQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/zAkOEfli-hA",
+                "thumbnail": "https://i.ytimg.com/vi/zAkOEfli-hA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/RnOwqnIfSqI",
+                "thumbnail": "https://i.ytimg.com/vi/RnOwqnIfSqI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/-H7AuZ3kARc",
+                "thumbnail": "https://i.ytimg.com/vi/-H7AuZ3kARc/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/Loy8PZtqqpE",
+                "thumbnail": "https://i.ytimg.com/vi/Loy8PZtqqpE/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "izuku-midoriya-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/58395958dc7b3811e68c3e2d3950f5c0.jpg",
+                    "name": "Midoriya, Izuku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "daiki-yamashita-186",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4b0080d6124014429ee6f2d90df09544.jpg",
+                    "name": "Yamashita, Daiki",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tsutsutaka-agoyamato-62109",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/59ea399df58c99906fb0b975424d0b5d.jpg",
+                    "name": "Agoyamato, Tsutsutaka",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yoshihito-sasaki-13063",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b590e51271c6136926c223ac04bb5ab8.jpg",
+                    "name": "Sasaki, Yoshihito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "manami-aiba-8038",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/03e0d9404ef2b452063170992119a8dc.jpg",
+                    "name": "Aiba, Manami",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "yui-horie-30",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb8a5a4d6743c89873c1e2a957107271.jpg",
+                    "name": "Horie, Yui",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shouta-aizawa-354",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d992204e37a969018bf13ad855d01997.jpg",
+                    "name": "Aizawa, Shouta",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "junichi-suwabe-29",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bdc596dcf1d7a3a61bc894b740a26af.jpg",
+                    "name": "Suwabe, Junichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "all-for-one-4972",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ef99d785bcd1933f85589175cc0ea0b2.jpg",
+                    "name": "All For One",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "akio-ootsuka-204",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4a70a55d9262cd5f53a7309d1e4f3c1f.jpg",
+                    "name": "Ootsuka, Akio",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "all-might-180",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d399c10e613d7d014e8872723570cf0a.jpg",
+                    "name": "All Might",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kenta-miyake-335",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6b0360c6a0bc204a6abd22cb5802cd25.jpg",
+                    "name": "Miyake, Kenta",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "僕のヒーローアカデミア",
+        "aired": "Oct 12, 2019 to Apr 4, 2020",
+        "premiered": "Fall 2019",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.13",
+        "genres": [
+            "Action",
+            "Comedy",
+            "School",
+            "Shounen",
+            "Super Power"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Dentsu",
+            "Yomiuri Telecasting",
+            "Movic",
+            "Sony Music Entertainment",
+            "TOHO animation",
+            "Shueisha",
+            "Bones",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Scoop on U.A. Class 1-A",
+            "episodeId": "my-hero-academia-4-365?ep=8497",
+            "number": 1,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a1725562cf5fb8244503aeaf77a2fe0cb4e232342585b11a4984dc49baa52f15b6be66191dc91cf0bf6f103f0905a0c0e7b9fed37abed434cdf3b99aec5f01f77b1e6f5714efaae82eb00ea33b4d144d8315cc3fb1c3ccfbc04b43bf4e000680c25706eae1da07b24941b7ba749de897cca2d2c626a7750ef9b67033e6edaaf5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd16732ca65cd3ab92aae257c8e372e8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a1725562cf5fb8244503aeaf77a2fe0cb4e232342585b11a4984dc49baa52f15b6be66191dc91cf0bf6f103f0905a0c060a634bfc22b1609e9976ef82e8e824bcb92ad33c3262fb6eeb3b6ee3577bbb2727d3170cd8409e2cb397936a67de93142f759073ff1cd738f1828e73c9135a166c87e8ee60485f05074f183f483ae11b31aa30ed62f49e65c6ed10d562b7865/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd16732ca65cd3ab92aae257c8e372e8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Overhaul",
+            "episodeId": "my-hero-academia-4-365?ep=8498",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/4dd6d6d4e68ea1010691c88acfcb310e02f2ba695c0c7563538e8a51fb4db20bfa152e2a04540d6b77bfe6fa096d750fa62649c121d95a50ce026561fec42b8fb040567030de72be7aff580f8b69c3e9e8547b9fc6101005dd3e867a684f6dfe75f43e6487b38586207c149e9e04c91f881db604720b481a42706968be52fc8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc44a0a9b8c218cdfe03a34aa0e6e645/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4dd6d6d4e68ea1010691c88acfcb310e02f2ba695c0c7563538e8a51fb4db20bfa152e2a04540d6b77bfe6fa096d750f7fb32b3abd0d437dc0f5cc9c912ab5dd5dbfc27cd7973520d8f6b5aa8fdf7a28754adc41bb1d074fe076849b8ea766e7e250957845eb7ff7c73130f47b3a00fd6e48ee7041ce836aeef3f78b7699ad7c07b1aea99f87ccfa67adf91654b0b5ad/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc44a0a9b8c218cdfe03a34aa0e6e645/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Boy Meets...",
+            "episodeId": "my-hero-academia-4-365?ep=8499",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/8e2a99983af9e8a6cbb2c3c2c0d247e80ce3be760f0a00b589e41db230984862f680edb7441bd69773da11061a2ee62d6ab21444844d914fba1c7450cf9ac27dc493d969eaad950fb7589f93ec1680cd607b49fb4d4de41056ce1c4bb0f5158a7854812644bd80629af0537e2b94e824c3dc391bd65af33c55c907a9853051db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3af4c9b340219362b885d0a095663c97/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8e2a99983af9e8a6cbb2c3c2c0d247e80ce3be760f0a00b589e41db230984862f680edb7441bd69773da11061a2ee62dcdeb428110cbf49d65b73c6bd21b5656286bdad7764d58f2f550ad5d275422168fb01fdbaa6be936f921541225a71e94bb542150ef29ebe90b542ecd97d21ececb58f265f29cdbf35da2b2687ada534513550410002ca0d1764473dd820a4ac6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3af4c9b340219362b885d0a095663c97/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fighting Fate",
+            "episodeId": "my-hero-academia-4-365?ep=8500",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/246cd902af487fde1d41b4dd6539ce000ad1595386847cdb1cade50b23b659d9a23622f9a676a0a0ac7e45082d817077294a42d4c46d088ee35f7fa67f87cdcc03fb85671d15c8c56aa13a0854500df7764659b34e2351e0962237831e4b06a3e37f4ce433145c33d1852429ab42de9a4b790bde00850404323a2c93c160ab7d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8edfa160116c50488764b57802d3d68b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/246cd902af487fde1d41b4dd6539ce000ad1595386847cdb1cade50b23b659d9a23622f9a676a0a0ac7e45082d8170775c00a76e7e3632d944a9bcc8153f19d10b73f6134a7d10b0d5ad06b7016a61aac5eebe7196ae57506a7d657aed27eeffa954ee336fc6c08eb695ce0a5afd43a870370facca605849a67ba6df3b43eb0e089d5e12aa02a2c29cbecc99f7400885/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8edfa160116c50488764b57802d3d68b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go, Gutsy Red Riot",
+            "episodeId": "my-hero-academia-4-365?ep=8501",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/663129c11127e9d041e094d00e8df07c56a147a95b79bdf59c977fdcd714978a6812a3bdfd4b410ebef91d4f8841d6604f2e8c0e3076c8114eef9b8da6f3d650ea924bbc1e56c12b7d47fecc8e032acb699450f946997de6d217d6475fde89b48f06b43dcd56bc98ab24eccbee915e51c47c8ea1ba477d567f8e2875badc97d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3f0070d0c56db7085bb0bc8c7cc89d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/663129c11127e9d041e094d00e8df07c56a147a95b79bdf59c977fdcd714978a6812a3bdfd4b410ebef91d4f8841d6602f4cc1596f3528317cabc15393ae9c0b448a5d607d638d3107be8f1c4ca823436b27037e8480e3ba31eee45db81ad17fe25ab25d4559740264c171015ce2c9a10609dd86dfc921de2fa09afa4fe7253684140608472178b642a47fa0ca9c6766/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3f0070d0c56db7085bb0bc8c7cc89d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "An Unpleasant Talk",
+            "episodeId": "my-hero-academia-4-365?ep=8502",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/934dad8be580b29307c4705d58a19d9a01618d3f792ccd41e3a685bc2e2b09f11b208d05d318208069c4fb7e59f15c6f56b33cbd8db9aaa0d5c8c23143af0b49e99bde8a56f56fdf0fa72ffe80b5a4ee79eed5b50672efaa34bc0aaf4791054a7dfb27354fa3a856285d441f071153a4b2c6da5f7c6bd9c68fd668457aa98b9a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2205c1962a91edf951dd9f75cdb1695/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/934dad8be580b29307c4705d58a19d9a01618d3f792ccd41e3a685bc2e2b09f11b208d05d318208069c4fb7e59f15c6fe13e16d94a99cc2c546829f3f50a97f5300870d114be8f8c12e84a919a28f316653d0270df415abac9a3f404fee796af8284acd36b8c0a47f56b067fdf0463f8399079a683ea44f8f6a880c6d3fb26e88378a27a524e912f0aebd8c34248db7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b2205c1962a91edf951dd9f75cdb1695/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "GO!!",
+            "episodeId": "my-hero-academia-4-365?ep=8503",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/801f03e5c26675ea7fa5ad3d06292ed0a3a700774f1732a0db894e2a824ca4c058aea402de22f97881a122e1bfda225a51a0599484316fff29b8cd258940251e9152f56b46fb53bc84b0009251dfc57c81d86fad76217cf3d2028776b0120c187ebde2c13b88da8c55de4203b5f80047ea46d6cfd0f84c12eae519307c72baa2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39a6bc57a1dc9036db1163c6c94f75e4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/801f03e5c26675ea7fa5ad3d06292ed0a3a700774f1732a0db894e2a824ca4c058aea402de22f97881a122e1bfda225aae94fc61ad845da9ae0985b05fbe42340daf65e975f3b19bf29337ffb010afef35546684ec215fc83ea9f3b23c92be1f5eb3474650cecb980569807164e97d3f128f6e1fa26b5df77f298e3765546d7ecd3647b8913635c8c7bea798d770ddb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39a6bc57a1dc9036db1163c6c94f75e4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Suneater of the Big Three",
+            "episodeId": "my-hero-academia-4-365?ep=8504",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/14fef85ec6751717111805af262d4c4d391d2e1a22ac8e24a6e9fd44ee87a7fa31272eb09e4f8e356cfbf5a75497d5137c88686085e3c43aee29bd095517ecb6af21cf1d92f217190fbfe6d1a9a9e61d0d748721eb81e8f6179a79d9df34e70bfdd789150a8e12a9360adbc484efc5cedab9564f141c50ffc7be204b444f8229/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82df02a719d6bfb3ce7212fdc2a28bc5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/14fef85ec6751717111805af262d4c4d391d2e1a22ac8e24a6e9fd44ee87a7fa31272eb09e4f8e356cfbf5a75497d5139ea74bb51244088f63d037e40a44265374048dcc685f06cf25c5c1a10f9a1657c7e23b10ea357370927c7a01b0a91a517f74223dcaff00f58e8a7ed589281e465523719ab15861ba7575ea155cfffd29d32a83c2402e9679a32b5d5098d747f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82df02a719d6bfb3ce7212fdc2a28bc5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Red Riot",
+            "episodeId": "my-hero-academia-4-365?ep=8505",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3ebfe0a906634ec099a00030b9572c91954da004b64588a6dd06d4dfbed65e46d7de4fa8f46bcfc6e9a6b3b3884733d1d5d48d18f4ffb6c647f4b47aba8d4e6778e1dc2ed0bc12a99f5103dd6d48ecd5274d5f70b87901f92da2cfdd3a9d79a423dbc912e349cf10c9ed4d3817468da5a737c6f7f15e423343154b87254f9143/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f8b9f2b19aa5d1e457259a09ae102e1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3ebfe0a906634ec099a00030b9572c91954da004b64588a6dd06d4dfbed65e46d7de4fa8f46bcfc6e9a6b3b3884733d1ec14c6f55f7233987531cfe6f18c04eedffc7403ddb7daf236678dbdc3dcf8a834393a46eb1030341866cbf689921d066ead5eacfd23edeb28ddf54bff29fa155b724bf4648959f8b08846c2e23601c0f6cf313a85c8e24b98b0a8e8d3f90407/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f8b9f2b19aa5d1e457259a09ae102e1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Temp Squad",
+            "episodeId": "my-hero-academia-4-365?ep=8506",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c446c37a987755405c1d70a4f7b29cfea579660b0f6c19001c73dc463596057485080ba8f5e5deb8d53911df8fbdc3e30c4a72678e849ce0338fd765684a943b8c8845629131571af3434d4658a7043d90f4a2340bdf68604b64eda46dff6bf4b8c70c0ee93a2aee1be7e2358ea98d7b676f6fba7317aa908d07b163e60fee43/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba95f0248cbcf0e859d21b8a160344a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c446c37a987755405c1d70a4f7b29cfea579660b0f6c19001c73dc463596057485080ba8f5e5deb8d53911df8fbdc3e3ef9e27d9163d466f6e2f03009fd57129733478d0bc720bece96f85acee090566058b251c170609d1574eac7c99e6add204bcd44b29119047f289499d7f7546710bd8c5af50e75d4bfe5af3f03222442e8d059dabdee110958b27b2ac311b9a46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eba95f0248cbcf0e859d21b8a160344a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lemillion",
+            "episodeId": "my-hero-academia-4-365?ep=8507",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7573bc9db6c0536f8950d2b2dd4def6da33e538400107202a843f675f76dcd37714c8e26e86b0c73308b19034cae2cf58a12cef90e97eece0a85e476c5403045712f5bfc6467d34dfef027900a6fb897f2f120719138d851d856bb73ba2395b9f624fd836e4f8831854cf0ec549be73d8b3a4c8f6d0f7528c2f82662163f361c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69c66651102ac88ab65493c3409dbe22/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7573bc9db6c0536f8950d2b2dd4def6da33e538400107202a843f675f76dcd37714c8e26e86b0c73308b19034cae2cf53d846a6ccadc88fb4db15367377887f4fba0281bf72ea8eb0ef0fdc908726bb037b36795fccb5e2dcd521fae2d18d8dd0c24db189cb2409ae70473002f69cd7bddb7e1c4a2ddba0ddb7f9a811f41a7d80a987f12c7cb1b490987e54d4860a1c0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69c66651102ac88ab65493c3409dbe22/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Unforeseen Hope",
+            "episodeId": "my-hero-academia-4-365?ep=8508",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/15d844b88fbf33171a5bcdc4296b4e212b4854f8c106902651c25e63bca8b3f69eb56ef76e9878eafd019036c2561e2b353b9a0666d6edcd35dd2546dde87693e6f5e44a18b7c3a6b65b819ee9be1503477e91294ec10cb04c97b785d996472aff8fef825f4cc75deec0925485e1be1a94c9a4372d25be196d158346bb32307f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f0f533914f4097918cc397d7ff67e33/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/15d844b88fbf33171a5bcdc4296b4e212b4854f8c106902651c25e63bca8b3f69eb56ef76e9878eafd019036c2561e2bf83087e555389bd2d61058aa9e8bd450ce59474fc7ef3c70c582e11b1335280b2772c6c5579758292ec33de2777274260c8b641067490ca840e144f1f92693833a736d9fd46d48ccb6a50db14608e60d546f90c06ba0ee9a184de46629077b82/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f0f533914f4097918cc397d7ff67e33/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Infinite 100%",
+            "episodeId": "my-hero-academia-4-365?ep=8509",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a8e23fba18e3a564b3d250d839b0853e387aeebe4ee43403666e12d03032575e297d7e1d463c17e57bde59e43cc9d45ad9b78cc73d952031f4b7698e96adf3db3f0d3346ae4d10ff2f5310cfca9a0778678171b2bc2356c582fc2b6b588b129e1918c719b4c4499a05d60024443bde50f00c1ff7ff7de46fc877b6a8c628468d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/193788a7d980877b564376812309f6d4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a8e23fba18e3a564b3d250d839b0853e387aeebe4ee43403666e12d03032575e297d7e1d463c17e57bde59e43cc9d45a0f767c491cd85b1d2bc336e9ff0ffb72f81a696a389db4fe057817d1bd304dd2e7003138fa6e411f458fa142a4e8b006e6b8358f72100a6476dcb22cb899bfc7799d6f1f2de60150657ddd9edcf5f697876c61808ce49ccd098de7e07bcd9df5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/193788a7d980877b564376812309f6d4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bright Future",
+            "episodeId": "my-hero-academia-4-365?ep=8510",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e3cb756ad22dd614fa4c8b03866f6ef1e4f9583b94eeab986b68600fb6fd2cf98032ec5d95c0e4bdc91cba5517e627351c212fc54e2546a703562443bad8f3abe25f20eac4e2049de4a0c71541b303ae9f2782e80b1540d8a40664669ca6ea3859ef9d7632ad5f05f727e2b3287f5c2c039cd9ddeb128c123c4d78e8138277ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/860a7501b56fac06433745783ce41da7/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e3cb756ad22dd614fa4c8b03866f6ef1e4f9583b94eeab986b68600fb6fd2cf98032ec5d95c0e4bdc91cba5517e62735d19d8c9550c3eda0cf433d72841aa0d1e1dcc580c9da82abad85492387df504109df83cb574c18e45a16fba9908d353c4edea085ab554f7f034c096f1dd6ad2e5752da1c49ce2d2fdfba7d938a320cd1d377cb8e6cf13f5e5d42a4b472e5ea17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/860a7501b56fac06433745783ce41da7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Smoldering Flames",
+            "episodeId": "my-hero-academia-4-365?ep=8511",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/c94e187c4bf2f58857232fd3ef456d5535ecd503ccdd048252c207c9f4887b1fed9e4393009c2204ce9f2c76389f5bc7d1e196d0a25a05150c97a9eaa216e64fe5f914f0d35dbf9c31c74b4c16c8237195a262cfa7d1b59e7e4e9d0ca4ac531454c2bbd630c92e5ece7be33fcd57f05f964de3cc11461a33638df2e3c2551b42/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473e8dd87f4271e56dcac6660c74a49f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c94e187c4bf2f58857232fd3ef456d5535ecd503ccdd048252c207c9f4887b1fed9e4393009c2204ce9f2c76389f5bc72673ed16d6127179d16c7470614c7651ff3002df91a5f2aeada00dc6f87a25476d23c03888afeb51cf68c4b815517448a6cc61a0b6608ec82f8394006bd2022a1f5b789cf5b17ca95c2d31f3278b94b1281907e2a7579186ef74309da45b79c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/473e8dd87f4271e56dcac6660c74a49f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Win Those Kids' Hearts",
+            "episodeId": "my-hero-academia-4-365?ep=8512",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6f2e24684aa41c296a6aa85aa27f2dad70fa747aef1582f29047e23ddd0a283f17015acba949be6e578c4242e1dbd3f242010df12bec29509d0d1a9bff4bbf85d966ffbc06ef3ed4bcd4464109e0158042c871250476a82f23a91fa02b80ef1d2008294831f3fd6dadd3378ba5a58e8f4f6889f5bd196f277fe0e00ba2e1589f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b6724248dff2c3be083c0e50f56e9a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6f2e24684aa41c296a6aa85aa27f2dad70fa747aef1582f29047e23ddd0a283f17015acba949be6e578c4242e1dbd3f280721fa03e4d7f538539c66b5d36f0ff1d6eaff762c83e295c5107fc87bc98a1b3dd1ef06592f8ea1bb138793ec0118e684cd2616c4073b212e5ec5e790649c930a5dc0731d3444104cc03c3f57c2d0c0aed88297b5fb782db457e1169973530/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f7b6724248dff2c3be083c0e50f56e9a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Relief for License Trainees",
+            "episodeId": "my-hero-academia-4-365?ep=8513",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0b6a918863212ad85282156ec8ad865d8774a16f691e848a1f2c99a8a19958c54f8bf3d4ea3bf64e2b5d0b5148358f0d63e87f1dbecf4ccf2f55eeb4fc025677b74312cfd06d1d88cfdc2263743937956ef262018b6d872c047f21906e52125c3b5471fd14add7bb428d8e6be1239443b0a8917099e8afd11ae40309e92b4564/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc0dc662005f318cb2ae7c8f765ea0ab/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/0b6a918863212ad85282156ec8ad865d8774a16f691e848a1f2c99a8a19958c54f8bf3d4ea3bf64e2b5d0b5148358f0d8e9bb5030a25f295a7c2d2169a8d6f1438342a492d0361636cc017a11b670e54795edeb42cf5f0fd01c6b2e17392634cd1989826fda04cc30cf8fd203ae79962e742edf144431175e8f2c5fdd3de34f24d5adfab8b2a4839a431043113d10242/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc0dc662005f318cb2ae7c8f765ea0ab/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "School Festival",
+            "episodeId": "my-hero-academia-4-365?ep=8514",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/6fddc8b7e278f969cdd09e48bb2ba073465792caac49bd0a01447372059daffd32f2048d3ee750866d9f4876c5d7d195f374aa52af628687f4b7ed50ad73ebab22cbe7c0a58344cdb01e2934a009d34c91b0170a1baacb2ddfcefaa5aaf7fd4416e787c49f09a2f89e0e1718259dfe60933784050323dba2cc59fff5a8be089c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf4f5f30801c9280d97edc7b9a5dc817/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6fddc8b7e278f969cdd09e48bb2ba073465792caac49bd0a01447372059daffd32f2048d3ee750866d9f4876c5d7d195526ec460766239085786701e7ae55e9bbc287f6b2d1a090ff6df743f6df1057a788131250c115e96c54aa608e43cb2179aaaf70163873c3c00fb5525de665f685a6cf704a42eac20fc93455781e075f9042327054f3d6e95456d4156d9a172c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cf4f5f30801c9280d97edc7b9a5dc817/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Prepping for the School Festival Is the Funnest Part",
+            "episodeId": "my-hero-academia-4-365?ep=8515",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0dae2e3de0526235b76841852f87b13a3655e81a1251825c0810e429f69ee2f96418ebc39b01fa5fefeea02ac9b38bdfbd43e1c45a3a4cf6c51f6aa9afd4b76f0fb732a1410e927221e797911a39ea4fd200b197845eb30a54b5b28e6c34d2f6dc1a6e160a26659a05d0952d2175049cb59e00d4404a7f0e2456aceb7f54df71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd93fcf8cfd93c5080b25ea306064ccb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0dae2e3de0526235b76841852f87b13a3655e81a1251825c0810e429f69ee2f96418ebc39b01fa5fefeea02ac9b38bdf0dd96de9a0a0b70e04760236f2a4033a5be6ee07aa0ae2bc1b079223d9ca27f013669d894a80d00a59dca1386779fc7b62f2210d3f5614bedf92a6061f06e0dc4009cb989f0c268f91734f3feccb20cfb5c13c03f5d319e7c98028678fdf494f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd93fcf8cfd93c5080b25ea306064ccb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Gold Tips Imperial",
+            "episodeId": "my-hero-academia-4-365?ep=8516",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/bda89ee06e68d292d96aa4273cf4f3708c92be0a5a9f63d53eff69c607b6df22e1a67194b6d12ef6f55203382f093e20e17265e895205cc724f92a33966296808ef39ba9a2a732d3327950043dd03ec7d84fd2489f91f955c9f0a07e2fb4b80c0674175f5c81f27fbb5da9db30cb530c51c6bba3d9441ede4612a54c860509e5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bfa72727b2f5d9f7cf8b91abc9df7fc6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bda89ee06e68d292d96aa4273cf4f3708c92be0a5a9f63d53eff69c607b6df22e1a67194b6d12ef6f55203382f093e2085f22279c566c1f43ee447d00fa9f43f953b402fc2aa33e0990e22541c74c6229212124f2877d5e7a4961f9d8cbad59a55e0faf283c8dc0c6239c755b9d6041a6851672515e84898ed421f95d4da56880a5e9fef6d91ee2f902cdb49a5373b5a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bfa72727b2f5d9f7cf8b91abc9df7fc6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Deku vs. Gentle Criminal",
+            "episodeId": "my-hero-academia-4-365?ep=8517",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/772d311524c4c449cd90b6ab5826cd3ce92210c669589252c8770a644584b856ce903ac403d559fee151249b59dcc3be408bd7d9d56a17402cb117caf0ef77dd3c10e73ec6859e65ca94985898458a76f678b0432c4706d84485f63276336ab4408bdaa2397d6fe88630d78f8d7e83427d4a2930a370fc43fd097ca2a7db78aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30ed622fa1425b0198efd14f1f539fbc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/772d311524c4c449cd90b6ab5826cd3ce92210c669589252c8770a644584b856ce903ac403d559fee151249b59dcc3beac285e1542f0791357fa61742d6430563a2ab87c033ace8cf53b3899ec218c1201b1fd528684e067c1a141e5f2661b35ac73279cab7df2bf821744927922e254b544c98e6f1c559b64a756aee5ce89077ba0bfaeea612885bbc5ad405624f27f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/30ed622fa1425b0198efd14f1f539fbc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "School Festival Start!!",
+            "episodeId": "my-hero-academia-4-365?ep=8518",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/051f7ba5fca9de4ed83e675e794679f22c66ea60e7a495540b9bad5080f8c4e6fe6d9cded4b59dc4a5c49acc7eec1f687ec224aa23d86da37dbfa0ac23e54564961beacde04be4dcc0841a5f524af6f70537a7c7f3debbcc6941b68601798c03eebeea97fb3d6b8c4a2b240991feda502d79d4d673f13bd2200baca89fbb56f3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/298221144efbec51489fa3b7c2356364/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/051f7ba5fca9de4ed83e675e794679f22c66ea60e7a495540b9bad5080f8c4e6fe6d9cded4b59dc4a5c49acc7eec1f68b3650801039413eb69c904404b55e09fe0f80d1c439352e05df86af5149611018e6154fddf28c195aa2df2f07ae1756b7ca32bab6c5e1187f4f8e6282121244fa2c956f9353f392849da292ad61f4b6f2d7f5fb3a0af02cd04d98f1e6fa1b703/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/298221144efbec51489fa3b7c2356364/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let It Flow! School Festival!",
+            "episodeId": "my-hero-academia-4-365?ep=8519",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/b02185bf862b23baf18527dbb2fff08bd23ee9c6e2efdc74f8cfa6a60908b976d4fa08a2ef9bf9b7b1e781b88042d18b8e6564e3e77166e5baad4af42108a9c317bfb5559338c4806d1b244e99bda7f13dbc046692dfac6fa24b976e803a14aaefd3c4480c2dac5cdee0b9366f26d48e0ab0712845dbb166dab588d17e621a4a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bea0c1a666da9bfb92ec7400fba3ec8d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b02185bf862b23baf18527dbb2fff08bd23ee9c6e2efdc74f8cfa6a60908b976d4fa08a2ef9bf9b7b1e781b88042d18b9965213abeef31aed24b25a4a290a17b94467e570b50e2082376d1aa28749ea7781c64795ac31842404a4b4c36824705ba8fec72406fbfb638551b128541030e2c2eba76ff964ae6eeacbbd5e70ed8732e0eeba380e38794fab1ad76c2a6b336/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bea0c1a666da9bfb92ec7400fba3ec8d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Japanese Hero Billboard Chart",
+            "episodeId": "my-hero-academia-4-365?ep=8520",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b5fb11cfc86d7c571ef9790ea6582e06b874e21d6f3e2dc34c1d128d3b0f000e3ba24bc15b1eb195199baa94392da497b9a561c118b4a9eb958dbc2841e1d2dd7b0bed2c36ad188f04960264a34280f60ce049476dcb92467745ccff92994f741eade42e37fbb462ac2874eec32f7cdbe6717f92b75cbec40f31e3a447fe5208/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c30e0a06716b8f7effdc951676ac7cf8/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b5fb11cfc86d7c571ef9790ea6582e06b874e21d6f3e2dc34c1d128d3b0f000e3ba24bc15b1eb195199baa94392da497f429f1e740a33f06fca4ac271cf9b54f1b93f1c5e86f1b3ee372070b554fdf6ec997020b87d7401ea0c60e32e913746fad0eef44fa437d0ca234ee75dfe0b4b3f5e9a95c8375af57732b3df22488e5d8af31f81fc7ad1220f0d2554d33dce37f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c30e0a06716b8f7effdc951676ac7cf8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Start",
+            "episodeId": "my-hero-academia-4-365?ep=8521",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/f8ff981af4c8b272bd8cf47dba0c4ed82e264ff7bdeda99c0b347ffed81a0e2f04b6b9043ffb2197618e9db57097a8768ebf1993c4fd36d3087f6b3c2d5d1205e105431cdf8c8789e7ef017a6a148e7960859e6229c9af9febaa2dd33c14df0c75620fce3079b03dfa776b1bd95720483ce7127d1322c9ca10514ed8844d56ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5811b8fff48b159d53c3a076be5c350/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f8ff981af4c8b272bd8cf47dba0c4ed82e264ff7bdeda99c0b347ffed81a0e2f04b6b9043ffb2197618e9db57097a876c88d0713300831b32b33416744d37b5bf2322ccb3221f2fd15b1ce6851a1df4ede8154e582f12f053db73ab013cf7672bc8fe637c49f33627bb874bcbdf7c1e28bcc795968062621beace6598e99512f848c1e593eca89536ee81356ac724cf4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f5811b8fff48b159d53c3a076be5c350/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

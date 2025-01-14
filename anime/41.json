@@ -1,0 +1,599 @@
+{
+    "info": {
+        "id": "code-geass-lelouch-of-the-rebellion-41",
+        "anilistId": 1575,
+        "malId": 1575,
+        "name": "Code Geass: Lelouch of the Rebellion",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7b180ff8404f0475e60a4f3a0f5bd20.jpg",
+        "description": "In the year 2010, the Holy Empire of Britannia is establishing itself as a dominant military nation, starting with the conquest of Japan. Renamed to Area 11 after its swift defeat, Japan has seen significant resistance against these tyrants in an attempt to regain independence.\n\nLelouch Lamperouge, a Britannian student, unfortunately finds himself caught in a crossfire between the Britannian and the Area 11 rebel armed forces. He is able to escape, however, thanks to the timely appearance of a mysterious girl named C.C., who bestows upon him Geass, the \"Power of Kings.\" Realizing the vast potential of his newfound \"power of absolute obedience,\" Lelouch embarks upon a perilous journey as the masked vigilante known as Zero, leading a merciless onslaught against Britannia in order to get revenge once and for all.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV English dub version",
+                "source": "https://www.youtube.com/embed/DR1d_Pm729o",
+                "thumbnail": "https://i.ytimg.com/vi/DR1d_Pm729o/hqdefault.jpg"
+            },
+            {
+                "title": "PV Blu-ray & DVD version",
+                "source": "https://www.youtube.com/embed/zi4NLjDvgvU",
+                "thumbnail": "https://i.ytimg.com/vi/zi4NLjDvgvU/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "cc-52",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/580bff6144879f682329ee07a7952228.jpg",
+                    "name": "C.C.",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yukana-262",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4c9b8dcdd8d891b193b27a0433bf9796.jpg",
+                    "name": "Yukana",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "suzaku-kururugi-416",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/26ebe88b044c69838ece6d76b02bd969.jpg",
+                    "name": "Kururugi, Suzaku",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takahiro-sakurai-19",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b81690babbec2256662931864d069e4c.jpg",
+                    "name": "Sakurai, Takahiro",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lelouch-lamperouge-1",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c1408c13ae502cc289921e6c54825e0.jpg",
+                    "name": "Lamperouge, Lelouch",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "kallen-stadtfeld-305",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1dc992ea778f952e39c2e96534ace19.jpg",
+                    "name": "Stadtfeld, Kallen",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ami-koshimizu-112",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/099eade37d4e48d42fac02eda385d4d5.jpg",
+                    "name": "Koshimizu, Ami",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "arthur-9778",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1d215e021dda82917c41b8e24fae167d.jpg",
+                    "name": "Arthur",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "michelle-ruff-367",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eea7fee3fc8644bc065ea7e58e658e56.jpg",
+                    "name": "Ruff, Michelle",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "shougo-asahina-37032",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/14f1548ce06b34a86c24952eec343b3d.jpg",
+                    "name": "Asahina, Shougo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "steve-staley-1133",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43a21fc890829110eededb1596267849.jpg",
+                    "name": "Staley, Steve",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "コードギアス 反逆のルルーシュ",
+        "aired": "Oct 6, 2006 to Jul 29, 2007",
+        "premiered": "Fall 2006",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.71",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "School",
+            "Sci-Fi",
+            "Super Power",
+            "Military"
+        ],
+        "studios": "Sunrise",
+        "producers": [
+            "Bandai Visual",
+            "Mainichi Broadcasting System",
+            "Bandai",
+            "Sony Music Entertainment",
+            "Bandai Namco Entertainment",
+            "Hakuhodo DY Media Partners",
+            "Sunrise",
+            "Funimation",
+            "Bandai Entertainment"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "The Day a New Demon was Born",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1158",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/00c65a7e91f898ba4eaa99964d6a22c321d8541331f726f93e9e0a95c8f9622082f31a9465b2960e3b2cb73f4a0b2094e0d112eb897fb5f14e68c78bcd4237a6e0fff3db1f168587d63faa871bed2e18348ae34e3e023fe96f9d446126bb448a4303725958ba04efc321433686cb884371269df1284c0c2c9df7b913e56cd6c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a9ce15a6fa6b19c56b389c313dbc1a9/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/00c65a7e91f898ba4eaa99964d6a22c321d8541331f726f93e9e0a95c8f9622082f31a9465b2960e3b2cb73f4a0b2094b20bdf24b0b7974004ff7274510474ffb0b03eaa3ba35a420c63936113e0c5dbf43250c7477a04f8106e70464cf4dce14526eef2ac5b75f5c4e048206a88dfe484f2021e51f02cc4873a6ed7267079e849d8b3fe8d83d9c369d2a42241482674/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0a9ce15a6fa6b19c56b389c313dbc1a9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The White Knight Awakens",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1159",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/dcaf63af7bcc5a5e53eee6150f4613e112963899cdb6a25ac0d639dc03779162e1f3553eaa1403b1b963c4b64fc2a2ef884bc8ea83f9f877ff297eb295035a88f515878f9c0710ab7ff769c8e4f133e93c0b1414db070bac1e04442bdd974e30f94e5f7106e1af48821bb320be18b01078d8cc89dc8d1ec77bce13c6059f9ebf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a06955de4f9b358ff4c79d63456286c5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/dcaf63af7bcc5a5e53eee6150f4613e112963899cdb6a25ac0d639dc03779162e1f3553eaa1403b1b963c4b64fc2a2ef0eea9a384aa4649a3ea600cdfd8be2aac57580eb2680ae522113049b2174f3b27dbb3b7772d7b67a32b4ed2ae9197b3f431c60bc5b013ed650dff636cac3260e6ca0fc4bf5f41f7f1054aaaf2cc6734fc0222b27153c2df3cd42d3299783caf0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a06955de4f9b358ff4c79d63456286c5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The False Classmate",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1160",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0d148d96ab85baa1fab13a6b80a52fd2e10f058d3fa60dc6c3e0a4ac012ca7584dd8a40d61177e07f6684579904c8de1bef3fb1323684a07a7320b8778e7e9f0fef43dafd796fb4dcac0b444139b06b6f339883a46b56baabed9dfd0475a42321559d5283f646139fe9ffb56c6447dd51f3afdef2d99712e2d5b4c3752267350/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d68367674365846eb26264f1c536709/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0d148d96ab85baa1fab13a6b80a52fd2e10f058d3fa60dc6c3e0a4ac012ca7584dd8a40d61177e07f6684579904c8de1a685da860a7699dda937a4569176cc88bd19f44993d9304c68421412b350c6522fb4f27e65ae5ac7f1a5b1b3f5feda29d39d9c2b1755083a9f3fe08b28e00f9d9a76ffe434de77233e2b979ab235de80506a3a189e18a157273ae64f49b2b983/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d68367674365846eb26264f1c536709/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "His Name is Zero",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1161",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/8a19e9e26e8adec5b4c5ae63257a00aeaa1682ea6b0f9eae19c94fd606a77bbb7f41cb11242be31402a5450d94a444e66b2d80527da651fbd18d9fe0fefcd00c7a0df00d98844acaac21ca4e3123c66bff161ad695cb5c2cf7500e9b4321fc5909982ab8306ab4ccf2a83dc58363a1e7a9ac63be3c4519fa1c8b312cd296a75f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/350abe41a8f79a03d761a7ee1850a6bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8a19e9e26e8adec5b4c5ae63257a00aeaa1682ea6b0f9eae19c94fd606a77bbb7f41cb11242be31402a5450d94a444e66c9000fe3ccd9ab0704efa21b9eb7fb72c8b00d5f67d7470b9f2a568a7c5dd6e4d9a4ed246512c50da76bcdbfea56881505290b5dcf32f7806ac708a79e06f8fe2f45d887505b0ee1e44a5de6d52325a44d4d6f094b0ed98ab4684237af88f9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/350abe41a8f79a03d761a7ee1850a6bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Princess and the Witch",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1162",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/e5d8a7ea82a7bc3cded7fc2fccaeeda8dde1d01e8a4104684c67d1da2c1cf812907804a14052761ed6f4b3afd93c48e97c16afea0d8371df9231078f36e4aa2fd99d252190bd5b64481cd9fffb4f657dfc08b4e91f3d7e81c70568e739e25db780c1f79fffcdbde158fc1b127a25e11459a4265197f9df981d52c5effb3acddb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/583a9dec3bb1cf668c8c12d793ff2762/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/e5d8a7ea82a7bc3cded7fc2fccaeeda8dde1d01e8a4104684c67d1da2c1cf812907804a14052761ed6f4b3afd93c48e96d0c08c8813c616b9b0f6d5f805c2bccdd3e4960b7f7614bbb961807106661ba5a9e0fddf086ee0a3fbed2912251a91451cbd57d4312790dc1c113a92922f42ab94188b3ba6ddbbd3c812e74e139d62f0fb872564fb12d1d11d2d40ea7b3c8fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/583a9dec3bb1cf668c8c12d793ff2762/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Stolen Mask",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1163",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/0ed9140b928d916739e79bad1c2ca1d5e2c9706ac3f50f0d0431d14c48dc75cec27f28a850732188457391687f5ec483f7098d2af365e76b8569dd6491b445244bea8842ee2e4a7935db92c5de4b35d1ddf211af2c5dc507a4c02e003d922432aa7f053fbbe5367134d8cc1695f6606c8334ea35c91d11ca41ea1986a7877d6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/656640bce65f758bed2bdc8871f2f5dc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0ed9140b928d916739e79bad1c2ca1d5e2c9706ac3f50f0d0431d14c48dc75cec27f28a850732188457391687f5ec483e1e1e5b17e588f1f6dd2f8e5ee340a8b0cd41d1645bc1e4cd42db64e8c6d53672b3b285cfaad73d63c546f2b83b4184e0f01eac9f57bcb9440a4a34deabcf9d0173fa0cf3d10d48d4a3c4e0d16b47669963a2a189ae61095a04759739ce9e046/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/656640bce65f758bed2bdc8871f2f5dc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Attack Cornelia",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1164",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ac9d8ba8feb98148ddb087897b4b3309fdd19329914834a046dafee6497324c3d8abecf3e34ae64769acf9f1e978996b7bc201127b63ffa3653789eda54dc59b6a3f367d9b91fbecfdf452b3b5caeec18559a1ed4e39520c0575c33a2dced541dd82cb2320f726ef359700c33cd6870c1056d782f78678ecdfcb4a6d9add9b6d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abd22683c37e32d91760b811c7832334/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ac9d8ba8feb98148ddb087897b4b3309fdd19329914834a046dafee6497324c3d8abecf3e34ae64769acf9f1e978996bc7c48e6a8587ff327a395a827cc260a24cf0e9f776b4903b8187d0865e2029d316862d88550917b2d68e7f214952f3d2db8ad773e6353e1fbbfd9f7f56ee237da2ccee0056d5fb3df6b1fe884bb0a3dbfe010948e23f2ec843a053698bc34b3e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/abd22683c37e32d91760b811c7832334/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Black Knights",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1165",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/54822e2e3988783fc83d069b4d938745a596aa55a82bb2e55db2d1d50ecefcdf4f8bf081b6fbcee6fbb67122ace2430125826abfc1abcbd6c777ff7fe9654b1e55766b45df6e0ad6e2194893fbb038e7ad63cb759436e49e74f89f602775c3affd0d488b9cd9dd0e6260337f4fb7eadf08b8a686ae99b0ce81e758a53015e7b4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a549290fd365b64e5dad5b344797af4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/54822e2e3988783fc83d069b4d938745a596aa55a82bb2e55db2d1d50ecefcdf4f8bf081b6fbcee6fbb67122ace2430142087b68d77a59ed2b2653b6045e46e7f89e0d8b4acb0fb78334f6166a2fe7eddbc549216d89635910d40792a6cb6ac37b35f60f9426e2ee18fc5e1414b79443527cea936c5d993ee3ef0eb8120b189323bb44a44bd9b1bb87ca1a340e78e9ab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6a549290fd365b64e5dad5b344797af4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Refrain",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1166",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/2a2e56586ee85b54d98325cc269d0a47af5f154b1d8267634a03fb60721f0b08a28c870f405681821048d5bc99fdafed3e364027ba04c690f1aaa6c1f63eb6f9d6d42b59a52189eb3d21fee8be9e9b1c26178b1b73b3b8e1d6fc47f8eeea90c5bee59d34e0ef378db6d8c1639675c6cf835d3b1431e0387131bdd00dc251e6b9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fd58d686aa3ed3152ce805a792838ac/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2a2e56586ee85b54d98325cc269d0a47af5f154b1d8267634a03fb60721f0b08a28c870f405681821048d5bc99fdafed84afdef733eb39565b984dfde9c42e839b6f806f8c1eea44c3af20bb674a5e2352ffa2b4a7c19a652aa0f2f42e33f1b01141737ba31df60c8b0104dcbccb30157ebb80fd5d28ce74866190f4e49f332fc936129a7f99946ea16a7a207215aace/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fd58d686aa3ed3152ce805a792838ac/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Guren Dances",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1167",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d50a60f5a03fea9ead6f15ffeb02090f5c01ce11494d27ae36e189ec2185c11f374df4dcc48a8670e7d2451bd6cfff3de66abbd4fbc598f0850c3390669d6760f34c9015d385a64cae4945b2c8e52a3425a8173e938994fe42423139ac8772d864bdd59e703a334d7f37df245b5d3f33c55553a92f0f9d4bd0d3395d7db5da4c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/112cb130a6ce525815e722552b629b5e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d50a60f5a03fea9ead6f15ffeb02090f5c01ce11494d27ae36e189ec2185c11f374df4dcc48a8670e7d2451bd6cfff3d6300ebed044ba9c8d835f00e81bad02e9a43c20e40ee2148f1dcf3982d08cb3cff245bec477d670aaf8296058ae037791f2fc1f298c580624669416aeff2b2cb7d7aa210da220789e71c992cf70ee803ccdb4993a9fb64731bdb1ae631ca287a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/112cb130a6ce525815e722552b629b5e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle for Narita",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1168",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/7c70ac51c20ceaf24112f701efbb8e07211ea98940fc149fe981a37c0e11e71432650a56836d10ec673417c3367550bdb0e11a7ce771c20f2f1d97a91c83ccea8876b272ba17176061e9e5aff70e3cb67082980a52af6bb119d3a88a780fa4544f13179aab35cf3be9105b88607924e8bbad862e28cf18aa24fda4abfac0d611/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09ab42b93898f0ccdd41b109a9a2fc56/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7c70ac51c20ceaf24112f701efbb8e07211ea98940fc149fe981a37c0e11e71432650a56836d10ec673417c3367550bd7ab5b4a83d751eae87a1028794e562b5dfce863b7089aab4671aeabadcc45b2189d45358d74db8becd3cc9b6ae182f0c22ce46a073b9d03c1d387977dc0153d9d5ccaae7b22330cb5510029a74bf03e8e093f2fe1406291e78de6ae380228235/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/09ab42b93898f0ccdd41b109a9a2fc56/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Messenger from Kyoto",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1169",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3f67f8779c0ead3d21e2b71516950668f0975ce3ccf91b9f620e41c29c25312f19e0748b7e9d93999413774d4c303d6d1aea5bb9266efd73afcba22106a4027c73caef5fc25b5ec1343543cbb6c73b6483fecf981318f8036031cff838004becc0dc0d093468e070f00f6692ab3e2752813fef3ed742e633f38d9967444915c6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bf863869be729ca7d9a7a0deec0b54d/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3f67f8779c0ead3d21e2b71516950668f0975ce3ccf91b9f620e41c29c25312f19e0748b7e9d93999413774d4c303d6d97b46794dc5cd27de26f82120fdd0661934864691324c58f4b40b22f9fce0be13756b5284da65285882bf884ca42f3f006e80cc723a59dfc2a11f90e9a3a8bfd084cefe03942dfc69247236312f1f8608c194d029fbd5342bc7a4d1a09a34ea6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2bf863869be729ca7d9a7a0deec0b54d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shirley at Gunpoint",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1170",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5029740b697a37608476b6bba8bf8669b6c79c4fe4336b570d9c44912a47653d8ab077ff70d1e335472f1a50bf94c83b3d8bc0b59c9fc85d2e52075169d45b5463ee48660e5c78b31a0a5a799abc0cd0388a3499dc028154ea1068a7011d8c1651dddc3a99a0e3d222872c3536c7006db4c7d357d8757e4b6769f8ab3d5641e8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8bb587e36cbeb1e36ec4dfa4a62b338/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5029740b697a37608476b6bba8bf8669b6c79c4fe4336b570d9c44912a47653d8ab077ff70d1e335472f1a50bf94c83be2d256f4cf7d44264769391fb70132ada64343a3caee88f50abccce3e89c04c4cd821ddeb550a48ac1ac1665dcc1e616a04a08ae99aad328d1beda3255131efb5f1c0cc1bc9d5a840722e4552c992a83fe22367e6ffa63bde1c7e2663d1e9b5c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8bb587e36cbeb1e36ec4dfa4a62b338/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Geass vs. Geass",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1171",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ac71af5d487db31b9b52174c12980215abea7f6c36afa5d457e9bdcbde7e3471b381635fe492b6bc5698521e1fd4463375460f52820161a73a7d3a8894f67d7e993ddfa21950a2265ff6e5bff6824ddb2ab6dd2f848bc618c87ab3d67e3469df1ed695d7cb4d3949d500e4e3a91b3df644703ce4b240e1b6cbc01c21617a330e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc1e923284baca405ad6c32bb4e73af1/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ac71af5d487db31b9b52174c12980215abea7f6c36afa5d457e9bdcbde7e3471b381635fe492b6bc5698521e1fd4463322e1a48d8397335b6b657a4e2d83fda16ad4f21ae3de79540375e5af2b24053937a4e73cc7768f52435d0bdca49afc06657ba88948d85aa24c07855015e321e38c9159a26ec959ecde9e051f8c45a53f88cc6dad7b84c230c128dc36098d6cab/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bc1e923284baca405ad6c32bb4e73af1/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cheering Mao",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1172",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b563ae2780570ded0eb11c12f3f93c05fc2cd084883a53047d2698ebc3e1193925aefb0136770b32ed74dc1507ce1143887095164fd38f97268b21315270713e57167203e9f4f7d781b5f5aa3bb80bfc6eb4fdfd9fa87b40548465d11dfcb44794abc4551e51c137aa5e273d471d008a2d52edf2373ec737275f0021054e7f94/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ae629476bb1d4b19b21385c840d1f9f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b563ae2780570ded0eb11c12f3f93c05fc2cd084883a53047d2698ebc3e1193925aefb0136770b32ed74dc1507ce1143c7467c509618d509542742ac83e008b52b2fa431dda0f8bf619a37561836a79020e0e9044660b70e6edfeb5dfd07ca6f325bc3cc60fbb50db252ef71ad197080cd9d0c0a361c4657c6405e9f408da12b0e9c8cc5a50dbf34746824eebc99964b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9ae629476bb1d4b19b21385c840d1f9f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Nunnally Held Hostage",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1173",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/82ed87ee3f12333e44e0c44fde613bc10ef5fc31dcb03ba18fd4b0a952dfd25348b1060e948834ca85c5e0d6888eb58859c582a519cce5ddba40a9935c75af4cd9add91f94a53808f9514ea82375567f3387e5ff8d33b6d7919b09bc20e00920efda5a616ccfd9c0e3f985a2a4a88a8309d3043f8106d5cf2e8e360f56aa25ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23fac55bdf79bb136c5a1852e4c92d92/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/82ed87ee3f12333e44e0c44fde613bc10ef5fc31dcb03ba18fd4b0a952dfd25348b1060e948834ca85c5e0d6888eb5889b6ff8b4355c3955a4316ef0363a035cb9f5edc3ed802664c9f3c0ef0857216bf70f5190e30439a5d709b5c420f5c421cb2d1e51bdc23509d447d4305501b9f3a089c6b8927f4f37ba8b78cebb437f8aa951a2a6d348eca3c0127f5442627324/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/23fac55bdf79bb136c5a1852e4c92d92/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Knight",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1174",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/6753041eeb648d921055e0e38924af4d4ae14f837bb1b4824e6289cdd672d5deb0ea93ea3c140b99d247cb41c9ee1c913d1362b3eff3a62fee90a6a9d60665bd3c6488c33151e2d73177145961ffb08371f7f5d584ed3ca1c85194cc36c00df8d081a374ba92c5bc0d9a5ac69870f3d7df5c58e5096a1bc01feea8f1b5c6606b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67f81877eee5a550b01aadae6b59eef5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6753041eeb648d921055e0e38924af4d4ae14f837bb1b4824e6289cdd672d5deb0ea93ea3c140b99d247cb41c9ee1c919fb7a0bd0b7bb3d8d77080c4d5c029facc556ff71ebacde6ff6e75d39e7114c3b96a66b241d240fb80fca2d1d7f704d8607d7ce8fe35fb63b598f9aba4d119b69f7f5208f5e2ab5ed55ce5cab8d28440b3cf56c18806ab133ad2d87e982b1207/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/67f81877eee5a550b01aadae6b59eef5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Order you, Suzaku Kururugi",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1175",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8a1475f0df1e53c03f67c50fa3ad557c8dfa0bfb801f19a001524d21668d4d81f91d31c2a2a39a71a6d6fbebb3fc9db491b522c9f9ac2b969296cacd46ce31c824e67c06c00e742a3c34f71811e1891383db9a016d433ed4422bd1d6e97f4d68b25a8a784ac0aaabcb8780a6eab9b7cc54c0a02d2a4f65fe5b959b73f16c3488/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6abf694f1d27354b5e9ca996c3f63d3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8a1475f0df1e53c03f67c50fa3ad557c8dfa0bfb801f19a001524d21668d4d81f91d31c2a2a39a71a6d6fbebb3fc9db426cebfa5ffa8d3d7d3faa235f08d3001c6b23e54ac3c212e06c2a79b4f43ee3e28bd793b4080e9691442f46637b0eba287f7592e6b168466ca988c357331201893ac2bf750d097819320e6ed52b76acb62a8b31e88a21ce93ec84fda4629d953/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6abf694f1d27354b5e9ca996c3f63d3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Island of the Gods",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1176",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4211e16413fafb666641978d1c2ced0d8408cb5f21357dd7483c9ee7a79bb069356a961bc2bdc2b51e9bad39376c01abb420af50e1b7a9514bfc8d4b0f0ff8dc4ed3ba083821731210fa75717c44390f42050dac62ac385b904f496c653a5df0e9b6ee9fcb9a34bd00ccc4fb5546f505ad5b4c156e29ce74d5010ac11df1b445/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66bb02fac8d6d9b1d158260416cc60bc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4211e16413fafb666641978d1c2ced0d8408cb5f21357dd7483c9ee7a79bb069356a961bc2bdc2b51e9bad39376c01ab4a918ab893279b0a6138d3eceb766b0edde124a1d416094a197ad372b7b2a88525dba0954c59065081c8dd4deb45b4e3324529f6cd8dec3d80d2c278aea0e0dc6fd13f7b4f3239e8114d4d56f931f75b5346480d70dff18374487cd189d9e86f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66bb02fac8d6d9b1d158260416cc60bc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Battle at Kyushu",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1177",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f081459fdd91d6c061c056a1cef1caa08e93e4a04d8258c41034c88a10efe7598c7ce77e924d26fd97f6d41166680ce904a0cadc14de2a199ff54be2610b1d60566161ae9bcfb81f933fb2739e2f056baa0425eab2bbfb676fe9d6c4f0239197cc9e9025dd8bc8619d2bea2ff0f9989fa90350760bae1ffedd99087cbb416293/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f683f8c10d4aa85c46785c22dd486bf2/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f081459fdd91d6c061c056a1cef1caa08e93e4a04d8258c41034c88a10efe7598c7ce77e924d26fd97f6d41166680ce9cefefc1df637d1548607ced4faf56c466a4861ef2c5b5b61b64e5ffca5249153420cd93dde50990c4276923fd09daab31f2aec902945c19e1588a21aedd0c78d9b5a7389e061967b899ba5e6012ba5ff062224061651ed78614f7db958a7117d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f683f8c10d4aa85c46785c22dd486bf2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The School Festival Declaration",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1178",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/843d52e2e9bcc3f3d1da3191f0a3d744a9c3c8df18eb547f9ae3d5206c29fc6a390b83947c56f7720de80650cc983146d3cfb8374739dc698cbf1649968980443275b13d8a4fcee8a304b44809e16fd4377acfebd9ab35c3d920164ed9b7f16b94d8ac99ccd9761ad1cdccbaa0c2c0ff273b763ec8e97546b5082de99ae90e3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b635745c449017ec363a30048414ff3/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/843d52e2e9bcc3f3d1da3191f0a3d744a9c3c8df18eb547f9ae3d5206c29fc6a390b83947c56f7720de80650cc983146f471d484b5566a5894f5a3747f7fc067a365d16dead5aac0da7093e94946f3daa39844a5bf742312057296f2ee45f2471d468096bb41ebfe7c8a2dd2811abb8efbb4872b2b846ecf24a2c6c158d466d9bd22c4791389e91b73bc18add6ea7012/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1b635745c449017ec363a30048414ff3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bloodstained Euphy",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1179",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/c46a0dacba19b334983c0d47fa6bb79f2dff44349878efd3f00d53baf0710fcbe24b9664b18dfe31606d335df2ef01356a6e5f7ce3b1ace590873fedd97a07c9ca26c73b4cdfbfac2b6824543b2a2d96c4a48b8a321a73245522219cf2d3f67ac5c06ed786e25600261f458834e58c4711fd90a2e5dfb831d2a8712a8adf30a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b5ee65b69f15c5e4a923e220d2b2850/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c46a0dacba19b334983c0d47fa6bb79f2dff44349878efd3f00d53baf0710fcbe24b9664b18dfe31606d335df2ef0135f759455d12b9e09188323e060b8879b9b74b32f870b8bb56e599c2497d38017c22a765ae74e9463765513d1f4ea544d68db79f02f4964cae6b45f476bd73579873fd022fab90089a6e5684f90ed69d5c23cfc23da4c65886d5e96248ccf88d38/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8b5ee65b69f15c5e4a923e220d2b2850/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "At Least with Sorrow",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1180",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/048f0e53b70e7e456abfabb54d1ae396c0d8ce4f6b92f7388cbe3e865ead1e67907506d61acb91627eb7e20be7f3aa4d0617b0c3336b943f0ea8e6e98cd7e750cc5f243bb2905a321365f163bf15260ecefa74e762aa7cbc1fea065b1372a0f6079c2e5cfe1b240afabec54cc2de2d443c52a584c76682d89340aca724f21dc1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12555cf5eaf3acde17c6f2f9a17c7ff6/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/048f0e53b70e7e456abfabb54d1ae396c0d8ce4f6b92f7388cbe3e865ead1e67907506d61acb91627eb7e20be7f3aa4d376badf4dc7e9d1ad0c45d4d236ebfa6f3208c67b5d6627dffb97b45d5bf5ca714780b3a501e27b219b978b1878cd8646ebdfe5a5cd03fc4cdf92d89436b7232c39d91d44d7b5a9c8c50db8f8c921e545607059cf7cfa1ecaa6b61b4ccc4aad4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12555cf5eaf3acde17c6f2f9a17c7ff6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Collapsing Stage",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1181",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3eadb09da93df2620c2fb495a0d450ed1335adbd9da07af6859afdfcdc86afcad949c92fa9f52e7d8f0714d4887725f46adac99db2d36d9fd112377558f764b2fe8a69108b1650355ae6bbf2f7a7acc38b651d5c7bdbf6b6c3a6ec2a0cd889687fdd3ab862a9f342d3f5900cb0a5455cce5edbcf0ef245f71d5bd642c0e1de47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2657dbfcd60ac1dc5efbe5157e9c36fb/2657dbfcd60ac1dc5efbe5157e9c36fb.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3eadb09da93df2620c2fb495a0d450ed1335adbd9da07af6859afdfcdc86afcad949c92fa9f52e7d8f0714d4887725f46208b69156aa77901cf55ca665bec21599d4b30bcfe97bdd424095b173b78226dfcf3c025f05a0d169adb7eea21435ff8c83278538a755d22bb65edb1d0e03afa2b28399398ff74638600a06f745b6f5d8133bbf4b42a4962487b4696a006ebf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2657dbfcd60ac1dc5efbe5157e9c36fb/2657dbfcd60ac1dc5efbe5157e9c36fb.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Zero",
+            "episodeId": "code-geass-lelouch-of-the-rebellion-41?ep=1182",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/05de4e2ec93571a2d317d5d623912044d239c8dfcfdf6a8a9e11ac96b25c0cbb9071d4e449bac66a30a72cc04b962fb4730607e9a7b4d7480b535d4d434937e9a1a9ee121164973d92f00d7b0a343103be0aa0fa18186f661a8f003bf2366f17cb72afc64a5e54d364cbc75a4ad075ac32ce4f268d2487b9dbaaaaf69b56964d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c37eb46705c57059de0027969adb1d0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/05de4e2ec93571a2d317d5d623912044d239c8dfcfdf6a8a9e11ac96b25c0cbb9071d4e449bac66a30a72cc04b962fb40c80c09ab63a1413b2906e77373283ac8de3a9f0d01fc3c82d96f0031de7e3729278f824d17e0b11cd3aed998eca5541860ce557879fa9c11ea0ea6d5e7951f16b89c5ca35bf18152657481f75ad11c7985955118d5925bf33c721ae2e0e33fd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0c37eb46705c57059de0027969adb1d0/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

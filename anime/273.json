@@ -1,0 +1,618 @@
+{
+    "info": {
+        "id": "fruits-basket-1st-season-273",
+        "anilistId": 105334,
+        "malId": 38680,
+        "name": "Fruits Basket 1st Season",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef8bb193718c36782dd4ee5f402981e0.jpg",
+        "description": "Tooru Honda has always been fascinated by the story of the Chinese Zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone. Tooru is now forced to live in a tent, but little does she know that her temporary home resides on the private property of the esteemed Souma family. Stumbling upon their home one day, she encounters Shigure, an older Souma cousin, and Yuki, the \"prince\" of her school. Tooru explains that she lives nearby, but the Soumas eventually discover her well-kept secret of being homeless when they see her walking back to her tent one night.\n\nThings start to look up for Tooru as they kindly offer to take her in after hearing about her situation. But soon after, she is caught up in a fight between Yuki and his hot-tempered cousin, Kyou. While trying to stop them, she learns that the Souma family has a well-kept secret of their own: whenever they are hugged by a member of the opposite sex, they transform into the animals of the Chinese Zodiac.\n\nWith this new revelation, Tooru will find that living with the Soumas is an unexpected adventure filled with laughter and romance.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "Teaser Funimation version",
+                "source": "https://www.youtube.com/embed/KOg8CC_ONHU",
+                "thumbnail": "https://i.ytimg.com/vi/KOg8CC_ONHU/hqdefault.jpg"
+            },
+            {
+                "title": "Teaser",
+                "source": "https://www.youtube.com/embed/g5MDFMukmUI",
+                "thumbnail": "https://i.ytimg.com/vi/g5MDFMukmUI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/tTjFx3antiA",
+                "thumbnail": "https://i.ytimg.com/vi/tTjFx3antiA/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1 Funimation version",
+                "source": "https://www.youtube.com/embed/bIcQIZUarjY",
+                "thumbnail": "https://i.ytimg.com/vi/bIcQIZUarjY/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/4jgVaA4bxDI",
+                "thumbnail": "https://i.ytimg.com/vi/4jgVaA4bxDI/hqdefault.jpg"
+            },
+            {
+                "title": "Announcement",
+                "source": "https://www.youtube.com/embed/h3r1qmZi1ew",
+                "thumbnail": "https://i.ytimg.com/vi/h3r1qmZi1ew/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tooru-honda-347",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7e12d3c89148ef34bbd71eb2111dcf1a.jpg",
+                    "name": "Honda, Tooru",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "manaka-iwami-858",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b707dfdd90455c2b5ce0096688b874c.jpg",
+                    "name": "Iwami, Manaka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "kyou-souma-210",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/046210f2ebcebd54b3d910a5cd1a4aca.jpg",
+                    "name": "Souma, Kyou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuma-uchida-211",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/455445bc964e08e5d9f59095d4e95b70.jpg",
+                    "name": "Uchida, Yuuma",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "yuki-souma-715",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/72a6511cc23004e36e686c7fcb966468.jpg",
+                    "name": "Souma, Yuki",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "nobunaga-shimazaki-97",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/984994a4b5742004f546c5a612c49d61.jpg",
+                    "name": "Shimazaki, Nobunaga",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shigure-souma-941",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eef264474b288bd534b6141c6c14f8f7.jpg",
+                    "name": "Souma, Shigure",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuichi-nakamura-22",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb5bf905046aeba973d1b3001de50806.jpg",
+                    "name": "Nakamura, Yuuichi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "saki-hanajima-2396",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1708ee49d7da4068f3ca963dc891966e.jpg",
+                    "name": "Hanajima, Saki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "satomi-sato-205",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/855f80a66457a85747a66c565b47a4e1.jpg",
+                    "name": "Sato, Satomi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "megumi-hanajima-11430",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bc543fad8210f72a9f76668d5140cab9.jpg",
+                    "name": "Hanajima, Megumi",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "leah-clark-1036",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c0ce0846a0f4b9fb304916ec4c641fbb.jpg",
+                    "name": "Clark, Leah",
+                    "cast": "English"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "フルーツバスケット 1st season",
+        "synonyms": "Fruits Basket (2019), Furuba, Fruits Basket (Zenpen)",
+        "aired": "Apr 6, 2019 to Sep 21, 2019",
+        "premiered": "Spring 2019",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "8.23",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Shoujo",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "studios": "TMS Entertainment",
+        "producers": [
+            "TV Tokyo",
+            "TV Osaka",
+            "Nihon Ad Systems",
+            "Hakusensha",
+            "Avex Pictures",
+            "TMS Music",
+            "TMS Entertainment",
+            "Funimation"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "See You After School",
+            "episodeId": "fruits-basket-1st-season-273?ep=5508",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/f14a3d36780cb371776951232984ee6494d6695ef6a77d3efc76b4f8f501625dc60b65036b5276bfb645e5918255de0f8adea1ac32a34947056d8a96dc8265902d7673858aa509b2d100af77b5eaffdb7e50af7140a7904bb704b033135788210781b9fc21892c1468673b5ea3a0b00f030761a1684a772250b31e363fa81809/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60fa490f14b1fd5206005f59bbdbf2ea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f14a3d36780cb371776951232984ee6494d6695ef6a77d3efc76b4f8f501625dc60b65036b5276bfb645e5918255de0f2799de430fbdcdbf6d5b0980ceedffbf5f304d74d35657c3d917992aec2f42c8ca1bbe988dd2420e46549dcd8e586753d2d1d786a46089e9c165367f364a1a59440191c01c3463238ce5a09b281275d5480682c61cff6cbaea7f6f5378e6722b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60fa490f14b1fd5206005f59bbdbf2ea/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "They're All Animals!",
+            "episodeId": "fruits-basket-1st-season-273?ep=5509",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/46ac005d8297b94a15c8d452198ada7e75922b87206b4d6d5a7a7cf65a9de962d6d24277fc873bf50d20b017ab4660f59d1ffb1605e9a717185325e3f8a31b2265b9aecd7b68c519d79161f643d8bbfd554b7e70d0d4872652a5ccce11760890b63b4370b3597fc201382021a92d81ddbda58d68fe145352b68a12f312c1c475/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/490461b44394560ab72b919770cbf3fd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/46ac005d8297b94a15c8d452198ada7e75922b87206b4d6d5a7a7cf65a9de962d6d24277fc873bf50d20b017ab4660f563a962f659854a88e40b82c4d14826de614d309f7b0ca47b30a2062f33492dad4ef124f0fd114084f8c3f1413ee147936e39f7119bf3359d9a879d5b5b56046a37c8a434615a0f0283a43d9b3230af1770ca4be6a8e0476aef76479175da8e95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/490461b44394560ab72b919770cbf3fd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Play Rich Man-Poor Man!",
+            "episodeId": "fruits-basket-1st-season-273?ep=5510",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/7f13e3becb55033a35f9259c09bce2a66a56f05763b4e561a1f94f460df6c2cb19cb60c5d2600c5f305ee8ea879e29e2e38d976893a8c3619ce9342c5de6091a14b95dd3692a93277aca04fa415a2716bf3b2e7f8d0fa3e87a2815916c419346c49e19e766116a50b652c292eba020566d43d623848053f8d0d2fb004bd39e32/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50e25a41b9d32d580a40422bf67720f4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7f13e3becb55033a35f9259c09bce2a66a56f05763b4e561a1f94f460df6c2cb19cb60c5d2600c5f305ee8ea879e29e216e149805fd66b891554ec959fdf3a7406b6691aec2b67dc7f30cbc51b4ea97e8f627dca5db3f021bed5b93973e523250a83c295be521ed3c330400c610dfaf3b2d2a652a301ced71efd38d3486d06c0aa80cc6f1b268d6f0bbd63c646beb716/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/50e25a41b9d32d580a40422bf67720f4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What Year Is She?",
+            "episodeId": "fruits-basket-1st-season-273?ep=5511",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/38c993e309e0f0200c0ac5b4dd63558b4e39c69da8506689cc1b798745d0f963f6558b0f013566eaabce4d405df34bf3add7005eb4182e77a1012a73c0427eb5fd697b09fc593b9faec865d001b4d30ad7bb1d82476adf591d67af1305583818ad27e065727cfddc520a780cbae49bb5dabfefaab22559c3b4bafc8159c3e4f0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bdc3709b8647fa0b7f29dc722f37f942/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/38c993e309e0f0200c0ac5b4dd63558b4e39c69da8506689cc1b798745d0f963f6558b0f013566eaabce4d405df34bf3f5c30f3d21f67f666b8b25085fb3dd6a901613ccf8a8cae86311982b4ca9685c113e5b2438a4b84e570f33144c29be53c03aa680dd4060327a39bc02c928d2ccc7e78d516c8389d6d7f4324ceb833e899113fb1197d2a41572ae24e33c6801ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bdc3709b8647fa0b7f29dc722f37f942/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I've Been Fooling Myself",
+            "episodeId": "fruits-basket-1st-season-273?ep=5512",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e4032a4fde3360cf4006bf2cdd1e1278210fb00f2e12a14f4ae2c73ce0cfb0faa12ec1e3d1d46353fcf123fe61560db3c0c51519de7f62d0e2cdcc4a1b4f9360119cc79721dc7fd6cd3b00ba51a7f6f2e9c8d9b13acd6261079d1d4a5790c934484e3f87dadbfd3c78db6d26116aca2553081491a8ccd847688dc6cdd22a8691/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0127c3061be1d4d35fe93abe18143bb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/e4032a4fde3360cf4006bf2cdd1e1278210fb00f2e12a14f4ae2c73ce0cfb0faa12ec1e3d1d46353fcf123fe61560db31d7986f82cefbe86485fefeb95f5575430b72a15b1e624b6690f4e19231bad21e502fa1b933a4ebd5837d9f5a92a70edabbf2ad8582a4f1a6e3667627a8b89306fea3f5db6da5c4ee0c26cb9cb31b5b76fc038dcd6df4c5a5505ef3510ea4021/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d0127c3061be1d4d35fe93abe18143bb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Perhaps We Should Invite Ourselves Over",
+            "episodeId": "fruits-basket-1st-season-273?ep=5513",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ea3b7384162f9dc380a707a2114034f72ff47b1557fb7ab3c8af561b0c131def81f24bd4d83bb7b7ecd38adb410abd61ba19f5fb8b97a873a8721ef1dcb22e664d3a0d7f0895c53caf7da61145c345260fa43060a7efc6d07c80567edc8614c1b2b247e84c22898d57da247cb8c2ad3ddb1f2c617e69b84268ede7366866b61b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/159632562b437f9943b95d5fc1e923d0/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ea3b7384162f9dc380a707a2114034f72ff47b1557fb7ab3c8af561b0c131def81f24bd4d83bb7b7ecd38adb410abd616af0de4ed23dc90e409766e8e91194ee689ee6be546c8e345a7bf3afabafaedeb367a4149d0fd9a601339e3faa9367464d4e533b7a53dd9a29ffd4d839218b4dc7c26ac87fb694da4aa313164849d4a6a5a547da959c4656f46a628a7fb67a76/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/159632562b437f9943b95d5fc1e923d0/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spring Comes",
+            "episodeId": "fruits-basket-1st-season-273?ep=5514",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/1b1c8767e810f49eb8794db2fb7004cb0cfa79787c31c25efcfb3ec0107804bf91f260d037b448ac961f87c4efb626c27c6c074537ba4a6e510ca5e2cf492562b6edaf4405061b471360a16ca6f3a43d4a08dcd3a1605b29e06553b6b473ba032a4de9dc851f7db083c6c8dfd01f40b69ee045092485dc02e9e5398f8ea4659b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1af537859867747a4d3279dcacccbdfb/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b1c8767e810f49eb8794db2fb7004cb0cfa79787c31c25efcfb3ec0107804bf91f260d037b448ac961f87c4efb626c286a98b65758e950d74ed95a112e3a9d49fa5386633697909be0845689cb0e9771b676eb0ba7a2dfda375946597158cbad5670d5d1ec523c9c7c39560ef09e4625c9e406229300527ac7a0f0009aeb01dad604da61476fc78baaad9289e1685a1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1af537859867747a4d3279dcacccbdfb/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "See You When You Get Back",
+            "episodeId": "fruits-basket-1st-season-273?ep=5515",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/77698d28b7b21f3d69dc362c3648a5e5daad97461324ca486005294797d93fba12abe67dd1cc686bac2e1be078af7a98905259a95bf4a46401f7241cd4049ccc00ef5791b6e210ad7937a4461d8500bd74ab9b4e2de702cbb8494a4f7de962ebd0e2c668aa3be53b54a918ea3b64636cecd4d3ca1a2acdf80c11fd1acc73d43b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12109d9ff901d57b0fbf941b4eeb4acc/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/77698d28b7b21f3d69dc362c3648a5e5daad97461324ca486005294797d93fba12abe67dd1cc686bac2e1be078af7a98d8ecbbfa7f729ab02ebe2e31bf76c4894c009596f872b832e68a534e35be24d267223fa04c755dfa8ac962dfbfd0fa2e7db539b7cc392988321b1e7c3fcd0136657aa3b4d088fea99c2e3391cbfa3efa7445209c6ab7090e6086adc642423362/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12109d9ff901d57b0fbf941b4eeb4acc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Yuki Was My First Love",
+            "episodeId": "fruits-basket-1st-season-273?ep=5516",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7813df45498bbed268a4043dbb7b1075aadc3582bc3e8beda537f503884fdb3f8a9d1a6bee1683a7eefca673f3a29d8afa7f61804c9e5d2ecef1efb5eb10688bb7c41ba563526475cc39a8d9b61a7b1f47a0d2e5b5fe8894baaf8ee9c45650fe2468d41d8dee6a2da4a21edfc3cf78f88f78c4a8ae689bc4901e8c2333c225dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5befb7a70e7167c93f3727852681a94a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7813df45498bbed268a4043dbb7b1075aadc3582bc3e8beda537f503884fdb3f8a9d1a6bee1683a7eefca673f3a29d8a07d30b80e1e027a355da8b28547b5e34855d9a1445c3d6057471cffa20e5b884b52d3fffe610ccd0dc9ecb81d6656ca4f7d6d2aa34dc06f378cd43da931bd5941c0ccb5f354a2d0d89954c3aa62a1032638471f2f20a1d63dd72fe19d04fa1f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5befb7a70e7167c93f3727852681a94a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "It's Valentine's, After All",
+            "episodeId": "fruits-basket-1st-season-273?ep=5517",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/95c57554ccc05a62279951ba79cc637cbfc3b03e522f39c659b34040a30653c59cb983df7d6ec02bc2052bb1334aaade60a3afe8ea1385301623196004cf03ed3bfa6472bdecf8b67d2f550e9c786a86248c49a836a4d7b89b1b99f7ed18106821105d1c22c20259f9458a7989269cd03442c945e69bb0f1be9e1924ff4cb5d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2b99385baaf9d9e7e092edb38d6461/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/95c57554ccc05a62279951ba79cc637cbfc3b03e522f39c659b34040a30653c59cb983df7d6ec02bc2052bb1334aaade11afa07897ff6c1fbe19196574618a1121785ab317ab6958da53d9a19f52da29dc572c9e929738cf19ab176a41ba9249b1be7b694cccb7112569b5be292a13b3a06be26ac505602a1ab5e5d61d2f5707514d91b8a940bde045def5d6425070c8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2b99385baaf9d9e7e092edb38d6461/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "This Is a Wonderful Inn",
+            "episodeId": "fruits-basket-1st-season-273?ep=5518",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aa72327df687ab94fc282c8a52ad0aa787392e50389b615768b0d1becbdc3e41f30cd4d657d29eff5a006b96b4acbce2459610efee9de0aee063dc96f3991f1316bf46642cc2cec1059bfc9fecb2d7705174e7165b9c485b36cdc1d9579e96918aa1e7ff629fd300e57167a94031ea8958233a306df28163c11bc1de601050b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c848988d666c8317c67bba9f2378e73/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/aa72327df687ab94fc282c8a52ad0aa787392e50389b615768b0d1becbdc3e41f30cd4d657d29eff5a006b96b4acbce2b0fcd32aa5c4a7cb683c542c3bc89dc1313caa11df335a6812a1a47e98cedca624c942732c00a4d8dfff7ab7bb05f5db06f1cd57d6232121d784a67a11cfc33fbe93bb8ed5587458be1d0f50d9e9c2037700ba46fbc0766e90dd5bbbde9676e7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6c848988d666c8317c67bba9f2378e73/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Look Like You’re Having Fun",
+            "episodeId": "fruits-basket-1st-season-273?ep=5519",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4d26c82df094a12ba5f3ebd2ac4ba97410157f6d859365db705db3802001765819ca049e99ad496b2e0719f2c2fd95a961265bcda1811aed1bc81641d93a37f83ca95032de4e80171266ecea007f93f3360d1907b37d10e57220ee59a97536310113cc61d4b728b528eba69655e63d0b406cea357f2d964534a252f035bd2b47/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53c43dd41837ab6b5c29c535dd75498c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4d26c82df094a12ba5f3ebd2ac4ba97410157f6d859365db705db3802001765819ca049e99ad496b2e0719f2c2fd95a9776028450805a76b2a17d80f042af056b5a3f3e712fb7d5c6475544f990feee35994219a478e1af79f6a6d3778f244d52447a8edab83bf5c7dc27be7193d6ca59aaef07cb9b1a0336a15c28d9420661140a5b3c839fd8cb3f7dae685ecc6f6c4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53c43dd41837ab6b5c29c535dd75498c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "How Have You Been, My Brother?",
+            "episodeId": "fruits-basket-1st-season-273?ep=5520",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/07d5c236fc8cdce5a966bf32dbb51360548c67d4256859e1405867829d690f5ade470ec24b59ce84b439e8bdcdf5291152004e25ffff1c42e8df7998ced4c9e122965d41a5d27acb1d9f8516a696f19904f6575b9e6383ad7d0d4532871b1d1674abaeb84c93114f7242124fe568e5110837fefa091e4dae89db611164537d71/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03f8a8c750d62aa233737d9e82b8205b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/07d5c236fc8cdce5a966bf32dbb51360548c67d4256859e1405867829d690f5ade470ec24b59ce84b439e8bdcdf5291199fc75642c1ff7225047d1c581d1666ad8658186092701ed231fabfb3d9018747973c627ef7d7094dc2b0948219076454a60d35c1e02545abca3f707d40108332ba8093d63c06dc9b7dcc02a2f2c71f26402094446a09b4497e551a4d031362a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/03f8a8c750d62aa233737d9e82b8205b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "That's a Secret",
+            "episodeId": "fruits-basket-1st-season-273?ep=5521",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ae0fcf2d386983eb616ef047babc8352d8078e733bfadf29e468dd8e37e1ca50e2d4ce804c9cfdd1d7c22122f1ecb28935142ff3bf7a0ce7dd24510efc8148cfcdc64694859b540e5d62ddd6b44642d5595e27c2dd4bcb8d66480ce0ca84158f16396e844f143a5c6ca846fa5c5dc78fe46a47831cc3ec77a8ac08e43ff76fed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b3f0839dd294e75adf903b3eed662ec/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ae0fcf2d386983eb616ef047babc8352d8078e733bfadf29e468dd8e37e1ca50e2d4ce804c9cfdd1d7c22122f1ecb2894a8d3fa4f7cd177dca8d42d6c5d1182d874c648f453e4822c2f7defff32c3671237cd3832dd73be1b61d41535d96c0f6491268b3b63c1bc32fe2a24ba12b29392d96dbf062bd583e7e8ade56a160512c2f8becdf4a381039fc302adea12ad4a4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3b3f0839dd294e75adf903b3eed662ec/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Wouldn’t Say That",
+            "episodeId": "fruits-basket-1st-season-273?ep=5522",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/1dc2e4484c6820bb503faace55f8f904c11fd68160c5b817edf0854050201f405a365727250b52c72d97c374bd7aa1696a38277b26326f9b29b87f97af01708dbc3e1f48ea1c5cbf1880b235d573748534aa57dd0944d4c6ee22609d7c351f951cd50b2ae880bc771f37066b5a736b7b170702747d25dec29c7fea78b2546c12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b2dcb0417514f2caf17dd4279c8496e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1dc2e4484c6820bb503faace55f8f904c11fd68160c5b817edf0854050201f405a365727250b52c72d97c374bd7aa16905eed6b02bc500816aa667de4e3a5e9b351cf39bb1cc850f9c40afb70769cfc50f42455d1ec8d9f1511748b0c717b87c3aba06a912bdd88eaace87ffb71483fd747c428b6cb9f5ff165790051593b7dfeeef54ef393c94d551502adc39d6de1b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2b2dcb0417514f2caf17dd4279c8496e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "She Said Don't Step on Them!",
+            "episodeId": "fruits-basket-1st-season-273?ep=5523",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b660ec9bb6150216ed8cba9f4361248bfeea59a794c517c06533caa893391cc4fcb25863672750050c39218a05576e4f05d8d1776305780d175308a553e028c3621896b1e6aa5f68d4784a30216794839a973be0b8eb706a85aaf6198dc1444299e33b65b27dacd494ca54b0cd3674eaed3f5271745934f8953dbf7882f395f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7035a8dea89bebd835311bf12798f94a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b660ec9bb6150216ed8cba9f4361248bfeea59a794c517c06533caa893391cc4fcb25863672750050c39218a05576e4fe86b08ce255186fef072b320f0f1057d228efeb1eef6c6e166f45a5f3ba547752336dc1fcbfb15c1a31cb18a5664e5896139a573459f534160077487ee3a607e14abc663586433062af04cc35aa1682f2f56885c992adcc1eaa876d8c846f1c5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7035a8dea89bebd835311bf12798f94a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "This Is for Uo-chan!",
+            "episodeId": "fruits-basket-1st-season-273?ep=5524",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2b9519b36520d10d204861482fa13c539ac512a5145bada59ff2e62e6cc34830f3a9b7234170f6814aa0fb1502222f059cdb1493ef8f95f0f46604ea7acace4ba6887790e0717a32860201f3534236fb395cefef4354a77fa9b920445b445c957a85da88e26596801fc6afdac6c521ea76c551d1ca912b1b5ddff9224ea92147/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39b286260452bbfece1d28e3733c7549/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2b9519b36520d10d204861482fa13c539ac512a5145bada59ff2e62e6cc34830f3a9b7234170f6814aa0fb1502222f05e3fa4c4781b46fa0788021a7fb1cd0fc70d468bc30eb51f72d981841b2431f5c6e4e7524876e0af8dc95e968c918afa28b6a49cdd6bad57a4e5b80e81a1cd47a7d8267fab268aa1726be7cd932ad58b8e0ba57588c4532b252e6425356cc084e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/39b286260452bbfece1d28e3733c7549/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What’s Important Is…",
+            "episodeId": "fruits-basket-1st-season-273?ep=5525",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7057b30c03b262022356e89c32f9515fee390cb6881d9d143948334ea22a37f0dfa39a5798ad53c22d18045f0a86f8ea2b5693bd8f1eb2c41082578c23dcb47fca9615f85bccd9361d353fe27bbb9fe58e4f164c47124997f674c1e0da80034743d99417884e9f6c6a05e3e3829ce89fff69ee53d8add57b3d4e17ced38fff6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6b9d040ca24820a09130c2622e1598/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7057b30c03b262022356e89c32f9515fee390cb6881d9d143948334ea22a37f0dfa39a5798ad53c22d18045f0a86f8eafef511f6ee545b63845e6294cb8a42edfeefeb4cc1d4ce3966641bd97361af68f11d2eb046d002498c482033af153ad3a24ef06dbc70e03347a7d105f38ab2cad513b40b4bbcc1940119cc36515630442e59bbf5f9b8813ddfde3c9339d37180/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b6b9d040ca24820a09130c2622e1598/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'm So Sorry!",
+            "episodeId": "fruits-basket-1st-season-273?ep=5526",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ae476c812b9c74e218a60a71cf52f8d17e53f0f6da3de0fa71e1196a8cd018d5fe236d8d83b2ddb274d3bb6af4a5a3bb91b17e39a4d37508e442365a4affa43cbeafafe347cf64f2160bb4929bedb6b1dac8bf80a7bc4148bad874be09d60c67c4afb7c3079d7c3c65d346b514c370c3d52b45d738188cb7500d7f210366c668/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77201e03e6eb79025da37e31ce500d2c/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ae476c812b9c74e218a60a71cf52f8d17e53f0f6da3de0fa71e1196a8cd018d5fe236d8d83b2ddb274d3bb6af4a5a3bbb6c0109d22abd551812d17c8605fe3f520f152a89c3091f85189d0477a23d29c4e16bcd1ce6219af0b57cbbee0b6231c1be8fd12215a58b96d28069012d2cccb1eadbc3f2e57843acc079bbe62ff62f85ae747e242fe0b516f3fbabd6f4b32b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/77201e03e6eb79025da37e31ce500d2c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Can`t Believe You Picked It Up",
+            "episodeId": "fruits-basket-1st-season-273?ep=5527",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/0351b0ed2a6eb6af1235545cb4e42a7a5412ac98750b8c7dbc52ade58a0f3e6209cdd57a836c2ac63b46942d035351a218971ff4d7ac4f8c89e4317473a62acfd043b0961c099f3e73df5cd86bebd23542a332d41318fa87b5d9cf07085b6b011090fdb5f0fe511ff00a51ef9166784e71b2d7c45e948b7af6c1a08e93061550/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9717f226b04ea92b15eba2ff200c9bea/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/0351b0ed2a6eb6af1235545cb4e42a7a5412ac98750b8c7dbc52ade58a0f3e6209cdd57a836c2ac63b46942d035351a2223789b41726f86081a5395b93593b966d48490029183520c75e8913816ec6b9b8efcb610334f41daa4c97c7c32bd33f9563f0c5471a3c8418ffa3e56aa449f261e7b212df11a3ca8ab209796d1b6f1fbffc54359600aee63c88bcdd74e76897/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9717f226b04ea92b15eba2ff200c9bea/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Never Back Down from a Wave Fight",
+            "episodeId": "fruits-basket-1st-season-273?ep=5528",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/cc6a4192ff590386a7ed4d85b1d1c4e945a9379f5bd6ccbad571fb0e56b6b8f50944326cc47fd685da2db5610b9fe5e7338e45354c69fb51ef6fe0f6324610d55497b4e2b0d2df313638a0a47f4e5355b52b779eb24f66b06479bcd4d487fce5be788db9bfa4daa898bfb15dcccfddc4d608f02f63af6162fb0d26eea3376c22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a90242ea6340fcc68a5532d7da0ed441/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cc6a4192ff590386a7ed4d85b1d1c4e945a9379f5bd6ccbad571fb0e56b6b8f50944326cc47fd685da2db5610b9fe5e7ac22c2f4a677e8d96b8354c680bd199b6419ea739ecec1a8c4c87d02a082e5e14d9ced3e3a494cb1845084529135a705da7d5c5ab8c2616cdb10e014e20c313b42c81e135e10ad0a729e3cc05f044f2ea5c1aacec0b9e12da8aa261d1a27e8b3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a90242ea6340fcc68a5532d7da0ed441/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Because I Was Happy",
+            "episodeId": "fruits-basket-1st-season-273?ep=5529",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/2c8eab4b9eac099fcf8feaf6c57d9595be45f03ae6607c22b83b143aaadd4153b317d13c3cea625ce73c4b41ffd82103f7646bf80e59e861c2531d68a08eb52699bd03f50a0d0993a391562ed19f54a8e8a2bdb53686e203e962acf66e374bece8c45e11eddf0f6db12b68b450e9aed7d7beddb6e3c3f29db8daca8679371538/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b79da7cf8e187f730e29abea8ff8d294/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/2c8eab4b9eac099fcf8feaf6c57d9595be45f03ae6607c22b83b143aaadd4153b317d13c3cea625ce73c4b41ffd82103acd1b746ae35b7b5e9670e333c09466ac153ae2153f5ad85d7e9d9009129504f1ba362d28dbb724209ebbf506ed6dd2c39b0df9d19911f1d5b009c9115ebd326dcedde08f1afe9cec525a148385b53ee3bf8868da705f4e1ab88627e4e4f61ae/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b79da7cf8e187f730e29abea8ff8d294/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "You Look Well...",
+            "episodeId": "fruits-basket-1st-season-273?ep=5530",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8b09be8fcfee873c17e91a33bf978134d1381fdd907d0d9dd91f89544c69f28580b72b230e3ec44f6f74562012c569090285cbf81cf0357063079029ae24208ca3096cf47534a735062b8d7a36cbd3c737b827baedd3447fa02ed9277a3a9ca16da5e913fe3f0b725cb2a8eb8ab938523d491b23da7fe8253f7ad1e2119c6169/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae9084379409dda0ca19d0d62ade0fdd/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8b09be8fcfee873c17e91a33bf978134d1381fdd907d0d9dd91f89544c69f28580b72b230e3ec44f6f74562012c56909bbe49422a403ee9ca794908f7542cfe909c3c055e9e9f13b5f9149ef5666ec1e35963c34227d771200b5f9179756b0582937a3b7efd09f751cdfd9b220d3b72e2ec6c3ee2c52efaf77eb47ff3cdcea3f5f8e4b4ee57cb185a02f918668e180e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ae9084379409dda0ca19d0d62ade0fdd/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let's Go Home",
+            "episodeId": "fruits-basket-1st-season-273?ep=5531",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4c86f1ba65430a0734e08dccec354f7deac3abb91968b2b8ba8f3146506f78637c26f25eeafa1844b8b8661872d052dce68935c3ed237e9fe4faa4ee56ff7e4b65629fcd129b4c2e533c423a6e67eca9beafcfc60e938c97729fb57047b6e50d32c0854e7199d46c8b8f2a9aea175996ab9dab3104a161c167235ea50928560c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/259dbbaf89f66fe5be8877a09d0d9b57/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/4c86f1ba65430a0734e08dccec354f7deac3abb91968b2b8ba8f3146506f78637c26f25eeafa1844b8b8661872d052dcff533a9fc183220939520f17903456e64c3dd033b54ff8fd579119bc3ea664f719f8786043507cb9c8658d5c36abd45375c43cabde7feae567ad9a1eec4c628f502f9a07073a021dafc18f9c61299ba8c3a561b4b7b8c967132b43b4cded8d64/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/259dbbaf89f66fe5be8877a09d0d9b57/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Summer Will Be Here Soon",
+            "episodeId": "fruits-basket-1st-season-273?ep=5532",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d0f4f9a6dbb06f36908e10cc7ff2d76fdb9612d92f352cd81e82c7e79ea35db25aa29655a743088d35ec0f989c9e2e258412bff7bb13ebb9da3a3a248ed5b4afd979716eb3793b816974cc1d73d26d69083569aa552c015dcb9d162c219bd009e3e88e0ebb4f276f9f4649dd711efbe3f178a34f08e3928021e8d1b3e3a747ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/849dc856e638345b6f5a237e91490353/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d0f4f9a6dbb06f36908e10cc7ff2d76fdb9612d92f352cd81e82c7e79ea35db25aa29655a743088d35ec0f989c9e2e25f09e2dc7eb01934ddd5218384704390c7a284d4752395af39b468d7e5e8b78df33ed31101df5096f2a0ed9b86782fe7ead558d5ed7d10dcd6d2286bf4fb4f61331f57b4782cb5f1fef67089046bb32dbef433971eee7aa03b4820d05e07b9bba/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/849dc856e638345b6f5a237e91490353/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "info": {
+        "id": "bungo-stray-dogs-858",
+        "anilistId": 21311,
+        "malId": 31478,
+        "name": "Bungo Stray Dogs",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a2bf79700f11a39d13b70d321ddb8a.jpg",
+        "description": "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city.\n\nWhile starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy. Together with Dazai's partner Doppo Kunikida, they solve the mystery, but its resolution leaves Atsushi in a tight spot. As various odd events take place, Atsushi is coerced into joining their firm of supernatural investigators, taking on unusual cases the police cannot handle, alongside his numerous enigmatic co-workers.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 12,
+                "dub": 12
+            },
+            "type": "TV",
+            "duration": "23m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2 Aniplus version",
+                "source": "https://www.youtube.com/embed/zyc8p_jDdtI",
+                "thumbnail": "https://i.ytimg.com/vi/zyc8p_jDdtI/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/GGsohezPRXU",
+                "thumbnail": "https://i.ytimg.com/vi/GGsohezPRXU/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/4VBmThJ3AZM",
+                "thumbnail": "https://i.ytimg.com/vi/4VBmThJ3AZM/hqdefault.jpg"
+            },
+            {
+                "title": "CM",
+                "source": "https://www.youtube.com/embed/GDWr-1QHpHw",
+                "thumbnail": "https://i.ytimg.com/vi/GDWr-1QHpHw/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "osamu-dazai-61",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/91bd3a0ddc1c46a0812083c31ccf9eaa.jpg",
+                    "name": "Dazai, Osamu",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "mamoru-miyano-3",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1e2a746d4a2e61a55c2ffa90ccb18c60.jpg",
+                    "name": "Miyano, Mamoru",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "atsushi-nakajima-737",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6ab9ba5da7b136d93cb3fc20377a75c.jpg",
+                    "name": "Nakajima, Atsushi",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yuuto-uemura-351",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d666fa59f254027980ad9cf57a83fdb7.jpg",
+                    "name": "Uemura, Yuuto",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ryuunosuke-akutagawa-717",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7675229c57600f9274d5b1dbc836c059.jpg",
+                    "name": "Akutagawa, Ryuunosuke",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "kensho-ono-100",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f9a4de954ab9aba29a5cc8ce71516533.jpg",
+                    "name": "Ono, Kensho",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gin-akutagawa-5401",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b530e8bc6b186ab1511d7b7796b97b37.jpg",
+                    "name": "Akutagawa, Gin",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "shiina-natsukawa-1461",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1643277759681de68b6518d165aa4a47.jpg",
+                    "name": "Natsukawa, Shiina",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "ranpo-edogawa-587",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0c867a6dbcbfd25470cb4b5b2e7cb3ac.jpg",
+                    "name": "Edogawa, Ranpo",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-kamiya-2",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/658282201e3c50ee06cb047222386d4f.jpg",
+                    "name": "Kamiya, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "elise-22873",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/303d68df81f53b5f30f642908bbbd295.jpg",
+                    "name": "Elise",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "sora-amamiya-28",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/51334186bb8e7610c8f8b79aab3e0244.jpg",
+                    "name": "Amamiya, Sora",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "文豪ストレイドッグス",
+        "synonyms": "Literary Stray Dogs",
+        "aired": "Apr 7, 2016 to Jun 23, 2016",
+        "premiered": "Spring 2016",
+        "duration": "23m",
+        "status": "Finished Airing",
+        "malscore": "7.78",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery",
+            "Super Power",
+            "Supernatural",
+            "Seinen"
+        ],
+        "studios": "Bones",
+        "producers": [
+            "Lantis",
+            "Movic",
+            "KlockWorx",
+            "Bandai Namco Live Creative",
+            "Glovision",
+            "Lawson HMV Entertainment",
+            "Sony PCL",
+            "Bones",
+            "Funimation",
+            "Crunchyroll"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Fortune Is Unpredictable and Mutable",
+            "episodeId": "bungo-stray-dogs-858?ep=14933",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/646b7bd125083774cebd35e0effad91fa7e7171522a99896afe5173b8b6c4439f68d13df21cfb8c76f54f56a7ed47c323cf772ac7358f0d5b27562b53c7ac5ccf8346ebc26f85c24a2c36e38707fd39eea35792023c2ad364dde370f3e4c5c71315c758edd30361a9d773baafaedf7431596aa326d0f0c88f1339054deab795c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/829e936fe199e139bd8c549417732dd3/829e936fe199e139bd8c549417732dd3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/646b7bd125083774cebd35e0effad91fa7e7171522a99896afe5173b8b6c4439f68d13df21cfb8c76f54f56a7ed47c328343ed1b75ccbcbae06853e507e915aa3ca0ceec6911cea8f96df65e41c2edecbe790c9eb91d748f14011c150e64f99f4f95ad6cded6c17b0265255dd2e073313426e773d813f4f8486d25ca8e2bf8e66f0ef48eda640a99977ea8a392e061d7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/829e936fe199e139bd8c549417732dd3/829e936fe199e139bd8c549417732dd3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Certain Bomb",
+            "episodeId": "bungo-stray-dogs-858?ep=14934",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/51385f543917ad5f773121b0df4bfca8a42dc31feac21e9622555f54a7ff9753ae63bc0f78a8bf25c22c9ea641379efb090398e4e7c05649d7691e83c484a42df33c8d6438c9320567b5467aa9c34ac2c7fe3d0af703fb7b9325bd56d3556a50aa90acfd933f73a9923b7542f1ad8e97edac08965c8e6947b331ff49419398e2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43357b1a50009408383a431a5ffe933f/43357b1a50009408383a431a5ffe933f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/51385f543917ad5f773121b0df4bfca8a42dc31feac21e9622555f54a7ff9753ae63bc0f78a8bf25c22c9ea641379efb63fa994ed9d6439a34e3b038ff5db0bcf777f4c54c32663f46b5afa9fb533e7a6d64ce880e9a39b00420c112adf1951c6d41085930714653b907d87ba4ded346de62c6869cfa3f8bc739a098f2978d8d5dd94b6deb2dc6a92f7950f43976c59b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/43357b1a50009408383a431a5ffe933f/43357b1a50009408383a431a5ffe933f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Yokohama Gangster Paradise",
+            "episodeId": "bungo-stray-dogs-858?ep=14935",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/7a2c56322813bc2b12a54f4e8611b4dcd2f9ac4ca910dd7c0b99843d0744edc5af580767540f6a35a884745bd484563262ef5353ffc6c293f61055029bbc1c351d0cda919852f1d9089b3900330dc13f5eba5260afde307fb0dc90744d4ae15a332e063d9e3e3d08e2724e85edec5da9ab27b3f6f446a147da694850dfb20557/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3eeb83e2f112094816474cf37ce47e40/3eeb83e2f112094816474cf37ce47e40.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7a2c56322813bc2b12a54f4e8611b4dcd2f9ac4ca910dd7c0b99843d0744edc5af580767540f6a35a884745bd484563218ec9f8a24020e94e3c4fd694141f10ee2c184a49d84cf5abc1d328e4ae376ca04a33862f5ef3ac4653bd2b36cb488e425e9df5d42784144d48cde950d62bd74f0fc8eb6e1ba03a6ccfa5bb2b0a751f50ec1f2f907acb5afb13e040e69219533/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3eeb83e2f112094816474cf37ce47e40/3eeb83e2f112094816474cf37ce47e40.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Tragedy of the Fatalist",
+            "episodeId": "bungo-stray-dogs-858?ep=14936",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ecfae88034bec649c82b4ca341b49838a5816da2bc005ef274b661b59cccc88882c16161b746bd810547391e356d55509a65d878bb5983240083d8cf5d52515ca2cff725ed55f9eb42774298186d6db1c8e0886414ead25467ee5d5e46342a17b3440e74fd58f4f444bd7aff589ed2ebf97e5fee940daab530611a4427b00f9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/331937acae715562555f642f78a20f59/331937acae715562555f642f78a20f59.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ecfae88034bec649c82b4ca341b49838a5816da2bc005ef274b661b59cccc88882c16161b746bd810547391e356d5550622fdcf1422dce5a7d6a77732cb179f981e5c3248bf66fc0cb687e4bf2e2c4596c1f9fafd19baef8a2c32713b9f3176dae8b044b5642dee3f64125dbb26758785fbeda2ae749d313f5a9f95802368c9aa923cbdb4db4bb94f4b3fac7891035b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/331937acae715562555f642f78a20f59/331937acae715562555f642f78a20f59.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Murder on D Street",
+            "episodeId": "bungo-stray-dogs-858?ep=14937",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/b48bbb80aef2015241fb643cf10e2b58b6e4922e7dbc31725ccaff806505ee2f1b15456a6564197c664fbdaf8a1ba5017653cc6d54f979ded1936414146b8caaae688175703d3c80dc56fcad8be82c2cb2654713f4f08fb93c82c4f157da6f9f9e5715d8c9ae4d65b5f69a023d1def85f0c06da921fbba7eee543177931445bb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/181a7ffe5b7aa16567a37e1426ff4da1/181a7ffe5b7aa16567a37e1426ff4da1.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/b48bbb80aef2015241fb643cf10e2b58b6e4922e7dbc31725ccaff806505ee2f1b15456a6564197c664fbdaf8a1ba501d8676ccd848562063b883ea61495d69cb4e51cdd58ad8fc49186e384b57f677a7c355d130cc68d3bc1c1b1eb57bc60a12d086e9730fcff3cecf60b070ccad2f979074163e53914b2581dc52ccb24dbf2cc05ba3267c901370e8226085c1658db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/181a7ffe5b7aa16567a37e1426ff4da1/181a7ffe5b7aa16567a37e1426ff4da1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Azure Messenger",
+            "episodeId": "bungo-stray-dogs-858?ep=14938",
+            "number": 6,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/06cfe912aaf2b9fccfaad2b23b8142d8dba47922e039c7f712abe729610a91108712b67d9d8af4d922b9ffe106da43701619fec1f08ab190529e3749b303c1b5954fb16ec25715a220833b3a59b5795ed9f4794cdc11633415868477558d6d849fac07e410c6b707e0aa552ebae354722ac34afe1cdbdf51ec14735c3acddec9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/985c2ef4d6591b04771f849bb3ef51d4/985c2ef4d6591b04771f849bb3ef51d4.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/06cfe912aaf2b9fccfaad2b23b8142d8dba47922e039c7f712abe729610a91108712b67d9d8af4d922b9ffe106da43701ab6fd7966b3f0bcd29615a0177df433810ded168840a680d87cbd6fae2983cf21b0d4cc08c4b6f7bc5cb83f7f527e0df5825584d98bf07af99f193b20c992d14292bc9a2aca3eb640d7eb12c147d615aae2ad612b5c5094dbfc98bcfe749f8d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/985c2ef4d6591b04771f849bb3ef51d4/985c2ef4d6591b04771f849bb3ef51d4.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Love for the Disease Called Ideals",
+            "episodeId": "bungo-stray-dogs-858?ep=14939",
+            "number": 7,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/434235d8a0b05de18ab35d829581a05e792a2a71421f66801a8c636a796385d4639a9ad43a84cb9ee586104b8d51851202763d27c9b04b795292e8a75173d238b32224a1853e617c2fb5b56ecb7f21d59d9cc90cad0d62ad28f9213e98eb4a33b183fa41c420d3d547c33a6ed5b0440435231e9e2c264ada8738afc262a712de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b412de3912789a9be02b120c1cad99c5/b412de3912789a9be02b120c1cad99c5.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/434235d8a0b05de18ab35d829581a05e792a2a71421f66801a8c636a796385d4639a9ad43a84cb9ee586104b8d518512f167c659e3152d7f3946ebd6c2b15b4abfe366f10e0d6eb019d9eedef34853318fdecda4f8ee03c190a00a0069679cf4f9ea0b0e2795c95d7dbedfa04f8da8d1567ba8b2d32c85c81b7621bc12bab606a13f732cd57bd82e2a94d8d72e48b1e3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b412de3912789a9be02b120c1cad99c5/b412de3912789a9be02b120c1cad99c5.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Teaching Them To Kill; Then To Die",
+            "episodeId": "bungo-stray-dogs-858?ep=14940",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bf48f47699f2669411054ca3eeee130e6bf24a20d2864c4658b5d71387b7ca5fd5ce18382e496bd30a5758aca4448a89d836f995268ac08ae649b56653dd1dcd304a1c4b49fd007186c602a859f1d99dc28a9f3084caedf88985a73ab702a21e82e7d9e20e75ecd97078db6ff2c5ee3c5c6c2e3fd4a3384752dd6b5267ca2eee/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb2a36df22a6321fbafaad8a2040c8d9/cb2a36df22a6321fbafaad8a2040c8d9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bf48f47699f2669411054ca3eeee130e6bf24a20d2864c4658b5d71387b7ca5fd5ce18382e496bd30a5758aca4448a8994eeebf26e0ed8dda434cfa102111eb70e267ec09c0beb9c3dd8a28e33cad8890aa8be61818ce3e7e8c1f78a56266e65603050df282209861c870900c628718b0fbf9a0cb970dbafcaf946f4bc5e8cc4d441ba4ee6037ca1dc8fbc05c2e2726d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb2a36df22a6321fbafaad8a2040c8d9/cb2a36df22a6321fbafaad8a2040c8d9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Beauty Is Quiet Like a Stone Statue",
+            "episodeId": "bungo-stray-dogs-858?ep=14941",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/26f49a616f03d8ab88fe1a34de8c7a35d1c7bf77d43d06c05a538ec784d6e737fbb2e0a41a26095cdc0e59014552a7e4bd78a33f482782442c9c876f9105343548a0ea220578b9c39567080896a0de15fba20f94867f3730145fdb20a5012bb9f39d423aa83947e83c303661070d9c93490aa3fbc1ca0472bc24d880bf764359/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5604ac359a8e77d484a876a0b2e2bd6/c5604ac359a8e77d484a876a0b2e2bd6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/26f49a616f03d8ab88fe1a34de8c7a35d1c7bf77d43d06c05a538ec784d6e737fbb2e0a41a26095cdc0e59014552a7e453f68cb457a5f3440a0819e7ba6c109e5544504061ac3ef737ae29bc482341efdb33751c89ac38077fd385f11066b665697e88e670017bb43e57588d1857d6a96098d91af659b585212c3b07ad1b3e2a74e8a3f308616499aafb5911ecdcf04d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c5604ac359a8e77d484a876a0b2e2bd6/c5604ac359a8e77d484a876a0b2e2bd6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Rashomon and the Tiger",
+            "episodeId": "bungo-stray-dogs-858?ep=14942",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/281967017bfbca020ca532a406c2aa4c0cebe69211474297139f1cfa6b2ee2ae2e896474b8e5098bfc4a0a066247b00bb1e44dff8a73571608f1c77b722ad6c7d104b8a4fafc6c889d425f3743292fed2d49ce75905f9ab4c0d0f8d4ab2fd9d9f45b546c85dd0ace519ce049c49d7010491d148e29278b35d5f855d8ab3d5f18/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3eaa5428af2c56521ac371838292b45/c3eaa5428af2c56521ac371838292b45.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/281967017bfbca020ca532a406c2aa4c0cebe69211474297139f1cfa6b2ee2ae2e896474b8e5098bfc4a0a066247b00b0472f6f5207fe5d304174e2a83f2e29086ab58e195000945a64ce34617decf01022fc1d05857a693e6a89aeb26b7cf1740cf2c1044431fe3413b76e1dea5bffb8458907f23edb7bd222459a9aa0b9055f0bb17ff258e96360245f5e125e05855/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3eaa5428af2c56521ac371838292b45/c3eaa5428af2c56521ac371838292b45.vtt"
+                }
+            ]
+        },
+        {
+            "title": "First, an Unsuitable Profession for Her. Second, an Ecstatic Detective Agency",
+            "episodeId": "bungo-stray-dogs-858?ep=14943",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a9401d214279d30775cec7d73f9847f5518d3f67a41936cbbb4cb116945089ebb27d6adf2c747946d51d634c2eb96838dbdefeec9dd1e02f84b0b7e96d174c02db9224c8e5e2073417139e5a0bc4f86429c13263bf7b2dfc3e14c01ef447fd7e551371f77a3d7ae4445f746a0c797210c3a2c1b981bbc45225c65d3ae5b56d3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3ab1aefd4123cc2c349700770f9f39c/c3ab1aefd4123cc2c349700770f9f39c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a9401d214279d30775cec7d73f9847f5518d3f67a41936cbbb4cb116945089ebb27d6adf2c747946d51d634c2eb968386d7e17ef8215b78b04d0f47cef28d1bd981746af32967d6d70f8480cacbe23dba5a1e3cedac8e1c71512faeaf8ada44f440ca273a1bf44973ece92eaaf6cc77aec205dee0ccc6cc861c726524e537055d703219e558eb243b81daf17d15a3414/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c3ab1aefd4123cc2c349700770f9f39c/c3ab1aefd4123cc2c349700770f9f39c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Borne Back Ceaselessly into the Past",
+            "episodeId": "bungo-stray-dogs-858?ep=14944",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/94159132718d52c06f4eaf7fec315d9cc9328f8205250af7d29ad9049ba5f952ff3876f90ff5a93e802ae036d9ca68a16e85022a4eccd89848a3bfc068605b50f44c069081220c9d4836ed286c19b38c25d46be67ae9fb3d72aac1806afdaae6423888f82d25858bf8b5f4113b3bfdd60a513fd8d902857eb47b9b12187eaefb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/638a4f1555cf8b1672cf2eff3c85bb26/638a4f1555cf8b1672cf2eff3c85bb26.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/94159132718d52c06f4eaf7fec315d9cc9328f8205250af7d29ad9049ba5f952ff3876f90ff5a93e802ae036d9ca68a13dc06e445fb014df2c27e2c8ece011eadb304ed8ef022156a946205e46d7b6eadd875158596076991855aef622f52e86d0343c9f23b1b9c2bce9a3840d718179cab16de2b6e0f5f823077240c083278870afbc68dd772568c26b073e20f2a036/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/638a4f1555cf8b1672cf2eff3c85bb26/638a4f1555cf8b1672cf2eff3c85bb26.vtt"
+                }
+            ]
+        }
+    ]
+}

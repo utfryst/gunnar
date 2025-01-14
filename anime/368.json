@@ -1,0 +1,620 @@
+{
+    "info": {
+        "id": "jojos-bizarre-adventure-uncensored-368",
+        "anilistId": 14719,
+        "malId": 14719,
+        "name": "JoJo's Bizarre Adventure (Uncensored)",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379fe285468f6b5f621f534d2d4850d9.jpg",
+        "description": "In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his savior. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. Wielding an Aztec stone mask with supernatural properties, he sets out to destroy George and his son, Jonathan \"JoJo\" Joestar, and triggers a chain of events that will continue to echo through the years to come.\n\nHalf a century later, in New York City, Jonathan's grandson Joseph Joestar discovers the legacy his grandfather left for him. When an archeological dig unearths the truth behind the stone mask, he realizes that he is the only one who can defeat the Pillar Men, mystical beings of immeasurable power who inadvertently began everything.\n\nAdapted from the first two arcs of Hirohiko Araki's outlandish manga series, JoJo no Kimyou na Bouken follows the many thrilling expeditions of JoJo and his descendants. Whether it's facing off with the evil Dio, or combatting the sinister Pillar Men, there's always plenty of bizarre adventures in store.",
+        "stats": {
+            "rating": "R",
+            "quality": "HD",
+            "episodes": {
+                "sub": 26,
+                "dub": 26
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/PGVSViecHWE",
+                "thumbnail": "https://i.ytimg.com/vi/PGVSViecHWE/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/EO08vMz73YY",
+                "thumbnail": "https://i.ytimg.com/vi/EO08vMz73YY/hqdefault.jpg"
+            },
+            {
+                "title": "CM Blu-ray & DVD version",
+                "source": "https://www.youtube.com/embed/cAKPpu5gW2Q",
+                "thumbnail": "https://i.ytimg.com/vi/cAKPpu5gW2Q/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "dio-brando-139",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1de2b2fec7585060cb027d49b7414b3b.jpg",
+                    "name": "Brando, Dio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "takehito-koyasu-23",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8b9f465de8b0778d2b2b3602b7f4f843.jpg",
+                    "name": "Koyasu, Takehito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "jonathan-joestar-551",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f129bf1686781fed25987d7c97222d1b.jpg",
+                    "name": "Joestar, Jonathan",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "johnny-yong-bosch-51",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f054f38d854c43b82cdb5533fe5c29e8.jpg",
+                    "name": "Bosch, Johnny Yong",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "joseph-joestar-33",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/101f47a7c9cdeea7e830c3cd0cc1b913.jpg",
+                    "name": "Joestar, Joseph",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "tomokazu-sugita-8",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/deae516e8edb7cf8e1dfc709ea34fa59.jpg",
+                    "name": "Sugita, Tomokazu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "lisa-lisa-1161",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1359fc768d29c2da6cd61332b006420a.jpg",
+                    "name": "Lisa, Lisa",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "wendee-lee-349",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/efd4ed6f389ad02971aa64e3a4ad1292.jpg",
+                    "name": "Lee, Wendee",
+                    "cast": "English"
+                }
+            },
+            {
+                "character": {
+                    "id": "robert-e-o-speedwagon-506",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1b41f90353aeeccca11b638320cfbc88.jpg",
+                    "name": "Speedwagon, Robert E. O.",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "youji-ueda-1574",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f34eaa37470198ae5b77c9aafab347b0.jpg",
+                    "name": "Ueda, Youji",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "will-a-zeppeli-3375",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/268b63b88c632f88728c51b888b4fc49.jpg",
+                    "name": "Zeppeli, Will A.",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "yoku-shioya-3516",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/491bf0e8fddec59bbf4f7e1f514a43a3.jpg",
+                    "name": "Shioya, Yoku",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ジョジョの奇妙な冒険",
+        "synonyms": "JoJo no Kimyou na Bouken (2012), Battle Tendency",
+        "aired": "Oct 6, 2012 to Apr 6, 2013",
+        "premiered": "Fall 2012",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.13",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Shounen",
+            "Vampire",
+            "Supernatural"
+        ],
+        "studios": "David Production",
+        "producers": [
+            "Yomiko Advertising",
+            "Warner Bros. Japan",
+            "Kamikaze Douga",
+            "KlockWorx",
+            "Shueisha",
+            "David Production",
+            "Viz Media",
+            "Warner Bros. Pictures"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Dio the Invader",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8549",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ba958c36329ad71bc114fbaacaae1bbaeeb8c3bfdc201fffe1955e2be7ff1d6650d81adf4149cad0f56d2b5fa376eccdaaeedb48e45bdc42ec58dc8763460a3758fcee9936638ac3e50ba3d291b28e64a72580f9a1ac87f4890db989dc81a346c02118c97975941fa07fc671bea6a4922abba88d165b6bd911f887f377fc4cd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/459c3171449a2c2a02ac4ee59171863c/459c3171449a2c2a02ac4ee59171863c.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/ba958c36329ad71bc114fbaacaae1bbaeeb8c3bfdc201fffe1955e2be7ff1d6650d81adf4149cad0f56d2b5fa376eccd95d38a14daee93881a8f6e7b8ccfa9a857b855598e56f818aa00157c9bfad4777ad65562821e38aee43f0a81b09db66d48a057128674128233aa2cbfc8ab26c188e86227a08acd016d53c8868b9f622b8fcdffb06cfb2ad096a5cb8af324d865/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/459c3171449a2c2a02ac4ee59171863c/459c3171449a2c2a02ac4ee59171863c.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Letter From the Past",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8550",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/faf6f5a4080c330ec2691f7c1581c2331d193655154d52e81d1be5cb68cda2a182892dd9894f02892833375f761cd2d34484c132ce6afd437a271decf855b3cd9537c6636e428e1797427b1c593dea2e33bd99e4fd212974fa7567e647fc591ad2a68f90cfc1757fec4d5c13ae66dd92969f7399cb98c9d21cb32a2471ff1331/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b542e993f29a7d35cef3d522dfcaf0cd/b542e993f29a7d35cef3d522dfcaf0cd.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/faf6f5a4080c330ec2691f7c1581c2331d193655154d52e81d1be5cb68cda2a182892dd9894f02892833375f761cd2d3212caa968eb63d3acf387aa2d75abce398a71bab1fd2df243b178e957514c58ed65ea6b56d050421713c33198d7f8cef6723cbc6d58ef17666cc217eab40391d1250f2599190b48575193104e4539565e0dc29cf548aabf87ef79c3c72402c04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b542e993f29a7d35cef3d522dfcaf0cd/b542e993f29a7d35cef3d522dfcaf0cd.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Youth With Dio",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8551",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8fe0b10ff22214442a55d45dcfd090261e05d46fc5972027a14d6534271b4c104a4b723745fc0167aebd9e04752330da821ad072c2de685aacee8b90b841b687ee4e92baebee26753f5826317f6f2547d646f344d1f7a7709151f3c1c9454cc75bd5c7d772225f42d0606941688eb5c5d7ebb5dda8d4e20d66d18447a5c47a17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df606a27fc73a53ce91d11baecf0f237/df606a27fc73a53ce91d11baecf0f237.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/8fe0b10ff22214442a55d45dcfd090261e05d46fc5972027a14d6534271b4c104a4b723745fc0167aebd9e04752330da0f0dfcf4b34ba2cb2ead808ef507bc885f0afb5f43845fb2f99751a44d7c047171b13e9aa34291828441cd395615b8999ba5dc85258eb9cbf3bd0ba039d6efbd7031466bb73d76c973883a0a600c93069b348fcbfae2e38902e7f09f9b0e3d48/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df606a27fc73a53ce91d11baecf0f237/df606a27fc73a53ce91d11baecf0f237.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Overdrive",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8552",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ea796038fd55e5d11b7cc0b95f1ba8fc952a919d5d2f628d1c42da363e2e6b87cc276780da252baff604654755e5c28faa7f7e6e05103056d150c3ef4440f1f0347470f3802fd2b9e5d3dc004db46d874eb529653d3904285bb39d2fd14cc93862930314733e0a77841db1ab6f68023d96fa38c81b2db0a816742e77dc824829/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0c6135d21610cd2a1a9b2dbd018d251/c0c6135d21610cd2a1a9b2dbd018d251.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ea796038fd55e5d11b7cc0b95f1ba8fc952a919d5d2f628d1c42da363e2e6b87cc276780da252baff604654755e5c28f3fe0c5cccf109ea8be4a860104e83f401c45ca599c9319420d8aa9c71506b57d4b9d4e59162c0a8dddb432184e8da156d5185c922947a4b10eca86b1c7b8a2f7288b81799b6b0347ee89f63cfc68491ad7b9be9c660081a9200c98e23809c003/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0c6135d21610cd2a1a9b2dbd018d251/c0c6135d21610cd2a1a9b2dbd018d251.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Dark Knights",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8553",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/6c45941bc89aef4d66d34709f4487e30b6052b1c06a45d1a9b28e0bf488735b3e2d1d08f03dc2d1ce7b74ec0f564953194add30ade9bcb4259dc1de6ff6941cd30875b441c3963d24c39aec5a5beecb69117aaea586f68a6dd07966c53ce4dce5f66e88dc6c6fd1d94cdea80d40a2f3fee74bf7d93c08f55a829107587209b07/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb9ade413362840c1661657a32ce3618/cb9ade413362840c1661657a32ce3618.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6c45941bc89aef4d66d34709f4487e30b6052b1c06a45d1a9b28e0bf488735b3e2d1d08f03dc2d1ce7b74ec0f5649531c6e4c3c93e355ea21df8259228871cbe3f680af2a826ae8212e2619237a26a11011fa24bb9990719ad912abba5a922655808d27dd36da6b1ce19e4832ccc4a4fc3cb52f20312c17ef047d70168b45372835ac46eaab45fc9e783cdb4f22e890c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb9ade413362840c1661657a32ce3618/cb9ade413362840c1661657a32ce3618.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tomorrow's Courage",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8554",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5cd980c1c81dfe959532789c5b1dba12aba49535e9cb6c7d18b1342c90c881a65d142871d653f933919ae6ba44be3780b98a0a7726b87e013e9620d5d3696507995b202b04909c02ed46350283538620038c78b957080da667377dcc12eac09afa6e5503f1b26852d332e708c511e3266a93c7d5c057f5ae5f43058430f7efd4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e05bb70928604adc70790cc1c9ffd41a/e05bb70928604adc70790cc1c9ffd41a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5cd980c1c81dfe959532789c5b1dba12aba49535e9cb6c7d18b1342c90c881a65d142871d653f933919ae6ba44be3780415c0c60807b9766f4406fc9cb3f58364dd0729fc94092d62b1b60fa7ede237f24a2fa0a7262a0b79d013e7f6db3830f2f97c6c803c3ff5f51496cb0c2b23139271138c5ef5bb842ed808d59d8ba6bafa822daa575bc29f8f2ccbf0251a0c1de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e05bb70928604adc70790cc1c9ffd41a/e05bb70928604adc70790cc1c9ffd41a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Sorrowful Successor",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8555",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/e33ad63162d4aa3f7dace928089faa031ecc3ce02d9344d94519ea437aab293ffd227a1f04ad18d5442ecf78ddda36bea33965c93ca28757c3d318548e768c5fdfe551b9e31adc7fa7c8d9dcdb7a43c34fd7f5aaa38942d5158bdca2b0a2b9d8f0888d901305739f87af9f7299b0fd40c316b817fdbf98b75905e9fa737db07a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa20ca749998e71ed7c47cc5a70b7ad8/aa20ca749998e71ed7c47cc5a70b7ad8.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e33ad63162d4aa3f7dace928089faa031ecc3ce02d9344d94519ea437aab293ffd227a1f04ad18d5442ecf78ddda36be5c7b3ac3ffa81ac96bba863c990855905313e66ab6f15afd8662a216a6999a220eec63c754e8e547a87ab9c57da57d257a6e328443450abee3e46734a67a94875319077f74001ceda34ac753b4d089a148aca163a37a713b9e7aef72315c9e72/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/aa20ca749998e71ed7c47cc5a70b7ad8/aa20ca749998e71ed7c47cc5a70b7ad8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Bloody Battle! JoJo & Dio",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8556",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aaa3145cc10b82bf741765161a12f6a5d57efc984a91238f9889c5644dfc1a8980dff8d80d0645323e82c154a10840680b95358f0a5895da66b1b8fdbb4c8d0572f2a8d72b5bdd87cce7a77772b0a46c3dc1e065e133a00440ac1214bf9076dd2c480972effaafbcf0ea9b10a146a1e470a7c1389f40fb6d77f060bdc6e52738/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd4636988474e7d072086bcebdb1a82/fcd4636988474e7d072086bcebdb1a82.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/aaa3145cc10b82bf741765161a12f6a5d57efc984a91238f9889c5644dfc1a8980dff8d80d0645323e82c154a10840684aac7675e3cdaef3c6e4f3f6b0477a6ceca419722bb314a22c7622f63d9a2f0178ac248baddcfd012cb31bef68373b589cc0c9e831c26b1400702cb4f6e2c59f4007eb02c47d821fd1dba50e68ea2ddcd0c1873d5d40b7bf0c37196be6b4a497/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd4636988474e7d072086bcebdb1a82/fcd4636988474e7d072086bcebdb1a82.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Final Ripple!",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8557",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ec7c40b5466658ce9b42afd60ec0604a6caec4faa9cae01eb2466dcbebc205a85988ce42a18ea6235c3594f5db3011b31b4f6a30b270c4d30ccec2be90f492169cbdf4873a7b59bf69f51ad010420ca09190fb077df76ae36377fe3e5e09eb6be3b6b3d406315e885e8053ff2b2854c5a1bb726268d7c64dac146d77bec360d1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0cee8b708eced2492a9945e0bc3b98c3/0cee8b708eced2492a9945e0bc3b98c3.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ec7c40b5466658ce9b42afd60ec0604a6caec4faa9cae01eb2466dcbebc205a85988ce42a18ea6235c3594f5db3011b3198cb44d3a57e482eab77bc0216d7d55c52ec2ee08fa2190a80466f6a257389b7e3acf65f04881d666ff0e34468dd0c2ae3202ebe6f27a838a4d170ffb3cab11723bb9bde9680d3b90c6e1b4c401e7ab7f30eb562fd45b6ef4a3b208c41ad5a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0cee8b708eced2492a9945e0bc3b98c3/0cee8b708eced2492a9945e0bc3b98c3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "New York's JoJo",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8558",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1c20eeddf5f0b18d8b50ba7cf19ca97f49cb9057ffaf4f99f237812d992e91ff7d0ab861e9862852b919f490f5b5cb48283a2d98096cdf711af1872984ad0687c5b2ef669e6460a006efc0139141fa4409b9e690ed3821355402719b89d161cecd5040aa37c57cf1e65c338e1a9ecb9ecbcb626c0c94b617daf91f0245b708a9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bec52037ce2a5ddd92b22d95ce0f516/1bec52037ce2a5ddd92b22d95ce0f516.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1c20eeddf5f0b18d8b50ba7cf19ca97f49cb9057ffaf4f99f237812d992e91ff7d0ab861e9862852b919f490f5b5cb489a47e4ee7bf599c75a6cd79ab39afb784f876b25c06f1013092f7d5ecff8481e63b561df6a0f45c47415db1d066bfcc67101050ad665b5c1ab45be8eec25f7983a06585e442d48146cbb4f5f39366b30d23bdfc9a817e18e5ee0bb0e88c43c12/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1bec52037ce2a5ddd92b22d95ce0f516/1bec52037ce2a5ddd92b22d95ce0f516.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Game Master",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8559",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ba2a9dd5eaece21f26b9339e41e0a2916748244d3a45337f8ea13f979522fd93dd56fad66a67974d0b99cdc1a220128523eb7c404368782958149029d517645fdfe33e75ec0e2807fc809a8464fead2f500ea48a6f174bad2f45876165b00e138835e531b7c651217cf7ab80d9582c328d7a9af6eeaf379fe2d8e053a903ea22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/270e1d9154b17d1aeb3901ce160a46af/270e1d9154b17d1aeb3901ce160a46af.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/ba2a9dd5eaece21f26b9339e41e0a2916748244d3a45337f8ea13f979522fd93dd56fad66a67974d0b99cdc1a220128521323360e8e49be893b51cf84b6d3a1b719550d4b9458615d2b633a441bf86b3da4e3a5e451de51aa27a3b6544013d5935f8fdbbf8062b205294fc7a293bcf9e828014d2f68716f5eeb5d098e0c1bda7aeb1bac499c180796a376c0b66257f7f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/270e1d9154b17d1aeb3901ce160a46af/270e1d9154b17d1aeb3901ce160a46af.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Pillar Man",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8560",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/29a3644982d5686184f63a0555e3d429cf0f27321184342e92615404107c81bea5062ce88f9dce8daebbf620e4c674508bd9ee955447441aac9d93c5ae05de1513ecabada272251f87845382c31f43b9b8656dbf927f93c269916b9f963ef722d1710297e3817158a6ade25b0d32d95441b4b9b8bab1f1093466474f2f552358/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494d4d1f05b706ab3f8318813ac780e0/494d4d1f05b706ab3f8318813ac780e0.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/29a3644982d5686184f63a0555e3d429cf0f27321184342e92615404107c81bea5062ce88f9dce8daebbf620e4c674508b086ecf1624bbb6901f47aa0f0f717c9146edfc9116d2e53523a189ce534eebda724b22b4edbe50c8f7535c742145b3a574e50944311bc289914df54a7ec581545c1e1c0e875c2ad2db2b6c5d4e42d924ecb9ab92409ae30caf8643e4733ab8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/494d4d1f05b706ab3f8318813ac780e0/494d4d1f05b706ab3f8318813ac780e0.vtt"
+                }
+            ]
+        },
+        {
+            "title": "JoJo vs. The Ultimate Lifeform",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8561",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4a953e7b69d44ec509b5094d81befdb2b30cf3d4aea5ae66e6bf3a1c2d0dd63fe57fd9805be7265b1fdc27fd84a8292b521ca0d776d306b897b4299be665559f07210c85fc3a107949ef6f002cdc6c212096f78ed3b0a283b7ca0473310acc407793ed8f9122269c3522fb53b942bda8b05d4f5f4fd2f990743631ee62ea8b86/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd8d74c31225eb990de8f88618244a6/fcd8d74c31225eb990de8f88618244a6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/4a953e7b69d44ec509b5094d81befdb2b30cf3d4aea5ae66e6bf3a1c2d0dd63fe57fd9805be7265b1fdc27fd84a8292b96c0d44e9ee96b5e58ecdc84a973ea936142e14faa858a5b34d8ebcbb949495f942cb81ef3d886560f21aa27d4f2347d2466aae3c27e6dc14c40fa69de4c4ad19ffc5652d1582473ecfae7d75616519689c032576c2ac2f65c0228e25ab4fa17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fcd8d74c31225eb990de8f88618244a6/fcd8d74c31225eb990de8f88618244a6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Ultimate Warriors from Ancient Times",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8562",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/800c24ffa9bda322f7a9a2ae451f91721b22ef945a5dbf100100ad1755becff3d1edf1886aac7c63b5a8d5e75e8f2c000e0699495dfe7b57634ea1307d7a3269626947a350cccbdfcd10617b6779dc93eabce662e10a411f3086bd4f26d8d0ca0ad607aee55d4c579308b91bb37f1e86676089241bf28d5d00e3dbb9b0486e95/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efa78b07ccd8482d5f294a7e4472a5b9/efa78b07ccd8482d5f294a7e4472a5b9.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/800c24ffa9bda322f7a9a2ae451f91721b22ef945a5dbf100100ad1755becff3d1edf1886aac7c63b5a8d5e75e8f2c00dec65cfb586cd624bd6e21e56079404503bde4948a042e9f4d9f62b47ea403634df3aba39b95e82a922bdc0a0f445c752b73f3d3672cce33180289f7c3ab599ca6baf64f6acc4d8b67d3e6f753d4d1a0cb54fb8c543ab7dca4051411c74fc46b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/efa78b07ccd8482d5f294a7e4472a5b9/efa78b07ccd8482d5f294a7e4472a5b9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Hero's Proof",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8563",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/18b4b66bff4e5251c0ee649c4d4600d082e6866246335e0af22ee10b0f9920bd615bcba270c09270eef9dc53913414e254de157116b01b0ce13edccc4300aa9561cc56c12b71f4bb24ef322ba887a78d70c65b049f1e0182fb9579ad8ddfbaba72f2958cf0134a02c9de2557175f4897ba958a642e351c02e1bce36f1e286ccf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36afedf5d3ac43678c699da6d23aa0e7/36afedf5d3ac43678c699da6d23aa0e7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/18b4b66bff4e5251c0ee649c4d4600d082e6866246335e0af22ee10b0f9920bd615bcba270c09270eef9dc53913414e264dced230be25af2d26a80d57428387c5055c9d42661ae9a861c856b107ad47bb5aa8cb7ab2fa233109a2a08e20ed2fbc730af7c3b1ac05343bf3f9b90572508c6e47d64c08e4083abd790e34a619bb3e24f79ace63a7b9efdfd7c72d48cf0eb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/36afedf5d3ac43678c699da6d23aa0e7/36afedf5d3ac43678c699da6d23aa0e7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Lisa Lisa, Hamon Coach",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8564",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c32fd47ed4f116621f871f108ce8d7c72644cafa1d2506f5b9f055d2a0c7fa7c0c3a83ff01e77c35d77590afe8765a4fea1ab674f669c0774b63c39e3d5dc26fdb1527a96cfc422a538cb2cdc75e0427b5bd7dd0531d2ea2a7c0e05dd352a75f8a0bf5453d9d8bf5d9aa7ffd0b21f45649ae4da145addb58f95b935677a1e1af/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a7e609cf5ab9480a102511f6260a3cf/2a7e609cf5ab9480a102511f6260a3cf.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c32fd47ed4f116621f871f108ce8d7c72644cafa1d2506f5b9f055d2a0c7fa7c0c3a83ff01e77c35d77590afe8765a4f3e37894926c9aba48c54b2ca8336bda570b30d584684ff54473df0cff415ea5f97b24a92feae4957c95bcd1a59f08bffeed8478e5f5b2691bd93821ecb0951ed8592343319c6cd3d66a513c87002004586931106be35d9862c791a08bff7f399/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a7e609cf5ab9480a102511f6260a3cf/2a7e609cf5ab9480a102511f6260a3cf.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Deeper Plan",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8565",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/62d5db4c5d1e7d4ac2e341e7855a6fa58ba2e88300a5f66a05608cad540ef9904d668fcff53e9971d127648ce834d697e14da0d63703c60d355121998110f4cdbd42e7b1b4fe40eae10f34ccf9891fa78c2b43867b6057034edae250ec05098144d27908062656790cf69b814c190acd0208b536a05811cb7d7a34695fa38bd1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/625ff916527f4352d08f37a75f3c7834/625ff916527f4352d08f37a75f3c7834.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/62d5db4c5d1e7d4ac2e341e7855a6fa58ba2e88300a5f66a05608cad540ef9904d668fcff53e9971d127648ce834d69743814621c5b6f9ba76a7acfc9661ea0109fa3202cb3a6161bfbbeae4b79fe78978ec160b0a56ef0f861aa7f4943aa1db8d43720c062229aa2fdda3783032f255c59798b2a89b055e65a37d6680cdd931f7acf39162ae749e5f9a655394012f40/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/625ff916527f4352d08f37a75f3c7834/625ff916527f4352d08f37a75f3c7834.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Von Stroheim's Revenge",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8566",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ba1194b44ed5d860b477dda0230dfbd4678fe55cebb3d16af6839242dde0cd64a416fe39b5b6e0d46f6bfffdb8578c674ef06c891ce49ea8790792f169692de77d2baf3ad4cfc730b803540ae935a48d7023e97e0d7bca1b57033a362320641fa949c8e2019234e030719c5b648772d37969e7a92a2c534bd1a3e62536b86fb3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01ad3f1cd6424c8b6abd556ff0b670f6/01ad3f1cd6424c8b6abd556ff0b670f6.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ba1194b44ed5d860b477dda0230dfbd4678fe55cebb3d16af6839242dde0cd64a416fe39b5b6e0d46f6bfffdb8578c67f20fa8560f11afa77bb13084f9b4a98e159cab284bc7d3c6d0c33f26750a93667fd2881215a78f18148003e529e35892b09f9919f63d6b8b8f2e049003f1132b1677364a93300698f448789c05e409a573e79912317b17d329936a0e20e1f68d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01ad3f1cd6424c8b6abd556ff0b670f6/01ad3f1cd6424c8b6abd556ff0b670f6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Race Toward the Brink",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8567",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5c5d60e97a6a7c87e4b6987be30292ad8e93c9d10ef81b81642421a3427dbae54dcbc1b40c100de29cc77814b0fbf6fe5d5e6f4ee38a9a021a84176a76f710e4319603319a29d2d1b95e974731b9c25eb8820ef8ba52a23684efd468b3d01bca3c8e68bd092379304c939eea318e4a44457c574dc725d42e3d9f36c194d6d7d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eff0e9a75ea59c5528cf2e3b65e10642/eff0e9a75ea59c5528cf2e3b65e10642.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/5c5d60e97a6a7c87e4b6987be30292ad8e93c9d10ef81b81642421a3427dbae54dcbc1b40c100de29cc77814b0fbf6fe045155285f3e82c95349408b661bc79c9c3ce689890db06869d86683c48793eee21f8beb63eb137d0a9e7be27c8379f9b4b728fe6e9030e88026261cac4db4783c14484385564a2a62b01e57637a6d471f3c3f6e38d4aeec41b24ca21e5f18ed/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/eff0e9a75ea59c5528cf2e3b65e10642/eff0e9a75ea59c5528cf2e3b65e10642.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Young Caesar",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8568",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/c5608294fd91e7478f400ccde132fcdfe3436473ce25427cdaeab6a65a5f546118e79ab9ea0f7c4b2a7a27fb172fcba699a15c3e21f3e0808edea9fd1647e9266a718f42c851e0bb723ca26937f7c7b7164385dcfa6dad32329825d6f4c141298a8aa1939112cc055f9586ffcc80f76022caefa67378faee7be307edf946961b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/558c2476cd900ebdbd256b35c571b15f/558c2476cd900ebdbd256b35c571b15f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c5608294fd91e7478f400ccde132fcdfe3436473ce25427cdaeab6a65a5f546118e79ab9ea0f7c4b2a7a27fb172fcba69400ee8bba8041b456f8e3723c743a8bcf5e2b3cd035a8b32713b9ebcd48b0facdfe2dcac4837a753b3ade6c84008b7280fdca5713fee2ad3fb64b6989b1d6121ad656e4c9da498c93c92147217b498faab2f09586278f8605f7aae8e72a0217/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/558c2476cd900ebdbd256b35c571b15f/558c2476cd900ebdbd256b35c571b15f.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Hundred Against Two",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8569",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/ce0291fa436cd8b1b957d74490c68fccd40252d358f045547dc8548f76189906f2d5a1bc1c6efcb312e5c6fad1270229183b8dc383931b28289efe12364d30554c951afc35f8f150f5ea90fac8d84cdaaa6f7722a47f00701a9529f2b842aaa7777c3c589e4773f6c132ff37d686b6151d4bfb829724ff14ed1bb6592e7e9cd7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d0c533ac17202e27706bcc0fe4539f2/2d0c533ac17202e27706bcc0fe4539f2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ce0291fa436cd8b1b957d74490c68fccd40252d358f045547dc8548f76189906f2d5a1bc1c6efcb312e5c6fad1270229df95becfbfa42d0c969251a7f18daf30767e923a51d5e2403924dcefc67d99c15a9495df8596997efc067650412cc103e5d55daac7e7ad266dc036b2e5349f18e37ed33574776a593ba104ffd57f694461ed41b1c45aae93f3c114983440436b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d0c533ac17202e27706bcc0fe4539f2/2d0c533ac17202e27706bcc0fe4539f2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A True Warrior",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8570",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/a69957cf018ee4f2f3fce619249b6c2ec8224e7a830b499180987dd16a100af5c57ccb13e9597d68804f21ee75d93a4c48e722385b28b43bf7310dd559820681e3da020aa0ff624f0badb1f94c34feff39ed2ce9e92e202acbeb2a7956caaa408a2ee76b54813890a31d94724107316a35eb4d55f42ab08418eff1c02af675b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e6bbb38d8e4020feffefac6ce21490b/2e6bbb38d8e4020feffefac6ce21490b.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/a69957cf018ee4f2f3fce619249b6c2ec8224e7a830b499180987dd16a100af5c57ccb13e9597d68804f21ee75d93a4cd7b34a3d8731665ae925f9578bc99c5f0274c4d16105ccacfdc03ff5b36a341b1958b62f9617bf09583e012a302ec99c9a9259026ec2590948c299f83b07dd5850d36aa937155775e909ad3c0ce1b7d9d6ce08d4958107f79843adc2024b2b14/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2e6bbb38d8e4020feffefac6ce21490b/2e6bbb38d8e4020feffefac6ce21490b.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Warrior of Wind",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8571",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b1c718aa2e577221a9af12e23d22c1b3ed49d4074af42fcb38ccdcc4ff8a33c9d5030fa833794fa16e4bc2105c02123a94f0b12e70c3d70f2f693b7a6bbfd0e4a2e23886f96d72a62a42d8b440bc085fe5fe5a943a049b30d86bab381f86ee46514950f16e7747a5cf575cf1df74b266114d39dce2f58f907afdbdb916028b50/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a152b575fccf274d29cc371586f5c38a/a152b575fccf274d29cc371586f5c38a.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b1c718aa2e577221a9af12e23d22c1b3ed49d4074af42fcb38ccdcc4ff8a33c9d5030fa833794fa16e4bc2105c02123a66665d550f1f5afe596da8ae275cf2ab9f22cd609dcd37692e5ddfe8ca2a522c00f458a8775421e5d24050249832d4d48849a6ac4a375219e8891caf02eccf97a7aefb6d5f9ff7843899ad6643ff70470e30d4c9df63bbcc243e4cc16ab371dd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a152b575fccf274d29cc371586f5c38a/a152b575fccf274d29cc371586f5c38a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ties that Bind JoJo",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8572",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/03f7efcb7d00242a635317da71620bb59e2e4d6600149038a40de03f6f544455c32f5d3b79a3a8ed1a28e2db5422bc30c66f3e0317ed6a109d61b22fdc35b3c524b6f3039e306b026365707898760fe33ab03a38c56011795e2e23dac5bd3a78de18fac4fd3c0536eaa151e1b9499887d08a8fd03f4adb548accd876f681bf9b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/355b377e579dd9f9ad496e81e97369ba/355b377e579dd9f9ad496e81e97369ba.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/03f7efcb7d00242a635317da71620bb59e2e4d6600149038a40de03f6f544455c32f5d3b79a3a8ed1a28e2db5422bc30c51cedd6973f27a124e5320a17df36cb11fe1fe8dbde773020184eb77967d97a75b45a6d961001a24bd944b164594373d5ad753b3dff4d8eb4822d3aecf8d1a71c54395487fcd5e291277e1096f95b15afa4aec7ec47e2f814b02572be53eb33/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/355b377e579dd9f9ad496e81e97369ba/355b377e579dd9f9ad496e81e97369ba.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Birth of a Superbeing",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8573",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/b193925d65df4bb6493bd7d08d025e72ad35c45acd1faeb7cff18c38e3bfe9e6ddd513a344f93e883df194544252772bd2bdcc955d5f7a3410e185a1a10bf767b106ceb811fb72cfd56f9772ffdac8cbd3c5543607c559c0e46f7abfed68fd6bc89a0638ea6c3810b199068dc1d7c9e69e43786a8b421103e3b4e694804cbcb6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/179d0f17f7650e601268b066001c30c7/179d0f17f7650e601268b066001c30c7.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b193925d65df4bb6493bd7d08d025e72ad35c45acd1faeb7cff18c38e3bfe9e6ddd513a344f93e883df194544252772b5413a42ab9d73e2401102a98930d51981744f208123a03cf4ddc15d66cb8846ba5104b96632601eb3519d7bb8fd77c008c67ae553dfc9e1e8fe6d63c2f2be73a5c60683065d0bb52cb2b25a1cb79f87921d72fa3016ae3c5838e0461d98bac19/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/179d0f17f7650e601268b066001c30c7/179d0f17f7650e601268b066001c30c7.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ascendant One",
+            "episodeId": "jojos-bizarre-adventure-uncensored-368?ep=8574",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e78f62e1d779357e73df85f801d426d643e073615b738369ab4469b460eb152c3e370882cce9449fc82dd0bd964008e01dabf916fe61ea9a1b0a9db7af39f09afe866990d55a7dea150278b675476a33da958c37842b8198d2541e13426f0035b1924556fc19170025f6022a04a5c0bdfa6ba97a3bfd12c4c1e885a22871144d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/970229a2b3496e7cf2c526460eb47607/970229a2b3496e7cf2c526460eb47607.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e78f62e1d779357e73df85f801d426d643e073615b738369ab4469b460eb152c3e370882cce9449fc82dd0bd964008e0ed6fe91e8f0bf939420523bab37f26a740e57db60a01b99a8034b06c071ba6138321c5362aaf91ce23e818d570218fa0e3cd85627692d9535d7ad7dc1b03a7f5d8a82bc9454d652a8a6e9f7e474f89c5202ac55f04392c16d8724ebb323b036b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/970229a2b3496e7cf2c526460eb47607/970229a2b3496e7cf2c526460eb47607.vtt"
+                }
+            ]
+        }
+    ]
+}

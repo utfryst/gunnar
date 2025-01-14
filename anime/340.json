@@ -1,0 +1,1416 @@
+{
+    "info": {
+        "id": "cardcaptor-sakura-340",
+        "anilistId": 232,
+        "malId": 232,
+        "name": "Cardcaptor Sakura",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63cb3a28f74a5233ce8309774cdd8ad0.jpg",
+        "description": "Sakura Kinomoto is your garden-variety ten-year-old fourth grader, until one day, she stumbles upon a mysterious book containing a set of cards. Unfortunately, she has little time to divine what the cards mean because she accidentally stirs up a magical gust of wind and unintentionally scatters the cards all over the world. Suddenly awakened from the book, the Beast of the Seal, Keroberos (nicknamed Kero-chan), tells Sakura that she has released the mystical Clow Cards created by the sorcerer Clow Reed. The Cards are no ordinary playthings. Each of them possesses incredible powers, and because they like acting independently, Clow sealed all the Cards within a book. Now that the Cards are set free, they pose a grave danger upon the world, and it is up to Sakura to prevent the Cards from causing a catastrophe!\n\nAppointing Sakura the title of \"the Cardcaptor\" and granting her the Sealed Key, Keroberos tasks her with finding and recapturing all the Cards. Alongside her best friend Tomoyo Daidouji, and with Kero-chan's guidance, Sakura must learn to balance her new secret duty with the everyday troubles of a young girl involving love, family, and school, all while she takes flight on her magical adventures as Sakura the Cardcaptor.",
+        "stats": {
+            "rating": "PG",
+            "quality": "HD",
+            "episodes": {
+                "sub": 70,
+                "dub": 70
+            },
+            "type": "TV",
+            "duration": "25m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV NIS America version",
+                "source": "https://www.youtube.com/embed/luM4oGFSpT8",
+                "thumbnail": "https://i.ytimg.com/vi/luM4oGFSpT8/hqdefault.jpg"
+            },
+            {
+                "title": "PV Blu-ray & DVD Box version",
+                "source": "https://www.youtube.com/embed/IWLYyLFy-2c",
+                "thumbnail": "https://i.ytimg.com/vi/IWLYyLFy-2c/hqdefault.jpg"
+            },
+            {
+                "title": "CM Blu-ray & DVD Box version",
+                "source": "https://www.youtube.com/embed/zIW3vqhmOH0",
+                "thumbnail": "https://i.ytimg.com/vi/zIW3vqhmOH0/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "tomoyo-daidouji-549",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bcc477022c84c2852bd073202efd034c.jpg",
+                    "name": "Daidouji, Tomoyo",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "junko-iwao-1271",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3e2833e0a43b67d12c54b2c68db458c4.jpg",
+                    "name": "Iwao, Junko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "keroberos-692",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f3c906752fb575fad8bd02d00194f62.jpg",
+                    "name": "Keroberos",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "aya-hisakawa-507",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c829f80ebf796183734ca37a45ce05f.jpg",
+                    "name": "Hisakawa, Aya",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "sakura-kinomoto-222",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/17382871b4fc726ed02f9b8d2a2c0cd6.jpg",
+                    "name": "Kinomoto, Sakura",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "sakura-tange-586",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da595ee23ea8e1d5888571f6921bdad6.jpg",
+                    "name": "Tange, Sakura",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "shaoran-li-410",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf09d57a9db1c4d7df56862369adb8ea.jpg",
+                    "name": "Li, Shaoran",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "motoko-kumai-1390",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a4b72383e2f2daa9ae3281f53bf28adf.jpg",
+                    "name": "Kumai, Motoko",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "nakuru-akizuki-3853",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7bda7282f619113f4290a7b556e9bb5e.jpg",
+                    "name": "Akizuki, Nakuru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryouka-yuzuki-333",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/958327552733e7d2b3013d1b2c8e39ec.jpg",
+                    "name": "Yuzuki, Ryouka",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "masaki-amamiya-14247",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aaba9a0ab681b20800c93c6e89405bcb.jpg",
+                    "name": "Amamiya, Masaki",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "osamu-saka-3082",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da011108a723571b2f25a7d47a8b5ae6.jpg",
+                    "name": "Saka, Osamu",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "カードキャプターさくら",
+        "synonyms": "CCS, Cardcaptors, Card Captor Sakura",
+        "aired": "Apr 7, 1998 to Mar 21, 2000",
+        "premiered": "Spring 1998",
+        "duration": "25m",
+        "status": "Finished Airing",
+        "malscore": "8.16",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Magic",
+            "Romance",
+            "School",
+            "Shoujo"
+        ],
+        "studios": "Madhouse",
+        "producers": [
+            "NHK",
+            "Kodansha",
+            "Sogo Vision",
+            "YTV",
+            "Madhouse",
+            "Nelvana",
+            "NIS America",
+            "Inc.",
+            "Geneon Entertainment USA"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Sakura and the Strange Magical Book",
+            "episodeId": "cardcaptor-sakura-340?ep=7642",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/28d6a5ff63610a7491b45a86f23e5b275ba5a6e843e8043a196b24f9df77a09100b8180d981d1aef3719cc408aec5a7ddde1cb530336a803e26787f389002f50ce28fc3b984cbcc9357d776ab58f4b3105d7968208a1636c6a72594878ffa5d47be585dfffa2e9218f3a62d0eef778873ba08a6b2d45784b9ebfa18837803045/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/28d6a5ff63610a7491b45a86f23e5b275ba5a6e843e8043a196b24f9df77a09100b8180d981d1aef3719cc408aec5a7d9542f3dbbae9a8fbbc57e6cd0ee8dafaee7b82112a6aba3f079d297e2c75557ddf9d1917b26c17eb593c36bbedf257cea4830c80f8e716491026c18093da2f097fc948289abaddac4ade043d947a84470252e88934de2e279a0f59296042cc32/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Wonderful Friend",
+            "episodeId": "cardcaptor-sakura-340?ep=7643",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3b72fc7faa11967d23065c730ab6fa81b6c91d9517d0ad547ab697c043b79cf53f458afeb7e6df6299350618d3657b5361e3fcbdb6fe74c8d0db37fe37cabe9b564d5ff241be9aabcb5917ca435298be12191678cd1a4186e4031f6ebf5b1f03937c1878f3ba197e6be750e0882bc7949aeb91c1e35c3bcf87b88f3edcb4150e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3b72fc7faa11967d23065c730ab6fa81b6c91d9517d0ad547ab697c043b79cf53f458afeb7e6df6299350618d3657b53b13b3882748371c727bb4c4e255b4189009e1012b13790b9fbcc686394bdd26f742250860c55f321505ad0a9acc2aa968c5279e86d0621f88744f4dbccfb9ed444c345742f101598249a62289ea9ad82ecad5867cfbca5898ac757195f4eed9f/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Breathtaking First Date",
+            "episodeId": "cardcaptor-sakura-340?ep=7644",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/ea604856c076248c73ce5898540b11a665ccb323692b77d9a186459cccfcd4927c00f356fa99c5965c6a355c21ce37cb24b5243727c8eb8caca7782853c45eec30edcd2b8cca9b7ce6d7b571859acd4ccf1582e9df0182bc61e7265c4af7953556e3d6073ed6f12fd1ac0c05e5f2a0c81c738ba0fefe1e63c1d05c93fe45bfe3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ea604856c076248c73ce5898540b11a665ccb323692b77d9a186459cccfcd4927c00f356fa99c5965c6a355c21ce37cba9a3e5b28387ecab13512a500f0c32cb739c3e2f0263c0b9fe9f70d04ad3386a44f95f78b5b0ef84a066b5d4ec84c227f0480283560c25c8c15b0fdc230f199103243e658ba36df248800629c8ba79c416d33d07818b39dc82ad8022ffc2a87a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Exhausting Sunday",
+            "episodeId": "cardcaptor-sakura-340?ep=7645",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/4866c1c2c40d122688bebd6dd5b06f4cb932704b2096d0eb2a3c8f167a1ca75d1fdb688c335553b95cea6e97e95b92bca9f0bb2aba6e62b4a04aa2b1ac48bd4f7eaa307df984870c43b80279b1242bfe581d9c8cd83e0ea4bc7e809ba72d9eb47843cbd9936f5a10eb202d88a6ab2d31b4028ecd379daf269bf18fd6fb4e224c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/4866c1c2c40d122688bebd6dd5b06f4cb932704b2096d0eb2a3c8f167a1ca75d1fdb688c335553b95cea6e97e95b92bcc091ddb41f19bc1fa2cd7dfb5ad138a51cbe2e26c4306e74600b1c39dd29beb4125cbf79e96100eae52ed849c95a042b2e9bf98b4a5ed525a9dec49137500264aac2bb4bb128767c7c825ec2dec4122b9dab6f1b0d6ef03a66997dae58de0c29/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, a Panda, and a Darling Little Store",
+            "episodeId": "cardcaptor-sakura-340?ep=7646",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/0bbe5b17f86d22fdbca15da77d6787110ca17e59f1bfc61d54c3b6b755371aa85904846a36b03358145f6fdfe185dc63d260f1262ce75dcc1fd62389d1e903458c1d69aa135e6e4c744ff519bc38bbe3d2318ef70632aaa73419164eb641e85122b566444a1421643ffc5d9c07a3bc2bc5184228ca63d1245e435619b312091b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0bbe5b17f86d22fdbca15da77d6787110ca17e59f1bfc61d54c3b6b755371aa85904846a36b03358145f6fdfe185dc635431486b255fa724c1fc3843ec6f59e2879199cab6ef1df8221e71381645c656d3277c3ea6861c511b97ecc6982353931ca9493fb57772d8134ecac32a9b2a951f7a04d060d93a48900178860301bd4779806e3a0fa91b6f10da1e7e03d53ee6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Memories of her Mother",
+            "episodeId": "cardcaptor-sakura-340?ep=7647",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/277880bf88e66a0adb1e8f78468a0f1c270eef52ea86fc0da7fc766d5c4a1173a5ed2257913182b074794b299f5ecd1f7b8424efbf00017d9700ccb0fe105e08412325518e0ae9a6c2bac5558faac207d90ce681dd3affb5abc9450f0aa002e466ab8b7f6c64897e833019f68c35a1df3c4594294eb4ed5d07db2a4d1dd1ec8e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/277880bf88e66a0adb1e8f78468a0f1c270eef52ea86fc0da7fc766d5c4a1173a5ed2257913182b074794b299f5ecd1f59f5d12457afc8b736860882d5a566c74a0f81dc4905f32bb72b06f449e8ef5b0987a6ce2591ecb318eb85bed7b41948c81a7196658f9fdfe79656f1f9a9b18dec2e1aefa16cc442f9ffe4cff751a3e8e61dccbee614637abcb2fa49172761ef/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's First Attempt as a Thief",
+            "episodeId": "cardcaptor-sakura-340?ep=7648",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b7bcd84eb43588184cf572dd829b2f435cfd2ec552871f3f158d5bc07c294b1d427c07625549d76667c11ca9109828ae52583e4613ce3025a35253ee02f54f5f4ce49d0414220c050d4244c8eb667fc517a0298915dd8ee356e61372ab749bb6acab733869ee7d7704b32d0caeb845151a7e590cc18206c5c2d6a77faa48407e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b7bcd84eb43588184cf572dd829b2f435cfd2ec552871f3f158d5bc07c294b1d427c07625549d76667c11ca9109828aeeba776443cccc0f6981417ecfa467b0f804d0d10d92e9a16d306ff36f60a9267fb1a8d0bfa7f61d3a0f900f999222a2a8e33ec565b891ac43ac26642fdce504e29016d0dd38cad84bef0da0df29d9ea3e66b9925dda1900b6b54c3221deea598/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Rival Appears",
+            "episodeId": "cardcaptor-sakura-340?ep=7649",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/79e21bf703656a13084a6732e6576d2b470fba6126588a6bf2711ff94291f55a5fb954aaeb013fcc646c639d52df33cc100351b5f13db1b434ed01b0a5b921473193ffcb780504c6b27f1567892e13f98572d1f78cae2c365f96a1b2c29e376185cd666aa8c3f34a15ab242f57ef2cc8ce579fd6a4e4664aeaf90ff20ffa97e1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/79e21bf703656a13084a6732e6576d2b470fba6126588a6bf2711ff94291f55a5fb954aaeb013fcc646c639d52df33cc37ebc4abb5cc6ff0fe5c5672166bc7ecced5c39c0890708b1315bf1645257bdd85757a1478675c3fb19f6e0bb70178dd96651828f40603d1d44a8efef6c5cedfe6c417650331cd4adf00478e996b69ef851e76b0998601a191b56b37b3ca4058/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Mysterious Brooch",
+            "episodeId": "cardcaptor-sakura-340?ep=7650",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6117bf06d77d56a9026a2eed2273d47274cd862c2c6932d156d14382c24cc3dfd0ca53a2f2cb723ece9d42c33a4eb5ece93a67467621e2eb925e4a18a17b56e9933bdd11aedd0945cf9c5cfe57202c935c3b4586401941f07c2b2084400622541b76b6a1b52bcc2c46a25cb8fc13b79965e4bca2fc1837e431d0c5e44d3d358f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/6117bf06d77d56a9026a2eed2273d47274cd862c2c6932d156d14382c24cc3dfd0ca53a2f2cb723ece9d42c33a4eb5ec6c368eb71e3ba12ce8b8cd1e6a5b4f3eb526632406c1b3a13b98982bfd212ccf7b8538216cd7ff06e7ddd25d537ded1df4b630b71e0b0b6a7c61996478bb3d9ecfe80a3b4a9b659d0cc2ebd9966e3442e01b6996f3fbe7f894bc65d19f68f6bb/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Flowering Sports Day",
+            "episodeId": "cardcaptor-sakura-340?ep=7651",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2a170a93b24690bd92cda32582c0aeb11372cb239890673d604439c23dc017dc3f309d05801278e4551fe02f57368b0b096f988f9f97e8aa671d2ccf973a64bf90cb6bb9a64795983cb9d776796dbd8d44b8be88ce825d5e21c672e789c1caace06dca9c58f0df199ce0cec5a00404efef658a3d8cb3a8fc4fd35875b4168faf/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2a170a93b24690bd92cda32582c0aeb11372cb239890673d604439c23dc017dc3f309d05801278e4551fe02f57368b0b2d81efa0298423ee4fe692069b9c0a99826057b72cdcc4c4541965b196c395fa7f54fd51a87af88c72890242d4103995110f0ef495adbb26e4d324bc3003f7b66c742476f58a09783929639b1bc8d4243f7d3c9ff49d5bd37e57b85b3403c00d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Tomoyo, and the Giant House",
+            "episodeId": "cardcaptor-sakura-340?ep=7652",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/8939decc6292d0f9a1a856d762c4a851c1cfbe0946adc3aed43eb7791814e2239581cf43314d6b157fdbd393dfc6aae06a7ababd7607fb45b2a848ec25619abf219424aa0da452ead812dffc597f7288c099470cd910f713bdca778f456ad86a3f1e5fbaef1bf6daf9b251db2471340a166e740bf561bff332e92834301f5f9d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/8939decc6292d0f9a1a856d762c4a851c1cfbe0946adc3aed43eb7791814e2239581cf43314d6b157fdbd393dfc6aae00411c5d84e2f5d14c7230a2dc68d5a590115a564d568a0cf950b02af08d894889c320c4f19e8032e8a8a353ba3963f266821628dacc2449abd4d46416ab88cc2a449bb663334bfb30865563a1fbacc3014e500a9d5796c1604547dfcba7e1819/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Never-Ending Day",
+            "episodeId": "cardcaptor-sakura-340?ep=7653",
+            "number": 12,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/544174fcf1501ebc19e79f4da577435b43ae9e86a3d9b748feba5e59aaf9a59b4c616f5b45defbe278f65073614a299d78552eab4a02003d6184e042ec95e02ac53d7f562ba6e62b469f0484fb2ecfb51d02a80fe72ed518198a5d3933a9e0e72d661ab4a4f47ceb5d4949977c31dcbb89f943d7b652c7d5cb5de06a43ef1a9a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/544174fcf1501ebc19e79f4da577435b43ae9e86a3d9b748feba5e59aaf9a59b4c616f5b45defbe278f65073614a299da880acb7f6a6a5d5276237436ac7b414afe7464098cc943d3704ae54edf95e03e9d713c1f18fc29e93df9d4f1f41be9d695c654923176568f46208633557ddfdb868af884cd1811593402dee18c182c176a224841639a37e29f41ed36efcdc93/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and a Mammoth Test of Strength",
+            "episodeId": "cardcaptor-sakura-340?ep=7654",
+            "number": 13,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/02daa865c392919eef6c3ee1f83e830c6687a6c76a9ab5490da9acfce1b7268655a60c1ce8afda24214c7d1a5740065a675c30fe3eef55311a7f7110c27d20bb28f192923d494a84c59ea7c3d387a822a60898b1f09a7c3bf09dab2d97cc87d53d11d228cde72ce3a627535a601c3aeefdc2ba2ed2a75265e56e8050a07f8431/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/02daa865c392919eef6c3ee1f83e830c6687a6c76a9ab5490da9acfce1b7268655a60c1ce8afda24214c7d1a5740065ad4669b8dc9c3e8e092db5e336b70ea04141c24fe4cb9bdcc06b425f1e74f149dee00a01e8ba6c6eef06fe2dd3013ebaf7786d0e5b95ab6142f43fbe3a7908d8929a9cbaed673e0f58400b1a0b6969a82eca3994f3629fbee181be3163bcdb4d5/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Toya, and Cinderella",
+            "episodeId": "cardcaptor-sakura-340?ep=7655",
+            "number": 14,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e25d850b20da1d0e9eb9a5acd30082ac89a19c291d9ec83798164d3b2e35dea9bda08938879882b84d4112ab5b700e0f2c7601f1e477b0a9a50c58a10a7d792efd553e7bf28919c34b48dfb8685d2606f132e2b57a0bc2b250374643754c3d6c38cf9db4c11c388fbba2c569fc0e6c435c403514f0c70eb38b468c9d596d4fb3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e25d850b20da1d0e9eb9a5acd30082ac89a19c291d9ec83798164d3b2e35dea9bda08938879882b84d4112ab5b700e0fe1e324ad50f7eb7fb3dc65e561b19326988971c33c57e340528dc64c434d505fd1a7767775b1e104a2bb5f7d1414a1f1c2a2aa5eaeb65684b8fe42c1e5c02a08cae13fa54a2d48d1fa3c258a4fb82ba28745d13d48cd8a1e00d7614fcca8d800/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Kero's Big Fight",
+            "episodeId": "cardcaptor-sakura-340?ep=7656",
+            "number": 15,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/aa1ac28007c80ae5459baebd162bc988aa2528762ba2a4ae66102af19d056854d6da90e060fae9866aad187ef460d98e98f08b16387fd6266aa6d7caa03b5f4cff39bfa5def1e7175f8c15de86feeb8b831f4ac01f1a5aa5f9371791ccd5b870645334acd3afa13b692a23d3a72e10f149f3bd33f2d7ef53a520ebd4725edf10/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/aa1ac28007c80ae5459baebd162bc988aa2528762ba2a4ae66102af19d056854d6da90e060fae9866aad187ef460d98e8e288283b24a626f9e3469dc79bcbe16e3cd4e1ad1278a1242d6c3f9978f3f6a90b393d0366a2806de8a1c28868770dac8d70125ead04e7b3f86092e32d868637808f854374eda758a5c8d195b42008a2b1f39e5ae816b7757b46856dbd48433/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and a Rainbow of Memories",
+            "episodeId": "cardcaptor-sakura-340?ep=7657",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9a5d67b762a95c59ff6dd660e0fe522af08bfc9a6aded75004e932a8d44e2e9e35cc23b0bd9ecf1230d174470365b3b930d75a7961761db9cc4d42c685d5136e6fd1268f86095288f6660afa92c47a952a389fe53b1b83216f9828eacee74f9a397d9ee1d4622c786eeb3e5b28ef12f4d96b976e8f1a298d5181e328a7c45e1b/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9a5d67b762a95c59ff6dd660e0fe522af08bfc9a6aded75004e932a8d44e2e9e35cc23b0bd9ecf1230d174470365b3b9a57ff671b8e9110c0a359a551d8c7f7aba5d10f6b8f83460aacec80fca1c847bb9de7abace91bd0169ddbbfdb7074b1e898a75a8132cb021cb0f8ceb12f65b407113e8b495a6c3abebfbcc0c6a15983671714df424191615412a6c61043b1021/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Terrifying Test of Courage",
+            "episodeId": "cardcaptor-sakura-340?ep=7658",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/4aee7d077194e5e00d2d200a3a38296ae21a34d8cbd1fe2180d4e27e55e8b537a119346e071a92af92a623ffb88f791bd58ef3c35fd789d4011851f4cce2ee1e02ac2abe0bc08dd70125d7b7d556240bf0dc6e61542c8d33a89a96456618900c764624c1ec5fd804789d10288c7b82a4524e6c331550b995c67d78407f52c351/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4aee7d077194e5e00d2d200a3a38296ae21a34d8cbd1fe2180d4e27e55e8b537a119346e071a92af92a623ffb88f791be26f810734bf511088eab858933d829ab3e90c9e3972ff66229811c8966ad9350b28c3787348a4a9ce1771e07d7913d83c5d589b2f45b0be7ca8b3eb7101434082d7197528cc3c997df3268a007d1a34cbb9f99c7b5416f6f88dd96e4533d76d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Yukito, and the Summer Festival",
+            "episodeId": "cardcaptor-sakura-340?ep=7659",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/736d8e556858209fece6dc87e959a9c407bbf0ba28c7020f22152dec2f5c9dde065b2ede1c96f5b9524ec27a51d8e02c2d63aaf005e2273e58c0982cabf4678409a1a70ddd5c085fd5de08d525019ec53ae4c1280166ab6e2a25f0de98442ac2bf4f5ae9a73e7a0f5602739cfcc298743f286a93dd883ee3ab0d370354336d3e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/736d8e556858209fece6dc87e959a9c407bbf0ba28c7020f22152dec2f5c9dde065b2ede1c96f5b9524ec27a51d8e02c4b4284ac7a0f384dbb95a3d57314345300d2e1865307af60eab77a7a99ca4bea5ea11d078a7cec7534ddf0c2935bfdf3945cbe95bfbeed83c2c9812a8e34bbbe65b943a2b55f28b5f85c285b213ed9c3c90fe866934d5b73c55c9a3b3942ddc6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Her Summer Vacation Homework",
+            "episodeId": "cardcaptor-sakura-340?ep=7660",
+            "number": 19,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/136854283999ac16dc0542c495b91c72fd3b29a2500516e79bfaab8d6f2a5305342b21910cb3e9ecb0756af8a5c52d5715f535ae090d539a6f54f1141074ca4d7dcc838e29bc0386e3f90a8749dbe04add7513adb59528a3bf3882317a85274a25df4b868cc49b13441e21e04cd476def820bfcd196a9916427e33399389fe27/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/136854283999ac16dc0542c495b91c72fd3b29a2500516e79bfaab8d6f2a5305342b21910cb3e9ecb0756af8a5c52d57f032bda554bc1490e1a5fc2701eb25ad41f58b6cda1198cdab7237374ed7732b69f1d93691b6fbc93787b5d3ee764fc230735b157de72d7543ffe0b208c9bcee095818706aaafeaeb36dc98c2f740f2376d14165ab494bb01fefa465d75d7e5e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Transfer Student Versus Sakura",
+            "episodeId": "cardcaptor-sakura-340?ep=7661",
+            "number": 20,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/afdb5a73bfce795ac0fa5f0027d7be842cc90cafbd34fcde9ab3affb31058dbd83bc906d0636c36787969c6e4cf986f5f58d19b5bdaae16f998911d0f6f3174d6ffdff843f95421a6819313865bcff7c8d8b8fef2e0206aaabf4b70d7cb61c58edce97fde077a94a22c235d88191f270179e16de76926854dfb98270dd9a0cb5/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/afdb5a73bfce795ac0fa5f0027d7be842cc90cafbd34fcde9ab3affb31058dbd83bc906d0636c36787969c6e4cf986f57c8c0886c4840756f2eddfdf5a66afb94fe61d0965e07ed654a0dba02dc0d0bb0f36186494d5914a607878b40e34388358210a2bb07aaa13b312d8b40bffdbc4b01e27c40a75ea787e19231f0a6b3b29b1a916b326f7f0107cea2a04f8414507/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Extra Long Marathon",
+            "episodeId": "cardcaptor-sakura-340?ep=7662",
+            "number": 21,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/92a90d07601a1a8b36c584a3af7290319648db5a0d378987fcdb0b3c42008957479b6416e87f7148730c5457697d19a84f61c911530f890e6ef3638ad2e58e7ecf3d9c593de8df6063264cc854c801c45d395f9fed044eba3cf6fd17575f777054ff0d88972e33cac939c6f4d1c18bfbf91a929b0bc52c03808b279c7ce418d8/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/92a90d07601a1a8b36c584a3af7290319648db5a0d378987fcdb0b3c42008957479b6416e87f7148730c5457697d19a8b50b37bd6469f2206ff3c2565955c4875b5df4e10144fc23935e373b022c35982180bc99d6582a9efb2d08c63528a8e5944e076383ff262851548a789d075ec5f789b3e305adf5916433dfffffdd8bee8703fc32821609a65cd68ff4b6bc8021/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Her Caring Father",
+            "episodeId": "cardcaptor-sakura-340?ep=7663",
+            "number": 22,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1c8f22895936d323820a19da72f5404c2d40a5849ced809cfe335d21ffa9d4c53558fafd8c5f91a33682e43b1b11b6ffce7a9824cc7f53b950fd5083c7a48f9f09e94cf5f7c4697be7b0431510ac31a8d82019089a2c690fd2992f7a1ebd81c3a5abec88a997d54372716210ae18b6b47c06bb257e4c2963a6482ddcf702bcb3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1c8f22895936d323820a19da72f5404c2d40a5849ced809cfe335d21ffa9d4c53558fafd8c5f91a33682e43b1b11b6ff18e1582855f9a92d8981d5ce7e385097bf63e5e357f21dd966f15809dae3dfd6345afebdb98d8d21b073b9afc9902e9348ff8f55e8575bf1955964b0e26530361f4ea35a463d4dcc93f4521ff472406dd2be85dedf2548395b371cce630823a0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Tomoyo, and a Wonderful Song",
+            "episodeId": "cardcaptor-sakura-340?ep=7664",
+            "number": 23,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/53611fa11ce4e964ddf8de28ca8acd6d8d09b974ec421be50e05b7ca190409766dfa64418798f8643eedf7564a28cc09e802a4b84ab9285f2d1c56fed1b1a6720c7ed412e2030bb685b670c499c8d88edd2abf98636de34da31e6e51484bd0804f52155933fa7769d2486c140e333b9e7d07f079d5e00c912603e6ac9ba34ff9/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/53611fa11ce4e964ddf8de28ca8acd6d8d09b974ec421be50e05b7ca190409766dfa64418798f8643eedf7564a28cc09040bd570e14593046d8ac051568caa4ac6f89ab9c69847b058fb7db514fc4fa1f33077580b2a14c8b5ff448cd23c2714b04c1776ed0026b4f98848b5e6dcf5c28c52ed2c80735e4d117e96b66a7ecaa2f085d7d72f30cab9c05f6f0211277c61/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Little Adventure",
+            "episodeId": "cardcaptor-sakura-340?ep=7665",
+            "number": 24,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/28985c0dfbab3f281f63ced590c19c07a63b99a233dd3d3b5b85c86449135e494fbc1bc32d95d3ee441f3ad6cbac9b42fd2866e4e5c054f9c2da40ab025eaac8e096d0ec18c7ef375fd6aea777f5e904e35a6b4b1cd4f41de7ba475804f008e69de3e6644a66ae125b4a49f94c8da9201a70d25ece8dafa8b85162a24c47a268/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/28985c0dfbab3f281f63ced590c19c07a63b99a233dd3d3b5b85c86449135e494fbc1bc32d95d3ee441f3ad6cbac9b42d19dfd407f970e0404ffa0cebdec992a1ae2f453e590e2bb2c55bfaf975c2df9b3fcf680b8db473e8ed72a88efc4477b7b9713231010d595e4b9fd85e895b85a83c9ab623f9cd2724330aebdeac7d9ded06732c581c91f04a194b7f23a4522c9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and One More Sakura",
+            "episodeId": "cardcaptor-sakura-340?ep=7666",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/c8f8e559428d4e048fa4c4cf13545134dfb6124a516ea5aa79bf8f1279eb5c90cfaeb2f2e226ab5feeea9a44a408b21c286a5998ae1990c96ab98ad12236f32b9498ae25e07a74a1b7d5c036c4a89c5c5f78cafc572ad63650277a53f909785f3023e077bed6626732c415032429bf0df98ddec90f062bec9428ec38b7bc486c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/c8f8e559428d4e048fa4c4cf13545134dfb6124a516ea5aa79bf8f1279eb5c90cfaeb2f2e226ab5feeea9a44a408b21c2f644cad24d6a890e08e43182192004cd4f0002a2f03f5ec7cd7f0b95feefa13b6fa97812af84a260b3a1922b72083b4a2374ecb952ed66c83c7cb2edc9a8056a2c01ef4730ee0cb0f9d623359ab955b2e7a531046f0acff89fc97afb84d8212/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Wonderful Teacher",
+            "episodeId": "cardcaptor-sakura-340?ep=7667",
+            "number": 26,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/96174cf7d46f982eec0d134fb80c4c9c112fc82f5cde5de4a2122848ff5d5d61664ec3d6afd7139fa6b591bd2787916cbab4b2fd5aab3f1d74e3852e22ab581bd8153e04147e8d6154b9fc8834df50a029bdbbcb3611c339a639f5d4aae2e88b39d6d007d598f26085c18d7a90aead91c584b7233ef5b99326808e84c2f84733/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/96174cf7d46f982eec0d134fb80c4c9c112fc82f5cde5de4a2122848ff5d5d61664ec3d6afd7139fa6b591bd2787916c9bc0b509c6d618e670a1cfba7425d94c710d54459916b11c29692abc2d06784a1d279ce780bed3b8421f19cce926193e0be08ca1e5c27657c9400dbd5fb8c643fe282f846899f1125749956a9a4748ffdef2854032a56504dbbeefe73b67d151/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Shrine of Memories",
+            "episodeId": "cardcaptor-sakura-340?ep=7668",
+            "number": 27,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/be57392401b161aedcad7b7198496c3d2ee2f0431e08bdb446c2b2984b3dccf7b3e734cffb990926ff00181f3c0e6bbbb6c0f9fd7f97467fe700b811a04095ef79d6a13ea88f93782cbdcada200a840a957444868ffc232ee6841a66c6f248c121d16f1017e44f3362c8208fb3df1c0f7ed90be4790eb33e219122ba1f99471f/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/be57392401b161aedcad7b7198496c3d2ee2f0431e08bdb446c2b2984b3dccf7b3e734cffb990926ff00181f3c0e6bbb009e238babae057fc131db2f3f15023230bf73a88cfc30558d0348c9f0baa34cf69f248f46c9131cc1971ed4909cab84f8e728ed57ac16397a71cd8ffe89ccfccc61ce2f9f96f7adf64e8b16dd50ad195980507404cb8fad76afef87380d60ee/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Charm Cards",
+            "episodeId": "cardcaptor-sakura-340?ep=7669",
+            "number": 28,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/94b1b36c69fd59dbfde295b9572c208353497b70a9b7336e6e98065b125a35aaed93ee1767c63cc13fd6fc3065e850b97aafc07a674151d139509976aa9520f0f949d7c21cccddc878e1b2bc01004de6e9c62723ffd21a57e5446385ef89456db2ece70795a40cac85ca95639e4a39f9020b21e16743ae19140bf40bedae3d55/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/94b1b36c69fd59dbfde295b9572c208353497b70a9b7336e6e98065b125a35aaed93ee1767c63cc13fd6fc3065e850b9d07985e1464ca7ccd453870e0d86066313f211ac3943c5660a1cbdb68656e9a7fc53f967db66e582d4afbda9ba4ffca2540ae1e550a0ab26393c08b0634df673604a5ddcfcf6634f1e05cc2595f66302cc5e5981725403466ec104c9efbf0ca2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Sweet Cooking",
+            "episodeId": "cardcaptor-sakura-340?ep=7670",
+            "number": 29,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cfd579755edbf6bb25480af79ba49da1a69f846348b0053c5b8b7957e2647339d16272d08b45397a9ba3a3a85a55dec8c9b1a5282ea60ef371d53e25ea2cb36b55497aba6356111b5bb7b1d6bca26b940ff9cd10498154156ef1b26f9efa6d58e328fca6399aa3a7d4e8e37c3c352a9d610a91e4c0778ea2345e1ca81f331e49/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cfd579755edbf6bb25480af79ba49da1a69f846348b0053c5b8b7957e2647339d16272d08b45397a9ba3a3a85a55dec8e40b5fe9742dd29e5bcb2c186dad770a082513031c06da32afa4f439186dbb06ac6ebf0e48e18cbe0a56f5113f2774e7f1c780412f9bd70e69bd0f5bc5017ef0b8d8437482e9433732afe31f6b7467b52a9a7df10c3fcc495f4a9e1920d0a2d0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Injured Card",
+            "episodeId": "cardcaptor-sakura-340?ep=7671",
+            "number": 30,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4b90d4392ca7c2390dae6662d82ffd6441fe47a2ae199dfbf7c5dd44fa985a3ae8ebef43ed3b2195f60d6595e9117a9ba4b0e17c58c540b2f961884218273f90d472b931166438de52c1607418d14bd02b0d84c41e567dd8bf279cdcd48b7b016682fca84be22cb694bd9ac1a91035fb4dd995324f3355162e4b38ab70ed7a20/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4b90d4392ca7c2390dae6662d82ffd6441fe47a2ae199dfbf7c5dd44fa985a3ae8ebef43ed3b2195f60d6595e9117a9b6811fa5f815854e2bf64d7395e4c4a0fba7624a3213d2a70e6cf3490f119cafb202476b3cb1e60bb8fe45cc173feef69a9a8869935bdae1a0cdb49f272e7fb83860c269a53ca752f7aa578a10bab60863e815dc224018fcf6718418c2be6b810/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Nameless Book",
+            "episodeId": "cardcaptor-sakura-340?ep=7672",
+            "number": 31,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/246340f578e1c72c607510bb6323a27b965c408fee6274a14f479f63377346fab4792fb44104d423af06acb33149ea240e73c09c3e63e2dabe226f36bed738939860638d9f714b9900a16e9f8e0e853f46ad1049a4b25b953593d4f61388c5925b95ea22d41b534e7443efff6d437513cdceef75a65ad21687f7380ebf06b1bc/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/246340f578e1c72c607510bb6323a27b965c408fee6274a14f479f63377346fab4792fb44104d423af06acb33149ea24e41a79285d2c4313a07832bb80fd5a02c5f69347338200edcc3298400d0ee5da4be75bfb24a49f0eeb6b1759aebd4bd9f34d121846d31836206ecf9c23e22394e9ef73eea734e72dc3cdec8f11883521a82aea053e1bf09a81fd31a87367c1a4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Kero, and Xiaolang",
+            "episodeId": "cardcaptor-sakura-340?ep=7673",
+            "number": 32,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/3edd459accd902a75dc06cbd9983ae1335215f390e83d37c7fd3ab3155b5c6a491dda72713e05d6d5e09796172e98d85f645f0bbb2b2a0737d4b571884b7bef3688d9ec4469cfff70f162dccc72f91a3941127fc3cc5bdff7a9609ebf8bc267e3acc95a9e30756961c7bc70cb8502d76439bb6217047697e14443c5660567c02/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3edd459accd902a75dc06cbd9983ae1335215f390e83d37c7fd3ab3155b5c6a491dda72713e05d6d5e09796172e98d85b490340bbb3eeb6804e3153ac02eab2050fd7e7c60d8c853ac538823247c315dc8e4a86eda079203727f727b375451dab6a834687f800b83f02e3075c10bae8bde80883bb2181b1ef3a6ec74ab7daa986b09a2ca874bbf134c75223e96dcc7c7/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Frozen Ice Skating Trip",
+            "episodeId": "cardcaptor-sakura-340?ep=7674",
+            "number": 33,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/1be8d9825a87c2f85c552e9f93399c9ced0d541f21610f8183775200b2b2f9382d8bf199a8bddde7806081936a6a4e7326b4e55272b36b054340e8bdea5b1e57be9f78af296adeebca43aaeba40fc0adca28c4eb6664fa371ae3595065b47fdc9ecc9a458a80dc3fd918afc62046b0af0d47ed48dc85d021677dc4bbec242cf1/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1be8d9825a87c2f85c552e9f93399c9ced0d541f21610f8183775200b2b2f9382d8bf199a8bddde7806081936a6a4e73616116e4249d3ee6796fb6ed911c209985c43212e72fa687126dc46886aaa576cf92cda21886c8a05f01c27813321fe02371f988388c468c6faaee91bed855ddf97b9fc72f5a674f1c5ace2f2e54d8e27255134eb77fa45e3147c2d538a518ef/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Yukito, and the Midday Moon",
+            "episodeId": "cardcaptor-sakura-340?ep=7675",
+            "number": 34,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/fad9ae3646ebdcb68fecc2de2044e35305fc5cd97e1d185044f7cb239c93ebf35346921e8355ff549a5be13c8060767733685266f3665879a1269eda370a98f2bdb28d3d3fffb00c012ce5901108577e1d65d182c9606edbe284e74b3222060b4b8f498179fa9d87a65b598ba0e2032812d20a907d60d15a4073a71618e7c510/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/fad9ae3646ebdcb68fecc2de2044e35305fc5cd97e1d185044f7cb239c93ebf35346921e8355ff549a5be13c806076770f6e98d671a78658e71fedda48b62eb25171b6dbdde49a2522b17acb693d26a73fecf32cc3016f59dca04376b93e77a4e510f2cc4e855abf5bef704de475562b0ba8f1d4a41b6913973a9dabf341ed8d913dd63df07bdf1151bb10bf98b145f1/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Wonderful Christmas",
+            "episodeId": "cardcaptor-sakura-340?ep=7676",
+            "number": 35,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/7637b23a76e46fa942f2f3f144a63efb7b005862f917b121c55dd5210be12d2300124a3abfc405cd1e5c7a0ebd4c9ee5ca23a6fac79f4cfcfbeb789cf72327169dad7a9bf719093a9850e4d511040c18774763d0b3c28b0e953069a423d6e5a7e3e2f4d3867551c05ffec04f15a1157373c30eca18032eeec4ad2ef24a688f09/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7637b23a76e46fa942f2f3f144a63efb7b005862f917b121c55dd5210be12d2300124a3abfc405cd1e5c7a0ebd4c9ee5718875e32d466334d6d49f65d33557ce3377f3a3f2fc55fbf240141f5e1493abf0582f214506ccbb7ed09c3f95ac763e1cd9ea7c0fa98b71cec75ec03982a0b8570294d34d1b7d909ed90868e3132c95f6761ec03ed3a5a7c2d91a5c42aefd9c/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Snowy New School Term",
+            "episodeId": "cardcaptor-sakura-340?ep=7677",
+            "number": 36,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b20e190900115cd8514b6bab745064ff1726aae8095e8dddc1efd44232a6f953a02d499dacc31357d96fce892d0ffaf166dd03b80342bb330e4a6048731e80c16e2c4853ffdfac2294b9833c03f144f195be15ae72db1ae48ec4f4bce404f45c24996f63ab09b20895df6131b54865abdb3c8ed4b343af5fd568a233f06d75e2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b20e190900115cd8514b6bab745064ff1726aae8095e8dddc1efd44232a6f953a02d499dacc31357d96fce892d0ffaf1d66100aa720c34b69c7dd98d98a388bb4dfecca76cb093c82726bddbfa09e0ccc8b1d3f227841a8ec2c09cea8f1066ec5f400c79cdcdd3dea82fb6a371ba0f1a66950b9b8c8b2517260f74d8500933ee75050a99b329e9078ae8b2ce8d72e1aa/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Tomoyo's Lost Voice",
+            "episodeId": "cardcaptor-sakura-340?ep=7678",
+            "number": 37,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a652daca88f84f9c2c75fa1b6ff30a521d96a81d30424682d29e648e7e454ac3659a350bb15f4f72af08add0e927344b069d320195e4e6b6734a877294fa2d5a83cbda3e1177200f33dbcdac6ff73babc02135b071a68dbfc89fe127fddecd0e3e14b8e984c6178f96786c5daf5d6d50b76ada6f4d136a43b8153ee08455bdc3/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a652daca88f84f9c2c75fa1b6ff30a521d96a81d30424682d29e648e7e454ac3659a350bb15f4f72af08add0e927344b57c92874c79166c3d077357d5a7ba7e7b6260e6b6125369b45b5bb0c345ac6f021dd77c44022726bd91fd0766a1e7f37f35996efea803ebb1d0fa65d3e6d3be65e9b7fa497dd5b3367ebc77be0016954bd0fd90fc7e8dfdde5735ec2f1510985/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Strawberry Picking Adventure",
+            "episodeId": "cardcaptor-sakura-340?ep=7679",
+            "number": 38,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/99b6cf4ea80ddfbe9fb383d4547136af685cb4ccd7148a463ac541637fac7c8821322bc49ef71b955d46510a35198509d44d7362f07a64bf43d86458c128618edef3e8f1335b17fd980aca3370b636b7e63e428771d38ad4457d368268ea579048b81f70d59e00d976958da18523e4a2c9ae1fb3cd0ccc716bda6e4684ba739a/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/99b6cf4ea80ddfbe9fb383d4547136af685cb4ccd7148a463ac541637fac7c8821322bc49ef71b955d46510a35198509da0e82e028307d2e41c2a5f24340cb2616f21ce3d3e9c8527b6df28d1b03f5d600833ab299f9f73dcb2d274b0ecd3bbc82a864d8b288fa932475fdc6a4915aadaa7198c4017c3af6a3c05ecaf9cebe41bf097f8d4f709bfa767a8a394e167153/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Dizzy Fever Day",
+            "episodeId": "cardcaptor-sakura-340?ep=7680",
+            "number": 39,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/7ff5aa69db62d381271990464f8c577a3a5f1cfcf3b22b8cefbdd5ea085bd843498c409b542909cd48fd8fc5fc780a948fb301b79619ed5a66e5785aef278f196145e587fe98778ff0a9c40712b7068382be8c2c17cfaa3e0e2d1746771c6ad86ae403f2be72425893a410ec7741e8f0020e92790dec37648e3fc354a9001e81/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7ff5aa69db62d381271990464f8c577a3a5f1cfcf3b22b8cefbdd5ea085bd843498c409b542909cd48fd8fc5fc780a948dfdf1c246b8f6547937fe95e7cd8c44e0f622cd560dfc480797a7223f03b0e3cc4e1d88829362e12813149af8f7a38f4d694fd571ecaf4bfa041166d167747e9d28e5b4b40239e7a26c8d60a6ddff6f06c327937a524b0fff29f16da521ecd2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Her Dream Self",
+            "episodeId": "cardcaptor-sakura-340?ep=7681",
+            "number": 40,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7ebff89f3eec38f5c6e794419d0fe1fe904da0619a4811f330e07ac3fa42e77db3bed7be469ebdf0d38ac12d522ce376339e178be62246fc348af7f54eab98124cbb0ca0fff153a260a46672fe774076d447d656a74143636ac7f67d6b566eca7516596471dbf42e38aa4ad14adc0b8a3ff085e26f5463e543d946d3350a7385/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/7ebff89f3eec38f5c6e794419d0fe1fe904da0619a4811f330e07ac3fa42e77db3bed7be469ebdf0d38ac12d522ce37631fe7dd0ad60a89e430079ea3dd32bfdd2a078c4b54a94888ae2bb4e6674a0427c6c73b39b3645e0fee177378dca5f7e10959b090e78e2bb6ee3029b25e5c4b88cd6b0a47d8bfc566fb1c8c0d7788a52bc2a138b00d4b3e75adfd20919d09da9/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Xiaolang, and a Sea of Sand",
+            "episodeId": "cardcaptor-sakura-340?ep=7682",
+            "number": 41,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/57ff1f012707b9a7b9dd5f1e51433eb6901c0f8db31d263459fd157dba70a7785f27e756aab1ecf921a21268a90241c7a2bf6f87b4d094190399995d6d727448e2cdb98bd52f2bd780ed391e7711371c4d4584cd9939cc0d5e37d900f0ab7a775555697fab0b449d4afa51200d39ebcc1171eec1a396d0a2f46b537aafb10354/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/57ff1f012707b9a7b9dd5f1e51433eb6901c0f8db31d263459fd157dba70a7785f27e756aab1ecf921a21268a90241c7eb6b0b73112723d814a7a4eef42e7a7fbf4c4b85cd403c01512c385f3966fcd6bdbfae2581313ed561aab45e67e4502b1adf5ea3a2628591f2bda6c5e9f3919b9d4abc4ddf598e1f617428cd8eab7c4b7b660859982ae402909cbb18f8734ec6/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Arts Festival Blackout",
+            "episodeId": "cardcaptor-sakura-340?ep=7683",
+            "number": 42,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/847e1e85449446aa6c1f61387c0cbbd20c8ac5873493d57098f7840e408f10c51573c77f2c6d68ac42fa60c65f37cd3ab5aa1fb1208c0a15c126f9fa47c8005cf98a2b354d33dd1828cc5e602afaed3fdb0f26ad14a90d5f09bfb5d06b897d4ddba39f0aa0384874894b3cdadfc703d234ee7c699cc934c473cac0bdfbb5aaac/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/847e1e85449446aa6c1f61387c0cbbd20c8ac5873493d57098f7840e408f10c51573c77f2c6d68ac42fa60c65f37cd3afa5cda5dc8392cfe1a4e46a0c47f81baaa827bfca6d756612803b26fdb558576130c24cd7ff88b85e027b17d95259348bbbdaaa2ab9d36cc35250c2993f4bffa61e77b0fea077f835fc834b56879d34f7189b07eecbe5cb5c02f1ff01258343a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Meiling's Farewell",
+            "episodeId": "cardcaptor-sakura-340?ep=7684",
+            "number": 43,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cc769c98f1f52ba9645af72ee3bbf045ec287c5ae46aa119e998e6642801c7ae74a9cae0a1dc8496b3d7ca9eba9d3067d94efab1efc93c6151331b39229299a244ae86f2eaab87634a4ae2a7467f765f9ef66e3f62a622387eceac6af67a2a112f550b2263fe17424fb05d727bcc602bd59109a0c1ce653cb2ae5c3ecdcee4c2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/cc769c98f1f52ba9645af72ee3bbf045ec287c5ae46aa119e998e6642801c7ae74a9cae0a1dc8496b3d7ca9eba9d306791965fa1fcda48bdb3c19c3431363f54376b046a8d84ae32557c11313815fea6deef43d192f0590119dafc8135a5f464861b0d67798d289d17908be2f94d0300cb37929db1fdcbaa0d47b05e86c2383cbda8d4e6a6b47311f7c8e85099e85a40/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Kero, and the Mysterious Teacher",
+            "episodeId": "cardcaptor-sakura-340?ep=7685",
+            "number": 44,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/5ca696264e49745858e63dfe22ef6636ba5675fc1d9f8dfbdb80c032deb59ad38bc8db347eb06147660df4322bc1da6a653c91a3c471f639c6830dbaf65b45b43cf4583c5891f40a265d7368bdc8ba5d9055a40887083b5e3f6263ea5e431a542ee3fda13583518a0b2ea1488027318f62b3db1a491bb361351f770d92873255/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5ca696264e49745858e63dfe22ef6636ba5675fc1d9f8dfbdb80c032deb59ad38bc8db347eb06147660df4322bc1da6a58d0c14872b2501744ba6c30f7d98fa18a1a23bac2148d484857c884e45d56c696d59494df54143d90c85187f9f7c99b0fdc5803db020a43fd4fd4bfaf024f27ba66699f1eab86a89bd3d6ed3e24fe7f6521b1666f0ae64e7a2440d49c927c33/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Final Clow Card",
+            "episodeId": "cardcaptor-sakura-340?ep=7686",
+            "number": 45,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/8c791a1a887a72b75674ce577e42c9f22baf7521fc473cd5d4a39c40e7d947c3b51c59c456e71c3b61465376f1851d3af10b07b33b33d5d268ceb6026ec7e887df5f5f28ef50e10e8a072cf489965cb612897f0c6605c3f7827c9dc50e869f4e711d1ffb4ea919baa16269c31d3a51115ec776765a197efe1727b698b6b0246c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/8c791a1a887a72b75674ce577e42c9f22baf7521fc473cd5d4a39c40e7d947c3b51c59c456e71c3b61465376f1851d3a504837a8506aef7f44e9b678aac4dd80ecac14c0fbd91b3e23e0f414c76a112c1e07dc0c265498b339dd0fb472deacbf2c2e77cc8cc202d7e001674e07cceda13acd9369111efd1de891d48481fa82053128cd7d9514c6fb429bc8f3df0c9aec/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Final Judgment",
+            "episodeId": "cardcaptor-sakura-340?ep=7687",
+            "number": 46,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8b00382085a5a419731bde1d469bf48c4b0768460ce88164db9e6b3b98b2158f4ed4c19ed2b32c23c174c4a6acc47c1e3f322df06f3414b4f28d6a62d853abb6d682d903ae5aa96145b2bbb709ae9dd8756759c435ca436efa28f4517e2e0bb55c026cab5b2b8229d4eac0a0d73da6af5d5eb069658bfb8d6d3ad1da9ba930af/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/8b00382085a5a419731bde1d469bf48c4b0768460ce88164db9e6b3b98b2158f4ed4c19ed2b32c23c174c4a6acc47c1e621cce9e5a7ee0056fa209e3a26bc4ed335d332080ac338d86acef878397ed5ee3abb2a9923ac08a7ddeac0234e3f3155309795ec71eef74ab465466775a9024b409d96f3c54677b1a702a87b2263ac08fc2f5bf2cd6c77a6376bf121cc4ab4e/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Mysterious Transfer Student",
+            "episodeId": "cardcaptor-sakura-340?ep=7688",
+            "number": 47,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/9779b1f60952c6af21426c566ead0410f65bb05514c11575b67c083b3c37dfdb6c2524c6479b489916ce312fb9041ede363f4c3f8786ba2078f5efaf1243b99e742e78955af9d18bf2e326796e85329e4c21d68cc2bcd45f1634b5db6fa5e5fe95afabf3c7866423b3b6c46e8d75529f3c8eac4f1c0d90fd963c981168a8b014/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9779b1f60952c6af21426c566ead0410f65bb05514c11575b67c083b3c37dfdb6c2524c6479b489916ce312fb9041ede4bbc40411eadeebe171d832e813f7067e6109aba383239d5c4d4c9347ccf2a80fd375163ca5c84adcd27d9284c4493142700efea9f7ab5dc54c883469179849f8d0d220206d30ebc6ee2018566ec0f1065f257ca12df8c9eb1ecef564858b795/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Awakened Star Key",
+            "episodeId": "cardcaptor-sakura-340?ep=7689",
+            "number": 48,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/992becb36ea4e03eca4432a2f4f164a7f750c525e1e352981cafa22380da64415fc4057526265dd2f8800a3b4352004d92e7f2fd31a1f456779048c7a23ac73a95b4dfd244f6b08ebda95e7d47d0cc4bd1bf2e1d45237bc7507970bf95f0393fe34c0893ad988259834469213f39887d8cc298c602be268aba21d4d20860bdd4/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/992becb36ea4e03eca4432a2f4f164a7f750c525e1e352981cafa22380da64415fc4057526265dd2f8800a3b4352004dad3d047378d9a459618c62203e3881e8d81e5f8aa02840eedf8a8f2a94cb445c109bfa0078db3ee74c6ff2e450c681bb84ef10c971936650fa13d821f554fd08891bd4e77d387a7fa8bef84603f70a530bf1b1c28228a102c0f9d32b3c124e29/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Dangerous Piano",
+            "episodeId": "cardcaptor-sakura-340?ep=7690",
+            "number": 49,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/72a7fb4f58b00594b6ca98b4d51fbef5dc688a253a00a984c6959aa7e98c2db1d4340bb6a9df1f1d15dba01a871462904e9e93a67ad4eeb0a5b7489da757943b23d37e54c1b126a2c3042aa460de3d62ff814a90291644304d1dfb7a8824f5a2df6a9cf4a1413b2f29f9a607470179afbeb7573f0268f708285e1614fa87ff75/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/72a7fb4f58b00594b6ca98b4d51fbef5dc688a253a00a984c6959aa7e98c2db1d4340bb6a9df1f1d15dba01a871462906dcceca65f7ea2dd4bb33c6c48cfedae7bbf6be98efb1179bf07e7984bc74d7a909148eeece69cffefeb5ddc64595991b39a01a0a2391767e298c2ae2d9e5448235c1f811e93d8de096cda4477091b9050eb0f7875b5ab423e08d15827531b23/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Xiaolang, and the Invisible Thread",
+            "episodeId": "cardcaptor-sakura-340?ep=7691",
+            "number": 50,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9feede45c4b6d7e2f500ae550bd080c404ec07ca831bc5e09a499c774add01f84e893668f3d310f366e8a03f000ab0d92b53e5b0714b93de3d187ad3e5fb8095219d2ef4ea07384968b3382470b2603e2b71affbb4edda841bde98bdd1d20572cf79e562356f6babe36f60f996b9f4fc8eee06f55904fd44157bffdb6a244b01/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9feede45c4b6d7e2f500ae550bd080c404ec07ca831bc5e09a499c774add01f84e893668f3d310f366e8a03f000ab0d9319f913889dbbb9f23f2762153c937bb23bcaac1e6647b3e88ab2532cee77d4403b6a562a4418af07c7c9122966c0c22f1365618cacc27038184bb4e9842a01e8963b0f7e6b40697dbaa124a381d2f4e6eddd3b95ac9553d88023132ecc8588a/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Big Teddy Bear",
+            "episodeId": "cardcaptor-sakura-340?ep=7692",
+            "number": 51,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1adf6977490dc98ab686860498cbf6e7e153c7546f6d626ccd670a5223f17658f7f669e6154825b26e52a168ff317364d25ade8870ff70e9afdb3ed7dae17002b75aa9dc0657736ad1d7faa36435d8ef84a362c45ac44ae1d64830970d02a9c8b82ce85cb676914c619b4c41c2853f4d2cdc2fce3e043dbdee9175ed6a66c2d5/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1adf6977490dc98ab686860498cbf6e7e153c7546f6d626ccd670a5223f17658f7f669e6154825b26e52a168ff317364705adedfd48aac8e3d766099bc4f5ebbda4c1401c010fef60b35bb8cde2951331183ebb13b20c851a09ef0bef664a91350f6409229d9bf5d918ab32e5adcaad1f0e56ebe131b187d9807a45f420320932e20c02450886fe0a499b3f41a883c42/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura's Sheep Warning",
+            "episodeId": "cardcaptor-sakura-340?ep=7693",
+            "number": 52,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/55555809cafd447cb88ec37d23089c178ff8b903b2045c8c09369ba8a7bf290c9f4995975aaab9e823e6aa27161eba1aefb9f5b8798b142eaf1481e1e6d0effbe929b9c09aa362b0d28bf8dc77e43210686421849b819084d02cd8cb75f26d444279e24726e76333ec3ee9d6fe6054e07bc189968377e081d7a5b6d99ca9c151/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/55555809cafd447cb88ec37d23089c178ff8b903b2045c8c09369ba8a7bf290c9f4995975aaab9e823e6aa27161eba1a239f287803b82ed9990660a78c9bc5d12f893dbc94f04b6429c25434b0810d184651d60d0dfe43783bc50e3185bacf4f6e2dd134d57b8403ee3648bc05a8134ce77410cfc1146f208fbfdec60f87f7eb789340e25c79ed1db1f416e19c387525/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Panicky Bike",
+            "episodeId": "cardcaptor-sakura-340?ep=7694",
+            "number": 53,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a78db80c5ef72a0f4466017ebc2ec4f50b60cdeaadfc4e9049c39f11ff9a6a639ac710fe8a07314a5d3c9a4b9515fecf88920f2e1e2721b7e752dacdd8e0d3d09b6c30042f04ae8fcfd4b529bde1e8a4bbcc540b68da8ff75c3d48e1f23630d57f8d401fe628334cc09e2c53a5ff546bfa63c48f874cdc326a776210350a355e/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/a78db80c5ef72a0f4466017ebc2ec4f50b60cdeaadfc4e9049c39f11ff9a6a639ac710fe8a07314a5d3c9a4b9515fecf03124ad9be486b1d27ed4461e08dbb34cd871973eb1563120897ee375bb2a844974ecea15c9abd87478484e37e534409a9b59806180c7fbd3f1f347c3bfc79670286aed232765f01943ae89b2e413251932ed89301cc1cc555ed8e3f1f526d93/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Calendar of Memories",
+            "episodeId": "cardcaptor-sakura-340?ep=7695",
+            "number": 54,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/f53d6fe5979bbcf007cf79b11301ead7831f3aa53fc5447c585dab1560fe6a4e9972a0c4306efcb706ba197deae1e6f259c07f60936ba5bf8dd2791afb31a70d96ebcb25380aafab4107c90d5fd0874e33c27c19a080df17617a1043d246d101b5e251930eba54c8ce53d0331dfff1f3118305a35da14dfb3b7b9eb9b9e28bc6/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f53d6fe5979bbcf007cf79b11301ead7831f3aa53fc5447c585dab1560fe6a4e9972a0c4306efcb706ba197deae1e6f27d0d4e256158f44f51fbabef2b38a30b09f4f85437eb78608d9847214c4ffba7b38a76ef25251a4956e76a7f542ba45b229f1a30b993d5e63f8cea84ace9635209b0683a3c7e062868b0bb60f26b08b69e7f8c24308764f0a1139a87e7771ffc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura in Wonderland",
+            "episodeId": "cardcaptor-sakura-340?ep=7696",
+            "number": 55,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/382b8abf5ff107d999b5aa2279531c2061a82810986a69cae469f60a3a68c9eb24380e0494f700da5dfd36fe1f222a1a6239417401f887fcd4c08f05701219eb8e1df120e58387a33dabc4ab23c253b3e7e0736937af3d8110eca6da21468092759d1c65b1be96ce54c0c33115bd77dbe36988891add7c5619f0e519847fa49c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/382b8abf5ff107d999b5aa2279531c2061a82810986a69cae469f60a3a68c9eb24380e0494f700da5dfd36fe1f222a1a1a7725e62a0e85e8ce6119d568b661b2154f171a92e2803e521de238db33f85d096004952d05024595e33288db530406539dc6483811032812c530b09e10f7ce45da27fac1180b9e07ab9b7728f73c069c393792fc39f72e0ce761f0d475ae66/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Kero, and the Sweet Meeting",
+            "episodeId": "cardcaptor-sakura-340?ep=7697",
+            "number": 56,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fa27c94cea74cdd20b23abe51b0cf669d43624fb272ce61105af9abdf43ba02a037b9dcce86f339fc2fc0372f7b2cd5dc12e9d0a4e3c7e8d6bff4a812dbf1f714a668b3fe47fecb2abcc571101d504fc3503ff82aaa8ef235b6b779f1b67b1779c7930c13ae393f8f35a47ee32928538ee2791760eb04a80f637327801e1d028/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fa27c94cea74cdd20b23abe51b0cf669d43624fb272ce61105af9abdf43ba02a037b9dcce86f339fc2fc0372f7b2cd5d5b1a57e769607c0cc9c0f288726764b872f75a43d3bdadc7097abf675af83d546ed44940dc274d6b50a65cbcd23017df0ca9cf24e7902d435a436565a44f39b8277c0a2f623a51979a7a2790a510be37519d5b8d2a5399e43409345185302ce4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Xiaolang, and the Elevator",
+            "episodeId": "cardcaptor-sakura-340?ep=7698",
+            "number": 57,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/59eb83ea7d7b729b78c0a123e29484b6724bc2051a6a439a278541eebb31bc212581a6f9db4ad71d3ffe8fcdba937e443708ade1323ffce8d5cff45a76c47a625442427f6ccf68aa88300386ca3cabc412d89bea44f8e1db27d11e0f6802054b3ea699db95823c60460677a0a92a9b0a116435f2fb27f4115f958b333387b585/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/59eb83ea7d7b729b78c0a123e29484b6724bc2051a6a439a278541eebb31bc212581a6f9db4ad71d3ffe8fcdba937e44fdc7e193f69656a52dc10916048f7aca32fd517f98ee880486006d8ca6731389357a2329cb92d37993d685fb60e805c912b4a8911949c70f717d42332fb48d1cfc7f5bfa038d10b7f898424e16dc38467bdc18dcf7ff85bea9f95246ec6fd6f4/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Double Trouble",
+            "episodeId": "cardcaptor-sakura-340?ep=7699",
+            "number": 58,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cebb1d86bafac4673c862fddcac231e94dccb0d72dbe10e3bd28a4623371f0f401e46998101e80d9a4679e7c686fe738ad31d5b46297a68bcfdc54ac79f34bf00675bdd5fe00c610b7adf5ecbf54a31da8a04b2188d01bab93cdd1ec9fcac1ad12433dff9fde7764af40465d34009cf114a7d66771db4cafc4e203bf220e4a5d/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cebb1d86bafac4673c862fddcac231e94dccb0d72dbe10e3bd28a4623371f0f401e46998101e80d9a4679e7c686fe7388ccdf2bd1d5c632157a57ff2584cbeeb6153bc74eb02b7467d753b4f46407ac7d8f626b97cfb875723fa848882638a5ee957a6e238d30f337d9e129a84e3836a7fed20f2ea2a74e6ac0d202d23aeb823a5f0c86799b3874818e9a463e553ae8d/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Tomoyo, and the Ball Trap",
+            "episodeId": "cardcaptor-sakura-340?ep=7700",
+            "number": 59,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/a522d5d75f50902820656b714f8cc3cf7d11c8dfb871a75d5a8be73fce1e7168855c9859b80c55ace83a0ffd460e8de5b8317c5b9d9d0dd4ffd1af55158e187e817c123e43d0968455136e2475e2ac1a71be84b48d8d8ffc92271bf60b3b0994564015f85e7169482d4b91d0f9e42f09372fb98a283642099aef64278e38f47c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a522d5d75f50902820656b714f8cc3cf7d11c8dfb871a75d5a8be73fce1e7168855c9859b80c55ace83a0ffd460e8de52704b4cfb21b6a5eecd802a6d20196b00e6726fe8b375d105e0ca5c6713a680d26dd1c846ccfac70c5e87b3e7222b48110593c05bfac0d1017c9a86872b5a2e291e6cdabc9fb4267ec40dbbaf5b17ed69c01fed07dd51f75babf97a4bf2b19cc/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Precious Friend",
+            "episodeId": "cardcaptor-sakura-340?ep=7701",
+            "number": 60,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/acc947336dc857bd82a51726b4d00c61e0852d1bd896d0df2a0a61afbd0e1935381470042972e2e3ba050075e1014fc16e18cfe21d91074f5ff1ac9b451d7212687d7f06344db3d1fdb848500197180c349ce953429a8e82549dd6b23458323138e54c58952d2b1a8a5d403ac3e7773ac08e25e69ce09465a72fa8311ede6f45/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/acc947336dc857bd82a51726b4d00c61e0852d1bd896d0df2a0a61afbd0e1935381470042972e2e3ba050075e1014fc1446915f214620d49b978224e52923c0180c2bebe349e79b3caec336dce754f1901921a6cf7c29d84afa9ab5615d971d848264fdef02390166b9f6b3cc8d8ee97fae7a9ce9c584d2b9d81cbcaceb72db3fffb15186f0d6d2e738812435ee8f660/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Cards, and Her Gifts",
+            "episodeId": "cardcaptor-sakura-340?ep=7702",
+            "number": 61,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/dfbcb5dca4b6c575b0eb2076264429a2a8890171c905591a9e8e922bd4db76c79855480d1d046df317c5520e6ccf99c65d5ed347e54f7cf4aeb26985fdebf4013f1c001d9ac30e196e6954a7a372b5e5814cb3fe5c87d354edf72eaef224783773ce1e6d4d1071d601079ed5c8d47432cb9944db6f9efdacbc041bcdab076922/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/dfbcb5dca4b6c575b0eb2076264429a2a8890171c905591a9e8e922bd4db76c79855480d1d046df317c5520e6ccf99c62d3a4bfbc327c536881fbbf7014fd58861b802ee2e0ce432ca6179f107e84c13d209b02779d1816a7005c45d684d00554e345c0cda363dacb3c4a55dfadc3b7c90dc8353862de0a5f49e2e22ce9f87a286d4b62de3d736f9b365c243263008e8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Strange Fortune",
+            "episodeId": "cardcaptor-sakura-340?ep=7703",
+            "number": 62,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/32780bb98313f35c77f60b2c4e2513fc0fe6487451a44ddef0a69227c2021adab15768c2527ff1dab35c1a9a31c01cfdbb2e51c586439e0ebdb21c92286bd5155ce60bb71112826baf4311c2fc9cc6277d98e448e6861bdc0277092f1c7de9bfc1672f1b6f9d900f4345c9e410319a9904faac10a9fc349932f44c8561f9e468/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/32780bb98313f35c77f60b2c4e2513fc0fe6487451a44ddef0a69227c2021adab15768c2527ff1dab35c1a9a31c01cfd5be33e8e745c291b964198b8996e3189511b374d66128e73fcc3c6f8910408815e34064934a710a6996d6b37f4296393c2d883882b70007c39f1c98e1b310c84c0a2532664ccdb242b43879a29250a87239aa723616c199d37f060ebf70fe0d8/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Water Park Wave",
+            "episodeId": "cardcaptor-sakura-340?ep=7704",
+            "number": 63,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/912cc48609aeca0782c7bdce56e991d616fc8b61d4ef979e14a283c399e289e80021b21b9ac80a2da20213be5bf2140d4d62d08751ba4181825cff8cc2d824fa1b15fd40b8a5ac4aa3ec733f53a93a8430301bdfc430c58b078bdac78a622bf4193a870752b276d231278efd5eb70bcc63cecbdbe46fdb2426290328e0b592c2/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/912cc48609aeca0782c7bdce56e991d616fc8b61d4ef979e14a283c399e289e80021b21b9ac80a2da20213be5bf2140d8929b5ba299448151e48e637e87aabe4627f77302578df4794dcfd03657702d91c82971d3573b32528bdf4fa6e05f42c225ddbf550f3f4b1efdc0a60cf28135bab049ed35d6af4643a50ab0d057433ee7384fa027ecd05c33ae874c34958f5b2/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Snowy Ski Class",
+            "episodeId": "cardcaptor-sakura-340?ep=7705",
+            "number": 64,
+            "isFiller": true,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/2e801d1947bd1391f2a5424c4713de6987e4798ef9b30b1865c14f4115731329b2a804b0f784937b263037dcf04530e951616de1d21159ded01244365e2ea4508bbfc6ec67842584e7250a1e0e299e6e514df79ec1656e2e8033f6eaadd7af8b76b48b8e01e57d79a256158e861a9d490df6084b201d492ec27768a3cf66c285/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2e801d1947bd1391f2a5424c4713de6987e4798ef9b30b1865c14f4115731329b2a804b0f784937b263037dcf04530e965b7fc6e7bf266306457687acef72b11de49a7d1adf3902c30ec2216222adf4591b5602faa9d1959266e76775c91ca1fe9d236312771b950337040c76ba700a1cdc5c2aea992e4948eccc9301f7afac0d11d19bde0b7ab4a77a567ccd0bcdde7/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Yukito, and His Fading Power",
+            "episodeId": "cardcaptor-sakura-340?ep=7706",
+            "number": 65,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/ec3867df504bf55e2f89c4a01a0ae18622346e73514f7e78349432ac17aa1b4dc77ad2aaae13eb966bbdefe8c7f0ec922073ee689fb9cf0c1a5a8dd52e73148432629aed068b9ff7eb29432a20e985729d114e4b49073d3f89215633a7029c06ee9f639b8af161538751ef22d60cdddf2d08fe5ff6eff1ec2f742ee77aaf0a0c/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ec3867df504bf55e2f89c4a01a0ae18622346e73514f7e78349432ac17aa1b4dc77ad2aaae13eb966bbdefe8c7f0ec92e582eb77f8116a79dabc8db15d0221e263617676a5f80e766ad6ef546e20b492ae9401b87c765e18e01cebcbfcb71ece68f7de3a683bb00836c2d852ef3783f844d5a5fbe3da2e9c80a16dd7b5a8e5d9471a6135cbb5e736032e26a26993f490/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Who She Likes the Most",
+            "episodeId": "cardcaptor-sakura-340?ep=7707",
+            "number": 66,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d731a1bec357cc7f5079b41542d3ea0bf34f66fd7b3d9a52b66b10719e173e9f6d646ab4b8c8ef7f976982ed30184ae2de7c595b0db3d3e2c8a5b49c62686c4f45d0d35c61ff1f6ad093eac5f628343ae4c5029789efbf244015092b617b357656706145f84a0af3a3ea84de8499fa0fcfe63a0922d29c59b8f05d38eefc4040/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d731a1bec357cc7f5079b41542d3ea0bf34f66fd7b3d9a52b66b10719e173e9f6d646ab4b8c8ef7f976982ed30184ae22bafa7216581b8cb4c9760b118f0e24ff4abd909d162a6b636400cac898a26d5ba99a5755ee5080ffbe607ec85ca4fa0d59c254e036ab1a1f16ec6e6b003557755b8febd29172053c750685186d0d6490323289d05bac361b422fb0f24811bd0/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, Xiaolang, and Tsukimine Shrine",
+            "episodeId": "cardcaptor-sakura-340?ep=7708",
+            "number": 67,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b7c16991e8a6c53fb8225cae4ce3996e79ba55dc05b3e144f7b95aaac2d2a345302d1f77711663c99f1fb3a7653875176a726367e87eabd3e2487daf31f83ed3a1da004e7370e45659e7a8df8dd20d1895ea62c5e4d9cfec155aacf1d5f69a762e29cae350c24c534d44be0edba759d85cb924d70479904e4c55e89ea558c4da/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b7c16991e8a6c53fb8225cae4ce3996e79ba55dc05b3e144f7b95aaac2d2a345302d1f77711663c99f1fb3a7653875172443202046ef1d9ec3fb55445cbfbf57392eb098cb2466fed3238e74a7aa144f45b7d28975a2fe371bb719b4cee95942bf13a177ce52e17e7d290f95d6815cf502791dec0c62eba400fa663e2e6bf66f0eb3cb00a1ee49acd32d33f9655df757/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura, the Past, and Clow Reed",
+            "episodeId": "cardcaptor-sakura-340?ep=7709",
+            "number": 68,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/24e48a866d4ca8a394dc6c15522084368582c165233404cb0dcc0072b9a20e1bf055ef7ab3229f7ae98208d933782b1496805de26c0b9cbeb9f2b0b374585e545891cc29854e35f23626321137729a530271a5549719d433dfe959437182232d47a6f36590c20f34f05d4f382d87eaabd180c8e169568a36587e1c5e571b9c70/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/24e48a866d4ca8a394dc6c15522084368582c165233404cb0dcc0072b9a20e1bf055ef7ab3229f7ae98208d933782b149f09ea0373f19aa2398cb6ced7ea6502f9deaa7f0124c9c29f9a97b68e0bd8d9fc66da62ba94284152f10bcf0f30f05004e005a79b14e15199c41d5537c4e34b85007712a93f6c905331a2b4835e872ff5fc00bc2dc9f61f64d57e18daea2e77/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and the Appearance of Clow Reed",
+            "episodeId": "cardcaptor-sakura-340?ep=7710",
+            "number": 69,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/409796a3d4d375705bb78d3109340d1687c6c4483b3809af4f208534c465a49cc9523174071820ee833e71e28268184d74e5dc5e7a951a820b4a25edff446d0574d4e46d09862efbc0410af0940ea8a9e0f62ea64d296c1abeb9ffc046cd1811439e90ae199f76db30f5ebd07563e6b33181e081c670fad836ba3df6bb781634/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/409796a3d4d375705bb78d3109340d1687c6c4483b3809af4f208534c465a49cc9523174071820ee833e71e28268184dc7b9faf7e4ed3868ae9a91eba95207e3fa619c7f2b4903ba4946bd1250746ccea7f059c77d61bcd8b7d0dcd0b6e21b194b44338eaf8332a414178ea4952f2b779abc575564a6d476a0ec6d8267adb87c146620a25c158ea802f528f8ec2ca787/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        },
+        {
+            "title": "Sakura and Her True Feelings",
+            "episodeId": "cardcaptor-sakura-340?ep=7711",
+            "number": 70,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c599847bcd97c152647413826a8ef4f8c947980740adfe587f4b4433f4828a758ab9eedffe67e1932586f10753263b13f730cb7cd7d700fa569cc0582b043ffb69a00e560ef6ac432230b27b246bcece4d54d1280a9a731627df917aafa556744c1890fa01fe6aff15dddae4ec80d66908515fe954b37712657d575f7bf06ddb/master.m3u8",
+                    "englishSubtitle": null
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c599847bcd97c152647413826a8ef4f8c947980740adfe587f4b4433f4828a758ab9eedffe67e1932586f10753263b13218a6105aef989410a38698df790702422446ff85455a9056a9d6b6df6b1fe1bbb4c6b22eac808be95f0986055069eb72c99b24a291f22899ecc9fd07c8421c9b7aaa9074750947ca7e864d53c70cd25f25761f077066a056777301d2c6e8c52/master.m3u8",
+                    "englishSubtitle": null
+                }
+            ]
+        }
+    ]
+}

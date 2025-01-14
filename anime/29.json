@@ -1,0 +1,598 @@
+{
+    "info": {
+        "id": "haikyu-2nd-season-29",
+        "anilistId": 20992,
+        "malId": 28891,
+        "name": "Haikyu!! 2nd Season",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2689b8a2aa02e73c9d75ebcea66f7b0.jpg",
+        "description": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. \n\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. \n\nFacing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new—including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.",
+        "stats": {
+            "rating": "PG-13",
+            "quality": "HD",
+            "episodes": {
+                "sub": 25,
+                "dub": 25
+            },
+            "type": "TV",
+            "duration": "24m"
+        },
+        "promotionalVideos": [
+            {
+                "title": "PV 3",
+                "source": "https://www.youtube.com/embed/Z9qXOEwiTGQ",
+                "thumbnail": "https://i.ytimg.com/vi/Z9qXOEwiTGQ/hqdefault.jpg"
+            },
+            {
+                "title": "PV 2",
+                "source": "https://www.youtube.com/embed/9q8QbKi4Vqo",
+                "thumbnail": "https://i.ytimg.com/vi/9q8QbKi4Vqo/hqdefault.jpg"
+            },
+            {
+                "title": "PV 1",
+                "source": "https://www.youtube.com/embed/SIg52zW5ncM",
+                "thumbnail": "https://i.ytimg.com/vi/SIg52zW5ncM/hqdefault.jpg"
+            }
+        ],
+        "charactersVoiceActors": [
+            {
+                "character": {
+                    "id": "shouyou-hinata-110",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67e60bc39db2e570ec88b3b4c0277eda.jpg",
+                    "name": "Hinata, Shouyou",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "ayumu-murase-183",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0d7202e05876ebd36811763a979a8abc.jpg",
+                    "name": "Murase, Ayumu",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "tobio-kageyama-117",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c4041f9f1d3878c4211b23c4de4c6ee9.jpg",
+                    "name": "Kageyama, Tobio",
+                    "cast": "Main"
+                },
+                "voiceActor": {
+                    "id": "kaito-ishikawa-80",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/52c4340277c4811332866e8aea8015e3.jpg",
+                    "name": "Ishikawa, Kaito",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "mao-aihara-65820",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb06c8957ed6272ca426cc7aa484b5a2.jpg",
+                    "name": "Aihara, Mao",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "rie-suegara-1655",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/600facd74de338485718e8049b65eb32.jpg",
+                    "name": "Suegara, Rie",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "keiji-akaashi-770",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c3620cc1c173be07ee44b5a5ce2deae5.jpg",
+                    "name": "Akaashi, Keiji",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "ryota-osaka-184",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c164d403f9e40d0582048eab78c7ec20.jpg",
+                    "name": "Osaka, Ryota",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "gou-akaisawa-122790",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56c17550b13d60c0134bdd8478b6a72b.jpg",
+                    "name": "Akaisawa, Gou",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hiroshi-tsuchida-2829",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3244d95481216615077fc2592e445ac9.jpg",
+                    "name": "Tsuchida, Hiroshi",
+                    "cast": "Japanese"
+                }
+            },
+            {
+                "character": {
+                    "id": "noboru-akimiya-64269",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fb97186c1b87ba4c6deecbf708d0fbb5.jpg",
+                    "name": "Akimiya, Noboru",
+                    "cast": "Supporting"
+                },
+                "voiceActor": {
+                    "id": "hisayoshi-suganuma-4262",
+                    "poster": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/109c42749b6a282cdd3a1f389658f6a1.jpg",
+                    "name": "Suganuma, Hisayoshi",
+                    "cast": "Japanese"
+                }
+            }
+        ]
+    },
+    "moreInfo": {
+        "japanese": "ハイキュー!! セカンドシーズン",
+        "synonyms": "Haikyuu!! Second Season",
+        "aired": "Oct 4, 2015 to Mar 27, 2016",
+        "premiered": "Fall 2015",
+        "duration": "24m",
+        "status": "Finished Airing",
+        "malscore": "8.66",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "School",
+            "Shounen",
+            "Sports"
+        ],
+        "studios": "Production I.G",
+        "producers": [
+            "TOHO animation",
+            "Shueisha",
+            "Production I.G",
+            "Sentai Filmworks"
+        ]
+    },
+    "episodes": [
+        {
+            "title": "Let's Go to Tokyo!",
+            "episodeId": "haikyu-2nd-season-29?ep=875",
+            "number": 1,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/3020a2bde50847b55defa4df18c69dfd403542336341cbc7cf6c5a4673ade96238d55654a35ede9037332bb10103fafdc48e179559252d2aa0c1d6c861c54cb40178ebd07456afd7790f82479bf135ec71238b726379f8e616062b3454e5ca776e88b361aad0d329d2dd1b20545912ba5be66e0e3d1c72bb80fa4bc488f30692/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/51e73caeb887fffa72c15d2251d4f82b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3020a2bde50847b55defa4df18c69dfd403542336341cbc7cf6c5a4673ade96238d55654a35ede9037332bb10103fafddca25c9e982c8a2529e2a889dad81ca9b57fa8aaf7a66518a0c2a063526a189aabf9af7defb0f662737af83d44b0a06cd035d52cd3ac13da2cd8d5cce9eb012597bd83ff436e8586e85e9771adea76475bb1b8a4dfd7f32b24266e636a232c28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/51e73caeb887fffa72c15d2251d4f82b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Direct Sunlight",
+            "episodeId": "haikyu-2nd-season-29?ep=876",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/61fcd7abd1609d4f1ef1cec0c5de6276e1067c48db50bf45dda1d209cee45ffdf3295f1334c9a247c8864cf397e21c8b0737f91392843795f93b2742cca9fc8ec0e8efd7074568b6cc08e2231decdd304df1f0d64680a24047316d7f351555d3895d4a90f57c719cb8ec9ffc1090df14883229c778e70f1465bfb8605aca6f6b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f334136439148ef31c5214143ad0f187/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/61fcd7abd1609d4f1ef1cec0c5de6276e1067c48db50bf45dda1d209cee45ffdf3295f1334c9a247c8864cf397e21c8beea5760e49976a81e4cfb6b9dda31c36dd11a7165f9c09b7403eb5fa0f3663a6df302433912329be99f97189e2cbde9d83120f7c1b751eb8cfa465e0b211f712222c9c8b50a3141d301cf58ccf11e66e505580b2a45bb51862f1e18fe904b204/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f334136439148ef31c5214143ad0f187/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Townsperson B",
+            "episodeId": "haikyu-2nd-season-29?ep=877",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b46c193cbfb3c1b0832d2f8968b89448856b29e2a2316fb388865514901a54a32a0694b014a2dc136ee1f07ea1fb2cd15b2f147d785a87bcc95237f58e1defa94741e749e0a9711d567fb66f30e159c4b0902157151a2931f823ae8f6d735a80cd4d28557c8728cee1ae15e23c57f954db52a007d2b22f28c067fc4250f6270c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c27b6bd42bca6c558826b68161f841f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b46c193cbfb3c1b0832d2f8968b89448856b29e2a2316fb388865514901a54a32a0694b014a2dc136ee1f07ea1fb2cd12248cff36116e756ffc7ac4e3893c323e9638a96ce23a839877159230f232ebc6ac90489c642c288dbf0393ef0415df39fed9b71bbb0dc532583b80d45a58e14a74ba8ab6c9d334c728dcbc5661d0f21c91a66ee6f725ae128bbeea0ef154344/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c27b6bd42bca6c558826b68161f841f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Center Ace",
+            "episodeId": "haikyu-2nd-season-29?ep=878",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/3c8fdc3de3d391dc235283c8bca82372a116315fec40dae81d8db556e2b5e8ee8d31714154daf49525e90fa61d936bece70f46760459634a71c08ecfe9c6c8df7e27cf09733e104cf1eddd88d9a1649fe5f72add8c81f63d0a381207cb81d744ad9521b5ae6929b672ddd384aca8213bc9e5c6cf48c856836bdb9eeaf465b567/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc85c6feaf4db25cb0f863f07c7da00/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3c8fdc3de3d391dc235283c8bca82372a116315fec40dae81d8db556e2b5e8ee8d31714154daf49525e90fa61d936becf52fe70ef0dfccfe6a6042943612f1fe848118f5cc676195c67a1d0e7b5a8102ba2b85b2883e137731e4358db4c9d86264fb0bde104edaf29f881791d0963f0a8e59f64533e4d4fcf8ce779b0897ee3fac2b9053a0ea7fd9addab0aacc4159f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/edc85c6feaf4db25cb0f863f07c7da00/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Greed",
+            "episodeId": "haikyu-2nd-season-29?ep=879",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a2cd44075dfe2b7428ec09eef0b6c75fe704ee202cc17c1f56008d38fbed11b6001c6cbe8322fa352465d38b491c68fcde8b1fcb4e110fb22697eda7c30eb916465b4dc30ee1877f35384764d9ada3a7635784ad2d29419661ef1c66b448de0c1309bd5fe6ca28c926809ccc4a5a14c60c2354f2bd1b2afc27ab0c1e586ec20e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b24ea1d095873031d33e9da0dae296/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a2cd44075dfe2b7428ec09eef0b6c75fe704ee202cc17c1f56008d38fbed11b6001c6cbe8322fa352465d38b491c68fc123cb263ab228540f4071b78577554004f09ce805c3988393a6da3ebc0358784c9c452d311d3e3c168b0b15b1a6694b0652b7e4b071f034fe3b5f2cc24695fa519901727e166a8588142439deb016acb9a35340c06817066b8899c3590b581f7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b24ea1d095873031d33e9da0dae296/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tempo",
+            "episodeId": "haikyu-2nd-season-29?ep=880",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/d39dbd843e3345d45f658f6ff3898f15fb5a66b3d5c9e6f5f22aabac8d8057a4d26dc06621fe4459b687812bbeb78b8e96e3e5b944d1f8070fd65648ef1d73c1500365038ceb5278f71f25301ba60a9a6e151b9615f6dbc2e3c5f54619ddee99c7ad37eeb08ec87c2fc47675e103b915c9bf5807dbe11b9a2e9ee78964b4761f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9158f7de2b65104a866e40e570abe377/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/d39dbd843e3345d45f658f6ff3898f15fb5a66b3d5c9e6f5f22aabac8d8057a4d26dc06621fe4459b687812bbeb78b8ef00ad5a9d5c2a3c09c14371979301e1d0f2436618b2721a5c8072c03872913bd755be67fad34833db094de89529fd1d867dec99765bfe6adec073ba708b5d36a4a1a943a0c969f686d0c2c4583a70e50746cfcec794aaaefa63e351a0c3bef8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9158f7de2b65104a866e40e570abe377/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Moonrise",
+            "episodeId": "haikyu-2nd-season-29?ep=881",
+            "number": 7,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/376fc38ddb6f92f529f77640b3aac6995becc1b363b91925790a6e5c1d114f51df28a7d1fdacfa842179f26827cd667a73df49612442ac29409044ee70ce253d2a5b7bdf321f83004650728a4a822ce3392577c66c983a265a9c01add14b72a38c0eb6a2564f4aa1ccc92b1f028925167e7d8622e807c0a673aded09b5ea2340/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7091100dc98d9d3614954e12e217501f/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/376fc38ddb6f92f529f77640b3aac6995becc1b363b91925790a6e5c1d114f51df28a7d1fdacfa842179f26827cd667ad0c76c5eb1433f99c4cfd04685bd1ebf7b18325e9ab07a15f1210e65d28003813f375adddb6bd3c997f9c2f844df5c0fc1886adfc35dbdb8d6b8b257cbb1bfe46c9c48fc4fe850f1f71a7394129bcb06d924dec552d4ddc9969eadb74f8fd0ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7091100dc98d9d3614954e12e217501f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Illusionary Hero",
+            "episodeId": "haikyu-2nd-season-29?ep=882",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/4c6979c92834514174366f425c1bf0307050d6aaa719bcd26e7799cd08871cc7f92ef532f3fc87cb2783ac52510233e36984daef0b36b5378a2bc871df702d24eca00c840b24738728aebd35e1fe2dc42ab4e19e4d2320bbb798e547040410bee34b349e59b21d55f28a6c952e1e52d9345e4a00f3b7b80cc92fc35e80fdd2c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adb1ad659bc0413aa09de36341838672/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4c6979c92834514174366f425c1bf0307050d6aaa719bcd26e7799cd08871cc7f92ef532f3fc87cb2783ac52510233e3d3b89726045eae0a8c02e9d63ed5c9414e5dc4dcbf9ee4c0390970ead1f4a8442eae221c93b60aac4207031bb6e526254dffc055f097b8fba15d0c0d6280f9aeaafd15763a8d31cdbbd681f1343744c41b495bb436e3e3ae6cffcf5e53e3e1bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/adb1ad659bc0413aa09de36341838672/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "VS. \"Umbrella\"",
+            "episodeId": "haikyu-2nd-season-29?ep=883",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b307b334946575e0e78a24a06b04eea21350736b932148a02ca6ade57af90260b77c7a96bcef02341d2d5347c9c933e810729cdefafd540dd2b2fda4d5c5be114d27ecc170e43853cc70b973b4502d6a981fa9acac56ab1b13b3fe5a9bf297fca91e463d64e569c70b10b78393895a6f5a3dad6ddd5389ec077bc5c7d1caf218/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8a86c9fc187342003f23d501e7b953a/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b307b334946575e0e78a24a06b04eea21350736b932148a02ca6ade57af90260b77c7a96bcef02341d2d5347c9c933e882698f115aa42d4dfdc018f8d1443a27fd1cc0b025dc425c49698677eebb719d3d88a40b3c3153a46bb20ed393797c5a8931703b0b152adb25cae8481ec5953cfe747e1ec4dd78e472a9ea7d1f6a5156bff2428f03a6d10ca392071ea56e2b0b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d8a86c9fc187342003f23d501e7b953a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Cogs",
+            "episodeId": "haikyu-2nd-season-29?ep=884",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/0396b5a38c918d5de3ad52fa1ece7a95cfa1ec9685f05f4764b86211b8be1491fd8fdd1198453feedbb59ab3b23ec3862a7ef7a8a8aec06b4514e226016244c0bb3179577487807dc9f5a5650be13c341c2c156a0bc271090b80c83d31615d2b884fce7746419dd8cdb937f686516fe1c6cc07aa36395d0ee76c464708d5eb49/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/926c42c559a28eef3e231f838a64374b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/0396b5a38c918d5de3ad52fa1ece7a95cfa1ec9685f05f4764b86211b8be1491fd8fdd1198453feedbb59ab3b23ec38637f6f9c3dfe40978531f4cc1c858018b1a4321b06bacf1a7a630f82140494b8c74b55146ce47ac888d02520cc132c038e07ea1cdde8424118642a689384da83dc6a8b81b046a237e2ebb76c984d1a27b1b5b5e7cdd67fab9ace26b2767b74ca0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/926c42c559a28eef3e231f838a64374b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Above",
+            "episodeId": "haikyu-2nd-season-29?ep=885",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1665e1f88479634b4886d30bfada26d10207564674e9339a6a86d91b60c81fa2e2e951bc65a77bfb95b2bb41d63c9445ab3600da9bb29534db7b14c0ba0238bc9071d1bc952144e9148124ff92afd21f88d4fde587de7b599fa66d357a3ea4d0509de87eb2317f15129ad7e7ed96be3e5acb615d76ad5b3c952c2662662ddb0f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/328001261d5952bbc473c823afdba794/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1665e1f88479634b4886d30bfada26d10207564674e9339a6a86d91b60c81fa2e2e951bc65a77bfb95b2bb41d63c944528e06ea43f9b28d71691470690ecb050494ed98e6e945aa7a322978abb56b6363ca429c3dffb343f5825d90155b578694aec14127b5da96825761758a4df16c6722035867e103c9526ba3afd64eb5cf5b30358161e9cd57f55c4c59ddd2bb289/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/328001261d5952bbc473c823afdba794/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let the Games Begin!",
+            "episodeId": "haikyu-2nd-season-29?ep=886",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/3d4ad596186a8efe441e27d3d0e88f501d7670dd34a3cf2a59d0ca94c27e4e7b77fb1adac51755af7ec22851c83aba46c3b13c06e1083357ee9b2d5441584030a06bac0c22219ae957b396857dc62c69c273de7b372c27934e09f96deb73bc0978f873d5edc0082916116acd5e90a531fea490b079fdf92fa3fd9818e9c5a7c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df4edda5a96522693ba56f22fe502119/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3d4ad596186a8efe441e27d3d0e88f501d7670dd34a3cf2a59d0ca94c27e4e7b77fb1adac51755af7ec22851c83aba46218484de2fe6e4851ec1dafc2b2597e6a2de4a3219a4ce97a9217320fbf1821deabcb6120c8e6214fbfaba494528438c06a1deab854c314f866b04ec3b52e055d9038d88f9c2a8a70848b2c3d0247370b35c2e208d076bcdb6538e1ccc6ed836/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/df4edda5a96522693ba56f22fe502119/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Simple and Pure Strength",
+            "episodeId": "haikyu-2nd-season-29?ep=887",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d538fdf173571b14f5e0c0fc29910510e3dedcb0ed4b0e237943433c8e593b82e27a08ad79e0b07b9b692483e1bf9df2ebdff7a9d535e21c7e8b1494669ea643f5f35285cbe3dde03a5bcdc50c7c3efe1a5c077c69b9fddc0f12e50beffcec2413f7bb0283dfbe4d7331cdac8080829ea2e90a3e117c9864a4edb17a638051a6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bfa60489a23067ad16c70a5f42b9e8b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/d538fdf173571b14f5e0c0fc29910510e3dedcb0ed4b0e237943433c8e593b82e27a08ad79e0b07b9b692483e1bf9df2ef0158b4960785a268a6be7c7b13564ca091400226877596073f53d248f3d6d6c7e5933eeddb41018aa9b366211d97909d7662e285a76d120b6ae331764b5e4f6295a7a24589f2f99ab3c430ef59af1d1fb02698324f0a46dcc12ecf2d206dfe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7bfa60489a23067ad16c70a5f42b9e8b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Still Growing",
+            "episodeId": "haikyu-2nd-season-29?ep=888",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/4abab165a6ada54ecf2d99a24d7f14ac93829b1c76da6e50d78ba8c098d1046f15c70e935ab7acff9929b24095511321314aadb8ea24e9adf99efd9c79c7be6a1cedfca6966725c4d9e1af22ef21bb6cc09e7dcc959f8edaa80c4da6def20ab4794ca6e8e18b47397766f13d3985d590fb05059f3dc6b2a4568c7ab99c8c5158/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ac340a28a075e764eaf6ce5b2f6317e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4abab165a6ada54ecf2d99a24d7f14ac93829b1c76da6e50d78ba8c098d1046f15c70e935ab7acff9929b240955113213e0e3ee850c2b48c719c4c270ce91a932353507fe0e94faa48f03f07eaca389ce3874f18b4d459a66d0f36d89e7c5ffb0a846cb3e7c60eb9589c114f8d12843607bc9178caf3279e0211a72dc34ab34aec78bf784d47d6dc062b5d3bdae67c3b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4ac340a28a075e764eaf6ce5b2f6317e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Place to Play",
+            "episodeId": "haikyu-2nd-season-29?ep=889",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/27dd3a575cdb830df389c7a87c6e936b9aee5a9df67f211d393b54915af5a10cfa557e9dff7312b17440aa0a7b572d6af1bcb9302432b8c98e2f8d26887f01bdd8a5ff1bec23563f49dbfce496e8fb514b8b1d92c988c2d75e0bb51d3f5460185efe71070d7f16968540f1bc241f77626763a7624f79e30a55f5f1883221880c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd732fbd5c7a4481ef271b80410069b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/27dd3a575cdb830df389c7a87c6e936b9aee5a9df67f211d393b54915af5a10cfa557e9dff7312b17440aa0a7b572d6abed994a81829437f9349e310ddbff921bbd98a76a33a4b8f32af71aa9638bb2129b7fbb26818b9743768af4e1a5fe289d655a897e8ac930d21482c4dd743ef47bf9ba0db94b3ce617f7d6b696cba89aff5d8ad5b92e75a41b8f1097b816a0e3d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8bd732fbd5c7a4481ef271b80410069b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Next",
+            "episodeId": "haikyu-2nd-season-29?ep=890",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/1937c1543c313d1ccb609697394a74e6ad0d79a91cbe80efc7e11b6ac26fbb8273eeee924d6b51a3ea369010101244891df7308036acfe0f141e48544b025a28f1988304983791fab214287d3b8eda8cc3aef059eabe41b7fca6ff15d9b76d5a31797bd1178e1c920b9eb6fcd6e649c35419467eab6a8f5a57373ccd2231df46/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08aecfda5d80b794402de0951b7841d5/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/1937c1543c313d1ccb609697394a74e6ad0d79a91cbe80efc7e11b6ac26fbb8273eeee924d6b51a3ea369010101244894f9b34993a298b3757bd6cd03992c6b44de8a561802b22b9d9375ef317692f88d19a05eee303d2e87e4919f00a736a5ad58a4c727035bfa66c822e026b28bfe13216fdb94a18f862046e182aae82a411d1d2af8a7cc89dbafeac601602abb818/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08aecfda5d80b794402de0951b7841d5/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Battle Without Will Power",
+            "episodeId": "haikyu-2nd-season-29?ep=891",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/94e458702380b6e64950aeb2096a0940ba4211519a974d413ecf37b9e4e1619a1bd1fcf091af03cd5da4d172bbd5dd70f1c56797443624fb93a8fed90a32b56466e1916ab65f0999a2e568931f212e689abc57be8c34ffdde7370a9b06723488f0cc0aa2cf7da8649ae4d91bd380e8a175d815d21d4353a6b1006ad505b22ad0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ed123b72c00b0f070f2f73299c422ba/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/94e458702380b6e64950aeb2096a0940ba4211519a974d413ecf37b9e4e1619a1bd1fcf091af03cd5da4d172bbd5dd7052aaff85e9d15770773c5caee0b06bd13fe1cee659b8ee5e035bc0c6149fff3d0e6698eb020dd3e208ad2140ccc43b1b2e6cb5bef116c46328aceb49b8ba74b41d506753d0b25583296bd612bde42f16db9bc25b002e6213d1228358c56642ff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0ed123b72c00b0f070f2f73299c422ba/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Losers",
+            "episodeId": "haikyu-2nd-season-29?ep=892",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/0032e0fc99f0351f390e98c085589727515d1e3e53e2de407d099b0a784b1e993b275b1167261f6eb596c582d3cfa69d0fcbda7c8b72c1d9f53022e08d3c1f679d4599c63ed832b998ffeddfaa4eb7fd906070a10c186a042b542729b148df790628791f08899fe39f6551d4e195b6b3abfc743a4bb171a34ffe731c18dd4761/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b989cd4ce3be35fa030d5617285a9eda/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0032e0fc99f0351f390e98c085589727515d1e3e53e2de407d099b0a784b1e993b275b1167261f6eb596c582d3cfa69d92ad99c443334b58401f1d247914da546a670598f9e23877266c045cd84e899b39845267b9270009e88a2c0f2530ab54ac8062031cb20b815a97e01979201f24723e6f94bbb4484593d2d5a750534655587536fa850322d0f0156a722b85a783/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b989cd4ce3be35fa030d5617285a9eda/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Iron Wall Can Be Rebuilt Again and Again",
+            "episodeId": "haikyu-2nd-season-29?ep=893",
+            "number": 19,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e9cbd3bbb5257b1beef3a523cc9ba7213a3a50bb06c2fd867be0d53e7f69a3c12e84df2618d283dffe7876a3fcb13a6b9e96d89965cf392d6ae6cb1159d604250ad2e872300cdbd563f3e72447a8d4f8c75fe515b83c3e7b242793351db368dcf0cb4009fb187b72ca3d43f4ff02c11fa5e0fea11838ac86714f31036d38c8d6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/811760133d9e24c8883ffdaf56d3d1db/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/e9cbd3bbb5257b1beef3a523cc9ba7213a3a50bb06c2fd867be0d53e7f69a3c12e84df2618d283dffe7876a3fcb13a6bb2e2cb119ec5d7c5b026068a3d6eed36f488ba82a324340ad111df64f1d74a424c9ff96147212150a296796ed3b7823e6433d20c0e352205b158ff15201e19accced8750b85207845d50360719131fe5490124b70d73b39a57cc7ec8436264cc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/811760133d9e24c8883ffdaf56d3d1db/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Wiping Out",
+            "episodeId": "haikyu-2nd-season-29?ep=894",
+            "number": 20,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b7f48678ec44380da88100a4c396fde972d81a95b0661a6b3b8affe5314bb63291d99c0d864030db1ed9f976b935d44b797beb14b50a0ececa6e7217b43281c1d1c94144ad4d78d58756296c7a469c91063dbd9545110dd46b092a8c027ed4255464eb4faf891318af8435cf2f0baee4ef0f455e08451bf4bdd3b0f1c266867b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8185512c174677b987516d3464478c98/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b7f48678ec44380da88100a4c396fde972d81a95b0661a6b3b8affe5314bb63291d99c0d864030db1ed9f976b935d44b48ce04591a9c2cff5edd1dd58ff5ccfa019b413070126d884d5ecff0c8685da25067127f8c6273f8adabc76d284105cce660a521a80e693f17de165470ad9a0057ea6c99f26ce2dc5124f3d020ce98a8bc4ca46204350168246ecc837661fb15/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8185512c174677b987516d3464478c98/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Destroyer",
+            "episodeId": "haikyu-2nd-season-29?ep=895",
+            "number": 21,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a42007eb8e1d0df58b1ed576262d24d887cc23193e3f1e451f6603397f08bbb125194c31c2b440996a940614e48f986381e1b6b666a989354f4132c031a6726353f8fc9ab14057db74efd76b46f83d1046701f56cec0afecb4911a1c7158c2aea602cebde6019ea93ffe7ebabd77a09dd7db891844bdb2dbfcfedf6442726741/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87a4b7cfafe9e97f387a87b0bd79bd28/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/a42007eb8e1d0df58b1ed576262d24d887cc23193e3f1e451f6603397f08bbb125194c31c2b440996a940614e48f986333c0f35e93601d7679d64a2406133e6870d3426d35a565b8bfd2f6ce139b05ea797a3532e968bee7505b3f0905c2b3478162e0219fbca11091d5bf8b37eedf0536f5c2544c1f7a25a83c7cd717dd2768b381675899b82d16734df0e78fa8b5e6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/87a4b7cfafe9e97f387a87b0bd79bd28/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Former Coward's Fight",
+            "episodeId": "haikyu-2nd-season-29?ep=896",
+            "number": 22,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/59da1ac202cdf1e6e50d542004ffde2da839973cfef4ddce98dd4a7c9f3450d187de410067c2769c48a49cbf126b8b633a094ec8d03c8b2dd5c76ff7c217f0cac3ab28ef696b918f8bbd1f0c8cc98e229c7598007f7827d8e20a9293daef0904be214184bafafe693b24823638de79bc92cdd67723d86bfb17027e282453a567/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6592c90f9b7672cf1cef8a5487c598c4/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/59da1ac202cdf1e6e50d542004ffde2da839973cfef4ddce98dd4a7c9f3450d187de410067c2769c48a49cbf126b8b634bcb7e1e4ce88efa05f9916d261e64b384ead806a5acba8cb9161fd16ec9dfe1854be13aab2486f7e562918a3105ef87c517ce8f287042483911037cdc072531da168807b5b607ccdc5f96996a222d0b604e5b8eb7cf3d3445929dc0e683db8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6592c90f9b7672cf1cef8a5487c598c4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Team",
+            "episodeId": "haikyu-2nd-season-29?ep=897",
+            "number": 23,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/51f8d8db772c59e26719382ed0fa6a96c3347e22522bc90ca051c4c14fff6dff7834d76f6c7a73d9b53d53b17502887367a3c201bf9c7e74306e0eaeb17886bda341b5b756abed49fdef75b715e4bc12591d9fb029bb759ff413be9a12d28fa492f6bcead696674265486774df151cc6125b507f8a10dfd6b7dfa418fe2ba0b7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad334ec51335afb30a3d3df178d3b499/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/51f8d8db772c59e26719382ed0fa6a96c3347e22522bc90ca051c4c14fff6dff7834d76f6c7a73d9b53d53b1750288733bb6a730574fc7738f7923bddc2e91697de5afef10eed783fd97c09357e8f7f80bc6b1f9d0d8b9e495b7c2270e171ca98d641f1f4aa886da61f9c1f2392c28e4d45863032f50375934fce1c65e055007d29f2ee4dc019f994237ed6c7ec30be5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad334ec51335afb30a3d3df178d3b499/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Absolute Limit Switch",
+            "episodeId": "haikyu-2nd-season-29?ep=898",
+            "number": 24,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/69c045a0ac8ff02044aed7dd947814ca4b314827852bd444bde3229552e9447564a7c2917fc486704b3537afc5366f277edeab8dc3a309daae13b2e3ce2cd0c4c82b58f3961125deacc8456b56311ab2f84b3fedc5c778de802477e0a56588659daaeed77b96c0aa1dfa13e8ff609766054fe2600b0bf7892e2ef33bc9f51bb2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb9a230137159537920faaa41c18648/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/69c045a0ac8ff02044aed7dd947814ca4b314827852bd444bde3229552e9447564a7c2917fc486704b3537afc5366f278f04d9c178f3c5f9e67661a732dafd3384c5ce36b8f0720ab49d3bd278141e6e0f5f144b5671400a6910b675c909d55f76fc679eed01bc72b2766c64922829690d3c7926763f463b86c42275cddafb9a7af76ca3575990909e3f82162b4cc9e9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2eb9a230137159537920faaa41c18648/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Declaration of War",
+            "episodeId": "haikyu-2nd-season-29?ep=899",
+            "number": 25,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/eddbfec7b3bc1ce44f5c91edb1b5d11797372926989abcab912e76432376aeb307eb88af4b1e152c530bfd6db08b659cb224aa88a18d10fe91345abde36e4ab4dda34a4ed4b7e73230b47abdd1dcad14fea3b61818c1252ae1c4a506f6c6ba7f65deb9929a4e3e343a58e7d5b2b4304d2b03818462ab87e47400abc1fc7ae063/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dab5a64a5c31e4d21472501cd6020288/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/eddbfec7b3bc1ce44f5c91edb1b5d11797372926989abcab912e76432376aeb307eb88af4b1e152c530bfd6db08b659c29d40b4bc5e9366f680238bc970f413df6156625ba8bd7ef61417ae88e5d6c44ebf9f5623e1233c82742c16c8af8cf81921fcdcd5371516d75af4548c1f0ef52c4bfaa09223fbe92cbe76be8bf15248b9b53d1be70d13a316126424a5291cbe8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dab5a64a5c31e4d21472501cd6020288/eng-2.vtt"
+                }
+            ]
+        }
+    ]
+}
