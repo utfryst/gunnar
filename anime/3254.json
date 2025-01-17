@@ -393,49 +393,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/b4dbd7dcf5935db121595b9eeb6c8cd1e172ce43d259a0ebaa1eb6d235fe39b0ce208b062b46a87f7af4fe016aeaf9394b5086b30896a88169b61dc86c6512991db85b386b40a5ad52803ae50a3a6f5ef46e28ec61c0b7154ead247471b25cf6f928214af3a3a7938315d35d8f16e214/master.m3u8",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/b4dbd7dcf5935db121595b9eeb6c8cd1e172ce43d259a0ebaa1eb6d235fe39b0ce208b062b46a87f7af4fe016aeaf9394b5086b30896a88169b61dc86c6512991db85b386b40a5ad52803ae50a3a6f5ef46e28ec61c0b7154ead247471b25cf6f928214af3a3a7938315d35d8f16e214/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5ec15bcd71c8f2fde9aa3a46bba02878/5ec15bcd71c8f2fde9aa3a46bba02878.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b4dbd7dcf5935db121595b9eeb6c8cd1e172ce43d259a0ebaa1eb6d235fe39b0108f6ec6f68e03c61d26b7e9391e2f3fbdfd6e00a504e6223d9f0581de3b7a53e63a0fa5931e2fa29899b5ac7562b45e47405f4fd0c2aba73c25c044464d119a685d698b2ec98273a6dbf4152e01e78698ab7878b15879c16a0286e775fd66fa6359aeaa026ff198c29408598be0ac2c/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b4dbd7dcf5935db121595b9eeb6c8cd1e172ce43d259a0ebaa1eb6d235fe39b02c5de660ab8533f3c1d826f1912e2b8dc840780f1ec90f4b1991a07d1a64ca7f97f9afca51fd787aaf53e3e4a718574cd2ad4a1950388730e00dc85791d4cc2b944eb346584694a9c4745b26d29c00dce0e24fe11ac57629eb48ab953d7c01d7456980bc0952817099ea039b896ede70/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5ec15bcd71c8f2fde9aa3a46bba02878/5ec15bcd71c8f2fde9aa3a46bba02878.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 17",
-            "episodeId": "battle-spirits-brave-3254?ep=67107",
-            "number": 17,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/a8a284df2696179d6bb5feee18cc5b24e04eae7e0077b72c0d79234329b4147e9852ac74a82f0ba0f53a366965eb65931894f5a16656e3dd2a8acb5a5a1a30ed4a04da9371e240067f0380c2ce780ab846edee160025b29fdb06d31043281b4395b1b62865d9b4384a919fbc2a4f3ecb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fa7e80b6369d09f08293a05235aee12/6fa7e80b6369d09f08293a05235aee12.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/a8a284df2696179d6bb5feee18cc5b24e04eae7e0077b72c0d79234329b4147ec90e1ae8abb30b970b7dd117e561a661706b3d41f95ede7360f26be0501f4a1183970b65430cb7c19a9619bead448111798cbcf2641158a732f9d9c775dc59ef38b56431b28658bd95ebfaa5bc1d4bf0b5385c39dc5aab0f793954205a9bcc7797a50c9dadd3c78d417b982b1509cd9d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6fa7e80b6369d09f08293a05235aee12/6fa7e80b6369d09f08293a05235aee12.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 18",
-            "episodeId": "battle-spirits-brave-3254?ep=67108",
-            "number": 18,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/3844fd0ef01599fffd55d0c755cf2ee268b0514e8abb4fe417872f640f0afcf575fbcf86d1af2f0d0f373bd061b8a282ff20133f5aeed776c55278877cea6709ebc7f5c41f9a14e0109bc7c9cf79620e82b335dfdab35ec64dcb9b889dfaaf5fef372713f1aab2a6ee7ae64b4a9edfb7/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecdf089e3d9cc771bbd782ca59c75b09/ecdf089e3d9cc771bbd782ca59c75b09.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/3844fd0ef01599fffd55d0c755cf2ee268b0514e8abb4fe417872f640f0afcf50b07ab10c3643dd14cf48cfeeeada050441a4f7d15712c5639eeb12cd7deafe4148fb033bd49718bb4f71e090bbf0f2085abe77a33bf7a697ba7fae2fbdc3b9bd67b784983891cba5009c0ab71accdcfc319920227b8bc1402e0f21a2f0c8b858258e1fb76b471251814de3760eb7a10/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecdf089e3d9cc771bbd782ca59c75b09/ecdf089e3d9cc771bbd782ca59c75b09.vtt"
                 }
             ]
         },

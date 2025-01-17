@@ -273,49 +273,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/5a79ce5605ff2fd5f5ce861076d1cdeba542a5197f0b28412fd71fa746829dbb5bc1d03f53c20e58221f133d4a18f44dae0e68e0c2beb8b0f389999a20b7266e6088abd5a2da03a728b7366bc53334f657839a63b656483183f6b979b74ee6b1c59dc44ca7a9b55625723a1b0443874ac6c1fee11d36b7a4d3c615fb4880f74f/master.m3u8",
+                    "streamingLink": "https://gg3.biananset.net/_v7/5a79ce5605ff2fd5f5ce861076d1cdeba542a5197f0b28412fd71fa746829dbb5bc1d03f53c20e58221f133d4a18f44dae0e68e0c2beb8b0f389999a20b7266e6088abd5a2da03a728b7366bc53334f657839a63b656483183f6b979b74ee6b1c59dc44ca7a9b55625723a1b0443874ac6c1fee11d36b7a4d3c615fb4880f74f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/40e4c321a49a24b028f19b27c0bcfcdd/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5a79ce5605ff2fd5f5ce861076d1cdeba542a5197f0b28412fd71fa746829dbb5bc1d03f53c20e58221f133d4a18f44de2695e5af7e1e422945d05ebae5ce224692fec0b8753864590460acb4bc8f20dbe2f1f184b452b0bb5bdbf146469d55bb339b5996aea62faa5d20b29413d7ac92389f9dba0dcbffa4b20e4fdf744fc0da06cee913d6800ac8c2cd47f43e41dc6/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/5a79ce5605ff2fd5f5ce861076d1cdeba542a5197f0b28412fd71fa746829dbb5bc1d03f53c20e58221f133d4a18f44d97ccc403b5c7d5cdfacfcdf11330f9d8b6bdbcc51d4181c3ec0a485896824e40f1def0e5be156a57e84f380c930a1e4a539e9077112525dc0536c4c63a994783db415caa43311ce87a4b2e25798edf68ed080a0cc41525ca0e1c506d96106850/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/40e4c321a49a24b028f19b27c0bcfcdd/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Young Dreamer",
-            "episodeId": "love-live-school-idol-project-sunshine-1837?ep=23434",
-            "number": 9,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/0bd2117c7b613794694515234827220b66842412bc8c67305c048a29fc75e9c458f6a11a194e5a785f6e7fe45c5dcff6083b4f6989077488cf89292c40c99fc1c1a3d5978dc0a2906d88c8a582d7ddb57286abe6a80c51bd5198f9865786ec1b139f78e138a58f34dce7ecacc44613f87a4436f057525d82283812d9a069f72b/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3deba3ee88bf84dbca9d00e3bc3ea9b0/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/0bd2117c7b613794694515234827220b66842412bc8c67305c048a29fc75e9c458f6a11a194e5a785f6e7fe45c5dcff6f797790065f1bb09dc9e5e51aef9b70040f6a2e8f4025f8c9b551d278a6c43b69057feba0f6c62279255bdbbc84b12f0bb9d13a837e5d42b32af38b3cc6944a7e5052d47c1c1312de4f64b9676b630d9c14b25e492a3f0607f45879e8e721203/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3deba3ee88bf84dbca9d00e3bc3ea9b0/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "We've got Stewshine!",
-            "episodeId": "love-live-school-idol-project-sunshine-1837?ep=23435",
-            "number": 10,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/991f04a4c1a1ff1a7d1d9b708dd74e4e2102c3d60397166d6ccc13e0dfa95eecdc87ae1c8b23c5af50ff811c34ef7ceabc74e95bdb65fb3d2a82f4dba423c85f31781c21c26c1de31c4e305a6326a98c776dd4381095c1263b813f630f5c483ea8a83280258c997e1f8b6a2c5019059d846f36ad6545e80193bab1d0c27f1479/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/070a2cdbab24aa1a4d074dfd7221367a/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/991f04a4c1a1ff1a7d1d9b708dd74e4e2102c3d60397166d6ccc13e0dfa95eecdc87ae1c8b23c5af50ff811c34ef7cea5a062cb4950b36d720567628124f1f37d997c0436ceb1b2915a8065f383671bf419dbca0c612b2a741b2597c9d5b1fb4758589120ce535779d7d02a7a034c580462bb8223e294d9ec1869a14d3a981ecf6a30a8b3202500ea81d71b5a4ac8272/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/070a2cdbab24aa1a4d074dfd7221367a/eng-2.vtt"
                 }
             ]
         },

@@ -1576,44 +1576,8 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/802b4a3872dbf7b49ffa56dfe84f22051183ffefd513c1cf9dbcd75ae7def6e7d070736c9351f302648efbb22118689af13c071c5c9851c081db04b7ad6b996fc8a3f9328a07836016fc5e6272bb564e19c1f4115b1f381160218c611eee619b993b38704e64c2a0080a689e0efd9167f03688fe792e0384784794fc246a6588db3a750f52c449aca666827560a8e77e/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/802b4a3872dbf7b49ffa56dfe84f22051183ffefd513c1cf9dbcd75ae7def6e7d070736c9351f302648efbb22118689af766a1c517933f61178b75b7b765df8c9220521f46f580779c87f94a678dd4ced2ecbaa1c2a4b152b075ba656d5f4b89d005faefb91389b14ffed0dba9efa768883eac2b75db7621a0e770b3537d39ec1c90ecad4c881bd01a2009ce078f83ca/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/36cfcce7435b05062d92480e9e907c59/36cfcce7435b05062d92480e9e907c59.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Aim For It☆The Greatest Partners",
-            "episodeId": "aikatsu-1973?ep=24289",
-            "number": 82,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/2bd2d2f1bb6fe6cf64ff32a98b090f787c96c1e960203db6ac904d0d1f77676bd471f6b296aafe9b82f01f17c5bfac95670dd03bef4f77026f66777d2d3ab9d82931ed0331001098e77eda02798fc36d5bb4c766ab9716c9b0417e191b5a7ffd7d5c821dcfff8e158e5b8afecfb171fb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/73c5ec1ff964258d847320aa28346af2/73c5ec1ff964258d847320aa28346af2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/2bd2d2f1bb6fe6cf64ff32a98b090f787c96c1e960203db6ac904d0d1f77676b45e531836f7a9cfffad73abf04d73f0ffc8b630431c33942d7772f5c2472c9cc9803bc5be4e4546810463d76f68c6008c913e43f842760d5fa731c81f16e31ea4510bb785d858c5d22f16cbdbd11b58d04e9c3775ea95fb35e28442516ed787814c3b30eb59d42f14746dcceee9d1214/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/73c5ec1ff964258d847320aa28346af2/73c5ec1ff964258d847320aa28346af2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Otome Rainbow!",
-            "episodeId": "aikatsu-1973?ep=24290",
-            "number": 83,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/7441a3d2aea82f532080388995d8720320a9bced74274c614e1f757cc8a46b4a19fb4e298fc20cbe5a923df465e7cc73602933e6dd505ff050d96a09c1830f49b5f5bf4b4741709394ad4b60ed23238fdcf509f80314196b9af4ee6b2da5ef0f157caf026eca0eb35bb3075183e68b7f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d5af04c524e2c5cde8d84d04bba7783/2d5af04c524e2c5cde8d84d04bba7783.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7441a3d2aea82f532080388995d8720320a9bced74274c614e1f757cc8a46b4a8c4890c2607207084e0c98c917f337246f5a978f9c3be53d1a74cc402ec948a73fcdefb8ed6c766c3da2b646b87f05f6dfc6da25bb78752a5388b991f9775ead467093200dc7c1baf38a685e92a8c506700b82d66a9d276dbbe4dd7db729f6395e32a10dbac615243c30d0d1b9b44002/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/2d5af04c524e2c5cde8d84d04bba7783/2d5af04c524e2c5cde8d84d04bba7783.vtt"
                 }
             ]
         },

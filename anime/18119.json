@@ -163,12 +163,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/b5fab36656fd36bf6556bb483f96dde1054816094bf99a32dc10bcab80ab5d39fa1cbaccd9e5b623b94b70121d953f2e10a79c1462ea29303a976aec4267c60028d27e7a5819345fe2d60bd2ebc7c218028395d9c3f2489270b27566d0f068214f85e52f00ba2a9df3c93684178b25fb555c46773c1a9a3369315700892e603e/master.m3u8",
+                    "streamingLink": "https://gg3.biananset.net/_v7/b5fab36656fd36bf6556bb483f96dde1054816094bf99a32dc10bcab80ab5d39fa1cbaccd9e5b623b94b70121d953f2e10a79c1462ea29303a976aec4267c60028d27e7a5819345fe2d60bd2ebc7c218028395d9c3f2489270b27566d0f068214f85e52f00ba2a9df3c93684178b25fb555c46773c1a9a3369315700892e603e/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0c4fcce40229fb216ca2909c66c1a98b/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b5fab36656fd36bf6556bb483f96dde1054816094bf99a32dc10bcab80ab5d39fa1cbaccd9e5b623b94b70121d953f2e859bba8b4163f81d05abf1f6362e7dcffd367ee09100eb9f43c083cc86ddb8d108eab2d7310db1b75f8e3c5013162609267f9b8a9d328b6c2db544cc262101775e213ffd078de6a18566881d321f78a11a430d96e8a8e69ae869c3cf6c4933e6/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/b5fab36656fd36bf6556bb483f96dde1054816094bf99a32dc10bcab80ab5d39fa1cbaccd9e5b623b94b70121d953f2e2d41b8286331e3da7b3d671313cc3023418ecb786fde061b9700e04b83257e959e90a2955d0058952f5f211ce36ffb26729bfcf097bd3c6ae55bca144573d79a2d53cd77e2bd170f74ac4916348f48489fcf9228e4db99726a7192906fe62520/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0c4fcce40229fb216ca2909c66c1a98b/eng-2.vtt"
                 }
             ]
@@ -181,12 +181,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/97c42d3ae879f5c0d6c9398312524bc5b2c78e53ad36fc1b212f100d298aa9f41295890ab41f540598b69b17be3da4b3472060593155747832a17f1dd58f86ace01cf7fba982f0d51e8091e6ebde5376fbdd6f8510cdf411ae8d833fedfa2254dd4da72bb2e0c0302cf943359dc2c23a84e5d9a0d269879643a493508b5c56e7/master.m3u8",
+                    "streamingLink": "https://gg3.biananset.net/_v7/97c42d3ae879f5c0d6c9398312524bc5b2c78e53ad36fc1b212f100d298aa9f41295890ab41f540598b69b17be3da4b3472060593155747832a17f1dd58f86ace01cf7fba982f0d51e8091e6ebde5376fbdd6f8510cdf411ae8d833fedfa2254dd4da72bb2e0c0302cf943359dc2c23a84e5d9a0d269879643a493508b5c56e7/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b0da296094d945180bf591fc7ad43a19/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/97c42d3ae879f5c0d6c9398312524bc5b2c78e53ad36fc1b212f100d298aa9f41295890ab41f540598b69b17be3da4b32a54469e7f9a9bbb78e679757b5e8a480f7a06ee0e14f5c2600d6d9d307d45e91d6f0c158a24f32e4e3e3f18d8dfc831fbd5288cb6b942b69a27b493bddda22a25814fa5d70e1f5b1990b5a4c18e2952b1cd31cc8bdbf017609b88183de1f8ab/master.m3u8",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/97c42d3ae879f5c0d6c9398312524bc5b2c78e53ad36fc1b212f100d298aa9f41295890ab41f540598b69b17be3da4b3634aceab2aa51ede45b0715c62985fe8a975553974c9e9dc569a3e83f09dcda68899bf9b54c1fa582f374aa0e6c51eb496939c9f3fc5c74c7c7286205e0c55c3ce66e3580fdbf64ca3b224f568dd161786793e191bd43250d19ef4854e163032/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b0da296094d945180bf591fc7ad43a19/eng-2.vtt"
                 }
             ]
@@ -217,24 +217,6 @@
             ]
         },
         {
-            "title": "Episode 14",
-            "episodeId": "battle-through-the-heavens-5th-season-18119?ep=94737",
-            "number": 14,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/70a729862bdcdbb5d07679a848e21c6795f197331c7e5a56c45a6e9f874df7ce238525c2e079f688d569d141280c5692bb53c08b75193e1c791674edaa06cdc2fe7fa7ce21721b57cef2470633340e490438dd8fc67888904a55b04d3333c0db8dbe05c23850fe3b5d069933cfcc7e47dbc2098683db3b61bb5962db747a124f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/63e64a654d3663ce91b1ad8556e11b21/63e64a654d3663ce91b1ad8556e11b21.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/70a729862bdcdbb5d07679a848e21c6795f197331c7e5a56c45a6e9f874df7ce238525c2e079f688d569d141280c5692ae24e543bf3125f2e50030446806ff6d3735534acdaef1d1301e31c44e36efe401c835ec8825e004cff4591f9ae261753d6e703b4782f2cae6e84f0c12232978dc97d7ba1b73fa9b16278791b840a3d8b1bfc01b566bf5f9aac476c3dc3c9a0f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/63e64a654d3663ce91b1ad8556e11b21/63e64a654d3663ce91b1ad8556e11b21.vtt"
-                }
-            ]
-        },
-        {
             "title": "Episode 15",
             "episodeId": "battle-through-the-heavens-5th-season-18119?ep=94829",
             "number": 15,
@@ -242,31 +224,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/9cf79dbad912cd56453790471268b15939c65357b8f54e8b050e05741e0b00c1db83949144c9cc0cca2d509aa2cb536aa8fdc3e1c515b35a5350235fe6dbd8d26ad1febfb74a4fe99b99673369b4be37d88ab1acc726d9ab8e73eb4c48908ca2f130a5e8f7272642836c56a8f083b0fc5525aeca82bc727650016136d4a59859/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9cf79dbad912cd56453790471268b15939c65357b8f54e8b050e05741e0b00c1db83949144c9cc0cca2d509aa2cb536aa8fdc3e1c515b35a5350235fe6dbd8d26ad1febfb74a4fe99b99673369b4be37d88ab1acc726d9ab8e73eb4c48908ca2f130a5e8f7272642836c56a8f083b0fc5525aeca82bc727650016136d4a59859/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/97fbd7977cf3bb9c746238f4234f03a8/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/9cf79dbad912cd56453790471268b15939c65357b8f54e8b050e05741e0b00c1db83949144c9cc0cca2d509aa2cb536abd8e699e4114c548ac2d80e796edcbf2284f4fe1dc8c122a4d8adf6d277fda1c943dd3b87d94fe720d13d79f16d3f5fdc33a052a768c7e4ba856d58027250fad32dd38194cd8dc84b1c1a5fa935898f64bb300b249400860c8b7c860d4456fbc/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/9cf79dbad912cd56453790471268b15939c65357b8f54e8b050e05741e0b00c1db83949144c9cc0cca2d509aa2cb536ad09145679b6e6d08b4bb943fb5078a6a14528562873b44a6053b95120edbeda6221da8787619bca6898f668c87eccd6be18aa5765570b76caa547ba2c24c6f10845d1898bbefcefc970a164390d85df194d76c5e7a8509f4dbff7e156c09707a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/97fbd7977cf3bb9c746238f4234f03a8/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 16",
-            "episodeId": "battle-through-the-heavens-5th-season-18119?ep=94968",
-            "number": 16,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/c89513d68bc8ca2191af15bce137a23d6a538da4e33273e658c94b187769e97da1442830104b7c27b8ea66d4bfcfcc82123b2c399d44602b4d6e8b00def5b43778c2e266fe18578ee85536ac5f365199e36cb4a049d1265f42429ef7a721e58994de38b25de7317bb6d335c8be2006710503d2c144e8ffb61eb9e70437144691/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2c573214ae160eeb2db6aaab2cd39d/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c89513d68bc8ca2191af15bce137a23d6a538da4e33273e658c94b187769e97da1442830104b7c27b8ea66d4bfcfcc8250313de6ab240fb9a5ac0b1b74fc637ddab3ead5b237cdfa1d0b4ed5d0a5b39d7d62b5495e18b40950fb649f78270683864a3f7b29d824764b5ab583fb2fca4bf8b8d5595df73cf26866a8c6ec716fee75086c8821c7122c44ef04b093e7e030/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ca2c573214ae160eeb2db6aaab2cd39d/eng-2.vtt"
                 }
             ]
         },
@@ -283,7 +247,7 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/1d93a781dfa9fee8d45f6353ebcf92a4dc70215d45f39f8dedd471ce6b54e7a00da08ceb0a7c27192cc9ba607a4f08a5164df3642507bff51752bedce3f20ab81f3b99a2e7a0e48027d23a582cf088f3f02137798000ee317ec4eca07800e8e15a2a5fe7504b8151fea6a6c96ac94970941a520c2ab394f7131ad65fcd0728246d4f5cadee06e3c3af120a0e39ac6979/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1d93a781dfa9fee8d45f6353ebcf92a4dc70215d45f39f8dedd471ce6b54e7a00da08ceb0a7c27192cc9ba607a4f08a5d0b14d0259f5d5953ac508be81033023d68e2530c1d82bf7e1cb36ed5d971263c538e605212323f79238404eb2466a0bd52fdf0b51797eafe8d5a0a4ea5d1d9ee357ebfaf97d75d7b96400d4318671e03574e3b4ce317c5db89ed63b134e7736/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c01b1ee8569d3b8622d6ddf549b44835/eng-2.vtt"
                 }
             ]
@@ -343,24 +307,6 @@
             ]
         },
         {
-            "title": "Episode 21",
-            "episodeId": "battle-through-the-heavens-5th-season-18119?ep=95920",
-            "number": 21,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/b2d03e20cbea2af41af44f3c7e5a51a1a8a8b06d9a6c7173b29208351fb7a66690fd181e16d87c3cfb2b28083dde9763599d2f48e783cda991c4d8e471683dc389ff302fac4223e0b666873c8c10ba419eace53b3782bbe70833cb0e3964222b9e8bd8a5948920d7985d8f288b2309128b975e5b7309f873d91e24cf46ecdc62/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0ad09a31c7286f6448f44883138d64f/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b2d03e20cbea2af41af44f3c7e5a51a1a8a8b06d9a6c7173b29208351fb7a66690fd181e16d87c3cfb2b28083dde9763927bfd35b0e36ae3f2f378dd9cef221ee9a7df222b741cdf00c25ba5fed410f17205e642166df7538ee0382c852c8a84a8ec36f89edf4a2636c8c61a32117584561235a6444632dd8b0b07be54706c94051bc779c91fcf74b1e6ea89fc84e295/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f0ad09a31c7286f6448f44883138d64f/eng-2.vtt"
-                }
-            ]
-        },
-        {
             "title": "Episode 22",
             "episodeId": "battle-through-the-heavens-5th-season-18119?ep=96095",
             "number": 22,
@@ -375,24 +321,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/916d0f88023e3585785fbb6ad5ee2f837506755b4e7f72267582d85ce7ad49bb476cbeaa1b63a238fa5f2711b676c78190ee65e65d074473d27bed43d2a88788d8a515f67c61761b47e49d2d7fdff4b8bd3cdd77eb414d82bcbf30efdeb443b9d792f21005241f7840b4a3862da88f0af2fae9154141aaeb371d7d363364c477e6cddaeb33f0205ba91be11773b93661/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/142824ca1f9f4a17f6fd8cb02ca0908f/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 23",
-            "episodeId": "battle-through-the-heavens-5th-season-18119?ep=96803",
-            "number": 23,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/c861aaf96e7aa525055d2209626ad27fcb6af395a7520bfbaccade4e1ebf17f838141fbd4bc079f8141356d5b3b96c42c1364f05477ecac924bed38bafa5a8745a0fa3cd0ecaf0fc64e99194c04cce2ca80650bf4dd70445f3bdcc710f0ffea258d1f078c8652c3969c1d3bab1cda2d445338de0e3a9cbc71febd527998bbe9a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6618f6cf5da2648e697649aedf173fab/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c861aaf96e7aa525055d2209626ad27fcb6af395a7520bfbaccade4e1ebf17f838141fbd4bc079f8141356d5b3b96c42d7fe626c63942432e3538b1f88a33dee8cb080665dad718c68e003bf6743f1896203dea2679fdb8cb7c7cfc9525e84dc6acd9b103a7bae31ba9bf9d6084cfe2e78aa342a773c716252d5f6ecf7426b11b130289c0f207527187b0c3c26880135/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6618f6cf5da2648e697649aedf173fab/eng-2.vtt"
                 }
             ]
         },
@@ -2278,6 +2206,19 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d5f7ef821d9726edfb10a07b9a1007ae4ca27c244b1052172cc0ec861029af6a4f411bade4e510fe98215f15047dd7479967b1aa3a5b988e59b800409c0a1dcfeaa7dd308c2e48211d06f5b8f2f6a30d051c1181764b6dfe16e0845fc8aad07e7feeaaf8c6e2f0b19439cec4bcd9de8f55fac4aba15f445ca2bd23e7e704138d097f7dff0928c2225ccafc1d7af7714d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3d961e3b0efb6c227fce4b9f1ad90a10/3d961e3b0efb6c227fce4b9f1ad90a10.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 129",
+            "episodeId": "battle-through-the-heavens-5th-season-18119?ep=131812",
+            "number": 129,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/8ea348c73b0268de3e1e3e8ff34b86d4c107fdbd4738c26e2357febccd98c7c76d61f0bdbfbe09662c1b9d37d2eb2f8e33cd09a834d1d06016b5a6209b3d22f813bf9d2891746d5ae70c0b6bad34a8792374d34e164367e0848ccd28f6155d16736243365e1afdf0abf37db04017d86520f749641f1eeaeff0a0e9be456cee61/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4c264a15efd2dc52fa2f5d39b48dbd21/eng-2.vtt"
                 }
             ]
         }

@@ -500,12 +500,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/74adfacefff3840aae71513689996f3243b0d6083de99e619ff8506ef76b883dccbeb654031b25a7f08724709a8800c034074b927d4b7dfcbe28ca93abfdbb84172bc0c3a61ba3d7b219f6ed3bc8a58f7533b96f8752eed4a7726a0f04b183955f546f904e009bf82f055de7444aa38f4298af72cce907296f1774462b57ce88/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/74adfacefff3840aae71513689996f3243b0d6083de99e619ff8506ef76b883dccbeb654031b25a7f08724709a8800c034074b927d4b7dfcbe28ca93abfdbb84172bc0c3a61ba3d7b219f6ed3bc8a58f7533b96f8752eed4a7726a0f04b183955f546f904e009bf82f055de7444aa38f4298af72cce907296f1774462b57ce88/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6804a9988ab14594d42cce5578bb2d45/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/74adfacefff3840aae71513689996f3243b0d6083de99e619ff8506ef76b883dccbeb654031b25a7f08724709a8800c025b48af1e9f5823c36be1ec92bf75552e94981f111e9cd6d27afca2bf0dee9c850df2547c80ba2bea391fb27e8f4074001e2b178b0246ad2fe90cc761a03b11d86e66b8e777bfb38542caf69347776091aeac17d5be5456d3aed11e5a01cbd39/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/74adfacefff3840aae71513689996f3243b0d6083de99e619ff8506ef76b883dccbeb654031b25a7f08724709a8800c0edfd7eb3227712e3c74d911a6ea0316fbd4524c044a19a8f10ac09cbd09f92f47b0ee8d1c76da68e620d33279536d1e30ba70165e48261812c5d4035a4eb1a06bb814edf2030a6a97454e7e82ac04fa9bfa03d029efe3df8d361bb92f6dad374/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6804a9988ab14594d42cce5578bb2d45/eng-2.vtt"
                 }
             ]
@@ -518,12 +518,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/f61cda61ab66844276597b1a06650fa0e9b4457cd896ae6a3469c870bc908b69fe2a2d4b20ab4159f3343f1b87c1b8ff303e63c5852e43cdedb1382c8cd698ab273bf895f5d606c13d9887c5de835b531288bb3c5f4b47c78fa928e2c772c6fe49e35e6cf77cabd0bc02188d2e443b371df66122a3db12f9664bb4f869aac9f3/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/f61cda61ab66844276597b1a06650fa0e9b4457cd896ae6a3469c870bc908b69fe2a2d4b20ab4159f3343f1b87c1b8ff303e63c5852e43cdedb1382c8cd698ab273bf895f5d606c13d9887c5de835b531288bb3c5f4b47c78fa928e2c772c6fe49e35e6cf77cabd0bc02188d2e443b371df66122a3db12f9664bb4f869aac9f3/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a37419c688fe204ce736878f2707c0ae/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f61cda61ab66844276597b1a06650fa0e9b4457cd896ae6a3469c870bc908b69fe2a2d4b20ab4159f3343f1b87c1b8ffac5633db94b4cf888d5da50c3c9f79b6cde39cd63eacc1013cedd3a26a0671184dd3bf9308d5cc03893affbedef038e1ce238cce23d4265de8e3919165270c522c245faa61abe8a75efbc2c354ce58038bb96dd41991e427087d34b62585b82b/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/f61cda61ab66844276597b1a06650fa0e9b4457cd896ae6a3469c870bc908b69fe2a2d4b20ab4159f3343f1b87c1b8ff14cfb1f6bd57ed1bcf15ce9f547b2b350ab8f2c50c88ff1b418e2d18ce2a38d2ad6f6e79047149afc24746f0400688d5585a350cc5c9369c9fb49272ad716a69589ac2847e3e22cc1bb466f1dbe59c28cffc5a336ac3fbaab0bbfcc6a12f8cdb/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a37419c688fe204ce736878f2707c0ae/eng-2.vtt"
                 }
             ]
@@ -543,42 +543,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/74c470444788f6db9f4958b923d060539b541d869aed309357f7ae1ee4adc5d344b0699739a7e6e6a2260c4977c1f0d1b6e0e681b247ac6c59ee64b73c409aff7efa631d973677c81b3328d2f28b611fd9e527771d094023248159a41a8404582b4f8f9e75978ea4ab28fb7e0a6c4a9e6350d518ee84aaca7e3ad9ca340a98c6120161e6652080b6c013af8d315359ed/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/2f4f0230da49d4d6a517af63c188344f/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Remote Rush Duel",
-            "episodeId": "yuu-gi-ou-go-rush-18000?ep=95020",
-            "number": 31,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/7fdbc16c43226704c024313d145c8c418387c4277520e8f94f25f3a59da07a14732622a8df241d230cea3e9a038e212a645f76cd445e46106a82ee8889960a041b26af671840e46805bb58835b37f3d3bee8982bf42ff77c34dc16ee86e76bec17fe71ee933cd4af07c4d70dbec2dca08a37bb28d50293449e6faee47de3e3ca/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1b1b731433b19784ed70f1523fa77a1/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/7fdbc16c43226704c024313d145c8c418387c4277520e8f94f25f3a59da07a14732622a8df241d230cea3e9a038e212a387c7a3329549f4689604eac37768859817342bc499a75eaa642a9da9f1b4fd2a1b762ff4f7cc7513751e9f62404a1840d2f4c19402fa08ad4cb5a6e49030f2c03bc215903961cac5e73a962f98c7d69fcbeb7d8cc71056dbd6b71746306e0ca/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d1b1b731433b19784ed70f1523fa77a1/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The Great King of Terror Attacks!",
-            "episodeId": "yuu-gi-ou-go-rush-18000?ep=95223",
-            "number": 32,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/c4f0075ab9b98b2403a1fc36984cffaa9b3f5f9e1ab1bbba58c8364bbed32db0a030339ac6e8e15203a51c67daa2b8f2e79fb12867307cbbd1e5644b747cd64444aa981d1124f6e56bf832ec0336fec8a9be2d9fe4339bb10cdf0d923fc85b8b835e0179aa68f8103ccded92c17c0426bff501cced5d9e1f37d21421ff5a170c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab322eadf20cd096d20294298d04c9bb/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c4f0075ab9b98b2403a1fc36984cffaa9b3f5f9e1ab1bbba58c8364bbed32db0a030339ac6e8e15203a51c67daa2b8f2e1492c24251dd0aab07fa1afe214f9049f3da3bb8abefeeeec57ab9d33c4421577b7e1e48a4f32f0fade14742e0c69f51e60ee857e9bd19a24af24d8647c792499931cf3f18851ed23b69634796db580acb3158c0c478df268558b1d64cde4cf/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab322eadf20cd096d20294298d04c9bb/eng-2.vtt"
                 }
             ]
         },
@@ -1778,6 +1742,24 @@
             ]
         },
         {
+            "title": "The Obstructor",
+            "episodeId": "yuu-gi-ou-go-rush-18000?ep=122282",
+            "number": 100,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/37539b572f3d3bfdf04f7c5fad66bfbabdfad1f8907cefb2532d609cc088b8176f049a14d1f40d731330c8cf6d9a729ab64490a9a7074abdef34b5d737ba1496f2a3e865768054303d0b92694e88478dced89dda6ad10d5a517f6c8b7b7de37c12572a000aa56487aa60b1828a1120fa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d84f86da1e80379f2cf0ac4c60cbe781/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/37539b572f3d3bfdf04f7c5fad66bfbabdfad1f8907cefb2532d609cc088b81703c3539fb24649c0666915c02e074245894eb0222c680b02ad9a2d834dceff89196b9d1543f5649f8ab9f035ca33747fd265675ac145baabc065b71ae65fd2d08d1f0ebe5ef1b2b06aba90a8cde981307bf5deb29e441ec97fe6e81d7870b09a6ce7e36642968b567871bdd953a64f04/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d84f86da1e80379f2cf0ac4c60cbe781/eng-2.vtt"
+                }
+            ]
+        },
+        {
             "title": "Resurrection of the Dead",
             "episodeId": "yuu-gi-ou-go-rush-18000?ep=122283",
             "number": 101,
@@ -1803,31 +1785,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/bd4f74f35747331e7b8356509f89d02e8058eaf30ff5668dad803cdb8f4122b897e893396c14e4f102177ad7c01dea274881e6189d9f8040da3d7c1f761348c1060ac661804a13641cbface99ef21e2f03a743aedf520b98a32ec05bf00b78a67a8252df520c81ac9be9b67bb01888de/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bd4f74f35747331e7b8356509f89d02e8058eaf30ff5668dad803cdb8f4122b897e893396c14e4f102177ad7c01dea274881e6189d9f8040da3d7c1f761348c1060ac661804a13641cbface99ef21e2f03a743aedf520b98a32ec05bf00b78a67a8252df520c81ac9be9b67bb01888de/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/df47a3f7ed9f822fbecf03140554d887/df47a3f7ed9f822fbecf03140554d887.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bd4f74f35747331e7b8356509f89d02e8058eaf30ff5668dad803cdb8f4122b86ed1513da1790558fa036f45f697c1ec7ef2041cff60f168b0f900dd3d2e89f9d9459a0b4fb8bebdb2c67013a5605cdc629f7c43983e06093850061a9286f9f0038cfdb466accab3cce06f977c29ed04faafffb5cc29c27cda98facb853b1fed2afa660beeb32323f53ab049db948ad3/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/bd4f74f35747331e7b8356509f89d02e8058eaf30ff5668dad803cdb8f4122b86ed1513da1790558fa036f45f697c1ec3dc7f54907f5aca83e1589e89c66d5f047a1ab87bfd73e89344bf52f1293235c1be8037ab7614d38d34b4a320038933d6b68799b2a1bf00ba53b746b4aa3e2d6b5467afe494990fa3286ee2fa9f453a5d60b0a47634da466e432d6f093bba7e9/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/df47a3f7ed9f822fbecf03140554d887/df47a3f7ed9f822fbecf03140554d887.vtt"
-                }
-            ]
-        },
-        {
-            "title": "A Currygeous Journey Begins",
-            "episodeId": "yuu-gi-ou-go-rush-18000?ep=123279",
-            "number": 103,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/5f51e6968e5d1c5bf34e4ded103ae2b19fcb823d92a780b6c0e942d19b12dfdcbd1a39a634d205b4d6d4a2cea2cca5e7ef50cffd45e14bb80e89d0f41652c1b81974c0e1bf83b9928218f5d6115b8ad656918386eee542183a778822e466cdbaad7603b314afa6181a66d5cb19b29c54/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb48e0fc1debce9255ef6118770c9f4d/fb48e0fc1debce9255ef6118770c9f4d.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5f51e6968e5d1c5bf34e4ded103ae2b19fcb823d92a780b6c0e942d19b12dfdcf3141f8b4779007b25f1d19e1873533986a6173bfaabc195ee0552e84b18566ff88eab67d7293187bba56bb94d50dd91d5bdfd9345f06be126c99f387cdc836ced158546a5c9fdca6c112d5a882a7c531fc719d3aca8b5aa7f470296aec81019dfebc7a75057230d90271ad05ae8b948/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb48e0fc1debce9255ef6118770c9f4d/fb48e0fc1debce9255ef6118770c9f4d.vtt"
                 }
             ]
         },
@@ -1839,12 +1803,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/96d2359f6e8f8d7682022f83b9d5fd9ae7ec1a64b1178e5d19c594fcadf830aab38cb01e631fba677711814e15224f705d89f7991683edce04c81a7c5b5c8569064f394d0e26188a5d22fae3201cb6f4bcdcc1e4111075b55e5408c47a3c9827a37e33d0c6834cfb553891ccae00bb2c258167b3a0b340bfeffdf8fe12212d7b/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/96d2359f6e8f8d7682022f83b9d5fd9ae7ec1a64b1178e5d19c594fcadf830aab38cb01e631fba677711814e15224f705d89f7991683edce04c81a7c5b5c8569064f394d0e26188a5d22fae3201cb6f4bcdcc1e4111075b55e5408c47a3c9827a37e33d0c6834cfb553891ccae00bb2c258167b3a0b340bfeffdf8fe12212d7b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b91c53779617ce5d5ce898a2c4d0df79/b91c53779617ce5d5ce898a2c4d0df79.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/96d2359f6e8f8d7682022f83b9d5fd9ae7ec1a64b1178e5d19c594fcadf830aab38cb01e631fba677711814e15224f70335174fffc910dc53ad6f4fddb3eb68d8b92a205ba19b39d7f02939d75df1b68954fe909680d738340f61786b4199c22e4bc8d33e00f0ea94025c009156167707aa5f062ae9fa765beb0312f3b49d627a999afe770ab3513d21d8ee056afaa7a/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/96d2359f6e8f8d7682022f83b9d5fd9ae7ec1a64b1178e5d19c594fcadf830aab38cb01e631fba677711814e15224f7032e9a3da9c79ab27580344c4dedbaa0fbb7268a20a3254333b80a4ab852ad4835575d15cc57283dbd7150cd11b1c307d0c94b5bbe1a19f33fe34ec6eb1ce79519b8f234aaf037bd75c774beaeb7985dc73f3e4ab1203ed6e6dd6842172d5aa55/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b91c53779617ce5d5ce898a2c4d0df79/b91c53779617ce5d5ce898a2c4d0df79.vtt"
                 }
             ]
@@ -1904,24 +1868,6 @@
             ]
         },
         {
-            "title": "Retreat Zone",
-            "episodeId": "yuu-gi-ou-go-rush-18000?ep=124090",
-            "number": 108,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/b7f0bbc9ad7c6954b4f78b6ae0d37211194de8348ded463f43a460694a313cd6c05afc65b7f644d4966d5e69c7e3622697e503d4e9cdf29c0a56f471f7de1f99083164eab6df798484eae4ea09e7db33accfa49a13ee0daaada62fca0675af3088f70017b45a2965fd73dda4c34078571f770192fed1ba61d9e23c23235125f8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/64ceb25ccf92e3509b18f2c4592e80fb/64ceb25ccf92e3509b18f2c4592e80fb.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b7f0bbc9ad7c6954b4f78b6ae0d37211194de8348ded463f43a460694a313cd6c05afc65b7f644d4966d5e69c7e36226247ba425b06004a7e91ed6c7970f45af900f4ab85ba403f675a01970f0289754288e602330b7a123ee5f3a0d40b4834abbf704bef24355e35ccbfa934a03bf8ea57e57747f61e07baac8d36cede44e804e19533e5a2746c23e708037e898f69a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/64ceb25ccf92e3509b18f2c4592e80fb/64ceb25ccf92e3509b18f2c4592e80fb.vtt"
-                }
-            ]
-        },
-        {
             "title": "Dark Meister",
             "episodeId": "yuu-gi-ou-go-rush-18000?ep=124419",
             "number": 109,
@@ -1936,24 +1882,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/d91f13b43846515a60a2c9f53b51eb854e758b672d95df5ff68d873217ee44d6bdbcb87baed56ba3f6e3f391653c3e5ae97d11b9e73ed984fe73caab44ab895ba8cf29e59fc32de5acf93bb2ee3831216daa16648dc73ffa667be49fa37a307bd90714bc66f74e210e6458cc7d754f90953d3a50b3de2687e28f539663fd70cfacf88cbb51be194f7ff561712656a1c4/master.m3u8",
                     "englishSubtitle": null
-                }
-            ]
-        },
-        {
-            "title": "It Is My Turn",
-            "episodeId": "yuu-gi-ou-go-rush-18000?ep=124772",
-            "number": 110,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/4c32d7e8fc4f04fc6a4e3a21d952711c1996e2cec98d81bee10dcc148d30c2ebf3a9a621bcc5f4f4573054d57201735a07c7cdf2e5cdced1b34f3118d706bf1ee10d29a9da6216629e1b4e22abb79e4057ebae31c7fa13e81f06bc01dfd8350ec9596e5303ff4b6f5ad0202b707759b7682dbed02583e084051cb3dcd8feedc3/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/9309d15d5134c269d96c5fbbb2a46a3c/9309d15d5134c269d96c5fbbb2a46a3c.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4c32d7e8fc4f04fc6a4e3a21d952711c1996e2cec98d81bee10dcc148d30c2ebf3a9a621bcc5f4f4573054d57201735afe75caf905aabdb03f44a81515fb8b6d1312daffef247695707bb0ed58e674bd7ee42798ce4d1dadf3220bce5713ee2bc89808f4e33e3ab6930f8550fc9a2e0e47e51d16e60651a9e94d484b894d4f8d064c887f78b9651d69ab26d7f7537832/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/9309d15d5134c269d96c5fbbb2a46a3c/9309d15d5134c269d96c5fbbb2a46a3c.vtt"
                 }
             ]
         },

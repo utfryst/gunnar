@@ -469,49 +469,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/b04eef9ce2adaf03ef35d5cffb9f71b7bbcf06b002a327ec7de850de54f6a658725f171eef26a159cbc94d03673f8e0c8eb25cc514f8b20f15cb3978cba1468812fbf9eaacb00c7088a7be79f2516b1f23ccc8f29af5d857fec5d02bb11f67b87ad8574cb562e39700e313f5243d8768ecb6d23934d16d8a97f7c4d63a805b66/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/b04eef9ce2adaf03ef35d5cffb9f71b7bbcf06b002a327ec7de850de54f6a658725f171eef26a159cbc94d03673f8e0c8eb25cc514f8b20f15cb3978cba1468812fbf9eaacb00c7088a7be79f2516b1f23ccc8f29af5d857fec5d02bb11f67b87ad8574cb562e39700e313f5243d8768ecb6d23934d16d8a97f7c4d63a805b66/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d7b3ad6807da875799bfd60f03365f86/d7b3ad6807da875799bfd60f03365f86.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b04eef9ce2adaf03ef35d5cffb9f71b7bbcf06b002a327ec7de850de54f6a658725f171eef26a159cbc94d03673f8e0ce2deac728b7548d39b89ddd09ba62c53b52f62451925973c4c963b6ce6e91914aaee149ca110b19f3edf11ed68d5872b54550856f85d3ed82b4634ec1a9295db7734ff579b682e5d46012c94b6bab549151db7991e782a62bb618a133014598a/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b04eef9ce2adaf03ef35d5cffb9f71b7bbcf06b002a327ec7de850de54f6a658725f171eef26a159cbc94d03673f8e0c8a2172440ac48901d337a415c5f5e8b29520664891e058a30afa0adebddfd54bf6fe2064bf193c3ad9f025be6bcaa87ed7309e05cf94b7b30d2d9d48bc7b247087532015bb86f793ee73e5e94c748bd3cd73708db2e9d1f74961dfd8aeeabee1/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d7b3ad6807da875799bfd60f03365f86/d7b3ad6807da875799bfd60f03365f86.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 21",
-            "episodeId": "romeo-and-the-black-brothers-166?ep=69866",
-            "number": 21,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/0a28abc3867793a60565af5accb32c227332f2149f0290f0bcbad25a2f87e4df73fceb301ccc0ea41ac5c4f5aef2dd7ee6a5f610eacb254eeef762958df9d29f645d95a2020ed1199f0207858926d3b69c9a34ba710bbb54b68da93f0dfa95ce03583afced141480e37334b348db381f088ed9a41e271dcbd2de2fe093a99503/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ad35c71ac44efd7f6df1a319be61885/3ad35c71ac44efd7f6df1a319be61885.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/0a28abc3867793a60565af5accb32c227332f2149f0290f0bcbad25a2f87e4df73fceb301ccc0ea41ac5c4f5aef2dd7eb553bc608d49710b279b7c29a3208f928ce96caa4b9cce1c2edb2d509df047820ea850bcd477dd4176974888f19d788936513502c53b1f1c5f244bea7c24f7dda8ff0a0bd6dbabb04d62a5b252d6f7c8a2f2d9707f6f563156cc3ae7bfa7f33f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ad35c71ac44efd7f6df1a319be61885/3ad35c71ac44efd7f6df1a319be61885.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 22",
-            "episodeId": "romeo-and-the-black-brothers-166?ep=69867",
-            "number": 22,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/96a221b14d7223e34e359eff7f0a0144e18aaa0d184fe2a45897e2f57f473cc8fe037803c5ba1f50fd7a36946e0aa751184ef6c5d4718a88fb0fdebeb5a245f3fef091ef292acf076caa346663418ec67fc365d11586cf6d37b933de24ef6f72d6bc7241f05280d86dc9d7fc35a40e42453a4026ae9de1a8f8b7ec60b398b525/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/078a4165bd4273d1c3903a7bae21d983/078a4165bd4273d1c3903a7bae21d983.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/96a221b14d7223e34e359eff7f0a0144e18aaa0d184fe2a45897e2f57f473cc8fe037803c5ba1f50fd7a36946e0aa751694a9b833b70a511d5737e7e277162c86ad2831790236fb88bb9833c482967a155a7ab8f1f584b6960bbb44edc7469d3dbb395633f7560f22c0aa94cbbca1bd6b7c0bfc200308b986d5d2f9b5430e93d4b42b3e6b5f6a58547b242b5318eaf92/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/078a4165bd4273d1c3903a7bae21d983/078a4165bd4273d1c3903a7bae21d983.vtt"
                 }
             ]
         },

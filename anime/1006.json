@@ -149,49 +149,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/c651f8ad61967f8b71dc9c403966baeaccf4ad0318f8b592e2ee44427ad3899b3db298ac98179a2845475862fb4a24664d11d93a8ce98420da8a8651e373660e15acd3fd5a1643e0c8a582b79997a41fd1e7f320b1240689cd125a4fa0e337eebd3cfa81d481213ddeaa5bef67e399d20a8fb49733e18368393c579d8951167a/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/c651f8ad61967f8b71dc9c403966baeaccf4ad0318f8b592e2ee44427ad3899b3db298ac98179a2845475862fb4a24664d11d93a8ce98420da8a8651e373660e15acd3fd5a1643e0c8a582b79997a41fd1e7f320b1240689cd125a4fa0e337eebd3cfa81d481213ddeaa5bef67e399d20a8fb49733e18368393c579d8951167a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/01f86648e383e2f28b3bb8784f89c5fe/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c651f8ad61967f8b71dc9c403966baeaccf4ad0318f8b592e2ee44427ad3899b3db298ac98179a2845475862fb4a24668cd06fe41aae6fb539adf209825ccd29153563d7a05b6ff5285ccc75d52996a7696af324ac6d7e198bb4b9ce9cea38cf909179951e2cfd8e9e89da95b7e97208faf6a525830c034d7f16899abd01d71847089d6c02d92f503f7ef8e34e251102/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c651f8ad61967f8b71dc9c403966baeaccf4ad0318f8b592e2ee44427ad3899b3db298ac98179a2845475862fb4a24663e692aba89d54bf9b5dc8a59e25dc721eab120b76fe88d4aec72b90dfe736e76a5531ebbdcf10d29120de12afb287e887985404dc2d5ab70f800e4ae2cc957a9897b30620afad1f11eb5b6d9f047bec433d52e4abea604505752fc5951def6bf/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/01f86648e383e2f28b3bb8784f89c5fe/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Short-timer",
-            "episodeId": "aggretsuko-1006?ep=16462",
-            "number": 3,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/a726ea1d775c43af5f1879286c30052dad50370079ab77a8f9ada1408729db6e99c920f675ec2bc92734069d78bfdfd10de5aabc0f6c521cc9c157a5bcc2e784f38fd7ab67f2c3ce834d1d5ad24bc96124c4b78656e21afb82a9a5c2f3f8431d82c62d060b006de8da5b04063f31ba67cfe468bf64960c9483a185ce9e7d7cc5/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/df039867e802f72586b8c53d16187b93/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a726ea1d775c43af5f1879286c30052dad50370079ab77a8f9ada1408729db6e99c920f675ec2bc92734069d78bfdfd14af9342a25e5072e69b6d055a53c2428d838bed882c976d2f68f62a412fe5ead4296e7aa90d3387ad7b3ab39cd39b3ee7f93783ef2ad3a691506079f5bcae9ff2505282529661cbedf3281f2567ea9e27601badeb64c2eeb71631c061004aa84/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/df039867e802f72586b8c53d16187b93/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Walking Down the Aisle",
-            "episodeId": "aggretsuko-1006?ep=16463",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/a19a2d34e879098c218c3327ecf5d2fe242242da4c53fcc5b9073f89560d45e39574bfe6ce294740e0cd98c224466868593b18ff96b41aea3023d120f10112851e2c143a006561a048c0e8a6b76f28323488aca5c9036b2c207589af385e47cc57223b74c410c23fb221acb5d6fe49ede53aef7b7d4f1be68d5e42fa69ac9864/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d643ed9ed719821f1ccff971d3dfc68/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/a19a2d34e879098c218c3327ecf5d2fe242242da4c53fcc5b9073f89560d45e39574bfe6ce294740e0cd98c2244668687316988f12adfddf2f90c1a8ea8a5206d1d94e0da28e4608939b19b58bbb67a85648a66a0451f795b05cef68aaf7ff5eccb1fa06e94fc498ab62d0fd597dd5b2b18d090b2a38b7642825c758889c2fc423d6ed57202de5d8356d5bb68653d8ef/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/8d643ed9ed719821f1ccff971d3dfc68/eng-2.vtt"
                 }
             ]
         },

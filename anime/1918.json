@@ -263,31 +263,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/ea55b9e26d9bba1f6c56123f79dd8cd51996c7d5eaf4eac9a93abe67b3aefb915859ade13f01a9b5b726bfd48de6202d53a5450985be5e78e65942bb30cb0a4a55b4090e2dddfbe5924c77700190b4f963d9000162715092e6b7e145768938628d0e4950c1b6f7d34194f496c0aded364e0bb26b5527478ca01bdd0df823e4e9/master.m3u8",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/ea55b9e26d9bba1f6c56123f79dd8cd51996c7d5eaf4eac9a93abe67b3aefb915859ade13f01a9b5b726bfd48de6202d53a5450985be5e78e65942bb30cb0a4a55b4090e2dddfbe5924c77700190b4f963d9000162715092e6b7e145768938628d0e4950c1b6f7d34194f496c0aded364e0bb26b5527478ca01bdd0df823e4e9/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bf11af6657b86544aaf62bcf5e8978f1/bf11af6657b86544aaf62bcf5e8978f1.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ea55b9e26d9bba1f6c56123f79dd8cd51996c7d5eaf4eac9a93abe67b3aefb915859ade13f01a9b5b726bfd48de6202d5b6b8ceeac7bcf491e39794eef6307e9f7a9488bc0edf93e6ce73d372568991cb45336d292c08a004366ca9776054ff5dfe6b75edbb869e0e3f0d74329e5ed6cd5dcf0d1e5933db26b0ce5aac83bef588c372490ef8bb45df200bf62f92732d7/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/ea55b9e26d9bba1f6c56123f79dd8cd51996c7d5eaf4eac9a93abe67b3aefb915859ade13f01a9b5b726bfd48de6202d596faaa84b0b82c8ca70ec44e4893de732047b0a0d607ad406c2190b242554278c8a5861417bec8e2cac3f06e3999c1e2704418b5e36f2bfb35e9f07574178be0d8f14485411a0e0d90c6f7bd8988f7aeb6710eac7892a551b8658c32955b502/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bf11af6657b86544aaf62bcf5e8978f1/bf11af6657b86544aaf62bcf5e8978f1.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Yamadeloid",
-            "episodeId": "japan-animators-exhibition-1918?ep=23967",
-            "number": 10,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/69e568c368e2b884342aa84667b452419cbf6097bcb954f455d70951fe8a5fbb39e033572267c84dd3aac11b76157f18a8415ac9a5adea2af0a3c75810f1f8abcd3f013444b4a126e4eb08116ae6a1d955f01ef154e3f1965572ba276447a3c04c4956e493d8f3f5c2e85cfd1a18042265c29066486d68028d94861a65bab4c4/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/912bcdd622ba4d595e2bc1de23147be0/912bcdd622ba4d595e2bc1de23147be0.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/69e568c368e2b884342aa84667b452419cbf6097bcb954f455d70951fe8a5fbb39e033572267c84dd3aac11b76157f181d17036610b113dea57cfe532b1437b10176c1fb06f71aeacecf40d7a8ac38b7c3b938192d58f632b7dca51f4fd0c06ab43a720157bf38134c1e0dbcae9e4556ccbee2291e07c17c134b9bd42d6586585d12d0cff5fa5f2f2feabecc28f0df99/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/912bcdd622ba4d595e2bc1de23147be0/912bcdd622ba4d595e2bc1de23147be0.vtt"
                 }
             ]
         },
@@ -306,24 +288,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/b7c7be0c0782c719203786a089ca481a4cb240662b2fd91350275617e9c0a87953f3b6bef0bd9712c1cfc62f5b6a6fc0980c301759c5f268b62a54b9ae38fefe67b7f0c7c1c8f36c071c07fc920ffadb57cb40d31a4402136f87233a68eaefbebf950363ad1bcaa2a2c667772c6f28a70ce1cc3ec680e32e99a97584f7bbee4ed2e3996601b7aadd4688f6ed525e6fdd/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/cf44441e54c27c7adae7bff96956e793/cf44441e54c27c7adae7bff96956e793.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Evangelion: Another Impact (Confidential)",
-            "episodeId": "japan-animators-exhibition-1918?ep=23969",
-            "number": 12,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/69858c799b9b5f2a306bbe220c23397898504b056ff567c4e8044d1f0e71502cf043c1597577204e4a1466a4f1aea5afeada638ad63b95dc91d8a3e1d66ad03f5580758c38de6f4eebf5ab2674035f68d314a9ee0038820af044c358f05b115c73325668087b48f5306feccda8db2a2e950f3bbc51a0b731cb6eb64790f55226/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6badeab1521283eec76d31bfa280fce/d6badeab1521283eec76d31bfa280fce.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/69858c799b9b5f2a306bbe220c23397898504b056ff567c4e8044d1f0e71502cf043c1597577204e4a1466a4f1aea5af6f7e45533b46bedd20a7cbc4d3c5d0d278d8b9355e5a1b113d0cbb405df1d75eeb721711129aa56de5e887461a9e65d169199232dd50d94e1449b5363fbc528a7052873b96af83e5cc5c025ea860d479d4fec26e8923c5bc05e709bfb07cc9da/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d6badeab1521283eec76d31bfa280fce/d6badeab1521283eec76d31bfa280fce.vtt"
                 }
             ]
         },
@@ -540,12 +504,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/bd998068b23cea8474c41ce55f51d31d692c684a59bfc1a69762524a3362e276d8bcb74eccebcaa95d327b5c8e714beb9a3d9e9378d5c39a16441d4fef89f9baca34c9a5c1d315ed17812ce9dc132fec034fffc83a236e925f263cc6c7ff887632411fc0fc1f8b64de420b0601ed22a91bcaf90c67922a9036ea0e3b2876d682/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/bd998068b23cea8474c41ce55f51d31d692c684a59bfc1a69762524a3362e276d8bcb74eccebcaa95d327b5c8e714beb9a3d9e9378d5c39a16441d4fef89f9baca34c9a5c1d315ed17812ce9dc132fec034fffc83a236e925f263cc6c7ff887632411fc0fc1f8b64de420b0601ed22a91bcaf90c67922a9036ea0e3b2876d682/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/12f5da18ca37250ada456a064a9deed7/12f5da18ca37250ada456a064a9deed7.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/bd998068b23cea8474c41ce55f51d31d692c684a59bfc1a69762524a3362e276d8bcb74eccebcaa95d327b5c8e714beb14a7e9f395d951216c2920b1ac0357cea8a767cb71399eff6dfdf55dcaf23d6d11ce9a8d2f5115084603b1f87f629d498f6981b026134fb6ac3020735c4e056c6fd46ede51a779b3c3380a862006f6fa19ec4f2cef6531717bb23eb058a92ef4/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bd998068b23cea8474c41ce55f51d31d692c684a59bfc1a69762524a3362e276d8bcb74eccebcaa95d327b5c8e714bebafcef227b7014b65c71a1c36923cd5258d7eff4e3d507e3face727c922a11c7013b17add754433a42ff4eabab37afb240fb4336497ad460149609a4cd35f4e1137ccdb85ffe6e5f6ebfb8af5a5da80b5e3e5580f5a6ecd7e7e40512f90e8df33/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/12f5da18ca37250ada456a064a9deed7/12f5da18ca37250ada456a064a9deed7.vtt"
                 }
             ]
@@ -565,24 +529,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bb8a2818cc6707cbd316b59c5a37c96b030e792d215bd243cacbc870c8db0b49b85ad2a803dfb832a5401c274995e15f598f3d36da7f29f0a8abc6549c12a8658c17c9628c5d4fd2e9aaf5e4321f43c5fc2f99c609da438c2c802a7770f5da26979188caa47845f36afc261b60527bfa90eefeab6c916c672203f4ed24e08beb145a4c106445ac4ac39c4aa3f372c757/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/fc6ac356aa614b36848f18ab2264aac7/fc6ac356aa614b36848f18ab2264aac7.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Bubu & Bubulina",
-            "episodeId": "japan-animators-exhibition-1918?ep=23984",
-            "number": 27,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/68af7a52c0dc8f1cb2d381f9cdd844315e037297ecce17e50b0050e5b4a33226c62c9ac33f243a7e0f6989c2d10d6c4a4a325d59fc73b71db6c3d03b5bb77bb76f33f0261462bffa07ab58faec8b4b32097f602f145343454ab21b22c5811e16cd24e39119b877e2dd0a62a47865a66465a8779109abfe73ef73beb855538254/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9bad7a33ddebb25e378259d675fd932/c9bad7a33ddebb25e378259d675fd932.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/68af7a52c0dc8f1cb2d381f9cdd844315e037297ecce17e50b0050e5b4a33226c62c9ac33f243a7e0f6989c2d10d6c4a04f26dad21d9e4db6ed2e46bd34762d04a2802916ec8f6e24793272f1c1fb2acab97db7c06377e43c34e0916655fdc84e4b736ff4ea6b2a9593433e6f63d42dab75df2c3152a412611bc4a254538290cba8c82da7398d66c37c66685aa8b8904/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c9bad7a33ddebb25e378259d675fd932/c9bad7a33ddebb25e378259d675fd932.vtt"
                 }
             ]
         },
@@ -630,24 +576,6 @@
             ]
         },
         {
-            "title": "Girl",
-            "episodeId": "japan-animators-exhibition-1918?ep=23988",
-            "number": 31,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/1991bdd9a8944a69f6044bb9bb6874fdc24142c0a145d6fa7cf1ecb3383dcd704ad3387d4d66326e100f325df252b5d3be790151e57f3ec4097b5b0dbb28a60d169e0cfe1e54b61d16eb8bbcaf95614fb78fafc40adce414e8bb28b24114b95dd0a69d6a76edafe2525263029ddaaabcaa223710207e06fdb55efb13d4178a8d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a50dbbed6b37e302a71f3a14a584f359/a50dbbed6b37e302a71f3a14a584f359.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/1991bdd9a8944a69f6044bb9bb6874fdc24142c0a145d6fa7cf1ecb3383dcd704ad3387d4d66326e100f325df252b5d35235458852a840dd2185cceb7847c4e25260579f96cca5384f003840345c580c22baf3d911971ed352102181ac2f1f4853c37bbb7309496721b798fea8a7359ca539fd49372831cec2bf8356497b2956cc01bbb03ae0365b4666f5c36ed67117/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a50dbbed6b37e302a71f3a14a584f359/a50dbbed6b37e302a71f3a14a584f359.vtt"
-                }
-            ]
-        },
-        {
             "title": "Neon Genesis Impacts",
             "episodeId": "japan-animators-exhibition-1918?ep=23989",
             "number": 32,
@@ -655,12 +583,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/532e40e2c85c32103736b494874c4045be461df5f5ee26617c72ddb0cb7c520aeaf8c3200332eff69379b0b3daab7d35992c1545d4ffbc1bfefa711255a5fc2e1b6b5cdcdf6d84647916c441188a2029d936cd7d361345c0781cdd0381939f8e58c30c2c48c3130def287a454786aee61cace8297be68a72f3f81e38b92d8a97/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/532e40e2c85c32103736b494874c4045be461df5f5ee26617c72ddb0cb7c520aeaf8c3200332eff69379b0b3daab7d35992c1545d4ffbc1bfefa711255a5fc2e1b6b5cdcdf6d84647916c441188a2029d936cd7d361345c0781cdd0381939f8e58c30c2c48c3130def287a454786aee61cace8297be68a72f3f81e38b92d8a97/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/da27ab8457ca12f0e36fbd27c42f2020/da27ab8457ca12f0e36fbd27c42f2020.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/532e40e2c85c32103736b494874c4045be461df5f5ee26617c72ddb0cb7c520aeaf8c3200332eff69379b0b3daab7d356318ed1af7bc869d79e29afd9df18ad58ccc7c31977988309d11cd04b18c242fe4d5337029cec8b49d26b4f12a8e25791b1efa2a4e78013d6bcdd35ebff0b2ae5a9f19ca70b5a405927881972bfb27fe7d7cf02d06af7ab738f3d374ccb851ff/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/532e40e2c85c32103736b494874c4045be461df5f5ee26617c72ddb0cb7c520aeaf8c3200332eff69379b0b3daab7d353cde1c79c3a66a74e6563c02efe641f377752947707fea069d37cf3c8bd3e6b046cae5895d2b86f1fbdadd1274a91f8b98b3099e7d448a752152dd1d6dc35d1f81b2a3b5586854f22ca1416cefe21ae0118fabe162aacc280245d1f865efab90/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/da27ab8457ca12f0e36fbd27c42f2020/da27ab8457ca12f0e36fbd27c42f2020.vtt"
                 }
             ]
@@ -698,24 +626,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/8f7f9fbaa8665c17fefe183a0aa290e9341204556f301fb58d38277361fa958a6e982bb30000a02f69a06450dd79159ffe5b7d3303e84488fb09d24ef24aab3da80530ec1a770da4a37f165ac2ad9c3a55380e10f9a6e23e4b19d882acb3de5395b2b33228a2009b3e9be8f6fe7a3fd7b808f39463d9ab668cf8a0e11482c45cfd2fb83b12248b4ca552d6b9487af1e0/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/25508f760a34f317567bf785c705e36b/25508f760a34f317567bf785c705e36b.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Cassette Girl",
-            "episodeId": "japan-animators-exhibition-1918?ep=23992",
-            "number": 35,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/19f0a00a4809db26903348926242c7e1a89d47f7365d0a5866563646ae728add109cb0a907d8d0e3c2e9f2635e877dda2c01f20df9cc3c926c8515c303e4b46933bd8098e17a9488c001a288a992380a6607df2fc174c96cee181c96b3126661bbd7e943a1121bb4a39d271aba68bf1b242cdbb6a94e7dfbb3c00f44a9d09955/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b02e4b165e6616ed7efd78ae424e8390/b02e4b165e6616ed7efd78ae424e8390.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/19f0a00a4809db26903348926242c7e1a89d47f7365d0a5866563646ae728add109cb0a907d8d0e3c2e9f2635e877ddaeaf90137a0358307631094defb8e1fd5ac213b5df156aaa121dff99955bb09c78d3c309fffcd2c23b516dfbc41928b3bba3a2847e575a42721a53a57dc1474b981425bc43c451d6f84b453c689880dc7bdaabd1d0265a50616ba593bc4549138/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b02e4b165e6616ed7efd78ae424e8390/b02e4b165e6616ed7efd78ae424e8390.vtt"
                 }
             ]
         }

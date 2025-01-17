@@ -212,7 +212,13 @@
             "episodeId": "futures-folktales-2-19378?ep=131716",
             "number": 11,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/599d6717965289af383b8eedd412428858e1faa923031b4d386a2b1aae42fbe4b32a9676c68f61596c7a1ff2183d2d569175ba4c30bad8c20f71ed960d48dcea76b0840bf43d58d36c113c4848931999cf9181949bcad3f2e93f3d3e4e194010eb00345049e67a6d1573e2d4220777486b3e2168b7ca78b53792a1382ed200fc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/69227fa7c19f223f2994058f49101441/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

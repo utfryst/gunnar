@@ -199,49 +199,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/63b8404488b8ebf7431b24155748b3a9ee5e4ba0234152faaf73745e5f6ebd539b55c81118d1bbe2f173b8431cce4552f3b0bde7de585f85d157964479b1ab1a174fa54f323fe07b2945641a8daff37266c42575acefc57c53858c85a9830fb393f2616a3fa4a73fc8d4e6664a58fc06297247298dd538201e493b20d1fc9502/master.m3u8",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/63b8404488b8ebf7431b24155748b3a9ee5e4ba0234152faaf73745e5f6ebd539b55c81118d1bbe2f173b8431cce4552f3b0bde7de585f85d157964479b1ab1a174fa54f323fe07b2945641a8daff37266c42575acefc57c53858c85a9830fb393f2616a3fa4a73fc8d4e6664a58fc06297247298dd538201e493b20d1fc9502/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ae5d0bfc28579cd4632e268709c660d9/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/63b8404488b8ebf7431b24155748b3a9ee5e4ba0234152faaf73745e5f6ebd539b55c81118d1bbe2f173b8431cce4552733e07cd9573282b4b041ac3fef1c93c749d14da5cf80e44a6040d146e3dc24acf5d89c46634d3e7a3b75c4ad6feae703cfdbd338f3ab946a0b48ef4c3e466779bdbeba2262447194921747e62827b0c7f9714e840b680bf013a9db9ea47b9ec/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/63b8404488b8ebf7431b24155748b3a9ee5e4ba0234152faaf73745e5f6ebd539b55c81118d1bbe2f173b8431cce4552a234e043c329612b45edd73750148553dc1cad5f485cb45124baf213ef4b308706463c896e9dc8ea30e21882b505e18ee17995744f7bdb74f12057c4ac7dd2845cac89bac757bd79ccc24ee19221d816db2c57efdb19458e317208cc0ce9f546/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ae5d0bfc28579cd4632e268709c660d9/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 11",
-            "episodeId": "ze-tian-ji-4099?ep=89445",
-            "number": 11,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/9f64ad42c1701f4edd116a553d57657d5d4bc35108c523880ee13eede84f25ebf35d0b910198b6cc87dd93463bf81d40c3f73a4ace04a4e0a77ba5a02f3b2adc41ce1af633cdc72f0806a3ce3180612da15c865eee81425ac99aff509f50aa1c2a1d48aeb28b408f92cf882af27d548a3bf1870bee3653589ccf1302d38fdb4f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbe9f00d6e2ebbb49e84d4b14d157209/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/9f64ad42c1701f4edd116a553d57657d5d4bc35108c523880ee13eede84f25ebf35d0b910198b6cc87dd93463bf81d4013f1339c6af27f29ab5ea7c471986c074f4e602349eb8fdcb5659a32bb11ef6bf5a5202af658a02b1e649e43de87f1b4aa53b850e042644a89193641449c2c18d78304229596c531bb6aa68d4e452aedd3940569a4ab27fd240a378ab788982a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/bbe9f00d6e2ebbb49e84d4b14d157209/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 12",
-            "episodeId": "ze-tian-ji-4099?ep=89446",
-            "number": 12,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/946bd09ecad0aac2836b8bf4ed723a05fe64e32b8607885c2de2960a046747218ef2e91ac1258ae8c2530e16e251f8c4fc487a7f2a00b2a2546120bd0204a0c37692a1db81d242f590fefc2b1ea252877baa269ebad9f9e15a3a3d5d5701fddaa006a07215778d7fc5fdc445095a8562d913d09fd54727264d66b6fff0f73ab5/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3f6258d90a8391ab143fbc32a2b875d/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/946bd09ecad0aac2836b8bf4ed723a05fe64e32b8607885c2de2960a046747218ef2e91ac1258ae8c2530e16e251f8c4486385159c9551f2c22a311d6de0f697d310308a34275d5b9e0950da82f3cf3e3a96e6f5f3da3c0c6e654971d618f6749c80a8bf0b6f0ddaa749ecae2467ec8cabe637c15a1eca40ce6499d8e49f5bc2681b7843a29eff35371c283fcb4bcdb2/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/d3f6258d90a8391ab143fbc32a2b875d/eng-2.vtt"
                 }
             ]
         },

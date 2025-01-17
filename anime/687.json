@@ -208,44 +208,8 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/4159e6a946e53a6784a179586364238f2b0e3b3a02cee7b0cbc54debcb6886848b1f464e30bea662d7271d6776d273f2285b8ff6d31ed37af5a697933895703836e6bb22f61e15effb83ddedabd5711c1ee8a819c882a2d1ec92b55c3c3793ec2e2e47a36a365980d3d82e3ce9c0044638b762a4bf46d840d2ec366c0f9d06285a37072987c82e3f86c0ec7ed4fcf204/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4159e6a946e53a6784a179586364238f2b0e3b3a02cee7b0cbc54debcb6886848b1f464e30bea662d7271d6776d273f24fd9fc4317ba6ab6a265ef26490320852d1060242541f6de20b2f245f324a5c3038711aa0564c7f3d17f39762e82eb114bd047e6a23704f5a453e3c0b2fa16b35f64a4127cbcac5f0110f4ab46e0e53da22a38bca33c623f46ddb3154f9f052c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6db9577ce94c7a230a881dbb1d532933/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "A Merry Companion Is a Wagon in Space, Baby",
-            "episodeId": "space-dandy-687?ep=12648",
-            "number": 5,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/06e35b4ac5b81ac2440206a8ddcfb6aeb8aa786cd30319a8b82abd2cf542c2772e01e04dfb79f3b75b11da2c1dda33e6f876154bf8c592bfac7715f6487fe08ef40279eb62f04b6214beda2f5c4bfb499736f724dee20e363e77449666f33658c403d82080013aa57bba652a8fd0d096fae153dcc74fe7e32d9dfa62afdc5cf6/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fd70e84559cb491c89a1057f943c000/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/06e35b4ac5b81ac2440206a8ddcfb6aeb8aa786cd30319a8b82abd2cf542c2772e01e04dfb79f3b75b11da2c1dda33e61a76d104479deae39ae6d900a3c5f90650f086e89738acfb232c8bdf6867991c77dc87f9ff26fce71e29c524b9cb7d0839d56492b0911f031ea19ba426ab34b658df9f1a5b44ce8ee5a92b024e21b98c44cc9f7373804faad68de4d427e6f547/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fd70e84559cb491c89a1057f943c000/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The War of the Undies and Vests, Baby",
-            "episodeId": "space-dandy-687?ep=12649",
-            "number": 6,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/9d037080abd34fcfe4b5441b73a54d9e85d508f8bb204ea5416c27c7b20b38abead1850484a9d7b32842bfc7edc0492b6af6dd21f89d6a5ec03aa6ed4bfac9fb41e9eaf570d9894c2cb33e0eaa83fc12eeeb8c144b0db3302ed27f73b6836ae25bdb6a82dc2617edde5945d2a430c8ef88c487313542ea38f75849d5cfb9469b/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba9654976559c77646e0b4b1fffdeb10/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/9d037080abd34fcfe4b5441b73a54d9e85d508f8bb204ea5416c27c7b20b38abead1850484a9d7b32842bfc7edc0492bc9b8b1df84661b5b553751652ed7e4dd47673b21ad67286ffaf5719f4d72cbecd9772ead9568d28667529d48ce2a96fe6e1a25d4053370b7e8bc2a5ff9a502f2a7dc32beb299bb163c1160acf05fb584dc21e9b8420e1d4d6f503d80660bb65d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ba9654976559c77646e0b4b1fffdeb10/eng-3.vtt"
                 }
             ]
         },

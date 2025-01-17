@@ -413,49 +413,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/cde31da44f70c0dc61629957a93790ffa235fca5685fcdd2aaae32c86fcc6f1f0875f7151d9cd0116d51ef7ec13c61b4384f967326b0028fa51087479dfb3af41225734b640756357d45525aa235fcd4d18181c67606a5e19e731a1b1ffa535956ce61a8f31425073916616f83dd1757495a3cc7bf62fea56c5757306ea01357/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cde31da44f70c0dc61629957a93790ffa235fca5685fcdd2aaae32c86fcc6f1f0875f7151d9cd0116d51ef7ec13c61b4384f967326b0028fa51087479dfb3af41225734b640756357d45525aa235fcd4d18181c67606a5e19e731a1b1ffa535956ce61a8f31425073916616f83dd1757495a3cc7bf62fea56c5757306ea01357/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ed830bde39fe1ee066364ba798d6dc41/eng-3.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/cde31da44f70c0dc61629957a93790ffa235fca5685fcdd2aaae32c86fcc6f1f0875f7151d9cd0116d51ef7ec13c61b4468e4baa6322ad0d773900928e36038436e420bc8e7f009c97add4e8a24887e1cbb3a4a713150aa4ae944e35a19d6266c22d3853a1a818ccec7be848e2256957e961db70570a4f6bf331897eee7ee5427559ac132cc2f1641e918c2d8b5a48af/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cde31da44f70c0dc61629957a93790ffa235fca5685fcdd2aaae32c86fcc6f1f0875f7151d9cd0116d51ef7ec13c61b4194df81884c0d5fba2854ff65cd81a8fae1f4af8c86a0cabf46ae87a9a69e402fd574c53035ebbf7917242c783eba760048e39d011eeff3ea68f95c5d809933609a18b26500c606dd5675a1cab504f5abf6c83f6df3f2a977e49c4f891b49b5a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ed830bde39fe1ee066364ba798d6dc41/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Johansson's book",
-            "episodeId": "eureka-seven-ao-4741?ep=38993",
-            "number": 17,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/efa5f03f705d3c349f03b78144b7002e600879cefef89459a41857568e5439d719f1f7379ed72163cd7352798200dbcf54d7ab36d453b198ee5ac21511286d2adb92147f866195616835494a937e1ee77cb59a404081c042d6f4e46a763a18d9c74fd228aade14ae2d5e8d4a40d8b8fda2d893e32bae90edcba1a616e4f25346/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdcbcc214e57efc5f7ef6b9bd3468ca/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/efa5f03f705d3c349f03b78144b7002e600879cefef89459a41857568e5439d719f1f7379ed72163cd7352798200dbcf006435a76d7c560e74a18e9b07d0650248f4a7b4f9d8e9e1abf2e1168b5ad7d0f086153090fb749df83df475ba1783f052be08824f3c051d157328b34729d558a2132dab805518583736500c67f9f034f09d48b0c6fe7485f8003d05b78d4b4c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/9cdcbcc214e57efc5f7ef6b9bd3468ca/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "third engine",
-            "episodeId": "eureka-seven-ao-4741?ep=38994",
-            "number": 18,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/e1e424c40dc190d9509e783b37f3a4a99a363d78ace299f1c2e94fec730a7bf60c1928608d656588da1cc2070f6e7a91324b59a8c24fcede42c5c514daa52f8af6bd8549f576e75e40e6bd34414bf0ae1806d4365110dd68a0eb02139a7cbdedf2fd587f2d844010c1d49080ba2bab3cd1c3cf4ef0f3411594d0ea4fb31b65f8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb712977c632cec1fc43c06b1271e253/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/e1e424c40dc190d9509e783b37f3a4a99a363d78ace299f1c2e94fec730a7bf60c1928608d656588da1cc2070f6e7a91195fe5e6d07f8945baa066ff17cd69500a2efeb2ff520f852a1e2d1500ecbb03258a86dd8a881c2f6a05199149d6dc87a872196236bbbb7958fbf84b2b51d66088d39ed7e0694a068f0b61ae90d8e1f9e729a2e6c2f9957c5b3d9d3fb80f273c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fb712977c632cec1fc43c06b1271e253/eng-3.vtt"
                 }
             ]
         },

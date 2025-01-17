@@ -322,21 +322,54 @@
             "episodeId": "gintama-silver-soul-arc-second-half-war-21?ep=796",
             "number": 11,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/f73747e885752ec9a466694fcdea05acdb1f6722c99f2913e4817765ebb4c65a05443b60af44dce13159c8fb69b44687a398546abad1fa0b770f88fae63c56856bd6961cca9720c168cf7264e64698ce2e50a79965d2890e2124e167bd2c3df476ad3bb5e4f33c43781c0bac243b215e860fb7409df51cedc873bb9f2b90b46f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e590b61f30588045c001081b7ae6bc78/e590b61f30588045c001081b7ae6bc78.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f73747e885752ec9a466694fcdea05acdb1f6722c99f2913e4817765ebb4c65a05443b60af44dce13159c8fb69b44687725c7b89a64f2bbd767d9c590776c5a539acb737053bab9077ba9a9ee0f308fb64742bf71b3a9d5552ce24ef3b623457d46a02a8945f25b3d2c7c9e9861dbc53da457fb2e0344f85f9001a2e815d34282d7b52600abf6ea587b93cb04278b26a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e590b61f30588045c001081b7ae6bc78/e590b61f30588045c001081b7ae6bc78.vtt"
+                }
+            ]
         },
         {
             "title": "Salvation",
             "episodeId": "gintama-silver-soul-arc-second-half-war-21?ep=797",
             "number": 12,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/8d28ed34db229282435916342e266b53cc04a6950a2348abc5e94eb7bb7c55ca8f9dc05701c46dc66e37c5b1b9eebf7fac2c2468524089dd784840a83b753f821c4bfe8491a589d5edec276cc0dfa0ca24eabb5be211a58b1165be2ee3a08672033903f7d1e0a208a15fd748193ae34f1616b6882c537f34606aea350174e653/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe05c5c4de418a153356ed7c091d32f/dbe05c5c4de418a153356ed7c091d32f.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/8d28ed34db229282435916342e266b53cc04a6950a2348abc5e94eb7bb7c55ca8f9dc05701c46dc66e37c5b1b9eebf7f5c713e6c688a4363b25d9dc3ff16db2a86c5178579e5830b8d46d22fcf1a4889def7cc6d3afdb8e590246f9c81b7fca1393520174c4082111013c2b41b9a293831c7e2cbc2058e0c4189e3d8eed02ee9e39d560a5446cc1283c985487499f2bf/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dbe05c5c4de418a153356ed7c091d32f/dbe05c5c4de418a153356ed7c091d32f.vtt"
+                }
+            ]
         },
         {
             "title": "Dun Dun",
             "episodeId": "gintama-silver-soul-arc-second-half-war-21?ep=798",
             "number": 13,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5d8443d0f4dfed46aa0e3c806b16dfefd25c7c8af48d44a746c9ed7acbec95c3a4898fab3b7e7b5ab919513d562d654d6280449ba1e0420e190f95319d715d7763399b40f884361ce8f3ed63ce400b09621aaa8b337bde6efff17d77fcf81b55def45c8f04380ea9e003a7a57ccecb133c9154f51e73344bcfb04eaf47cb496d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f915ca70330408f017afab9afa48bcff/f915ca70330408f017afab9afa48bcff.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/5d8443d0f4dfed46aa0e3c806b16dfefd25c7c8af48d44a746c9ed7acbec95c3a4898fab3b7e7b5ab919513d562d654d634a97ca8625622f24e6f7276bca268c139c5fe537d38bc2835196722e03770dea44bc8dd8d71a55ad8c12f5046c48ba04e58e213f1a118fa94e418dcabc828d07ac58e03aa8b018e30d25daf72ddf145658128751568f8f8e3e3c4242554ff1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f915ca70330408f017afab9afa48bcff/f915ca70330408f017afab9afa48bcff.vtt"
+                }
+            ]
         },
         {
             "title": "There Are Lines Even Villains Can't Cross",
@@ -345,8 +378,13 @@
             "isFiller": false,
             "servers": [
                 {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/ba0e82dc9d2a133daa19549b980f134eb16ac9744713562d9d291f3c3e459223b7213372772938fccd10d24e778ddd61e90627e497b10a165d336db199ab503dffbafab88da028506289324ef042f4397cfd8845de3915357a44615fd7610e3e9b815c88851c6fbe9d2644f7dd3c40921126a8a201d3eab9f155135b2c82e916/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/98709700a05f241d8cef9ceded64ad20/98709700a05f241d8cef9ceded64ad20.vtt"
+                },
+                {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/ba0e82dc9d2a133daa19549b980f134eb16ac9744713562d9d291f3c3e459223b7213372772938fccd10d24e778ddd61554a23e699395bd31ca33cdb547839d77e501d8d2ac7428c8d5b5780035920bf1bc1e8c75fc4200cf44b539ad11f64e4770ca2efd6f0bd04c4a165c4cf8d6c80ebc4ff41dfac7445a38fa741bd5ac5e47a662bc5ae1279bb06675462030087be/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ba0e82dc9d2a133daa19549b980f134eb16ac9744713562d9d291f3c3e459223b7213372772938fccd10d24e778ddd61799cc994fdac84c8f195a37ed88633d3ddba14c1013cf450cdcf4fdd66c9e85695391e8d2670814e9bbd75afcd5f8ccd6f2131b2515669cd30b3df44f95185ad421f99303b3c7621cf86a849fa721ab6dfda8dcd847025b46f6dd18ab794dc84/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/98709700a05f241d8cef9ceded64ad20/98709700a05f241d8cef9ceded64ad20.vtt"
                 }
             ]

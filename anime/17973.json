@@ -1194,7 +1194,7 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c3f860f121dbabbfdc5b29a40a0c9479827c8273142587a10f22bff9d1506d8b00ca1a33c5822c3e4fab3e6c192ac0506b277db2c4cc1a6e6b08d9fb5384513d9a240300f66ace13672bb23a0a076474993e0feeda00fa24f866f83ffb0853edc9df8fdd21e79b6d42d1435c7e9b0db7fa311d93541ec14daa38f3677deb2df0fd6ffd55f77a56ec6c0bccc4b22f347e/master.m3u8",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c3f860f121dbabbfdc5b29a40a0c9479827c8273142587a10f22bff9d1506d8ba3df566e8d101849267e0b2c81a968d6d8a28754d13678669dbfa47c9bffc3429cfa514f3ab1de4efdcbc3825cb53185be838c52a06abf0c395bb920f62a290d0eddccb0be1e8abfeb0383079d4e20ffa9722938b84c4fffd37eda01e98b2831356c0cee1a1ae1870eaaa64dd974decf/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/2dc28efaa1cf4816b416f6de9e1fca0c/eng-2.vtt"
                 }
             ]
@@ -1207,12 +1207,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/88475feb25c7d96e7fca35d390488635e34214365e7836e2de880cc1d6f76303af5bbbd9d12c90747f69646bc20561ba8aa07e4fceae7f95e9791ff3deafe8183ad01b998b08332ab9a355f733720aa0ca57f8e0704aaa767d751e84004c711374d9f73f3df52558a4c58ac2fbed8430/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/88475feb25c7d96e7fca35d390488635e34214365e7836e2de880cc1d6f76303af5bbbd9d12c90747f69646bc20561ba8aa07e4fceae7f95e9791ff3deafe8183ad01b998b08332ab9a355f733720aa0ca57f8e0704aaa767d751e84004c711374d9f73f3df52558a4c58ac2fbed8430/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f2288056f8bbc33392fc2ab13f504229/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/88475feb25c7d96e7fca35d390488635e34214365e7836e2de880cc1d6f76303437022a51a24f582f52a824586022201f535587e257a56ba71eb2340c07125f982eea8ea722bb2a50a4b3ca11ae01b1ff5d63a110b28056aac17173f140dd1ed701bbec95e2ff29586b862967ad0877bff9820a3cdf867dd61d0a25b51c129563006a488b0be42e1963c9bcc320fa86e/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/88475feb25c7d96e7fca35d390488635e34214365e7836e2de880cc1d6f763037ddae1824a7f3935c76c5d4982f5de4b249241ca7cbb414fbee35022b5632c56dfb50faa24274f639e11c31257700b55a08c6da2c6f4d078cdfaf0e7277582df991f6099f3dfcb3095543dbd639e776211780a6303ac56930516096252c7fa503889a6c51ff6f671352227b95a6d7e8d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f2288056f8bbc33392fc2ab13f504229/eng-2.vtt"
                 }
             ]
@@ -1232,42 +1232,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/baf43db06c89e3b06a64c7881ac351be28a0f5ff8cfab42e630f1d7907519c8224c78756574328b4eed116dde671631307117de7638c381f0d346629c335e6d2eaffe091997caca8af75f9e0cbed8a1ee0bf6830e8b824f902796c1d466449196d5e8db6495779c5e05c86336f758a6481c02ae592bb3e0a888fab7e345c255baf283890c2e6b9694df1da60afd02e2c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/1b2f9e74235267eaed5690b2141ac8bc/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 69",
-            "episodeId": "dr-slump-arale-chan-17973?ep=86987",
-            "number": 69,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/3a691b776b3738aa9f3c8be5e41b45270073493ef195cdf44122203b527692201e6b02e52f5284f7b22a78b9026d805c134f7a1fc28d54ea62c9401b447be0b810d494307b2bf7041ebe1740c6e9668fa58b78761f16973f296fcf97b86db82b9dc55a8d0aebf66b4b0325070750d6aa/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc5227110f2daa43a7389cac1f296aba/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/3a691b776b3738aa9f3c8be5e41b45270073493ef195cdf44122203b5276922036c08c932cd993d3d27147a79d41a4e60d01878bb8a9a36687f760306298aff5fc0ab812e69d2e02683271302790a6b203aab92f21ec100dbb4280bfdcef2d80d687e4c161fe942d6705ab30ee7e006b42e892f07782539012e4655f81d68fe14e608246988e6b0501f3d59b0b14c4f7/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fc5227110f2daa43a7389cac1f296aba/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 70",
-            "episodeId": "dr-slump-arale-chan-17973?ep=86988",
-            "number": 70,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/c29138afecf2a27c8980914638d70184271e893ddd4f645a62ed18ff1ad25612a8d2aeb332cee95aff2f6abb1bbda060ff64f59d932d0d939d16a9f7a080a83f2c88cdda999a315cecb1da8b50fd1d514f106cf0afa4352ed96a080ed100db716365f4444850028be6527ccfcb2172d4/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7484006cf93983633640b3747ee6fca0/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c29138afecf2a27c8980914638d70184271e893ddd4f645a62ed18ff1ad25612e06deb6cd55911018a0a3894a62766b95e81e298febdb24c5b420414de3b7e9bfd0746aa7cd6074aae06bfc299923daa2bb70a43e837296f592ac86c21c9be0bfaa08884158a48ecb6e4cac9d08bde7177c0f2ade45c93ac02f7303715dea58f955f635cf605d429527cd316c4673c6b/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7484006cf93983633640b3747ee6fca0/eng-2.vtt"
                 }
             ]
         },

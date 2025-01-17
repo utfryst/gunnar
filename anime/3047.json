@@ -242,49 +242,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/a04ef8a004319259127ed0cfb75a5e88353759319c5c713ea83fef4eb0fd284840e8a24bceee611dd213d6f3fd7ea3955d823d1acfd6a6c554e790bdeb2c24975e700fe7a464414da1cfada8469ed10d245ab0587de6d7d70c571c42aac379ea8274031b0e37685cce948801be01fd4b4e386c928243c215710b6516e7b41661/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/a04ef8a004319259127ed0cfb75a5e88353759319c5c713ea83fef4eb0fd284840e8a24bceee611dd213d6f3fd7ea3955d823d1acfd6a6c554e790bdeb2c24975e700fe7a464414da1cfada8469ed10d245ab0587de6d7d70c571c42aac379ea8274031b0e37685cce948801be01fd4b4e386c928243c215710b6516e7b41661/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ebc72a4e1f0f87d67e2ee7f4d34fe90d/ebc72a4e1f0f87d67e2ee7f4d34fe90d.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a04ef8a004319259127ed0cfb75a5e88353759319c5c713ea83fef4eb0fd284840e8a24bceee611dd213d6f3fd7ea395fc2a38578d910e1d702fff8fb9a2e5ef13446834472c1682e021b81feb7ee904315112f4a93eb396865097924757e32841f35e94fca2b1cc0695d27741ad93ddd85fdfed18123b0b645316c09808514080af23fa937f7acfc5408f22b123272c/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a04ef8a004319259127ed0cfb75a5e88353759319c5c713ea83fef4eb0fd284840e8a24bceee611dd213d6f3fd7ea395fe8d0ba737941888913a88927f408a3ed70bf78a0aff2afcb422b92c11850db42c45a8b99eee5b7bbeff57aa23fba7976a998b12d0b5f367cbd8b041b7058452dbf01db20cf69b39eaf9a3e147892862f6b213c61d055d3d6bc5dbd8da0fa757/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ebc72a4e1f0f87d67e2ee7f4d34fe90d/ebc72a4e1f0f87d67e2ee7f4d34fe90d.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Mio`s Grand CM Operation!",
-            "episodeId": "aikatsu-friends-3047?ep=56740",
-            "number": 8,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/1af40585db84c2b98dfdcfd1a2d8e0914a0e919652e6a8e18a3b0b0b9ad7cb3ed8d79c1267e2a346900acf33f29f32205bdb91921e6903d2217bc1d1a94f92752783a7fc9cefb596f400e4f08378fcb2cfd0783f0363c4fedf7164128da80ebea8281e583518e4c4612a0e59aedc0c28f0ae0c767912548e481ae71cff189928/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa5293d6478e8215636176e6471b7d01/fa5293d6478e8215636176e6471b7d01.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1af40585db84c2b98dfdcfd1a2d8e0914a0e919652e6a8e18a3b0b0b9ad7cb3ed8d79c1267e2a346900acf33f29f32208cb8716a0beae0b94e079bf45350ac67996ad6d19a51cce8446b9481d26967fe630f2a910d5011cc2e5b3aa18722d17834e95b335b9a0952eb966c7c871f20393dd770befdc23c9fe6f34423f0b9e01671ee96d33c4d2ba545e9e58e445e3654/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/fa5293d6478e8215636176e6471b7d01/fa5293d6478e8215636176e6471b7d01.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Brave Melody",
-            "episodeId": "aikatsu-friends-3047?ep=56741",
-            "number": 9,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/90561363bb061aa9148eb7e6e3bc08cf23ee73fc71ba377966c38aa8caa26c1b84f59783dfdfdb71e7ef260146746a46ae104dd768aef95dada60878b647d8af10377d557f47b96411126f8200e41c7d9533cce64449f49b738dff9cb863c2d3ecfcd0e82f9376d6d7f0c335021d0020c4b81ad34879daee0f1ab77b530a9451/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/51807ebb2a8b38b5633291922be10afa/51807ebb2a8b38b5633291922be10afa.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/90561363bb061aa9148eb7e6e3bc08cf23ee73fc71ba377966c38aa8caa26c1b84f59783dfdfdb71e7ef260146746a460d1d9d99a206aea44de45720a9f3eb588d8e3417008d03ea4c8c96b19ee30e4adafcd31811abdfc446dd7950f995c328681165a14b67320ae56246917c83b9e2370721d653c7b59497e76a21911ed188e94d3dc09de8b2647dcf6a42216ceea3/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/51807ebb2a8b38b5633291922be10afa/51807ebb2a8b38b5633291922be10afa.vtt"
                 }
             ]
         },

@@ -168,49 +168,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/9149fe778e9377a3126fb40ea5ae8a491e4aff51e50d789f6e552a4814bf19071efc4b3c4ea5c2da3b7dd0a14b1afd846c7095008ff8dad5cf1d37ad0e79f2de8b7d115d28382697f569f6292b763ce6b4e28e39b05459fc596239366f12dcc7a2323b60a20a89f97b3df044108dd9450d744ad9f912d3cefb743da908755fb1/master.m3u8",
+                    "streamingLink": "https://wf1.biananset.net/_v7/9149fe778e9377a3126fb40ea5ae8a491e4aff51e50d789f6e552a4814bf19071efc4b3c4ea5c2da3b7dd0a14b1afd846c7095008ff8dad5cf1d37ad0e79f2de8b7d115d28382697f569f6292b763ce6b4e28e39b05459fc596239366f12dcc7a2323b60a20a89f97b3df044108dd9450d744ad9f912d3cefb743da908755fb1/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bc6b7fd35b4fd42c5651fb92289178c2/bc6b7fd35b4fd42c5651fb92289178c2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9149fe778e9377a3126fb40ea5ae8a491e4aff51e50d789f6e552a4814bf19071efc4b3c4ea5c2da3b7dd0a14b1afd84661f0699be211d789e6e29d66115a4493d6d12185ea171231cca773b1da2a4b8b7c8a026b6a8305613e222fdc395cb1fb0dc4f6bce024c89725889638d7d73220cb38f9b11b47fda0be178088329c11a1d900ddae39bad9a285acb255d97d288/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/9149fe778e9377a3126fb40ea5ae8a491e4aff51e50d789f6e552a4814bf19071efc4b3c4ea5c2da3b7dd0a14b1afd84a25763e35345f9301b245330bb9c6b548269ba13b20a651c5c941d8127b70e1d63ff8834b8d04de15c9939cc4acb1b0f2d805d98e8e2e2a8248cdd075256fbe04cce8df3d18ec4bd5353adf3516716816ef54204ba5570a2e3b8aad54d519734/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bc6b7fd35b4fd42c5651fb92289178c2/bc6b7fd35b4fd42c5651fb92289178c2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "No Need to Get Excited",
-            "episodeId": "oh-edo-rocket-2595?ep=28579",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/96cad1de2f7a933e778c9a82f7e77159b5d9a876219960439bd6f9d618f217b8758581e4171a00261cb05062f4d6c65366a1662b92729d27f61f8df8e23174686e9df0216ec2aec794839dc852edbc80a92b54482da4471e7e04da9eddcee633753aaa288923d731e3344b1125925d9d845b9998908484f52fbc570494b6a599/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6330c6d0347cca40b2f59e1632852db5/6330c6d0347cca40b2f59e1632852db5.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/96cad1de2f7a933e778c9a82f7e77159b5d9a876219960439bd6f9d618f217b8758581e4171a00261cb05062f4d6c653ee3cc375b02b445554f9a4199a1b64990d40d38fb5656d53e0d0f2b157eddf09687811d07dbf1ffed12d0665d371c1f4b9f6a2b90abe5052922547e9929dfd8dd089b51ecff9f78dd41bdaca369da07614e9de2dc8b8ee007599ccbe91cb7ea3/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/6330c6d0347cca40b2f59e1632852db5/6330c6d0347cca40b2f59e1632852db5.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The Argument",
-            "episodeId": "oh-edo-rocket-2595?ep=28580",
-            "number": 5,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/e54d1cf69ab55300cea7a7fc6962059f2a31044411641fbe34694525beb2832c6aad5f251fe43d37785036921c0a700d16346e75bec3686f83d1f33c9dda5d3415716be9174b81e2514be602c7930427b709e26a91344b0e956f8c49ed207a228cf6b5710dd25e21a2d7321731d24c17aa081b4b6bf83794758fba7fcc770d1e/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/667a740bcd8bd2fd69a4294467a4c745/667a740bcd8bd2fd69a4294467a4c745.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/e54d1cf69ab55300cea7a7fc6962059f2a31044411641fbe34694525beb2832c6aad5f251fe43d37785036921c0a700da0f7d842fda16e4aa190ecdd04a12183c7bdfde033515787c1460bcf7b6dd2ac29a53fb008768145b439422739676507faae02753ffd98de03e2bbdc412da93dc1a26f9003b05fa012f556f32d824108feab879d1cfbb6df9a30af7d6a4633f6/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/667a740bcd8bd2fd69a4294467a4c745/667a740bcd8bd2fd69a4294467a4c745.vtt"
                 }
             ]
         },

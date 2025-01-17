@@ -662,49 +662,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/98899670b05b58d09642791276319cb5e9be9d72ae6f7bcf01910ab3e2d6d05f52b6b37b0afe31ad020d7731fc5f5631eb2ef00abd9855b1007f0402f4ce129594bc91948eb3e9ebe6bc2fcd451018d6041d5a94d985dd0b6d6249b0f40d6860f0b99e6e10cc02fc1c5e2cc1f33f87ab/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/98899670b05b58d09642791276319cb5e9be9d72ae6f7bcf01910ab3e2d6d05f52b6b37b0afe31ad020d7731fc5f5631eb2ef00abd9855b1007f0402f4ce129594bc91948eb3e9ebe6bc2fcd451018d6041d5a94d985dd0b6d6249b0f40d6860f0b99e6e10cc02fc1c5e2cc1f33f87ab/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a957a9c8c4f282d95ac8870e80f86d27/a957a9c8c4f282d95ac8870e80f86d27.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/98899670b05b58d09642791276319cb5e9be9d72ae6f7bcf01910ab3e2d6d05f049e59fdec73930153b849d0ed6d52ff5a710c4dfb861b3adb4048f862ae2c45a87501196ab3374ebb9eeec65f9c8f6a55f3f554e1d30f255db9b1a81113ba24f1488aaeea2124d4687be8604a44c015183180c81aeeea3deeb0ac2354180986cb548af95d07abcb43b5f3a1260664ae/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/98899670b05b58d09642791276319cb5e9be9d72ae6f7bcf01910ab3e2d6d05f9745f3efd38b1b1ce3e091722acd2159a8012c912ded68f298a4027eb5cb682e84366f6d634f595b442358fcbdcd1e1a6cbd4bddfccfdcd54fa8f9996b042717419318336d893fa4234d075ba9cd3fc22091c3501d58ccae557dffb49a7619e2ca2aec6e8af42785a134a8465f5f15dd/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a957a9c8c4f282d95ac8870e80f86d27/a957a9c8c4f282d95ac8870e80f86d27.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 32",
-            "episodeId": "machine-robo-revenge-of-cronos-6639?ep=78784",
-            "number": 32,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/64e32d7817d6ea65970338db3f7aafb2aed1d087e62579d7deb0b1343f1fd9debdf7f96028828ed9e34177c661994df488f8b4645c4adb47e88a4229cd2565089667aaddedaf256aca45c095eceee1f0bdd11ff227bd744a3273a94a153f993bf9845897a802eecf2a44cde07e990c9f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fa02aefb2830fb1ffbd3732c8ac127e/7fa02aefb2830fb1ffbd3732c8ac127e.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/64e32d7817d6ea65970338db3f7aafb2aed1d087e62579d7deb0b1343f1fd9de60540d142bb95073f34a0003b2f6c1346f4646f7c8fead1274211a4d9a9a72cd0be7098f04d7d56ae9e8b2b674559c62f1292be6d23e27cd5cc6482d5914b7c1000b9951865b10f1e2c88f37b61cb3aa3e1622181d825a01502a577a7659022064b4cc25f4e6a4cab8c541508a173850/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/7fa02aefb2830fb1ffbd3732c8ac127e/7fa02aefb2830fb1ffbd3732c8ac127e.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 33",
-            "episodeId": "machine-robo-revenge-of-cronos-6639?ep=78785",
-            "number": 33,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/bbe030013ee13b9b924e921f8ebb729d29e4a23bfe7da10c1cbcdae7ecc2d880068f5880b82b472aeef1906d9189d8851c4998965910040b35c6f2c0b61f3fe043204c0dfe0b44222e556d0da1cec8a601befea4bdeeaaf2e45b14a15c87eac509b053c69743e72c0ded0c69b1fb6740/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/76a1832f3e518b7463fe6bea2655be0e/76a1832f3e518b7463fe6bea2655be0e.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/bbe030013ee13b9b924e921f8ebb729d29e4a23bfe7da10c1cbcdae7ecc2d880b481332cb0cf65e92625af264701932505d2097cc0292c84623df342a12c342056ed455c5639ac044de497560173ce9a68d1ed8e34309d9a57fdf1f520ebdda1d7b39225587076cf1a3433df1cf147d573cfab860a0676f782e9a96434aab2c8305c268bb3c2d3863556fec6d7b93c4d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/76a1832f3e518b7463fe6bea2655be0e/76a1832f3e518b7463fe6bea2655be0e.vtt"
                 }
             ]
         },

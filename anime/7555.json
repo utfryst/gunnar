@@ -199,49 +199,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/d4e95e71c634627aef3dc8e142a7dccb90d1b1c4c2f94207039773f0d7d22562bbe7388e3478f7248e513ed97a2e3df5c5e978a21654942112729173b3d026ab8388b04e7c29b0eaeb3a9b9bc5fbe660f1ed046f7fad1a181fac5771f6e8fa749586077cd51ed667f560c1057a94491d731a661879c2ead285f34a97adcbc8eb/master.m3u8",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/d4e95e71c634627aef3dc8e142a7dccb90d1b1c4c2f94207039773f0d7d22562bbe7388e3478f7248e513ed97a2e3df5c5e978a21654942112729173b3d026ab8388b04e7c29b0eaeb3a9b9bc5fbe660f1ed046f7fad1a181fac5771f6e8fa749586077cd51ed667f560c1057a94491d731a661879c2ead285f34a97adcbc8eb/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ed8684c6d786bf0eabf1e12e27f4e2a7/eng-3.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d4e95e71c634627aef3dc8e142a7dccb90d1b1c4c2f94207039773f0d7d22562bbe7388e3478f7248e513ed97a2e3df56e4f56e4e183224fcb57a996c2cb84c870ff418ae4968e2963c69620c0ebfcdde68a9165f383b760aeec609f5367d70baabfc53927389af6b55e19fbee31106f8c9e4e390b47ef2ebe0bb00613b8b067c3eed518419c6fc51675db18ba22f0a0/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d4e95e71c634627aef3dc8e142a7dccb90d1b1c4c2f94207039773f0d7d22562bbe7388e3478f7248e513ed97a2e3df5adfa5224a36aa6b2fe7ba5c8582154d420f95e1267131617e52fc655b449287285cbe1a486ea4e07177e191cd8c65981fbf2cfb92da1c3683470f556576546f81bd9be8d6db0bab1c67dfc39ef50828fa156ef2907236e33cc21e48e6e8cd89f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ed8684c6d786bf0eabf1e12e27f4e2a7/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "I Want Goma-chan!",
-            "episodeId": "shounen-ashibe-go-go-goma-chan-7555?ep=46335",
-            "number": 6,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/832053f9ba80c2929db37ddba1be27385c1d38a3cc8114c73f5d071e87121c382c55b142d3c641ae9ee27ce9e4a97f09168e3a559a6023900c7d2401c75c156e97e3ec354bf6a0ce6390c2eb655291398917c55e2288eacb173157e2d651149cca9b18c57811879990624d6624527411b3f832d0d04349713e061c49e56720ba/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e88bc8bae89c83e8644f0ef7f9fe590/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/832053f9ba80c2929db37ddba1be27385c1d38a3cc8114c73f5d071e87121c382c55b142d3c641ae9ee27ce9e4a97f09a69d1a92dc38cb185a3266364993f170c6ef0a801f5ec48f054ac8e6d2ed7e762291f6f1c95b906be66a3a1402487a560031e28c9abe9659d877bd62f4387741da1187ddc182230b4936984df1768f3351ac7f9455e2742026421ef5928b881a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5e88bc8bae89c83e8644f0ef7f9fe590/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Sugao-kun's Teacher",
-            "episodeId": "shounen-ashibe-go-go-goma-chan-7555?ep=46336",
-            "number": 7,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/91520ee532f6e3628840aa650b299a1ab2d60301afb28645353140451024e8d726ab390f9b64e4efbcd15c9ad482602eca095dae0302191e886c336733be266a15c7a04072907f2a901dfa8995399888d663338d1a1a1263991fa4152dac510b7e171adeb9dcb1fec277c20afdcba466f9ebcc51803848abefc704e86cbe6a10/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c3486753f4bec138b01a5ec50d61026/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/91520ee532f6e3628840aa650b299a1ab2d60301afb28645353140451024e8d726ab390f9b64e4efbcd15c9ad482602e2b2b30bbe4bc945406cc26345a2d23308284282d47f84a1c199ec4b1081b8d6ca6630a583090168f71cabe8cd00846dbcfd72a00b6b4343185b78a18b72096ee96e971cfc8c0749690f8db5e1151d7f216e26aeae6c1cfbd00dd0dfcd0e772a1/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1c3486753f4bec138b01a5ec50d61026/eng-3.vtt"
                 }
             ]
         },

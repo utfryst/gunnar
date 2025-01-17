@@ -229,44 +229,8 @@
             "servers": [
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/fe1bdc9fc9de1322446299414c6340dc034d4acf2eecf9a66f95308d12278b92a9bd65e0ee19f59251f69d377ab967a8634e5c7b3e747b22c88440dc4214e4bbc45d0ea40741c0562ea480d54639a9804a7151015b96a0b2a220b929b0eaf61750560112990ebd874a248602f995eeabb8f1f8594a48a0bfe081df1896ef3d5facf7e586e17dbb56bdb67a61c910c366/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fe1bdc9fc9de1322446299414c6340dc034d4acf2eecf9a66f95308d12278b928b2d13fb004dd6879c01ead032f32f4f1a62fcfd173984c815afd1c0247530313118d72acd86ec10626278f6e22bc662053f0ad3e462aadf2bceed349ff72a27792a691be9353388bb11562be2ef2bbae5b465a0790bff0991c20f15f7d31e84e2c43c7575614236d6d8687455f87ed7/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/4c7fca4e45f153b206c76d2f22dbf113/4c7fca4e45f153b206c76d2f22dbf113.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 12",
-            "episodeId": "huckleberry-finn-monogatari-5781?ep=91751",
-            "number": 12,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/a01868d819e442760d71a7aa53294659527d851d9953fa1315056a996fc071d31c2e850c4d626ee0b64d6e420fb24c090d6c8a5b8d8c9e78508311b7864ef72ca0e8a1c5dddea7afd92d16b50bf15bfe507d6d9e78c60242a1b0cb743955d36a50f3fe9a22b63a88020aed8ed8534d23/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d53d608d235c37868fe942b90dd4edd/1d53d608d235c37868fe942b90dd4edd.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/a01868d819e442760d71a7aa53294659527d851d9953fa1315056a996fc071d30404d2b039d1f77e99acd3b82f6f8f60ea7dcba9156d1d90494aaae984747957d5ee0a81a2d210823ce61aee47ac252b5e96ad27dd98a72482e3714ef345f99c43326f1b91627da02283bfb3fd5a05ff51f88799c7620068f6d52f0d902d4c7b4fec256b441a144c024270fb9c07e2c5/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1d53d608d235c37868fe942b90dd4edd/1d53d608d235c37868fe942b90dd4edd.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 13",
-            "episodeId": "huckleberry-finn-monogatari-5781?ep=91752",
-            "number": 13,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/08e404ea40bcf876684515f2c79e524c947d9c675b8e9aaa1eebb6e1ddea533d7a7c596b8988d8431853c791fbc2a0f98fd3fc493d728ed95afc5b86ef072397a16ae21ad379575d86d330ce4b32cbbabd21d4bd080417737bd06c7adfb1916e183f687ee6e288efc70975cbce0b9152/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/92ab0d0ff37c33c3656c050bc965c2cc/92ab0d0ff37c33c3656c050bc965c2cc.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/08e404ea40bcf876684515f2c79e524c947d9c675b8e9aaa1eebb6e1ddea533d4054df1cf928fda01f95afe108e8944479498f91d2886a90cd80f7f569c14cdebc68780b619644d607796e678db35eb6c0edee29f32f6856ce0e20936649e5b3c13f951fdc8da6c50debb9a90a8143b9873ad36a98721038270f07aeea8f1414853721ffbfc45e94795175ff369ce5ab/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/92ab0d0ff37c33c3656c050bc965c2cc/92ab0d0ff37c33c3656c050bc965c2cc.vtt"
                 }
             ]
         },

@@ -323,49 +323,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/efc965303c89a0f395fb98c3956b4c96cca3e38d5c68891341b44a958c3f0043a32178c3b914ea09c326670f93658f60bc401830ba59f3e326e9388a047aff4454ad1de8f872d3fc7d41e457dedbb47863cbc923160851b423f15ca3f0507bc41da0c42b1f1df4c23494bde864fdaecc/master.m3u8",
+                    "streamingLink": "https://wf1.biananset.net/_v7/efc965303c89a0f395fb98c3956b4c96cca3e38d5c68891341b44a958c3f0043a32178c3b914ea09c326670f93658f60bc401830ba59f3e326e9388a047aff4454ad1de8f872d3fc7d41e457dedbb47863cbc923160851b423f15ca3f0507bc41da0c42b1f1df4c23494bde864fdaecc/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/49f9b0773c5dc39594d6ce2eb9cb1a14/eng-3.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/efc965303c89a0f395fb98c3956b4c96cca3e38d5c68891341b44a958c3f0043f61ae35f0b6e2aaede16fedaf23a902f52d9c1619283cef7f65bc7256c00b81297fa2cf39186cab3fa888f8b20966957ab68ac6cf9c6081ac0290abb485a9eaa0735d42ff05263fd1a4156fb648c8a825131dc395bf805d9fa76d39e7334a96ab42ed1a8d7dfea13fb943f98d9940248/master.m3u8",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/efc965303c89a0f395fb98c3956b4c96cca3e38d5c68891341b44a958c3f00430b3e1f89593ce7c04b49862de3b01675fff9df875eca01d744f09a33ea2618333ef7dea17d70ee0dffa0c91eaf6a43080cc07e6dde7767f3ee071ffcb07a6d7bbeab6e54445435900f9316d82bd07beb554f1e28ce63426cf539a19b73c9c805c605314df7bf606d6077d1093067aa96/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/49f9b0773c5dc39594d6ce2eb9cb1a14/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 13",
-            "episodeId": "wild-arms-4974?ep=66573",
-            "number": 13,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/db1671217baac66fc44d851de054fd216dc0f290a1ff62e72b22914765ada9563419a6af73d02c37d2e128afdc26cfd27760025840a9415f6334de7d875b9de14fbb153f573ed79734d5d9f8a9bb8f5c922dcff8804cd78fb37ef1910e1c5ea01694c7d45ac4083dfdd4f8b9307dd6fd/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3570fc133acb700779e36b83ec30c3f0/eng-3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/db1671217baac66fc44d851de054fd216dc0f290a1ff62e72b22914765ada95623a74ad8ed8fd29ae36559506bbb5fbbc158ea004618610d2e9487e7848904cbe693042cc4cd67387e6e79ded82b60a81d9d98a266a7500b8c65bf8ed60980399d33a0e094d30ca5dfed66c9f6afdd33228eb221209237abb4b705b03cdda12c87aee4fd6b4238575931263291d8f142/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3570fc133acb700779e36b83ec30c3f0/eng-3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 14",
-            "episodeId": "wild-arms-4974?ep=66574",
-            "number": 14,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/14a8d33e97242f7c5beabd70f25aeb1596e5165631bb396e106eb033c885907fafba09ae831f5dcf5640cb0ccb8745b3e209f5f3c86ec69e45dac67cf8c6a66b1c47b033fa27b8880021fb6824d91d42875ed1ebf2adf29535c415a1c40b06d0d0b552bd41a62919297c04eee6251140/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7ac9110d6e69ec01c22cb0136feb9dc/eng-1.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/14a8d33e97242f7c5beabd70f25aeb1596e5165631bb396e106eb033c885907fadbcbc5778ae54ad13820ec2de049de56e7473950335aa88bcbea5bb8ac3817e7725bc041181eff91788b208389ac1d796185dcbf3708ec69762c155e508020064c072c9d30a6732fd4d7540a5a35fdf85796a00eae3f3312c4279d921762438389bf48e8cd1376675b8bb9a76afce24/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c7ac9110d6e69ec01c22cb0136feb9dc/eng-1.vtt"
                 }
             ]
         },

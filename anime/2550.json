@@ -350,12 +350,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/65a38c6ac64cb4d87fece442de9fe34db2c350c4cd788b15e5a5ef36e14ed6c393512c5bf547dc3e2383e035e8fff6241974fe0672ce3e4b4a1c5436a947813dd50f3b5929a0e1de843b5b6f646f2f576e626cc624f1d9c35548129b7b454ee9df6dd2e114e4d7d492d49e7cf0f473ac0d41224fba8675fadcf4c26044757465/master.m3u8",
+                    "streamingLink": "https://wf1.biananset.net/_v7/65a38c6ac64cb4d87fece442de9fe34db2c350c4cd788b15e5a5ef36e14ed6c393512c5bf547dc3e2383e035e8fff6241974fe0672ce3e4b4a1c5436a947813dd50f3b5929a0e1de843b5b6f646f2f576e626cc624f1d9c35548129b7b454ee9df6dd2e114e4d7d492d49e7cf0f473ac0d41224fba8675fadcf4c26044757465/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f0dcab79bf838f859fd15e128a8ef67a/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/65a38c6ac64cb4d87fece442de9fe34db2c350c4cd788b15e5a5ef36e14ed6c393512c5bf547dc3e2383e035e8fff6249d2f99c0e15da2748703734ffb2ae730db5b4ef6026f2b8c5d897566f97cf83fb48c87fea0a1ab8b8f33bfa0e2f350a20a77ac20c6ff62d45305412f6f6de906a818e1e52057010541f6b1dda797737834f4c0cf95449e70fc40df4fbb96b71f/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/65a38c6ac64cb4d87fece442de9fe34db2c350c4cd788b15e5a5ef36e14ed6c393512c5bf547dc3e2383e035e8fff624571fcf65a5e7e29c8ee122fff7bda381c23739e5aa8fdc44147bd2e2805d5c208786e343e694b3fcf0e8b375341d78992435f0e13467a4af3a19f42917f62bb0a159dd7e04e499e63ed04171cb958afd090557b3d1fb3880b02e967278ede07a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f0dcab79bf838f859fd15e128a8ef67a/eng-2.vtt"
                 }
             ]
@@ -368,85 +368,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/bebd8f5b06078968032ea87e272cf165bf74f63a52821e5cbc7061ed842628c65e4a9a371603533a537eed5e503c2f271cba729c6367851a16a4a0550c5f4e89a823bc9131c0e8bf5945748d8a0a7a848a488563877b934224c7aae84ab3d9c720582c9db2848521c529dd3cbbcc98dcf5e564e000ade892f89c0febc03a9bb8/master.m3u8",
+                    "streamingLink": "https://mmd.biananset.net/_v7/bebd8f5b06078968032ea87e272cf165bf74f63a52821e5cbc7061ed842628c65e4a9a371603533a537eed5e503c2f271cba729c6367851a16a4a0550c5f4e89a823bc9131c0e8bf5945748d8a0a7a848a488563877b934224c7aae84ab3d9c720582c9db2848521c529dd3cbbcc98dcf5e564e000ade892f89c0febc03a9bb8/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5f60f7ababa703b731014da6af7626bf/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/bebd8f5b06078968032ea87e272cf165bf74f63a52821e5cbc7061ed842628c65e4a9a371603533a537eed5e503c2f27c02cd080b665783fde0c93db103bcb6e7896e281a7dcc8ba13d9bc1604b2b58ffa5124381f037d53aa9acabd055d058eb3964a9676ce9c418c524f2ba69d5cc0eedb99379eb1ecd95c99440c0529fb723d8896f49c154279a5c9e26ccf463f25/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/bebd8f5b06078968032ea87e272cf165bf74f63a52821e5cbc7061ed842628c65e4a9a371603533a537eed5e503c2f27c7b92ca17afc8c7205fa56c108ef72690d6e0c12b117fd00976939e7594b9be81a1731a75b73ff8509253eb2f564b2b32d382bcec6bdf81b354eb70ae6d3d40419f0b9c33f47cbfcf4923f0e0cb674cc61576308f93c7013f06e501138de6414/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5f60f7ababa703b731014da6af7626bf/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 16",
-            "episodeId": "basquash-2550?ep=91618",
-            "number": 16,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/75f3f64b04287cdf1a6d44de8f70bce7ff329e07ba3ae0b39258f395b53366bdee316c50d965c7c2b3dd5ecf3c69fc0e35db485c9e3f04b2c5bd79a428b8e4469555b3d08455c95486baafe98c4472e8c40ee29c16085c02c09bffdab77ffce29b31407c757010fc5d5e0f96655a67fb7f4ed9cb629747a52e540d19ad762023/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c80a3b66f8942029e61a9a7de2975859/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/75f3f64b04287cdf1a6d44de8f70bce7ff329e07ba3ae0b39258f395b53366bdee316c50d965c7c2b3dd5ecf3c69fc0ecc136b3fee1af7a44af8da6c8e25cf6ee58f5e99ebb374b79c503c4f3de6afa42213d2c46a7d4b984e7d75a215617588bf50965798242b56169dbb88e3b453eff7e18d614e41ace46dfba5d784c45198931910fe7c784e837f3494ce1479639c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c80a3b66f8942029e61a9a7de2975859/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 17",
-            "episodeId": "basquash-2550?ep=91619",
-            "number": 17,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/ecc24f4ea008f6d0db41c2f128ee8b1b5e4bec1700ddecdf6d8611bab6ff0a49c045df8eb30e75e58d760a4af27b452e66c139082aacb11a934bb681da1eae0a07ba7e55fdca3a87a63341a3622966b930c085e9e7fe9db3ab289e6f18828cd9a53a971ae11c2b642016f91a5b9e90e65d3ee810d5b766160b262c4627fd3fee/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bcd0b1ec1359958f896af1f40077da5/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ecc24f4ea008f6d0db41c2f128ee8b1b5e4bec1700ddecdf6d8611bab6ff0a49c045df8eb30e75e58d760a4af27b452e2548b25935f50c64243d054431541e96efb57b2be3eaa4d743bdc3f8ee92924d1f421b75febca867ec87202c27768296cbf351cd91498f29065f35801950eb68353ebd475037a4f9c81d44310b479159588d9ac7f2ef346682dc1cb99a96804a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bcd0b1ec1359958f896af1f40077da5/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 18",
-            "episodeId": "basquash-2550?ep=91620",
-            "number": 18,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/59be9a39bad985cc8ceaf4e6ebf96608a06bbbaa4e330d78abcfebaa0466e544f4c447dad855f21153492362a650c034cb2e210a76f03c0cca3e2d76ed5359b3fcb55b4484de128ea8d62c66ca5dde3cf5352e8553d1ae12baf1481489b46cb87c9692a5d3a3a20b5ab28f58cc4c32f0a7575e70b9e415a466a80e0222610d04/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/338be097d4e06258165f517daf8d2ec4/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/59be9a39bad985cc8ceaf4e6ebf96608a06bbbaa4e330d78abcfebaa0466e544f4c447dad855f21153492362a650c0342fcfe52ab6c410974aa342ac7bb35a01940534ba501039823adbc421fa25f473900840c7787bf9af27b6809758c6b800ac495350ab698b30f5fad75a8e31939e7a2143df197c75d386764672aa55de8e979fb552ef0d3b39d2f967753f422b2c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/338be097d4e06258165f517daf8d2ec4/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 19",
-            "episodeId": "basquash-2550?ep=91621",
-            "number": 19,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/6f73b94e5efdd9f2846c0d460cc407e820f8550f96c0484685c2e81122241ef566b2e3500d42c9183187d444ae0618a418eb34166ce4616a408b90f9447f551460f38a57f99ac9b7b32110c8c22d808f0692ae773830ea66189524c28aef9ad66bddf662cc23906e50e93957262238b389163cf1ff6383d25f3c936be3a1b92c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad0cf4c31bdc702c20210229ab7a5258/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/6f73b94e5efdd9f2846c0d460cc407e820f8550f96c0484685c2e81122241ef566b2e3500d42c9183187d444ae0618a4104682daaea890375d37c52642fa186f9ad33c5b9df47e7f6358b913bee1315c25d3e89e57447db38a6dfae6478b59d70968faf31b5fa71cc0720a8b1156c1daa2032067ac80bb9db9fa8ab48b48472a4b817669d1aa22ae974a8696446f55b9/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ad0cf4c31bdc702c20210229ab7a5258/eng-2.vtt"
                 }
             ]
         },

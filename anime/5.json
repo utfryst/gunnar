@@ -1229,49 +1229,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/820f598874423cca016ebe0ca71dd7b553027a27618e8486c41e600708fe1c98e3ff8d96a2f03254aefed2ff1b3fd8153612bbe363f65f9e99d768ad7deb738fbf2810e25782e5fd6242d62de414c195804b2945e293473e6a8ea830fb33faa7b74dbec32273d90d38bd2bb88abea8ab/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/820f598874423cca016ebe0ca71dd7b553027a27618e8486c41e600708fe1c98e3ff8d96a2f03254aefed2ff1b3fd8153612bbe363f65f9e99d768ad7deb738fbf2810e25782e5fd6242d62de414c195804b2945e293473e6a8ea830fb33faa7b74dbec32273d90d38bd2bb88abea8ab/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/4690ef04941ef1d25885e6ba01e00ccf/4690ef04941ef1d25885e6ba01e00ccf.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/820f598874423cca016ebe0ca71dd7b553027a27618e8486c41e600708fe1c988cf68923fbe6a9d8db489231748034dcb9c6d41e0b373344ab21428e6aebfd40970d7a79f0ea447d76f7156babcbab81ce95f3ed5be22a3d8a52c6fea343338321e01bcc770c1286d4945cd03e074e87f2ef2fb5cf2f8fe607ad5da8a4fa16694288aae7c57a91c0e157dd6845f65697/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/820f598874423cca016ebe0ca71dd7b553027a27618e8486c41e600708fe1c988cf68923fbe6a9d8db489231748034dc2a51bbb0bcd33eb00391e934a163d625e13985a3f2c69cc8cc563b7f3838e06c588712e6ed654e69bd588c38c724e2270a0f48a90552e4699002fb59350794acea5246aedc553241db2a1a2df3a557acc0d082cbcf61bfea830897dc7f3ff24c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/4690ef04941ef1d25885e6ba01e00ccf/4690ef04941ef1d25885e6ba01e00ccf.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Holy Land",
-            "episodeId": "legend-of-the-galactic-heroes-5?ep=350",
-            "number": 63,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/5b9ed608654ca21a874496e902b65e70f22c15074895312a38f600b2b866c53b4147978cc88630499dd7f665c96468e11c717363621130fdc6bbd0478dc97187f69bf910f01e80ce5f7a4a6427e69f6c5c03e04b41fc105eceae527b4769acb68b7e4e442d0fe1b5b62f1966fd991abc/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed9bdfa0e687dbf45112135f0b2c17f2/ed9bdfa0e687dbf45112135f0b2c17f2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/5b9ed608654ca21a874496e902b65e70f22c15074895312a38f600b2b866c53bc290ce2c09ac4460f7e48ee614ea9f32a5d6190440d4eaa0dacf40ec6ef1ed90fe9ce04211ccf9eb542c49bb0a28f5240a20d689bf1bc429a927ff106ba6ae99cafd69ff5b6ba89bd427d2785face0a13855671175ee60b406be7003590db15dc7ada6cf4dbd6940b3bfd0ab685e35eb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/ed9bdfa0e687dbf45112135f0b2c17f2/ed9bdfa0e687dbf45112135f0b2c17f2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Holiday's End",
-            "episodeId": "legend-of-the-galactic-heroes-5?ep=351",
-            "number": 64,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/b0aec06eeab6cf8ad58f5b83e824ad3fa9441889268aa0001a6798e05eb2c41c19a12307e1ebf0d5f5d486e25e8e644d3c11fd18062fc76352c89174ffb7a8326f7bd7788783692dbb6bfb3dc33bd59719c6d680f09e96e7c47cd3574129d372dd0021d8ba1da32bac94c8233a50b74d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b54e4ef78dbda189472cf1a6cd5b98/58b54e4ef78dbda189472cf1a6cd5b98.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b0aec06eeab6cf8ad58f5b83e824ad3fa9441889268aa0001a6798e05eb2c41c4b4bd4abce87b0607020c902334e6ad913a3a1f34976150268c8167e0ee499b33d344cfdabbb2798b55d35ed13951ac89a062cd6bd540f2e72f825e7041d1e167434a572b9bbbcb8e41430d2f1e0a4f5ffcd15d481eb66a702130aab8d0f2c24223ff1adb410fe9a7fbdf4a43165c540/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/58b54e4ef78dbda189472cf1a6cd5b98/58b54e4ef78dbda189472cf1a6cd5b98.vtt"
                 }
             ]
         },

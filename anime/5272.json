@@ -176,49 +176,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/34bd05a46fa87c249d94a818a47034e2de291db34b443084f29457a0b9c00c22cf342306232643759e011e30f0715cf7217a8b6c2cf061960af4a4c87aad953cf18e407f7c33b67d44818c87d160887151e15897772f585e6827ca754ac2e4dcbe90e2bad45c46454fced2829138bf72/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/34bd05a46fa87c249d94a818a47034e2de291db34b443084f29457a0b9c00c22cf342306232643759e011e30f0715cf7217a8b6c2cf061960af4a4c87aad953cf18e407f7c33b67d44818c87d160887151e15897772f585e6827ca754ac2e4dcbe90e2bad45c46454fced2829138bf72/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a5c4b6a8a865c9c224075e4a1e95f1d8/a5c4b6a8a865c9c224075e4a1e95f1d8.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/34bd05a46fa87c249d94a818a47034e2de291db34b443084f29457a0b9c00c2282a781bad20b7e6ad1ad9e374cb9d446b7a34f94aa0fc3e317ce92650a4dc414588bb586cd85dde3d6b20a3fd8d8c92b199a0d0bbc4953a2d5e13198bcd313d95cab5bf79412fbc5d6da93344d7dabd6b01af82fa05382b2e5752b4ab93b208a28bcd12c91717c2c48ef26dd71f1cdcd/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/34bd05a46fa87c249d94a818a47034e2de291db34b443084f29457a0b9c00c2282a781bad20b7e6ad1ad9e374cb9d44687851b7dd095d581b5053038677b8492273ab3debfa23b3e6fa9eb378f6ff591fbb0fc5374d826e8c06d5e83a5ec24cd9737126df7a3b0ce52e412bc4f08daf3a72d2a974b60ceede5458321d31c4ed59ca5ac5c5eb0c56c26ef52a82d7a6a2d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a5c4b6a8a865c9c224075e4a1e95f1d8/a5c4b6a8a865c9c224075e4a1e95f1d8.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 4",
-            "episodeId": "yo-kai-watch-5272?ep=59237",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/3f1a6ad92cd549e0e85cc0a110cf58e4de334183c4aab18fd8e1115b6cbdbe79e387ee125607566d1b14c72675d4de44d076695e3637edd6b17c640b60477e3611f514ab1025573703884a19fbe1a902f2f127bd52832d26629908caec8ecce84c81ca8d714b702296c13f9a52320da2/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/aba753c3f4da78ea53b0dfd5decae867/aba753c3f4da78ea53b0dfd5decae867.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/3f1a6ad92cd549e0e85cc0a110cf58e4de334183c4aab18fd8e1115b6cbdbe796f7e12d17f3dadeb52437f0aee7dc1b7de8a66697d68e138798067b803b28c3594ab86edac7bb5c499b0acdf6f31766255229dbefe2dad263eed1cd96aa7ae250590a753e5f134fede82879d49d72bc157104e2968067b51b6c5627bd0a169e2edec8a194788d995e7c505fa9a4ae60c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/aba753c3f4da78ea53b0dfd5decae867/aba753c3f4da78ea53b0dfd5decae867.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 5",
-            "episodeId": "yo-kai-watch-5272?ep=59238",
-            "number": 5,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/6e97a830d5a148bb51dc69f07fe66a034166ac22797c1758965181e007a03c02dab215452a305adaf5103d2b4fcb5c8d83447c09b1fcda742d290dd35064e72ff13806be420bcc354840d684ef82b0facff0d0b23c97abad13ce2834107b0dabca96202e7b12418d708e73b78993cf17/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ec79f74bba0821bbabcc0e7e683b604/1ec79f74bba0821bbabcc0e7e683b604.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/6e97a830d5a148bb51dc69f07fe66a034166ac22797c1758965181e007a03c0207c225bc2b0bb15708aa05e52b5ea38d74bcfd263f4e31ff0bb2b1fca08fb513aaaeff5fa694fedfeff901deef30e4ffdb66a21b10089c5ce15ad45609e8b95a141d6d97d0f98d98c08937eb259e029c1cd8588413da4761e504d6494a816e25337ef914c5e1181102c9a77565c7fba1/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1ec79f74bba0821bbabcc0e7e683b604/1ec79f74bba0821bbabcc0e7e683b604.vtt"
                 }
             ]
         },
@@ -2235,12 +2199,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/1ed920e408f4b1c4bc36dbd356fafbedd0dd5cb150f138abfa689a17b4679be6e24a9f34fa321c7ae58c93fc9c8c6317a805f7f2f10ea4d80066b185141d375c2477ffecb87dd4df250f1e80ac3573dc98fe3923964e495323e3392768466918b298030e91801bcb44368b82bef82873/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/1ed920e408f4b1c4bc36dbd356fafbedd0dd5cb150f138abfa689a17b4679be6e24a9f34fa321c7ae58c93fc9c8c6317a805f7f2f10ea4d80066b185141d375c2477ffecb87dd4df250f1e80ac3573dc98fe3923964e495323e3392768466918b298030e91801bcb44368b82bef82873/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6d7772f89dd2263d622f066640e0de10/6d7772f89dd2263d622f066640e0de10.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/1ed920e408f4b1c4bc36dbd356fafbedd0dd5cb150f138abfa689a17b4679be6c256ca8c0ae779783ac7aa19468499971439a3c0a7246bb2977074770febd8f9905d897d6b0595cc71ed102973338d77d7303d55861cb446e6b196e1f07f9386dcdf844886e0c9261bad41f9b3c7b87ac4a84178815ad714076e225dce4e287735692cea6851c2271cd22617264f0b1e/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/1ed920e408f4b1c4bc36dbd356fafbedd0dd5cb150f138abfa689a17b4679be6c256ca8c0ae779783ac7aa1946849997f48a3f6e3b9738fc830516ca7952a30feaadb4529e464dc2e0e673af4ed4c4bb50a7653a2681399107ce0967cfee206d6eabb2efe2b3bb11c0d245c48b6437feda70869df66f8a578e8990197b35838ea56f53b2c1d7cf51879c735026403bd2/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6d7772f89dd2263d622f066640e0de10/6d7772f89dd2263d622f066640e0de10.vtt"
                 }
             ]
@@ -2260,24 +2224,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/f4fce446324cf7b87b5c864829e6249d986180e6c2c69f46fc4e468a1f9d1c8e040c1aa0c17bb99aff3ba148069b2154452ec209cd98747bdb4cc0a88a3debff772ed08b37377f5c7ab23706dcf112bac2c0fbd766bb4156b0bf1e07179e20f5fc9dc109a538758535ab512c704f34eedf602293fae730d6800807e706c5e53cebceb1a6ae3987f6d8c3788c4ea529d5/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0ec9f9f95fe81e03c1a0a9762f396c82/0ec9f9f95fe81e03c1a0a9762f396c82.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 121",
-            "episodeId": "yo-kai-watch-5272?ep=59354",
-            "number": 121,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/0ebe2ea1b22d7a60c4b14c4f433084a2f6b7110e413fc82d7255423443c1b1fdda83ae67d3a262b42660833ce5cb03515166c8f58cc1953bcfcc44c83a40b998063436e5b35157d8c2c649e338b47fa97c2bc33db46afce0202ac0c1390b8b65e2a2dec940ddc4973e1e80d066f97249/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f43be554df4cea3fbe50589a3d645a0/0f43be554df4cea3fbe50589a3d645a0.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0ebe2ea1b22d7a60c4b14c4f433084a2f6b7110e413fc82d7255423443c1b1fd6753eba27ee7151e2c1c30588da5e840b3ceecb831a1dd192b11d81234576f5488357e6c4e2e33812cd93b0eaffec075bc9ec911d1c9932db59ee4700003d02b531cbda329328fc7af82f856974a9cf242c27e664315cbef72316c0b6523a0dda7d8225a40fdc94cfdc6f775cc9c0942/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/0f43be554df4cea3fbe50589a3d645a0/0f43be554df4cea3fbe50589a3d645a0.vtt"
                 }
             ]
         },
@@ -2314,24 +2260,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2c463a853cdd4daab76652eb0706b684a5d3017963124c3a77e6636ff9b0f9be7611b0d843f04cc055705dc8513ed7b294dd108a0043f75aa9b237d8c7ad98076847500ebb0dca7fbc97e03167fc61922fa094a8b8c512ce51b1a1477940562e7ed6c45cdc01c77f0f5eae86103b8bc2e74ae0fc5075b7055b3d681f9df538549d600fa60dfa4566826f3f5908f9da66/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0226b3d511e5a952376bf02938284e5b/0226b3d511e5a952376bf02938284e5b.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 124",
-            "episodeId": "yo-kai-watch-5272?ep=59357",
-            "number": 124,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/3e95f6d348e3af07a8d770bee746b4d5a77a93ca7286460079ba3fbb38dbe1be9d45f831cadd652ffa1495048259da31562a45939fd21c82d77fd9bc19f016a97d103c8cb110dd0eb90d48789d51ac7bb5959c97d1f4705ee43882c22e96cf9007ab5f2da57dab6186f9e856482b6357/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8274e09ff6b7684cb23b9d162bfb90d/b8274e09ff6b7684cb23b9d162bfb90d.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3e95f6d348e3af07a8d770bee746b4d5a77a93ca7286460079ba3fbb38dbe1bed7c50b60a3aaa9981178d17d32c4aa268c93f7c89e9e3bcb990e2c9734814cb3d0e667617a02133512b702a749ecfae8323346f3205af3aae2ca6de0449fe2865fa3114126649988bb634c2c39f2541672910c544b53b4d0b852b52a4966d6fc86799ea7bd5029153aef307879d4a9f4/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b8274e09ff6b7684cb23b9d162bfb90d/b8274e09ff6b7684cb23b9d162bfb90d.vtt"
                 }
             ]
         },

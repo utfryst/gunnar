@@ -60,7 +60,13 @@
             "episodeId": "sorairo-utility-tv-19470?ep=131719",
             "number": 2,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/3de32f082817b6016811a7fe025e7bd452a46c13745bdd7e7d9680dd9f8f97b4f1eb00f464920cac9b0fcbc977a8487468389509c5ef2d4af3901ac4a83e5d2d33fd5d505e1ed5dede486a012f98702459be8337af95856b68a3d7b73280ed882d04595b863ced6cad17c02655b84f7f2b2ec63ac9b62aaf69601c2403147397/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/02722dd5a727be55b466830a4fca1cdc/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

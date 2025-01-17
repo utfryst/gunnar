@@ -623,49 +623,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/bbc222e994294a2bc1439ae8bc4c3e043d7ea75564bfd1c58aacb5230d8b468b044ce861d1d17515d77a69953071c419d56561e52a39235e803c300a50f23fe38d8e3e395460841f2c2a2c43e89f63a6661e95a7440694d5f7b8729679f0502013538fd5808b39fc9da38d0f46e3c52b236b23d0fcc07d8021b04ee735f516f7/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/bbc222e994294a2bc1439ae8bc4c3e043d7ea75564bfd1c58aacb5230d8b468b044ce861d1d17515d77a69953071c419d56561e52a39235e803c300a50f23fe38d8e3e395460841f2c2a2c43e89f63a6661e95a7440694d5f7b8729679f0502013538fd5808b39fc9da38d0f46e3c52b236b23d0fcc07d8021b04ee735f516f7/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3aa51d842d2141690778d62d48b8539f/3aa51d842d2141690778d62d48b8539f.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/bbc222e994294a2bc1439ae8bc4c3e043d7ea75564bfd1c58aacb5230d8b468b044ce861d1d17515d77a69953071c4195a9da3c6a0aca2a7c361fe2e2323b728bb5aed4cd8387549ef0ef370f8d5f7b6f8119953f79e7933a731d2bf63a3d085103745738324cbac48b388f0205c738b43600d4e18be87df19a83998c69dbe8ff785581adc9fa8db3f9e8edab1f34f68/master.m3u8",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/bbc222e994294a2bc1439ae8bc4c3e043d7ea75564bfd1c58aacb5230d8b468b044ce861d1d17515d77a69953071c4196b53194e94bed30b9d23de88632298d363ef40f4a8bd21ba78ea61bd95f0ce03c7bc57d65dac457992d4e5687f307c3deb0be4364243d87d8f4f4d8b4b3b93ed7a58e433e5ed75c9fe7f668ae9eb600dd3b9cd84c379732890ba31dc2e145d37/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3aa51d842d2141690778d62d48b8539f/3aa51d842d2141690778d62d48b8539f.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 34",
-            "episodeId": "lemon-angel-9364?ep=108841",
-            "number": 34,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/9eac75839a7fbe2ca7e2dfd817ac3e77ff71711f19de2136f133c841fdfe656a3a162296fae0cebe388ce3455257b3d42661869e118541994f03d94c628db7f450253fced60397e56e21d336fe3681949c4cb5bd947126826a6e57805a01f44c1726acd563527c2c5fb61ea32f5c7ea637be3527d6e9ae50a47a6f2bdab91937/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/4eee67b1b0b896e73db5f4171d0f4bc3/4eee67b1b0b896e73db5f4171d0f4bc3.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/9eac75839a7fbe2ca7e2dfd817ac3e77ff71711f19de2136f133c841fdfe656a3a162296fae0cebe388ce3455257b3d4f287191e05b6ae4fec677b49a39fb85db91ba58e8aebc8bf073119a4c5210c21b183129559a34c1901b7b2193952836660e11e94b4e5b848e7949cd231fd036e681e91c38b9f1aed93b9e2ac5306e6da3d7bf374346ff364a36d8dd55f1c8b55/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/4eee67b1b0b896e73db5f4171d0f4bc3/4eee67b1b0b896e73db5f4171d0f4bc3.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 35",
-            "episodeId": "lemon-angel-9364?ep=108842",
-            "number": 35,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/8c26bfb303b6a04c32d702398eb08934c99a3b0b961134bc736f490210d7ff8b50f02eed18a0271338f610383fe08c50f9cfe44f150ad4a1283b16bd3aa4c54199edab7b827f021acd2064ee4b70a07950ca6aa7af72efd6ccc12473b570cb1505828ce17425d071e6cc2e7dd5e9894b3b09f23fd5a4e29fe889a1682e8377c2/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6ff8705884d4bcdf5a49b67ebe5c0c0/c6ff8705884d4bcdf5a49b67ebe5c0c0.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/8c26bfb303b6a04c32d702398eb08934c99a3b0b961134bc736f490210d7ff8b50f02eed18a0271338f610383fe08c50c900fb70cb2e10277f1bf23e89444b14f48365f58863bce6acdc2d1ecfeaa92d5fa8224ae622d59edc4379061bf3c0dc9b0e6d5d76f9fc80d42ac6054723d4a6c3821357c35286163f7eb33e6cb392ac918a32b15616409bfbabdb226b558960/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6ff8705884d4bcdf5a49b67ebe5c0c0/c6ff8705884d4bcdf5a49b67ebe5c0c0.vtt"
                 }
             ]
         },

@@ -528,44 +528,8 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/3b12eecd2183ff1928f3b4b6f85240fd1ebc070c734b7406738d85c60146f50d991892710d030f5b72160ee261d938467fc33de77e8fa801f4399e2f606623160846a85fcaf3d05e94e2cfc8a735e0512ed3296d77f7efdedbedc3a224d43b4a1863674ad523542d5e35fc09fb40bffd4becd22a7ea02fbf82cd99113e45bda061fe45a87a0fe5e4a396b366f698dc21/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/3b12eecd2183ff1928f3b4b6f85240fd1ebc070c734b7406738d85c60146f50d991892710d030f5b72160ee261d93846bc8b3efdca2f39ab2c085440b03f692cee513c8f4de89c311daaea027a754cf2505f2e3a04e37f66c755a598bf2bbda50fffbb0a736aebb17601d4d7adb8b24910217fe86c6f96201faf3d28f1d9cb6d156577333c0c926348e9435054e6f6ae/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/03d84f1bb57a64cb313b7d5c812ecf12/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 24",
-            "episodeId": "anyamal-tantei-kiruminzoo-3513?ep=90800",
-            "number": 24,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/e8e00522fab97bcab124d60c9e7247c0541e3acbb13f2ce9c0276209a1a648263c59d6e41eea9bb2836c8d9ebf7f229b9ed38873feb1bae7090311c14b787054e793106bcf32fa26cdac1948743524fa5eaa7b8c5b889d1fed746b7fa4ba4a3855e3d6b6a3bb8def671e6dba1cca852c5135ca8e3d124cc040e3c660a470f59a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6264def9d4f04a2ca0909f31015c2e1/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/e8e00522fab97bcab124d60c9e7247c0541e3acbb13f2ce9c0276209a1a648263c59d6e41eea9bb2836c8d9ebf7f229b2ad6fbe30d2e7ceda7369d3d9ace2d1cbc7b345caa2a449fd76bcf58ad9bf25ff8733e6658e406e90f3d9c0d850f352b338737b51cf30e7e4aa259ec8c55ffce68d068c06e95b5e8ed533ab7652cf245fad08b72ad8ebca46deaf7335aaa625a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6264def9d4f04a2ca0909f31015c2e1/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 25",
-            "episodeId": "anyamal-tantei-kiruminzoo-3513?ep=90801",
-            "number": 25,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/29da929ab3a3692cea196525f3e335babcb1bf875caa4bf57c1a028abc9c2f603646488a6ad3a4295614c0e9591556bacaceb66d7a7eaf43a885e3cec4e3e9ba725f37a5df8aaccf1e56eab62129e0d315dffe18a74877fe5bf80753c17baacd1df4efe088acea8b9d2734bce60e8a69a67d2b98b8151ed839bfb873ed499bf2/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d17fa5e23a768e5f26258338d59239f/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/29da929ab3a3692cea196525f3e335babcb1bf875caa4bf57c1a028abc9c2f603646488a6ad3a4295614c0e9591556ba15f25c9a1380ac4c6276a7d41380284ff9f9ec7369a89ca9a119d39c8dd01fa5471b6708c69f13b74c0ed4ee2c8f239e5b2c85c5800579d23ed813b9d21b0bab8e5c906a6ecd35a0c1ec35bcb66d9e3ec7ab676613899c8d9f959c1cfa69cf34/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3d17fa5e23a768e5f26258338d59239f/eng-2.vtt"
                 }
             ]
         },

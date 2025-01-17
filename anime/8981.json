@@ -229,49 +229,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/adf6523c6dc344ee2433dda4fbe2517ed16e392c834db31dc01bc00abf2f6fa57fc4ee516fa7875429a6b34ca480c3eaec6c1623490eec813a4409e65ad5f19a762142bc4de18dc3b2069ff2c53c6eb66e6af316ccb88bb567e5ecdb9bc6a932be99d607af2cfd412540a82d6adcd64a0d8c3245eb8a5da8e1295e49bc47754e/master.m3u8",
+                    "streamingLink": "https://gg3.biananset.net/_v7/adf6523c6dc344ee2433dda4fbe2517ed16e392c834db31dc01bc00abf2f6fa57fc4ee516fa7875429a6b34ca480c3eaec6c1623490eec813a4409e65ad5f19a762142bc4de18dc3b2069ff2c53c6eb66e6af316ccb88bb567e5ecdb9bc6a932be99d607af2cfd412540a82d6adcd64a0d8c3245eb8a5da8e1295e49bc47754e/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/1d78dacf5db48844116d0f688aa38349/1d78dacf5db48844116d0f688aa38349.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/adf6523c6dc344ee2433dda4fbe2517ed16e392c834db31dc01bc00abf2f6fa57fc4ee516fa7875429a6b34ca480c3eae81423cf290686e2a799b60f576322b05d9e3ed23dc120b72f09e20023822852e159815e734bd9d7cdb36f3551d8e5722b2f2cbd63b9677c0bd61281c6bd3377a8775c72ee48988aee3d2bcca4de515acd89677a6caae0a686e545d3a20a3332/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/adf6523c6dc344ee2433dda4fbe2517ed16e392c834db31dc01bc00abf2f6fa57fc4ee516fa7875429a6b34ca480c3eaefb1425108d7a67f1000fe0c2fa92fd253d5f1e730f19abfdfa4ecb2d6b2d1324f398bf601b2e1f2d57ce2ddba4012a20245f8405395b9f07120e86aa17a1e4cc1a063f33e5c37da2db0a7c01904deba34fe16c4ea9abfb50344bef842c230f5/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/1d78dacf5db48844116d0f688aa38349/1d78dacf5db48844116d0f688aa38349.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 8",
-            "episodeId": "planetes-picture-drama-8981?ep=124542",
-            "number": 8,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/2190962665b9efd40a6f208109b937d9e08897ff7b36bf02a14765005cc9e6e2e2fe041c9ef2b178da6b47bed9e847138f9ff080ffc214fc299c920e727355811b539739dab9432bb19a2cdcc6eeb8422b3f389f3863239b7ed7201a446195074ad385bce5a3bccb04b2f163c1c420c7004999ceac0055123a9e45bc526473cb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/25bfd8acbb40f9faa54b677f0b682ebd/25bfd8acbb40f9faa54b677f0b682ebd.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2190962665b9efd40a6f208109b937d9e08897ff7b36bf02a14765005cc9e6e2e2fe041c9ef2b178da6b47bed9e847138bad2c20720faa04c9ac51e5eaa300d7b486173d87eb8fad97c0248203c36116afadfa6c18aaa29b611c567b06b87094aca77afb08793da7a64314a9a7d1b4413cea26fdba883052fb1d16322fc711834cef75411e995939ba606a428c6607e1/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/25bfd8acbb40f9faa54b677f0b682ebd/25bfd8acbb40f9faa54b677f0b682ebd.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 9",
-            "episodeId": "planetes-picture-drama-8981?ep=124543",
-            "number": 9,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/4896695e3ae406361616784ec326f6c6815fea258f8597bd161b6b8c387e3d912300445b9b043381d60cc2357a239c407c1bdac308af0a3441b10c2f95d695589f8be8e2e873d0cde9a7b2bebdd793d51d1550c053524d722159dd15f07ea9d22c457e9b941d807b2917a7732370bcc9b289df9534b0ef0b8ce9f0b3140fdfb8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/aff557301df36f8f1c7362bca0283c9a/aff557301df36f8f1c7362bca0283c9a.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/4896695e3ae406361616784ec326f6c6815fea258f8597bd161b6b8c387e3d912300445b9b043381d60cc2357a239c4042ab8f2c1ae8b1737d7f0fc8fbcd5fb5ed4c3da83aab06855d2f7e379fbe5840279517bf1d204ca70598ded9760fdecc81bd74dcf4c3ab9a572143f02c6964d68a0de0241b4e4906740d59a1dfe1148bfa80cd7ee3862a2a1654724d97c85bfa/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/aff557301df36f8f1c7362bca0283c9a/aff557301df36f8f1c7362bca0283c9a.vtt"
                 }
             ]
         }

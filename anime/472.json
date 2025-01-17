@@ -510,26 +510,8 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fba6f3121b5f0aec38b7a4e72349588e743b62d91be0211c1d73a31e7051559ad7e3b4e4fb39bc6f995f5ef48226e8b26aa0a4ca3f150d1f10747cc075b5392ac74d1d383cd34d3710bbc4189e2a1c17858494aeab2d7ce2b069e433813af194b9f2a1a26b974d77c07a4f225611013dbee0c5ec44221217f1bb552bfdf8f09ca3e76362c4e43ef37f330da2eb917c91/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fba6f3121b5f0aec38b7a4e72349588e743b62d91be0211c1d73a31e7051559ad7e3b4e4fb39bc6f995f5ef48226e8b2c5ccfbb72f7422895d241d9775966c57fac9265febdd9c5fe3e4e0d49f8def15a1765e58c00e8436e65b3d775260a9feea76454ef219f6299d2655dda9f8de275654905632399ef12bb4f9452b465e7490f2b9fc64148b385f19e16c5edce9a9/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a51f96c2ea6ec2a2d667a11de8426f91/a51f96c2ea6ec2a2d667a11de8426f91.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The Menacing Swordsman! A Journey of Reunion!",
-            "episodeId": "slayers-next-472?ep=9889",
-            "number": 23,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/b8180fde83ecc0b6eec4a557a7b31066b66d833f3cf4130cc496c78a48f46424271d4f277870665ade3530b170a9dad594f27081da5b62ce8ed4e979a54183f6cd637619ad0adf17298b924142d68036e990e404788524dc832947cbcc0e99e08f8e33bab93c1ff995f6762904fa8c43cdf52a71978779cd33988916d27918fb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/437d8d01cc5fa61e708b927897bdaaae/437d8d01cc5fa61e708b927897bdaaae.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/b8180fde83ecc0b6eec4a557a7b31066b66d833f3cf4130cc496c78a48f46424271d4f277870665ade3530b170a9dad59aa1f18e049b5bfe2b9b104b2c308e16406804af61fc5b6af0edbd5e40b1ebddf977829f558ff3cc3401e58bfdcc239ec4c8bfe69dffa48bd43b71f6edbf4fe4f3798e9447270d1af599471a0dfb891e233b591fc37c565a8e2b3af734968f44/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/437d8d01cc5fa61e708b927897bdaaae/437d8d01cc5fa61e708b927897bdaaae.vtt"
                 }
             ]
         },
@@ -541,24 +523,6 @@
             "servers": []
         },
         {
-            "title": "The Souls of the Dead! Lina's Final Decision!",
-            "episodeId": "slayers-next-472?ep=9891",
-            "number": 25,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/b83037e29a8f7f082aab7082e2e74c9959907e9c63c984dd4f6c641a6ef76670e8ceabb4a3f78f5dccffd00ab1f3874306f2aad35d599189f740ad966cbee1b4394348cb657c159df53df8b04b96447ea9d4120b22f68864892baccac2cacc084bb5d79bdc1ae9f9717ae094473fb6fa2db507f6a2fd250d96c9017d2050b0f9/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1667c24f840653cf28f30ea41b9c23e6/1667c24f840653cf28f30ea41b9c23e6.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/b83037e29a8f7f082aab7082e2e74c9959907e9c63c984dd4f6c641a6ef76670e8ceabb4a3f78f5dccffd00ab1f38743c26b5418cd219379e9bb5c41901f8ac888ed1dd2c3007b84eaa075e3f1e97433d157a3ba2e9d4ccbdd10600a4772b2790c9b075aa36eccddfad2bd8aea3b01b723c69bb3e46484a97876c7ad6d02c8ba3634fd8818f38df41c8af315b55de6b7/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/1667c24f840653cf28f30ea41b9c23e6/1667c24f840653cf28f30ea41b9c23e6.vtt"
-                }
-            ]
-        },
-        {
             "title": "Go to NEXT! And Then Again?",
             "episodeId": "slayers-next-472?ep=9892",
             "number": 26,
@@ -566,12 +530,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/2bb20f37c41d6b692e5d6838ba1528a26642ae62b460f713640972988d684415f19ad5216da7de1ba2c9004d62caf773c668b05b08d35185be823a8e6072c4b72f515da3267895002cc765c173859921077238aba05478a822f376ba5d748ddb02d170e43703754bc30cb486cce6e7306fb952da2b03fac4373de48183cba04d/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/2bb20f37c41d6b692e5d6838ba1528a26642ae62b460f713640972988d684415f19ad5216da7de1ba2c9004d62caf773c668b05b08d35185be823a8e6072c4b72f515da3267895002cc765c173859921077238aba05478a822f376ba5d748ddb02d170e43703754bc30cb486cce6e7306fb952da2b03fac4373de48183cba04d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0c3817ed43dd1ca330a3cef043770aed/0c3817ed43dd1ca330a3cef043770aed.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2bb20f37c41d6b692e5d6838ba1528a26642ae62b460f713640972988d684415f19ad5216da7de1ba2c9004d62caf7732c575951e4a0294ad86ee92fc673c8fc4564311a600072f7272c137d94f20da7bb05ef60737f1acd42db6c381272a74bbda0d97481dba9f1a80a4aa6f65de27e063a8235cee6f4295f9b6a3db4465205f05dc6bfbbd63f8bd907a151c081715d/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/2bb20f37c41d6b692e5d6838ba1528a26642ae62b460f713640972988d684415f19ad5216da7de1ba2c9004d62caf7737f99f10a4399e9a2356d6ff48fdbb7ec215351cff49a673476b54086cfc7313209b2feedcd504595a0279dfcb84c4d3531b491285b9759f04aa139cd4f8b692cb539b75e5feecc0caada8993f3493e79bd53994e53ac21ad12d957bcde043174/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0c3817ed43dd1ca330a3cef043770aed/0c3817ed43dd1ca330a3cef043770aed.vtt"
                 }
             ]

@@ -710,49 +710,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/081ab0599e4dfac3c1b986a6a213f678d74551006a6fe338ad17fcda7c409109d8ef0cfe30017dde72d1d558a4995a56f5a7b6c4d97f66da8bbd6c74a1f0b6d33a17e724d3f318cc0db29b7c9499427d1d1ee8c45e9cef255f3a51b3b844b128409aa54654a052dd1c5f9368960d453a1e90a90b06e24eb82fc56472ce07efec/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/081ab0599e4dfac3c1b986a6a213f678d74551006a6fe338ad17fcda7c409109d8ef0cfe30017dde72d1d558a4995a56f5a7b6c4d97f66da8bbd6c74a1f0b6d33a17e724d3f318cc0db29b7c9499427d1d1ee8c45e9cef255f3a51b3b844b128409aa54654a052dd1c5f9368960d453a1e90a90b06e24eb82fc56472ce07efec/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/e0f882d5b58e55ed035581b33162ba9d/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/081ab0599e4dfac3c1b986a6a213f678d74551006a6fe338ad17fcda7c409109d8ef0cfe30017dde72d1d558a4995a568a0365665e5bcd2c11bd5e9b0e45966fb60edc925b19892ace8595ed0f8365076db46c16dbde0573836214e361969e23a8449e7b85c58a4660f838d5ed74dac11ac4594b15d644385ad9767956a73750ae48c26164d5433132b37ec9bb7fa46f/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/081ab0599e4dfac3c1b986a6a213f678d74551006a6fe338ad17fcda7c409109d8ef0cfe30017dde72d1d558a4995a5628d4ecc4da0c164be185c0f22856272bf77978d546714105bfa90ac007f51da83ea5f406c7df2fe136c9385ac4ff6765eebf6f842de47094d50da1e86dcd2276555cff54abcaf560f87b9df3cb8d5cde8eb4932d10f314e829df0d4ce3df0910/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/e0f882d5b58e55ed035581b33162ba9d/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 34",
-            "episodeId": "aura-battler-dunbine-3621?ep=91267",
-            "number": 34,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/7a4dcbe79012c1dbf5e5148895603481e2dadce015e274987db6b9581ba1fd4eaea6b3557c1017152a2a4e4b1e3b329855e0ea6ae5562dcd69c8789cf8c0f937b22b1cf70eceada91434c024dccbeba77e0ce96347c6e0e08c7cfac8353753844b2d5f7bad5d64de7a83ecaff8cfe8fa6157a29031133bef309411662ba92e70/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3315af7052ef050c28eac781a502986f/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/7a4dcbe79012c1dbf5e5148895603481e2dadce015e274987db6b9581ba1fd4eaea6b3557c1017152a2a4e4b1e3b3298525b6ca2bf49a67804fed3f700734341aad9fe7870efe6fb100fb73cd7f2d836bc062c3ca4bad6c694752337f45efa695db5002bfe172e4c1ad83caf80c6a7d1b1821ab685a1d890baa4bf58a4dc6f958867f3c8f9bec727825a6491b68f6a58/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3315af7052ef050c28eac781a502986f/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 35",
-            "episodeId": "aura-battler-dunbine-3621?ep=91268",
-            "number": 35,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/f9082adbac034c02c3e036595f434f5c788a3330417c299dd40fe38b5963cba70bfc69db811332f00dfca36238ec882542ae2e22145dbf253df4e9974a4008d0f772dad976ff9437751caabb77e1653f583e3529d3f3d067fe5db6fdb713c3b24a8e1676c4868d2b2ad1fb370bac3b33bce0276f70148c9288fb92c538c216b9/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f046d913673fe6c9891b0e1b6bf44b19/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/f9082adbac034c02c3e036595f434f5c788a3330417c299dd40fe38b5963cba70bfc69db811332f00dfca36238ec8825b859cdcc2ed5f585a6e7d60501f47a198eba4628dd542114aa7d046d204629eb4c6a18950c3d96753bfa34f4cf0ef9f47325cd0c4744b8d05547f5e64b580bd9c595ebee0192873492f1af14c420e2d1e11cb047c515c545d62c7e208057283d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f046d913673fe6c9891b0e1b6bf44b19/eng-2.vtt"
                 }
             ]
         },
@@ -807,12 +771,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/c609f57ab72b347bbd3034d57791236d99df7fe485c609e1eccb2ea4638e54eb81a4be86722cd2b351d5f5f54ca499c4038dbf19852b8f3c4c2f0fc69e7e0a8f78bea6e5e942a4ff45ed90a90b29f7226f5b6b3f671a52089e69eeada1790a138c7fe0db849fe2921cc445198fda92b119e6609db799ebbab7654725cb8eb888/master.m3u8",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c609f57ab72b347bbd3034d57791236d99df7fe485c609e1eccb2ea4638e54eb81a4be86722cd2b351d5f5f54ca499c4038dbf19852b8f3c4c2f0fc69e7e0a8f78bea6e5e942a4ff45ed90a90b29f7226f5b6b3f671a52089e69eeada1790a138c7fe0db849fe2921cc445198fda92b119e6609db799ebbab7654725cb8eb888/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0351e73f6b969ed6c608dafbd7bdce7c/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c609f57ab72b347bbd3034d57791236d99df7fe485c609e1eccb2ea4638e54eb81a4be86722cd2b351d5f5f54ca499c4f45351502074e44c1a8dd44bbb64c475f2390d8f3bf05ab8444bf2eff57b7081fc8b0c855e4a75e9c67a1ab78c1330b016fbab94b44932090831171a5013ed023d93c5b647ff6ad6c1de1ee2d769c946abc36614d58b5f006a78bf10777bfbfa/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/c609f57ab72b347bbd3034d57791236d99df7fe485c609e1eccb2ea4638e54eb81a4be86722cd2b351d5f5f54ca499c4c7015b0c383c922d24cfafdc99008b089eeb020259cc29b0ae850e0d3532caeb308e3c793fc2f3e7e24caec489bbebb99b16b2f86739e049712618afa89496774905acee1f446b8d2bd551e0a0443eaa74d6530810e78313ea5b2e36d3ce9aa7/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0351e73f6b969ed6c608dafbd7bdce7c/eng-2.vtt"
                 }
             ]
@@ -836,24 +800,6 @@
             ]
         },
         {
-            "title": "Episode 41",
-            "episodeId": "aura-battler-dunbine-3621?ep=91274",
-            "number": 41,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/ee9d717e95246342bc62f1fcfc6fca0d193824d12c15475e6905b894be02cc56f9326bb4b2547f5db54ed60da781083c5577b6abbc399b415703ea647ebcc1d8b3848a271f9dcbaf0c57d6fe6f30a5bd97ebb4eb652930183aa4d2316b91126134f5d3db139011d0626709a8661681952eef1d0530d9682e3eb6335df347303e/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a092027f9c5a8f649054dee085156633/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ee9d717e95246342bc62f1fcfc6fca0d193824d12c15475e6905b894be02cc56f9326bb4b2547f5db54ed60da781083c1ca0cc45313eb3170402f714f9cb9c84c83c736dc27a4b24cef6b3ef4ab540bf7bcccc1dae1f816d19b5a9d0ecff6649b1773518aa328dea0a08220767947898cfd39e37cebe834815cccb5ded577439829f1d571fd8ac9bedb94e2208900e10/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a092027f9c5a8f649054dee085156633/eng-2.vtt"
-                }
-            ]
-        },
-        {
             "title": "Episode 42",
             "episodeId": "aura-battler-dunbine-3621?ep=91275",
             "number": 42,
@@ -868,24 +814,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f5d78a32d0199639b8ab87ddc3e5999510c6f0b40b6853cd71c07c36a75e026c177bc68aebe7d589b5c4423634217d65d0928e76775d01f4922b7dfb433c835cd214508d6a4aa75797d0ec4cf052dbe0104c4c22a7a7a5f1f1b17ff480ea7346781c29c4057bd82059c378797e043fb1844d1ca7d1449eedb9bdf036b64f94a0f4c4afa76eecc4523305a36ba9311770/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/93408ee170cfd5af1019c54c4e72b7eb/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 43",
-            "episodeId": "aura-battler-dunbine-3621?ep=91276",
-            "number": 43,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/42368ce0b4b08893c9f0aad81757f65e4c210c7438976bcff61676fcff5092e1ed3ba4975e41a725a20870a619421f41c3fc8a9caca6ee58df0d77d1e6f6d15c3d7c18468592b5cff420cb850622c43f00592aaa31129c1cb78459b8f9465197de2d10aa5cd31a6539274856d2bd9fb7cf4862f2a1482ebcc83dba98102c8edf/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/176ed50ac63b6233f12732b56a3974aa/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/42368ce0b4b08893c9f0aad81757f65e4c210c7438976bcff61676fcff5092e1ed3ba4975e41a725a20870a619421f41c8277f616b907fc4e5fd1bc0eb97c1739b850507e69e7c99a95a2f7eb68fbe3f98a3e5e1fb8520710a2c6e575996e6ea43a61b192fb41029afc1d01970ad264f8bc2395b0624850e122dd5af0fbb243368e538fb2b07c5d10c2eb06b87b662fb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/176ed50ac63b6233f12732b56a3974aa/eng-2.vtt"
                 }
             ]
         },

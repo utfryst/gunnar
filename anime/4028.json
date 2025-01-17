@@ -140,31 +140,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/28592504a9953e220f6cba2ab76923a43553d7d99385b025c420f1c8ca2c876c99235bae39313948d16cb747fd750f82eaa46ea29fbb9da572c51bafe10e6168660183955d9b2a51bf2b95daed2d70447a8d97594feeae5a5934acce4c43f43175f2ea43abd6f1e1b9f8fc53f858c5e6957a72440872ce0e907f8f1ef361d6bd/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/28592504a9953e220f6cba2ab76923a43553d7d99385b025c420f1c8ca2c876c99235bae39313948d16cb747fd750f82eaa46ea29fbb9da572c51bafe10e6168660183955d9b2a51bf2b95daed2d70447a8d97594feeae5a5934acce4c43f43175f2ea43abd6f1e1b9f8fc53f858c5e6957a72440872ce0e907f8f1ef361d6bd/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/20cd582e36186277b7a9d4ebd0939c37/20cd582e36186277b7a9d4ebd0939c37.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/28592504a9953e220f6cba2ab76923a43553d7d99385b025c420f1c8ca2c876c99235bae39313948d16cb747fd750f820fc1c008257748bf77c57d39025b91d73ed97939a544d1b1c6871beca188f780c60bcd76afe681cf4257f01f3f64a87503dd17c48dadb7f85533340c2a1a2fccfd221f64d5c54b796f6a6d00fe05c5facc406fd932c5ed1d2a52db193c9b030b/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/28592504a9953e220f6cba2ab76923a43553d7d99385b025c420f1c8ca2c876c99235bae39313948d16cb747fd750f82c0f7d7ced996fc7fefec4cf4277b1d5edc286533b213fb5f32eb1f6767194b2410c6b7e300209f4c2885d3986fa8f8fc41d1d8fdd188fc360522552f0fb71e89e23f4157cc0cbf17b500bceba6ce6084eb4dc5ab1129c1efa179558142c1f41a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/20cd582e36186277b7a9d4ebd0939c37/20cd582e36186277b7a9d4ebd0939c37.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Panther in the Snow",
-            "episodeId": "night-raid-1931-specials-4028?ep=36194",
-            "number": 3,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/aff3857f90b365342b7beb461f242842d2e65a1d999db5e15616cef2e69c3f38ce29589dee78ad3065bb315f315c1e1f983441f9170b40a1ed2880e9c67a5333fd355b0e84d44fc703d9e9f9cf49c3f9f3310600041e5e3cb94e915a4868bdc469c2658997bcf4e97666132a7c5faef113805b8c03a8e51d090163e7a1dfb9ef/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/051c0b8751d480955997eb48fd672b84/051c0b8751d480955997eb48fd672b84.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/aff3857f90b365342b7beb461f242842d2e65a1d999db5e15616cef2e69c3f38ce29589dee78ad3065bb315f315c1e1f53b8758796f4cb70ab2b944598b818702e8c32bfd12f87c008268e7a3c5345a24c0fdc3db723942a6f5a6edcafcdc87e1858f8f8377a62d889c0d438d3b0fc2e5a8bae3706866418aa34111d6f256e7a9b6304b7ceed228cd0730d211530fcb0/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/051c0b8751d480955997eb48fd672b84/051c0b8751d480955997eb48fd672b84.vtt"
                 }
             ]
         }

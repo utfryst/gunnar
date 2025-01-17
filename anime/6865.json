@@ -535,49 +535,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/58803efdc0011be09ff3e0c5b19dc5e126d5da61f6ec12c2fef022df2678b15bd65d0b7f5ac92af6d252737338763384d75adf0d92ee327fa71a2367cc7543552a70725678e064ff9f52c0d74c8645424b69871333250a2fd9f5ed50932f67ce635f3b476628e3cf3b047685406dd287bf15b591b5be20ac2f63a9386e1c6db3/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/58803efdc0011be09ff3e0c5b19dc5e126d5da61f6ec12c2fef022df2678b15bd65d0b7f5ac92af6d252737338763384d75adf0d92ee327fa71a2367cc7543552a70725678e064ff9f52c0d74c8645424b69871333250a2fd9f5ed50932f67ce635f3b476628e3cf3b047685406dd287bf15b591b5be20ac2f63a9386e1c6db3/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c9617289f9082390cb643f21fe50fe6b/eng-0.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/58803efdc0011be09ff3e0c5b19dc5e126d5da61f6ec12c2fef022df2678b15bd65d0b7f5ac92af6d2527373387633848bd37b9e2d26de7bcc35f62443c81195140aa58d305f0de8099f19579950f7d0e5bdec097704f5a40a00c7496ea425eaca73a8207ae53efb169e31ac17c0c12676fa015850a65f6fe35c577f35dc0e9e80e29be28dcc8202f6aefae05c43e8e8/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/58803efdc0011be09ff3e0c5b19dc5e126d5da61f6ec12c2fef022df2678b15bd65d0b7f5ac92af6d252737338763384e37098a9ba11a0564faac0592ad243526602e220329633fb0e0a32469eca75fe936e5d6d1d9f9aaffbdced8d400ab77473d7e599b218e4ea0e907605f2f4526a5873b0d06e9558284658d4da9f9b03aafbf5e7975c790441a58cda13dcf42949/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c9617289f9082390cb643f21fe50fe6b/eng-0.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 25",
-            "episodeId": "oishinbo-6865?ep=93017",
-            "number": 25,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/0bd975d1a00834da5d7b3aece812be455984953c7de736f3974f8c65ac8ba0c8f349b93c5b748285240a8f2bd6e00a2e5af7507f25acaa85602ca705702cf60187c45136803d9735b1ef9638e062efa22e0c90aeaff17d8913d58b6d5527dde221e9f41c32edbb37cb1be78bb83b9a31fb16ecdb2e7103efc7c14d219d00dfc5/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/19a7a7d1701a4e05b89ac5418c4e6a9e/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0bd975d1a00834da5d7b3aece812be455984953c7de736f3974f8c65ac8ba0c8f349b93c5b748285240a8f2bd6e00a2e6e57d024996ac5dd9b9af887e6dba73719d7a2b0107e4319613e01230c5c47d7ab697a0e0698ed0ae0c378d067798fb6d754e71ac5e4f929ff81f9328bfa94c8da44210833b3abb5189af24fbe94a56e3d0d82359df63daac4ae666ee8bdea61/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/19a7a7d1701a4e05b89ac5418c4e6a9e/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 26",
-            "episodeId": "oishinbo-6865?ep=93018",
-            "number": 26,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/7b2aa28b335f3b2827ee430c01a67b91472f16f23e15d4b34d370ab828aeb0b42b6afae0c57fec8aeba8487106816f6c82fb4e6ddece425084b0a5c10b1b41e541d4218d80bf4f6621367130bdafdf1a41893460d57d5205f99ce66b12cc61fae97f4da13dc5463ba3a1e721710cade4963449f84924e3041fc8026268092120/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ab53a34e658005a92747a3ae9e6c518/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/7b2aa28b335f3b2827ee430c01a67b91472f16f23e15d4b34d370ab828aeb0b42b6afae0c57fec8aeba8487106816f6cbff519fee96cf58bcb7a54bc2034915e5eab8636f6d11c350b5288ad566b0f90eb81a4b72d6303ac956de5bd490b729503208d38995924cfbb10476e994bb65c69f928c8ad01b7eab58a25a8fb714812d34f59376c39edca02320a4f890d6bd5/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ab53a34e658005a92747a3ae9e6c518/eng-2.vtt"
                 }
             ]
         },
@@ -740,12 +704,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/019e706e1eb99f3ad57928f958a0a48d411b3d1ea63de17e2a794b2e032df626a16077befc725a07c68e531ca1f2f8aad07afa9e9d30f84a3d56a4b1f5984fa2b2a0e9da297e801e2c09d3e1d20e40af7020ea5f02d07bcb5cc668c5946b989396eddb6a782a55ad3c0563f46b8dcf36ca4f85908635ae5c5f62ea60ab9b045f/master.m3u8",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/019e706e1eb99f3ad57928f958a0a48d411b3d1ea63de17e2a794b2e032df626a16077befc725a07c68e531ca1f2f8aad07afa9e9d30f84a3d56a4b1f5984fa2b2a0e9da297e801e2c09d3e1d20e40af7020ea5f02d07bcb5cc668c5946b989396eddb6a782a55ad3c0563f46b8dcf36ca4f85908635ae5c5f62ea60ab9b045f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bff8dfad3c908c012ff8f814a0bc72aa/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/019e706e1eb99f3ad57928f958a0a48d411b3d1ea63de17e2a794b2e032df626a16077befc725a07c68e531ca1f2f8aabb0cb9dd978af6a17e8c298e86c6852874f0914cb3d150bd360d5bd314118a6e1aa03e46623eb4a1ef4da0e47ad337969a81c93a1efe52f3cbfe7e2c82e674bcb391e0a5f305803546ffb7c30f84c78f5263ba9821215137de6e868730272659/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/019e706e1eb99f3ad57928f958a0a48d411b3d1ea63de17e2a794b2e032df626a16077befc725a07c68e531ca1f2f8aabc8908da13aa0dcb681542163c701cc4e492a536fd342276dfe3f9b02586812e2bb3be4b8ca9747c4106dfb6bf6dfad38e4b5309772cc7f421abb932807729302c815c7ea088a5890bfc02c44eca73f33e3f648ed1ed008f6033bda6c5df3531/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/bff8dfad3c908c012ff8f814a0bc72aa/eng-2.vtt"
                 }
             ]
@@ -769,24 +733,6 @@
             ]
         },
         {
-            "title": "Episode 38",
-            "episodeId": "oishinbo-6865?ep=93030",
-            "number": 38,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/275036d0cff4389145c75f48d1e7a2ffc7baf469a58dc745fdd5e707623b4719087ab3ace015f7c4e7271ccbd1b7e98c0828ef4009843db1e52faff031fea917d6ea7e877a4835605ac2bfd3473fdd351493af7be9778212cb550bfb387671c2f44fff73cbaab083834bd799f5330ef15be100625d5d8437b59203c060ecb4f6/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f635a304fdaeb1385e605e8d6012b5f/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/275036d0cff4389145c75f48d1e7a2ffc7baf469a58dc745fdd5e707623b4719087ab3ace015f7c4e7271ccbd1b7e98cfb16803392725614d85e446519fc7b5c956799be3b4a81ea7520da908c4b72a067f683efd64334cbfcef0a134e07d6b0866c5e11f0f9bbafd10f138bc74155a2213be4721df5f63a7077d377ba94e584b1b4350a7ab5313bd7c8e9c6a264d0ed/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3f635a304fdaeb1385e605e8d6012b5f/eng-2.vtt"
-                }
-            ]
-        },
-        {
             "title": "Episode 39",
             "episodeId": "oishinbo-6865?ep=93031",
             "number": 39,
@@ -801,24 +747,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a86c7ffc27abe81d663f7c211efcdd6869d5aba5f87f89430d607b9ce2bbc19ebcfd9c31cad1bea5fc0cf533f6b48d69877735e7451c161543bc7a0485bf5220e18a9cb452408edd64a48ef3f77553412df85ccb8c70c00564f7f31b37677653c471a1e7780499e464bb6577f1ae6514c982f0338f9f684d89acec5ca11340259d7a09cb208de1d120b489766d187bbf/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/9d79f8f156a2de43486de3e179d33804/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 40",
-            "episodeId": "oishinbo-6865?ep=93477",
-            "number": 40,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/00aa8aa1f2cbde80de95564c6568bfe4611982e273b068847579098152eea75007808899913e22e521b004804838210e13c2392698ffe3ce43e981aab186dac1669f7fd923afd227a29b71606860858493b7f92df0a9ef267aba7de56608d5d9af131224a98340fb91cea66e9c578c6763ea03c4f6e2ce598477f4d74ecfc257/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/08d51c3e9ed297440543407fd823e76c/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/00aa8aa1f2cbde80de95564c6568bfe4611982e273b068847579098152eea75007808899913e22e521b004804838210e2160d37cbbb6ddde20bd7c200e6e478b34cc2bd519f8d9e7c8089cf746ff10f667339f5adaa3c3ab4f5b99694b2919ef1b886df5919d5613ecbb408a0e2782a88d3268dc632a974efecc29f01c286eede4d19a9930a86199f4e75944122f9479/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/08d51c3e9ed297440543407fd823e76c/eng-2.vtt"
                 }
             ]
         },

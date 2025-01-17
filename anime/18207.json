@@ -252,12 +252,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/4d5d74faadf344245b52c5058172ebefc29890d1c8ed83ccc0913395cb3b1ef61c0e9c1d49a073c9f48095947d46d39494a27f7835b8802429a2fb1a6ea3212edbfb1a80b390b6cc6f7712e5e486a8c8dfd3873565cc9bb95c50643fbc95578f1ed61e5542f54ab22f72dae5c339425dd267c6cb4afc988495269a70503bdcfc/master.m3u8",
+                    "streamingLink": "https://mmd.biananset.net/_v7/4d5d74faadf344245b52c5058172ebefc29890d1c8ed83ccc0913395cb3b1ef61c0e9c1d49a073c9f48095947d46d39494a27f7835b8802429a2fb1a6ea3212edbfb1a80b390b6cc6f7712e5e486a8c8dfd3873565cc9bb95c50643fbc95578f1ed61e5542f54ab22f72dae5c339425dd267c6cb4afc988495269a70503bdcfc/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/69d996f3372a46356aad8e9d5a5094d9/69d996f3372a46356aad8e9d5a5094d9.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4d5d74faadf344245b52c5058172ebefc29890d1c8ed83ccc0913395cb3b1ef61c0e9c1d49a073c9f48095947d46d39492fe68187274cbf06123425f774c3ed8a3dde595cda8e8b451ddfa936f60fff3896671cbefb009fff75053eab6b852c4fb39dcbf972408e3eb17e512a8b8f624c29c71497d9c65d67ce87137d1f1e0cf48214a58ff6d0b9ce774434bcbadb924/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/4d5d74faadf344245b52c5058172ebefc29890d1c8ed83ccc0913395cb3b1ef61c0e9c1d49a073c9f48095947d46d39484d7e21314180252a9e021c3f2e41384334f39346636b4985edc47d8d714f88d9f39cf5b9a56eaa7022140bacf4521dc55ac04a126e701f9fbafe5b4564243d926814831f71c28f7c0ec30b877a453c8c81568a7518ca1ca54f88501cb976c3b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/69d996f3372a46356aad8e9d5a5094d9/69d996f3372a46356aad8e9d5a5094d9.vtt"
                 }
             ]
@@ -270,12 +270,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/3b5572f984a508cab62f6a49620790216e271c19cf341d90f24c511300340680df135b6b8da3a8c7de13c59ae0f10097d119f54a65380833eebff92a98c4155214303a0200d1cc56163620f5090bb44ff23f5b80e4604fce4eb450410de02e23c2fa9633bda9ff338ca720b33765c91e3033f7bca206a35fb3e8bfacbfc7060c/master.m3u8",
+                    "streamingLink": "https://mmd.biananset.net/_v7/3b5572f984a508cab62f6a49620790216e271c19cf341d90f24c511300340680df135b6b8da3a8c7de13c59ae0f10097d119f54a65380833eebff92a98c4155214303a0200d1cc56163620f5090bb44ff23f5b80e4604fce4eb450410de02e23c2fa9633bda9ff338ca720b33765c91e3033f7bca206a35fb3e8bfacbfc7060c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a215aeda8bf088b25f35f0391c229834/a215aeda8bf088b25f35f0391c229834.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/3b5572f984a508cab62f6a49620790216e271c19cf341d90f24c511300340680df135b6b8da3a8c7de13c59ae0f10097942937806d8e4328b9565de4295c567afe151f1dc2eee1047d97b82f5d4e31e43025a14e38b66cd51a037fd1492541b671bd0bd63a9f1ddd0103ed12ec5a8776b4bb7184c6199d98f00e552bd4ac5ba5b45427b8edd2075d96a5c0fd77df0190/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/3b5572f984a508cab62f6a49620790216e271c19cf341d90f24c511300340680df135b6b8da3a8c7de13c59ae0f100979d5dc2bfc071df7f90c53f47bfe2fb4f030a820971740c8af521fcc0de94e658168f8e9ee1ddd91c90f182fcf70f0db0786cd77547851511f121439e2ddff08a4fffb305e773045565dfa3cd81259421f074ff58bf3a63eebfb9e13d46eaa8ed/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a215aeda8bf088b25f35f0391c229834/a215aeda8bf088b25f35f0391c229834.vtt"
                 }
             ]
@@ -295,42 +295,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7fabfdb7c86d909484ee01d3f5505daa746e2346a8e8ab87059c41611f02bee38298fbfe55361699f22b3fc95ddd0980f7d4320a21ceb7ece5209a530af6bb20700de088ebd99ca0a187d8c9dde939853773f4d714949ccd2677e951e1a77c06ebbefae5e4e8ab9cad36247e6db8bef6b8d26f4a98e13c0768f7b12473e8a3d12f995b94279eea3a5a160075bd975496/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c3ae53069c318139138c26dfad411f2a/c3ae53069c318139138c26dfad411f2a.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 17",
-            "episodeId": "eternal-boys-18207?ep=97575",
-            "number": 17,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/ebb2c92ef4a7414973c60232c8029101937318b9f5a187568033969f7810ea9851543bedfaf064b51e063881fc1f4e1b23c31df90ad5d6fa12fc35d9ed2168eed4f8096982b64fe93ceda6a3ebbc27d6cbdc2c0b3841fd2b6eb020cbca6ed1dba118e9ac530b447c4cee01dc949b08f499aaff0252f26b2bf328084d587e688c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/35fac83f0e5c1e4b933e50086cb6ec50/35fac83f0e5c1e4b933e50086cb6ec50.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/ebb2c92ef4a7414973c60232c8029101937318b9f5a187568033969f7810ea9851543bedfaf064b51e063881fc1f4e1b699f122f1c4fc13db1d8bf5c68e19c85a941cbb675f220faa434ec2d09dac4d263fe55208cbe11ef2723989ad6222706ab6a61c1fb8124874a5f7d4f9e758044eb0fe057c6476425d7d42d676e71d540be7ccf1818bc6621e003834af848def8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/35fac83f0e5c1e4b933e50086cb6ec50/35fac83f0e5c1e4b933e50086cb6ec50.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 18",
-            "episodeId": "eternal-boys-18207?ep=97643",
-            "number": 18,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/954806ba0625ddfac4e60968191e73b920945e0e0981ebfb1b297b6786bfb0b82088992b59ce550c35daf90e329a0e26d673fb3df7bfc52f11ac8ac7ad108cf82e4b36d29302f08b00f6e915e05969f0884d6c5d3e61c16bdc8fd1e6af66f1f1c17f50d8cfe1d9408ab761a865a3f51b9b65bc583715de315389bcf5f363682a/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ace5de6d961e95b9d184c5aea4d6822/3ace5de6d961e95b9d184c5aea4d6822.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/954806ba0625ddfac4e60968191e73b920945e0e0981ebfb1b297b6786bfb0b82088992b59ce550c35daf90e329a0e26f56875bf1ba35e6c7466f32b6638a468a9416d19e69f1d6b6beaabb988e68432e2070219d08ad7379d4ef304feb47b2bb49eaa2c0d858feee327f3e1c05962694a5f55de6e510db7d810fde885da5a1af29eeb4a868ac0d5b3a6d8ba98f35bef/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ace5de6d961e95b9d184c5aea4d6822/3ace5de6d961e95b9d184c5aea4d6822.vtt"
                 }
             ]
         },

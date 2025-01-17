@@ -155,49 +155,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/cb814d9a4759eab19d146eb9283667d09b61ccdebadde45090d3ca8f5679bf67d5605312d25950411a98f7af8e0a705d60f2131dd748058f8d14a86c242e3a3e30ab543e7ee4a9682b2a7a5d67070e19b975ad148f4942c6cc33ee3c3d7a49fe5e1876fd36ec4ebaa0afb8a014aca5cacabbd65a73262d8af51cd8db40db72c7/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/cb814d9a4759eab19d146eb9283667d09b61ccdebadde45090d3ca8f5679bf67d5605312d25950411a98f7af8e0a705d60f2131dd748058f8d14a86c242e3a3e30ab543e7ee4a9682b2a7a5d67070e19b975ad148f4942c6cc33ee3c3d7a49fe5e1876fd36ec4ebaa0afb8a014aca5cacabbd65a73262d8af51cd8db40db72c7/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/35b0b1c402b0d9cf54958062db2371ff/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/cb814d9a4759eab19d146eb9283667d09b61ccdebadde45090d3ca8f5679bf67d5605312d25950411a98f7af8e0a705db253bcf214848caaf3f1346fa80d96d81ad9d294e17411e56347916d5693ec284b00d52e93d945a6f793246315ce5bb3df0125fe011eb225138fb5c7df86d4f090f8b4e95f59ac8b525fdf2de37eb189fb086cc50de969d6a52a266f20cf6a6a/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cb814d9a4759eab19d146eb9283667d09b61ccdebadde45090d3ca8f5679bf67d5605312d25950411a98f7af8e0a705d8d29b36b323337120ef619cc17b247aa843080b93e0492f4a5908b02038896c3e1948368b6c4cbce9cfce95dd12fe4f05872098229e30fdc5d66e464e5da5d0de1d3ede68b41e9fd743c082ff34e77d6908472fba04745e761513d38a56dfba1/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/35b0b1c402b0d9cf54958062db2371ff/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The Witch of First Love",
-            "episodeId": "18if-7243?ep=45858",
-            "number": 3,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/15b6c5fcc17697b280b3b7ddc34013f68e602ebb5da205fd709a1d427f6aae61536e18ff2b66c43d30f9c79288c817585c3e82fd6d85c292934a1acd9877ebe97da58a763df8d514dfd012906a0649ab90f458547399dfce1ddc36f908f759647525eb09527382acdf7ca74822d6406fa77d2dbb390a5c3111c35fc73936957b/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/97726214989d6da204c8cded3c104625/97726214989d6da204c8cded3c104625.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/15b6c5fcc17697b280b3b7ddc34013f68e602ebb5da205fd709a1d427f6aae61536e18ff2b66c43d30f9c79288c817588ef69061519e68807d550808f1f92b882277ed443731357a0e6e88e63e600c9caef7f2278d246e647003a1261c26490bddbb80140e94ce2df9af35ccd40ecdc13f816707d3160b9fd449a7cee66e3c3c729176d09b3281ae52d4902d2244c87c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/97726214989d6da204c8cded3c104625/97726214989d6da204c8cded3c104625.vtt"
-                }
-            ]
-        },
-        {
-            "title": "The Witch of Gluttony",
-            "episodeId": "18if-7243?ep=45859",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/004f1ffa833955797d8dfb4361acedb3a1f999200ad3d71e9ac7b23cc5c34882c3fde3817a52053b1b87340bfa3970d6d6316ab97bb7f45f7418b19e0b3718965d884c4587661e0e7837efa245211439c0ca7173fcfec6da79e9faf30fbe6d904c037aac80c031c55af345654c6fcf374f72b609bc9af9c43d4a7e7bf2fd0eaa/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c792d21a24dbec03ed051aafbad06d7f/c792d21a24dbec03ed051aafbad06d7f.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/004f1ffa833955797d8dfb4361acedb3a1f999200ad3d71e9ac7b23cc5c34882c3fde3817a52053b1b87340bfa3970d6ee0f47f6b35ebbb286262d17a20ea8ebf002a71ede6155f73ea11885cce5ed8c0993f96d0ab54719e32845db2f0ae8157d9244594d5fe0f294f0b40efb3cad69a031e08e2bf243458900621097cb947a14f554c4b7e8793c94581254121be8e8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c792d21a24dbec03ed051aafbad06d7f/c792d21a24dbec03ed051aafbad06d7f.vtt"
                 }
             ]
         },

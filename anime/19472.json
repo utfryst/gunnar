@@ -61,7 +61,18 @@
             "episodeId": "tasokare-hotel-19472?ep=131711",
             "number": 2,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/2e9569cedf699d1c3a9d63a75366613f9bfc2eb1ff09b32abc0c91eb6fc844d5ec961a5526adb0b21470701b83cad7f32374e93e8ae00e5861c4bfe49682e88ef00431252e92e7c5f3b14cd650f2b04959c79c9a696c640c9694ab783ffc74073254e0c8255b2a8483679bdcb55155fd0b4ad8200c4eb6fa9966617f81e447f8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfd5bb8247bd0071385047ac09d71c23/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/2e9569cedf699d1c3a9d63a75366613f9bfc2eb1ff09b32abc0c91eb6fc844d5ec961a5526adb0b21470701b83cad7f37a4a3f5be9e5b80cb3aad072ce203ce9436ef38377b2d5a25f86cbc879eddf2fb1ac1deab2a451bcc1a6dd676ee579698418bbe279f17f590bb25ac2a09fc424b262d195cfbdcaf079aaf3cc0b07b99424261afec852191a2453943e0c32f1b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dfd5bb8247bd0071385047ac09d71c23/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

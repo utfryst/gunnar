@@ -512,49 +512,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/fc6ee8ec99dfd68be6c6f0326ae03143ffd7c80c605c1b7d52cb4cd27be17a36455fcafd4540a892febf971d7c1f692b6b27de1228c74945b29f09e56835a06850b9d2d82439ad7f47bba0525b41a6c0e9ae5d18541f21c7ca8ca439ffa1fa9d3876aa25e712d9980454e8ffd842b2c64c97b39375d319e05c1037143ad95c30/master.m3u8",
+                    "streamingLink": "https://wf1.biananset.net/_v7/fc6ee8ec99dfd68be6c6f0326ae03143ffd7c80c605c1b7d52cb4cd27be17a36455fcafd4540a892febf971d7c1f692b6b27de1228c74945b29f09e56835a06850b9d2d82439ad7f47bba0525b41a6c0e9ae5d18541f21c7ca8ca439ffa1fa9d3876aa25e712d9980454e8ffd842b2c64c97b39375d319e05c1037143ad95c30/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f7ee656063efe7ccf77234f21c26f091/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc6ee8ec99dfd68be6c6f0326ae03143ffd7c80c605c1b7d52cb4cd27be17a36455fcafd4540a892febf971d7c1f692b3189f22f54a5f16801f465933906e2bc4b5a0d672c5cf51f72ad10b4d35d73db7a906e797435bd69fbba6367d62b02eb25fdc9c97b200073ac97a891fcfce012ace33e151d7f41cc9d77c8b3b735cdd2ec2b296adb6274ffff36d9bfb7839ed7/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/fc6ee8ec99dfd68be6c6f0326ae03143ffd7c80c605c1b7d52cb4cd27be17a36455fcafd4540a892febf971d7c1f692bbc6cd3d1d7eb5defcb1fc646ef14fa9e4d72d06248c83eddf139f2990aeeba7ee8f1cc11714c3c178bf9b61efe78de55ef294752a7132a6b7101afb49e6df9dae08428f1ed2ad790595f49ba24a064b6f810a8c4eaa77e10c32c0c903b98c89f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f7ee656063efe7ccf77234f21c26f091/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 24",
-            "episodeId": "bonobono-4695?ep=104802",
-            "number": 24,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/d75996977a5a257accf53b299f1d3e0549a6c76aa6d60b1beacdf540347fb6253451dd5de80f3963947c4fd9a4f28246e3fda1da2e0791f24c7051ee92c3eeeca6bf3334f26da4af05a2759e55aea106a9d14440748156e13089eb39599bac3e531d5524de4cebcd30b8fb17910fe3e1a521b529339e96ff552f5e7342cb0ae6/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c327f670aa1ad43f55a226826ebad870/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/d75996977a5a257accf53b299f1d3e0549a6c76aa6d60b1beacdf540347fb6253451dd5de80f3963947c4fd9a4f28246cac1c16938443469ed75684686a3efcf7aa1b1465d45470f26f0bd716b3ca0b27ec671dee68a29a6f33599d6428f6df1c9d0b6869a14e5aedc5e849c7e9af1d32d1ec9297cc56ace41a113f5f1bb8e52b9de80c20a65778136b59b321f1283bd/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c327f670aa1ad43f55a226826ebad870/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 25",
-            "episodeId": "bonobono-4695?ep=104803",
-            "number": 25,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/da71371ad214d965080f12acd9b6d61c903093bab77d6f243a3304eed29e8a3cf73eed03c9e5f86ba9da5ceacaa20102e85f34255ba0b7ed07f96a7cfdf4d13d199529cef338a1d2e98f557a1a41405c63ec38a745ebf2ecd932aeef4cfc3d4c993bfb108c293e120949332bbdb13446167aaab2341749e47da08c91eb6414a8/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/452e74b09c1160effcb5e2965c94a4f4/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/da71371ad214d965080f12acd9b6d61c903093bab77d6f243a3304eed29e8a3cf73eed03c9e5f86ba9da5ceacaa20102ab495d681019c0e6382eeded1f4b12ad71e74a1a72e96a24f0d8f39899368605c138126c364764a4bf09b04fc13c826f29ce5f9dac703adc7d58e618a3ad195131e7147999c1373907bbef712e67cbcaeb6398253ee746ee22c3a6668cfc2009/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/452e74b09c1160effcb5e2965c94a4f4/eng-2.vtt"
                 }
             ]
         },

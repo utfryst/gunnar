@@ -820,49 +820,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/a7b357a4203fd50c18b01cc4240c386c7fd1bc177bf6f046ecb482b0411c4723d583ecde44cf30e565fced7d532acc89805f79ee5c158e42da62d7b66a8635469757810e187c3530e3635571de5a00f6f8b4e55d4bab09bf0f0786c853b562f0a60d2e32561fff3c3b359906f23dc81d1749dffc290ca7b90620eb5914be4d26/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/a7b357a4203fd50c18b01cc4240c386c7fd1bc177bf6f046ecb482b0411c4723d583ecde44cf30e565fced7d532acc89805f79ee5c158e42da62d7b66a8635469757810e187c3530e3635571de5a00f6f8b4e55d4bab09bf0f0786c853b562f0a60d2e32561fff3c3b359906f23dc81d1749dffc290ca7b90620eb5914be4d26/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f71ae91fb9cf2d6a1d2fb94df75d0622/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/a7b357a4203fd50c18b01cc4240c386c7fd1bc177bf6f046ecb482b0411c4723d583ecde44cf30e565fced7d532acc89e95f2f4a04e78911d33badf9386a9e4eeeaa5969def5f1b45eeb95069266d3adc3145955b028854372af48e8ea9370dc0a3621aba14b2c425ee78c1ac36e226ece0d5491d474a0a03de8ed0e1d2e75125cf407d780010c36c154f95559ebe997/master.m3u8",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/a7b357a4203fd50c18b01cc4240c386c7fd1bc177bf6f046ecb482b0411c4723d583ecde44cf30e565fced7d532acc89b20b62308d021b77393f2d54a3f25a7323568a510ce6a53b30925287f1718d31d8ca5aad2eba58315b1f1147093f3c8610c1158d8685ad6737ada0188bbca621cb22e1e101b2e4809531c933572092e9c72a34b734ea022ea48420de533d7496/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/f71ae91fb9cf2d6a1d2fb94df75d0622/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Humility",
-            "episodeId": "shaman-king-2021-15541?ep=85816",
-            "number": 40,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/4473940c414e75e5709e7f7494c35d57aaba6ed43e1947f2ad64db263602938bdcc69e3e9ac24139c62b6995faa697518dfdc604eaeb71ee8043ce796311dd240c782d2935f86d76bf6b4499048b603e93797cebd3ec82da9650f03e12b0c1b0e43a806f5c407823c53fb18cbc5508b36dd70571719cbb8a81f1372f8589a9f7/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/12b1b4ec4c65b457746cd2fff2274e5a/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/4473940c414e75e5709e7f7494c35d57aaba6ed43e1947f2ad64db263602938bdcc69e3e9ac24139c62b6995faa69751c217700d7e6f0dfd543e88bbc1107bb08cb5381f1443da992ac3b8c9377d23e4b1fd6fe6a282069ba0a1a6368d65ed61fd072215c5c1474b6426116b8d068b1373969dba3488dfbe87148b0935249a46b1fedaa5cc63b319b07bcaf9f25e5cb3/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/12b1b4ec4c65b457746cd2fff2274e5a/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Encounters in Hell",
-            "episodeId": "shaman-king-2021-15541?ep=86282",
-            "number": 41,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/4a2effa744f677c6fc63d36b82332afb3be67da9da3d9493bcf7768c4a4083b07cb87905099312d3f8b7229fe5c85119291ffdfe4398b50d681d8afe713f6863d6181d465827257f92937af02a9c0231dc29a59cbabcf6e9915f996f5a997af5808a5a38177b214596e50e87f8e06db084c9a8b7f3f5cb7db337b31d787fae31/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5412407878235941c466586fff59181d/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/4a2effa744f677c6fc63d36b82332afb3be67da9da3d9493bcf7768c4a4083b07cb87905099312d3f8b7229fe5c8511903ac032a739ec4d9362592cb12bad86ce1f564767a810e25b07350ef651c1e0d658f078d357f6c7d51ffc11584f7a06cb21884f6d5dffad50a93f0321b0aeb703be706d0fe2949512201a68879cd36af7bb72a450f4f06a57ec92677883bf934/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5412407878235941c466586fff59181d/eng-2.vtt"
                 }
             ]
         },

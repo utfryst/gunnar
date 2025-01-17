@@ -144,49 +144,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bad517eb9fce662621ed8a402cdb79919cc5c40df495631184970574534bad5a966abcff799d9ec41b7343b6a5199a166030a207883dd21919b33d3c43aeb2e5d55f8de1508fdb3475fa829a55cf95d41d8/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bad517eb9fce662621ed8a402cdb79919cc5c40df495631184970574534bad5a966abcff799d9ec41b7343b6a5199a166030a207883dd21919b33d3c43aeb2e5d55f8de1508fdb3475fa829a55cf95d41d8/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/da6eb2a36940dce26131ec30b3f9fb9a/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bada900f51e46117c3d2ee00bcfea9760dbb2c2855e1cfa9f4c15ea459ffe2936cd8dbab84451d5153c7aab51533b088539d8c058ad53fa4a7b49cd245edf75fc90bf1411a7005b297ab06c20d5db0c0b51e9267b51c5d52615bb0e243d26027335/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/344b6fdb2b063f3f7ea0f07b91ad70d5eb6f310efa8be596745e8686caa05cb21ffc31a34270d04e60c19772c1e30bad6e16f0432cb59f66f7634d6491d861e7643ded619c68dde799706aba25a7ee598638583fe84a5b37bda10afb9b909f423c8eb69f7d70fc3b4f6175cce24d2d25e3a6c77ec7ac4578f4bdfd8c31ffb7d6be77d20bc0df7975b56e604374952d74/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/da6eb2a36940dce26131ec30b3f9fb9a/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Steal the Eggs!",
-            "episodeId": "super-shiro-8122?ep=54275",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/c409a9b7ef418877c025f73c3b4715f58f7b416761f5f11138001330ad35aff1cad5943f6c8cadaa32ddbc880cc085ee62949cdaf796e638f82533ceffa847d5032a8493bd16056bb15046b882416274761a86d56609e722d5623dccdba09a1345c4170cc34a6927abff6ad67ac71ce9c537031bbbed75af538d2f343618fdbd/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/57a7ccdeb1ff282b98d6b9113f65d253/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/c409a9b7ef418877c025f73c3b4715f58f7b416761f5f11138001330ad35aff1cad5943f6c8cadaa32ddbc880cc085ee442cf7a3f172da8ea21bccae9cf281fe196ff41b3c25416740b776f4a814d4385ab333c450aecfb5d5e0dc234c9c62bab62475cd23410e52a1eae34ffbe8543c76dc0dba038ba98a9e20feffa114a17dcdb830d591025aee9186ca47a775f547/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/57a7ccdeb1ff282b98d6b9113f65d253/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "In the Pond...",
-            "episodeId": "super-shiro-8122?ep=54276",
-            "number": 5,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/c0297150aafe07322b60649df9008ee6879aeef9525cab02ad63c7005b8221bd3ffa32dd4a174238c82763f0b867b209e83787b808887045ad485c29ca216f7d8bb038d29d4045b0ec5022901e8ba0c2d73d1991611a121d9a7acf374f175499cd1d9ca79ab24dba774c4bee94cc33e27c16f230eab70be8a6a8ed783246867d/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5896fa4ef9a828fd804e844556c86508/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/c0297150aafe07322b60649df9008ee6879aeef9525cab02ad63c7005b8221bd3ffa32dd4a174238c82763f0b867b209a5fc8f4dcd657af20928614c2e8406728ca0f5a8f03f5f34c3abc6fae21dbaf53fba1f43fafc5d85d3822c563f50b02f2a089c137edfd10417dd062962e6ec285045d79ccec2a6fcda5e364fca3ccac67d01dd9773182a33e05a2fa7947d30bb/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5896fa4ef9a828fd804e844556c86508/eng-2.vtt"
                 }
             ]
         },
@@ -385,12 +349,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990d5f9387b01d0dca3b78c25bdbde2113187b3bc5394595474c4d818bd9436d9b483fda4b2ed675bc1c6d84306683fee741c7429cfe4d3caf616dca638dc15bf9db8319978ed9efff9f119c10e8b73b1445/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990d5f9387b01d0dca3b78c25bdbde2113187b3bc5394595474c4d818bd9436d9b483fda4b2ed675bc1c6d84306683fee741c7429cfe4d3caf616dca638dc15bf9db8319978ed9efff9f119c10e8b73b1445/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3a7f71a9138a8a48d20e53ec051ec60a/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990d7bb389e43e8d220fb8d9acdb0ecdd8f320a48d2cb4a8def6457b88be2840730fde46a329b0adcf963545fd2ddd6f33d4817835d2e9ce761bd912437f908e7e637080476a4abdd2e693d0751f23dc234f6fa90ea6f0004c70bd70bc49337c0182/master.m3u8",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/cec02c99fe25044dc0e4422843690b9507a3a57173df9daa7db7f2dcb3eb3b2784d973023ad4b251a286fcc25c55990ddfaf6c3a2b748e9d3c905940d37007657cd3df95ef78f6332276a18eee3f7273c2e7b6e082d93b90dab20c81bc9e77b6c0c723a254d0f3f1269f02b948ca00e13468c12235903120fd8ea2958b3a2af0c26531f2579817b407f0017e9e259930/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3a7f71a9138a8a48d20e53ec051ec60a/eng-2.vtt"
                 }
             ]
@@ -414,24 +378,6 @@
             ]
         },
         {
-            "title": "Showdown in the Corn Field",
-            "episodeId": "super-shiro-8122?ep=54290",
-            "number": 19,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/63fae184b31edc61ea4711f987f5378baebee7d22a70a655bfbcfdaa1fd88f649d4019db6a1f8c63b7082db46a47a7790e784c41790414309afa4c32f30ecab879adddc2b5ef7009d53a51098891d18ce0f45779cbec8937fc5f93943ceaf0983ec22f6c8656b065608fd077ce843c5b9df504e3f66ea33f78ac5bde27b2e5e2/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8c4768ed9358a85f8f57a704859ca5e/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/63fae184b31edc61ea4711f987f5378baebee7d22a70a655bfbcfdaa1fd88f649d4019db6a1f8c63b7082db46a47a779952796d62bfd04fe90a525431af73ac1565f5a5a7fa7e160629892c4943427cddc02a93bd6f7c4f5b63a9f6c27900eb513f6adbbc07f0aff1972fe536bfc27a02150973b170c6bd90f39b12f8a507201e4c4e201e9ed6debe2885ac965b8c3c1/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/a8c4768ed9358a85f8f57a704859ca5e/eng-2.vtt"
-                }
-            ]
-        },
-        {
             "title": "CanCan Loves the Swings",
             "episodeId": "super-shiro-8122?ep=54291",
             "number": 20,
@@ -446,24 +392,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/5c446d1af2bf30c33ebbdcea3a97bf43529e6d020640e54690735111b16a1d7efc0221db2ca0e4178222486b0bdb26c73a4801e56f0a9418093f19ec0368f58dd739ed6feb6b1493f86aa8d4d4dc53d4f4c7c45285ace71816e338bb9ad1ff2e56dcdb5c9b7aecd33aaacdbcacf2917c8b8f6fa61edb3b3221774ccf305887b04bcef01816c3b05018ebda416b25790f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3d4e044f0244fb8ea6d5692467114674/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Mayhem While Fishing for Sardines",
-            "episodeId": "super-shiro-8122?ep=54292",
-            "number": 21,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fds.biananset.net/_v7/1b4ebd8dafc33d8cff8f927f24ad2c0eae87c16432eeed0ad785ae1bc8543d42980d7643afc2cab35f1e859e41fdfacc5f50989bf2cfdf45ebc973c871f832759276113fde8cedfe23e842cc20d0e6dc3933987a3a955f4e3d54e220f49478e64e53a1faf81de869f7e71fae4b3086f4f4451d6f85f123e0bc551b0ab694a068/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/e76e02c80c85785b90a27683c6de6570/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1b4ebd8dafc33d8cff8f927f24ad2c0eae87c16432eeed0ad785ae1bc8543d42980d7643afc2cab35f1e859e41fdfacceb075a8b67f6fc424f8451176ba286ab0cc016fae1af8d7c216a07822e5fc5c640a2da442b756ed62e72191d038a70f202201497fcb20045c06723d9bdc6cfdcd8403322063f3ea74c9fc956446fdb0c61bbbe9177e892d7b07d47038ce83162/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/e76e02c80c85785b90a27683c6de6570/eng-2.vtt"
                 }
             ]
         },
@@ -572,12 +500,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c7490bef38187b9bed8e24ee72ee3e89f29369891a5e54876445bb86374dc8c40e281166abbd10c80d98d03e5fdb47195710f35be10214fa28cc218bfac556dad648ecfd2cd0849df092180f9fa15fbc01a3b/master.m3u8",
+                    "streamingLink": "https://mmd.biananset.net/_v7/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c7490bef38187b9bed8e24ee72ee3e89f29369891a5e54876445bb86374dc8c40e281166abbd10c80d98d03e5fdb47195710f35be10214fa28cc218bfac556dad648ecfd2cd0849df092180f9fa15fbc01a3b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/38629639924e6803affd4260983331ad/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c749041088ecd1d10e89a3621de0261134bb9bf19dc8f0058297eae740a95aaf08a1264d923091c84c8f9d8ed8dbe5a6b895cdda57750b8d96668a87817ab4677a78ebb30b003804189aff2dfa015ad56112ec189878b0f9c50897f0ea97908c165f2/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/1785f8e53980087fdad451d624546e2f6796d43415e6d5dab293c46140ecb9973c4c92387f8a41c2e2572cdbb95c7490d7e7e31b2fa8f4bd31bf27e46ffebcd6a3331c9a80b84fd44822abeab2021eeb5fef58578f801de101ee8f716bcf3f9c570a3716c8b6a2f9f273bac8d016af3d10a87f9c63169bff66cbb35ba27a6e88986a1072a5153606b70736e42869301e/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/38629639924e6803affd4260983331ad/eng-2.vtt"
                 }
             ]
@@ -619,24 +547,6 @@
             ]
         },
         {
-            "title": "Having Fun Picking Mushrooms",
-            "episodeId": "super-shiro-8122?ep=54302",
-            "number": 31,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/d59f064fac7ac8372350d450b422394d00c09e227914671102b7c39636f94cd4a6c3177c6f91f7ab88b9bc909fb8a193a838f806fabf14ec653b819950b3e98f2aca19103d37c62201011c55141f4c4c1e1cb6f8f4fd030f83c8209ec3b9622ffd6082efa58c0c999031071ba63d2e51f99e80ee059344f008daf82da836b589/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c1c2e7358620581d10adacb3bc0f5077/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/d59f064fac7ac8372350d450b422394d00c09e227914671102b7c39636f94cd4a6c3177c6f91f7ab88b9bc909fb8a193265be44bad9eef69e3937080bbc796acfe33dca078e74f42ca511311a52d931a005eb9d554097ee8166cf266915e3e1abb90ba86cd77de7213b0a52284a93712d059211aeeda0d63e7c67f2140e0ba4acc2ffcb1c031d4bf0fff702bb99bd088/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/c1c2e7358620581d10adacb3bc0f5077/eng-2.vtt"
-                }
-            ]
-        },
-        {
             "title": "The Show-off Sing-off",
             "episodeId": "super-shiro-8122?ep=54303",
             "number": 32,
@@ -669,24 +579,6 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/8876c4d45c78ce8e3fad2ffdbb30aec4fa55433d4da853424de030a0dc661a4dee91ec18b0ec51a6eb381a0acf1cc2eb3a7cca12e6cedc0e93035a2c31494d7f6988dc495da607fb0e6bcf15669dd8ff0eaef6a28002e7a1c28ab67c60dbecd54da8d641ddab73402abe4bccfac07f7c0ebbc24686503dc6e67fc285f5f8b495a416169f2a02ce9d74f2be90636b55ec/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c7e2d1bb61b7c27bcab8ae5674c75f02/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "A Hero`s Holiday",
-            "episodeId": "super-shiro-8122?ep=54305",
-            "number": 34,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://gg3.biananset.net/_v7/887197fac5891a05124f4e17216886c1bbd21b849324e9b28df02ed872746f5dde11f0794a01aefe363d62a637df0a3d5cbd3c6f642c5a7e8760d7ca833536fdaff011d6ea47925259b2869e63f583171963aee974440f45ff13c4946b50576b8ca587a94fd30be11a352c8343fd6a9eee6d07e999396e08aa3f0df37e744560/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cbc35b4358b22596f694045d88c03c5/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/887197fac5891a05124f4e17216886c1bbd21b849324e9b28df02ed872746f5dde11f0794a01aefe363d62a637df0a3d5ba7fdf378cf893529c8d57560c8ad712896a8e94bb32a009eb3ba34a776431d06a7f9b803ad92099f1640c95c28b8342c8972b9d31c98f09fec38f4e8f9b03fa9119a329ad9d5589301a33d5b785aafd9989885702d5691fb159ae7cfe0d563/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/5cbc35b4358b22596f694045d88c03c5/eng-2.vtt"
                 }
             ]
         },

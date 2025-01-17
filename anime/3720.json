@@ -1983,31 +1983,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/d6187cbe008ea4256f6026255cc929694903ae367f33054632b8f74e020c5b4c63bb517ddc4ea7ddd0be44d1187e35189f5f50631a6ef41e5f8c629bf76f5334018b9e3a4d6f494f093d3d2125e349ac650d010a143ad38795f74653936c15dce48e8be5cebbfcd4c13839489328f9eed593d1e3e36850a04dbb440b754f048d/master.m3u8",
+                    "streamingLink": "https://vd2.biananset.net/_v7/d6187cbe008ea4256f6026255cc929694903ae367f33054632b8f74e020c5b4c63bb517ddc4ea7ddd0be44d1187e35189f5f50631a6ef41e5f8c629bf76f5334018b9e3a4d6f494f093d3d2125e349ac650d010a143ad38795f74653936c15dce48e8be5cebbfcd4c13839489328f9eed593d1e3e36850a04dbb440b754f048d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/806397b8187fbdadfbc2d3c0239d1f37/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/d6187cbe008ea4256f6026255cc929694903ae367f33054632b8f74e020c5b4c63bb517ddc4ea7ddd0be44d1187e3518cd84dad28b7b4336108922e79c8217ef77750e94f264c92637b77ffc7d5e6bb73b3c20ea446a13f8bbf75ac767dd73fcaf9ccbdce73fc3327a276e56c8327a5818679f6c29cd83dae3c77cabade18c5649a6097b512a07840d8b4541bcc781dd/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/d6187cbe008ea4256f6026255cc929694903ae367f33054632b8f74e020c5b4c63bb517ddc4ea7ddd0be44d1187e3518e2feffae87e19df5ad69a01071fdecd09986e50d866e1cca99f247b56a55bbba1329fa2ac94706ddcfc36ab8b013f94eb177fd68840582e87ddb922dde2446f16d065491006bf3c08aee39075a3ba2cfd4d0f0cfd1bf80ce6a64d2fd6a946bef/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/806397b8187fbdadfbc2d3c0239d1f37/eng-2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Earth`s Destruction! 0002",
-            "episodeId": "gatchaman-3720?ep=58490",
-            "number": 105,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://fgh5.biananset.net/_v7/c597899c55241a85d146989c16b7811fb024ca3d99dd53061365e89afa5170f310a64b0959ddb81941877071838effefaf05c5d324af2e5b1f51abead964fd0ab1f94814884a6f00a7db9056b078248c01decc21ae5e0d33130bf9a99db75ae58f6cb8b93b1a0a821d8ae415aa4dd614485caaae22a1cd07fd4225e025e6f3ec/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f756fc208f513a0e83ced154a8574bad/eng-2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/c597899c55241a85d146989c16b7811fb024ca3d99dd53061365e89afa5170f310a64b0959ddb81941877071838effefa51064dd9f852ceb275f40794e4434532aec4d66197fb10ac7523f977d9404b739b105395d53b4198ba9d2e586fe4ddeb01dafb7ca5f2c1e41ad041413505995e5ffd6f58b21a6d133a725627e9724596c77d429534ebae2e0d6cbabf72e772c/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/f756fc208f513a0e83ced154a8574bad/eng-2.vtt"
                 }
             ]
         }

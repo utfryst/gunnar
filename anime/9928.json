@@ -84,49 +84,13 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/97c8d6fc1eccc97a389fb7addd46ded69fc772ec8b91ec72ff5c5817d9d0df5865125d1e479ec6a94886661ac51c965f0e9fc22b6dfdd70595fc41a6292543afa309afc753a1e972e5afb835dc1fadfd33394848a46a8c7ff69390535fa028384637123449b98fedf5e1e4d4bbaaf565462a3a214b92ef5d385a47310c8341d6/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/97c8d6fc1eccc97a389fb7addd46ded69fc772ec8b91ec72ff5c5817d9d0df5865125d1e479ec6a94886661ac51c965f0e9fc22b6dfdd70595fc41a6292543afa309afc753a1e972e5afb835dc1fadfd33394848a46a8c7ff69390535fa028384637123449b98fedf5e1e4d4bbaaf565462a3a214b92ef5d385a47310c8341d6/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/873f40cd44ffc23b459e77750002568f/873f40cd44ffc23b459e77750002568f.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/97c8d6fc1eccc97a389fb7addd46ded69fc772ec8b91ec72ff5c5817d9d0df5865125d1e479ec6a94886661ac51c965f392d8f6cd1af728b4c08c0419bfcc20d669e4f13bbe082c0f3db6c23718eaf3a96067f292c74649dbbc1ce5156d4bae55748c39b1daabb20d1e415fb69acf2f6df3334a9ddbe3466570ffb3968c796ce9f838fb00da3a66d693b8b60c5830818/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/97c8d6fc1eccc97a389fb7addd46ded69fc772ec8b91ec72ff5c5817d9d0df5865125d1e479ec6a94886661ac51c965f2b8ef03ad50d274050edcc7ae7e285f3ff8d6e785a196c6c5c85b031f110cfeddeee54bcd9dd60dc5faf527096b536950a2305493678d95b6f626cecf92970011fa97cc92b902873d437ab2acb6e470402ae3c68b3b6da2af6f46d34a974aea0/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/873f40cd44ffc23b459e77750002568f/873f40cd44ffc23b459e77750002568f.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 3",
-            "episodeId": "barom-one-9928?ep=91584",
-            "number": 3,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/ffba4a39c387e0a0dc682083cd16b4a048daa6e840066462e54585ce8402d092c86fb45c1285d9b6144392c8e99d8a84dcc709e3b240fa72c808a6897842a67a76dfdb1da57d6408b46df1e4a3b09fc9b4748ff577f9dd0c51e6ed62d541a7fda0abc843a1078aee50cc6218e26bec38788ed98819f1b29688b5933fb55f4d2f/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b443f018f53535d368097868d281ecd2/b443f018f53535d368097868d281ecd2.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/ffba4a39c387e0a0dc682083cd16b4a048daa6e840066462e54585ce8402d092c86fb45c1285d9b6144392c8e99d8a84b3bd6558a04f05f567139f65cdb6e5d566de707248cef2cc513edf83836efef0014d64ef1205b9c3467847260f2022e61df106fc5a9ae6bc48dee5bd77f0d4caaa0337c90e5b1539096e1e201b07b4a4220d7f8dc41a9fc852aa7d443fbec260/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b443f018f53535d368097868d281ecd2/b443f018f53535d368097868d281ecd2.vtt"
-                }
-            ]
-        },
-        {
-            "title": "Episode 4",
-            "episodeId": "barom-one-9928?ep=91585",
-            "number": 4,
-            "isFiller": false,
-            "servers": [
-                {
-                    "serverName": "hd-1",
-                    "streamingLink": "https://vd2.biananset.net/_v7/1d156aa0ed4d3b01bac9ead2df4ce4b552123277e3de7372f134445d5aa50d50bbc3f3bd95fed021771a388e9fdb9fc276036f3a421681bc26a5757bab5d2d9a6b67281518b20c15674e27c1fa80ff71a18059e27715fe945ce3bb22cf5f7877238737c20ba9dbe401acc4b5743d8342f0ff0f15f8335ce22a5be779767af0b9/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b818a2e9fb9c6dc30278da308a86afd1/b818a2e9fb9c6dc30278da308a86afd1.vtt"
-                },
-                {
-                    "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/1d156aa0ed4d3b01bac9ead2df4ce4b552123277e3de7372f134445d5aa50d50bbc3f3bd95fed021771a388e9fdb9fc228960e9abdb7d35ff2626fd9fd994c81cc8302146f501cf166b125dff9cc004a12583cc3455d70831a2d9bd5d62311ebf925ab05edc033599d8544500583f122767c14daab5161ddeec050a31ed26e0f4b2afb93f11f6d11eb786e094c24a668/master.m3u8",
-                    "englishSubtitle": "https://s.megastatics.com/subtitle/b818a2e9fb9c6dc30278da308a86afd1/b818a2e9fb9c6dc30278da308a86afd1.vtt"
                 }
             ]
         },
