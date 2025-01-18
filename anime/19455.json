@@ -55,6 +55,24 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0d3d0fc29c557555b3f18733647e1679/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Prelim Badge Test",
+            "episodeId": "medalist-19455?ep=131803",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54ca57a8fb11c626fff879144ec46744d35bf361bd95d3a8364ec0deb5259edac8b0c2412c5b56e4dc9c94e8752a5e7d436d7f5d50bc0caacd39242b477991f354476460e756d3e55099ece1578b94e14e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e621ad2b759a8a5c62a7a881a3b4935e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54011e87e44255a9e0ec2dac0c96e9a8aee6ba6cde030ad814606e25d309dbfbabd7c68e0192bf62147c2b0052b7067634de3442fab2e29c3d86e6463bd5a285013407f0160f73ee9e0207732d1efeb6572fd50d9df291138b982189061cbd6e9f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e621ad2b759a8a5c62a7a881a3b4935e/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

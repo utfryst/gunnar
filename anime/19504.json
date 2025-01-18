@@ -57,6 +57,24 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/92868b4fb9ea3cf4d1e67ca68bc6f140/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Truth",
+            "episodeId": "blue-exorcist-the-blue-night-saga-19504?ep=131804",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/cd4abd822fe4307722fe3cad82ec410acfef67e8e54a269efecabaff9623ccc2fd736eff06d9537ff9e068430779f05d8ea4c077cbef4d21d3e821516e380f7484e446b06664528b713b482d2ce74e072d288ec95a43dd9ff3b65ae5f1efe6749d61402c901f29c3f41b3a2df428282eb0805c578841902c927dc60450eb95db/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a5f9fd9e05b5f569106977bf4c39c34/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/cd4abd822fe4307722fe3cad82ec410acfef67e8e54a269efecabaff9623ccc2fd736eff06d9537ff9e068430779f05d4ee5bc54ab5dec900e314dbcc265f03e690754334d6c2131258e6edbd57591309eb2575375f4fc35a268beb430bae38b2701f59a5b34d638fb888a101df85c7325fee8d51e1991d1a1fb7409281c0382938884141a85de88aa48b7b0f30e00dc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9a5f9fd9e05b5f569106977bf4c39c34/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

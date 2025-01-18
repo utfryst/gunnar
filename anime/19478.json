@@ -52,6 +52,24 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/8fe6ec3d756f5df7fb315bfd113c2685/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Hand`s Hands",
+            "episodeId": "yami-shibai-14-19478?ep=131818",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f4dc05081ad5d747bd33cd377446961dc59947fc553b8a304124c2af20a8dea0c5b8ea51b34d253ea15aa41fb1bd7e7e97925bc9f0240be6b2c1f9aa7fbf390d91e57ea3be84e43b9876a43d24da484571d0fcf356af5e89f3554784276582d25d7e52713151c9616076b3ff3d4a28f9c1b3b1208cfa2728d5be5e4c315a4a06/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66f7882e266de06f98542a7fbb6c4b63/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/f4dc05081ad5d747bd33cd377446961dc59947fc553b8a304124c2af20a8dea0c5b8ea51b34d253ea15aa41fb1bd7e7ed4f3c2be5a955bcf7cc25fdf001dce8fd2f45962eb340df670323c2c3a00c1d37d7234f529cbae3e7bd301153c76aaefdfaa5fb5585a002cdfe6066ea78b4d5cf6a7334538db7f1eb98571644b3b96554e068559d0caa01a6b1519a0a41de495/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66f7882e266de06f98542a7fbb6c4b63/eng-2.vtt"
+                }
+            ]
         }
     ]
 }
