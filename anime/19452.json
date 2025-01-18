@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 3,
                 "dub": null
             },
             "type": "TV",
@@ -66,15 +66,22 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/52568df5641c685aec76639814b8c34156fcd179e83fc7340c9f3e55701d956a007344c2d086b659bab00a3a9ad8af1f27f4820762f26a4ea959061e2b969fb32e4a1bf820e61ffc4561786b5f1eeb929efa98ab2aa555d59295f17218047bcf46ffaa22c047a55bae843ae129b768bc15a0c737a7cfe42472951178d7d3cac8/master.m3u8",
+                    "streamingLink": "https://gg3.biananset.net/_v7/52568df5641c685aec76639814b8c34156fcd179e83fc7340c9f3e55701d956a007344c2d086b659bab00a3a9ad8af1f27f4820762f26a4ea959061e2b969fb32e4a1bf820e61ffc4561786b5f1eeb929efa98ab2aa555d59295f17218047bcf46ffaa22c047a55bae843ae129b768bc15a0c737a7cfe42472951178d7d3cac8/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3b941151e56dd713f8531ccb7b35c1bc/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/52568df5641c685aec76639814b8c34156fcd179e83fc7340c9f3e55701d956a007344c2d086b659bab00a3a9ad8af1f05546c72e235198eafc9c74e0fc76840582b024af4acb5f85359faf4ed4a4dd250da7e000e343223fb69b5f51fe8f64bceaaecd738fc76129bc62fe62770d88c4663025844fbd94933a59bb0fc2c696e5f08dd9ce4f2f1c060234de5002e47be/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/52568df5641c685aec76639814b8c34156fcd179e83fc7340c9f3e55701d956a007344c2d086b659bab00a3a9ad8af1fca3a24106aa186554dcf1f10f51a134e6d432c0bab341e6b0d00430af504efdf6d5101378e742dbd477c951b616d36887c4bd3b5a220b58fe96122657ddaa5115e3ac6d9cc32a8848b8a5572a1292ccc862482e953f5ff9a7ee0237c4df9c225/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3b941151e56dd713f8531ccb7b35c1bc/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Here Comes An Unlikely Kunoichi Somehow",
+            "episodeId": "im-living-with-an-otaku-neet-kunoichi-19452?ep=132035",
+            "number": 3,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

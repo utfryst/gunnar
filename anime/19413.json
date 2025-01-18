@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 3,
                 "dub": null
             },
             "type": "TV",
@@ -64,15 +64,22 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://tt57.biananset.net/_v7/0a777bceaa4663bd79157850053b301c31998b031cdf9648a4929b168d7e9f5ee529628617e5995b0cb8bdf169985a762bd709329d510d40be65d72b8243b664f67d5d6997ef0336fb0b93c007870ff6749b0b945cf053afdc67a6b0d1454465cedeaadb5139c5bbd9bd0baf0e2d75bbb12f1990da873f1b1ab640fcdfb440bc/master.m3u8",
+                    "streamingLink": "https://fds.biananset.net/_v7/0a777bceaa4663bd79157850053b301c31998b031cdf9648a4929b168d7e9f5ee529628617e5995b0cb8bdf169985a762bd709329d510d40be65d72b8243b664f67d5d6997ef0336fb0b93c007870ff6749b0b945cf053afdc67a6b0d1454465cedeaadb5139c5bbd9bd0baf0e2d75bbb12f1990da873f1b1ab640fcdfb440bc/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/acc65aef4cca5da2856138cec74ed0b1/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/0a777bceaa4663bd79157850053b301c31998b031cdf9648a4929b168d7e9f5ee529628617e5995b0cb8bdf169985a7698aee0f967f5c1868d1587362d1bdcb8b75bbdae5414d67dc625c1f12b7516f600ab74c7b2ea71f50a44b78bb14890e9243ad594da1a8da2efaf92885cf6774d1674e790c623691765150930586ff72db3c2731535e5069575e2c60a770bdd7a/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/0a777bceaa4663bd79157850053b301c31998b031cdf9648a4929b168d7e9f5ee529628617e5995b0cb8bdf169985a7652567d35fb5259bb87976eeb9bc909b28d6ef934b68c2e1e4ce2864e14b4e93cbb0d006df6fd8fa7a7c6cea7a4d685bb9e8bf739cc23582f6a82a521b3f48e564064cb87ef150083d15bd0a4e726d68990df44b85ee8b6e58e8a97eaef6954dd/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/acc65aef4cca5da2856138cec74ed0b1/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Still a Long Way to Go",
+            "episodeId": "solo-leveling-season-2-arise-from-the-shadow-19413?ep=132033",
+            "number": 3,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

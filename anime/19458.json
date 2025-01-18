@@ -10,7 +10,7 @@
             "rating": "N/A",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 3,
                 "dub": null
             },
             "type": "TV",
@@ -78,7 +78,7 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/c5ada1450afe8ee8dd0cfd0b1e439e30b926035774ad41f1b3c4a2ed8cd35788ab53de12d33f6573497fce9771c5dd0390494a4bc12a0402e0960b5cd3ccd299e30b21c8f9704f41728be0264c2a0b2ac34f52b80a20988b07f31b001f3bebf11b7b14d9c4c1b5d1e8c614284f40cbf4e7bfcd9032a7ca5a6113008426ffa10e43a2e34742b61cbb05f28116400e9000/master.m3u8",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/c5ada1450afe8ee8dd0cfd0b1e439e30b926035774ad41f1b3c4a2ed8cd35788ab53de12d33f6573497fce9771c5dd03bd13fcc20df2fd05da5f5a02e2e67dbe5084dcfb23557fdfef5a41ca351d58e25fdf37195d26e87b7cba98f865b6c8c4926af7212fc5c0dbb6c7b7ef9c4fcd9a687ad7364bef2c251fa5dd31d874d201bde44e67e2c282fb28bee79695df4b37/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5d2b0804688a77858e43e758ea56125b/eng-2.vtt"
                 }
             ]

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 2,
                 "dub": null
             },
             "type": "TV",
@@ -63,7 +63,13 @@
             "episodeId": "welcome-to-japan-ms-elf-19449?ep=131980",
             "number": 2,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c9d570ce48785a93714bf3e648b6b5e5ec0e7f87a0ccf5f681af0c73b35b52c20829799276cb40ebc1db54b1466ecb9d07fbaff407d4dc17c241e02c9a34de14cf7011e3b7541f95f4759bb33e449530469b638b01f02bd191af9db06c87e8bca91abfb3326088b4b18624701ccabb81b6a1abc353c5f419f4f93c574e757c0e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/04f943dd33418c33b9cb49db34f0c828/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

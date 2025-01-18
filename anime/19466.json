@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 2,
                 "dub": null
             },
             "type": "TV",
@@ -51,6 +51,13 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/cf9818fefe13948b5e8ca9aff6d412c4/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "babanbabanban-vampire-19466?ep=132031",
+            "number": 2,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 3,
                 "dub": 1
             },
             "type": "TV",
@@ -64,13 +64,26 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54ca57a8fb11c626fff879144ec46744d35bf361bd95d3a8364ec0deb5259edac8b0c2412c5b56e4dc9c94e8752a5e7d436d7f5d50bc0caacd39242b477991f354476460e756d3e55099ece1578b94e14e/master.m3u8",
+                    "streamingLink": "https://mmd.biananset.net/_v7/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54ca57a8fb11c626fff879144ec46744d35bf361bd95d3a8364ec0deb5259edac8b0c2412c5b56e4dc9c94e8752a5e7d436d7f5d50bc0caacd39242b477991f354476460e756d3e55099ece1578b94e14e/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/e621ad2b759a8a5c62a7a881a3b4935e/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54011e87e44255a9e0ec2dac0c96e9a8aee6ba6cde030ad814606e25d309dbfbabd7c68e0192bf62147c2b0052b7067634de3442fab2e29c3d86e6463bd5a285013407f0160f73ee9e0207732d1efeb6572fd50d9df291138b982189061cbd6e9f/master.m3u8",
+                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/fbeaf2d0d6d95ddada56c4ef28105f5090fe23aca8199747fdeb3109ac65e31412f19acfe39d7fa2207019611a77ee54224fdec6d10eeed2bf3126170e66fa702dba38f9b55d58a3e594d333de892b62a7c1a969848f0d2c4cbcbc2d227dad4b39412e5dc54f0591a4682e256cd3408b41c0c6943f92dd5512067291b4720af697bd4369993f78e57a863872d4946ee1/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/e621ad2b759a8a5c62a7a881a3b4935e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Taiyaki and Cake",
+            "episodeId": "medalist-19455?ep=132038",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/6461f5ff48e0d76fbbfca641dfc6d47d9389780ebba5c1b856990cb88b8722e25801f313cf1b143fc0463acb53c639d0d407e41375b615fc73631386ef17e88fc1ebf6dcce0b1ec0a5ccb14cd0aff548b47e1a76900e5049cfbce260492dc161eb6951515e24157e5280da734448dd8ec36889e17f001aefb4378e827718a1ac/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e883451d253de2d98a18d37cfe3cad9/eng-2.vtt"
                 }
             ]
         }

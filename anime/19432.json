@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 2,
                 "dub": 1
             },
             "type": "TV",
@@ -67,12 +67,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://g4fv.biananset.net/_v7/7f97298b9b6f2c199eeb5bb5633090d9211bdeedb37fade3d3817d23a1d3ab51fcf64e4519260c294b9672017202186bf2b11cfe80e103f22a781d7f0bb0ead93f5a25aaac71ada854def5bb581d79cb96d7b3ab97064ace43f49db0b206ec535fecece39bbfb7b8042f17b495d083246ea492dd85ad2e6328d40ffb52d0a48b/master.m3u8",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7f97298b9b6f2c199eeb5bb5633090d9211bdeedb37fade3d3817d23a1d3ab51fcf64e4519260c294b9672017202186bf2b11cfe80e103f22a781d7f0bb0ead93f5a25aaac71ada854def5bb581d79cb96d7b3ab97064ace43f49db0b206ec535fecece39bbfb7b8042f17b495d083246ea492dd85ad2e6328d40ffb52d0a48b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/68c37d37e3c263d332a4e26f1cfb3f4e/eng-4.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/7f97298b9b6f2c199eeb5bb5633090d9211bdeedb37fade3d3817d23a1d3ab51fcf64e4519260c294b9672017202186b388cf248b56e818ff3b395339f477c7a4f8b3ac182224da14f2b413238d13e7058a850f94593748a6977973d88300fbd4a4ba2edd2e14b501ff0b9a736b5061b3614ca9557141b95ff08971318e2c0bad36d4191fee036d26505523c839db335/master.m3u8",
+                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/7f97298b9b6f2c199eeb5bb5633090d9211bdeedb37fade3d3817d23a1d3ab51fcf64e4519260c294b9672017202186b45f74b814267039fae7f9477ce865672fcf625433ef9b745e0f205bb001b92159a94b9464af0d8d115ee362d1c33195aaf77f9fc82189a2a7ea1a714c24c41621d551bafa74f8e5076ef7eb286b2acd6097726e5f9b7227df53d7d7bab37963a/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/68c37d37e3c263d332a4e26f1cfb3f4e/eng-4.vtt"
                 }
             ]

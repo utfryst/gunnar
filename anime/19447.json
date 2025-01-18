@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 2,
                 "dub": 1
             },
             "type": "TV",
@@ -61,12 +61,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/b115b59ac8b89619b82b926df4ffb0794950d747c3a6fc095e609ba3fdf4801cdc878e81064c1946a7a04e65622df461341a854ae3c79d8eef83675dd68a520bf4cd199c52da3cfa49801bde32d135a0722f4e7b5ca01225991d333ead1318c88d2d096eb615198732b35e9963b19bd9166f085c71abf886986678dd8010590f/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/b115b59ac8b89619b82b926df4ffb0794950d747c3a6fc095e609ba3fdf4801cdc878e81064c1946a7a04e65622df461341a854ae3c79d8eef83675dd68a520bf4cd199c52da3cfa49801bde32d135a0722f4e7b5ca01225991d333ead1318c88d2d096eb615198732b35e9963b19bd9166f085c71abf886986678dd8010590f/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/aa5bce00e2922b82041f9186d04c86b7/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/b115b59ac8b89619b82b926df4ffb0794950d747c3a6fc095e609ba3fdf4801cdc878e81064c1946a7a04e65622df46138f04957fa1f1f187d26cf4fa300c3c12f61a38b169905344d47b445d7d044c31b9739b90ffd6390bb955d7fb891a8aa5ff378580bfa9cdde7885798c2d7922a80aaac0a13aa7b636df2d91073f800dc3248f50b228f22a12a3648ad23bfc3a3/master.m3u8",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/b115b59ac8b89619b82b926df4ffb0794950d747c3a6fc095e609ba3fdf4801cdc878e81064c1946a7a04e65622df461a0a992d8c1a7529c72443c06b52e5d2d5d579290f2d5ab02214d38e410703813ce8dbb3fa67a794c206ecb2e8ed5328381f62e822eec47c480a2d8e8e0fe6266052a04d031681d7b36850cbff55f2cec0b95d8bfe852b021c5e5846c07a16f1b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/aa5bce00e2922b82041f9186d04c86b7/eng-2.vtt"
                 }
             ]

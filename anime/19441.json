@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 2,
                 "dub": null
             },
             "type": "TV",
@@ -58,7 +58,13 @@
             "episodeId": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time-19441?ep=131985",
             "number": 2,
             "isFiller": false,
-            "servers": []
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e4d54e54e7d7788cadb9cd94365a3b7c013e61441119c6c33bf6a397ac0008ede5265544b0f8c2cfe127f84c64449d5802df710e450638c5ff7fd96b15d91cd008a44d285303eeb4a6ea94ba6bbfed1d9227bbf38ed53b8f3568e7f358218b76c4d5343fc3061d1e37f1d1da7802cfa86de856b7685d5a37ac740c34851c0849/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/907cb8216cf20a8bb2ae416304b12854/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

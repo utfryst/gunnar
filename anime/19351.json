@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 15,
+                "sub": 17,
                 "dub": null
             },
             "type": "TV",
@@ -311,10 +311,17 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/ef76c7dbdc51821500efa486bbb3c2570ad9fddb3121386b7a74bc303786d4fcb17d1816c06a7f26c8cb767fea0df975085767579d7ac3cef5da4e572ec83d93be8df21e7d91ca5e832a6868c1ddfdb8e2c8f19d8f1b702eca844ce256f673efc80b5e5733604c699b2b2cdc31be56bdea9d5b530026c6a67dfc571d66af757f60e9329dc7093ddf5c95891ad6115bb6/master.m3u8",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/ef76c7dbdc51821500efa486bbb3c2570ad9fddb3121386b7a74bc303786d4fcb17d1816c06a7f26c8cb767fea0df975f8c6895235976d9f50f0f532555b28a4a4ae9b1f79c681514fd1bb9dd9c0bcf63a02a2c8c23c08c38218be50db455a15869ce94e11bb273988330f4db160cc8cc07da993ea23c23051157d5155141d42a0022ceff5ab51684b87c703be6f6c62/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6c69fa20b63007dd6aabd9c8d223f406/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "about-the-movement-of-the-earth-19351?ep=132032",
+            "number": 17,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

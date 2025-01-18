@@ -10,7 +10,7 @@
             "rating": "R+",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -92,10 +92,17 @@
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/7ada1149007d6dca573c562ad431a66cc978ae6cb946596693ea108beb486239c1cb1f5c307655d2c8993d8a7b14843e17635969318c8110223a431c831af7aa77c2c5844c6464ded5cf9f4a747cb8d412bef05094273148314ecaa589c01cd8bf755f3788c94f12cde314c419e06fa6a42de24591c97ff651fe81894ac6ace1c0fc8c88852f6e10ce2f07fb114de4ba/master.m3u8",
+                    "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/7ada1149007d6dca573c562ad431a66cc978ae6cb946596693ea108beb486239c1cb1f5c307655d2c8993d8a7b14843eff3dd3d4d206b0238bfc8e729ed27578161bbc7e85f6468d0e29cafbf3bb2a7123cf91485c4ccb81e94ed98ce90192cf06a6ae35330d29a230e2ea868961a7af26895877c03a9ae11efa67c83a07e28e915e9a91c9ac978ee5bc30d351c25a20/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/275d41ca6d050c040093b3eff06cd05c/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Awaken - Behemoth!",
+            "episodeId": "beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster-19450?ep=132029",
+            "number": 4,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

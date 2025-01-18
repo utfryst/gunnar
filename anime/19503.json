@@ -10,7 +10,7 @@
             "rating": "R+",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 3,
                 "dub": null
             },
             "type": "TV",
@@ -69,12 +69,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://wf1.biananset.net/_v7/aa2f97b0423b429f942c2dc214d07e5c3ae956b357bcc84e82b280a88d8af723f5a5ed72c655574199d7aa50667bf9cf97e5098b9e1b72624b3e5811abd2536e04169ce46c1a5f40a57dde03c5dd86b066696ba0a8dbd40dd9896ee731d6c15b8a690a512b48a024867d8e4226b297c9ac2ec5b727053219e469792e6b76b6bb/master.m3u8",
+                    "streamingLink": "https://w2r.biananset.net/_v7/aa2f97b0423b429f942c2dc214d07e5c3ae956b357bcc84e82b280a88d8af723f5a5ed72c655574199d7aa50667bf9cf97e5098b9e1b72624b3e5811abd2536e04169ce46c1a5f40a57dde03c5dd86b066696ba0a8dbd40dd9896ee731d6c15b8a690a512b48a024867d8e4226b297c9ac2ec5b727053219e469792e6b76b6bb/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b7eef2c6a022706269f2c11eef9a4510/b7eef2c6a022706269f2c11eef9a4510.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/aa2f97b0423b429f942c2dc214d07e5c3ae956b357bcc84e82b280a88d8af723f5a5ed72c655574199d7aa50667bf9cf9b811e603e55d69f36af96453e9e41a3831067b3c5093436176397d9331126b375245058a46d9c18a77a011a7598a5a99a498f05dc9f301eab12117e93ba4140893aa9a481563be6434a960fba091722b56a111ed2b869ff94196224e8e09ca2/master.m3u8",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/aa2f97b0423b429f942c2dc214d07e5c3ae956b357bcc84e82b280a88d8af723f5a5ed72c655574199d7aa50667bf9cf253e291dc17c309470280b450ee725cbf0758617b3e705903c06366c1c9f06973b282d6e5465ac9ce8de1450e4aa329bc87267e3bf7b8e4c0cf8a933bd2e95203798d36b1c219e76fee808e06f4b09ba5b733bc8beaf9bf0ca1a6b90f46d072c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/b7eef2c6a022706269f2c11eef9a4510/b7eef2c6a022706269f2c11eef9a4510.vtt"
                 }
             ]
@@ -87,12 +87,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://mmd.biananset.net/_v7/6db6bbe6c34014112daa95679f9b4e4ce514c2adf0626c31dd3708a51f55fe1edab61f5aec6778563eee5a2ec803c2391ca10afb70334e9717af4dc6a0003bfaf9e01d38db9db63c6839a540d16de1eac331aacdc048003babf938860a5083b9d45a19008298ccaf0ed183d63e939b0583aa7d11ac282f3a5c9053fa5f067962/master.m3u8",
+                    "streamingLink": "https://tt57.biananset.net/_v7/6db6bbe6c34014112daa95679f9b4e4ce514c2adf0626c31dd3708a51f55fe1edab61f5aec6778563eee5a2ec803c2391ca10afb70334e9717af4dc6a0003bfaf9e01d38db9db63c6839a540d16de1eac331aacdc048003babf938860a5083b9d45a19008298ccaf0ed183d63e939b0583aa7d11ac282f3a5c9053fa5f067962/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/fdfada2fb754cb1d2fb9f40d17b9fdc6/fdfada2fb754cb1d2fb9f40d17b9fdc6.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/6db6bbe6c34014112daa95679f9b4e4ce514c2adf0626c31dd3708a51f55fe1edab61f5aec6778563eee5a2ec803c23966dcd2d4f903e3fd3f6a59060814028ecf8dcbf751de9739f0cdc22fe2ad6f04ef6dda0e003f2392c47ee634bd00d51e8778fd619da3b941b56a2dfff6c16fa99a59386ac2ce7437c7953dc220e92c6f8dd0d8d5771ded6765f1e3acb0b04936/master.m3u8",
+                    "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/6db6bbe6c34014112daa95679f9b4e4ce514c2adf0626c31dd3708a51f55fe1edab61f5aec6778563eee5a2ec803c23946fc3b2397a5ad0771e4d646758edd3ba6c529e62ed1e94e1f035de04b69adf5495e47db8c522dc33e9ff81b50870896f4436c44362a83f217590b4544ae4c1d238128ca62d09caf94bbf5d89b5398166d9b0c04b0a3e72c1eea29cdc12cabb8/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/fdfada2fb754cb1d2fb9f40d17b9fdc6/fdfada2fb754cb1d2fb9f40d17b9fdc6.vtt"
                 }
             ]

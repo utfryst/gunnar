@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 10,
+                "sub": 11,
                 "dub": null
             },
             "type": "TV",
@@ -223,12 +223,12 @@
             "servers": [
                 {
                     "serverName": "hd-1",
-                    "streamingLink": "https://w2r.biananset.net/_v7/022cce7e14d8f21d2318f78824005b0ee185e202bc66029e372540ca1f36d5843dbf753b9614ac79edc4a0941497ec91b841ca21325e0af8c46688cfbf5f5b25543d8a99b6eeb38b3f498c1307fdc31ebd2cb67fdfb14fa9d7165c75af8e0756be223b81fccce421475657478d494fe54ff0565a92a88f463c5c721ed618a57c/master.m3u8",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/022cce7e14d8f21d2318f78824005b0ee185e202bc66029e372540ca1f36d5843dbf753b9614ac79edc4a0941497ec91b841ca21325e0af8c46688cfbf5f5b25543d8a99b6eeb38b3f498c1307fdc31ebd2cb67fdfb14fa9d7165c75af8e0756be223b81fccce421475657478d494fe54ff0565a92a88f463c5c721ed618a57c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/896546efe29f74adafdf4612bc6004c7/eng-2.vtt"
                 },
                 {
                     "serverName": "hd-2",
-                    "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/022cce7e14d8f21d2318f78824005b0ee185e202bc66029e372540ca1f36d5843dbf753b9614ac79edc4a0941497ec91ceb1e9f127f0d75997d9a5e4ec48dd41528cc54f2ab012862a1a52eda16b5be6dc77e2bc2fdfe058fcdc736485496ebeae011cb6755f6709869ce8c09e9b59a77e1ea127260439333aca0e8eb3a70956e3deb5aec73e1f7c5dca7eeb07d32a09/master.m3u8",
+                    "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/022cce7e14d8f21d2318f78824005b0ee185e202bc66029e372540ca1f36d5843dbf753b9614ac79edc4a0941497ec917533f6fb29eeb29cd1928a93b761e227d0d4ddfa28cfc813ee2e8e513a95f1a202fbf6ee03685e02c080d88b21a4449df040cb1de3d1fdf0dce1c40325701875c504254ed240a41993210ecd96c9dcbf4a44ab7aee8032ae2e2c42eff05edc44/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/896546efe29f74adafdf4612bc6004c7/eng-2.vtt"
                 }
             ]

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 3,
                 "dub": 2
             },
             "type": "TV",
@@ -57,6 +57,19 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://vd2.biananset.net/_v7/fcb3c9eefa82610fd2234ffd10290a45e499f2e7a9bbe4c0ba15efddcda2ff2fbab4f982ca338fccfa4df3a50d0ae29b16bb57ac8f387095cc4e6520c22bd4114ba26647cd691a3fc5da94f5207ff9edf10bd190a0c0bd5c6ef724f62afd85ec738b65e9243d8b6f696a6d0a6efee00fa94b21323d3dfb57514c669a0be802c5/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d28f03683f90224611fe9919a13b0256/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "sakamoto-days-19431?ep=132030",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/befea3b486b5afc9310057b75f8b60934fb3e092ece556b87b07f621d3962a264ff2155f3289aef9a024a0fd65eecc7535616285d2480e9f6b4d29a21c910006685db825c4840e7583eaf8e29c515066f25c45699f017c6c65ee984fdc7164d54d043f50284c4ce3ae085e854ade9243ba25ede5286d735aa9f7c55433a94204/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d81391292fcb2ca151d6e0158a1ebf46/eng-3.vtt"
                 }
             ]
         }
