@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 10,
+                "sub": 12,
                 "dub": null
             },
             "type": "TV",
@@ -212,6 +212,32 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ea.netmagcdn.com:2228/hls-playback/88edbd337357c460ea73ea38aa57f12f19502c8fe4235045a28d032ad9f09191b41463e30f981c845bff65944dbef3929d814f422ab54b94af58144e0c5a6240f6fcc32f5e9fcc15cd9ff8eca863b3baf262dad336a34916dd3db2e199ebef900ec09df1d97372042a763218d24863f5f8cbbc7dfb5fb0bf845570c9ba099a59f796eb8ec926813af4b129450f80b50b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5c5bb3dc4604198a042e030d1f3b8fc3/5c5bb3dc4604198a042e030d1f3b8fc3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 11",
+            "episodeId": "hamidashi-creative-19368?ep=132129",
+            "number": 11,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/0d50318cc63e313a99e64a318d7f15bc008f35278acb2144a8bba7780b2d8df07bcdee0b42d805df5c97d45c2fb9b9491954ad2fdefff91ee17a40f935a2340759fb1dfec46042ef27f0c1a5c944672dc43d8f487504cd559e9daf3bc0a599058f9bb252fa4858442b750dff9565b9c0ff6160dd31094df9c7f3f75f321d7342/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4dc9ad8ad51bd389dce17acc633301d1/4dc9ad8ad51bd389dce17acc633301d1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 12",
+            "episodeId": "hamidashi-creative-19368?ep=132130",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/5361eeaa32bef44af67d1748d32e54e01661f5b217c181d4c6c25e9a0605402f995a30f08c3bae88918a230b80cbaa57ca69ce9073ef979cc8d1aa6e916c9009a868fbd48d2fffc356395e8d96a2b7172a092c2cc50a5833eba26eb19f9f0246f0885017328a1f99df5520ed766d439531f5b769ad22442b7bf609017f2af927/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cd4f081d823e55a611ec8c5033a8ce12/cd4f081d823e55a611ec8c5033a8ce12.vtt"
                 }
             ]
         }

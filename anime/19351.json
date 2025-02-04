@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 17,
+                "sub": 18,
                 "dub": null
             },
             "type": "TV",
@@ -322,6 +322,19 @@
             "number": 17,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Episode 18",
+            "episodeId": "about-the-movement-of-the-earth-19351?ep=132211",
+            "number": 18,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/3f32c059666e7a13d031fa65f27df31adab379a292cd1e9ceb3004bfde7c5686a8a323b4f263a7d598f935b664cbe241c8b5fbb4415f37a0ff4a9f38bb9193cf05c338d64280b7fe11de0b68e1730d9540a5932579d139553ceddd596602ac3f21ec12718218b4f0f4ba7183768b3058c43d935cf619602f889103969c4eef96/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c6292b637d3ed181cf74cf25ee45b829/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

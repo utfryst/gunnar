@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -84,6 +84,32 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/f7dd839562eadbf6ef291c72c344a05d12b8e9a1015af854a0f52de6a9c714b51c2baf93b9f52f0aaf8bbeae9ef38b1b774f8a1ab0e04ed210e1d07dc83d09a8050d0aeff0e644165d7e858af2c77d3e5675d2308ff061e5ff16ceb7159eb7f4d0c0e2a65389402a2936d3dcbff77f0adad524c15e40871b2c733b900ee84c9db0241ce126f2f4f3b73f49c7841fc0bf/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/0e86bf6bab4df9cb282e3ec33cdb5353/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Taboo Skills",
+            "episodeId": "bogus-skill-lesslessfruitmastergreatergreater-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you-19465?ep=132120",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/537bdc3d53e54f21b777007dd007a48a5044462cc60b03c27497711899bd142e6fa6d1b0089409d3389099503078cf5a2bfc917f9b60ad14d93d7a465a823362553ed474a90874d390f78f8556a53a840b9dd084c52cb245297864080ba864ce3c9f6c32d88c312000a3c79433df21d10516c8891ca1dac66697d393e239de68/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dc0751664e2730d9b84922d2a65e6d3a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "bogus-skill-lesslessfruitmastergreatergreater-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you-19465?ep=132251",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.jonextugundu.net/_v7/33b978e5ba226b83f0c3314741249d5104ab8628869d5ab1775fc32b46c8af1849283dacf05ed32c0911cc4e10af66e2f3b8f9916349b60dd6408cb10d6cccf787a4d81d26e01994ec0617a4f96d162783ae0c35d6c01b015ed663937f4151ba03946bf37583296ab1fcdca0c09391420edae98b9727aec19b6b05456414dc2d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b76763a06cabe913b8450215800ad4de/eng-2.vtt"
                 }
             ]
         }

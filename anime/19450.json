@@ -10,7 +10,7 @@
             "rating": "R+",
             "quality": "HD",
             "episodes": {
-                "sub": 4,
+                "sub": 6,
                 "dub": null
             },
             "type": "TV",
@@ -103,6 +103,32 @@
             "number": 4,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Elf Girl & Dragon Girl",
+            "episodeId": "beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster-19450?ep=132207",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/98a6ed5f7993cb198a2f655f0ecf701b2ab25c5ce047333484eb1c63886c86524310e4b4e1dd98d8b3e40f93442b9f327003fa550eed9af38657bcbf354d83ab9064aba097e8908306c2172c0a07515dc5b0575a75325716528ee2b88bb1238d9598e2160c45f391e55b1e414fe8710d40df421d9657abb142edc1c768f5dfa1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a79559f50d1e8ccced6a52e4eb582321/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Girls of the Wandering Woods",
+            "episodeId": "beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster-19450?ep=132293",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.jonextugundu.net/_v7/90121156b2192154c184c6540abd4d611607147db536bef00ad4fe4f5c037f308bb4d5a78078d8762e4faccdce4e6ee4e51c16305936e9ddb6ef229b2646aff6c27910e74a2c788381e48881dc0984cb3ca2ee471159ccec674096b4804daa1491d855baf53012e521d6565b4e83fca9a342735979c5f2aec11c25db05a8cde8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/00f62873795be0d361bff030649b8eed/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

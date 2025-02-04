@@ -10,7 +10,7 @@
             "rating": "N/A",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 6,
                 "dub": null
             },
             "type": "TV",
@@ -82,6 +82,39 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/5d2b0804688a77858e43e758ea56125b/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Liam Tries Taking an Elf Familiar",
+            "episodeId": "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-19458?ep=132068",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/b05b1ac917bcbd308defd93cac8f766da35a1386e0c8fccdaf8f087d0a4a731922379748195ec2c819f0d5050b58026a3df5925c2b1cbddc3ba41f84e3d7b7e79e7169732708c247c774006fda3a41a13c1f581b754b17e6fbc0e64877c4faa0549af94310ca89a0dc864604d102c0f253fb4653dd3ba4f022a0d5a07fdedc6c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6ba3c0b950ac4af765c242374c0a6dd4/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Liam Tries Getting Engaged to the Princess",
+            "episodeId": "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-19458?ep=132246",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/ece56c7414fea154abafe461bd13e9a35178ad1068671a5f562184bfb53331a4812dc17528e1cf2107f17817e8554847813c3ab85b8dd2fc4875e3fb185cd16cab5ed57245d10bc7d60e1e532770bb1e9f0dc5661a3d54252fbfe6660bc2969c061a9b26830ed1a4b55fca3900c4129f2457c57f610ad67c746ff5ce0fadb0a7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5a8fdd860c10cc7e796fa0f7a610ebd3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Liam Tries Making Incredible Armor",
+            "episodeId": "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-19458?ep=132361",
+            "number": 6,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

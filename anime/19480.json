@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -59,6 +59,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://wf1.biananset.net/_v7/19a9dcf20dfa5da1efafea18a741597fedf8f3cb6f372b623e3ad1bf5358d2677acf80cb42f81d5fb5deec397d8ad54cabd5340fafc1245e840dc3afea8a5ed4b4bc9c7184cf32d9ffb37aebcfc33443da00f9508d10780800c2cf2d2d0965115b479a4509bd1c1a40a7d643d8434dcf596cac04a737bbe75c1b3be236ac7e5d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/81baf28e7acc8c0f412d8efb514905c9/81baf28e7acc8c0f412d8efb514905c9.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "cardfight-vanguard-divinez-deluxe-hen-19480?ep=131727",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9727d6a33113f1a059040674658f7e2865fc9736410f5e131a4f9972fbecf757fe01120f6f889bb1391fa9e6e9e09c5f5e1a4ec44f1c4c59f1870e139c686963a5333948556d2fc62248ade201ed7c4c0b8bc2064559745fe9e2d982baff421ba066e2bd8a7bc90f5deedad1363fd76ae60b7751cfd97cabdb03adfad6d306b1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a027b4aabedb63a7da1cc0c637f52c9a/a027b4aabedb63a7da1cc0c637f52c9a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Three Rising Stars",
+            "episodeId": "cardfight-vanguard-divinez-deluxe-hen-19480?ep=131728",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/0da06f49c5260ac06f13313f22c71cdd7e26ea0d7f6b1d52079b29d356efebd6d1bf1a97c70a7a54c916db11b835f1e498291e066d1ba8eb34ca6739781d13f6e84c24983f5854c8cff85c65a0d2da2a25bde364e818db1be3eb3a85baf78c07ad4258006387a15c58f96172bb6884104026894f0c2334714f63c5cda8647e28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f171d49bf28130dccd974d6d0dc33f62/f171d49bf28130dccd974d6d0dc33f62.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -69,6 +69,39 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/05c4b66270ba30505151ab51063a13c0/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "School Festival With Him",
+            "episodeId": "medaka-kuroiwa-is-impervious-to-my-charms-19442?ep=132067",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a96a99150ca81340cdec76dbc18be270983ffe2b5ba4cdaa1f29bc238be513c60f937ebe56698fb7f560649e15aa7f9b0fdc379e8107314cac2bde57ea9c3cbbb3813ecd06e060754e983e86819144c5c2e7711755aa5332398e8d6f7e7f044d1fc74e0b4e217364bfdf27fabe1199e51fc03bd48fccea9e0994e82ca38229b0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b47db903ae917e873b2ac7364be16a9e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Legend with Him",
+            "episodeId": "medaka-kuroiwa-is-impervious-to-my-charms-19442?ep=132245",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/1751706dc40038d4a9f4fa97670f49ff3709b5b1d27a81a01bbf5d5069a34612238411ba7ce3ac0c72ee9eb247aa3a7ce4a19611a7f4923c9f63d26ddb10659b2deee48d3a261b89eff96252b79017b6ee30b0dc2e881672317fcd168cdec200bf3fa13637817afc026c0b67fd963e015a1da728fa58d03a738cde73bcba5de8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/92aec2132002915cf730173ee5361f48/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Basketball Girl with Him",
+            "episodeId": "medaka-kuroiwa-is-impervious-to-my-charms-19442?ep=132360",
+            "number": 5,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

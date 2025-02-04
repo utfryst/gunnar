@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": 1
             },
             "type": "TV",
@@ -84,6 +84,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://mmd.biananset.net/_v7/6461f5ff48e0d76fbbfca641dfc6d47d9389780ebba5c1b856990cb88b8722e25801f313cf1b143fc0463acb53c639d0d407e41375b615fc73631386ef17e88fc1ebf6dcce0b1ec0a5ccb14cd0aff548b47e1a76900e5049cfbce260492dc161eb6951515e24157e5280da734448dd8ec36889e17f001aefb4378e827718a1ac/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3e883451d253de2d98a18d37cfe3cad9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meikoh Cup, Junior Women's Prelim Free Skating (Part One)",
+            "episodeId": "medalist-19455?ep=132217",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d1b17ef7e8ae0bbccadc3b8107455627ac8de8b47450a8f90b76ddc81d3c54586a8c302328e3e828721c346df32066577d4fbc61efcdf088a25663c99d968dd5c56c622df538c87bd80e363aff88831b4bff33604d666b25075c0d9943de1cc9299f0844bf197926789ec53a59153551f3f8dc7ab7004af13d1c4bd59f27642f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dee27d236346c1745959d4ec33ec0fe9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Meikoh Cup, Junior Women's Prelim Free Skating (Part Two)",
+            "episodeId": "medalist-19455?ep=132304",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/c77424eab45b365dd1692f20ddb2a10828e143fde5e831050eb342588c169a1474be855e56d8847aef557c3266d6e13583a07b76b4a37347140c82c60638f6781114619cb53d0bc64ee31e2c1456359d23e37ad84a8035f3c5baafe8b0709a87c5a0892f20c3e80441fb3b142a3652412ed9d2c302dabfd631d9930168d7f741/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1e3480b5abb34e1ccbe9a8f6a37f4b9/eng-2.vtt"
                 }
             ]
         }

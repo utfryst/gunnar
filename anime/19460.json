@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -49,6 +49,45 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://g4fv.biananset.net/_v7/ed6a60b0270f0a95dac10bf9561176d05d4a70b757e0c39aa32ff61b1ddf80353fb073b7a935dea6487a66766c329969e25b8fa854f54eea97c9173611071e4e53cef6746081e723bb2bbdb0b7f99e9c2c2f0f72745cced70a356af1606891b81d410ddab4b9aff20908a7fc003ca97a8bc5597e9f8decc843237c4c5d81c3a8/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/79dacccc59c8979264fb1c2d61efe483/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Forest Where a Magic Beast Dwells",
+            "episodeId": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-19460?ep=132036",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/2a4f930dc277f3c4516fd799d92747214b4197f5bb3edf3ea9b72f8a46c922b139165530c13e6df81ce7808fb1d53268422e17962116d34711b0a175da7015c7095183fa4da3cfa90b4dd58e3b811ae33ac9eb4bc5685a78d5b367c0ffa7b9118373142565c7a848ba63e432242089c52add347ea3764fcd2bf1fea8fbb4a2f6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c2d92e60420cbdde7173e36cb20c2a0d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-19460?ep=132214",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3ef61cf26c6a2967bb00161ff5b81120d15b6a42a0b563ce732410f3762dde842ccc67b3742a3ad3e7203da4cbadda6578f61532bd9739679e9c8918d2450def9dfb82e28d074bcf077fdcefe8e813ac2cc8b7486368616b09a69ef2713983b3de471666a7dfc3dcf5fee610ecf570d676ccea4164ad2a745f8e6ca77b911e8c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/370ad939b739b6b792b5f3e206389124/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Shadow Stalker",
+            "episodeId": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-19460?ep=132302",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/8a84594a2024033f7cbd772468a7336427f8ee046597038cfc8b3bfdfce2ce2dd09c13de4b99adfe62f2f915c73ce3bac36db14aa4e892138510bb19270496f6e38131c505a72c895559912dd47a1be8f3385ea629ecbf57396ed23248bdb4cfe76c420eda895fbba865da9585bb4b65bc65f2bc90d87a25d580e7382c6d0c1c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/49fadd9eda8da0fd1299d596c973f45a/eng-2.vtt"
                 }
             ]
         }

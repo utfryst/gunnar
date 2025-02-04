@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 6,
                 "dub": null
             },
             "type": "TV",
@@ -92,6 +92,39 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/1094549a0757ea100ada2a445458815f/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Breakthroughs Happen Even With Magic!",
+            "episodeId": "headhunted-to-another-world-from-salaryman-to-big-four-19454?ep=132063",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/cc4c23e3a07cd07bec0ae87ce91ffba45caac5a387e5e2f24d32303ac5b6780ae00e260bec2667f6e08ad6fd77e2ab236e56adab7e4c93d60ac1e297ebea28848b433cfa146cb7693b81d99785723b741d2be3f3b372657fcf37f0940e0ddb61251727ab6f4caedb202994ddb1a669b7004783c27da3edd8134e6f0b96744047/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f1995f222c8af59a65306ec6439024d9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Best Way to Enjoy a Stroll Through the Marketplace in Another World",
+            "episodeId": "headhunted-to-another-world-from-salaryman-to-big-four-19454?ep=132242",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/044c0dbe5cc065314d8836abdd83ea62cf041b431d1e4f19dbd1dc478a7712e2af000f2bccfc93bfecbdb89b836cbd773e6dd6e1cc9f8aec2f07f27109679db5917a2166127aa58190bed51a0b6f2d0df9c4b0b04dfa2cfda42a8e00672eba551cc12ee76c6f65bab54d05bd445a37687688b1a208ba20ac227e7a53e2e05770/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb9a2598fb8cc23620b473669208fc1d/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "headhunted-to-another-world-from-salaryman-to-big-four-19454?ep=132357",
+            "number": 6,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

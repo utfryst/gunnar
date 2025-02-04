@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -75,6 +75,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Night Attack",
+            "episodeId": "im-getting-married-to-a-girl-i-hate-in-my-class-19439?ep=132198",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/e0264d210642fb716957c9f05c09caf6990bb72cff2d8222f51202c395a06cc57a445b0db38ed4902a3d0dd246726f07737acc6598d385a8766097b795ad93ab5a9a998888ef7aa3253141546f976eaf6067d6eadc2c198756dbe0c35c31b1a73117564385ae1ccf2101258f3aa7714dba7dd8c2ae0d43a8009d0f411488b252/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d2a039f1c86a89bb4d51c051123581db/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Won't Lose",
+            "episodeId": "im-getting-married-to-a-girl-i-hate-in-my-class-19439?ep=132280",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/841483f2a1671922d88922ccb3dfda9d810ae7aba15643772bed8c92285a6274a5d36476051026a9260a825ec0c987892d257611200160388b9abf2c697bfdd3eaa40dba0c98617f99cbf434c2b1981d35c6efd352ca03882e74209c16e2175b6db1bfc0b3db487d8a6bc0e320d1f9dad775cfd6b7de82fcce60334adc6c44de/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/66ec6b1e28b7378975eca6e8ad43c971/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

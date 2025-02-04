@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -80,6 +80,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "tasokare-hotel-19472?ep=132194",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/79fbf4426aae7b15227e468894748ee0e7b4cbff574f3a27de1eb2ccf9eb5718ed343969e023958c30e2f70de498d2498861f874b25a0c71ea95c5ce640f892351ffa99c24eb34ecac722ba549a5b0a2606df49b1f3a2328a07c21d5f061d9b410a7bcaaa43f14a929169be38812ced85a5de796ea643ec0564ab8c081ee9909/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3ba79f03f3b437ac2e2ae1b474218870/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "tasokare-hotel-19472?ep=132277",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.jonextugundu.net/_v7/b24a00906a9aafb8748e279d7c35f0a8626d18f13c3bff3b40f4dbe0793626f07926d82f514a17a91e65e978c5195c866e7c562639a61b3adafb5a1088a56adde2057ddf33d92bcde3d848f7e2e88fd9ed491ee2671bb89956be77d89ca941f63530780d47c770231799d04b4e4941d25ff8478bd502b6e47dc4294824818034/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d85f8cd1667e86b6391144d58e370ec3/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 17,
                 "dub": 9
             },
             "type": "TV",
@@ -284,6 +284,45 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/79aee410d78596fa811e1a3b2504e9e85f9c6825dfe73d2fe0c8481f6a61454a894a4bfc4d7c33d504625d5b93a4ae78969530b61e9cb5c587edff027574dde468bf5a532f00660cb15a5419052ad43b654726c1051b04ddfeb143c99281294a0b2280b381238e7cb962d08ae165625d162c72f5d64695841b8aaf1ac63af0daf0b0ec435faabe029b32e90a69cf6a7b/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/9cd256679ad7a5235bc78f0e6abef2a6/9cd256679ad7a5235bc78f0e6abef2a6.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Embrace the Lamplight of Ambition, Part 5",
+            "episodeId": "shangri-la-frontier-season-2-19324?ep=132025",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/28faadd9a48a16a676d0c2510647f2d489b2f41b271c6ade17c3af6aab9ee5cc2da393aa89e5539305cd8c0183482c46f8236d9321dcd4d6ce146b29020d4b1562be57c32571547ab383b75aabdc042a7403414bf05e42d8598489efbd48f2642681e8b26359ff60d2211cb679f527fdb553fdff02607b87ed526de169f243cb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6f74333c2a0c4308f1b8f611081c1bd8/6f74333c2a0c4308f1b8f611081c1bd8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "shangri-la-frontier-season-2-19324?ep=132222",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/14982638119ef0affeffa0cad69e33654bf6ea9b0769590d6c5c63f266b0397c690d719aaff449d247f4399cb016466b0c899e0ffb1be32c465266b7948555b9f4ffc3c8f7b51207ffa357d805736623d21dfc025b54dacd608318753ffbdd61ab7fa375c0650145274fa4b0dd7e005a2e59a29a43c93f208f57e0b04dca881f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b1ddcf9f622236125918e4b678b91093/b1ddcf9f622236125918e4b678b91093.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Straight Flush Mixed With Jokers",
+            "episodeId": "shangri-la-frontier-season-2-19324?ep=132310",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.jonextugundu.net/_v7/e804a06ca6cc5ef318d19d9a12f1d29e9561922cb2ad55234e9c5cd7c46a111068ac1bff0e28b266523b651168611c9efc9747857aacdab2915a961abf2049d3f9055c2371160b0f6e711f7c36750659cc19ba23187580609c6ee0782fbefcd05d3ddb0129a1ea5f62dcfc64066b95e5c239c939c9a6b4cbea94531f35810459/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e12d2b0806b77e6387024daf42abaf61/e12d2b0806b77e6387024daf42abaf61.vtt"
                 }
             ]
         }

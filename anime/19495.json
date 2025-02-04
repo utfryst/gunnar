@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 8,
+                "sub": 10,
                 "dub": null
             },
             "type": "ONA",
@@ -171,6 +171,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://g4fv.biananset.net/_v7/0b8d5663b1738ad88a28b4a64349b8a16f29231194458da397b7696976a4a9268e4ce426b9dc552e49c06a9272200256aef632b7e0f470ae38e275f5bc2780e1e9429f13e01e4d7ffbbaf21fb7b337d6c0ba897c38ccf06b97ae2a3705f5cdfb18e314a2ec34e3d6c5d54ec702b9b14ee38cae9e6f393928a9439abcf56f1f78/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d450c160efa4ccb8da3cf24fb19e50b8/d450c160efa4ccb8da3cf24fb19e50b8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "the-demon-hunter-2nd-season-19495?ep=132287",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.jonextugundu.net/_v7/6bf9a16346722d0e8c1848e723d6703b8fc67eb2cb4208c71bfda57521f18153f359e8749ed339e7706b78ef24f9d44dfed91368db68c6d19254f2e055cfc9e965dde54572d727a4bdfaca2bbf47e54ed9576761d4704dfed84ff865c457bed5b34a0dd7d2f841170fa7f5b579e56c8d6f3655b108127080ee506885cde954c3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/11afc90dab5e623eab55444c41f9c66d/11afc90dab5e623eab55444c41f9c66d.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 10",
+            "episodeId": "the-demon-hunter-2nd-season-19495?ep=132288",
+            "number": 10,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.jonextugundu.net/_v7/6576c0a4fcbc6b709feeec51c6b020ae431a3c2e877dc6f9a6b0c8e04f0c1e76fbb1a49052c13f5dd8d7660581e314ea60a1d9abf30e32c221e8bc1f70a634d3f40d2150227552c6a02f1bf88c5d82bd05f75e718abf48476a117b81acf892e49eb82ee8ab36c929b7c4efb680791e976715006a154e8ff92dd222c79b5f73f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d21d179396c1b2481db02d139639a586/d21d179396c1b2481db02d139639a586.vtt"
                 }
             ]
         }

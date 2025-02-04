@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 16,
                 "dub": null
             },
             "type": "TV",
@@ -273,6 +273,32 @@
             "number": 14,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "blue-wolves-of-mibu-19350?ep=132205",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/b4b34b753ede8b860416a8528d68b29fb3aafb12db3a242aa7ba4f956b483620304daccf6f38494d2e29b8cbfe21c3ee1256ec92c8285ba792a9c140134936f6ca5b70e71549bd10efd12df5c8b024a0aa6b9f6bc28ff9b475208d8a47f35eaea366f729505b12838e44a2f15cbfe9a38f85a452bb66f41bbddba7fc9fed6c34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7cb9d187d979f606b5b92df32d5affc8/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "blue-wolves-of-mibu-19350?ep=132291",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.jonextugundu.net/_v7/4704652ad6bc886773dc0b22146d74bdb694751cbdf7376fa53e6da0dedaa4aab4d70e77841214584c126c06e31b21166362fae87736bd731eec8818d247552bfd8dfe5e6b5f6d208d0f00317035b7690e1f0537f0cf3cf3091401099f6e4043748e74668be283dccbecfcb090391f2be49e2ada796c6b5251a88072539992b5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/052372181c8b7547417e1000d2d584e9/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

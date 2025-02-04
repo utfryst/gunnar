@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 15,
+                "sub": 16,
                 "dub": 12
             },
             "type": "TV",
@@ -294,6 +294,19 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://gg3.biananset.net/_v7/d43ded4d85ca9d024e8befe7d0d4773788f336a1007464af4fe69c104c5c9b7b3cc18905c9d56d32b6896f5adff4229042762aca6dcfcb01b88a5467856d13b7e0b4b4f7183a0564a29b02d3e81fd02f55461efa1db4c1b4245f87329e1e501f94a16b37d6d69789643aa0e8236ff5162fd6776dd07a5895e51864479295e719/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/06d9d33c6a644156392a52811de6f86b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I Love Money",
+            "episodeId": "trillion-game-19362?ep=132184",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/773cbf9c09bc9e5dfe4cc708aa9116472ef66f709b3d3c39385604fe6e19432cf3580b7fe1db479599841b272b8c3b0520542cb11900e66f7b4f332c324ef9da96af946ff5ec90e6217e3c6e38bd9239d529a68b2211bf4bd2e8e84bb315c0d610496b2ed940794c08492fc37cd75894de2ba6e68c0e77f1dbec61ffa35496f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e1b48dfd2d37ab14647acd6591452336/eng-2.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 15,
                 "dub": 12
             },
             "type": "TV",
@@ -277,6 +277,19 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://w2r.biananset.net/_v7/fb415a1c081e544d1ee2251e101645ec726e043e0c812ec3a638764d89328165d9531fb91309eb4f026d2c054be5f2a0afd5ae7bcb8d57369b794ad22e5d833913dccae154d9a43682ed7d12343ba4d849992cb862616b649b34bb9491266cd36e5e54ce3e8231f94a39c0dda5aefcab01163eedf39c85b3b71f043e2f9ccc4d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/255c8d6a30a2d6f8f9256cd8dab2fede/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Between Life and Death",
+            "episodeId": "rurouni-kenshin-kyoto-disturbance-19340?ep=132187",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/f4be2449dc5e732ee3413209d117927b8a654434dcc9c10b4277cc5c0a52e2f1ad2645a1d2ba8275f59338379bb9facc3adcf213e7db1b29813b2e2a2052939b9feabcb5da7b007bff27ffced26cd50231a7642227c336db56b24dd0599d24201873707142c9a1f069a6bb398c4f9f4738d1db1dbbfa6dcd6955e01bdd881e28/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1a214c26f1631235b50666650bab9228/eng-2.vtt"
                 }
             ]
         }

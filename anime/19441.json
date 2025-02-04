@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -63,6 +63,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://tt57.biananset.net/_v7/e4d54e54e7d7788cadb9cd94365a3b7c013e61441119c6c33bf6a397ac0008ede5265544b0f8c2cfe127f84c64449d5802df710e450638c5ff7fd96b15d91cd008a44d285303eeb4a6ea94ba6bbfed1d9227bbf38ed53b8f3568e7f358218b76c4d5343fc3061d1e37f1d1da7802cfa86de856b7685d5a37ac740c34851c0849/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/907cb8216cf20a8bb2ae416304b12854/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I May Be Silver Sword's Tank, but I Want to Take On a Really Tough Dungeon",
+            "episodeId": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time-19441?ep=132200",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/6294ea86a0d4a5df4d900b64e9eef05ac48a8339bec1b10b7662f4b774abc0c98ffa3445e12a0b3c675e50bc437c14f52217f7374c3607c8f5e520e46aaeca2ad5898104412bc2f05cb6b93a51cd613f723b0275451e91ee71d4a879fbe9cffaa72373c83ffa06b60cffc2ff1ffd31164dbbd2f12c3872c87248aceeaf48337c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c8a27fa6274f5e5b8f10e8fc5d80d21c/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Relics, Secret Quests, or Dark Gods Will Get in the Way of My Work, so I'll Beat Them Up",
+            "episodeId": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time-19441?ep=132282",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/6750dfe293d7b2721c75262d75503679a980c027dba8b7cfe3ffde9f972c349a572da13e6fc5873570e6f35b46d07a93c3efdb65a1f65d34e7ed00bf919dbadacb346a83c222ddbc3fcc49b86d52533543d7f4e057a4ce07e94174d5e0770405eabc93403063bfe2a620a50d23136e4d4cc1319713193bfb1d1a778347f2610d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ecc4ba78a5ef08002875e8019c27b001/eng-2.vtt"
                 }
             ]
         }

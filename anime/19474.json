@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -55,6 +55,32 @@
             "number": 2,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Let`s Prove It & Unite",
+            "episodeId": "uniteup-unibirth-19474?ep=132215",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/2464c0472990515671d7882493764f9b7769e9522078037360f2867d14548ac27d0677072d894b2ccb9c33b9df53b7c9f455628cd0b3bdaf01fd9858fdf4fdbf5a963c98a4142da4d894328df5f5cd08d9307249b9b1686cb05b8868d72f52ed4d6c7b849d563a0f559a36b8459e7e0f3fb702e101d945a9c5609e152d869394/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/08c2bb2d78afd6a95abf27eafd5dd6f7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Let`s Go Home & Unite",
+            "episodeId": "uniteup-unibirth-19474?ep=132299",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/aa1a59e8ea81b736ab5ba9803943b3edd35ed27bf427052b2c764c656125b4f8f6d00266d009b01acfb19fddcc5ca44acdaae7c0bddee465dcc08766ff7eec66e1777303c40f6066e8ccf66c4c18228aacd05764ae357f3eec02dbb8552aee2cf1fd19f6b38d49d13c5817471ed268adace835b9a8e3956657577a50ab0eab54/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b05ba51487b41ab91890af9679782ec/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

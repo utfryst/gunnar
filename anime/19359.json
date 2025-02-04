@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 17,
                 "dub": null
             },
             "type": "TV",
@@ -281,6 +281,45 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eg.netmagcdn.com:2228/hls-playback/68fe119d1dd4a80c676206b8a87b865ae1a5dc8d70c8243a5da55362fa9c2b5cef5ed352a620e41566d97d5596eb08785411dd8b9c4a1612a3fc38759f5f529106562fcc91f73b7760e260abcbae6e00b7932c78222cdd8464122651b02c53392c4f7fa01575fcaa45da6e96b34fb2d71897ba3ffb5ab7f9dbb065a4c8076a8f11bf10856d7395dc80e0543284f35025/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/3df727d874a2802e45135c5500e891c2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Abe no Seimei, Haruaki Abe, and Shutendouji",
+            "episodeId": "a-terrified-teacher-at-ghoul-school-19359?ep=132117",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/d8f355ba5d72903873c50fb5d9080787fbe444b73c75bd3d62661051e1c3de60cf8b46324fc9b41631fe455562c494b1fb2dcfa490a614c3c46f059e4e9e7addd939d0ef53f34c4c454aa3d4d68f79fe8fabbdd6e802bb6fd6113dcd3aba3d398a80c0f5cb0ffb4e86fbbc0bb077670d4e5bef5210cc7881f8f5e5d374cd329f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c452a0c34abad8e81fb6c2faa533bc6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Great Hyakki Academy Island Chase!!",
+            "episodeId": "a-terrified-teacher-at-ghoul-school-19359?ep=132248",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/a4fd846603f0fcd5ecdf1db998f083a28f9d897aaaf988e496754885812b558613a14bb1a5468550ae32c3c9c3f633f33d2906958406484c50653cdc125221d10a1609a131bffa9da0359a3ca1af135a6d21a43d957a4cd82faa23b83753120a52e444687cf915c52bae33db2f9e41e486c1cbb5813c8d1c7548d0b5510a98cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3c3613af813d142b5752eda2c5aba784/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 17",
+            "episodeId": "a-terrified-teacher-at-ghoul-school-19359?ep=132408",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.jonextugundu.net/_v7/871b136e8a0a34a85658d5d3f4d93ad44b9ac084ead5bdbfcd37080c137d2a48638539ab7d62824e308c5f156544e189185b5ad2ee29e9448318afa7a0d211c15118bac8487b34e51a3d8340947f16007e0e7b8b532f5cff33c13ff70e32f772d2f37e8202d48e572b3725230c813dbff538ecb5a71cd304969f695e825c5880/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/0b8b6388cb012c6f4cea3f44ce70b1b2/eng-2.vtt"
                 }
             ]
         }

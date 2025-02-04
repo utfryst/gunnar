@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -53,6 +53,57 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/5b813ef4f2418bb7aebb0b24df64f673585866ccabfea15b5b4e2f2d065c3521a729a1d098b96aa19618ea5593db4d0e7c09c68574dbaf90a265e22a2c01e2b2d352b868c842d912c5f54e645f8854bbab60de265096424664ba56beeccd679b153d6cae6f37a1c508f525399510b0461a3faabeca6914acf0c5ee57077f26b9a5562fefe2025a701c173cf427295eef/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/ecaa72dd11d32c0fe346c02529160558/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 2",
+            "episodeId": "i-want-to-escape-from-princess-lessons-19464?ep=131810",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/83d5c7d0648d4ba943a828d488b5d64263d34ec0b446d3e18b30b511676a1b7f24b3eb8c8df99952a20001edafd025958fb06d024d203cbcde3991203c0b909e500681a6cd4188e5dde8bab3ad4843a9d438297fcbf2d019c218afd7820e99bc49999e332ee22e481c74513d15c94b08e25fbf64a05ec98c953ec4e505c4c7e1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a38800bbb18b550470ee778476df5700/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://eb.netmagcdn.com:2228/hls-playback/83d5c7d0648d4ba943a828d488b5d64263d34ec0b446d3e18b30b511676a1b7f24b3eb8c8df99952a20001edafd02595e68ffb74492dfbb1a49575b857870e7874265d8fe49ac99966a3e858564aec1bba8c611ffbe08bdace6672a3e0a352403938210915e974fad915aaac9a28cb30e0301775e704326058ca980ed89f0a7693468e50dae6a81aebdd9269aca760aa/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a38800bbb18b550470ee778476df5700/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "i-want-to-escape-from-princess-lessons-19464?ep=132046",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.biananset.net/_v7/ab9ced9d999920d6a5b54ab028677985e5131d1e51e2eab051379b53bbbf79106b6e59043fba8593e48a8fda8b6445866713285b8cdfc786bb278dedc3640c5643440a9bf0abd85d6b501b98dc7064de2671fd3fa90174c68bfd5b59c858152dd63274b00d7503c876fa724369c877155cf26fce30f1b29876677e24c9ada6fe/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/12a3169125d32636ca2474c4432a2594/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "i-want-to-escape-from-princess-lessons-19464?ep=132233",
+            "number": 4,
+            "isFiller": false,
+            "servers": []
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "i-want-to-escape-from-princess-lessons-19464?ep=132317",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.jonextugundu.net/_v7/d3199b25b572855bb20fa0192ab0e4d8be622f7ecac9ca4129f3151a67c89c35d5dc61e747d56e7cfbb0f2393c2496a531517f412b816b19c9794ccee553c88c80f15324473d0b5dd4ccbbe6fd6f68114d5df283c90f11b12af0d574a32c3a7449e9135db05170161e2da85e446fa08ad0b8ad476b55cd394bc527a253ff5c8a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5aab73f6a4e2f5a353a8517f364606cd/eng-2.vtt"
                 }
             ]
         }

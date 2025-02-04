@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -58,6 +58,32 @@
             "number": 2,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Reunion in Enemy Territory",
+            "episodeId": "farmagia-19475?ep=132195",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/32fe280d62ccd0d975a5171c0b09f03b56a0983c3eead555a90c955af55cb4985020f16c21463a3235eb62170a30d29f7fbcaba72a90e7a6a192c908e13b475764107b742c814f3461493f66554a8be87a1f671d2d8405d1d1cbb4309f8762ebf7022a7ca3af2c4c85f5ed9e16c7604020a9d9172d2efb333880f528b9b5aad7/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/2a62d9ff894f9129cbe9d1557ba87029/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Ties That Bind",
+            "episodeId": "farmagia-19475?ep=132278",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.jonextugundu.net/_v7/61325fcf69a72c897ccfeb38638f63808176cc06349f54634e0ba39a2ec95537b6248c3d980e441d49764ad61e76ccfccd6a0a48961635c4e8ae52f13c809e0098c054f7c14d0619f89f3d85cf46679ad42cae45a271d55eab10ae0a93aa92b23a268aa1b16e99d7855d5fb226b698c616e2756c93d44e38859535371096f28e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/487f7329b909a153ba530499bdbacf4c/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -74,6 +74,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Special's Club",
+            "episodeId": "sorairo-utility-tv-19470?ep=132202",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/9dd80abc2328a2d791ee2798861e5255becdb7e77b12d0f629fb35898ad69d5e0204b2e872ffb17db07cde4a9e6f4ef544c4b290fbf3c61ed9e37777546a4ebe13a40add68627f2d50ce5f126f78b400c26cd6abb183563575c1219e63a1379cbc5f3cfa92b5a906512db8a6e5cd34e38891642b5a93a88379bfa27dff144e24/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8456cd0634023b416f0640766e69c3f3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Special Training",
+            "episodeId": "sorairo-utility-tv-19470?ep=132284",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/619d02a0647e223abcd85e954dde40633eebe09ad47713eeded0749f906926242b78aa4393c44f4f33e20e54dd78958351b59ca681a5bd851fc71f6fe093ae5878835ded31cbba6fcc959f097fb481190b72a42739319fd77a2a9246889dd2e0e3cf8dde187783b1fa6c6aa9c2bd184fac9bd8dbe19ef9a3716bdff6bf1683a3/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53613183f7dfdcc680fc525aabb771f0/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 12,
+                "sub": 14,
                 "dub": null
             },
             "type": "ONA",
@@ -240,6 +240,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://wf1.biananset.net/_v7/cbaac24e99b725748cf7c38aa82f208f0497774bb399276797b0dfbf3ed77008caef76362feb116c5e4ebe915eb6b601e538a472d79f06064845bd27f4ae25dccf59c1c7ac7597608814dbad98869c476c799403425ccb194c359e32ed0288ac5f9cdbf45366043d8a59e4c011910c70388680f19fef7fab64bca5a2d24034d0/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a53c26f80a6703d818a5117a8aea1434/a53c26f80a6703d818a5117a8aea1434.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "world-of-immortals-19412?ep=132159",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/61cc79dd82d8cd94cf2393a71201d840b0b3795b90ed921b1c7b1b2fafbefb0666f8a123d3502eac44afad1a3bedda291f32588f19f328fadbdfe09ae4a6e2e2b41b74cf5598e990e97749fea2bc29996b58cf984707228801949294f822d8dcd1936f40baccd6eed41e22c675f5343e2580ff47c855349dc6d4a3e9633e28f9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dee7b858371115f33fbc84098384deb1/dee7b858371115f33fbc84098384deb1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "world-of-immortals-19412?ep=132160",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/a03ee2717a0e91a42eafdfc1355d86284c4a7173396fae1a436f575591a763951def0734c7f6f3fbc940c5319aaf6ca321e931d6aa68986f5e36307b01b21cdc8b7e14e6a9d9b0c35d9d4a9b1db76425a58c3cf645de4129f23a53a990be75d185f5fee956c69c4621c22c7cd3f20eced312a56a602d6533e1080df8b363a065/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/f8518c340643fb3cb13ac78ae2af7e25/f8518c340643fb3cb13ac78ae2af7e25.vtt"
                 }
             ]
         }

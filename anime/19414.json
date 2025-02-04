@@ -10,7 +10,7 @@
             "rating": "G",
             "quality": "HD",
             "episodes": {
-                "sub": 7,
+                "sub": 9,
                 "dub": null
             },
             "type": "ONA",
@@ -150,6 +150,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://g4fv.biananset.net/_v7/b7236cb0d281a49b0745155d4c5208e123f0f6b70638f37e8b0f95606b82cb5e45a1e97bcd2d05b75a23b3c50c4b3c38321c4c0915902fd1a79a87456efb5a9e599d7ad568c6a3e8d01c199863b851b72e3ff24b04b73b769346c31bb18d815c780925dfa20c586ab2bda9d11a424475ffef9526aa7d7025ebed94cbf6fb96eb/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/500afa48b6083d1d30d759652bcda388/500afa48b6083d1d30d759652bcda388.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 8",
+            "episodeId": "nights-with-a-cat-season-3-19414?ep=132167",
+            "number": 8,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5534b5456d3f9108e733af3e27a7942206134796a12090b77b56e3b9fbf4c49c441f962157c30ad8b62bed09519bedaa7423a86d2008d5241449f81fc5b898c1c8360a08b021022fab09b97acd64c98eac4fb569e5ffff4b7944d69e039249ac4f7e39e74154950f136e1d8ddad60bd0b3221c9afe65d2621d2ec8e56999eedb/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/61e4d04bdb8519dbed0c35d4a2d0b25e/61e4d04bdb8519dbed0c35d4a2d0b25e.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 9",
+            "episodeId": "nights-with-a-cat-season-3-19414?ep=132262",
+            "number": 9,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.jonextugundu.net/_v7/a3d69f42e32efd5c669dcaf1f7c79b6dc3dcf14fcfe733bdb8056e871cd3540a31cc7361f26af04abfdc50a6feb8556265669a3115465110d25807e87b027a3d704ac963c0ea141cb1b6ca506d12d9a657797d71475747fe7d5f44cf6316b8a9e6a8311e777b23426c3bb8453f4b08cad5c13ac113609981303f3e9fd65dc176/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/070b6e5b2759a082698a7c5b4fe61093/070b6e5b2759a082698a7c5b4fe61093.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -78,6 +78,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://wf1.biananset.net/_v7/421468d5c779e996e1a9ede942b7d08f1f02e5c8855e36fe0f5782264b19c9f1042b9b6335d8b5a5bc3c71347075fcb0aeac8a9e4e92c6ea4d8c763b7fd39bb996a95f597ace5f130dfadfff69ee76499c89fadf14b3885bb4e30f2b1ef305fc8367922313933e660749510cb02594b4bdd48bc06c4a9d2fc7ae93ea917baf48/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/314fccd586e1010e76595cc16d5d87e6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Phantom Blade I",
+            "episodeId": "grisaia-phantom-trigger-19446?ep=132163",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/cfac9f6022348e9eb43231f9fa45cc3b9eb92aa1a0620cfeb994dc7208fc5eb755dd31387c316e3f9c2aee1dce53eb4864ed89e669cd732693c1aceef5684d868d067bde7a4f0fc58f3c04b53c645639b17f692be6a794ac9731533eaf695de6904a8bc7276f275d2e4e096e9f13c0523796639b16923e4ebf046f8e6dae09c1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/156513d17c9ca0f9d186fe64389637ca/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Phantom Blade II",
+            "episodeId": "grisaia-phantom-trigger-19446?ep=132256",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.jonextugundu.net/_v7/71db82705958845f0396e820b827c96cc69b11d0f629e84bd0bee800d95b682dfeb297f03aebfc8d6a6eb13fd3d7e089222eb40234f4652645eb5c85e07995835716bf0b078f94210a8d334048bb8523b7bdbba55ccdc392babb9b56a09afac7c7cf07afec67a9d04473819248cd6df5688aefd6c07ccff6b93c0df3b5a18e57/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/53045f431bc059833e394a910c4e1423/eng-2.vtt"
                 }
             ]
         }

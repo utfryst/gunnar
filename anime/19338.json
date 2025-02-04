@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 15,
                 "dub": 11
             },
             "type": "TV",
@@ -283,6 +283,19 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/cd227f7ec1e863ad2e7ee6afd91cf0bca0d1720df9ca80d815e56563b5619e1f22424b056bfb9e6892d094ef021a53cbe70b9eb5bfd8448551ad3004e381f65c6b9c0a789340e50578edf8ee244e507a9f948c4cb0ff14f3ea667f4e77f29efd8ccabfeec3201729a18b21ee4ae1090e4f44e9e594fb3400fddde9a44b5554bfcfc2245b60e514d7774b6d0d356db428/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/9eabcfdd3ada48df260ef542fa9a3710/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Scales That Hold Wishes ~Going Back~",
+            "episodeId": "tying-the-knot-with-an-amagami-sister-19338?ep=132118",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/8d3c57dd00fdd917c3b6c89b66237e4c066bec0ef4ff73f2eb14038d7d4c22210fc6a3669687028c40452a12ab07a60f30ab8dde7f8916deca8441323fd4179f90303a269becd306d4457ecbec14f84d1de67fd6a9d122a6b43f997160d37f281c9fd99f0da4f5aea4d259bef8d8c9dfb5b6770b11dd6808c86430c064779862/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c1fa7fb54e33ca1a4c9c5149dc41a1ca/eng-2.vtt"
                 }
             ]
         }

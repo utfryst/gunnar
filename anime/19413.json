@@ -10,7 +10,7 @@
             "rating": "R",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -80,6 +80,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "I Need to Stop Faking",
+            "episodeId": "solo-leveling-season-2-arise-from-the-shadow-19413?ep=132212",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/375c4f5997dcd1ea452287d316d38b42799c4a62f5122cf09371d8fd23a02d28b647ec9862ab5176544ed944982f2801a4405307859203272e178e48dacd60cd4eb9ac901ccd581c7c9f76f47c51cd705cad951664470be2567514cbdba3cd00da0d6aec9f18de6c394bf16131be2509fe3751e3470db6c5846490fbd9833042/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ab313a8a82fb97e5f153b236494f1eef/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "This is What We're Trained to Do",
+            "episodeId": "solo-leveling-season-2-arise-from-the-shadow-19413?ep=132300",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/cf511cfcec90167fe0835f94737488403baf433a935b649904191a849e537dee9ce9e3c9dbd76079c66fddb345a3bebbf15d481848bf2ad7890512767c25a3660e92fe8ce3e1383ab3c3a3c5447d5441a001e384549febbaa494c4cf980cac5d9ddc99538efaa2abfa39c29fc4757b779594d5aebad87c592c87b755cf928f02/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a929460885334ff3e5dc6ca338b14483/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 16,
                 "dub": null
             },
             "type": "TV",
@@ -269,6 +269,32 @@
             "number": 14,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Third Eye",
+            "episodeId": "dragon-ball-daima-19328?ep=132203",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/488fd152bbaf27b2afc84ad26e91d107b81ace0cb8277997bc6e78e62d20f84cd9bd252f9994f6ed6c07e5e64e8c3d93d00195e88cd0fcc45f19a8f06c5851cef9cb773c5d90b8bc20bbbe4459084dd13410a568fd469b697082374e24bf5844ab5f6716225fd436f1dff6fd694c6be7d93f5aab4b45202e8dcc76d8099672bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc08cdcdcf27dc24462088caf929bf38/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "dragon-ball-daima-19328?ep=132281",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.jonextugundu.net/_v7/eb626ce62b85551f10b5a7fd0eb9f8b20b3ab739ff0d5ac78fe3686750ab95e2e7f16fe530585c5fff1d70d6e8207046a8ab0955af90e30c163077bc55f6afb326d06ce87a05e2e40cdb49810996b6c21be54972c8addfa121776a87bedc1312edbaf2a144898e2d102858d0eb343eb30b848e60859e10648e5c3eb32c1ce161/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/32ecec244b716120f470fd46c9ffb798/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": 2
             },
             "type": "TV",
@@ -70,6 +70,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://wf1.biananset.net/_v7/befea3b486b5afc9310057b75f8b60934fb3e092ece556b87b07f621d3962a264ff2155f3289aef9a024a0fd65eecc7535616285d2480e9f6b4d29a21c910006685db825c4840e7583eaf8e29c515066f25c45699f017c6c65ee984fdc7164d54d043f50284c4ce3ae085e854ade9243ba25ede5286d735aa9f7c55433a94204/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d81391292fcb2ca151d6e0158a1ebf46/eng-3.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "sakamoto-days-19431?ep=132208",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/7790b27a4c14a984146cc421536e06e86316dddf389985626be2fb9f50979788091069b87594bad521fcd01dde5bce074d978cfa4f8e087d075b7040051433eb0e0cc975a29fe700f09efe404bdf4266dfbcae578fb91dc43279f023eca60a9eda1c05cb082f7c9c6d2dfa0231e80f49d48928ac778ae0572927b1da38221d2e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/01f27fe10cac7419c9609bd344a99174/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Source of Strength",
+            "episodeId": "sakamoto-days-19431?ep=132295",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/781e87e927a1c0435d5228d5fd67f4781e639a4b50bb4420fac58ba7b22b84bdade8fc20022c74b0791bbba23841fffc539425b071df7007270efd8270b15eb6799560fa34e561a4d27ee613ccebb08fa00a78e93103d1f6b8f7ce36d16c43fb9dde65af5195de108d58d2b14fa8df7ae8fab92dda28b36fa7c1528a2b418ef9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/931e309872dbe5a80e40106a62294dde/eng-2.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -82,6 +82,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Somehow I was Targeted by a CPL Kunoichi",
+            "episodeId": "im-living-with-an-otaku-neet-kunoichi-19452?ep=132213",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/5f63d855307fd05764e764a6cdcc5ec90cb4ccc9fd43e1f7dc5036c565605616b2037488f528e008c1e3eb0c6461c7fa23e9c1d2e826257346d58eca2302d29d6fa8e0deb1dd68293867206ec93024be05b24f75cff1219520e360ee64481e20f0229ac935ed83cb5d1fda4c695f08eaf4cd522db09e49fa8a31f215f6d5bfb9/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/93f53b3348aae2abedd94f601f8f120e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "For Some Reason Kunoichi Lovers Moved In",
+            "episodeId": "im-living-with-an-otaku-neet-kunoichi-19452?ep=132301",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/11f01f2af6a429a2c00f2710f773fb4554dffdcf5339f315fedbc18bae42699a9b9618e93ab73bb2a864a71ca4a686e98c703133d0c0ad54bf04b19157b93401c9315f6fa756cb6bac40c128014c439b6a36eace7d08b0d72265b0342f0c126e01a1f90134d10ba396373581ab7a88c226e3ad7acc7fa2920a0b4d82255cfa34/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/033ccb1cd2a621556ce1bfdd51778ac6/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

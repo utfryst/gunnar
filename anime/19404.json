@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 11,
+                "sub": 14,
                 "dub": null
             },
             "type": "TV",
@@ -230,6 +230,45 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ec.netmagcdn.com:2228/hls-playback/022cce7e14d8f21d2318f78824005b0ee185e202bc66029e372540ca1f36d5843dbf753b9614ac79edc4a0941497ec917533f6fb29eeb29cd1928a93b761e227d0d4ddfa28cfc813ee2e8e513a95f1a202fbf6ee03685e02c080d88b21a4449df040cb1de3d1fdf0dce1c40325701875c504254ed240a41993210ecd96c9dcbf4a44ab7aee8032ae2e2c42eff05edc44/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/896546efe29f74adafdf4612bc6004c7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Fish-Man Island`s Past! Otohime and Tiger",
+            "episodeId": "one-piece-log-fish-man-island-saga-19404?ep=132026",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1c18192bc64a4eb4368292c2bb1e15d99e699978b2808a48904ce38f70a54e15e56d59c5bd23e45be748ec9da564ba132470a1668d5274d70e9f2968f0d5bdd7e76c5fef6b37cba06583be6ccc17fc0e855265a5a1d30f6cb4647e3b0b8848096e9c6e559df25c2bf233634357e812db25b45e16967e349e395ff74632ef394d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/1f66ea4d1d00a0d6a8d29893982294a8/1f66ea4d1d00a0d6a8d29893982294a8.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 13",
+            "episodeId": "one-piece-log-fish-man-island-saga-19404?ep=132219",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/d8d98f3bb99263014abf608dae7cb478e39fa35e871c6c50fbd5d56416231b79df952f4098dd538dd4bd60266d8fbef4b5116eaa6f2664ea743e7212a94b4b1edad11abfb1a7fa14e000734f8fcd48c83aa75ce182a8660c32fdd63ac122fa1082f8d33d0a15e1e4c788bbc3332421ac9621d23760b8bf8bfa480c0edc7c2fb5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3f237ad1d01f26369c3ab154d40c156/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Tragedy of Otohime - Hody Declares War",
+            "episodeId": "one-piece-log-fish-man-island-saga-19404?ep=132309",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.jonextugundu.net/_v7/3e413af89588896d50fb5ca0b6a0fec2a4e2259ad011caf33afdea3eb37e58d9af518dce6d794e8c0901fa626ab02434127907220572b3acbf4d82314ed00b465570e3f27ad27dac5527e765fe31ffbdeea172ec61ec9baf96bd7a0932f213f4f428f43fdf20eaf0c7a0d8e2530b17d5fa0259a0c1b2473ec0388d9754bce973/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/a74d9feba9955c0a908ec0bd11974bc2/a74d9feba9955c0a908ec0bd11974bc2.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "PG",
             "quality": "HD",
             "episodes": {
-                "sub": 14,
+                "sub": 16,
                 "dub": null
             },
             "type": "TV",
@@ -282,6 +282,32 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/2a323312e0b976121c6b957f02102a8e46835a2a2ba6a916e52f6dc7f28938ffda1151440ece97fc1cac55a14c37f0d26dcb65b8128eaff4fe740d035c82370020febee047af696a203f2b67ceae02607eb72eb390f29d83a5be5953ff320f19d9017a8d9ce7d95e164e99311818bbe2853b795261506a6b4ad210cdb6b2625692d4b0aa331491d3aa64467d84febd07/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a107d069c968b6fcc4b4be3554d2ec24/a107d069c968b6fcc4b4be3554d2ec24.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Intense Face-Off in Puniland",
+            "episodeId": "punirunes-2-19381?ep=131820",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/a88a0521159c1bf51b2342787107f66995ca52849ed2b82d141d30feb24fda964010180bc666d902465c8518e0002cbf742c37a3f78b39b929a1e64e78da63660ff7798a0bc9a0acda3becb7f07b32677249e3003985017a4438bcff7d8e9f244737c20f2283e77f138d0e35cbf2479684ace917af351bce00ba89061692bfd6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e0da487271180787df436f4315c0a4d1/e0da487271180787df436f4315c0a4d1.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 16",
+            "episodeId": "punirunes-2-19381?ep=132221",
+            "number": 16,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/68c541abfd547f633a6826dbc72e4534df3555fa6b692cf8cc5eb5fc5fa47685bdc4ad80be124b46e50829d2369769833bde71973a60ebdf8a8e5feaaec18f2376c8fec737bc5fc6fe836123942872c4b913d2e38d25184f69b1c9d286eb9e9b7a7c176574732def075387aff7e4cce47c30a7228da52e771760e14364b5652b/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b5f07dda049d932f685f06efd3a42006/b5f07dda049d932f685f06efd3a42006.vtt"
                 }
             ]
         }

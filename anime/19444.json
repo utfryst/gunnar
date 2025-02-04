@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -58,6 +58,32 @@
             "number": 2,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "ubel-blatt-19444?ep=132197",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/fcda8252b5e554b8e030bad656625035b0f76312f6b8eaaa71d3545d87f291ef720424f474b165ca4a72e4cba6582d2f89f1720f658dfbfda86c45de192201da84eafc9f2316ede7d3baf7bf89d1f532cef80629aa1f7de3cc366d1be3041685fbafdd7cb94bf24b86a1ca7174c5d9267f9d30802a425cbff6472e3b7d1b2653/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/60c1c449892119ad0b389ac71ff33a3e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "ubel-blatt-19444?ep=132285",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.jonextugundu.net/_v7/e73c028372d35a0e492545c2d4b514862258e14ca60cfa6bd0012ec8fafa9cb9ab8157f5001f175d3f2f885fe5f4f9851f9e6b680da36f6433e8ecf427db76101496ef8f6479ed110e284f6d938462f0af2e7f461ef28e73a9af7d2e7f5683a900c9109d85a3148f2c2a34bd3da2ef41977831d62c11af07b9325c6311353086/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/51af90050e59b121d2e9d11c79c30160/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

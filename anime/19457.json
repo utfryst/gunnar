@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -65,6 +65,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://fds.biananset.net/_v7/86b116688f36b6acb8243fba7634171850f3b920f5ad1f690f260f1d3a51a321153d0caf9d139f247ea665684f6f756f7502039ba8ba7e51d9470cd0737186186fe2f799e9ca2d607e4f42eee44b123d835772b8fb06402c899d9a0d7b9a84bfd9ff7b19027f4d89a5e667e71f39657de28e7255c478db8bd55ba145ca50e561/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/4600446badde3424395dc7a94bc48742/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Revenge Match",
+            "episodeId": "even-given-the-worthless-appraiser-class-im-actually-the-strongest-19457?ep=132180",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/3e3cd90f16a1c0e4ba33ace8e453731766e86bc37f5cd5849086b141d7dce80d6029c6d027e927000de1207dc1b65a756f0c975168d109baf8e66aa1a76a619d8e9e955ee2577d38e5b31a4dac989ceecf1c2fd44939fc03fed3c0cac468d8b408c0e7c514167df89327fc3f3d85b3bb6f31c3ff7af9dcc9c4aa814a4b8bb9d4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/81dff81b4896bbe3694bd7fa431edabf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Searching for the Sisters",
+            "episodeId": "even-given-the-worthless-appraiser-class-im-actually-the-strongest-19457?ep=132265",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/e96fb4fc8d56dbe2418f937b486b630e310aaa03bd5fde445690de4205c0ac78bedac776bca6a82185a561ad96199e4265142f8c625f8f53cd633ea5f4a455aef672925dab6035dedf93847d9fe6ecbdb31603236311f66012ec3de80da470284580ca5df97af18a45833f1191699d059a1584016624361df3779e01b165962f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/c0bc71754897468c1570a1c7976ab08f/eng-2.vtt"
                 }
             ]
         }

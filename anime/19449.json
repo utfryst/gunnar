@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -68,6 +68,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://g4fv.biananset.net/_v7/c9d570ce48785a93714bf3e648b6b5e5ec0e7f87a0ccf5f681af0c73b35b52c20829799276cb40ebc1db54b1466ecb9d07fbaff407d4dc17c241e02c9a34de14cf7011e3b7541f95f4759bb33e449530469b638b01f02bd191af9db06c87e8bca91abfb3326088b4b18624701ccabb81b6a1abc353c5f419f4f93c574e757c0e/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/04f943dd33418c33b9cb49db34f0c828/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "welcome-to-japan-ms-elf-19449?ep=132193",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/e80e488497ca9dc3beba81acc458a05b36c16c4784100caf25432a3b483fddcb2aa3c12b2acf5806123e4682dd8e8398d43ec9f7db3956201615681c545f2d851704d56b171299bf0357f72629b26d7f71861bb59760b31dcdd6aeb4c35a00f576cf08dc61155b9acebde04b78e165d480c6f1e525d564b132dcb3e3ff907b56/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8a2d527b08f208678ddd3321e200f13f/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Good Night, Ms. Elf.",
+            "episodeId": "welcome-to-japan-ms-elf-19449?ep=132276",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/1781be17678aec96d777ca40e698699ca594a7dd493a937acb6ebddeef0f29eef21093eac6208b74556d59f0a36ecc478a332c76aa0c8e76d221e515d233b7be916a4dd6dc7f000bbaa42a0a805576fc95a8ceb7023f8438ca02cdf5713a6c4c90212abb52ff871339b4de519cb137e1dea762d7dcf0fb7d6f4154a699014cd2/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4d3441c85c56034992c0443285bde254/eng-2.vtt"
                 }
             ]
         }

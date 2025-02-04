@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 13,
+                "sub": 15,
                 "dub": null
             },
             "type": "ONA",
@@ -264,6 +264,32 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ef.netmagcdn.com:2228/hls-playback/d0a99f1979fc447c5b2a199dced8d44b4006b68adabc40a1ebb2617520ba1c4a5be83eb283b069543d00b1600d30c3e6ab4cec1e0c3f2714d372fbc4aadf70263d70765ba75e435d181327d0c412cddb28988073237d4c04999cbf7bc55c6c5c32982aaa8314f5a63e9ee36eea69f6fca971587f64d8504c92b4e0f0792160acac388dc96625cb0bffe5bf9c05e4acc4/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/fec49480e04ac89ff216752b80803c3a/fec49480e04ac89ff216752b80803c3a.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 14",
+            "episodeId": "tales-of-herding-gods-19409?ep=132066",
+            "number": 14,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/c957c55d63875dbaf99daa27ea8b1a89e849c632a13811690a2ed8fa6aac6ae633226e08789e6816ca219abcebbba771e2b21641633a049d68f04a5e0d292ac86eaa4df39289d0580573fa9bb6acecda010b7385b7601e4314d8bc3827a0e2234cacdec0525bfa5f81a6d0b94b92f7a815a43a5f784e86c1efd9093571bdd17d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/237371119aaa04ae0302635c27fe5989/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 15",
+            "episodeId": "tales-of-herding-gods-19409?ep=132322",
+            "number": 15,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.jonextugundu.net/_v7/464caf2eee97d0a8b1d3587a8d2c57099b0eea5db8376387c8263c3114db0b15d81d71d72df383c041d9238488da7399c698ab272720e3f3f0189a28c7fcdec80c669b62e408c7fcbc2fd154cd586e3da7f730d6eb15a7b9a1d7d49d0d10b24ca24145599459bcfc1e71a5f7ef326297a4f7b229f3748a2c6e20fe4eead77b3f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/99265769dbdaf22101e58e50c42431c2/99265769dbdaf22101e58e50c42431c2.vtt"
                 }
             ]
         }

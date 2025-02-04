@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -83,6 +83,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://fgh5.biananset.net/_v7/92d1234077249d86de46ae5e838fa887380cd958dfa85a4f7ed3a8bae874d80ea7f9610e436666d4688779196917063aecb5b43f63e2c124fd5e6ab29111925a8e65f364f81504415292d6fb615a8281665624af7cbc59066accdc2c8924f867a645b7ca41a9c1daea6d0e97ca1dbef620900341771e092d058f8fba4a40f8d4/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/d9aad71266ac197b68ea16c3af56ddb7/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "momentary-lily-19471?ep=132182",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c4c0e6a07fd024a1d4e5029075360cdff62f7b56c0be4dff99133ab77742b2cee9e37c96025c8805707da0f188d49217369aa04120b9dafb05ac38804f0775843bfad15c22f68afb3b3e041b645d258aba442b1c8f114dbf5c45f34cd40fff1d808e25521c1d8e144f3fa0ff5e76ef435e365b3c0a318227082b199708be8269/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/d769219703ad8efdc0dfe579617b0ad6/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "momentary-lily-19471?ep=132268",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.jonextugundu.net/_v7/e1ce1dcda0452dc396f95c5fa7d2f9e2f9cfcd6d4264bc571f5a2f053d10b2b39a4d2ed8f47dc702466624bdb92eba8af0e172ad11818bfc682d91817a878e217d0069c142ed26e3ac848c217746b970c1013196b01f9fcaeda77fae95336b0b6acd77cdbb910c655092962dc213f6fc7c23fb172055463a9f5ccd94ae01c223/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/9b0f1fa4ed531e6e854dd4031a43ea30/eng-2.vtt"
                 }
             ]
         }

@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -51,6 +51,57 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/83ff8c286c6fcd137a8913eb600b5a43/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "Those Who Defy the Cruel Moon",
+            "episodeId": "promise-of-wizard-19462?ep=131829",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/35d3764a07896910282c7da4fd4f1e756458be306ab547194170b7b72bcea7335114e9d33da2bafee7c4fe898943620ee6559c85cab3c72d2d03e330438b97fc976dbd44550390c5d4d08516df335d3f74bcf7b49e795dbb84933373c898be0ac104859689af23e3cfa699ffbc7f86d6590f7fd4b7bc48229368a496629030f5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8081ab4d7eabf034c4a1c209e2c1013b/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ed.netmagcdn.com:2228/hls-playback/35d3764a07896910282c7da4fd4f1e756458be306ab547194170b7b72bcea7335114e9d33da2bafee7c4fe898943620e88ff9a97d1491e4836aabe117c615d1efa182b1962541fc8feac80b50696d8cda645f939ddfc3f85ff3df2e6824b55a0c567212099468a121eed21cc82bda8fd160bfa30494a5842e00bdcbeb5dfb2da1c4b4f62290b41e81bfc0e99f857c76c/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8081ab4d7eabf034c4a1c209e2c1013b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "A Heartfelt Breakfast",
+            "episodeId": "promise-of-wizard-19462?ep=132062",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/7591d1025ff9dcf9d5bbcca6a287a8fe37265e2e461d3c539297d7a6b68ac43f57239e1510125a1f1f2332ebfad56ebe562026c7f8aae05a706a77e4e358275844ad0d089b4d2678417e9d6253b4b4defdde148332c5b226bdb1204198e67c761b6ac3a1007c0a973311a3a6593c36cc3d32f57514c54d638714a967c9d7e99d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b3d89c26a7fa4cf689f8085f3ae26661/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "promise-of-wizard-19462?ep=132241",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.jonextugundu.net/_v7/12facb192cc666968ceb205f74021ee5346a3d2cc84d184f236cb1973c8e89f57d2464bfe14c204a33654d5c57c0687ce8575d9db6066891e60e0ef19f1dd49f5c3b4e59678b207f7a7c7d76b3522093650be9ddd164bb3e277228729998f525740b314b252c7a07839531f86a4945d1a4e24b3c6c2cc14c570fa8c8c6590d4d/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/64cc5ea1ea8b86d59848cf841c4f837a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "promise-of-wizard-19462?ep=132356",
+            "number": 5,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

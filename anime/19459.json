@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -49,6 +49,50 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://mmd.biananset.net/_v7/b5701a62bcb257fbfd9503a2182b57793ec74f674d175d4b1af5549f9ebdcb151af1d6a187feec6aa877e22f2b41eae71ba43b9307333ff93fb2fd237c5a37909511016b4be3f409418af4878dc7dc86be579d096e51b94ad48b9b3a88775604a8654d28616a2728aff4367913524844a37aafe9fd805cedee3ef961a281f772/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a593e0d5a6cb5f944ca52095c50583b2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Interest and Talent",
+            "episodeId": "flower-and-asura-19459?ep=131894",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/17804e5402c3e97f1771e580595223fc32b9cd955b35527c519d578a522a4e132522d42c7aca2cd0613c63b5f87380ef2a1de29d72feb1e7d993c9a32b57977d2af887b0d4c7ac5f0f8db8529b9f6bc1164edab5700f2ebaf5b78341a0fdcd22e3a02289cb37f89a58fe82f273dc28331092d56fc1358871b7f1584dadfb72be/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/91087c0ac64732f56e184c70ca9e6d6e/eng-2.vtt"
+                },
+                {
+                    "serverName": "hd-2",
+                    "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/17804e5402c3e97f1771e580595223fc32b9cd955b35527c519d578a522a4e132522d42c7aca2cd0613c63b5f87380ef41909c6974b379b6b16e9aa2c5629f148518825a9ffcf107d4df97d2e97df78a8cd8e84b22e4f250a5e6037beeafd69279186f90470cb49d022edfc86dfe5c08f4645b3a54daa3515c95ca0a3b879090f3a5b802a713380af8c6afc4c7745275/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/91087c0ac64732f56e184c70ca9e6d6e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "flower-and-asura-19459?ep=132121",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.biananset.net/_v7/7fa438ac05fb715b881cff4fbe17b64d2b3f0f2e2ab64e2575f19ff6af85fa6f01fef8ff5b23ac4b148377a774d2f6a4e6d1ef7016d8b3aded501c6eef35958e94d69ba39044cd47f069071d0d5b93ca7acda40388b48708257704095ca7c1ce54ff559ad7cc46484016292b4ce61b7a99728e427254a283adbe00f0aa8146bc/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/65024e8e6e0328eb9cb7b94fa7f48b81/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "flower-and-asura-19459?ep=132252",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fgh5.jonextugundu.net/_v7/d5cf4376f4b86a2dfd0160862992317cb2173e5cc286633d7c553984b3ed6ad8d715e9c58f00d1dca8a7cd9a586b7d1a065538cbe01e21a4eaa7be0c210d6dacd0ad386ebacdba3a257f5b941b65734a0901c0de0ec0dc126dc7433943b43feade4146c03cb03626187781802e8245f1b282917b0181c91c73b2cb8603706fe4/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/89fad60f2f75bca73c6c6bc6dc7638f7/eng-2.vtt"
                 }
             ]
         }

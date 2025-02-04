@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -68,6 +68,45 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://ee.netmagcdn.com:2228/hls-playback/780282fe20804fdb74e8cff214163796bfba278d2e876b2217f7df591c87824eb1831e69a7475394f6ad5fb130e50afe6868e63b4bc7d961889b4ed5ede5daa07f17b896c057a9b6b306d7bc5b07f5a66014c70a251c9f191b2f4bbbc0eda9cb68ab8e4d45d49da44961dd67132a0c5317a4a31fe9ee8542bd4428730e18314c22940c97dd792ba02a5abe4d0e35f7c3/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/64d5d5ba9039a08f9eb369320b03df29/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Tonight is Special",
+            "episodeId": "can-you-keep-a-secret-19443?ep=132061",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/a88e35d89012d8db1004b94dc55a5a0e71291396226545e88ef07d3b71b3fc0d97c994a8f4f7bed42a83587ff4cecae8e94bf5374d3e882e7f5b5625492b8060d89002db0d772850881c7264fdc7c61a0e36a22f689984f1e99e862135e597b4b91e3b0f1784577e7d0014f94367dc020d07b9d43242eeb61fd87b6636586f17/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cc198eff1a206a42daa4fa128e0d08c2/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Restless and Anxious",
+            "episodeId": "can-you-keep-a-secret-19443?ep=132240",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/0a57fd9444fed94f33c99325ca884215b0c0f91c4b4c73eeb40d8626d99f834bf46a2375eb92dec2f3e66e2dc0d5f23692a095c7498e44da70f9312038368b840bef954a0461ebb8ba62083962097f8a893d8812798f4d5fdc41fbe8d29c721a1336d33772eaff5cd5bd07f1ee7531463b28915f95cc6a05a6d2ceb92580d532/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/413847c1569e00bec69e7a131e1d1b06/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The First Trip",
+            "episodeId": "can-you-keep-a-secret-19443?ep=132355",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.jonextugundu.net/_v7/180e279182a7c1b8526b8b459822a774219ce6eb84ad194c4b4edbd55b2326c9f32ec93fc6b8da2abc894fa19c8271047f0e6a307e5860cdc785a83925724bf787c7a99b7c9479f4c63a5ea50f6a147f5ee1612f59726507b75487b922056c6e5e4fd0f9531069b68f9475d3ecf1ffe140c880f394ccef62b0ae8274321431b6/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/257131b955a4e90b3bcf6bdc83fc4360/eng-2.vtt"
                 }
             ]
         }

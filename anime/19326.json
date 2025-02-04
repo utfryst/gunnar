@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 16,
+                "sub": 17,
                 "dub": null
             },
             "type": "TV",
@@ -312,6 +312,19 @@
             "number": 16,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Of Course I Want to See It",
+            "episodeId": "blue-box-19326?ep=132201",
+            "number": 17,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.biananset.net/_v7/1ea826476950724c60b246a8c19b4ea5f61f1dbad99372708921c88c4c1f129b1a0d7ff3c9379c806574b555b2e4bbfe86bb54d4604387818c15e229597341dc9f950d8c745dc115283711a634c0715e683dbc10ff3e3a881b8658760b51616d35d78a9f03be96d6bf744dc6460bf5eab0326b803ede6e113da0edb735c436a5/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3307a7e79bb69ae1d10af47e89f95150/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

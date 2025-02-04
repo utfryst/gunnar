@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": 1
             },
             "type": "TV",
@@ -68,6 +68,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://vd2.biananset.net/_v7/3770d1f9413bf08d7b71f1f56f99830ed133a394730288524e27f4b508b48f1eecc2763f4ac17a94aaa56701f14dca0a2e1aeb51c442dfc86a52b0615af8b796b83dcbfacd7f9117d3e72135825b0bae5ff80ae8ff98a2fc3e27aa4af1daec5e408920808a546a44663417b35256482016502cc3c16c9b4567597329c2ed6483/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6cc6dbf6aa5774b41441a2346bc6499e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Light Trap in the Darkness",
+            "episodeId": "dr-stone-science-future-19430?ep=132179",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/8125f992c8e5f51c9bac9c9f05c1de7de174fa3e1d3daa785c6c1d027d193cfbda0e5a74a59ee70c65acda519b72ee8b2a796e48d0cfa1c95c56f25edba0f526b836477c50767d41c6d24fff6f13ec6d034f1b4d4d58c1623671e079d3946e67143f30931484ca055b1f2a332109190b3fa56d7cea16684f8b7be1375b5e7b22/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/6e5d2bf3ee10c741331a527b1aa84292/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Dr. X",
+            "episodeId": "dr-stone-science-future-19430?ep=132264",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.jonextugundu.net/_v7/77208908cd0b383ab42088b5352b11489442f1bdcdc61837d3ffc25c6fd2e2fb6dc23a0ebfb79f07b2957fddebfdeb64be656fe99a80b19d803b4dc7fafc5985e886b6623d65f4c7e4e40fc673a1770c56ab95c0aa893addad91b093a49554633084351d68dab62650d11cb5396fbbb8fbfc994d4964c717302fe2461f726733/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/647ba062fba47132fb23bef8fa40ea42/eng-2.vtt"
                 }
             ]
         }

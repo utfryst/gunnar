@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -67,6 +67,32 @@
                     "serverName": "hd-2",
                     "streamingLink": "https://eh.netmagcdn.com:2228/hls-playback/529141f4c5340420be07248938daeea00ab277d263f1f92670421c8178a257e3834a35be0ec07539c24461fddad7dab440cb955ad6274655579f1e66a9aa39d5085cebbfbd18cb64ed50b8d9c3fc391df40cfd98420708b2f013de86f52bff8b666bb4b0e553000f3a32ab0a0fd976c257d601d088a01bf752dbf11fe8886bab04c3f7305168f5e1206c39dc6682bdc4/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/1c749e5f79524978e4d5c6f5982e1d27/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "unnamed-memory-season-2-19440?ep=132119",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/30b1d3401cd41c31deb16a62dc65634516b3a278f3466945962e1a14dab87b8d84396c752a420e1d244123d42e54330d5bf0a22a62b3ad15fa8904b1b712aed69a11a27a0a0c2b01324cb2a0b01e83f0306dc9c98e4997fe45664657f9f2d018810baadf0dd3ef4b9b9687e62ce02f640cb7774b51b64e5a5f36fc441f3af8ca/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/90a9ccd9074938a628cc6d98ffdb7dbf/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "unnamed-memory-season-2-19440?ep=132250",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/ceed0cc4773fcf505dfc6e4fc38ab00e85a14511f4a8b1358a3d017b3f23548c7fd08198e70e229890ac7c212f9ebd304608fafd0284150bfa1c9ea97803a35acda3f710399076180be3b01cc01103aa23d9232e1789486d79cd6b0084a15d562bdd165efd840db0f1b27df45cf319388a59bb6fd55eac57ce094adb98ead8f1/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/ea893ceae3eda63f2dc10a66f339167e/eng-2.vtt"
                 }
             ]
         }

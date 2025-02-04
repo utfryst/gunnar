@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 1,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -50,6 +50,45 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://w2r.biananset.net/_v7/9cc7d810204643b7fe0aca4de1431ca60e247d3ae0a4208aa29c6c93c6fd040a38a31f69a091d7df8e7baac32a7c0cfd5b9bdbee37e458323974d5dcb2449b03c3cddc49490e927335d204f35d2efc69def6637e97d21b3a2af7274649130b0177b76c664f20d67a6de6fe2e6ff23cbcc8b9fcae220a06d23e5f5e6da96c5365/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/392addf57b62c9db8aeeb18e3aabe953/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "I'll Be By Your Side",
+            "episodeId": "anyway-im-falling-in-love-with-you-19461?ep=131938",
+            "number": 2,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/91fe31cb1e909607d64c0c651e5c976a8ec81fb1692204d234582878d1c14af97f7accb95f500f3735b6228608a448971e4ee1c3af91b34155b12fedf0641466f64e7bea9ae5a1845c78b7856fc00a210f1db0e23cb02db57a8cdb5a2fd62561c352fd231d4f6588ff20e0056c8ef144a65c5cd61575ba6ec3d28a1065dbc9d0/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/42ac44bc6b1317179f67bca80f41221a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "anyway-im-falling-in-love-with-you-19461?ep=132186",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/5bb516ddd146dc3f343d9027841af96c68b4cf3c8e9da2d027be0f8433993477439dbc51a6909a3282a88e477397e0b1e6eb0a429fa84588b67ec72757b70b33ca24dc61b8c6ef82f256e41eca290a90a952922f960bdf5039806bd3f9298a4cb00b2f6b57b9374654917c1fc0f98a2f55c1d22952b1e499963bf7a6a2efafff/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/8534aa1aa65ccba03997fa8961cb580b/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 4",
+            "episodeId": "anyway-im-falling-in-love-with-you-19461?ep=132271",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/dbadc724a9c066d7c7eb6e93326226f08c16202da5a6d9e1400109b3419d61df3f7c6dc2472c6f9be6444b8fdcd82979f414edbde2de30803d049b50b1df4b33dc1358e95ff2f5c5c3e6eaa86226631935e7a6f298a463218f0b35eaec7b127945e74b593aaebb94d220ad8cc84f41d1258be3e26db2fc50d270a7c4a5c0334e/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/effa01da1549d61f712ce606acc6df17/eng-2.vtt"
                 }
             ]
         }

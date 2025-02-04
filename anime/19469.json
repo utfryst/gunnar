@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": 1
             },
             "type": "TV",
@@ -65,6 +65,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://fds.biananset.net/_v7/835c4189823f51452b843cc31268c50d5a5d0abede8a776b3c504765328fe9c34a5d2cc2918196a67b01eb80bf326ca530b1167cd9518fd1e39139162fd555327b0e97d918b5e50e5753f69dd1109282a35d80484105e8b1a65defe601d9bf18b6fe1d374ec9a2e7d82049b58d8064521373aa00a85892874d17f405fb41e893/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/c7dd2f75fa323d2ca55d7e25880c87b9/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Goblin Attack",
+            "episodeId": "magic-maker-how-to-make-magic-in-another-world-19469?ep=132165",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.biananset.net/_v7/d7c73dab53365e0bb67a72a974ed77c9c3a2e6af902e84dba8362410f10f3299167a6001d9ac7693ce52e9e59a0361d494497ae813d65675df827975aca423d64fcbfc89ad2702cfc05cf904ef8e97db43b26178aa9276c386d925e9ac4c245a968727bd1000c2810edffc360fb2a6bb7c24c40c60aa373842818a3f51083f99/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/cb503683975770b0c70a61be676bbc90/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Magical Research Begins in Earnest",
+            "episodeId": "magic-maker-how-to-make-magic-in-another-world-19469?ep=132258",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://fds.jonextugundu.net/_v7/37220b29ce647eb3461b5208088ddb51d2da88086b50a952f58facf953daefc9d2054bbd2d4e6e51c130206db345d0b558ca8427ceba7a7d70cf011d014e12689159fe09a3d2c74776b202a41020afbba023fa70331468d0a99f5d53f7e2004a274b0e914afac2c2de23b2035184bfe3f6b6c3d48f467a7bed0dcceec55f6005/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/82a2ee2a6c178a8f48bf60850939c7ad/eng-2.vtt"
                 }
             ]
         }

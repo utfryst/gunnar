@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 4,
+                "sub": 6,
                 "dub": null
             },
             "type": "ONA",
@@ -102,6 +102,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://g4fv.biananset.net/_v7/f902b10ee6caa712730b46057d5695350ee18d4be780ae27b5aabcda19c35842d7221fff2a9fd84e1cd25317c1bcaa497f720e7dc52c27c23802458b59dde3753f4ce495f7a9eafd25c585d8f25fc5f874c43c8f2e0171fdc1a7bc74a725c59456fc98b1d80bd3b03b1c8fc5b75f53d38622c2a2a3e77e54e98fb021ce52d22c/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/a219e8a2427dce761b11577373347a26/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 5",
+            "episodeId": "link-click-bridon-arc-19500?ep=132190",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/7259b8af8ee81faed2127abaaf7cdcbc3d918444930a72fa05a49b5a3313ae2d3f61910497419fec39c94b7b32128e04332cdaa24b03355c7e8e29384ad01a0756e7982e8084dedbcac09439f4551a530dd2287576313be0213510e7166540ad7baf01a298606e24201de3d1db827b4767a185b9df44060eb8e6f071608e7703/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/4bb7431c643c573433305ab3af384bc3/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Episode 6",
+            "episodeId": "link-click-bridon-arc-19500?ep=132275",
+            "number": 6,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.jonextugundu.net/_v7/d20c60d96eaebd14afafe0362481370a9d587823bde5eaed91c53d86248fbd789158e57ecf0b1c0c922f6befe5e6ba4434ff38d8075cfe7932087781b1c91702fdac7ad3ab01785d76af60ac4b057b6912fe9054eab589b35238399dd61f5edf1b8562cc9c87345f075d2a2fa1256c0484c36f2d80e18d55cda1b883b0d32dfd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/486ff25f84bc455ee8067d061dba0d4a/486ff25f84bc455ee8067d061dba0d4a.vtt"
                 }
             ]
         }

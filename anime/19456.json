@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -84,6 +84,32 @@
                     "serverName": "hd-1",
                     "streamingLink": "https://vd2.biananset.net/_v7/79296cec6e80b27aca83ea5527d3cc03bb6869702d341ce9c43adb8205d566d823c28622564af6f32edcfbfa5416c7bba21f4f5a13c99b31f3349e90f8a1076be88f394f948e0fd1e9ddf62a518a1749e089bf36d1ce58ad681f5817f6caeba136e9d488b905c9e41fdc47790e65ac9c49910d6a58d58ff1e8f84942ecc80d1d/master.m3u8",
                     "englishSubtitle": "https://s.megastatics.com/subtitle/9998682cca6756f876c06717178198de/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Spontanenous Human Combustion",
+            "episodeId": "ameku-md-doctor-detective-19456?ep=132166",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://wf1.biananset.net/_v7/c6c0019f3958f5cf643537848d7b17a1d16669dbad420c7ea040a43b5f0745e5df284bf1163dfa5993ddf72e7c9fe4a8ec3567644b871ff73092e25331b01e22f5164f898f61e600aa49e4138185b52b9c895712ddf50a1502d3bce8cb9390f410622811e3283fb099d558084ef96f21dcbdc4744db9dbb19546ae8a59b88461/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/5c6ae602752e902c8cf31ab5fd57796e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Crimson Curse of the Sorcerer",
+            "episodeId": "ameku-md-doctor-detective-19456?ep=132259",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://w2r.jonextugundu.net/_v7/b4717753a0239bd7cd57ede506f41429aae5ce74a0c0ebd23f9fa92d4c1e74c34019849cd7d8462ac816748925d4428f46780169b0d1d659efa55839fe15ce8c3824e1cabc832bbe514d343a0d230069c53833c7c244ac2b5971cc612ba661c8fc4e667d05704904958c224c00e335128a2054c33a5c97d8fbb3e057435cedd8/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/80e5f704c15791e97b498b78fb2c9c7e/eng-2.vtt"
                 }
             ]
         }

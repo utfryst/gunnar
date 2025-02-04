@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 4,
                 "dub": null
             },
             "type": "TV",
@@ -58,6 +58,32 @@
             "number": 2,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Episode 3",
+            "episodeId": "babanbabanban-vampire-19466?ep=132210",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://vd2.biananset.net/_v7/9a3f0f06f868babcda18e8516e30e639c81052066bdbe7c772e153da498a2a9204616c783d6ac197f7f6be9dcc3da38ab4edddf7f36f20983892df36e90bff7f43d23e790b112e36151babceae420e448be710990e189f33b4e69f4372c062e1ad4d0c425b2ee14876bd1ffd79188b9d97ae79d4bac506b64d70e008e74966da/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/dcbde476c2e71edf47f97cc378dd068e/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Vampire`s Slumber Party",
+            "episodeId": "babanbabanban-vampire-19466?ep=132297",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.jonextugundu.net/_v7/40fcf287bc8d569c7a4c25c45983ff8781a370073cd9c010fa2f3d0c1c794cf498e3e1dd25332ab3d705f77c63dedc9a65dc9b35b66d8e9ba75bb090d28db4705c6c890d10d6e8e0b8f451a4492e8d53cdd1e8804c4af4acafb3fbe8553119deee6e16c7bb105944f207af669bdb9f6d8171e3f3b61406f3533cf4c69e835817/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/7834a052c9b686281e5538a3332ae1de/eng-2.vtt"
+                }
+            ]
         }
     ]
 }

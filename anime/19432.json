@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 2,
+                "sub": 5,
                 "dub": 1
             },
             "type": "TV",
@@ -76,6 +76,39 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/68c37d37e3c263d332a4e26f1cfb3f4e/eng-4.vtt"
                 }
             ]
+        },
+        {
+            "title": "The Gifted Communion and Demons",
+            "episodeId": "my-happy-marriage-season-2-19432?ep=132060",
+            "number": 3,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.biananset.net/_v7/c8f42133181b183f851c712245eac89167a8e90ffbd7d9ba92635029a98dff66fa37a9092f07c09e4d95ab194abeaca75617688161ddbba0476e6603bc4420cae1bb8863242782134b083b0cdfe564f1349a2c28df9f37e2fafe5cb8b92f2ad695fb24f3ddad770d0eefb794783dba67a2069a1ec570827518d0f01af73945df/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/b32c2ae55b793ea1caef087bee52f604/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "What the Autumn Breeze Brought",
+            "episodeId": "my-happy-marriage-season-2-19432?ep=132239",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://g4fv.jonextugundu.net/_v7/e4af553a13321f7f4c6dfd25c8116ce0a59b1eecf94db7b4ff48729cf5dae61fe1f5f1c1b693c1a111477f4a538dc9f1cadaaa5176aca1ca70d3eeb63d25c8d91389d750937353831f276be1d4b230a8be9c6085c589ea6db085a69ffcde0cf41b63b1ee3910aa57cbb08b51727c2b8d5a5fbd9a7a429b45ac28111f13fd932a/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/e84053fcc1cca5f87a4c05f6a560ad13/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Deep Within the Heart",
+            "episodeId": "my-happy-marriage-season-2-19432?ep=132354",
+            "number": 5,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

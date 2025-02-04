@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 11,
+                "sub": 14,
                 "dub": 9
             },
             "type": "TV",
@@ -235,6 +235,39 @@
                     "englishSubtitle": "https://s.megastatics.com/subtitle/6eeea4ee8aa691e61c117b017453452b/eng-2.vtt"
                 }
             ]
+        },
+        {
+            "title": "True Heart",
+            "episodeId": "arifureta-from-commonplace-to-worlds-strongest-season-3-19321?ep=132064",
+            "number": 12,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://gg3.biananset.net/_v7/870b4a1b8b36d8d98e98e352ec4e205bac01d69726a90f14644fcb02fa37002e931f7b71085a88c39b261e102780431ed02c8c6a69a7b26b961be17110632eacc0ab0c2129ee25428c51adc94e18a39370de2df94460ed1183dedffbc1649ca23f9e090b64063bf6d442fc2adda12f6bebf6a1093c38ed82388df5397bfcf504/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/3e01ea568007a55d7a55dc54c5aea211/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "Thank God She's Still a Pervert!",
+            "episodeId": "arifureta-from-commonplace-to-worlds-strongest-season-3-19321?ep=132243",
+            "number": 13,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.jonextugundu.net/_v7/43dc036a5718c22c63c6bb70c1ec63b47b84c88a9267f3d720dbf5461ed5b50a0855fbd4a51909cd31257a5c5efc2bc834e7f9624ec313b8012f6394c8f663f7186fea24fff47aa35008fa086d365c89787db9c48493c9c0bfe30d96df234cdbb8499958211204b773f0742a2af709ec26d7116c5ae6e68b0774bc1e953d79cd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/da7104e9e8f61748d92739dbf766483a/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "The Overpowered Vampire Princess and the Godlike Rabbit's Grand Battle",
+            "episodeId": "arifureta-from-commonplace-to-worlds-strongest-season-3-19321?ep=132359",
+            "number": 14,
+            "isFiller": false,
+            "servers": []
         }
     ]
 }

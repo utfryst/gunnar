@@ -10,7 +10,7 @@
             "rating": "PG-13",
             "quality": "HD",
             "episodes": {
-                "sub": 3,
+                "sub": 5,
                 "dub": null
             },
             "type": "TV",
@@ -82,6 +82,32 @@
             "number": 3,
             "isFiller": false,
             "servers": []
+        },
+        {
+            "title": "Satan Awakening",
+            "episodeId": "blue-exorcist-the-blue-night-saga-19504?ep=132216",
+            "number": 4,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://tt57.biananset.net/_v7/684ae8c19b36297cdff85ff7a210263bb1b9d4ecc98b9dd1aaed8a299e17ef6a5ff972620846566aeeb9971688e0e3fb723c68117db89512a3e9066d4ace92146b397a419d24daf782ed600b8098075ccd425a69eebd7f40bba26fd19c5efbba84ec8cdd74d7d835c2d3e3acbb6d7dae9939ee6fb1d45ed9e5a11000d628bf2f/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/bca8d580816cd25dab0218cda08d7abc/eng-2.vtt"
+                }
+            ]
+        },
+        {
+            "title": "More Important Than the Body",
+            "episodeId": "blue-exorcist-the-blue-night-saga-19504?ep=132303",
+            "number": 5,
+            "isFiller": false,
+            "servers": [
+                {
+                    "serverName": "hd-1",
+                    "streamingLink": "https://mmd.jonextugundu.net/_v7/1a89f275e891bd5716261eb39064bce87bb6072357d8d0f76d4d8ab514a0dc113cdfb39d509d4a6c29a575f669fff757ba8057c579794fd5bfe05bf162d3909052bea52173e84bfcf785c20bb25d7f98c67a200682becf8263c133be512a9a5774761492e8852b0a22b827ac7f413a11fed51095c9052e1309b75f56bc94d3bd/master.m3u8",
+                    "englishSubtitle": "https://s.megastatics.com/subtitle/fe9449b6ea681266ed0e3843b3beb9aa/eng-2.vtt"
+                }
+            ]
         }
     ]
 }
